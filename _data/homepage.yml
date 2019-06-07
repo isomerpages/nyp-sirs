@@ -15,11 +15,10 @@ hero-title: Singapore Institute of Retail Studies
 hero-subtitle: 
 hero-banner: /images/hero-banner.png
 
-<!-- #Call to Action Button
+#Call to Action Button
 button:
   - text: Learn More
     url: /alibaba-business-school/alibaba-ceo-master-programme/
-    -->
 
 # Google analytics
 google-analytics: 
