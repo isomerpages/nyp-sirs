@@ -5,21 +5,24 @@
 ##################################
 
 # Favicon
-favicon: /images/favicon-isomer.ico
+favicon: /images/sirs-favicon.ico
 
 # Agency logo
-agency-logo: /images/isomer-logo.svg
+agency-logo: /images/sirs-logo.png
 
 # Hero Banner
-hero-title: NYP SIRS
-hero-subtitle: Go Places with the Right Digital Skills
+hero-title: Singapore Institute of Retail Studies
+hero-subtitle: 
 hero-banner: /images/hero-banner.png
 
 #Call to Action Button
 button:
   - text: Learn More
     url: /alibaba-business-school/alibaba-ceo-master-programme/
-    
+
+# Google analytics
+google-analytics: 
+
 key-highlights:
   - title: Highlight A
     description: Important highlight A is important
@@ -30,6 +33,9 @@ key-highlights:
     url: https://yahoo.com
     external: true
   - title: Page A
+    description: Page A is important too
+    url: /alibaba-business-school/alibaba-ceo-master-programme/
+  - title: Page C
     description: Page A is important too
     url: /alibaba-business-school/alibaba-ceo-master-programme/
 
