@@ -1,19 +1,16 @@
 ---
 layout: leftnav-page-content
-title: Alibaba Ceo Master Programme
+title: Alibaba CEO Master Programme
 permalink: /alibaba-business-school/alibaba-ceo-master-programme/
-breadcrumb: Alibaba Ceo Master Programme
+breadcrumb: Alibaba CEO Master Programme
 collection_name: alibaba-business-school
 ---
-## Alibaba Business School - SIRS
-### CEO Master Programme
-#### (6D5N Study Trip - Hangzhou)
+<div style="text-align:center;"><h3>Alibaba Business School - SIRS</h3><br>
+CEO Master Programme<br>
+(6D5N Study Trip - Hangzhou)<br><br>
 
-## 阿里巴巴商学院与新加坡零售管理学院
-### 高级总裁班 – 升级版
-#### (6天5夜考察之旅 - 杭州)
+<h3>阿里巴巴商学院与新加坡零售管理学院</h3><br>
+高级总裁班 – 升级版<br>
+(6天5夜考察之旅 - 杭州)</div>
 
-## 2019 Intake: 18 - 23 August 
-
-![AGCS ABS SIRS ATU Combined Logo](/images/agcs-abs-sirs-atu-combined-logos.png)
-
+<img src="/images/agcs-abs-sirs-atu-combined-logos.png">
