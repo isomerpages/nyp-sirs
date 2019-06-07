@@ -4,41 +4,21 @@
 #                                #
 ##################################
 
-- title: Alibaba Business School
-  url: /alibaba-business-school/alibaba-ceo-master-programme/
+- title: About SIRS
+  url: /about-us/who-we-are/
   sub-links:
-  - title: Alibaba Ceo Master Programme
-    url: /alibaba-business-school/alibaba-ceo-master-programme/
-  - title: Alibaba Ceo Programme
-    url: /alibaba-business-school/alibaba-ceo-programme/
-  - title: Alibaba Content Marketing Programme
-    url: /alibaba-business-school/alibaba-content-marketing-programme/
-  - title: Managerial Elite Programme
-    url: /alibaba-business-school/managerial-elite-programme/
-  - title: Entrepreneur Startup Programme
-    url: /alibaba-business-school/entrepreneur-startup-programme/
-- title: Courses
+  - title: Who We Are
+    url: /about-us/who-we-are/
+- title: Services
   url: /masterclass-and-workshop/digital-marketing/work-learn-bootcamp/
   sub-links:
-  - title: Digital Marketing
+  - title: Courses
     url: /masterclass-and-workshop/digital-marketing/work-learn-bootcamp/
-  - title: Skillsfuture Series
+  - title: Career Services
     url: /masterclass-and-workshop/skillsfuture-series/
-  - title: Skillsfuture For Digital Workplace
+  - title: Consultancy Services
     url: /masterclass-and-workshop/skillsfuture-for-digital-workplace/
-  - title: Differentiate And Drive Growth With Experience Innovation
-    url: /masterclass-and-workshop/differentiate-and-drive-growth-with-experience-innovation/
-  - title: New Mindset For Marvellous Experience Through Brixplay
-    url: /masterclass-and-workshop/new-mindset-for-marvellous-experience-through-brixplay/
-  - title: Create Value To Drive Fantabulous Outcome Through Brixplay
-    url: /masterclass-and-workshop/create-value-to-drive-fantabulous-outcome-through-brixplay/
-  - title: Ecommerce Operations
-    url: /masterclass-and-workshop/ecommerce-operations/
-  - title: Omni Commerce Retail
-    url: /masterclass-and-workshop/omni-commerce-retail/
-  - title: Vote For The Next Masterclass
-    url: /masterclass-and-workshop/vote-for-the-next-masterclass/
-- title: Entrepreneurship
+- title: Funding Schemes
   url: /become-an-entrepreneur/set-up-an-online-business/
   sub-links:
   - title: Set Up An Online Business
@@ -59,7 +39,7 @@
     url: /become-an-entrepreneur/for-shopee-sellers/
   - title: Alibaba Business School Sirs Entrepreneur Startup
     url: /become-an-entrepreneur/alibaba-business-school-sirs-entrepreneur-startup/
-- title: Advisory
+- title: Media
   url: /funding-and-advisory/singtel-99-sme/
   sub-links:
   - title: Singtel 99 Sme
@@ -78,7 +58,7 @@
     url: /funding-and-advisory/productivity-and-innovation-credit/
   - title: Digital Professional
     url: /funding-and-advisory/digital-professional/
-- title: Success & Blog
+- title: Blog
   url: /success-stories/activhealth-pte-ltd/
   sub-links:
   - title: Activhealth Pte Ltd
