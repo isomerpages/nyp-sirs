@@ -21,30 +21,27 @@
     url: /about-us/faqs/
   - title: Contact Us
     url: /contact-us
-- title: Services
+    
+- title: Courses
   url: /masterclass-and-workshop/digital-marketing/work-learn-bootcamp/
+    
+- title: Career Services
+  url: /career-services/career-services-centre/
   sub-links:
-  - title: Courses
-    url: /masterclass-and-workshop/digital-marketing/work-learn-bootcamp/
-  - title: Career Services
-    url: /career-services/career-services-centre/
-      sub-links:
-      - title: Career Services Centre
-        url: /career-services/career-services-centre/
-      sub-links:
-      - title: SkillsFuture Professional Conversion Programme for Digital Professionals
-        url: /career-services/skillsfuture-professional-conversion-programme-for-digital-professionals/
-      sub-links:
-      - title: SkillsFuture Earn and Learn Programme
-        url: /career-services/skillsfuture-earn-and-learn-programme/
-      sub-links:
-      - title: SkillsFuture Work-Learn Bootcamp
-        url: /career-services/skillsfuture-work-learn-bootcamp/
-      sub-links:
-      - title: Career Guidance and Job Placement Services
-        url: /career-services/career-guidance-and-job-placement-services/
-  - title: Consultancy Services
-    url: /masterclass-and-workshop/skillsfuture-for-digital-workplace/
+    - title: Career Services Centre
+      url: /career-services/career-services-centre/
+    - title: SkillsFuture Professional Conversion Programme for Digital Professionals
+      url: /career-services/skillsfuture-professional-conversion-programme-for-digital-professionals/
+    - title: SkillsFuture Earn and Learn Programme
+      url: /career-services/skillsfuture-earn-and-learn-programme/
+    - title: SkillsFuture Work-Learn Bootcamp
+      url: /career-services/skillsfuture-work-learn-bootcamp/
+    - title: Career Guidance and Job Placement Services
+      url: /career-services/career-guidance-and-job-placement-services/
+      
+- title: Consultancy Services
+  url: /masterclass-and-workshop/skillsfuture-for-digital-workplace/
+  
 - title: Funding Schemes
   url: /become-an-entrepreneur/set-up-an-online-business/
   sub-links:
@@ -57,20 +54,22 @@
   - title: For Carousell Sellers
     url: /become-an-entrepreneur/for-carousell-sellers/
   - title: For Ebay Sellers
-    url: /become-an-entrepreneur/for-ebay-sellers/
+    url: /become-an-azaentrepreneur/for-ebay-sellers/
   - title: For Lazada Sellers
-    url: /become-an-entrepreneur/for-lazada-sellers/
+    url: /become-an-entrepreneur/for-lda-sellers/
   - title: For Qoo10 Sellers
     url: /become-an-entrepreneur/for-qoo10-sellers/
   - title: For Shopee Sellers
     url: /become-an-entrepreneur/for-shopee-sellers/
   - title: Alibaba Business School Sirs Entrepreneur Startup
     url: /become-an-entrepreneur/alibaba-business-school-sirs-entrepreneur-startup/
+    
 - title: Media
   url: /media/press-release/
   sub-links:
   - title: Press Release
     url: /media/press-release/
+    
 - title: Blog
   url: /success-stories/activhealth-pte-ltd/
   sub-links:
