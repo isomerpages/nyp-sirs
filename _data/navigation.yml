@@ -9,6 +9,18 @@
   sub-links:
   - title: Who We Are
     url: /about-us/who-we-are/
+  - title: Success Stories
+    url: /about-us/success-stories/
+  - title: Our Team
+    url: /about-us/our-team/
+  - title: Our Facilities
+    url: /about-us/our-facilities/
+  - title: Our Trainers
+    url: /about-us/our-trainers/
+  - title: FAQs
+    url: /about-us/faqs/
+  - title: Contact Us
+    url: /contact-us
 - title: Services
   url: /masterclass-and-workshop/digital-marketing/work-learn-bootcamp/
   sub-links:
