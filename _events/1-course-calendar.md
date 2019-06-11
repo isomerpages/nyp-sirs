@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Course Calendar
-permalink: /calendar/course-calendar/
+permalink: /events/course-calendar/
 breadcrumb: Course Calendar
-collection_name: calendar
+collection_name: events
 ---
