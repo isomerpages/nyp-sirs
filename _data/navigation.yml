@@ -18,12 +18,12 @@
   - title: Our Trainers
     url: /about-us/our-trainers/
   - title: FAQs
-    url: /about-us/faqs/
+    url: /faq/
   - title: Contact Us
     url: /contact-us
     
 - title: Courses
-  url: /masterclass-and-workshop/digital-marketing/work-learn-bootcamp/
+  url: /courses/overview/
     
 - title: Career Services
   url: /career-services/career-services-centre/
@@ -40,10 +40,10 @@
       url: /career-services/career-guidance-and-job-placement-services/
       
 - title: Consultancy
-  url: /masterclass-and-workshop/skillsfuture-for-digital-workplace/
+  url: /consultancy/
   
 - title: Funding
-  url: /become-an-entrepreneur/set-up-an-online-business/
+  url: /funding-and-advisory/
     
 - title: Blog
   url: /blog/
