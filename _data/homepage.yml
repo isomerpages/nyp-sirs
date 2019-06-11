@@ -13,31 +13,10 @@ agency-logo: /images/sirs-logo.png
 # Hero Banner
 hero-title: Singapore Institute of Retail Studies
 hero-subtitle: 
-hero-banner: /images/hero-banner.png
-
-#Call to Action Button
-button:
-  - text: Learn More
-    url: /alibaba-business-school/alibaba-ceo-master-programme/
+hero-banner: /images/homepage-banner.jpg
 
 # Google analytics
 google-analytics: 
-
-key-highlights:
-  - title: Highlight A
-    description: Important highlight A is important
-    url: https://google.com
-    external: true
-  - title: Highlight B
-    description: Important highlight B is equally important
-    url: https://yahoo.com
-    external: true
-  - title: Page A
-    description: Page A is important too
-    url: /alibaba-business-school/alibaba-ceo-master-programme/
-  - title: Page C
-    description: Page A is important too
-    url: /alibaba-business-school/alibaba-ceo-master-programme/
 
 resources-title: Blog
 resources-subtitle: Be in the know
