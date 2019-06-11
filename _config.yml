@@ -41,18 +41,16 @@ custom_print_css_path: "/assets/css/print.css"
 exclude: [travis-script.js, .travis.yml, README.md, package.json, package-lock.json, node_modules, vendor/bundle/, vendor/cache/, vendor/gems/, vendor/ruby/, Gemfile, Gemfile.lock]
 
 collections:
-  alibaba-business-school:
+  about-us:
     output: true
-  masterclass-and-workshop:
+  courses:
     output: true
-  become-and-entrepreneur:
+  career-services:
+    output: true
+  consultancy-services:
     output: true
   funding-and-advisory:
     output: true
-  success-stories:
-    output: true
-  study-trip:
-    output: true
-  calendar:
+  events:
     output: true
 resources_name: blog
