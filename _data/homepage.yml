@@ -15,6 +15,18 @@ hero-title: Singapore Institute of Retail Studies
 hero-subtitle: 
 hero-banner: /images/homepage-banner.jpg
 
+# Hero Dropdown Main Text
+hero-dropdown-text: "I am at..."
+
+# I want to dropdown
+i-want-to:
+  - title: the start of my retail career
+    url: /users/beginner/
+  - title: the middle of my retail career
+    url: /users/intermediate/
+  - title: the management or C-suite of my company
+    url: /users/advanced/
+
 # Google analytics
 google-analytics: 
 
