@@ -42,7 +42,7 @@
 - title: Consultancy
   url: /masterclass-and-workshop/skillsfuture-for-digital-workplace/
   
-- title: Funding Schemes
+- title: Funding
   url: /become-an-entrepreneur/set-up-an-online-business/
   sub-links:
   - title: Set Up An Online Business
@@ -66,6 +66,16 @@
     
 - title: Blog
   url: /blog/
+  sub-links:
+  - title: Blog
+    url: /blog/
+  - title: Press Releases
+    url: /blog/press-releases/
+  - title: Media Coverage
+    url: /blog/media-coverage/
+    
+- title: Events
+  url: /events/
   sub-links:
   - title: Blog
     url: /blog/
