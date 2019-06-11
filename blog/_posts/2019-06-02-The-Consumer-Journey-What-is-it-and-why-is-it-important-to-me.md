@@ -60,6 +60,6 @@ permalink: /blog/The-Consumer-Journey-What-is-it-and-why-is-it-important-to-me
 <p>Furthermore, numerous research have shown that acquisition of new customers can cost upwards of 5 times that of retention of existing customers, an added incentive for businesses to ensure customer satisfaction.
 
 <h3>Ending Notes</h3>
-The consumer journey may look to be broken down into 6 disparate stages, but it is important to keep in mind that the stages need to look seamless to the consumer. What this means is that your content strategy needs to address different needs of different customers, at different stages of the consumer journey.
+<p>The consumer journey may look to be broken down into 6 disparate stages, but it is important to keep in mind that the stages need to look seamless to the consumer. What this means is that your content strategy needs to address different needs of different customers, at different stages of the consumer journey.
 
 <p style="text-align:center;font-weight:bold;">Want to strengthen your content marketing game? The Alibaba Content Marketing Programme brings to you top Taobao University trainers, equipping you with the latest insights and tools for your business to increase customer acquisition and retention.
