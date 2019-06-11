@@ -77,9 +77,7 @@
 - title: Events
   url: /events/
   sub-links:
-  - title: Blog
-    url: /blog/
-  - title: Press Releases
-    url: /blog/press-releases/
-  - title: Media Coverage
-    url: /blog/media-coverage/
+  - title: Outreach and Networking
+    url: /events/outreach-and-networking-events/
+  - title: Course Calendar
+    url: /events/course-calendar/
