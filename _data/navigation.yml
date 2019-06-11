@@ -64,22 +64,12 @@
   - title: Alibaba Business School Sirs Entrepreneur Startup
     url: /become-an-entrepreneur/alibaba-business-school-sirs-entrepreneur-startup/
     
-- title: Media
-  url: /media/press-release/
-  sub-links:
-  - title: Press Release
-    url: /media/press-release/
-    
 - title: Blog
-  url: /success-stories/activhealth-pte-ltd/
+  url: /blog/
   sub-links:
-  - title: Activhealth Pte Ltd
-    url: /success-stories/activhealth-pte-ltd/
-  - title: Best Denki Pte Ltd
-    url: /success-stories/best-denki-pte-ltd/
-  - title: Fullhouse Home Furnishing
-    url: /success-stories/fullhouse-home-furnishing/
-  - title: Mighty Velo
-    url: /success-stories/mighty-velo/
   - title: Blog
     url: /blog/
+  - title: Press Releases
+    url: /blog/press-releases/
+  - title: Media Coverage
+    url: /blog/media-coverage/
