@@ -4,4 +4,5 @@ title: SkillsFuture Earn and Learn Programme
 permalink: /services/career-services/earn-and-learn-programme
 breadcrumb: Earn and Learn Programme
 collection_name: services
+second_nav_title: "Career Services"
 ---
