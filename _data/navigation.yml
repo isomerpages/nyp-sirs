@@ -18,48 +18,10 @@
     
 - title: Services
   url: /services/
-    sub-links:
+  sub-links:
   - title: Consultancy
     url: /services/consultancy
   - title: Education & Training
     url: /about-us/education-and-training
   - title: Career Services
     url: /about-us/career-services/
-    
-- title: Career Services
-  url: /career-services/career-services-centre/
-  sub-links:
-    - title: Career Services Centre
-      url: /career-services/career-services-centre/
-    - title: SkillsFuture Professional Conversion Programme for Digital Professionals
-      url: /career-services/skillsfuture-professional-conversion-programme-for-digital-professionals/
-    - title: SkillsFuture Earn and Learn Programme
-      url: /career-services/skillsfuture-earn-and-learn-programme/
-    - title: SkillsFuture Work-Learn Bootcamp
-      url: /career-services/skillsfuture-work-learn-bootcamp/
-    - title: Career Guidance and Job Placement Services
-      url: /career-services/career-guidance-and-job-placement-services/
-      
-- title: Consultancy
-  url: /consultancy/
-  
-- title: Funding
-  url: /funding-and-advisory/
-    
-- title: Blog
-  url: /blog/
-  sub-links:
-  - title: Blog
-    url: /blog/articles/
-  - title: Press Releases
-    url: /blog/press-releases/
-  - title: Media Coverage
-    url: /blog/media-coverage/
-    
-- title: Events
-  url: /events/
-  sub-links:
-  - title: Outreach and Networking
-    url: /events/outreach-and-networking-events/
-  - title: Course Calendar
-    url: /events/course-calendar/
