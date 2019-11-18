@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Services
-permalink: /services/services/
+permalink: /services
 breadcrumb: Services
 collection_name: services
 ---
