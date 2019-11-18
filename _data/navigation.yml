@@ -5,25 +5,26 @@
 ##################################
 
 - title: About Us
-  url: /about-us/who-we-are/
+  url: /about-us/
   sub-links:
   - title: Who We Are
-    url: /about-us/who-we-are/
-  - title: Success Stories
-    url: /about-us/success-stories/overview/
+    url: /about-us
   - title: Our Team
     url: /about-us/our-team/
-  - title: Our Facilities
-    url: /about-us/our-facilities/
-  - title: Our Trainers
-    url: /about-us/our-trainers/
-  - title: FAQs
-    url: /faq/
+  - title: Success Stories
+    url: /about-us/success-stories/
   - title: Contact Us
-    url: /contact-us
+    url: /contact-us/
     
-- title: Courses
-  url: /courses/overview/
+- title: Services
+  url: /services/
+    sub-links:
+  - title: Consultancy
+    url: /services/consultancy
+  - title: Education & Training
+    url: /about-us/education-and-training
+  - title: Career Services
+    url: /about-us/career-services/
     
 - title: Career Services
   url: /career-services/career-services-centre/
