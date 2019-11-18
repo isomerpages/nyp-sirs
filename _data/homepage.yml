@@ -26,13 +26,28 @@ i-want-to:
     url: /users/intermediate/
   - title: the management or C-suite of my company
     url: /users/advanced/
+    
+# Key Highlights
+  - title: Services
+    description: Consult, Educate, Train, Place
+    url: https://www.sirs.edu.sg
+  - title: Courses
+    description: Retail and Digital courses
+    url: https://www.sirs.edu.sg/
+  - title: Funding
+    description: Funding support for companies and individuals
+    url: https://www.sirs.edu.sg/
 
 # Google analytics
 google-analytics: 
 
-# Services
-
-# Partners
+# Info Section
+info-sections:
+  - section-subtitle: Who are we?
+    section-description: SIRS is a Continuing Education and Training (CET) centre of Nanyang Polytechnic (NYP). Jointly set up in 2006 by the Workforce Development Agency and NYP, SIRS seeks to enhance the skills and competencies of Singapore's retail enterprises and workforce.
+    section-more-button: More about SIRS
+    section-more-button-url: /about/our-role
+    section-image-path: /images/homepage/info-section.jpg
 
 resources-title: Blog
 resources-subtitle: Be in the know
