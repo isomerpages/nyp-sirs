@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Education and Training
-permalink: /services/educatio-and-training
+permalink: /services/education-and-training
 breadcrumb: Education and Training
 collection_name: services
 ---
