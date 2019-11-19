@@ -14,17 +14,6 @@ agency-logo: /images/sirs-logo.png
 hero-title: Singapore Institute of Retail Studies
 hero-subtitle: A CET of Nanyang Polytechnic
 hero-banner: /images/homepage-banner.jpg
-    
-# Key Highlights
-  - title: Services
-    description: Consult, Educate, Train, Place
-    url: https://www.sirs.edu.sg
-  - title: Courses
-    description: Retail and Digital courses
-    url: https://www.sirs.edu.sg/
-  - title: Funding
-    description: Funding support for companies and individuals
-    url: https://www.sirs.edu.sg/
 
 # Google analytics
 google-analytics: 
