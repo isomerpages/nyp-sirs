@@ -49,8 +49,6 @@ collections:
     output: true
   digital-programmes:
     output: true
-  press-release:
-    output: true
-  media-coverage:
+  media-centre:
     output: true
 resources_name: blog
