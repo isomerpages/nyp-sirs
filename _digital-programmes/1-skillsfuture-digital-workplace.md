@@ -9,13 +9,13 @@ collection_name: digital-programmes
 <h4 style="text-align:center;">Next intake:</h4>
 
 <table style="text-align:center;">
-    <tr>
-      <th style="text-align:center;">Mandarin Intake</th>
-      <th style="text-align:center;">English Intake</th>
+    <tr style="text-align:center;">
+      <th style="width:50%;">Mandarin Intake</th>
+      <th style="width:50%;">English Intake</th>
     </tr>
-    <tr>
-      <td style="text-align:center;"16-17 Dec 2019 (Monday - Tuesday)</td>
-      <td style="text-align:center;">5-6 Dec 2019 (Thursday - Friday)</td>
+    <tr style="text-align:center;">
+      <td style="width:50%;">16-17 Dec 2019 (Monday - Tuesday)</td>
+      <td style="width:50%;">5-6 Dec 2019 (Thursday - Friday)</td>
     </tr>
 </table>
 
