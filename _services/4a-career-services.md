@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: SkillsFuture Work-Learn Bootcamp
+title: Career Services
 permalink: /services/career-services
 breadcrumb: Career Services
 collection_name: services
