@@ -51,11 +51,11 @@
     url: /digital-programmes/national-silver-academy
  
 - title: Media Centre
-  url: /blog/
+  url: /media-centre/
   sub-links:
   - title: Media Coverage
-    url: /blog/media-coverage
+    url: /media-centre/media-coverage
   - title: Press Release
-    url: /blog/press-release
+    url: /media-centre/press-release
   - title: Blog
-    url: /blog
+    url: /media-centre/blog
