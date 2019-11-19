@@ -70,3 +70,5 @@ What you will learn:
         <td style="text-align:center;width:33%;">$802.50</td>
     </tr>
 </table>
+
+<center><a href="https://goo.gl/forms/kEI6opeWj0ud3BK82" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;" target="_blank">Register Now</a></center>
