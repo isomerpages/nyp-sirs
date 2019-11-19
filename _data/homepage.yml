@@ -49,7 +49,7 @@ info-sections:
     section-more-button-url: /about/our-role
     section-image-path: /images/homepage/info-section.jpg
 
-resources-title: Blog
+resources-title: Media Centre
 resources-subtitle: Be in the know
-resources-more-button: More Blog Posts
-resources-more-button-url: blog/
+resources-more-button: More Posts
+resources-more-button-url: media-centre/
