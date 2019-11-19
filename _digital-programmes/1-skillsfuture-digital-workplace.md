@@ -8,7 +8,7 @@ collection_name: digital-programmes
 <img src="images/sfdw_banner.png" style="width:100%;">
 <h4 style="text-align:center;">Next intake:</h4>
 
-<table style="text-align:center;">
+<center><table style="width:80%;">
     <tr style="text-align:center;">
       <th style="width:50%;">Mandarin Intake</th>
       <th style="width:50%;">English Intake</th>
@@ -17,7 +17,7 @@ collection_name: digital-programmes
       <td style="width:50%;">16-17 Dec 2019 (Monday - Tuesday)</td>
       <td style="width:50%;">5-6 Dec 2019 (Thursday - Friday)</td>
     </tr>
-</table>
+</table></center>
 
 <b>Increase your employability with digital literacy in the 2-day workshop.</b>
 
@@ -58,7 +58,7 @@ What you will learn:
 
 <h4 style="text-align:center;">Programme Fees</h4>
 <em>Self-sponsored individuals may use their SkillsFuture Credits to pay for the nett course fee/s.</em>
-<table>
+<table style="width:100%;">
     <tr style="text-align:center;">
         <th style="width:33%;">Singaporeans and Singapore PR<br>(after SkillsFuture Singapore funding)</th>
         <th style="width:33%;">Singaporeans and Singapore PR<br>(NTUC Union Member*)</th>
