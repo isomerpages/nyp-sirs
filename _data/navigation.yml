@@ -49,3 +49,13 @@
     url: /digital-programmes/e-commerce-programmes
   - title: National Silver Academy
     url: /digital-programmes/national-silver-academy
+ 
+ - title: News and Blog
+  url: /blog
+  sub-links:
+  - title: Media Coverage
+    url: /media-coverage
+  - title: Press Release
+    url: /press-release
+  - title: Blog
+    url: /blog
