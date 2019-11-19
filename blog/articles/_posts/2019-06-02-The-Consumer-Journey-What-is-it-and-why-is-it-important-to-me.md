@@ -2,7 +2,7 @@
 layout: post
 title:  The Consumer Journey - What is it, and why is it important to me?
 date:   2019-06-02
-permalink: /blog/articles/The-Consumer-Journey-What-is-it-and-why-is-it-important-to-me
+permalink: /media-centre/blog/articles/The-Consumer-Journey-What-is-it-and-why-is-it-important-to-me
 ---
 <img src="/blog/images/Consumer-Journey-Map.jpg" alt-text="consumer image map" style="width:80%;max-width:1000px;">
 
