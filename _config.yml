@@ -43,14 +43,8 @@ exclude: [travis-script.js, .travis.yml, README.md, package.json, package-lock.j
 collections:
   about-us:
     output: true
-  courses:
+  services:
     output: true
-  career-services:
-    output: true
-  consultancy-services:
-    output: true
-  funding-and-advisory:
-    output: true
-  events:
+  retail-courses:
     output: true
 resources_name: blog
