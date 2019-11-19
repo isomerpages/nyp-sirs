@@ -33,3 +33,19 @@
     url: /retail-programmes/WSQ-certification-programmes/
   - title: Short Courses
     url: /retail-programmes/short-courses/
+
+- title: Digital Programmes
+  url: /digital-programmes/
+  sub-links:
+  - title: SkillsFuture for Digital Workplace
+    url: /digital-programmes/skillsfuture-for-digital-workplace
+  - title: SkillsFuture Series
+    url: /digital-programmes/skillsfuture-series
+  - title: Alibaba Business School
+    url: /digital-programmes/alibaba-business-school
+  - title: Digital Marketing Masterclasses
+    url: /digital-programmes/digital-marketing-masterclasses
+  - title: E-Commerce Programmes
+    url: /digital-programmes/e-commerce-programmes
+  - title: National Silver Academy
+    url: /digital-programmes/national-silver-academy
