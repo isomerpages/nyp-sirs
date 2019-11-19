@@ -10,12 +10,12 @@ collection_name: digital-programmes
 
 <center><table style="width:80%;">
     <tr style="text-align:center;">
-      <th style="width:50%;">Mandarin Intake</th>
-      <th style="width:50%;">English Intake</th>
+      <th style="text-align:center;width:50%;">Mandarin Intake</th>
+      <th style="text-align:center;width:50%;">English Intake</th>
     </tr>
     <tr style="text-align:center;">
-      <td style="width:50%;">16-17 Dec 2019 (Monday - Tuesday)</td>
-      <td style="width:50%;">5-6 Dec 2019 (Thursday - Friday)</td>
+      <td style="text-align:center;width:50%;">16-17 Dec 2019 (Monday - Tuesday)</td>
+      <td style="text-align:center;width:50%;">5-6 Dec 2019 (Thursday - Friday)</td>
     </tr>
 </table></center>
 
@@ -60,13 +60,13 @@ What you will learn:
 <em>Self-sponsored individuals may use their SkillsFuture Credits to pay for the nett course fee/s.</em>
 <table style="width:100%;">
     <tr style="text-align:center;">
-        <th style="width:33%;">Singaporeans and Singapore PR<br>(after SkillsFuture Singapore funding)</th>
-        <th style="width:33%;">Singaporeans and Singapore PR<br>(NTUC Union Member*)</th>
-        <th style="width:33%;">Non-Singaporeans</th>
+        <th style="text-align:center;width:33%;">Singaporeans and Singapore PR<br>(after SkillsFuture Singapore funding)</th>
+        <th style="text-align:center;width:33%;">Singaporeans and Singapore PR<br>(NTUC Union Member*)</th>
+        <th style="text-align:center;width:33%;">Non-Singaporeans</th>
     </tr>
     <tr style="text-align:center;">
-        <td style="width:33%;">$50.00</td>
-        <td style="width:33%;">$10.00<br><em>to check if you are a current NTUC member, please call 6213 8008</em></td>
-        <td style="width:33%;">$802.50</td>
+        <td style="text-align:center;width:33%;">$50.00</td>
+        <td style="text-align:center;width:33%;">$10.00<br><em>to check if you are a current NTUC member, please call 6213 8008</em></td>
+        <td style="text-align:center;width:33%;">$802.50</td>
     </tr>
 </table>
