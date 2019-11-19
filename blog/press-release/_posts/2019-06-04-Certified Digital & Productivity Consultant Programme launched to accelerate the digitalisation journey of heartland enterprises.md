@@ -2,7 +2,7 @@
 layout: post
 title:  Certified Digital & Productivity Consultant Programme launched to accelerate the digitalisation journey of heartland enterprises
 date:   2019-06-04
-permalink: /blog/press-release/Certified Digital & Productivity Consultant Programme launched to accelerate the digitalisation journey of heartland enterprises
+permalink: /media-centre/press-release/Certified Digital & Productivity Consultant Programme launched to accelerate the digitalisation journey of heartland enterprises
 ---
 <center>The MOU between Singapore Productivity Centre, Singapore Institute of Retail Studies and Heartland Enterprise Centre Singapore focuses on precinct-wide digitalisation projects in the heartlands </center>
 
