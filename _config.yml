@@ -45,6 +45,8 @@ collections:
     output: true
   services:
     output: true
-  retail-courses:
+  retail-programmes:
+    output: true
+  digital-programmes:
     output: true
 resources_name: blog
