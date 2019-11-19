@@ -58,15 +58,15 @@ What you will learn:
 
 <h4 style="text-align:center;">Programme Fees</h4>
 <em>Self-sponsored individuals may use their SkillsFuture Credits to pay for the nett course fee/s.</em>
-<table style="text-align:center;">
-    <tr>
-        <th style="text-align:center;max-width:33%;">Singaporeans and Singapore PR<br>(after SkillsFuture Singapore funding)</th>
-        <th style="text-align:center;max-width:33%;">Singaporeans and Singapore PR<br>(NTUC Union Member*)</th>
-        <th style="text-align:center;max-width:33%;">Non-Singaporeans</th>
+<table>
+    <tr style="text-align:center;">
+        <th style="width:33%;">Singaporeans and Singapore PR<br>(after SkillsFuture Singapore funding)</th>
+        <th style="width:33%;">Singaporeans and Singapore PR<br>(NTUC Union Member*)</th>
+        <th style="width:33%;">Non-Singaporeans</th>
     </tr>
-    <tr>
-        <td style="text-align:center;max-width:33%;">$50.00</td>
-        <td style="text-align:center;max-width:33%;">$10.00<br><em>to check if you are a current NTUC member, please call 6213 8008</td>
-        <td style="text-align:center;max-width:33%;">$802.50</td>
+    <tr style="text-align:center;">
+        <td style="width:33%;">$50.00</td>
+        <td style="width:33%;">$10.00<br><em>to check if you are a current NTUC member, please call 6213 8008</td>
+        <td style="width:33%;">$802.50</td>
     </tr>
 </table>
