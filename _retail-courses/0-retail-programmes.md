@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Overview
-permalink: /retail-courses
+permalink: /retail-programmes
 breadcrumb: Overview
-collection_name: retail-courses
+collection_name: retail-programmes
 ---
