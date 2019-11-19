@@ -51,4 +51,4 @@ collections:
     output: true
   media-centre:
     output: true
-resources_name: blog
+resources_name: media-centre
