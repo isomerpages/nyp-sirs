@@ -45,10 +45,13 @@ collections:
     output: true
   services:
     output: true
+  funding-and-advisory:
+    output: true
   retail-programmes:
     output: true
   digital-programmes:
     output: true
   media-centre:
     output: true
+
 resources_name: media-centre
