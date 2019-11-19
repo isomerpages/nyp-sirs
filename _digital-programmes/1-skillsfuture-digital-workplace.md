@@ -66,7 +66,7 @@ What you will learn:
     </tr>
     <tr style="text-align:center;">
         <td style="width:33%;">$50.00</td>
-        <td style="width:33%;">$10.00<br><em>to check if you are a current NTUC member, please call 6213 8008</td>
+        <td style="width:33%;">$10.00<br><em>to check if you are a current NTUC member, please call 6213 8008</em></td>
         <td style="width:33%;">$802.50</td>
     </tr>
 </table>
