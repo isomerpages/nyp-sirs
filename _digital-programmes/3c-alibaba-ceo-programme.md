@@ -8,10 +8,10 @@ second_nav_title: "Alibaba Business School"
 ---
 <img src="images/agcs-abs-sirs-atu-combined-logos.png" style="width:100%:">
 
-A 6-day 5-night immersive exploration into Alibaba's New Retail
+A 6-day 5-night immersive exploration into Alibaba's New Retail<br>
 6天5夜考察之旅-杭州
 
-<b>Next Intake: 16-21 February 2020</b>
+<center><b>Next Intake: 16-21 February 2020</b></center>
 
 Join us on our New Retail expedition! Alibaba’s certified trainers will guide you to understand latest trends and developments in internet and e-commerce, analyse New Retail, Big Data, New Marketing, Cross-border and transcend Digital Thought Leadership with new retail strategy, operation and branding. Besides a rare opportunity to visit and network at Alibaba HQ, you will also get to experience facial recognition payment and augmented reality shopping guide in Alibaba’s New Retail Shopping Mall.
 
@@ -70,11 +70,11 @@ Singaporean/SPR sponsored by SMEs*</td>
 <em style="text-align:center;">*Fee is after reimbursement of S$1,340 via SkillsConnect ​under Enhanced Training Support for SMEs.</em>
 
 <center>
-  <b>All fees include :</b>
-Accommodation, meals & local transfers (6D5N)
-  <b>All fees exclude :</b> 
-Airfare
-Visa for travel to China
+  <b>All fees include :</b><br>
+Accommodation, meals & local transfers (6D5N)<br>
+  <b>All fees exclude :</b> <br>
+Airfare<br>
+Visa for travel to China<br>
 Travel insurance
   </center>
   
