@@ -25,3 +25,9 @@
     url: /services/education-and-training
   - title: Career Services
     url: /services/career-services/
+
+- title: Retail Programmes
+  url: /retail-programmes/
+  sub-links:
+  - title: WSQ Certification Programmes
+    url: /retail-programmes/WSQ-certification-programmes/
