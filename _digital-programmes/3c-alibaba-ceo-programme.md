@@ -41,6 +41,7 @@ You are only a trip away to gain useful takeaways for immediate business applica
 <h4 style="text-align:center;">Programme Fee</h4>
 <em style="text-align:center;">Self-sponsored individuals may use their SkillsFuture Credit to pay the nett course fee/s.</em>
 
+<center>
 <table style="width:100%;">
 <tr>
 <th style="width:70%;">Category</th>
@@ -64,6 +65,7 @@ Singaporean/SPR sponsored by SMEs*</td>
 </tr>
 
 </table>
+</center>
 
 <em style="text-align:center;">*Fee is after reimbursement of S$1,340 via SkillsConnect ​under Enhanced Training Support for SMEs.</em>
 
