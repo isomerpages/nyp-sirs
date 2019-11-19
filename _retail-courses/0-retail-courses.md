@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
-title: Retail Courses
+title: Overview
 permalink: /retail-courses
-breadcrumb: Retail Courses
+breadcrumb: Overview
 collection_name: retail-courses
 ---
