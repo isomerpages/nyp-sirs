@@ -54,8 +54,8 @@
   url: /blog/
   sub-links:
   - title: Media Coverage
-    url: /media-coverage
+    url: /blog/media-coverage
   - title: Press Release
-    url: /press-release
+    url: /blog/press-release
   - title: Blog
     url: /blog
