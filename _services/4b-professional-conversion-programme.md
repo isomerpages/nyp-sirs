@@ -92,19 +92,19 @@ second_nav_title: "Career Services"
 	<li>To facilitate the programme under a Place-and-Train mode, participating employers will hire the participants before they commence training; and be required to provide structured On-the-Job Training (OJT) plans to ensure that participants hired will gain the necessary competencies for their new role.</li>
 	<li>The PCP for RP, DP, and NMP are administered by the Singapore Institute of Retail Studies (SIRS). Participants will undergo a 6-month programme consisting of classroom training delivered by SIRS, paired with structured OJT at the hiring company.</li>
 	<li>Candidates must fulfill the following criteria:
-	<ol style="font-style: italic;" type="a">
+	<ul>
 		<li>The candidate must be a Singapore Citizen or Permanent Resident;</li>
 		<li>New PMET hires who have no more than three months of employment with the current company</li>
 		<li>Have graduated from pre-employment training for at least 2 years (excluding National Service where applicable)</li>
 		<li>The candidate must have managerial-level or equivalent experience in a non- related role prior to joining the PCP</li>
 		<li>Trainee remains employed at the hiring company for a minimum duration equivalent to the programme duration, after passing all the required modules</li>
-	</ol>
+	</ul>
 	</li>
 	<li>Participating companies must fulfill the following criteria:
-	<ol style="font-style: italic;" type="a">
+	<ul>
 		<li>The participating company must be registered or incorporated in Singapore;</li>
 		<li>the participating company must issue a valid employment contract; and</li>
 		<li>the participating company must be able to provide structured on-the-job training for the candidate.</li>
-	</ol>
+	</ul>
 	</li>
 </ol>
