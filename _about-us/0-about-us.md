@@ -5,3 +5,30 @@ permalink: /about-us
 breadcrumb: About SIRS
 collection_name: about-us
 ---
+
+#Who We Are
+The Singapore Institute of Retail Studies (SIRS) is a Continuing Education & Training (CET) institute of Nanyang Polytechnic (NYP). Set up in 2006, SIRS’ excellent performance and track record won the conferment of the National CET Institute status, the pinnacle status for CET centres. In 2016, SIRS is appointed as the Anchor Provider for the Retail Industry by *SkillsFuture Singapore, as well as the Lean Enterprise Development Multiplier and Programme Manager for the Professional Conversion Programme & Earn And Learn Programme by Workforce Singapore.
+
+On 30 November 2016, SIRS-NYP and UniSIM signed a collaboration agreement to offer a new articulation pathway for participants of the Retail SkillsFuture Earn & Learn Programme (ELP). ELP candidates, upon completion of their WSQ Specialist Diploma in Retail Management, can enrol in UniSIM’s Bachelor of Science in Marketing programme and gain recognition for up to 30 credit units, enabling them to complete the programme in a shorter period of time.
+
+In addition to expanding our services for the evolving retail industry, SIRS-NYP also took on a collaboration with world digital leader, Alibaba Group's TaoBao University to offer a suite of cutting edge digital programmes to help our retailers adopt ecommerce and omni-channel strategies to succeed in today's digital context. Retailers will attain first-hand insights on successful e-commerce strategies, skills, implementation roadmaps and learn how to achieve indisputable market progress in the light of technology disruption.
+
+<i>*formerly known as Singapore Workforce Development Agency (WDA)</i>
+
+#Achievements
+As a leader in retail training with more than 10 years of experience and proven track record, SIRS has trained more than 150,000 retail professionals and job seekers. SIRS strives to be an enabler and aggregator of solutions to help retailers improve business performance through training, consultancy, applied research, study mission and recruitment/placement service in a single-stop. We count among our clientele a wide range of retail enterprises, both MNCs and SMEs. Some of our long time partners include AsiaMalls, BHG, Changi Airport Group, Club21, Courts, Dairy Farm Singapore, Eu Yan Sang, H&M, Koufu, L’Oreal, Pet Lovers Centre, Robinsons, Sentosa Development Corporation, Sephora, Shell, Sheng Siong Supermarket, Singapore Petroleum Company, Singtel, StarHub, Takashimaya and many more.
+ 
+#Programmes and Services
+
+We offer a full suite of programmes in modular and full qualification basis.
+
+Retail Programmes at Certificate, Advanced Certificate, Diploma and Specialist Diploma Levels
+Service Excellence Programmes at Operation, Supervisory & Managerial Levels
+Business Management Programmes
+Leadership & People Management Programmes
+Employability Skills Programmes
+SIRS’ Career Services Centre provides complimentary career advisory and placement services to assist job-seeking participants to gain employment in the retail industry and at the same time, support retailers’ recruiting needs.
+
+#Enterprise-centric Solutions
+
+SIRS’ Business Solutions team has enabled many retailers to successfully implement training & capability development initiatives through our highly customised approach. Our team of retail consultants provide enterprise centric business solutions and recommendations to retailers, tapping the vast arrays of government assistance including Training Grant, Capability Development Grant (CDG), Productivity & Innovation Credit (PIC), Workfare Training Scheme (WTS) and Enhanced Training Support Scheme (ETSS).
