@@ -57,7 +57,7 @@ What you will learn:
     <li>制定继续学习计划，为将来做好准备</li>
 
 <h4 style="text-align:center;">Programme Fees</h4>
-<em>Self-sponsored individuals may use their SkillsFuture Credits to pay for the nett course fee/s.</em>
+<center><em>Self-sponsored individuals may use their SkillsFuture Credits to pay for the nett course fee/s.</em></center>
 <table style="width:100%;">
     <tr style="text-align:center;">
         <th style="text-align:center;width:33%;">Singaporeans and Singapore PR<br>(after SkillsFuture Singapore funding)</th>
