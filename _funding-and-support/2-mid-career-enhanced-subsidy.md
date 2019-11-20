@@ -5,7 +5,7 @@ permalink: /services/consultancy/funding-and-support/mid-career-enhanced-subsidy
 breadcrumb: Mid-Career Enhanced Subsidy
 collection_name: funding-and-support
 ---
-
+<a href="#" onclick="history.go(-1)">Back to previous page</a><br>
 <h3>What is SkillsFuture Mid-Career Enhanced Subsidy?</h3>
 
 The SkillsFuture Mid-Career Enhanced Subsidy supports and encourages lifelong learning and helps Singaporeans stay responsive to a changing workplace. Recognising that mid-career individuals may face greater challenges in undertaking training, the Government has implemented this programme to encourage mid-career Singaporeans to upskill and reskill. Eligible individuals will receive higher subsidies of up to 90% of course fees for SSG-supported courses.​
