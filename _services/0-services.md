@@ -29,9 +29,7 @@ collection_name: services
         <li><a href="/services/consultancy/funding-and-support/skillsfuture-enhanced-training-support-for-smes">SkillsFuture Enhanced Training Support for SMEs</a></li>
         <li><a href="/services/consultancy/funding-and-support/workfare-training-support-scheme">Workfare Training Support Scheme</a></li>
         <li>Absentee payroll</li></ul>
-    <li>Industry Transformation Grant (ITG)</li>
-    <li>Capability Development Grant (CDC)</li>
-    <li>Lean Enterprise Development (LED) Scheme</li>
+    <li><a href="/services/consultancy/grants">Government grants to aid in your business transformation</a></li>
     </ul>
     </p>
 
