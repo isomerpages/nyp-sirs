@@ -6,6 +6,7 @@ breadcrumb: Work-Learn Bootcamp
 collection_name: services
 second_nav_title: "Career Services"
 ---
+<a href="#" onclick="history.go(-1)">Back to previous page</a><br>
 <img src="images/wlb/wlb-header.jpg" style="width:100%;">
 <p>The SkillsFuture Work-Learn Bootcamp (WLB) in Digital Marketing & Branding (DMB) is a SkillsFuture initiative in collaboration with Generation (a US-based global non-profit organisation founded by McKinsey & Company)and Singapore Institute of Retail Studies, to prepare highly productive workforce for emerging industries through a short intensive bootcamp training.</p>
 
