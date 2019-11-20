@@ -5,7 +5,7 @@ permalink: /services/career-services/professional-conversion-programme/new-media
 breadcrumb: New Media Professional
 collection_name: professional-conversion-programme
 ---
-<img src="images/pcp/pcp-digital-professional.jpg" style="width:100%;">
+<img src="images/pcp/pcp-new-media-professional.jpg" style="width:100%;">
 <center>A Joint Initiative By:</center>
 <img src="images/pcp/sirs-wsg-banner.jpg" style="text-align:center;width:50%;">
 
