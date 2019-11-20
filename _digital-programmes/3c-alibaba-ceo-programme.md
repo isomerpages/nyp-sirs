@@ -6,6 +6,7 @@ breadcrumb: Alibaba CEO Programme
 collection_name: digital-programmes
 second_nav_title: "Alibaba Business School"
 ---
+<a href="#" onclick="history.go(-1)">Back to previous page</a><br>
 <img src="images/agcs-abs-sirs-atu-combined-logos.png" style="width:100%:">
 
 A 6-day 5-night immersive exploration into Alibaba's New Retail<br>
