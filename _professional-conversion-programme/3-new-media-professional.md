@@ -9,7 +9,7 @@ collection_name: professional-conversion-programme
 <center>A Joint Initiative By:</center>
 <img src="images/pcp/sirs-wsg-banner.jpg" style="text-align:center;width:50%;">
 
-<p>As part of the <a href="services/career-services/professional-conversion-programme">Professional Conversion Programme</a>, SIRS offers the opportunity for PMET mid-career switchers to embark on their journey as a New Media Professional.</p>
+<p>As part of the <a href="/">Professional Conversion Programme</a>, SIRS offers the opportunity for PMET mid-career switchers to embark on their journey as a New Media Professional.</p>
 
 <p>The latest track of PCP offered by SIRS, the PCP - New Media Professional (PCP - NMP), trains PMETs and mid-career switchers in New Media marketing, specifically in the areas of video content marketing, and livestreaming.</p>
 
