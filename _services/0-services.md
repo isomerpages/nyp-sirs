@@ -24,10 +24,10 @@ collection_name: services
 <p>SIRS consultants provide advice on a vast array of government assistance, such as:
   <ul>
     <li><a href="/services/consultancy/funding-and-advisory">Programme Fee Funding and Support</a></li>
-    <ul><li>SkillsFuture Credits</li>
-        <li>Mid-Career Enhanced Subsidy</li>
-        <li>SkillsFuture Enhanced Training Support for SMEs</li>
-        <li>Workfare Training Support Scheme</li>
+    <ul><li><a href="/services/consultancy/funding-and-support/skillsfuture-credit">SkillsFuture Credits</a></li>
+        <li><a href="/services/consultancy/funding-and-support/mid-career-enhanced-subsidy">Mid-Career Enhanced Subsidy</a></li>
+        <li><a href="/services/consultancy/funding-and-support/skillsfuture-enhanced-training-support-for-smes">SkillsFuture Enhanced Training Support for SMEs</a></li>
+        <li><a href="/services/consultancy/funding-and-support/workfare-training-support-scheme">Workfare Training Support Scheme</a></li>
         <li>Absentee payroll</li></ul>
     <li>Industry Transformation Grant (ITG)</li>
     <li>Capability Development Grant (CDC)</li>
