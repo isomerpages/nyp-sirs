@@ -23,7 +23,7 @@ collection_name: services
 
 <p>SIRS consultants provide advice on a vast array of government assistance, such as:
   <ul>
-    <li><a href="/services/consultancy/funding-and-advisory">Programme Fee Funding and Support</a></li>
+    <li><a href="/services/consultancy/funding-and-support">Programme Fee Funding and Support</a></li>
     <ul><li><a href="/services/consultancy/funding-and-support/skillsfuture-credit">SkillsFuture Credits</a></li>
         <li><a href="/services/consultancy/funding-and-support/mid-career-enhanced-subsidy">Mid-Career Enhanced Subsidy</a></li>
         <li><a href="/services/consultancy/funding-and-support/skillsfuture-enhanced-training-support-for-smes">SkillsFuture Enhanced Training Support for SMEs</a></li>
