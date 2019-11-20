@@ -6,11 +6,14 @@ breadcrumb: Professional Conversion Programme
 collection_name: services
 second_nav_title: "Career Services"
 ---
+<img src="_services/images/PCP-header.jpg" style="width:100%;"><br>
+<img src="_services/images/sirs-wsg-banner.jpg" style="text-align:center;">
+
 <p>As part of the Adapt and Grow Initiative, Workforce Singapore (WSG) and SkillsFuture Singapore (SSG) jointly developed the Professional Conversion Programme (PCP) to help Professionals, Managers, Executives, and Technicians (PMETs) mid-career switchers undergo skills conversion to gain relevant competencies and take on new, exciting careers in different industries.</p>
 
 <p>Singapore Institute of Retail Studies (SIRS) is the appointed programme manager for PCP in the retail sector, assisting and supporting employers with manpower challenges in the face of the ever-changing retail landscape. Through structured classroom and on-the-job training (OJT), retailers are better able to align their training according to their specific business needs.</p>
 
-<p>SIRS offers a range of Professional Conversion Programmes (PCPs) in the Retail sector,for the <a href="/services/career-services/professional-conversion-programme/retail-professional">Retail Professional</a>, <a href="/services/career-services/professional-conversion-programme/digital-professional">Digital Professional</a> and <a href="/services/career-services/professional-conversion-programme/new-media-professional">New Media Professional</a>, to equip Professionals, Managers, Executives, and Technicians (PMETs) transiting into these new careers with the right skillsets and support employers to attract talents for enterprise capability building.&nbsp;&nbsp;</p>
+<p>SIRS offers a range of Professional Conversion Programmes (PCPs) in the Retail sector,for the <a href="/services/career-services/professional-conversion-programme/retail-professional">Retail Professional</a>, <a href="/services/career-services/professional-conversion-programme/digital-professional">Digital Professional</a> and <a href="/services/career-services/professional-conversion-programme/new-media-professional">New Media Professional</a>, to equip Professionals, Managers, Executives, and Technicians (PMETs) transiting into these new careers with the right skillsets and support employers to attract talents for enterprise capability building.</p>
 
 <table style="width: 100%; height: 832px; text-align: left;">
 		<tr>
