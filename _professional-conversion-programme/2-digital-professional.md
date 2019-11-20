@@ -7,7 +7,7 @@ collection_name: professional-conversion-programme
 ---
 <img src="images/pcp/pcp-digital-professional.jpg" style="width:100%;">
 <center>A Joint Initiative By:</center>
-<img src="images/pcp/sirs-wsg-banner.jpg" style="text-align:center;width:50%:">
+<img src="images/pcp/sirs-wsg-banner.jpg" style="text-align:center;width:50%;">
 
 <p>The PCP - Digital Professional (PCP - DP) seeks to help retail companies tap on additional sources of manpower and meet their manpower needs by providing mid-career switchers with an opportunity to enter the retail profession. The PCP - DP will train participants in the operations and management of digital commerce, while equipping them with the necessary skills for digital marketing to aid retailers in their digital transformation, and boost their revenue with digital commerce.</p>
 
@@ -83,6 +83,6 @@ To encourage employers to take on mid-career switchers without the requisite exp
 <h4 style="text-align:center;">Fact Sheets</h4>
 To find out more about the PCP - Retail Professional track, you may download the respective factsheets in the links below:
 
-<center><a href="/brochures/Factsheet_SIRS_PCP_DP_Oct 2019_Company_v18.pdf" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">For Employers</a></center>
+<div style="width:50%;float:left;"><center><a href="/brochures/Factsheet_SIRS_PCP_DP_Oct 2019_Company_v18.pdf" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">For Employers</a></center></div>
 
-<center><a href="/brochures/Factsheet_SIRS_PCP_DP_ Oct 2019_Candidate_v14.pdf" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">For Employees</a></center>
+<div style="width:50%;float:left;"><center><a href="/brochures/Factsheet_SIRS_PCP_DP_ Oct 2019_Candidate_v14.pdf" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">For Employees</a></center></div>
