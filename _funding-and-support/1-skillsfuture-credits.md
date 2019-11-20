@@ -5,7 +5,7 @@ permalink: /services/consultancy/funding-and-support/skillsfuture-credit
 breadcrumb: SkillsFuture Credit
 collection_name: funding-and-support
 ---
-
+<a href="#" onclick="history.go(-1)">Back to previous page</a><br>
 <h3>What is SkillsFuture Credit?</h3>
 
 The SkillsFuture Credit consists of credits which Singapore Citizens (SCs) can use to pay for out-of-pocket course fees for attending work-skills related courses. The SkillsFuture Credit aims to strengthen individual ownership of skills development and lifelong learning to support Singaporeans in bridging skills gaps, broaden and deepen skills, and help them to advance in their careers.
