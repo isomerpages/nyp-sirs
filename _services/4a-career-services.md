@@ -6,6 +6,8 @@ breadcrumb: Career Services
 collection_name: services
 second_nav_title: "Career Services"
 ---
+<img src="images/career-services-header.jpg" style="width:100%;">
+
 <h3>Career Services Centre</h3>
 
 <p>SIRS provides career guidance for individuals seeking a career in retail and those considering a career move from another industry or within the retail industry. This includes facilitating placements for individuals trained by SIRS, so that they can gain employment in the retail industry after training.</p>
