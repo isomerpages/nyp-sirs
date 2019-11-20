@@ -11,7 +11,7 @@ second_nav_title: "Alibaba Business School"
 A 6-day 5-night immersive exploration into Alibaba's New Retail<br>
 6天5夜考察之旅-杭州
 
-<div style="text-align:center;"><h4>Next Intake</h4>
+<div style="text-align:center;"><h3>Next Intake</h3>
 16-21 February 2019</div>
 
 Join us on our New Retail expedition! Alibaba’s certified trainers will guide you to understand latest trends and developments in internet and e-commerce, analyse New Retail, Big Data, New Marketing, Cross-border and transcend Digital Thought Leadership with new retail strategy, operation and branding. Besides a rare opportunity to visit and network at Alibaba HQ, you will also get to experience facial recognition payment and augmented reality shopping guide in Alibaba’s New Retail Shopping Mall.
@@ -22,7 +22,7 @@ You are only a trip away to gain useful takeaways for immediate business applica
 
 千万不要错过这一个难得的机会，重塑您的零售业务，取得成功！该课程已有超过400人获益。每一次的考察之旅只限40位成功付款的学员参加。完成课程后的学员将获得由阿里巴巴商学院和新加坡零售管理学员所颁发的阿里巴巴大学毕业证书。课程将由淘宝大学认证讲师以中文授课​!
 
-<h4>Highlights</h4>
+<h3>Highlights</h3>
 
 <ul>
   <li>Learn from Alibaba’s top practitioners</li>
@@ -31,7 +31,7 @@ You are only a trip away to gain useful takeaways for immediate business applica
   <li>Experience ‘Black Technology’ in Alimall</li>
 </ul>
 
-<h4>亮点</h4>
+<h3>亮点</h3>
 <ul>
 <li>课程将由阿里巴巴证讲师以中文授课</li>
 <li>探访阿里巴巴总部与阿里巴巴业务平台“小二”零距离接触</li>
@@ -39,7 +39,7 @@ You are only a trip away to gain useful takeaways for immediate business applica
   <li>探店“亲橙里”及体验黑科技产品</li>
 </ul>
 
-<h4 style="text-align:center;">Programme Fees</h4>
+<h3 style="text-align:center;">Programme Fees</h3>
 <em style="text-align:center;">Self-sponsored individuals may use their SkillsFuture Credit to pay the nett course fee/s.</em>
 
 <center>
