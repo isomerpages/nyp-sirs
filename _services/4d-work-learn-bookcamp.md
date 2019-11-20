@@ -30,8 +30,8 @@ second_nav_title: "Career Services"
 
 <table>
   <tr>
-    <th style="width:50%;">To Individuals</th>
-    <th style="width:50%;">To Employers</th>
+    <th style="width:50%;"><p>To Individuals</p></th>
+    <th style="width:50%;"><p>To Employers</p></th>
   </tr>
   
   <tr>
@@ -60,7 +60,7 @@ second_nav_title: "Career Services"
   </table>
 
 <h3 style="text-align:center;">Fact Sheets</h3>
-To find out more about the SkillsFuture Work-Learn Bootcamp, you may download the respective factsheets in the links below:
+<p>To find out more about the SkillsFuture Work-Learn Bootcamp, you may download the respective factsheets in the links below:</p>
 
 <div style="width:50%;float:left;"><center><a href="brochures/wlb/Factsheet_SIRS_WLB_DMB_Employer_v2_ Sep 2019.pdf" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">For Employers</a></center></div>
 
