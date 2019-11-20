@@ -13,7 +13,7 @@ collection_name: professional-conversion-programme
 
 <p>The PCP - Retail Professional (PCP - RP) seeks to help retailers in their manpower needs by providing mid-career switchers with an opportunity to work in retail operations. Through the PCP - RP, participants will gain knowledge and be equipped in skillsets in operations, customer serivce, and supply chain roles, assisting retailers in meeting the growing consumer expectations while delivering a memorable customer journey.</p>
 
-<h4 style="text-align:center;">Courses</h4>
+<h3 style="text-align:center;">Courses</h3>
 
 <p>Under the PCP - RP, participants will have to complete the following training modules from the Workforce Skills Qualification (WSQ) Diploma in Retail (Operations):</p>
 
@@ -32,7 +32,7 @@ collection_name: professional-conversion-programme
 <b>Sales Target Management</b>
 <p>Set, communicate, drive, and motivate staff to achieve sales targets and to review socio-economic changes in the local context as well as assess impact of external economic and political events on the local retail environment.</p>
 
-<h4 style="text-align:center;">Programme Fees</h4>
+<h3 style="text-align:center;">Programme Fees</h3>
 
 <center>
 <table style="width:100%;">
@@ -59,25 +59,25 @@ collection_name: professional-conversion-programme
 </table>
 </center>
 
-<h4 style="text-align:center;">Funding and Support</h4>
+<h3 style="text-align:center;">Funding and Support</h3>
 
 To encourage employers to take on mid-career switchers without the requisite experience or skills, funding support will be provided during each of the 6-month Place-and-Train programmes. Employers will co-fund the remaining salary and course fees.
 
-<h5>Salary Support</h5>
+<h4>Salary Support</h4>
 <ol>
   <li>Up to 70% of trainee's monthly salary (capped at $4,000 per month, excluding GST)</li>
   <li>Up to 90%<sup>1</sup> of trainees' monthly salary (capped at $6,000 per month, excluding GST)</li>
 </ol>
 <em><sup>1</sup>For PMETs aged 40 and above, and/or trainees who have been unemployed for more than 6 months</em>
 
-<h5>Course Fee Subsidy</h5>
+<h4>Course Fee Subsidy</h4>
 <ol>
   <li>Non-Small and Medium Enterprises (SMEs): 70% SSG funding<sup>2</sup></li>
   <li>SMEs or trainees eligible for Mid-Career Enhanced Subsidy (MCES): 90% SSG funding<sup>2</sup></li>
 </ol>
 <em><sup>2</sup>Funding caps vary and apply for respective PCPs</em>
 
-<h4 style="text-align:center;">Fact Sheets</h4>
+<h3 style="text-align:center;">Fact Sheets</h3>
 To find out more about the PCP - Retail Professional track, you may download the respective factsheets in the links below:
 
 <div style="width:50%;float:left;"><center><a href="brochures/pcp-factsheets/Factsheet_SIRS_PCP_RP_ Oct 2019_Company_v10.pdf" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">For Employers</a></center></div>
