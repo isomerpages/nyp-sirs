@@ -13,10 +13,10 @@ In addition to expanding our services for the evolving retail industry, SIRS-NYP
 
 <i>*formerly known as Singapore Workforce Development Agency (WDA)</i>
 
-<h1>Achievements</h1>
+<h3>Achievements</h3>
 As a leader in retail training with more than 10 years of experience and proven track record, SIRS has trained more than 150,000 retail professionals and job seekers. SIRS strives to be an enabler and aggregator of solutions to help retailers improve business performance through training, consultancy, applied research, study mission and recruitment/placement service in a single-stop. We count among our clientele a wide range of retail enterprises, both MNCs and SMEs. Some of our long time partners include AsiaMalls, BHG, Changi Airport Group, Club21, Courts, Dairy Farm Singapore, Eu Yan Sang, H&M, Koufu, L’Oreal, Pet Lovers Centre, Robinsons, Sentosa Development Corporation, Sephora, Shell, Sheng Siong Supermarket, Singapore Petroleum Company, Singtel, StarHub, Takashimaya and many more.
  
-<h1>Programmes and Services</h1>
+<h3>Programmes and Services</h3>
 
 We offer a full suite of programmes in modular and full qualification basis.
 
@@ -30,6 +30,6 @@ We offer a full suite of programmes in modular and full qualification basis.
 
 SIRS’ Career Services Centre provides complimentary career advisory and placement services to assist job-seeking participants to gain employment in the retail industry and at the same time, support retailers’ recruiting needs.
 
-<h1>Enterprise-centric Solutions</h1>
+<h3>Enterprise-centric Solutions</h3>
 
 SIRS’ Business Solutions team has enabled many retailers to successfully implement training & capability development initiatives through our highly customised approach. Our team of retail consultants provide enterprise centric business solutions and recommendations to retailers, tapping the vast arrays of government assistance including Training Grant, Capability Development Grant (CDG), Productivity & Innovation Credit (PIC), Workfare Training Scheme (WTS) and Enhanced Training Support Scheme (ETSS).
