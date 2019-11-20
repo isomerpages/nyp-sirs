@@ -16,7 +16,7 @@ second_nav_title: "Career Services"
 
 <p>SIRS offers a range of Professional Conversion Programmes (PCPs) in the Retail sector,for the <a href="#pcp-rp">Retail Professional</a>, <a href="#pcp-dp">Digital Professional</a> and <a href="#pcp-nmp">New Media Professional</a>, to equip Professionals, Managers, Executives, and Technicians (PMETs) transiting into these new careers with the right skillsets and support employers to attract talents for enterprise capability building.</p>
 
-<h4 id="pcp-rp">PCP - Retail Professional (PCP - RP)</h4>
+<h3 id="pcp-rp">PCP - Retail Professional (PCP - RP)</h3>
 
 <img src="images/pcp/pcp-retail-professional.jpg" style="width:100%:">
 
@@ -33,7 +33,7 @@ Under the PCP - RP, participants will complete the following modules from the Wo
 
 <center><a href="/services/career-services/professional-conversion-programme/retail-professional" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Find Out More</a></center>
 
-<h4 id="pcp-dp">PCP - Digital Professional (PCP - DP)</h4>
+<h3 id="pcp-dp">PCP - Digital Professional (PCP - DP)</h3>
 
 <img src="images/pcp/pcp-digital-professional.jpg" style="width:100%:">
 
@@ -48,7 +48,7 @@ Under the PCP - RP, participants will complete the following modules from the Wo
 
 <center><a href="/services/career-services/professional-conversion-programme/digital-professional" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Find Out More</a></center>
 
-<h4 id="pcp-nmp">PCP - New Media Professional (PCP - NMP)</h4>
+<h3 id="pcp-nmp">PCP - New Media Professional (PCP - NMP)</h3>
 
 <img src="images/pcp/pcp-new-media-professional.jpg" style="width:100%:">
 
@@ -63,7 +63,7 @@ Under the PCP - RP, participants will complete the following modules from the Wo
 
 <center><a href="/services/career-services/professional-conversion-programme/new-media-professional" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Find Out More</a></center>
 
-<h4>Salary Support</h4>
+<h3>Salary Support</h3>
 
 <ul>
 	<li>Up to 70% of the trainee’s monthly salary, capped at $4,000 (excl. GST) per trainee per month, for the programme duration.</li>
@@ -74,7 +74,7 @@ Under the PCP - RP, participants will complete the following modules from the Wo
 
 <p><strong>Funding would be based on the duration of the programme (maximum 6 months)</strong></p>
 
-<h4>Eligibility</h4>
+<h3>Eligibility</h3>
 
 <ul>
 	<li>To facilitate the programme under a Place-and-Train mode, participating employers will hire the participants before they commence training; and be required to provide structured On-the-Job Training (OJT) plans to ensure that participants hired will gain the necessary competencies for their new role.</li>
