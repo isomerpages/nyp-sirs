@@ -5,6 +5,7 @@ permalink: /digital-programmes/skillsfuture-for-digital-workplace
 breadcrumb: SkillsFuture for Digital Workplace
 collection_name: digital-programmes
 ---
+<a href="#" onclick="history.go(-1)">Back to previous page</a>
 <img src="images/sfdw_banner.png" style="width:100%;">
 <h3 style="text-align:center;">Next intake:</h3>
 
