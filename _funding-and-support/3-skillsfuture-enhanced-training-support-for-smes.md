@@ -5,7 +5,7 @@ permalink: /services/consultancy/funding-and-support/skillsfuture-enhanced-train
 breadcrumb: SkillsFuture Enhanced Training Support for SMEs
 collection_name: funding-and-support
 ---
-
+<a href="#" onclick="history.go(-1)">Back to previous page</a><br>
 <h3>What is Enhanced Training Support For SMEs (ETSS)?</h3>
 
 Skills upgrading remains a key mechanism for companies to raise productivity.  Compared to larger companies with more resources, Small and Medium Enterprises (SMEs) are less able to send their employees for training.  The Government has thus enhanced training support for SMEs by providing  higher course fee funding and increased absentee payroll cap.
