@@ -55,5 +55,7 @@ collections:
     output: true
   professional-conversion-programme:
     output: true
+  funding-and-support:
+    output: true
 
 resources_name: media-centre
