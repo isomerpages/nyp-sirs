@@ -31,7 +31,7 @@ Under the PCP - RP, participants will complete the following modules from the Wo
 	<li>Workplace Communication</li>
 </ol>
 
-<center><a href="/services/career-services/professional-conversion-programme/retail-professional" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;" target="_blank">Find Out More</a></center>
+<center><a href="/services/career-services/professional-conversion-programme/retail-professional" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Find Out More</a></center>
 
 <h4 id="pcp-dp">PCP - Digital Professional (PCP - DP)</h4>
 
@@ -46,7 +46,7 @@ Under the PCP - RP, participants will complete the following modules from the Wo
 	<li><a href="/digital-programmes/alibaba-business-school/alibaba-content-marketing-programme">Alibaba Business School - SIRS Boost Sales through Effective Content Marketing Programme</a></li>
 </ol>
 
-<center><a href="/services/career-services/professional-conversion-programme/digital-professional" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;" target="_blank">Find Out More</a></center>
+<center><a href="/services/career-services/professional-conversion-programme/digital-professional" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Find Out More</a></center>
 
 <h4 id="pcp-nmp">PCP - New Media Professional (PCP - NMP)</h4>
 
@@ -61,7 +61,7 @@ Under the PCP - RP, participants will complete the following modules from the Wo
 	<li><a href="https://www.mediaacademy.sg/page/FUNDED-PROGRAMMES/making-online-content" target="_blank">Singapore Media Academy's Making Online Content Programme</a></li>
 </ol>
 
-<center><a href="/services/career-services/professional-conversion-programme/new-media-professional" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;" target="_blank">Find Out More</a></center>
+<center><a href="/services/career-services/professional-conversion-programme/new-media-professional" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Find Out More</a></center>
 
 <h4>Salary Support</h4>
 
