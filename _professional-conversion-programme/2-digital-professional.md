@@ -27,8 +27,8 @@ collection_name: professional-conversion-programme
 <center><a href="/digital-programmes/alibaba-business-school/alibaba-entrepreneur-startup-programme" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Find Out More</a></center>
 
 <h5>Alibaba Managerial Elite Programme</h5>
-<div class="body_img">
-<img src="images/alibaba-business-school/alibaba-mep.jpg" style="width:50%;float:left;padding:10px 10px 10px 10px;"></div>The Managerial Elite programme aims to develop Digital Professionals with core competency in the area of data analytics, enabling them to operate and strategise their business operations effectively. The knowledge and skills imparted will enable Digital Professionals to devise content marketing strategy and design retargeting promotion to achieve breakthrough in their existing online business and stand out from the industry competition.
+
+<img src="images/alibaba-business-school/alibaba-mep.jpg" style="width:50%;float:left;padding:10px 10px 10px 10px;">The Managerial Elite programme aims to develop Digital Professionals with core competency in the area of data analytics, enabling them to operate and strategise their business operations effectively. The knowledge and skills imparted will enable Digital Professionals to devise content marketing strategy and design retargeting promotion to achieve breakthrough in their existing online business and stand out from the industry competition.
 
 <center><a href="/digital-programmes/alibaba-business-school/alibaba-managerial-elite-programme" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Find Out More</a></center>
 
