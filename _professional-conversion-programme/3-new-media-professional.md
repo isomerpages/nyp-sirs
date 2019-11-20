@@ -22,23 +22,23 @@ collection_name: professional-conversion-programme
 <p>Under the PCP - NMP, participants will have to complete the following programmes:</p>
 
 <h5>Alibaba Entrepreneur Startup Programme</h5>
-<div class="body-img">
-<img src="images/alibaba-business-school/alibaba-esp.jpg" style="width:50%;float:left;padding:10px 10px 10px 10px;"></div>The Entrepreneur Startup programme is designed for enterprising business start-ups and individuals seeking to launch an online store as an individual or enterprise. Through this course, participants will learn how efficiently set up, manage and operate an online store, understand China and South East Asia’s business opportunities at each phase of development that businesses can gain from. Mastering the ecommerce modus operandi and techniques with key big data analytics and benchmark.
+
+<img src="images/alibaba-business-school/alibaba-esp.jpg" style="width:50%;float:left;padding:10px 10px 10px 10px;">The Entrepreneur Startup programme is designed for enterprising business start-ups and individuals seeking to launch an online store as an individual or enterprise. Through this course, participants will learn how efficiently set up, manage and operate an online store, understand China and South East Asia’s business opportunities at each phase of development that businesses can gain from. Mastering the ecommerce modus operandi and techniques with key big data analytics and benchmark.
   
 
 <center><a href="/digital-programmes/alibaba-business-school/alibaba-entrepreneur-startup-programme" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Find Out More</a></center>
 
 <h5>Alibaba Content Marketing Programme</h5>
-<div class="body-img">
-<img src="images/pcp/pcp-new-media-professional.jpg" style="width:50%;float:left;padding:10px 10px 10px 10px;"></div>The Content Marketing programme is designed for participants to learn the most efficient way to relate a brand story to target audiences, keeping them interested and engaged with meaningful videos that drive the right messages through different platforms. The knowledge and technical skills imparted will enable participants to connect with their online community, generate leads/customers, create brand awareness, establish a positive brand reputation and build customers’ trust and loyalty. 
+
+<img src="images/pcp/pcp-new-media-professional.jpg" style="width:50%;float:left;padding:10px 10px 10px 10px;">The Content Marketing programme is designed for participants to learn the most efficient way to relate a brand story to target audiences, keeping them interested and engaged with meaningful videos that drive the right messages through different platforms. The knowledge and technical skills imparted will enable participants to connect with their online community, generate leads/customers, create brand awareness, establish a positive brand reputation and build customers’ trust and loyalty. 
 
 <center><a href="/digital-programmes/alibaba-business-school/alibaba-content-marketing-programme" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Find Out More</a></center>
 
 <h5>Singapore Media Academy Making Online Content Programme</h5>
-<div class="body-img">
-<img src="images/pcp/sma-making-online-content.jpg" style="width:50%;float:left;padding:10px 10px 10px 10px;"></div>Learn the basics in story structure, what makes a compelling story and how it can and has been applied to different mediums like film, television and stage plays.
 
-<p>In this programme, learners will cover the A to Z of making good and compelling content and/or short videos from concept, pre-production and production to post-production using consumer products, equipment and software like mobile phones and complimentary editing software.
+<img src="images/pcp/sma-making-online-content.jpg" style="width:50%;float:left;padding:10px 10px 10px 10px;">Learn the basics in story structure, what makes a compelling story and how it can and has been applied to different mediums like film, television and stage plays.
+
+<p>In this programme, learners will cover the A to Z of making good and compelling content and/or short videos from concept, pre-production and production to post-production using consumer products, equipment and software like mobile phones and complimentary editing software.</p>
 
 <center><a href="https://www.mediaacademy.sg/page/FUNDED-PROGRAMMES/making-online-content" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;" tareget="_blank">Find Out More</a></center>
 
@@ -71,7 +71,7 @@ collection_name: professional-conversion-programme
 
 <h4 style="text-align:center;">Funding and Support</h4>
 
-<p>To encourage employers to take on mid-career switchers without the requisite experience or skills, funding support will be provided during each of the 6-month Place-and-Train programmes. Employers will co-fund the remaining salary and course fees. </p>
+To encourage employers to take on mid-career switchers without the requisite experience or skills, funding support will be provided during each of the 6-month Place-and-Train programmes. Employers will co-fund the remaining salary and course fees.
 
 <h5>Salary Support</h5>
 <ol>
