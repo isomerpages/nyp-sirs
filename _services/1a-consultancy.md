@@ -11,7 +11,7 @@ second_nav_title: "Consultancy"
 <p>To aid retailers in their businss transformation, and employees and candidates in their upskilling, SIRS provides consultancy on the following:
   
   <ul>
-    <li><a href="/services/consultancy/funding-and-support">Programme Fee Funding and Support</a></li>
+    <li>Programme Fee Funding and Support</li>
     <ul><li><a href="/services/consultancy/funding-and-support/skillsfuture-credit">SkillsFuture Credits</a></li>
         <li><a href="/services/consultancy/funding-and-support/mid-career-enhanced-subsidy">Mid-Career Enhanced Subsidy</a></li>
         <li><a href="/services/consultancy/funding-and-support/skillsfuture-enhanced-training-support-for-smes">SkillsFuture Enhanced Training Support for SMEs</a></li>
