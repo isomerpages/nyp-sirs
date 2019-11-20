@@ -15,6 +15,25 @@ second_nav_title: "Career Services"
 
 <p>SIRS offers a range of Professional Conversion Programmes (PCPs) in the Retail sector,for the <a href="/services/career-services/professional-conversion-programme/retail-professional">Retail Professional</a>, <a href="/services/career-services/professional-conversion-programme/digital-professional">Digital Professional</a> and <a href="/services/career-services/professional-conversion-programme/new-media-professional">New Media Professional</a>, to equip Professionals, Managers, Executives, and Technicians (PMETs) transiting into these new careers with the right skillsets and support employers to attract talents for enterprise capability building.</p>
 
+<h4>SIRS offers the following PCP tracks:</h4>
+
+<h5>PCP - Retail Professional (PCP - RP)</h5>
+
+<img src="images/pcp/pcp-retail-professional.jpg" style="width:100%:">
+
+<p>PMET mid-career switchers will undergo skills conversion to embark on a career in retail such as Operations, Customer Service or Supply Chain job roles, to assist retailers to meet growing consumers’ expectations and to deliver a memorable customer journey.
+Under the PCP - RP, participants will complete the following modules from the Workforce Skills Qualification (WSQ) Diploma in Retail (Operations):
+
+<ol>
+	<li>Adapt to Change</li>
+	<li>Retailing and the Economy</li>
+	<li>Sales Target Management</li>
+	<li>Service Leadership</li>
+	<li>Workplace Communication</li>
+</ol>
+
+<center><a href="/services/career-services/professional-conversion-programme/retail-professional" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;" target="_blank">Find Out More</a></center>
+
 <table style="width: 100%; height: 832px; text-align: left;">
 		<tr>
 			<td colspan="2">
