@@ -5,6 +5,8 @@ permalink: /about-us
 breadcrumb: About SIRS
 collection_name: about-us
 ---
+<a href="javascript:history.back()">Back to previous page</a>
+
 The Singapore Institute of Retail Studies (SIRS) is a Continuing Education & Training (CET) institute of Nanyang Polytechnic (NYP). Set up in 2006, SIRS’ excellent performance and track record won the conferment of the National CET Institute status, the pinnacle status for CET centres. In 2016, SIRS is appointed as the Anchor Provider for the Retail Industry by *SkillsFuture Singapore, as well as the Lean Enterprise Development Multiplier and Programme Manager for the Professional Conversion Programme & Earn And Learn Programme by Workforce Singapore.
 
 On 30 November 2016, SIRS-NYP and UniSIM signed a collaboration agreement to offer a new articulation pathway for participants of the Retail SkillsFuture Earn & Learn Programme (ELP). ELP candidates, upon completion of their WSQ Specialist Diploma in Retail Management, can enrol in UniSIM’s Bachelor of Science in Marketing programme and gain recognition for up to 30 credit units, enabling them to complete the programme in a shorter period of time.
