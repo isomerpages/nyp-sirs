@@ -35,7 +35,7 @@ second_nav_title: "Career Services"
   </tr>
   
   <tr>
-    <td>Through the Work-Learn Bootcamp, individuals will be able to:
+    <td style="width:50%;">Through the Work-Learn Bootcamp, individuals will be able to:
       <ul>
 <li>Acquire relevant behavioural, mind-set and technical skills related to a specific job role through a short training programme before seeking employment with a company in job roles with acute skills shortage</li>
 <li>Receive a competitive starting salary and full-time employment with participating companies, along with mentorship</li>
@@ -45,7 +45,7 @@ second_nav_title: "Career Services"
       <em><sup>1</sup> The training allowance of $1,000 is for participants who are Singapore Citizens only</em>
   </td>
   
-  <td>Employers hiring a WLB graduate will be able to:
+  <td style="width:50%;">Employers hiring a WLB graduate will be able to:
     <ul>
 <li>Access a pool of job-ready individuals who have been equipped with relevant skills and aptitude</li>
 <li>Reduce upfront training costs as job-ready talent will have already undergone behavioural, mind-set and technical skills related to a specific job role</li>
