@@ -27,7 +27,7 @@ info-sections:
     section-image-path: /images/SIRS-VM-lab.jpg
     
   - section-subtitle: Our Services
-    section-image-path: /images/SIRS-VM-lab.jpg
+    section-image-path: /images/sirs-services.png
     section-description: SIRS is a Continuing Education and Training (CET) centre of Nanyang Polytechnic (NYP). Jointly set up in 2006 by the Workforce Development Agency and NYP, SIRS seeks to enhance the skills and competencies of Singapore's retail enterprises and workforce.
     section-more-button: More about SIRS
     section-more-button-url: /services/
