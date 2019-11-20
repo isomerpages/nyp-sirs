@@ -364,11 +364,10 @@ $desktop: 960px + (2 * $gap) !default;
 .img {
 display:inline;
 }
-@media screen and (max-width: 480px) and (min-width: 320px) {
-    /* For mobile phones: */
-* {
-    box-sizing: border-box;
-}
+
+@media only screen and (max-device-width: 768px) {
+   img {display:block;width:100% !important}
+	
 .img {
 display:block;
 } }
