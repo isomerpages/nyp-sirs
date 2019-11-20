@@ -6,6 +6,7 @@ breadcrumb: Career Services
 collection_name: services
 second_nav_title: "Career Services"
 ---
+<a href="#" onclick="history.go(-1)">Back to previous page</a><br>
 <img src="images/career-services-header.jpg" style="width:100%;">
 
 <h3>Career Services Centre</h3>
