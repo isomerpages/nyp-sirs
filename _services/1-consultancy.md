@@ -1,10 +1,9 @@
 ---
 layout: leftnav-page-content
-title: Overview
+title: Consultancy
 permalink: /services/consultancy
-breadcrumb: Overview
+breadcrumb: Consultancy
 collection_name: services
-second_nav_title: "Consultancy"
 ---
 <p>SIRS consultants work closely with retailers to diagnose and develop solutions to ensure that they are kept at the forefront of the retail sector. We also work with employees, and candidates who are interested in a career in retail, to keep them abreast of the latest skills and knowledge to succeed in their career.</p>
 
