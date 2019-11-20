@@ -53,5 +53,7 @@ collections:
     output: true
   media-centre:
     output: true
+  professional-conversion-programme:
+    output: true
 
 resources_name: media-centre
