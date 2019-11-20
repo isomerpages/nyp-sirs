@@ -6,7 +6,7 @@ breadcrumb: SkillsFuture for Digital Workplace
 collection_name: digital-programmes
 ---
 <img src="images/sfdw_banner.png" style="width:100%;">
-<h4 style="text-align:center;">Next intake:</h4>
+<h3 style="text-align:center;">Next intake:</h3>
 
 <center><table style="width:80%;">
     <tr style="text-align:center;">
@@ -56,7 +56,7 @@ What you will learn:
     <li>利用科技来提高生活质量和增加工作效率</li>
     <li>制定继续学习计划，为将来做好准备</li>
 
-<h4 style="text-align:center;">Programme Fees</h4>
+<h3 style="text-align:center;">Programme Fees</h3>
 <center><em>Self-sponsored individuals may use their SkillsFuture Credits to pay for the nett course fee/s.</em></center>
 <table style="width:100%;">
     <tr style="text-align:center;">
