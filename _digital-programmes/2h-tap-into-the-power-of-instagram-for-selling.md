@@ -6,3 +6,4 @@ breadcrumb: Tap into the Power of Instagram for Selling
 collection_name: digital-programmes
 second_nav_title: "SkillsFuture Series"
 ---
+<a href="#" onclick="history.go(-1)">Back to previous page</a>
