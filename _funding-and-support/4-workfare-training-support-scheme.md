@@ -5,6 +5,7 @@ permalink: /services/consultancy/funding-and-support/workfare-training-support-s
 breadcrumb: Workfare Training Support Scheme
 collection_name: funding-and-support
 ---
+<a href="#" onclick="history.go(-1)">Back to previous page</a><br>
 <h3>What is Workfare Training Support (WTS) Scheme?</h3>
 
 Workfare rewards work and encourages development by supplementing the incomes and retirement savings of older, lower-waged Singaporean workers. Workfare Training Support (WTS) is the training support pillar in Workfare scheme. 
