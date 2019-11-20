@@ -21,17 +21,7 @@ collection_name: services
 
 <p>SIRS' team of consultants provides consultancy services and solutions to retailers who need assistance in transformation or expansion. The range of consultancy services includes workshops with retailers to understand the challenges that they are facing, and the development of solutions to ensure the competitiveness of retailers in the rapidly transforming economy.</p>
 
-<p>SIRS consultants provide advice on a vast array of government assistance, such as:
-  <ul>
-    <li><a href="/services/consultancy/funding-and-support">Programme Fee Funding and Support</a></li>
-    <ul><li><a href="/services/consultancy/funding-and-support/skillsfuture-credit">SkillsFuture Credits</a></li>
-        <li><a href="/services/consultancy/funding-and-support/mid-career-enhanced-subsidy">Mid-Career Enhanced Subsidy</a></li>
-        <li><a href="/services/consultancy/funding-and-support/skillsfuture-enhanced-training-support-for-smes">SkillsFuture Enhanced Training Support for SMEs</a></li>
-        <li><a href="/services/consultancy/funding-and-support/workfare-training-support-scheme">Workfare Training Support Scheme</a></li>
-        <li>Absentee payroll</li></ul>
-    <li><a href="/services/consultancy/grants">Government grants to aid in your business transformation</a></li>
-    </ul>
-    </p>
+<p>SIRS consultants provide advice on a vast array of government assistance for the individual, and for companies.</p>
 
 <h3>Education</h3>
 
