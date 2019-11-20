@@ -71,7 +71,7 @@ collection_name: professional-conversion-programme
 
 <h4 style="text-align:center;">Funding and Support</h4>
 
-To encourage employers to take on mid-career switchers without the requisite experience or skills, funding support will be provided during each of the 6-month Place-and-Train programmes. Employers will co-fund the remaining salary and course fees. 
+<p>To encourage employers to take on mid-career switchers without the requisite experience or skills, funding support will be provided during each of the 6-month Place-and-Train programmes. Employers will co-fund the remaining salary and course fees. </p>
 
 <h5>Salary Support</h5>
 <ol>
