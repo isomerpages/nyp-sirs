@@ -6,8 +6,8 @@ breadcrumb: Digital Professional
 collection_name: professional-conversion-programme
 ---
 <img src="images/pcp/pcp-digital-professional.jpg" style="width:100%;">
-A Joint Initiative By:
-<img src="images/pcp/sirs-wsg-banner.jpg" style="text-align:center;widht:50%:">
+<center>A Joint Initiative By:</center>
+<img src="images/pcp/sirs-wsg-banner.jpg" style="text-align:center;width:50%:">
 
 <p>The PCP - Digital Professional (PCP - DP) seeks to help retail companies tap on additional sources of manpower and meet their manpower needs by providing mid-career switchers with an opportunity to enter the retail profession. The PCP - DP will train participants in the operations and management of digital commerce, while equipping them with the necessary skills for digital marketing to aid retailers in their digital transformation, and boost their revenue with digital commerce.</p>
 
@@ -19,6 +19,70 @@ A Joint Initiative By:
 
 <h5>Alibaba Entrepreneur Startup Programme</h5>
 
-<img src="images/alibaba-business-school/alibaba-esp.jpg" style="width:40%;float:left;">The Entrepreneur Startup programme is designed for enterprising business start-ups and individuals seeking to launch an online store as an individual or enterprise. Through this course, participants will learn how efficiently set up, manage and operate an online store, understand China and South East Asia’s business opportunities at each phase of development that businesses can gain from. Mastering the ecommerce modus operandi and techniques with key big data analytics and benchmark.
+<img src="images/alibaba-business-school/alibaba-esp.jpg" style="width:40%;float:left;padding:10px 10px 10px 10px;">The Entrepreneur Startup programme is designed for enterprising business start-ups and individuals seeking to launch an online store as an individual or enterprise. Through this course, participants will learn how efficiently set up, manage and operate an online store, understand China and South East Asia’s business opportunities at each phase of development that businesses can gain from. Mastering the ecommerce modus operandi and techniques with key big data analytics and benchmark.
 
 <center><a href="/digital-programmes/alibaba-business-school/alibaba-entrepreneur-startup-programme" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Find Out More</a></center>
+
+<h5>Alibaba Managerial Elite Programme</h5>
+
+<img src="images/alibaba-business-school/alibaba-mep.jpg" style="width:40%;float:left;padding:10px 10px 10px 10px;">The Managerial Elite programme aims to develop Digital Professionals with core competency in the area of data analytics, enabling them to operate and strategise their business operations effectively. The knowledge and skills imparted will enable Digital Professionals to devise content marketing strategy and design retargeting promotion to achieve breakthrough in their existing online business and stand out from the industry competition.
+
+<center><a href="/digital-programmes/alibaba-business-school/alibaba-managerial-elite-programme" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Find Out More</a></center>
+
+<h5>Alibaba Content Marketing Programme</h5>
+
+<img src="images/pcp/pcp-new-media-professional.jpg" style="width:40%;float:left;padding:10px 10px 10px 10px;">The Content Marketing programme is designed for participants to learn the most efficient way to relate a brand story to target audiences, keeping them interested and engaged with meaningful videos that drive the right messages through different platforms. The knowledge and technical skills imparted will enable participants to connect with their online community, generate leads/customers, create brand awareness, establish a positive brand reputation and build customers’ trust and loyalty. 
+
+<center><a href="/digital-programmes/alibaba-business-school/alibaba-content-marketing-programme" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Find Out More</a></center>
+
+<h4 style="text-align:center;">Programme Fees</h4>
+
+<center>
+<table style="width:100%;">
+<tr>
+<th style="width:70%;">Category</th>
+<th style="width:30%:">Price</th>
+</tr>
+
+<tr>
+<td>Singaporean/Singapore PR</td>
+<td>$6,099.90</td>
+</tr>
+
+<tr>
+<td>Singaporeans/SPRs eligible for SkillsFuture Mid-Career Enhancement Subsidy</td>
+<td>$2,268.90</td>
+</tr>
+
+<tr>
+<td>Others</td>
+<td>$20,223.00</td>
+</tr>
+
+</table>
+</center>
+
+<h4 style="text-align:center;">Funding and Support</h4>
+
+To encourage employers to take on mid-career switchers without the requisite experience or skills, funding support will be provided during each of the 6-month Place-and-Train programmes. Employers will co-fund the remaining salary and course fees. 
+
+<h5>Salary Support</h5>
+<ol>
+  <li>Up to 70% of trainee's monthly salary (capped at $4,000 per month, excluding GST)</li>
+  <li>Up to 90%<sup>1</sup> of trainees' monthly salary (capped at $6,000 per month, excluding GST)</li>
+</ol>
+<em><sup>1</sup>For PMETs aged 40 and above, and/or trainees who have been unemployed for more than 6 months</em>
+
+<h5>Course Fee Subsidy</h5>
+<ol>
+  <li>Non-Small and Medium Enterprises (SMEs): 70% SSG funding<sup>2</sup></li>
+  <li>SMEs or trainees eligible for Mid-Career Enhanced Subsidy (MCES): 90% SSG funding<sup>2</sup></li>
+</ol>
+<em><sup>2</sup>Funding caps vary and apply for respective PCPs</em>
+
+<h4 style="text-align:center;">Fact Sheets</h4>
+To find out more about the PCP - Retail Professional track, you may download the respective factsheets in the links below:
+
+<center><a href="/brochures/Factsheet_SIRS_PCP_DP_Oct 2019_Company_v18.pdf" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">For Employers</a></center>
+
+<center><a href="/brochures/Factsheet_SIRS_PCP_DP_ Oct 2019_Candidate_v14.pdf" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">For Employees</a></center>
