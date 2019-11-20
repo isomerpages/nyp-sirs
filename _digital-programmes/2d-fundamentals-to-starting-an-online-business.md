@@ -6,3 +6,4 @@ breadcrumb: Fundamentals to Starting an Online Business
 collection_name: digital-programmes
 second_nav_title: "SkillsFuture Series"
 ---
+<a href="#" onclick="history.go(-1)">Back to previous page</a>
