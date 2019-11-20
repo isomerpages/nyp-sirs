@@ -14,11 +14,9 @@ second_nav_title: "Career Services"
 
 <p>Singapore Institute of Retail Studies (SIRS) is the appointed programme manager for PCP in the retail sector, assisting and supporting employers with manpower challenges in the face of the ever-changing retail landscape. Through structured classroom and on-the-job training (OJT), retailers are better able to align their training according to their specific business needs.</p>
 
-<p>SIRS offers a range of Professional Conversion Programmes (PCPs) in the Retail sector,for the <a href="/services/career-services/professional-conversion-programme/retail-professional">Retail Professional</a>, <a href="/services/career-services/professional-conversion-programme/digital-professional">Digital Professional</a> and <a href="/services/career-services/professional-conversion-programme/new-media-professional">New Media Professional</a>, to equip Professionals, Managers, Executives, and Technicians (PMETs) transiting into these new careers with the right skillsets and support employers to attract talents for enterprise capability building.</p>
+<p>SIRS offers a range of Professional Conversion Programmes (PCPs) in the Retail sector,for the <a href="#pcp-rp">Retail Professional</a>, <a href="/services/career-services/professional-conversion-programme/digital-professional">Digital Professional</a> and <a href="/services/career-services/professional-conversion-programme/new-media-professional">New Media Professional</a>, to equip Professionals, Managers, Executives, and Technicians (PMETs) transiting into these new careers with the right skillsets and support employers to attract talents for enterprise capability building.</p>
 
-<h4>SIRS offers the following PCP tracks:</h4>
-
-<h5>PCP - Retail Professional (PCP - RP)</h5>
+<h4 id="pcp-rp">PCP - Retail Professional (PCP - RP)</h4>
 
 <img src="images/pcp/pcp-retail-professional.jpg" style="width:100%:">
 
