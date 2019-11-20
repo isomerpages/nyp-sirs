@@ -20,7 +20,7 @@ Singaporeans will be able to use their SkillsFuture Credit to pay for work-skill
 
 <h3>How can I check my SkillsFuture Credit?</h3>
 
-You may check your SkillsFuture Credit account here.
+You may check your SkillsFuture Credit account <a href="http://www.skillsfuture.sg/credit" target="_blank">here</a>.
 
 <h3>Can I use the SkillsFuture Credit after the government subsidy?</h3>
 
