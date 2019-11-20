@@ -6,6 +6,7 @@ breadcrumb: Earn and Learn Programme
 collection_name: services
 second_nav_title: "Career Services"
 ---
+<a href="#" onclick="history.go(-1)">Back to previous page</a><br>
 <img src="images/elp/elp-header.jpg" style="width:100%;">
 
 <p>The SkillsFuture Earn and Learn Programme (18 months) is a work-learn programme that gives fresh graduates from polytechnics and the Institute of Technical Education (ITE) a head-start in careers related to their discipline of study. It provides them with more opportunities, after graduation, to build on the skills and knowledge they acquired in school, and better supports their transition into the workforce.</p>
