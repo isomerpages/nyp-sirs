@@ -35,17 +35,17 @@ second_nav_title: "Career Services"
   </tr>
   
   <tr>
-    <td style="width:50%;">Through the Work-Learn Bootcamp, individuals will be able to:
+    <td style="width:50%;"><p>Through the Work-Learn Bootcamp, individuals will be able to:
       <ul>
 <li>Acquire relevant behavioural, mind-set and technical skills related to a specific job role through a short training programme before seeking employment with a company in job roles with acute skills shortage</li>
 <li>Receive a competitive starting salary and full-time employment with participating companies, along with mentorship</li>
 <li>Receive a certificate of completion issued by SIRS/Nanyang Polytechnic, in collaboration with SSG and Generation</li>
 <li>Receive a training allowance upon completion of training and attendance of job interviews<sub>1</sub></li>
       </ul>
-      <em><sup>1</sup> The training allowance of $1,000 is for participants who are Singapore Citizens only</em>
+      <em><sup>1</sup> The training allowance of $1,000 is for participants who are Singapore Citizens only</em></p>
   </td>
   
-  <td style="width:50%;">Employers hiring a WLB graduate will be able to:
+  <td style="width:50%;"><p>Employers hiring a WLB graduate will be able to:
     <ul>
 <li>Access a pool of job-ready individuals who have been equipped with relevant skills and aptitude</li>
 <li>Reduce upfront training costs as job-ready talent will have already undergone behavioural, mind-set and technical skills related to a specific job role</li>
@@ -53,7 +53,7 @@ second_nav_title: "Career Services"
 <li>Have a significant business impact due to higher quality output and positive workplace behavior from WLB graduates</li>
 <li>Receive a mentorship grant of $5,000 per individual placed in WLB to provide mentorship for the individual<sup>2</sup></li>
     </ul>
-    <em><sup>2</sup> The mentorship grant is for every successfully placed WLB graduate who are Singapore Citizens and Permanent Residents only.</em>
+    <em><sup>2</sup> The mentorship grant is for every successfully placed WLB graduate who are Singapore Citizens and Permanent Residents only.</em></p>
   </td>
   
   </tr>
