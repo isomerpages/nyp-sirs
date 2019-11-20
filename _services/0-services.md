@@ -5,6 +5,7 @@ permalink: /services
 breadcrumb: Overview
 collection_name: services
 ---
+<a href="#" onclick="history.go(-1)">Back to previous page</a><br>
 <img src="images/sirs-services.png" style="width:100%;">
 
 <p>As the anchor provider of the retail industry, SIRS provides a full suite of services both for employers, and employees in the retail industry. The range of services include:
