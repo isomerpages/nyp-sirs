@@ -359,15 +359,3 @@ $desktop: 960px + (2 * $gap) !default;
     width: 100%;
   }
 }
-
-//responsive image for mobile
-.body_img {
-display:inline;
-}
-
-@media only screen and (max-device-width: 768px) {
-   img {display:block;width:100% !important}
-	
-.body_img {
-display:block;
-} }
