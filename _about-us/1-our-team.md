@@ -22,6 +22,10 @@ collection_name: about-us
     <td>Ms Megan Ong</td>
     <td>Director</td>
   </tr>
+  <tr>
+    <td>Ms Ong Li Ping</td>
+    <td>Asst Admin Executive (Director's Office & Business Development)</td>
+  </tr>
 </table>
 
 <h3>Business Development</h3>
