@@ -50,7 +50,7 @@ collection_name: about-us
   </tr>
   <tr>
     <td>Ms Joanne Low</td>
-    <td>Business Development/Lecturer</td>
+    <td>Business Development/Lecturer and Programmes Facilitator</td>
   </tr>
   <tr>
     <td>Ms Celeste Tan</td>
