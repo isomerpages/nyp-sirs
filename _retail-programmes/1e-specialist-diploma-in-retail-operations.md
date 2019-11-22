@@ -61,17 +61,17 @@ Learn to build an organizational culture for innovation and productivity to have
 </tr>
 
 <tr>
-  <td>Workfare Training Support<sup>1</sup></td>
+  <td><a href="/services/consultancy/funding-and-support/workfare-training-support-scheme">Workfare Training Support</a><sup>1</sup></td>
 <td>$711.42</td>
 </tr>
 
 <tr>
-  <td>Funding for Mid-Career Enhanced Subsidy (MESS)<sup>2</sup></td>
+  <td>Funding for <a href="/services/consultancy/funding-and-support/mid-career-enhanced-subsidy">Mid-Career Enhanced Subsidy (MESS)</a><sup>2</sup></td>
 <td>$1,212.42</td>
 </tr>
 
 <tr>
-  <td>Company-sponsored Applications with Enhanced Training Support for SMEs (ETSS)<sup>2</sup></td>
+  <td>Company-sponsored Applications with <a href="/services/consultancy/funding-and-support/skillsfuture-enhanced-training-support-for-smes">Enhanced Training Support for SMEs (ETSS)</a><sup>2</sup></td>
 <td>$1,212.42</td>
 </tr>
 
@@ -81,7 +81,7 @@ Learn to build an organizational culture for innovation and productivity to have
 This course is also eligible for the following:
 
 <ul>
-  <li>SkillsFuture Credit S$500<sup>3</sup></li>
+  <li><a href="/services/consultancy/funding-and-support/skillsfuture-credit">SkillsFuture Credit S$500</a><sup>3</sup></li>
   <li>SkillsFuture Qualification Award S$1,000<sup>3</sup></li>
   <li>SkillsFuture Study Award S$5,000<sup>3</sup>
     <ul><li>For more information on the SkillsFuture Study Award, <a href="http://programmes.myskillsfuture.sg/Portal/ProgramListing.aspx?source=SFSA" target="_blank">click here</a>.</li>
@@ -91,7 +91,7 @@ This course is also eligible for the following:
 </ul>
 
 <sup>1</sup>Singapore Citizen, aged 35 years & above and monthly income of not more than $2,000<br>
-<sup>2</sup>Fee is after reimbursement of $2,004 via SkillsConntect<br>
+<sup>2</sup>Fee is after reimbursement of $2,004 via SkillsConnect<br>
 <sup>3</sup>Applicable for Singapore Citizens only
 
 <h3>Entry Requirements</h3>
