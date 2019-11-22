@@ -9,6 +9,34 @@ second_nav_title: "Career Services"
 <a href="#" onclick="history.go(-1)">Back to previous page</a><br>
 <img src="images/career-services-header.jpg" style="width:100%;">
 
+<h3>Your Retail Career Pathway</h3>
+
+<p>RThe retail sector is a labour-intensive sector, with 80% of workers in Rank and File jobs, and 79% in Front-of-House operations. As part of retail operations, your role involves managing the day-to-day functions of establishments, with areas of responsibilities in planning, managing, and maintaining the retail store, protecting the store and merchandise, providing excellent customer service, and coordinating the movement of goods and people within the store.</p>
+
+<p>As a retail professional, your expected career pathway is as follows:</p>
+
+<p><b>Sales Associate</b><br>
+  <em>Monthly salary range: $1,600 - $2,400*</em><br>
+  Responsible for achieving sales, delivering service and operations excellence. Engages in innovation and productivity initiatives for the store.</p>
+  
+<p><b>Sales Supervisor</b><br>
+  <em>Monthly salay range: $2,200 - $3,300*</em><br>
+  Accountable for achieving assigned team sales targets, coordinates activities to ensure operational demands are catered for. Oversees daily store operations.</p>
+  
+<p><b>Store Manager</b><br>
+  <em>Monthly salary range: $3,000 - $5,500*</em><br>
+  Oversees end-to-end operations of a store. Responsible for driving sales and service performance.</p>
+  
+<p><b>Area/District Manager</b><br>
+  <em>Monthly salary range: $4,000 - $7,700*</em><br>
+  Oversees operations of a group of stores in a given area/district. Responsible for developing businss opportunities, managing operational and service excellence.</p>
+  
+<p><b>Operations Director</b><br>
+  <em>Monthly salary range: $10,000 - $19,500*</em><br>
+  Drives realisation of businss strategies by developing business opportunities, fostering relationships with stakeholders, and establishing operations and service excellence standards.</p>
+  
+<p><em>*Source: Skills Framework for Retail</em></p>
+
 <h3>Career Services Centre</h3>
 
 <p>SIRS provides career guidance for individuals seeking a career in retail and those considering a career move from another industry or within the retail industry. This includes facilitating placements for individuals trained by SIRS, so that they can gain employment in the retail industry after training.</p>
