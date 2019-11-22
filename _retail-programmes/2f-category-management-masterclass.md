@@ -8,16 +8,6 @@ second_nav_title: "Short Courses"
 ---
 <a href="#" onclick="history.go(-1)">Back to previous page</a><br>
 
----
-layout: leftnav-page-content
-title: Creating an Unforgettable Customer Experience
-permalink: /retail-programmes/short-courses/creating-an-unforgettable-customer-experience
-breadcrumb: Creating an Unforgettable Customer Experience
-collection_name: retail-programmes
-second_nav_title: "Short Courses"
----
-<a href="#" onclick="history.go(-1)">Back to previous page</a><br>
-
 <img src="images/short-courses/short-courses-category-management-masterclass.jpg" style="width:100%;">
 
 <p>Category management is a critical function to determine the success of an overall business strategy, and this is especially true in the rapidly transforming retail space. As more consumers move between offline and online platforms, category management helps facilitate consumer experience by optimising store layouts and increasing the appeal of visual display. With proper clustering and centralising management system in place, retailers can efficiently anticipate consumers’ needs, buy more effectively and save significant sums of money in procurement.
