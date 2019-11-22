@@ -8,6 +8,8 @@ second_nav_title: "WSQ Certification Programmes"
 ---
 <a href="#" onclick="history.go(-1)">Back to previous page</a><br>
 
+<img src="images/wsq/wsq-acro.jpg" style="width:100%;">
+
 <p>Many people may not recognise that retailing has evolved into a high-tech, global business.</p>
  
 <p>Retail Supervisors needs to supervise and drive their team in a highly competitive business environment that is rapidly undergoing changes with technology advancement. With data driving the day-to-day operations and decision-makings, they need to be agile and responsive to evolving needs. They need to lead and manage change, be a role model to show and tell and coach staff to optimise performance.</p>
