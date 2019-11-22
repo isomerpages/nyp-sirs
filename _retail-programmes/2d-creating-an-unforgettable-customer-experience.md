@@ -51,8 +51,6 @@ second_nav_title: "Short Courses"
 </table>
 </center>
 
-<em><sup>1</sup>Singapore Citizen, aged 35 years old & above and monthly income of not more than S$2,000.</em>
-
 <h3>Course Duration</h3>
 
 <p>Total of 2 days, 15 hours:
