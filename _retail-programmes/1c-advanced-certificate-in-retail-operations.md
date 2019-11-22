@@ -62,7 +62,7 @@ Understand current trends in retail and how to use analytical tools to identify 
 </tr>
 
 <tr>
-  <td>Workfare Training Support<sup>1</sup></td>
+  <td><a href="/services/consultancy/funding-and-support/workfare-training-support-scheme">Workfare Training Support</a><sup>1</sup></td>
 <td>$251.37</td>
 </tr>
 
@@ -72,7 +72,7 @@ Understand current trends in retail and how to use analytical tools to identify 
 This course is also eligible for the following:
 
 <ul>
-  <li>SkillsFuture Credit S$500<sup>2</sup></li>
+  <li><a href="/services/consultancy/funding-and-support/skillsfuture-credit">SkillsFuture Credit S$500</a><sup>2</sup></li>
   <li>SkillsFuture Qualification Award S$200<sup>2</sup></li>
 </ul>
 
