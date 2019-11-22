@@ -42,13 +42,6 @@ Understand current trends in retail and how to use analytical tools to identify 
 <h3>Course Duration</h3>
 <p>The total duration of the programme is 5-8 months. Day or night classes are available.</p>
 
-To apply, please complete online registration here and email to courses@sirs.edu.sg the following supporting documents:
-
-Highest educational certificate and/or Workplace Literacy and Numeracy (WPLN) results
-Resume listing all working experience and job functions performed
-
-All applications received by the Singapore Institute of Retail Studies (SIRS) will be evaluated to determine their suitability for admission into our relevant level of programs. The outcome of all applications will be communicated to applicants before the start of the earliest available intake subjected to submission of the required supporting documents and the minimum enrolment to start a class.
-
 <h3>Course Fees</h3>
 
 <center>
