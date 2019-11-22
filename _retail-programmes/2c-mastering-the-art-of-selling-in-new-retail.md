@@ -51,4 +51,13 @@ second_nav_title: "Short Courses"
 </table>
 </center>
 
+<h3>Course Duration</h3>
+
+<p>Total of 2 days, 15 hours:
+  <ul>
+    <li>Day 1: 9am to 5pm</li>
+    <li>Day 2: 9am to 6pm</li>
+    </ul>
+    </p>
+
 <center><a href="http://docs.google.com/forms/d/e/1FAIpQLSc5T_Fk_whLcLHW79DS80MhPcC4lP199IKDyv3w-_nr4qXJsw/viewform" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;" target="_blank">Register Now</a></center>
