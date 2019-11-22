@@ -11,7 +11,7 @@ second_nav_title: "Career Services"
 
 <h3>Your Retail Career Pathway</h3>
 
-<p>RThe retail sector is a labour-intensive sector, with 80% of workers in Rank and File jobs, and 79% in Front-of-House operations. As part of retail operations, your role involves managing the day-to-day functions of establishments, with areas of responsibilities in planning, managing, and maintaining the retail store, protecting the store and merchandise, providing excellent customer service, and coordinating the movement of goods and people within the store.</p>
+<p>The retail sector is a labour-intensive sector, with 80% of workers in Rank and File jobs, and 79% in Front-of-House operations. As part of retail operations, your role involves managing the day-to-day functions of establishments, with areas of responsibilities in planning, managing, and maintaining the retail store, protecting the store and merchandise, providing excellent customer service, and coordinating the movement of goods and people within the store.</p>
 
 <p>As a retail professional, your expected career pathway is as follows:</p>
 
