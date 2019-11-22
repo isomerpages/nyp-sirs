@@ -56,6 +56,6 @@ Discover how the 8-step category management process helps you to develop win-win
 </table>
 </center>
 
-<em><sup>1</sup>Fee is after reimbursement of S$240 via SkillsConnect under Enhanced Training Support for SMEs.</em>
+<em><sup>1</sup>Fee is after reimbursement of S$240 via SkillsConnect under <a href="/services/consultancy/funding-and-support/skillsfuture-enhanced-training-support-for-smes">Enhanced Training Support for SMEs.</a></em>
 
 <center><a href="https://form.gov.sg/5d9d3f30a8b1b30012143f58" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;" target="_blank">Register Now</a></center>
