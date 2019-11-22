@@ -7,3 +7,48 @@ collection_name: retail-programmes
 second_nav_title: "Short Courses"
 ---
 <a href="#" onclick="history.go(-1)">Back to previous page</a><br>
+
+<img src="images/short-courses/short-courses-mastering-the-art-of-selling-in-new-retail.png" style="width:100%;">
+
+<p>The rapid transformation of the retail landscape has brought about new challenges for retailers. To meet the shifting demands of increasingly diverse customers, sales professionals need to take a creative and interactive approach to sell in the digital age. Besides being product experts, sales professionals must also cultivate meaningful relationships with customers, while adopting new technologies and sales strategies. Stay ahead of the competition by developing your skills and mastering the art of selling to win more customers in the new retail landscape.</p>
+
+<h3>Course Outline</h3>
+<ul>
+<li>Understand New Retail: New landscape, new customers</li>
+<li>Determine and meet diverse customer requirements</li>
+<li>Manage customer challenges</li>
+<li>Recommend solutions with relevant products and services</li>
+<li>Identify creative sales opportunities in online-to-offline commerce</li>
+  <li>Appreciate the process of closing a sale</li>
+  </ul>
+
+<b>Receive a Workforce Skills Qualification (WSQ) Statement of Attainment (SOA) from the SkillsFuture Singapore (SSG) upon completion.</b>
+
+<h3>Course Fees</h3>
+
+<center>
+<table style="width:100%;">
+<tr>
+<th style="width:70%;">Category</th>
+<th style="width:30%:">Price</th>
+</tr>
+
+<tr>
+<td>Full Course Fees</td>
+<td>$440.00</td>
+</tr>
+
+<tr>
+<td>Singapore Citizen/Singapore PR (SPR)</td>
+<td>$47.08</td>
+</tr>
+
+<tr>
+  <td>Workfare Training Support<sup>1</sup></td>
+<td>$25.08</td>
+</tr>
+
+</table>
+</center>
+
+<center><a href="http://docs.google.com/forms/d/e/1FAIpQLSc5T_Fk_whLcLHW79DS80MhPcC4lP199IKDyv3w-_nr4qXJsw/viewform" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;" target="_blank">Register Now</a></center>
