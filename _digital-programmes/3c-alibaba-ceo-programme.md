@@ -9,6 +9,8 @@ second_nav_title: "Alibaba Business School"
 <a href="#" onclick="history.go(-1)">Back to previous page</a><br>
 <img src="images/agcs-abs-sirs-atu-combined-logos.png" style="width:100%:">
 
+<img src="images/alibaba-business-school/alibaba-ceo-programme.JPG" style="width:100%;">
+
 <center>A 6-day 5-night immersive exploration into Alibaba's New Retail<br>
 6天5夜考察之旅-杭州</center>
 
