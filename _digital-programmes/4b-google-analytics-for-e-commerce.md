@@ -7,3 +7,54 @@ collection_name: digital-programmes
 second_nav_title: "Digital Marketing Masterclasses"
 ---
 <a href="#" onclick="history.go(-1)">Back to previous page</a>
+
+<img src="images/digital-masterclasses/google-analytics-for-e-commerce-with-gaiq-certification.jpg" style="width:100%;">
+
+<p>Following the rapid developments in e-commerce, it is increasingly crucial to understand the measurement framework that can help you better understand and achieve the effectiveness of your digital strategy. Data analytics has, therefore, become an important component which gives you the ability to track and optimise marketing campaigns by providing deep insights into multi-channel funnels and conversion attribution. The core analysis techniques are imperative in driving growth and success of digital business for retailers.</p>
+
+<p>This programme will cover the fundamentals of advanced certification topics in digital analytics, introduce key channels, concepts, metrics and determine how and where your business fits in the digital world.</p>
+
+<h3>Course Outline</h3>
+<ul>
+  <li>An overview of key digital trends and marketing techniques, from search engine marketing to content marketing and influencer outreach</li>
+<li>Interpret and measure CPC, CPM, CPA, CTR, Conversions</li>
+<li>Understand advanced tools, and best practices to improve advertising and marketing ROI, measuring visitors’ engagement and creating advanced goals</li>
+<li>Uncover further details and insights into your Google Analytics data by tackling topics such as customised tracking code, filtering analytics data, setting up goals and funnels, and tracking interactive elements</li>
+  </ul>
+  
+<h3>Trainer Profile</h3>
+<p><b>Ivan Wong</b><br>
+Ivan has over 20 years of experience in Business Consulting, Training, Search Engine Marketing, Conversion Optimisation and Digital Analytics from both client side and within the agency environment. Well-versed in both the technical and business aspects of digital marketing, he is one of the few Google-appointed regional trainers who trains the official Google AdWords, Analytics, and Mobile Advertising courses. In addition, he is a sought-after trainer, providing training and consultancy for leading marketing agencies including Google Mobile Labs, IE Singapore, The Knowledge Engineers, General Assembly, Econsultancy and ClickAcademy Asia. He was formerly the SEO/Analytics Director with GroupM Asia-Pacific. Prior to that, he was the Director of eCommerce at Far East Hospitality, Singapore’s largest operator of hotels and serviced residences. He has also held management positions at DGM Asia, Hewlett-Packard Asia, and Magnus Management Consultants.</p>
+
+<h3>Programme Fees</h3>
+<em>Self-sponsored individuals may use their SkillsFuture Credit to pay the nett course fee/s.</em>
+
+<center>
+<table style="width:100%;">
+<tr>
+<th style="width:70%;">Category</th>
+<th style="width:30%:">Price</th>
+</tr>
+
+<tr>
+<td>Singaporean/Singapore PR</td>
+<td>$385.20</td>
+</tr>
+
+<tr>
+<td>Singaporean 40 years &amp; above<br>
+Singaporean/SPR sponsored by SMEs*</td>
+<td>$145.20</td>
+</tr>
+
+<tr>
+<td>Others</td>
+<td>$1,284.00</td>
+</tr>
+
+</table>
+</center>
+
+<em style="text-align:center;">*Fee is after reimbursement of S$240 via SkillsConnect under Enhanced Training Support for SMEs.</em>
+  
+ <P> <center><a href="https://form.gov.sg/5d9d3f30a8b1b30012143f58" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;" target="_blank">Register Now</a></center>
