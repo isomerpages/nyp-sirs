@@ -40,9 +40,6 @@ second_nav_title: "Alibaba Business School"
 <h3 style="text-align:center;">Media Coverage</h3>
 <center><iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F8worldnews%2Fvideos%2F2614262928592616%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe></center>
 
-<h3 style="text-align:center;">Programme Fees</h3>
-<em style="text-align:center;">Self-sponsored individuals may use their SkillsFuture Credit to pay the nett course fee/s.</em>
-
 <h3 style="text-align:center;">Testimonials</h3>
 
 <p><em>"Through the Alibaba Content Marketing Programme, the trainers break down the various operations and explain them in-depth. The first day of the course was very insightful because the trainer showcased lots of data that is very useful in understanding the importance of content marketing, while second and third days are more interactive, and how to create livestreams."</em><br>
@@ -53,6 +50,9 @@ second_nav_title: "Alibaba Business School"
 
 <p><em>"Through the Alibaba Content Marketing Programme, I have learned how to gain an edge through content marketing, such as the knowledge of how to write or the angles of photos that I have to take to make it appealing to the fanbase."</em><br>
   <b>Clarissa Guo, Business Development Manager, AOne F&B Group</b></p>
+
+<h3 style="text-align:center;">Programme Fees</h3>
+<em style="text-align:center;">Self-sponsored individuals may use their SkillsFuture Credit to pay the nett course fee/s.</em>
 
 <center>
 <table style="width:100%;">
