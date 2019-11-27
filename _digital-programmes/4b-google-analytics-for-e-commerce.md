@@ -14,7 +14,7 @@ second_nav_title: "Digital Marketing Masterclasses"
 
 <p>This programme will cover the fundamentals of advanced certification topics in digital analytics, introduce key channels, concepts, metrics and determine how and where your business fits in the digital world.</p>
 
-<h3>Course Outline</h3>
+<h3 style="text-align:center;">Course Outline</h3>
 <ul>
   <li>An overview of key digital trends and marketing techniques, from search engine marketing to content marketing and influencer outreach</li>
 <li>Interpret and measure CPC, CPM, CPA, CTR, Conversions</li>
@@ -22,12 +22,12 @@ second_nav_title: "Digital Marketing Masterclasses"
 <li>Uncover further details and insights into your Google Analytics data by tackling topics such as customised tracking code, filtering analytics data, setting up goals and funnels, and tracking interactive elements</li>
   </ul>
   
-<h3>Trainer Profile</h3>
+<h3 style="text-align:center;">Trainer Profile</h3>
 <p><b>Ivan Wong</b><br>
 Ivan has over 20 years of experience in Business Consulting, Training, Search Engine Marketing, Conversion Optimisation and Digital Analytics from both client side and within the agency environment. Well-versed in both the technical and business aspects of digital marketing, he is one of the few Google-appointed regional trainers who trains the official Google AdWords, Analytics, and Mobile Advertising courses. In addition, he is a sought-after trainer, providing training and consultancy for leading marketing agencies including Google Mobile Labs, IE Singapore, The Knowledge Engineers, General Assembly, Econsultancy and ClickAcademy Asia. He was formerly the SEO/Analytics Director with GroupM Asia-Pacific. Prior to that, he was the Director of eCommerce at Far East Hospitality, Singapore’s largest operator of hotels and serviced residences. He has also held management positions at DGM Asia, Hewlett-Packard Asia, and Magnus Management Consultants.</p>
 
-<h3>Programme Fees</h3>
-<em>Self-sponsored individuals may use their SkillsFuture Credit to pay the nett course fee/s.</em>
+<h3 style="text-align:center;">Programme Fees</h3>
+<em style="text-align:center;">Self-sponsored individuals may use their SkillsFuture Credit to pay the nett course fee/s.</em>
 
 <center>
 <table style="width:100%;">
