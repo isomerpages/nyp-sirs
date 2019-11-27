@@ -15,8 +15,6 @@ second_nav_title: "Alibaba Business School"
 <center>Open Your Horizons. Apply Proven E-Commerce Strategies.<br>
 打开脑洞，学习套路应用在任何平台</center>
 
-<p><em>"I feel that the Alibaba is very advanced in terms of e-commerce and digital marketing. The lecturers were all of a very high standard, both in terms of intellectual ability, practical knowledge, and even business sense. I was quite amazed that  the criteria is that they must have managed real business sites well before they are allowed to be lecturers."</em> - <b>Lucy Yow, New Asia Ferrell</b></p>
-
 <p>SIRS in partnership with Alibaba Business School, the official training arm of Alibaba Group, offers comprehensive and systematic training programmes to meet a full spectrum of learning needs of government groups, entrepreneurs, SMEs, startups, e-commerce practitioners and students.</p>
 
 <p>The Entrepreneur Startup programme is designed for enterprising business start-ups and individuals seeking to launch an online store as an individual or enterprise. Through this course, participants will learn how efficiently set up, manage and operate an online store, understand China and South East Asia’s business opportunities at each phase of development that businesses can gain from. Mastering the ecommerce modus operandi and techniques with key big data analytics and benchmark. </p>
@@ -29,7 +27,7 @@ second_nav_title: "Alibaba Business School"
 
 <p>完成课程后的学员将获得由阿里巴巴商学院和新加坡零售管理学院所颁发的毕业证书。课程将由淘宝大学认证讲师以中文授课!</p>
 
-<h3>Highlights</h3>
+<h3 style="text-align:center;">Highlights</h3>
 
 <ul>
   <li>Gain insights to the development of the e-commerce industry in Southeast Asia and China</li>
@@ -38,6 +36,9 @@ second_nav_title: "Alibaba Business School"
   <li>Understand how to generate organic and paid traffic to your e-store</li>
   <li>Introduction to strategies to maximise conversions</li>
 </ul>
+
+<h3 style="text-align:center;">Testimonials</h3>
+<p><em>"I feel that the Alibaba is very advanced in terms of e-commerce and digital marketing. The lecturers were all of a very high standard, both in terms of intellectual ability, practical knowledge, and even business sense. I was quite amazed that  the criteria is that they must have managed real business sites well before they are allowed to be lecturers."</em> - <b>Lucy Yow, New Asia Ferrell</b></p>
 
 <h3 style="text-align:center;">Programme Fees</h3>
 <em style="text-align:center;">Self-sponsored individuals may use their SkillsFuture Credit to pay the nett course fee/s.</em>
