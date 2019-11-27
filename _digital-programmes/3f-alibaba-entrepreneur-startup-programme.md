@@ -15,8 +15,9 @@ second_nav_title: "Alibaba Business School"
 <center>Open Your Horizons. Apply Proven E-Commerce Strategies.<br>
 打开脑洞，学习套路应用在任何平台</center>
 
-<p><em>"I feel that the Alibaba is very advanced in terms of e-commerce and digital marketing. The lecturers were all of a very high standard, both in terms of intellectual ability, practical knowledge, and even business sense. I was quite amazed that  the criteria is that they must have managed real business sites well before they are allowed to be lecturers." - Lucy Yow, New Asia Ferrell
-SIRS in partnership with Alibaba Business School, the official training arm of Alibaba Group, offers comprehensive and systematic training programmes to meet a full spectrum of learning needs of government groups, entrepreneurs, SMEs, startups, e-commerce practitioners and students.</em></p>
+<p><em>"I feel that the Alibaba is very advanced in terms of e-commerce and digital marketing. The lecturers were all of a very high standard, both in terms of intellectual ability, practical knowledge, and even business sense. I was quite amazed that  the criteria is that they must have managed real business sites well before they are allowed to be lecturers."</em> - <b>Lucy Yow, New Asia Ferrell</b></p>
+
+<p>SIRS in partnership with Alibaba Business School, the official training arm of Alibaba Group, offers comprehensive and systematic training programmes to meet a full spectrum of learning needs of government groups, entrepreneurs, SMEs, startups, e-commerce practitioners and students.</p>
 
 <p>The Entrepreneur Startup programme is designed for enterprising business start-ups and individuals seeking to launch an online store as an individual or enterprise. Through this course, participants will learn how efficiently set up, manage and operate an online store, understand China and South East Asia’s business opportunities at each phase of development that businesses can gain from. Mastering the ecommerce modus operandi and techniques with key big data analytics and benchmark. </p>
 
