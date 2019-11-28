@@ -7,3 +7,69 @@ collection_name: digital-programmes
 second_nav_title: "Digital Marketing Masterclasses"
 ---
 <a href="#" onclick="history.go(-1)">Back to previous page</a>
+
+<img src="images/digital-masterclasses/digital-strategy-and-the-101-of-seo.jpg" style="width:100%;">
+
+<p>Business decision makers will learn how to apply simple digital frameworks, analyse digital campaign successes, formulate an actionable, forward-focus review, perform simple budgeting for digital strategies, project potential marketing ROI from digital campaigns as well as drive sales and boost business through SEO execution. This class covers successful case studies in Singapore and is extremely hands-on.</p>
+
+<p>Participants are required to have a Gmail account, bring a laptop and have Google Chrome (Safari on Mac) browser installed for constant practice.</p>
+
+<h3 style="text-align:center;">Course Outline</h3>
+<ul>
+<li>Introduction to today’s digital space</li>
+<li>Understand social media, search engine, email marketing and e-Commerce platforms</li>
+<li>Fundamental digital strategy</li>
+<li>Select the right digital channel, craft a simple  digital framework, understand how digital ROI is derived, plan a budget and project returns</li>
+<li>Introduction to SEO</li>
+<li>Determine this channel for growth, understand all necessary aspects of optimisation/ backlinking strategy and know 101 of hiring/ working with SEO vendors</li>
+<li>Evaluating digital campaigns & key metrics</li>
+<li>Create a simple framework to evaluate campaign success or failure and understand key metrics from Google Analytics and Google Webmaster tools</li>
+  </ul>
+  
+<h3 style="text-align:center;">Trainer Profile</h3>
+<p><b>Jayden Ooi</b><br>
+  <em>Entrepreneur, Digital Strategist</em><br>
+Jayden is the founding partner of 2 service companies, Ambient (Software Develop-ment) and NightOwl (SEO), which he started in 2014. Prior to it, Jayden graduated from NUS School Of Computing, with a major in eCommerce in 2013. He started a tech startup during his stint in university, and won the prestigious Startup@Singapore competition. Unfortunately, the startup failed in late 2014. Through a chance encoun-ter, Jayden received an opportunity to use his breadth of knowledge to strategise the online business for a small F&B business. He eventually assisted them to overcome their digital obstacles and rise to the very top of their industry in 3 years with a 7 digits yearly turnover today. It was a pivotal moment, where Jayden transformed his failed startup into a competent in-house team of SEO-ninjas and software engineers in Sin-gapore & Malaysia, that create quality solutions to solve real digital problems. Jayden & team has successfully nailed a Rank 1 / Top 3 / Top 5 ranking in Google Page 1 that has successfully driven an exponential increase in business opportunities and break-through in yearly revenue growth for his clients.</p>
+
+<h3 style="text-align:center;">Programme Fees</h3>
+<em style="text-align:center;">Self-sponsored individuals may use their SkillsFuture Credit to pay the nett course fee/s.</em>
+
+<center>
+<table style="width:100%;">
+<tr>
+<th style="width:70%;">Category</th>
+<th style="width:30%:">Price</th>
+</tr>
+
+<tr>
+<td>Singaporean/Singapore PR</td>
+<td>$240.75</td>
+</tr>
+
+<tr>
+<td>Singaporean 40 years &amp; above</td>
+<td>$90.75</td>
+</tr>
+
+<tr>
+  <td>Singaporean/SPR sponsored by SMEs*</td>
+<td>$90.75</td>
+</tr>
+
+<tr>
+<td><a href="/services/consultancy/funding-and-support/workfare-training-support-scheme">Workfare Training Support (WTS)</a> recipients</td>
+<td>$53.25</td>
+</tr>
+
+<tr>
+<td>Others</td>
+<td>$802.50</td>
+</tr>
+
+</table>
+</center>
+
+<em style="text-align:center;">*Fee is after reimbursement of S$240 via SkillsConnect under Enhanced Training Support for SMEs.<br>
+ All fees include prevailing GST.</em>
+
+ <P> <center><a href="https://form.gov.sg/5d9d3f30a8b1b30012143f58" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;" target="_blank">Register Now</a></center>
