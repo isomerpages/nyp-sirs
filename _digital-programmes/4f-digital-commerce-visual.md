@@ -8,7 +8,7 @@ second_nav_title: "Digital Marketing Masterclasses"
 ---
 <a href="#" onclick="history.go(-1)">Back to previous page</a>
 
-<img src="images/digital-masterclasses/increase-business-revenue-through-seo.jpg" style="width:100%;">
+<img src="images/digital-masterclasses/digital-commerce-visual.jpg" style="width:100%;">
 
 <p>Human are visual beings. Visual content enables customers to absorb and remember your brand better. It is more effective than any other form of communication. Marketers who use visual marketing tend to reap higher returns in terms of fans, followers, readers, leads, clients and, of course, revenue. Through this Masterclass, participants will develop a good understanding of visual marketing for Omni-commerce; applicable to both entrepreneurial and marketing operation with practical hands-on applications and case studies.</p>
 
