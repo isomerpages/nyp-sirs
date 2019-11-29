@@ -23,8 +23,7 @@ second_nav_title: "Digital Marketing Masterclasses"
   <li>Systematic plan and implement process for effective visual marketing.</li>
   </ul>
 
-<h3 style="text-align:center;">Programme Fees</h3>
-<em style="text-align:center;">Self-sponsored individuals may use their SkillsFuture Credit to pay the nett course fee/s.</em>
+<h3>Programme Fees</h3>
 
 <center>
 <table style="width:100%;">
@@ -34,34 +33,36 @@ second_nav_title: "Digital Marketing Masterclasses"
 </tr>
 
 <tr>
-<td>Singaporean/Singapore PR</td>
+<td>Full course fee</td>
+<td>$1,284.00</td>
+</tr>
+
+<tr>
+<td>Singapore Citizen/Singapore PR (SPR) (70% funding)</td>
 <td>$385.20</td>
 </tr>
 
 <tr>
-<td>Singaporean 40 years &amp; above</td>
+<td>Singapore Citizen 40 years & above<sup>1</sup> (90% funding)</td>
 <td>$145.20</td>
 </tr>
 
 <tr>
-  <td>Singaporean/SPR sponsored by SMEs*</td>
+  <td>Singapore Citizen/SPR sponsored by SMEs<sup>2</sup> (90% funding)</td>
 <td>$145.20</td>
 </tr>
 
 <tr>
-<td><a href="/services/consultancy/funding-and-support/workfare-training-support-scheme">Workfare Training Support (WTS)</a> recipients</td>
+<td><a href="/services/consultancy/funding-and-support/workfare-training-support-scheme">Workfare Training Support (WTS)</a> recipient (95% funding)</td>
 <td>$85.20</td>
-</tr>
-
-<tr>
-<td>Others</td>
-<td>$1,284.00</td>
 </tr>
 
 </table>
 </center>
 
-<em style="text-align:center;">*Fee is after reimbursement of S$150 via SkillsConnect under <a href="/services/consultancy/funding-and-support/skillsfuture-enhanced-training-support-for-smes">Enhanced Training Support for SMEs (ETSS)</a>.<br>
- All fees include prevailing GST.</em>
+<em><sup>1</sup>Additional funding under <a href="/services/consultancy/funding-and-support/mid-career-enhanced-subsidy">Mid-Career Enhanced Subsidy</a><br>
+<sup>2</sup>Fee is after reimbursement of S$240 via SkillsConnect under <a href="/services/consultancy/funding-and-support/skillsfuture-enhanced-training-support-for-smes">Enhanced Training Support for SMEs (ETSS)</a><br>
+Self-sponsored participants can utilise their <a href="/services/consultancy/funding-and-support/skillsfuture-credit">SkillsFuture Credit</a> to offset course fees<br>
+All fees inclusive of prevailing GST</em>
 
  <P> <center><a href="https://docs.google.com/forms/d/e/1FAIpQLSeAjptWicm8ov-LlTnZeQSBjr6R_0Oh2ZQ_z9OUB8xTxyHzmQ/viewform" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;" target="_blank">Register Now</a></center>
