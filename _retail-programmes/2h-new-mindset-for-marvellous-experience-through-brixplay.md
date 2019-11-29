@@ -53,9 +53,19 @@ Learning through play boost positive emotions that activate the learning centres
 <td>$60.50</td>
 </tr>
 
+<tr>
+  <td><a href="/services/consultancy/funding-and-support/workfare-training-support-scheme">Workfare Training Support (WTS)</a> recipient</td>
+<td>$35.50</td>
+</tr>
+
 </table>
 </center>
 
 <em><sup>1</sup>Fee is after reimbursement of S$100 via SkillsConnect under <a href="/services/consultancy/funding-and-support/skillsfuture-enhanced-training-support-for-smes">Enhanced Training Support for SMEs (ETSS)</a>.</em>
+
+<p>This course is also eligible for the following:</p>
+<ul>
+ <li><a href="/services/consultancy/funding-and-support/skillsfuture-credit">SkillsFuture Credit S$500</a></li>
+  </ul>
 
 <center><a href="https://goo.gl/Gg5v8C" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;" target="_blank">Register Now</a></center>
