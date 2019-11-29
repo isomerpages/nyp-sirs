@@ -56,7 +56,7 @@ second_nav_title: "SkillsFuture Series"
 </table>
 </center>
 
-<em><sup>1</sup>Fee is after reimbursement of S$100 via SkillsConnect under <a href="/services/consultancy/funding-and-support/skillsfuture-enhanced-training-support-for-smes">Enhanced Training Support for SMEs (ETSS)</a>.</em>
+<em><sup>1</sup>Fee is after reimbursement of S$52 via SkillsConnect under <a href="/services/consultancy/funding-and-support/skillsfuture-enhanced-training-support-for-smes">Enhanced Training Support for SMEs (ETSS)</a>.</em>
 
 <p>This course is also eligible for the following:</p>
 <ul>
