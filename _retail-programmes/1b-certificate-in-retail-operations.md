@@ -47,6 +47,7 @@ second_nav_title: "WSQ Certification Programmes"
 <p>The total duration of the programme is <b>6 months</b>. Day or night classes are available</p>
 
 <h3>Course Fees</h3>
+<em>All fees include prevailing GST.</em>
 
 <center>
 <table style="width:100%;">
@@ -61,12 +62,12 @@ second_nav_title: "WSQ Certification Programmes"
 </tr>
 
 <tr>
-<td>Singapore Citizen/Singapore PR (SPR)</td>
+<td>Singapore Citizen/Singapore PR (SPR) (90% funding)</td>
 <td>$282.48</td>
 </tr>
 
 <tr>
-  <td><a href="/services/consultancy/funding-and-support/workfare-training-support-scheme">Workfare Training Support</a><sup>1</sup></td>
+  <td><a href="/services/consultancy/funding-and-support/workfare-training-support-scheme">Workfare Training Support</a><sup>1</sup> (95% funding)</td>
 <td>$150.48</td>
 </tr>
 
