@@ -42,7 +42,7 @@ You are only a trip away to gain useful takeaways for immediate business applica
   <li>探店“亲橙里”及体验黑科技产品</li>
 </ul>
 
-<h3 style="text-align:center;">Programme Fees</h3>
+<h3>Programme Fees</h3>
 
 <center>
 <table style="width:100%;">
