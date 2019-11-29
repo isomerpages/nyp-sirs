@@ -34,9 +34,17 @@ second_nav_title: "SkillsFuture Series"
 </tr>
 
 <tr>
+  <td colspan="2">70% Funding</td>
+  </tr>
+
+<tr>
 <td>Singapore Citizen/Singapore PR (SPR)</td>
 <td>$83.46</td>
 </tr>
+
+<tr>
+  <td colspan="2">90% Funding</td>
+  </tr>
 
 <tr>
   <td>Singaporean 40 years & above </td>
@@ -47,6 +55,10 @@ second_nav_title: "SkillsFuture Series"
   <td>Singaporean / SPR sponsored by SMEs<sup>1</sup></td>
 <td>$31.46</td>
 </tr>
+
+<tr>
+  <td colspan="2">95% Funding</td>
+  </tr>
 
 <tr>
   <td><a href="/services/consultancy/funding-and-support/workfare-training-support-scheme">Workfare Training Support (WTS)</a> recipient</td>
