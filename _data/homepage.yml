@@ -29,8 +29,20 @@ info-sections:
   - section-subtitle: Our Services
     section-image-path: /images/sirs-services.png
     section-description: SIRS provides a whole suite of services for retailers, employees, or candidates interested in starting a career in the retail industry. From consultancy to placement, let us help you in ensuring your competitive edge in the retail industry.
-    section-more-button: More about SIRS
+    section-more-button: More about our services
     section-more-button-url: /services/
+    
+  - section-subtitle: Discover Retail Courses
+    section-description: SIRS provides a whole suite of services for retailers, employees, or candidates interested in starting a career in the retail industry. From consultancy to placement, let us help you in ensuring your competitive edge in the retail industry.
+    section-more-button: Find out more
+    section-image-path: /images/sirs-services.png
+    section-more-button-url: /retail-programmes
+    
+  - section-subtitle: Discover Digital Courses
+    section-image-path: /images/sirs-services.png
+    section-description: SIRS provides a whole suite of services for retailers, employees, or candidates interested in starting a career in the retail industry. From consultancy to placement, let us help you in ensuring your competitive edge in the retail industry.
+    section-more-button: Find out more
+    section-more-button-url: /digital-programmes
 
 resources-title: Media Centre
 resources-subtitle: Be in the know
