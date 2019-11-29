@@ -53,22 +53,25 @@ collection_name: professional-conversion-programme
 </tr>
 
 <tr>
-<td>Singaporean/Singapore PR</td>
+<td>Full course fee</td>
+<td>$18,404.00</td>
+</tr>
+
+<tr>
+<td>Singapore Citizen/Singapore PR (SPR) (70% funding)</td>
 <td>$5,521.20</td>
 </tr>
 
 <tr>
-<td>Singaporeans/SPRs eligible for SkillsFuture Mid-Career Enhancement Subsidy</td>
+<td>Singapore Citizen 40 years & above<sup>1</sup> (90% funding)</td>
 <td>$2,081.20</td>
-</tr>
-
-<tr>
-<td>Others</td>
-<td>$18,404.00</td>
 </tr>
 
 </table>
 </center>
+
+<em><sup>1</sup>Additional funding under <a href="/services/consultancy/funding-and-support/mid-career-enhanced-subsidy">Mid-Career Enhanced Subsidy</a><br>
+All fees inclusive of prevailing GST</em>
 
 <h3 style="text-align:center;">Funding and Support</h3>
 
