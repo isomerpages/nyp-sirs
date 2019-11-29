@@ -34,21 +34,31 @@ second_nav_title: "SkillsFuture Series"
 </tr>
 
 <tr>
-<td>Singapore Citizen/Singapore PR (SPR)</td>
+<td>Singapore Citizen/Singapore PR (SPR) (70% funding)</td>
 <td>$67.41</td>
 </tr>
 
 <tr>
-  <td>Singaporean 40 years & above </td>
+  <td>Singapore Citizen 40 years & above<sup>1</sup> (90% funding)</td>
 <td>$25.41</td>
 </tr>
 
 <tr>
-  <td><a href="/services/consultancy/funding-and-support/workfare-training-support-scheme">Workfare Training Support (WTS)</a> recipient</td>
+  <td>Singapore Citizen/SPR sponsored by SMEs<sup>2</sup> (90% funding)</td>
+<td>$25.41</td>
+</tr>
+
+<tr>
+  <td><a href="/services/consultancy/funding-and-support/workfare-training-support-scheme">Workfare Training Support (WTS)</a> recipient (95% funding)</td>
 <td>$14.91</td>
 </tr>
 
 </table>
 </center>
+
+<em><sup>1</sup>Additional funding under <a href="/services/consultancy/funding-and-support/mid-career-enhanced-subsidy">Mid-Career Enhanced Subsidy</a><br>
+<sup>2</sup>Fee is after reimbursement of S$42 via SkillsConnect under <a href="/services/consultancy/funding-and-support/skillsfuture-enhanced-training-support-for-smes">Enhanced Training Support for SMEs (ETSS)</a><br>
+Self-sponsored participants can utilise their <a href="/services/consultancy/funding-and-support/skillsfuture-credit">SkillsFuture Credit</a> to offset course fees<br>
+All fees inclusive of prevailing GST</em>
 
 <center><a href="https://goo.gl/forms/Xt1wfX9RlTVVXpZ53" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;" target="_blank">Register Now</a></center>
