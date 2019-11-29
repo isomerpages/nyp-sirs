@@ -66,7 +66,7 @@ Learn to build an organizational culture for innovation and productivity to have
 </tr>
 
 <tr>
-  <td>Singapore Citizen/SPR sponsored by SMEs<sup>2</sup> (90% funding)</td>
+  <td>Singapore Citizen/SPR sponsored by SMEs<sup>2</sup> (95% funding)</td>
 <td>$1,212.42</td>
 </tr>
 
