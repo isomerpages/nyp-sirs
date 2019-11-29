@@ -2,7 +2,7 @@
 layout: leftnav-page-content
 title: Omni-Commerce Retail
 permalink: /retail-programmes/short-courses/omni-commerce-retail
-breadcrumb: SOmni-Commerce Retail
+breadcrumb: Omni-Commerce Retail
 collection_name: retail-programmes
 second_nav_title: "Short Courses"
 ---
@@ -46,22 +46,22 @@ Applying real-time analytic tools, building a highly integrated supply chain, cr
 </tr>
 
 <tr>
-<td>Singapore Citizen/Singapore PR (SPR)</td>
+<td>Singapore Citizen/Singapore PR (SPR) (70% funding)</td>
 <td>$513.60</td>
 </tr>
 
 <tr>
-  <td>Singaporean 40 years & above </td>
+  <td>Singapore Citizen 40 years & above (90% funding)</td>
 <td>$193.60</td>
 </tr>
 
 <tr>
-  <td>Singaporean / SPR sponsored by SMEs<sup>1</sup></td>
+  <td>Singapore Citizen/SPR sponsored by SMEs<sup>1</sup> (90% funding)</td>
 <td>$193.60</td>
 </tr>
 
 <tr>
-  <td><a href="/services/consultancy/funding-and-support/workfare-training-support-scheme">Workfare Training Support (WTS)</a> Recipient</td>
+  <td><a href="/services/consultancy/funding-and-support/workfare-training-support-scheme">Workfare Training Support (WTS)</a> Recipient (95% funding)</td>
 <td>$113.60</td>
 </tr>
 
@@ -75,4 +75,6 @@ Applying real-time analytic tools, building a highly integrated supply chain, cr
  <li><a href="/services/consultancy/funding-and-support/skillsfuture-credit">SkillsFuture Credit S$500</a></li>
   </ul>
 
+<em>All fees include prevailing GST</em>
+  
 <center><a href="https://goo.gl/forms/7csuQQplb7SPfKgM2" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;" target="_blank">Register Now</a></center>
