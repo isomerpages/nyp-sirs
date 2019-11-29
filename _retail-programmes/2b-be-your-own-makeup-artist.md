@@ -37,7 +37,12 @@ second_nav_title: "Short Courses"
 </tr>
 
 <tr>
-<td>Singapore Citizen/Singapore PR (SPR)</td>
+<td>Singaporean/Singapore PR (SPR)</td>
+<td>$47.08</td>
+</tr>
+
+<tr>
+  <td>Singaporeans/SPR sponsored by SMEs<sup>1</sup></td>
 <td>$47.08</td>
 </tr>
 
@@ -48,5 +53,18 @@ second_nav_title: "Short Courses"
 
 </table>
 </center>
+
+<p>This course is also eligible for the following:</p>
+<ul>
+  <li>For self-sponsored participants
+  <ol><li><a href="/services/consultancy/funding-and-support/skillsfuture-credit">SkillsFuture Credit S$500</a></li>
+    <li>Training Commitment Award
+      <ul><li>For recipients of the Workfare Income Supplement (WIS) Scheme</li>
+        <li>Receive $200 for each Statement of Attainment within a year, capped at $400 per year</li>
+      </ul></li></ol></li>
+  <li>For company-sponsored participants
+    <ul><li><sup>1</sup>Absentee payroll</li></ul>
+  </li>
+  </ul>
 
 <center><a href="http://docs.google.com/forms/d/e/1FAIpQLSc5T_Fk_whLcLHW79DS80MhPcC4lP199IKDyv3w-_nr4qXJsw/viewform" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;" target="_blank">Register Now</a></center>
