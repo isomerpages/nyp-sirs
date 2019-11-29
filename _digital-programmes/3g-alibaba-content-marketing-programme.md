@@ -61,7 +61,7 @@ second_nav_title: "Alibaba Business School"
 </tr>
 
 <tr>
-<td>Others</td>
+<td>Full course fee</td>
 <td>$6,099</td>
 </tr>
 
