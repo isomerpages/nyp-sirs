@@ -40,8 +40,7 @@ second_nav_title: "Alibaba Business School"
 <h3 style="text-align:center;">Testimonials</h3>
 <p><em>"I feel that the Alibaba is very advanced in terms of e-commerce and digital marketing. The lecturers were all of a very high standard, both in terms of intellectual ability, practical knowledge, and even business sense. I was quite amazed that  the criteria is that they must have managed real business sites well before they are allowed to be lecturers."</em> - <b>Lucy Yow, New Asia Ferrell</b></p>
 
-<h3 style="text-align:center;">Programme Fees</h3>
-<em style="text-align:center;">Self-sponsored individuals may use their SkillsFuture Credit to pay the nett course fee/s.</em>
+<h3>Programme Fees</h3>
 
 <center>
 <table style="width:100%;">
@@ -51,29 +50,36 @@ second_nav_title: "Alibaba Business School"
 </tr>
 
 <tr>
-<td>Singaporean/Singapore PR</td>
+<td>Full course fee</td>
+<td>$8,025</td>
+</tr>
+
+<tr>
+<td>Singapore Citizen/Singapore PR (SPR) (70% funding)</td>
 <td>$2,407.50</td>
 </tr>
 
 <tr>
-<td>Singaporean 40 years &amp; above<br>
-Singaporean/SPR sponsored by SMEs*</td>
+<td>Singapore Citizen 40 years & above<sup>1</sup> (90% funding)</td>
 <td>$907.50</td>
 </tr>
 
 <tr>
-<td><a href="/services/consultancy/funding-and-support/workfare-training-support-scheme">Workfare Training Support (WTS)</a> recipient</td>
-<td>$532.50</td>
+<td>Singapore Citizen/SPR sponsored by SMEs<sup>2</sup> (90% funding)</td>
+<td>$907.50</td>
 </tr>
 
 <tr>
-<td>Others</td>
-<td>$8,025</td>
+<td><a href="/services/consultancy/funding-and-support/workfare-training-support-scheme">Workfare Training Support (WTS)</a> recipient (95% funding)</td>
+<td>$532.50</td>
 </tr>
 
 </table>
 </center>
 
-<em style="text-align:center;">*Fee is after reimbursement of S$1,500 via SkillsConnect under Enhanced Training Support for SMEs.</em>
+<em><sup>1</sup>Additional funding under <a href="/services/consultancy/funding-and-support/mid-career-enhanced-subsidy">Mid-Career Enhanced Subsidy</a><br>
+<sup>2</sup>Fee is after reimbursement of S$1,500 via SkillsConnect under <a href="/services/consultancy/funding-and-support/skillsfuture-enhanced-training-support-for-smes">Enhanced Training Support for SMEs (ETSS)</a><br>
+Self-sponsored participants can utilise their <a href="/services/consultancy/funding-and-support/skillsfuture-credit">SkillsFuture Credit</a> to offset course fees<br>
+All fees inclusive of prevailing GST</em>
   
  <P> <center><a href="https://goo.gl/forms/MOyMRugBzbm28E4f1" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;" target="_blank">Register Now</a></center>
