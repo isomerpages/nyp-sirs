@@ -35,26 +35,38 @@ Ivan has over 20 years of experience in Business Consulting, Training, Search En
 <th style="width:70%;">Category</th>
 <th style="width:30%:">Price</th>
 </tr>
+  
+<tr>
+<td>Full course fee</td>
+<td>$1,284.00</td>
+</tr>
 
 <tr>
-<td>Singaporean/Singapore PR</td>
+<td>Singapore Citizen/Singapore PR (SPR) (70% funding)</td>
 <td>$385.20</td>
 </tr>
 
 <tr>
-<td>Singaporean 40 years &amp; above<br>
-Singaporean/SPR sponsored by SMEs*</td>
+<td>Singapore Citizen 40 years & above<sup>1</sup> (90% funding)</td>
 <td>$145.20</td>
 </tr>
 
 <tr>
-<td>Others</td>
-<td>$1,284.00</td>
+<td>Singapore Citizen/SPR sponsored by SMEs<sup>2</sup> (90% funding)</td>
+<td>$145.20</td>
+</tr>
+
+<tr>
+<td><a href="/services/consultancy/funding-and-support/workfare-training-support-scheme">Workfare Training Support (WTS)</a> recipient (95% funding)</td>
+<td>$85.20</td>
 </tr>
 
 </table>
 </center>
 
-<em style="text-align:center;">*Fee is after reimbursement of S$240 via SkillsConnect under Enhanced Training Support for SMEs.</em>
+<em><sup>1</sup>Additional funding under <a href="/services/consultancy/funding-and-support/mid-career-enhanced-subsidy">Mid-Career Enhanced Subsidy</a><br>
+<sup>2</sup>Fee is after reimbursement of S$240 via SkillsConnect under <a href="/services/consultancy/funding-and-support/skillsfuture-enhanced-training-support-for-smes">Enhanced Training Support for SMEs (ETSS)</a><br>
+Self-sponsored participants can utilise their <a href="/services/consultancy/funding-and-support/skillsfuture-credit">SkillsFuture Credit</a> to offset course fees<br>
+All fees inclusive of prevailing GST</em>
   
  <P> <center><a href="https://form.gov.sg/5d9d3f30a8b1b30012143f58" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;" target="_blank">Register Now</a></center>
