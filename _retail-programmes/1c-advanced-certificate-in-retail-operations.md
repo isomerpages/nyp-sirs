@@ -57,12 +57,12 @@ Understand current trends in retail and how to use analytical tools to identify 
 </tr>
 
 <tr>
-<td>Singapore Citizen/Singapore PR (SPR)</td>
+<td>Singapore Citizen/Singapore PR (SPR) (90% funding)</td>
 <td>$471.87</td>
 </tr>
 
 <tr>
-  <td><a href="/services/consultancy/funding-and-support/workfare-training-support-scheme">Workfare Training Support</a><sup>1</sup></td>
+  <td><a href="/services/consultancy/funding-and-support/workfare-training-support-scheme">Workfare Training Support</a><sup>1</sup> (95% funding)</td>
 <td>$251.37</td>
 </tr>
 
@@ -76,8 +76,9 @@ This course is also eligible for the following:
   <li>SkillsFuture Qualification Award S$200<sup>2</sup></li>
 </ul>
 
-<sup>1</sup>Singapore Citizen, aged 35 years & above and monthly income of not more than $2,000<br>
-<sup>2</sup>Applicable for Singapore Citizens only
+<em><sup>1</sup>Singapore Citizen, aged 35 years & above and monthly income of not more than $2,000<br>
+<sup>2</sup>Applicable for Singapore Citizens only<br>
+ All fees include prevailing GST</em>
 
 <h3>Entry Requirements</h3>
 <ol>
