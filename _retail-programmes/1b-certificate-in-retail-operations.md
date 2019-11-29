@@ -71,7 +71,6 @@ second_nav_title: "WSQ Certification Programmes"
 </tr>
 
 </table>
-<em>All fees include prevailing GST.</em>
 </center>
 
 This course is also eligible for the following:
@@ -81,8 +80,9 @@ This course is also eligible for the following:
   <li>SkillsFuture Qualification Award S$200<sup>2</sup></li>
 </ul>
 
-<sup>1</sup>Singapore Citizen, aged 35 years & above and monthly income of not more than $2,000<br>
-<sup>2</sup>Applicable for Singapore Citizens only
+<em><sup>1</sup>Singapore Citizen, aged 35 years & above and monthly income of not more than $2,000<br>
+<sup>2</sup>Applicable for Singapore Citizens only<br>
+  All fees include prevailing GST</em>
 
 <h3>Entry Requirements</h3>
 <ol>
