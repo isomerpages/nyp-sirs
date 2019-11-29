@@ -94,9 +94,10 @@ This course is also eligible for the following:
   </li>
 </ul>
 
-<sup>1</sup>Singapore Citizens eligible for <a href="/services/consultancy/funding-and-support/mid-career-enhanced-subsidy">Mid-Career Enhanced Subsidy</a><br>
+<em><sup>1</sup>Singapore Citizens eligible for <a href="/services/consultancy/funding-and-support/mid-career-enhanced-subsidy">Mid-Career Enhanced Subsidy</a><br>
 <sup>2</sup>Additional funding under the <a href="/services/consultancy/funding-and-support/skillsfuture-enhanced-training-support-for-smes">Enhanced Training Support for SMEs (ETSS)</a><br>
-<sup>3</sup>Applicable for Singapore Citizens only
+<sup>3</sup>Applicable for Singapore Citizens only<br>
+ All fees include prevailing GST</em>
 
 <h3>Entry Requirements</h3>
 <ol>
