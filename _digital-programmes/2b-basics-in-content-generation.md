@@ -34,7 +34,7 @@ second_nav_title: "SkillsFuture Series"
 </tr>
 
 <tr>
-  <td colspan="2">70% Funding</td>
+  <td colspan="2"><center><b>70% Funding</b></center></td>
   </tr>
 
 <tr>
@@ -43,7 +43,7 @@ second_nav_title: "SkillsFuture Series"
 </tr>
 
 <tr>
-  <td colspan="2">90% Funding</td>
+  <td colspan="2"><center><b>90% Funding</b></center></td>
   </tr>
 
 <tr>
@@ -57,7 +57,7 @@ second_nav_title: "SkillsFuture Series"
 </tr>
 
 <tr>
-  <td colspan="2">95% Funding</td>
+  <td colspan="2"><center><b>95% Funding</b></center></td>
   </tr>
 
 <tr>
