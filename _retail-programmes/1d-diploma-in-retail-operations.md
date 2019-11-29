@@ -75,7 +75,7 @@ Evaluate financial ratios, perform cost-benefits analysis and analyse the short 
 </tr>
 
 <tr>
-  <td><a href="/services/consultancy/funding-and-support/workfare-training-support-scheme">Workfare Training Support</a><sup>1</sup> (95% funding)</td>
+  <td><a href="/services/consultancy/funding-and-support/workfare-training-support-scheme">Workfare Training Support</a> (95% funding)</td>
 <td>$477.12</td>
 </tr>
 
