@@ -39,22 +39,22 @@ Discover how the 8-step category management process helps you to develop win-win
 </tr>
 
 <tr>
-<td>Singapore Citizen/Singapore PR (SPR)</td>
+<td>Singapore Citizen/Singapore PR (SPR) (70% funding)</td>
 <td>$385.20</td>
 </tr>
 
 <tr>
-  <td>Singaporean 40 years & above</td>
+  <td>Singapore Citizen 40 years & above (90% funding)</td>
 <td>$145.20</td>
 </tr>
 
 <tr>
-  <td>Singaporean / SPR sponsored by SMEs<sup>1</sup></td>
+  <td>Singaporean / SPR sponsored by SMEs<sup>1</sup> (90% funding)</td>
 <td>$145.20</td>
 </tr>
 
 <tr>
-  <td><a href="/services/consultancy/funding-and-support/workfare-training-support-scheme">Workfare Training Support (WTS)</a> recipient</td>
+  <td><a href="/services/consultancy/funding-and-support/workfare-training-support-scheme">Workfare Training Support (WTS)</a> recipient (95% funding)</td>
 <td>$85.20</td>
 </tr>
 
@@ -67,5 +67,7 @@ Discover how the 8-step category management process helps you to develop win-win
 <ul>
  <li><a href="/services/consultancy/funding-and-support/skillsfuture-credit">SkillsFuture Credit S$500</a></li>
   </ul>
+
+<em>All fees include prevailing GST</em>
 
 <center><a href="https://form.gov.sg/5d9d3f30a8b1b30012143f58" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;" target="_blank">Register Now</a></center>
