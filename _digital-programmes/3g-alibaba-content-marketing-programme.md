@@ -51,8 +51,7 @@ second_nav_title: "Alibaba Business School"
 <p><em>"Through the Alibaba Content Marketing Programme, I have learned how to gain an edge through content marketing, such as the knowledge of how to write or the angles of photos that I have to take to make it appealing to the fanbase."</em><br>
   <b>Clarissa Guo, Business Development Manager, AOne F&B Group</b></p>
 
-<h3 style="text-align:center;">Programme Fees</h3>
-<em style="text-align:center;">Self-sponsored individuals may use their SkillsFuture Credit to pay the nett course fee/s.</em>
+<h3>Programme Fees</h3>
 
 <center>
 <table style="width:100%;">
@@ -62,24 +61,36 @@ second_nav_title: "Alibaba Business School"
 </tr>
 
 <tr>
-<td>Singaporean/Singapore PR</td>
+<td>Others</td>
+<td>$6,099</td>
+</tr>
+
+<tr>
+<td>Singapore Citizen/Singapore PR (SPR) (70% funding)</td>
 <td>$1,829.70</td>
 </tr>
 
 <tr>
-<td>Singaporean 40 years &amp; above<br>
-Singaporean/SPR sponsored by SMEs*</td>
+<td>Singapore Citizen 40 years & above<sup>1</sup> (90% funding)</td>
 <td>$689.70</td>
 </tr>
 
 <tr>
-<td>Others</td>
-<td>$6,099</td>
+<td>Singapore Citizen/SPR sponsored by SMEs<sup>2</sup> (90% funding)</td>
+<td>$689.70</td>
+</tr>
+
+<tr>
+<td><a href="/services/consultancy/funding-and-support/workfare-training-support-scheme">Workfare Training Support (WTS)</a> recipient (95% funding)</td>
+<td>$404.70</td>
 </tr>
 
 </table>
 </center>
 
-<em style="text-align:center;">*Fee is after reimbursement of S$1,140 via SkillsConnect under Enhanced Training Support for SMEs.</em>
+<em><sup>1</sup>Additional funding under <a href="/services/consultancy/funding-and-support/mid-career-enhanced-subsidy">Mid-Career Enhanced Subsidy</a><br>
+<sup>2</sup>Fee is after reimbursement of S$1,140 via SkillsConnect under <a href="/services/consultancy/funding-and-support/skillsfuture-enhanced-training-support-for-smes">Enhanced Training Support for SMEs (ETSS)</a><br>
+Self-sponsored participants can utilise their <a href="/services/consultancy/funding-and-support/skillsfuture-credit">SkillsFuture Credit</a> to offset course fees<br>
+All fees inclusive of prevailing GST</em>
   
  <P> <center><a href="https://form.gov.sg/#!/5d9d56784073c8001282fd64" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;" target="_blank">Register Now</a></center>
