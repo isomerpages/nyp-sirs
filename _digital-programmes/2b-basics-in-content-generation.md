@@ -38,12 +38,12 @@ second_nav_title: "SkillsFuture Series"
 <td>$83.46</td>
 </tr>
 <tr>
-  <td>Singapore Citizen 40 years & above (90% funding)</td>
+  <td>Singapore Citizen 40 years & above<sup>1</sup> (90% funding)</td>
 <td>$31.46</td>
 </tr>
 
 <tr>
-  <td>Singapore Citizen/SPR sponsored by SMEs<sup>1</sup> (90% funding)</td>
+  <td>Singapore Citizen/SPR sponsored by SMEs<sup>2</sup> (90% funding)</td>
 <td>$31.46</td>
 </tr>
 
@@ -55,13 +55,9 @@ second_nav_title: "SkillsFuture Series"
 </table>
 </center>
 
-<em><sup>1</sup>Fee is after reimbursement of S$52 via SkillsConnect under <a href="/services/consultancy/funding-and-support/skillsfuture-enhanced-training-support-for-smes">Enhanced Training Support for SMEs (ETSS)</a>.</em>
-
-<p>This course is also eligible for the following:</p>
-<ul>
- <li><a href="/services/consultancy/funding-and-support/skillsfuture-credit">SkillsFuture Credit S$500</a></li>
-  </ul>
-
-<em>All fees include prevailing GST</em>
+<em><sup>1</sup>Additional funding under <a href="/services/consultancy/funding-and-support/mid-career-enhanced-subsidy">Mid-Career Enhanced Subsidy</a><br>
+<sup>2</sup>Fee is after reimbursement of S$42 via SkillsConnect under <a href="/services/consultancy/funding-and-support/skillsfuture-enhanced-training-support-for-smes">Enhanced Training Support for SMEs (ETSS)</a><br>
+Self-sponsored participants can utilise their <a href="/services/consultancy/funding-and-support/skillsfuture-credit">SkillsFuture Credit</a> to offset course fees<br>
+All fees inclusive of prevailing GST</em>
 
 <center><a href="https://goo.gl/forms/Xt1wfX9RlTVVXpZ53" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;" target="_blank">Register Now</a></center>
