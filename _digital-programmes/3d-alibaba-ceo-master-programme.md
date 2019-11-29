@@ -39,7 +39,7 @@ second_nav_title: "Alibaba Business School"
 <li>参访盒马鲜生</li>
 </ul>
 
-<h3 style="text-align:center;">Course Fees</h3>
+<h3 style="text-align:center;">Programme Fees</h3>
 
 <center>
 <table style="width:100%;">
