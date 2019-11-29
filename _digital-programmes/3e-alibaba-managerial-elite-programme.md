@@ -36,7 +36,7 @@ second_nav_title: "Alibaba Business School"
   <li>Enhancing digital store presentation with visual marketing and short video marketing</li>
 </ul>
 
-<h3 style="text-align:center;">Programme Fees</h3>
+<h3>Programme Fees</h3>
 
 <center>
 <table style="width:100%;">
