@@ -43,7 +43,6 @@ You are only a trip away to gain useful takeaways for immediate business applica
 </ul>
 
 <h3 style="text-align:center;">Programme Fees</h3>
-<em style="text-align:center;">Self-sponsored individuals may use their SkillsFuture Credit to pay the nett course fee/s.</em>
 
 <center>
 <table style="width:100%;">
