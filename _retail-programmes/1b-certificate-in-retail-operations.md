@@ -47,7 +47,6 @@ second_nav_title: "WSQ Certification Programmes"
 <p>The total duration of the programme is <b>6 months</b>. Day or night classes are available</p>
 
 <h3>Course Fees</h3>
-<em>All fees include prevailing GST.</em>
 
 <center>
 <table style="width:100%;">
@@ -72,6 +71,7 @@ second_nav_title: "WSQ Certification Programmes"
 </tr>
 
 </table>
+<em>All fees include prevailing GST.</em>
 </center>
 
 This course is also eligible for the following:
