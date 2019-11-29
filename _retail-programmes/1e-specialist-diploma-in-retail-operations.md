@@ -56,23 +56,23 @@ Learn to build an organizational culture for innovation and productivity to have
 </tr>
 
 <tr>
-<td>Singapore Citizen/Singapore PR (SPR)</td>
+<td>Singapore Citizen/Singapore PR (SPR) (70% funding)</td>
 <td>$3,216.42</td>
 </tr>
 
 <tr>
-  <td><a href="/services/consultancy/funding-and-support/workfare-training-support-scheme">Workfare Training Support</a><sup>1</sup></td>
+  <td>Singapore Citizen 40 years old and above<sup>1</sup> (90% funding)</td>
+<td>$1,212.42</td>
+</tr>
+
+<tr>
+  <td>Singapore Citizen/SPR sponsored by SMEs<sup>2</sup> (90% funding)</td>
+<td>$1,212.42</td>
+</tr>
+
+<tr>
+  <td><a href="/services/consultancy/funding-and-support/workfare-training-support-scheme">Workfare Training Support</a> (90% funding)</td>
 <td>$711.42</td>
-</tr>
-
-<tr>
-  <td>Funding for <a href="/services/consultancy/funding-and-support/mid-career-enhanced-subsidy">Mid-Career Enhanced Subsidy (MESS)</a><sup>2</sup></td>
-<td>$1,212.42</td>
-</tr>
-
-<tr>
-  <td>Company-sponsored Applications with <a href="/services/consultancy/funding-and-support/skillsfuture-enhanced-training-support-for-smes">Enhanced Training Support for SMEs (ETSS)</a><sup>2</sup></td>
-<td>$1,212.42</td>
 </tr>
 
 </table>
@@ -90,9 +90,10 @@ This course is also eligible for the following:
   </li>
 </ul>
 
-<sup>1</sup>Singapore Citizen, aged 35 years & above and monthly income of not more than $2,000<br>
-<sup>2</sup>Fee is after reimbursement of $2,004 via SkillsConnect<br>
-<sup>3</sup>Applicable for Singapore Citizens only
+<em><sup>1</sup>Singapore Citizens eligible for <a href="/services/consultancy/funding-and-support/mid-career-enhanced-subsidy">Mid-Career Enhanced Subsidy</a><br>
+<sup>2</sup>Additional funding under the <a href="/services/consultancy/funding-and-support/skillsfuture-enhanced-training-support-for-smes">Enhanced Training Support for SMEs (ETSS)</a><br>
+<sup>3</sup>Applicable for Singapore Citizens only<br>
+ All fees include prevailing GST</em>
 
 <h3>Entry Requirements</h3>
 <ol>
