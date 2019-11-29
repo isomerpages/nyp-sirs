@@ -58,7 +58,7 @@ second_nav_title: "Short Courses"
 </tr>
 
 <tr>
-  <td><a href="/services/consultancy/funding-and-support/workfare-training-support-scheme">Workfare Training Support</a><sup>1</sup></td>
+  <td><a href="/services/consultancy/funding-and-support/workfare-training-support-scheme">Workfare Training Support</a></td>
 <td>$25.08</td>
 </tr>
 
