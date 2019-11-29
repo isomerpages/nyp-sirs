@@ -19,7 +19,7 @@ second_nav_title: "SkillsFuture Series"
   <li>Tools and resources</li>
   </ul>
 
-<h3>Course Fees</h3>
+<h3>Programme Fees</h3>
 
 <center>
 <table style="width:100%;">
@@ -29,7 +29,7 @@ second_nav_title: "SkillsFuture Series"
 </tr>
 
 <tr>
-<td>Full Course Fees</td>
+<td>Full course fee</td>
 <td>$224.70</td>
 </tr>
 
