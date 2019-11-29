@@ -48,17 +48,17 @@ second_nav_title: "Short Courses"
 </tr>
 
 <tr>
-<td>Singaporean/Singapore PR (SPR)</td>
+<td>Singapore Citizen/Singapore PR (SPR) (90% funding)</td>
 <td>$47.08</td>
 </tr>
 
 <tr>
-  <td>Singaporeans/SPR sponsored by SMEs<sup>1</sup></td>
+  <td>Singapore Citizen/SPR sponsored by SMEs<sup>1</sup> (90% funding)</td>
 <td>$47.08</td>
 </tr>
 
 <tr>
-  <td><a href="/services/consultancy/funding-and-support/workfare-training-support-scheme">Workfare Training Support</a></td>
+  <td><a href="/services/consultancy/funding-and-support/workfare-training-support-scheme">Workfare Training Support (WTS)</a> recipient (95% funding)</td>
 <td>$25.08</td>
 </tr>
 
@@ -78,5 +78,6 @@ second_nav_title: "Short Courses"
   </li>
   </ul>
 
+<em>All fees include prevailing GST</em>
 
 <center><a href="http://docs.google.com/forms/d/e/1FAIpQLSc5T_Fk_whLcLHW79DS80MhPcC4lP199IKDyv3w-_nr4qXJsw/viewform" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;" target="_blank">Register Now</a></center>
