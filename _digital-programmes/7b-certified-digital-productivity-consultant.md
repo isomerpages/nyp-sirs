@@ -21,7 +21,7 @@ second_nav_title: "Joint Certification Programmes"
 CDPC participants will have to complete the following programmes to receive the joint certificate:
 <ul>
   <li><a href="/digital-programmes/alibaba-business-school/alibaba-managerial-elite-programme">SIRS' Alibaba Managerial Elite Programme</a></li>
-  <li>><a href="https://www.sgpc.sg/services/training-certification/cps/rdps/" target="_blank">SGPC's Retail Digital Productivity Specialist Course</a></li>
+  <li><a href="https://www.sgpc.sg/services/training-certification/cps/rdps/" target="_blank">SGPC's Retail Digital Productivity Specialist Course</a></li>
 </ul>
 
 <h3>Learning Outcomes</h3>
