@@ -84,6 +84,6 @@ To encourage employers to take on mid-career switchers without the requisite exp
 <h3 style="text-align:center;">Fact Sheets</h3>
 To find out more about the PCP - Retail Professional track, you may download the respective factsheets in the links below:
 
-<div style="width:50%;float:left;"><center><a href="brochures/pcp-factsheets/Factsheet_SIRS_PCP_RP_ Oct 2019_Company_v10.pdf" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">For Employers</a></center></div>
+<div style="width:50%;float:left;"><center><a href="brochures/pcp-factsheets/pcp-rp-company.pdf" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">For Employers</a></center></div>
 
-<div style="width:50%;float:left;"><center><a href="brochures/pcp-factsheets/Factsheet_SIRS_PCP_RP_ Oct 2019_Candidate_v8.pdf" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">For Employees</a></center></div>
+<div style="width:50%;float:left;"><center><a href="brochures/pcp-factsheets/pcp-rp-candidate.pdf" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">For Employees</a></center></div>
