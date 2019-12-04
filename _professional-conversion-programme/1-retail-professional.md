@@ -10,7 +10,7 @@ collection_name: professional-conversion-programme
 <center>A Joint Initiative By:</center>
 <img src="images/pcp/sirs-wsg-banner.jpg" style="text-align:center;width:50%;">
 
-<p>As part of the <a href="/">Professional Conversion Programme</a>, SIRS offers the opportunity for PMET mid-career switchers to embark on their journey as a Retail Professional.</p>
+<p>As part of the <a href="/services/career-services/professional-conversion-programme">Professional Conversion Programme</a>, SIRS offers the opportunity for PMET mid-career switchers to embark on their journey as a Retail Professional.</p>
 
 <p>The PCP - Retail Professional (PCP - RP) seeks to help retailers in their manpower needs by providing mid-career switchers with an opportunity to work in retail operations. Through the PCP - RP, participants will gain knowledge and be equipped in skillsets in operations, customer serivce, and supply chain roles, assisting retailers in meeting the growing consumer expectations while delivering a memorable customer journey.</p>
 
