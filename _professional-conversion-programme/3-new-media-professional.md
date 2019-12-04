@@ -10,7 +10,7 @@ collection_name: professional-conversion-programme
 <center>A Joint Initiative By:</center>
 <img src="images/pcp/sirs-wsg-banner.jpg" style="text-align:center;width:50%;">
 
-<p>As part of the <a href="/">Professional Conversion Programme</a>, SIRS offers the opportunity for PMET mid-career switchers to embark on their journey as a New Media Professional.</p>
+<p>As part of the <a href="/services/career-services/professional-conversion-programme">Professional Conversion Programme</a>, SIRS offers the opportunity for PMET mid-career switchers to embark on their journey as a New Media Professional.</p>
 
 <p>The latest track of PCP offered by SIRS, the PCP - New Media Professional (PCP - NMP), trains PMETs and mid-career switchers in New Media marketing, specifically in the areas of video content marketing, and livestreaming.</p>
 
@@ -94,6 +94,6 @@ To encourage employers to take on mid-career switchers without the requisite exp
 <h3 style="text-align:center;">Fact Sheets</h3>
 To find out more about the PCP - New Media Professional track, you may download the respective factsheets in the links below:
 
-<div style="width:50%;float:left;"><center><a href="brochures/pcp-factsheets/Factsheet_SIRS_PCP_NMP_ Oct 2019_Company_v2.pdf" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">For Employers</a></center></div>
+<div style="width:50%;float:left;"><center><a href="brochures/pcp-factsheets/pcp-nmp-company.pdf" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">For Employers</a></center></div>
 
-<div style="width:50%;float:left;"><center><a href="brochures/pcp-factsheets/Factsheet_SIRS_PCP_NMP_ Oct 2019_Candidate_v1.pdf" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">For Employees</a></center></div>
+<div style="width:50%;float:left;"><center><a href="brochures/pcp-factsheets/pcp-nmp-candidate.pdf" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">For Employees</a></center></div>
