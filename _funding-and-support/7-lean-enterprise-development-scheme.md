@@ -14,7 +14,7 @@ collection_name: funding-and-support
 <p>SIRS is an appointed LED Multiplier, and we seek to help to accelerate the adoption of manpower-lean initiatives under the LED scheme. Contact us today for:
 
 <ul>
-<li>Find out more about the LED Scheme</li>
+<li>More information about the LED Scheme</li>
 <li>Consultation and advisory on your proposal to develop LED projects</li>
 </ul>
 </p>
