@@ -22,7 +22,7 @@ collection_name: services
   <ul>
     <li><a href="/services/consultancy/funding-and-support/enterprise-development-grant">Enterprise Development Grant (EDG)</a></li>
     <li>Industry Transformation Scheme (ITS)</li>
-    <li>Lean Enterprise Development (LED)</li>
+    <li><a href="/services/consultancy/funding-and-support/lean-enterprise-development-scheme">Lean Enterprise Development (LED)</a></li>
   </ul>
     </ul>
     </p>
