@@ -20,4 +20,4 @@ Projects that support Singapore companies that are willing and ready to venture 
 
 <p>SIRS' retail consultants are equipped to provide consultancy services in your business and retail transformation projects.</p>
 
-<p>To find out more about the Enterprise Development Grant, <a href='https://www.enterprisesg.gov.sg/financial-assistance/grants/for-local-companies/enterprise-development-grant/overview" target="_blank">click here</a>.</p>
+<p>To find out more about the Enterprise Development Grant, <a href="https://www.enterprisesg.gov.sg/financial-assistance/grants/for-local-companies/enterprise-development-grant/overview" target="_blank">click here</a>.</p>
