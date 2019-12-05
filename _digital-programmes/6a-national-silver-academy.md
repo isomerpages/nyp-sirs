@@ -15,7 +15,7 @@ second_nav_title: National Silver Academy
 <p>As a provider of NSA courses under NYP, SIRS offers the following programmes:
   
   <ul>
-  <li>Use Your Phone Smartly (Android)</li>
+  <li><a href="/digital-programmes/national-silver-academy/using-your-phone-smartly-android">Use Your Phone Smartly (Android)</a></li>
   <li>Selling Online</li>
   </ul>
 
