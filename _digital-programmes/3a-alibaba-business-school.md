@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: Alibaba Business School
+title: Overview
 permalink: /digital-programmes/alibaba-business-school
 breadcrumb: Overview
 collection_name: digital-programmes
