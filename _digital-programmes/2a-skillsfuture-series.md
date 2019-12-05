@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: SkillsFuture Series
+title: Overview
 permalink: /digital-programmes/skillsfuture-series
 breadcrumb: Overview
 collection_name: digital-programmes
