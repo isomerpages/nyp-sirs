@@ -173,6 +173,12 @@ second_nav_title: "Education and Training"
     <td><a href="/digital-programmes/professional-certificate-in-digital-retail-entertainment">Professional Certificate in Digital Retail Entertainment Programme</a></td>
   </tr>
   <tr>
-    <th><a href="/digital-programmes/national-silver-academy">National Silver Academy</a></th>
+    <th>National Silver Academy</th>
+  </tr>
+  <tr>
+    <td><a href="/digital-programmes/national-silver-academy/using-your-phone-smartly-android">Using Your Phone Smartly (Android)</a></td>
+  </tr>
+  <tr>
+    <td><a href="/digital-programmes/national-silver-academy/selling-online">Selling Online</a></td>
   </tr>
 </table>  
