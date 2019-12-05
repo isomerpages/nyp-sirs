@@ -51,10 +51,10 @@ second_nav_title: "Education and Training"
     <td><a href="/retail-programmes/short-courses/differentiate-and-drive-growth-with-experience-innovation">Differentiate and Drive Growth with Experience Innovation</a></td>
   </tr>
   <tr>
-    <td><a href="/retail-programmes/short-courses/new-mindset-for-marvellous-experience-through-brixplay">New Mindset for Marvellous Experience through BRIXPlan</a><td>
+    <td><a href="/retail-programmes/short-courses/new-mindset-for-marvellous-experience-through-brixplay">New Mindset for Marvellous Experience through BRIXPlay</a></td>
   </tr>
   <tr>
-    <td><a href="/retail-programmes/short-courses/create-value-to-drive-fantabulous-outcome-through-brixplay">Create Value to Drive Fantabulous Outcome through BRIXPlan</a></td>
+    <td><a href="/retail-programmes/short-courses/create-value-to-drive-fantabulous-outcome-through-brixplay">Create Value to Drive Fantabulous Outcome through BRIXPlay</a></td>
   </tr>
   <tr>
     <td><a href="/retail-programmes/short-courses/omni-commerce-retail">Omni-Commerce Retail</a></td>
