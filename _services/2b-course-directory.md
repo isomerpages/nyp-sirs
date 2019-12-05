@@ -27,6 +27,9 @@ second_nav_title: "Education and Training"
     <td><a href="/retail-programmes/wsq-certification-programmes/specialist-diploma-in-retail-operations">Specialist Diploma in Retail (Operations)</a></td>
   </tr>
   <tr>
+    <td><a href="/retail-programmes/wsq-certification-programmes/certified-service-professional">Certified Service Professional</a></td>
+  </tr>
+  <tr>
     <th>WSQ Certification Programmes - Modular</th>
   </tr>
   <tr>
