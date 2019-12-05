@@ -24,11 +24,15 @@ collection_name: services
 
 <p>SIRS consultants provide advice on a vast array of government assistance for the individual, and for companies.</p>
 
+<p><a href="/services/consultancy">Find out more</a></p>
+
 <h3>Education</h3>
 
 <p>SIRS is also committed to provide quality education for learners keen to enter, learn more, and/or keep abreast of the retail industry. Through strategic partnerships with global New Retail leaders such as Alibaba, and local partnerships with trade associations and chambers (TACs), SIRS keeps retailers and employees updated about the latest trends, and understand the required skillsets to remain relevant.</p>
 
 <p>Annually, SIRS organises the Industry Practitioner Seminar, bringing together industry thought-leaders to provide insights, while providing an opportunity for industry practitioners to network and exchange pointers.</p>
+
+<p><a href="/services/education-and-training">Find out more</a></p>
 
 <h3>Training</h3>
 
@@ -44,6 +48,10 @@ collection_name: services
   <li>Singtel99%SME</li>
   </ul>
 
+<p><a href="/services/education-and-training">Find out more</a></p>
+
 <h3>Placement</h3>
 
 <p>Through our <a href="/services/career-services">career services</a>, SIRS provides career guidance for individuals seeking a career in retail and those considering a career move from another industry or within the retail industry. This includes facilitating placements for individuals trained by SIRS, so that they can gain employment in the retail industry after training.</p>
+
+<p><a href="/services/career-services">Find out more</a></p>
