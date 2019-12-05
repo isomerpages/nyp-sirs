@@ -13,11 +13,16 @@ collection_name: services
   
   <ul>
     <li>Programme Fee Funding and Support</li>
-    <ul><li><a href="/services/consultancy/funding-and-support/skillsfuture-credit">SkillsFuture Credits</a></li>
-        <li><a href="/services/consultancy/funding-and-support/mid-career-enhanced-subsidy">Mid-Career Enhanced Subsidy</a></li>
-        <li><a href="/services/consultancy/funding-and-support/skillsfuture-enhanced-training-support-for-smes">SkillsFuture Enhanced Training Support for SMEs</a></li>
-        <li><a href="/services/consultancy/funding-and-support/workfare-training-support-scheme">Workfare Training Support Scheme</a></li>
+    <ul><li><a href="/services/consultancy/funding-and-support/skillsfuture-credit">SkillsFuture Credits (SFC)</a></li>
+        <li><a href="/services/consultancy/funding-and-support/mid-career-enhanced-subsidy">Mid-Career Enhanced Subsidy (MCES)</a></li>
+        <li><a href="/services/consultancy/funding-and-support/skillsfuture-enhanced-training-support-for-smes">SkillsFuture Enhanced Training Support for SMEs (ETSS)</a></li>
+        <li><a href="/services/consultancy/funding-and-support/workfare-training-support-scheme">Workfare Training Support Scheme (WTS)</a></li>
         <li>Absentee payroll</li></ul>
-    <li><a href="/services/consultancy/grants">Government grants to aid in your business transformation</a></li>
+    <li>Government grants to aid in your business transformation</li>
+  <ul>
+    <li><a href="/services/consultancy/funding-and-support/enterprise-development-grant">Enterprise Development Grant (EDG)</a></li>
+    <li>Industry Transformation Scheme (ITS)</li>
+    <li>Lean Enterprise Development (LED)</li>
+  </ul>
     </ul>
     </p>
