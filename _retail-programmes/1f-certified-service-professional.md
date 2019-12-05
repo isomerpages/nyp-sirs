@@ -8,6 +8,8 @@ second_nav_title: "WSQ Certification Programmes"
 ---
 <a href="#" onclick="history.go(-1)">Back to previous page</a><br>
 
+<img src="images/wsq/certified-service-professional.jpg" style="width:100%;">
+
 <p>The well-received WSQ Certified Service Professional, a national curriculum, is now a 4 days highly experiential boot-camp style programme with latest industry trends, know-how and best practices to cope with rising and changing customer expectations; a ‘journey’ through key development checkpoints addressing the positive mindset, right heartset and a mastery of service skill sets needed to be a service professional.</p>
  
 <p>The Singapore Institute of Retail Studies (SIRS) is the only training provider who  has integrated 4 critical skills, Emotional Intelligence, Service Value-Adding, Team Collaboration & Critical Thinking, to achieve sustainable service excellence and enhance training effectiveness; introducing WSQ Certified Service Professional 2++.</p>
