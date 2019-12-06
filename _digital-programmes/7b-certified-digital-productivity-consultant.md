@@ -82,6 +82,10 @@ All fees inclusive of prevailing GST</em>
 
 <h3>As Seen On</h3>
 
-<div style="text-align:center;">
-<a href="https://www.channelnewsasia.com/news/singapore/heartland-shops-to-tap-on-instagram-facebook-new-lease-life-11596238" target="_blank"><img src="images/logos/cna-logo.jpg" style="width:25%;"></a><a href="https://www.straitstimes.com/singapore/change-agents-to-be-trained-to-help-heartland-business-go-digital" target="_blank"><img src="images/logos/the-straits-times-logo.jpg" style="width:25%;"></a><a href="https://www.zaobao.com.sg/sme/news/story20190605-962065" target="_blank"><img src="images/logos/zaobao-logo.jpg" style="width:25%;"></a>
-</div>
+<table style="width:100%;">
+  <tr>
+    <td style="width:33%;"><a href="https://www.channelnewsasia.com/news/singapore/heartland-shops-to-tap-on-instagram-facebook-new-lease-life-11596238" target="_blank"><img src="images/logos/cna-logo.jpg" style="width:25%;"></a></td>
+    <td style="width:33%;"><a href="https://www.straitstimes.com/singapore/change-agents-to-be-trained-to-help-heartland-business-go-digital" target="_blank"><img src="images/logos/the-straits-times-logo.jpg" style="width:25%;"></a></td>
+    <td style="width:33%;"><a href="https://www.zaobao.com.sg/sme/news/story20190605-962065" target="_blank"><img src="images/logos/zaobao-logo.jpg" style="width:25%;"></a></td>
+  </tr>
+</table>
