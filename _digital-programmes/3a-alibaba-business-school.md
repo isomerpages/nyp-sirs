@@ -23,7 +23,7 @@ second_nav_title: "Alibaba Business School"
 
 <p>The third Alibaba Global Course series brings together top Taobao University trainers and practitioners to give insights on the state of cross border e-commerce in Southeast Asia and China, and allows you the opportunity to formulate your business strategy for global success.</p>
 
-<center><a href="/digital-programmes/alibaba-business-school/alibaba-global-course-series" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;" target="_blank">Find Out More</a></center>
+<center><a href="/digital-programmes/alibaba-business-school/alibaba-global-course-series" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Find Out More</a></center>
 
 <h4>Alibaba CEO Programme</h4>
 
