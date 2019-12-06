@@ -56,13 +56,13 @@ second_nav_title: "Alibaba Business School"
 
 <table style="width:100%;">
   <tr>
-    <td style="width:33%;"><a href="https://www.businesstimes.com.sg/companies-markets/alibaba-brings-its-one-day-global-course-to-singapore-for-the-first-time" target="_blank"><img src="images/logos/the-business-times-logo.jpg" style="width:100%;"></a></td>
-    <td style="width:33%;"><a href="https://www.straitstimes.com/singapore/new-e-commerce-courses-from-alibaba-group-and-singapore-institute-of-retail-studies" target="_blank"><img src="images/logos/the-straits-times-logo.jpg" style="width:100%;"></a></td>
-    <td style="width:33%;"><a href="https://sg.finance.yahoo.com/news/alibaba-launches-retail-e-commerce-065500079.html" target="_blank"><img src="images/logos/yahoo-finance-logo.jpg" style="width:100%;"></a></td>
+    <td style="width:33%;vertical-align:middle;"><a href="https://www.businesstimes.com.sg/companies-markets/alibaba-brings-its-one-day-global-course-to-singapore-for-the-first-time" target="_blank"><img src="images/logos/the-business-times-logo.jpg" style="width:100%;"></a></td>
+    <td style="width:33%;vertical-align:middle;"><a href="https://www.straitstimes.com/singapore/new-e-commerce-courses-from-alibaba-group-and-singapore-institute-of-retail-studies" target="_blank"><img src="images/logos/the-straits-times-logo.jpg" style="width:100%;"></a></td>
+    <td style="width:33%;vertical-align:middle;"><a href="https://sg.finance.yahoo.com/news/alibaba-launches-retail-e-commerce-065500079.html" target="_blank"><img src="images/logos/yahoo-finance-logo.jpg" style="width:100%;"></a></td>
   </tr>
   <tr>
-    <td style="width:33%;"><a href="https://sbr.com.sg/retail/news/alibaba-launches-retail-and-e-commerce-courses-singaporean-businesses" target="_blank"><img src="images/logos/singapore-business-review-logo.jpg" style="width:100%;"></a></td>
-    <td style="width:33%;"><a href="https://www.alizila.com/singapore-smes-get-digital-education-taobao-university/" target="_blank"><img src="images/logos/alizila-logo.jpg" style="width:100%;"></a></td>
-    <td style="width:33%;"><a href="https://www.sgsme.sg/news/alibaba-nyp-offer-joint-e-commerce-courses" target="_blank"><img src="images/logos/sgsme-logo.jpg" style="width:100%;"></a></td>
+    <td style="width:33%;vertical-align:middle;"><a href="https://sbr.com.sg/retail/news/alibaba-launches-retail-and-e-commerce-courses-singaporean-businesses" target="_blank"><img src="images/logos/singapore-business-review-logo.jpg" style="width:100%;"></a></td>
+    <td style="width:33%;vertical-align:middle;"><a href="https://www.alizila.com/singapore-smes-get-digital-education-taobao-university/" target="_blank"><img src="images/logos/alizila-logo.jpg" style="width:100%;"></a></td>
+    <td style="width:33%;vertical-align:middle;"><a href="https://www.sgsme.sg/news/alibaba-nyp-offer-joint-e-commerce-courses" target="_blank"><img src="images/logos/sgsme-logo.jpg" style="width:100%;"></a></td>
   </tr>
 </table>
