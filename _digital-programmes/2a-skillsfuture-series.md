@@ -10,9 +10,7 @@ second_nav_title: "SkillsFuture Series"
 
 <img src="images/skillsfuture-series.jpg" style="width:100%;">
 
-<p>The SkillsFuture Series is a curated list of short, industry-relevant training programmes that focus on emerging skills. As a start, we have identified eight categories under the SkillsFuture Series: (i) data analytics, (ii) finance, (iii) tech-enabled services, (iv) digital media, (v) cyber security, (vi) entrepreneurship, (vii) advanced manufacturing, and (viii) urban solutions. </p>
-
-<p>Targeted at Singaporeans who are keen to either gain a basic understanding or deepen their skills in these emerging areas, the SkillsFuture Series comprises training programmes to benefit adult learners of different skills proficiency background.</p>
+<p>The SkillsFuture Series is a curated list of short, industry-relevant training programmes that focus on emerging skills. Targeted at Singaporeans who are keen to either gain a basic understanding or deepen their skills in these emerging areas, the SkillsFuture Series comprises training programmes to benefit adult learners of different skills proficiency background.</p>
 
 <p>SIRS offers the following SkillsFuture Series programmes:
   
