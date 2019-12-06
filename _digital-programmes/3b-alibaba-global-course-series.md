@@ -54,7 +54,7 @@ second_nav_title: "Alibaba Business School"
 
 <h3>Media Coverage</h3>
 
-<table>
+<table style="width:100%;">
   <tr>
     <td style="width:33%;"><a href="https://www.businesstimes.com.sg/companies-markets/alibaba-brings-its-one-day-global-course-to-singapore-for-the-first-time" target="_blank"><img src="images/logos/the-business-times-logo.jpg" style="width:100%;"></a></td>
     <td style="width:33%;"><a href="https://www.straitstimes.com/singapore/new-e-commerce-courses-from-alibaba-group-and-singapore-institute-of-retail-studies" target="_blank"><img src="images/logos/the-straits-times-logo.jpg" style="width:100%;"></a></td>
