@@ -17,7 +17,7 @@ second_nav_title: "Short Courses"
 <ul>
   <li>WSQ-Certified Modular Programmes:
     <ul>
-      <li><a href=/retail-programmes/short-courses/be-your-own-makeup-artist">Be Your Own Makeup Artist</a></li>
+      <li><a href="/retail-programmes/short-courses/be-your-own-makeup-artist">Be Your Own Makeup Artist</a></li>
       <li><a href="/retail-programmes/short-courses/mastering-the-art-of-selling-in-new-retail">Mastering the Art of Selling in New Retail</a></li>
       <li><a href="/retail-programmes/short-courses/creating-an-unforgettable-customer-experience">Creating an Unforgettable Customer Experience</a></li>
       <li><a href="/retail-programmes/short-courses/the-art-and-science-of-visual-merchandising">The Art and Science of Visual Merchandising</a></li>
