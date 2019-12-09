@@ -89,3 +89,7 @@ All fees inclusive of prevailing GST</em>
     <td style="width:33%;"><a href="https://www.zaobao.com.sg/sme/news/story20190605-962065" target="_blank"><img src="images/logos/zaobao-logo.jpg" style="width:100%;"></a></td>
   </tr>
 </table>
+
+<h3>Register for the Upcoming Course Preview</h3>
+
+<iframe frameborder="0" scrolling="no" width="100%" height="400px" src="https://gems.gevme.com/39620283/embed/full"></iframe>
