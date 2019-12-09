@@ -5,3 +5,13 @@ permalink: /upcoming-events
 breadcrumb: Upcoming Events
 collection_name: media-centre
 ---
+<table>
+  <tr>
+    <th colspan=3>January 2020</th>
+  </tr>
+  <tr>
+    <td>15 Jan 2020</td>
+    <td>CDPC Course Preview</td>
+    <td><a href="https://gems.gevme.com/jan-2020-cdpc-course-preview-39620283" target="_blank">More information</a></td>
+  </tr>
+</table>
