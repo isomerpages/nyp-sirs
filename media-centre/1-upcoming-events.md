@@ -12,6 +12,6 @@ collection_name: media-centre
   <tr>
     <td>15 Jan 2020</td>
     <td>CDPC Course Preview</td>
-    <td><a href="https://gems.gevme.com/jan-2020-cdpc-course-preview-39620283" target="_blank">More information</a></td>
+    <td><a href="/digital-programmes/certified-digital-productivity-consultant">More information</a></td>
   </tr>
 </table>
