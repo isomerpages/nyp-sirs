@@ -92,4 +92,4 @@ All fees inclusive of prevailing GST</em>
 
 <h3>Register for the Upcoming Course Preview</h3>
 
-<iframe frameborder="0" scrolling="no" width="100%" height="400px" src="https://gems.gevme.com/39620283/embed/full"></iframe>
+<div class="gevme-registration-block" data-event="39620283"></div> <script> (function() { var sc = document.createElement("script"); sc.type = "text/javascript"; sc.src = "https://gems.gevme.com/script/embed.js"; document.getElementsByTagName("script")[0].parentNode.appendChild(sc); })(); </script>
