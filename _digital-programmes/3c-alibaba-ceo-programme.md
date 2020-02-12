@@ -15,7 +15,7 @@ second_nav_title: "Alibaba Business School"
 6天5夜考察之旅-杭州</center>
 
 <div style="text-align:center;"><h3>Next Intake</h3>
-16-21 February 2019</div>
+To be confirmed</div>
 
 Join us on our New Retail expedition! Alibaba’s certified trainers will guide you to understand latest trends and developments in internet and e-commerce, analyse New Retail, Big Data, New Marketing, Cross-border and transcend Digital Thought Leadership with new retail strategy, operation and branding. Besides a rare opportunity to visit and network at Alibaba HQ, you will also get to experience facial recognition payment and augmented reality shopping guide in Alibaba’s New Retail Shopping Mall.
 
