@@ -86,4 +86,6 @@ What you will learn:
 <em><sup>1</sup>To check if you are an NTUC UNION member, please call 6213 8008<br>
 All fees include prevailing GST</em>
 
+<center><a href="https://form.gov.sg/#!/5e4a462056e8230011d5d3bb" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;" target="_blank">Request for Brochure</a></center>
+
 <center><a href="https://goo.gl/forms/kEI6opeWj0ud3BK82" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;" target="_blank">Register Now</a></center>
