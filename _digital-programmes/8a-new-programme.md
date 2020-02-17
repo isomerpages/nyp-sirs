@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Using Your Phone Smartly (Android)
-permalink: /digital-programmes/national-silver-academy/using-your-phone-smartly-android
-breadcrumb: Using Your Phone Smartly (Android)
+title: New Programme
+permalink: /digital-programmes/new-programme/
+breadcrumb: New Programme
 collection_name: digital-programmes
 second_nav_title: National Silver Academy
 ---
