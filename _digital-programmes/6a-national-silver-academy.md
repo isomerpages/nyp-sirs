@@ -17,7 +17,7 @@ second_nav_title: National Silver Academy
   <ul>
   <li><a href="/digital-programmes/national-silver-academy/using-your-phone-smartly-android">Use Your Phone Smartly (Android)</a></li>
   <li><a href="/digital-programmes/national-silver-academy/selling-online">Selling Online</a></li>
-  <li><a href="/digital-programmes/national-silver-academy/selling-online">e-Communications (Whatsapp)</a></li>
+  <li><a href="/digital-programmes/national-silver-academy/e-Communications-Whatsapp">e-Communications (Whatsapp)</a></li>
   </ul>
 
 </p>
