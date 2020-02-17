@@ -70,4 +70,6 @@ Discover how the 8-step category management process helps you to develop win-win
 
 <em>All fees include prevailing GST</em>
 
+<center><a href="https://form.gov.sg/#!/5e4a462056e8230011d5d3bb" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;" target="_blank">Request for Brochure</a></center>
+
 <center><a href="https://form.gov.sg/5d9d3f30a8b1b30012143f58" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;" target="_blank">Register Now</a></center>
