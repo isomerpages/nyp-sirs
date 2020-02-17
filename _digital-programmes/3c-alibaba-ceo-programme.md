@@ -44,6 +44,7 @@ You are only a trip away to gain useful takeaways for immediate business applica
 
 <h3>Programme Fees</h3>
 
+<!-- table for programme fees --> 
 <center>
 <table style="width:100%;">
 <tr>
@@ -87,5 +88,8 @@ Airfare<br>
 Visa for travel to China<br>
 Travel insurance
   </center>
+  
+ <!-- button code --> 
+ <P> <center><a href="" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;" target="_blank">Request for Brochure</a></center>
   
  <P> <center><a href="https://form.gov.sg/#!/5cec9ce35d6edc00173c0f942" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;" target="_blank">Register Now</a></center>
