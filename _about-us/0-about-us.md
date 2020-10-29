@@ -36,18 +36,112 @@ SIRS’ Career Services Centre provides complimentary career advisory and placem
 
 SIRS’ Business Solutions team has enabled many retailers to successfully implement training & capability development initiatives through our highly customised approach. Our team of retail consultants provide enterprise centric business solutions and recommendations to retailers, tapping the vast arrays of government assistance including Training Grant, Capability Development Grant (CDG), Productivity & Innovation Credit (PIC), Workfare Training Scheme (WTS) and Enhanced Training Support Scheme (ETSS).
 
-<form action="action_page.php">
-  <div class="container">
-    <h3>Subscribe to our Mailing List</h3>
-  </div>
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+* {
+  box-sizing: border-box;
+}
 
-  <div class="container" style="background-color:white">
-    <input type="text" placeholder="Name" name="name" required>
-    <input type="text" placeholder="Email address" name="mail" required>
-  </div>
+input[type=text], select, textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  resize: vertical;
+}
 
-  <div class="container">
-    <input type="submit" value="Subscribe">
+label {
+  padding: 12px 12px 12px 0;
+  display: inline-block;
+}
+
+input[type=submit] {
+  background-color: #4CAF50;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  float: right;
+}
+
+input[type=submit]:hover {
+  background-color: #45a049;
+}
+
+.container {
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 20px;
+}
+
+.col-25 {
+  float: left;
+  width: 25%;
+  margin-top: 6px;
+}
+
+.col-75 {
+  float: left;
+  width: 75%;
+  margin-top: 6px;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Responsive layout - when the screen is less than 600px wide, make the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+  .col-25, .col-75, input[type=submit] {
+    width: 100%;
+    margin-top: 0;
+  }
+}
+</style>
+</head>
+<body>
+
+<h3>Subscribe to Our Mailing List</h3>
+<p>Resize the browser window to see the effect. When the screen is less than 600px wide, make the two columns stack on top of each other instead of next to each other.</p>
+
+<div class="container">
+  <form action="/action_page.php">
+  <div class="row">
+    <div class="col-25">
+      <label for="name">Name</label>
+    </div>
+    <div class="col-75">
+      <input type="text" id="name" name="name" placeholder="Your name..">
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-25">
+      <label for="lname">Email</label>
+    </div>
+    <div class="col-75">
+      <input type="text" id="email" name="email" placeholder="Your email address..">
+    </div>
+  </div>
  
+  <div class="row">
+    <div class="col-25">
+      <label for="message">Message</label>
+    </div>
+    <div class="col-75">
+      <textarea id="message" name="message" placeholder="Any feedback.." style="height:200px"></textarea>
+    </div>
   </div>
-</form>
+  <div class="row">
+    <input type="submit" value="Submit">
+  </div>
+  </form>
+</div>
+
+</body>
+</html>
