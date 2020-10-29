@@ -44,10 +44,10 @@ SIRS’ Business Solutions team has enabled many retailers to successfully imple
   <div class="container" style="background-color:white">
     <input type="text" placeholder="Name" name="name" required>
     <input type="text" placeholder="Email address" name="mail" required>
-    </label>
   </div>
 
   <div class="container">
     <input type="submit" value="Subscribe">
+ 
   </div>
 </form>
