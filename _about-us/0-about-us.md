@@ -39,14 +39,11 @@ SIRS’ Business Solutions team has enabled many retailers to successfully imple
 <form action="action_page.php">
   <div class="container">
     <h3>Subscribe to our Mailing List</h3>
-    <p>Lorem ipsum..</p>
   </div>
 
   <div class="container" style="background-color:white">
     <input type="text" placeholder="Name" name="name" required>
     <input type="text" placeholder="Email address" name="mail" required>
-    <label>
-      <input type="checkbox" checked="checked" name="subscribe"> Mailing List
     </label>
   </div>
 
