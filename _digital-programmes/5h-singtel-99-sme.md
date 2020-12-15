@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Singtel99%SME Onboarding Programme
+title: Singtel 99% SME Onboarding Programme
 permalink: /digital-programmes/e-commerce-programmes/singtel-99-sme
-breadcrumb: Singtel99%SME Onboarding Programme
+breadcrumb: Singtel 99% SME Onboarding Programme
 collection_name: digital-programmes
 second_nav_title: "E-Commerce Programmes"
 ---
@@ -15,7 +15,7 @@ second_nav_title: "E-Commerce Programmes"
 <h3>Course Outline</h3>
 <ul>
   <li>Understand the Singapore digital commerce landscape</li>
-  <li>Listing your products on Singtel99%SME e-marketplace</li>
+  <li>Listing your products on Singtel 99% SME e-marketplace</li>
   <li>Discover free tools and resources to manage fulfillment, logistics, and more</li>
   <li>Understand location-based features to enable customers to find businesses near them</li>
   <li>Learning to use push notifications to draw traffic</li>
