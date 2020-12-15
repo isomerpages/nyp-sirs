@@ -13,7 +13,7 @@ second_nav_title: "Digital Marketing Masterclasses"
 <p>Understanding Google AdWords and setting up best practices for Google Shopping Campaigns are important in digital marketing. The course aims to help online retailers to reap the benefits of Google Shopping through managing search, display, video and shopping campaigns.</p>
 
 <h3 style="text-align:center;">Course Outline</h3>
-<b>
+<ul>
   <li>Introduction to Search fundamentals</li>
 <li>Understanding Singapore e-commerce system</li>
 <li>Introduction to Google Merchant Centre</li>
@@ -21,7 +21,7 @@ second_nav_title: "Digital Marketing Masterclasses"
 <li>Understand Shopping Campaigns and the various options</li>
 <li>Measuring & Optimizing AdWords Campaigns</li>
 <li>Fundamentals & Google Shopping Review: Google AdWords Fundamentals & Shopping Advertising Exam</li>
-  </b>
+  </ul>
 
 <h3 style="text-align:center;">Trainer Profile</h3>
 <p><b>Ivan Wong</b><br>
