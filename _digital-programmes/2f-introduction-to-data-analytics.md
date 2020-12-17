@@ -10,7 +10,9 @@ second_nav_title: "SkillsFuture Series"
 
 <img src="images/sf-series-banner.png" style="width:100%;">
 
-<p>This programme will allow participants to understand the applications of data analytics and how they can apply similar approach to derive insights from data. The programme will equip participants with the right level of appreciation in the areas of retail analytics.</p>
+<p>With the increasing traffic in social media space, successful engagement through digital content marketing is a great booster for business.</p>
+
+<p>In this 1-day course, participants would have the basic knowledge and applications to understand digital engagement that is superseding traditional marketing channels. This programme will allow participants to understand the applications of data analytics and how they can apply similar approach to derive insights from data. Participants will be equipped with the right level of appreciation in the areas of retail analytics.</p>
 
 <h3>Course Outline</h3>
 <ul>
