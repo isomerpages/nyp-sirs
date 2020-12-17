@@ -14,9 +14,13 @@ second_nav_title: "SkillsFuture Series"
 
 <h3>Course Outline</h3>
 <ul>
-  <li>Develop online branding</li>
-<li>Branding on social platforms</li>
-<li>Privacy and security</li>
+  <li>Understand the importance of personal online branding</li>
+  <li>Develop an effective Personal Online Branding Strategy</li>
+  <li>Create an effective Linkedin Profile – The 4 Essentials</li>
+  <li>Getting recommendation on Linkedin</li>
+  <li>How to create and/or improve Linkedin Profile</li>
+  <li>How to brand yourself on social media platforms – Facebook and Instagram</li>
+  <li>Privacy and security</li>
   </ul>
 
 <h3>Course Fees</h3>
