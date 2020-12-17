@@ -42,7 +42,7 @@ You are only a trip away to gain useful takeaways for immediate business applica
   <li>探店“亲橙里”及体验黑科技产品</li>
 </ul>
 
-<h2>Day 1</h2>
+<h4>Day 1</h4>
 <li>Depart Singapore to Hangzhou, China</li>
 <li>Check in Hotel</li>
 
