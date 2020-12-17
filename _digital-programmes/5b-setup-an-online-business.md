@@ -17,11 +17,28 @@ second_nav_title: "E-Commerce Programmes"
 <p>Join us, and kickstart your digital business today!</p>
 
 <h3 style="text-align:center;">Course Outline</h3>
-<ul>
-  <li>Introduction to online business</li>
-  <li>Understanding different platforms and channels for digital commerce</li>
-  <li>How to manage and delight customers</li>
-  <li>Hands-on practical session with Shopmatic</li>
+<ul>  
+  <h4>1. Introduction to Online Business</h4>
+  <li>Understand the types of online business</li>
+  <li>Identify the factors to consider before starting an online business</li>
+  <li>Discover the resources required to start an online business</li>
+  <li>Identify the key functions of an online business</li>
+  <li>Appreciate the online sales process</li>
+ 
+  <h4>2. Different Platforms for Online Business</h4>
+  <li>Understand various types of online marketplaces and e-commerce site builders</li>
+  <li>Learn about different kinds of social commerce</li>
+ 
+  <h4>3. Managing and Handling Customers</h4>
+  <li>Learn to handle logistics and fulfilment</li>
+  <li>Identify customer service best practices</li>
+  <li>How to provide after-sales services</li>
+ 
+  <h4>4. Practical Hands-on Session on Shopmatic</h4>
+  <li>Set up your Shopmatic account</li>
+  <li>Build your e-commerce website</li>
+  <li>Listing your products</li>
+  <li>Learn about fulfilment and payment options</li>
   </ul>
 
 <h3>Programme Fees</h3>
