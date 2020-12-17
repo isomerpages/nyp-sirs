@@ -46,7 +46,7 @@ You are only a trip away to gain useful takeaways for immediate business applica
 <li>Depart Singapore to Hangzhou, China</li>
 <li>Check in Hotel</li>
 
-<h2>Day 2</h2>
+<h4>Day 2</h4>
 <li>The Alibaba World Economy and The New Retail</li>
 <li>Site visit to Alibaba Global HQ: Alibaba West Stream Campus & “Facial Recognition Payment” Future Retail Mall</li>
 <li>Alibaba Big Data Global Transaction Console: Panoramic view of Alibaba global business strategy and data analytic real-time transactions</li>
@@ -54,7 +54,7 @@ You are only a trip away to gain useful takeaways for immediate business applica
 <li>Site visit to Alimall and Hema Fresh</li>
 <li>Meals provided: Breakfast/Lunch/Dinner</li>
 
-<h2>Day 3</h2>
+<h4>Day 3</h4>
 <li>Digital Commerce Law of Survival - Thought Leadership Breakthrough</li>
 <li>China digital commerce milestones and its rapidly developing pathway</li>
 <li>Internet transformation 4.0: from digital commerce to sharing economy</li>
@@ -62,7 +62,7 @@ You are only a trip away to gain useful takeaways for immediate business applica
 <li>Analyse future trends (New Retail, Big Data, Cross-border, New Marketing)</li>
 <li>Meals provided: Breakfast/Lunch/Dinner</li>
 
-<h2>Day 4</h2>
+<h4>Day 4</h4>
 <li>Digital Commerce Branding and Planning</li>
 <li>Understand what Digital Precision Marketing is and how it differs from traditional branding</li>
 <li>Deep dive international brand success and bottleneck in China market</li>
@@ -70,22 +70,22 @@ You are only a trip away to gain useful takeaways for immediate business applica
 <li>3 steps to leadership branding in China</li>                                                                                 
 <li>Meals provided: Breakfast/Lunch/Dinner</li>
  
-<h2>Day 5</h2>
+<h4>Day 5</h4>
 <li>Digital Commerce Way of Running Business</li>
 <li>Understand the value chain of digital commerce way of running business</li>
 <li>Thought leadership in digital commerce which includes re-construction of organisation and identify roles & responsibilities</li>
 <li>Learn to build digital commerce operations and overall framework through digital commerce SOP & techniques</li>                                        
 <li>Meals provided: Breakfast/Lunch</li>
  
-<h2>Day 6</h2>
+<h4>Day 6</h4>
 <li>Depart Hangzhou, China to Singapore</li>
 <li>Meals provided: Breakfast</li>
 
-<h2>第一天</h2>
+<h4>第一天</h4>
 <li>从新加坡飞往杭州，中国</li>
 <li>入住酒店</li>
  
-<h2>第二天</h2>
+<h4>第二天</h4>
 <li>阿里巴巴经济体与新零售体验</li>
 <li>参观阿里巴巴集团全球总部：阿里巴巴西溪园区&“人脸识别支付”未来店</li>
 <li>《阿里巴巴数据大屏》：阿里巴巴全球业务布局与数据详解</li>
@@ -93,7 +93,7 @@ You are only a trip away to gain useful takeaways for immediate business applica
 <li>《新零售模式》亲橙里(Alimall)与盒马鲜生走访</li>
 <li>提供餐食：早/午/晚餐</li>
 
-<h2>第三天</h2>
+<h4>第三天</h4>
 <li>电子商务生存法则-思维决定出路</li>
 <li>中国电子商务的发展历程及电商快速发展的路径</li>
 <li>互联网蜕变：从线上网店到共享经济</li>
@@ -101,7 +101,7 @@ You are only a trip away to gain useful takeaways for immediate business applica
 <li>电子商务未来趋势解读（新零售、大数据、跨境、新营销</li>
 <li>提供餐食：早/午/晚餐</li>
  
-<h2>第四天</h2>
+<h4>第四天</h4>
 <li>互联网品牌规划</li>
 <li>了解什么是互联网品牌玩法，以及与传统品牌打造的区别</li>
 <li>分析外国品牌在中国经营现状与在中国面临瓶颈的原因</li>
@@ -109,14 +109,14 @@ You are only a trip away to gain useful takeaways for immediate business applica
 <li>如何三步在中国打造互联网品牌</li>
 <li>提供餐食: 早/午/晚餐</li>
  
-<h2>第五天</h2>
+<h4>第五天</h4>
 <li>互联网商业运营</li>
 <li>什么是互联网商业运营；电商运营特点</li>
 <li>线上运营的思路，包含了解电商团队搭建、角色定位与分工等</li>
 <li>线上运营的实操步聚与技巧，学习如何搭建自己企业的电商运营的整体框架</li>
 <li>提供餐食：早/午餐</li>
  
-<h2>第六天</h2>
+<h4>第六天</h4>
 <li>从杭州，中国往回新加坡</li>
 <li>提供餐食：早餐</li>
 
