@@ -10,14 +10,22 @@ second_nav_title: "SkillsFuture Series"
 
 <img src="images/sf-series-banner.png" style="width:100%;">
 
-<p>This hands-on, practical session will guide participants in understanding and navigating the complexities of a digital business. Participants will learn the types of platforms available and understand the benefits, factors & resources required in an online business. </p>
+<p>E-commerce in Singapore is a booming business with data from Statista showing that Singaporeans spent a total of almost US$8 billion online in 2018, equating to a per-capita spend across the country’s total population of more than US$1,300 – almost four times greater than the global average. So how do you go about to start your own business and excel in it?</p>
+ 
+<p>In this 1-day course, you would have the basic knowledge of E-commerce. You will learn the types of platforms available and understand the benefits, factors & resources required in an online business. This hands-on, practical session will guide participants in understanding and navigating the complexities of a digital business. Participants will learn the types of platforms available and understand the benefits, factors & resources required in an online business. </p>
 
 <h3>Course Outline</h3>
 <ul>
-<li>Overview of an online business</li>
-<li>Online sales operations</li>
-<li>Online marketing activities</li>
+  <li>Why people shop online</li>
+  <li>Types of online business</li>
+  <li>Advantages of challenges of online business</li>
+  <li>Where to get started</li>
+  <li>Online sales operations</li>
+  <li>Online marketing activities</li>
   <li>Online security issues</li>
+  <li>What are the E-commerce trends (Selling and Marketing)</li>
+  <li>Components of an online business (store, payment, logistics, customer service)</li>
+  <li>How to select the right mode of e-commerce for your business</li>
   </ul>
 
 <h3>Course Fees</h3>
