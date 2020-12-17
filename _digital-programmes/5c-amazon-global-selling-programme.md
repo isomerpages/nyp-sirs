@@ -10,15 +10,30 @@ second_nav_title: "E-Commerce Programmes"
 
 <img src="images/e-commerce/amazon-global-selling-programme.png" style="width:100%;">
 
-<p>Amazon is one of the largest global e-marktplaces, with more than 310 million monthly active users worldwide. The availbility of Amazon in more than 150 countries allows for brands to easily grow their global presence, and get your products to customers all around the world.</p>
+<p>Amazon is one of the largest global e-marketplaces, with more than 310 million monthly active users worldwide. The availability of Amazon in more than 150 countries allows for brands to easily grow their global presence, and get your products to customers all around the world.</p>
 
 <p>Join us on this one-day onboarding programme, where you will learn how you can start selling to your international clientele with ease.</p>
 
 <h3 style="text-align:center;">Course Outline</h3>
 <ul>
-  <li>Introduction to Amazon Global Selling</li>
-  <li>Walkthrough session on Amazon account creation and product listing</li>
-  <li>Understand what Fulfilment by Amazon (FBA) is, and how it helps you get your products to your customers</li>
+  <h4>1. Introduction to Amazon Global Selling</h4>
+  <li>Understand Amazon and the e-Marketplace ecosystem in the USA</li>
+  <li>Appreciate the Fulfilment by Amazon (FBA) process – how your products are shipped and delivered to customers in North America</li>
+  <li>Identify the 4 components of managing an online business and the magic formulas to succeeding on Amazon</li>
+  <li>Learn to choose the right product categories for your goods</li>
+ 
+  <h4>2. Practical Hands-on Session</h4>
+  <li>Register for an Amazon seller account</li>
+            <ul>√ Registration process and requirements</ul>
+            <ul>√ Seller identity verification</ul>
+  <li>Create product listings</li>
+            <ul>√ Category approval process</ul>
+            <ul>√ Barcode/Global Trade Item Number (GTIN) exemption</ul>
+ 
+  <h4>3. Fulfilment by Amazon (FBA)</h4>
+  <li>Discover the benefits of FBA compared to merchant shipping and how much it costs</li>
+  <li>Understand the FBA shipment creation workflow</li>
+  <li>Learn how to optimise packaging and labelling, and FBA product restrictions</li>
   </ul>
 
 <h3>Programme Fees</h3>
