@@ -14,8 +14,11 @@ second_nav_title: "SkillsFuture Series"
 
 <h3>Course Outline</h3>
 <ul>
-<li>Social media landscape</li>
-<li>Using social media to engage customers</li>
+  <li>Introduction to social media</li>
+  <li>Understand the need to have social media connectedness</li> 
+  <li>Understand the types of social media platform used in Singapore</li>
+  <li>Know the purpose of social media marketing to businesses</li>
+  <li>Know ways companies can use social media to engage customers</li>
   <li>Tools and resources</li>
   </ul>
 
