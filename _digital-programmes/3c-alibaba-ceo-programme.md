@@ -54,22 +54,22 @@ You are only a trip away to gain useful takeaways for immediate business applica
   
 <tr>
 <td>Full course fee</td>
-<td>$7,200</td>
+<td>$4,280</td>
 </tr>
 
 <tr>
 <td>Singapore Citizen/Singapore PR (SPR) (70% funding)</td>
-<td>$2,510</td>
+<td>$1,284</td>
 </tr>
 
 <tr>
 <td>Singapore Citizen 40 years & above<sup>1</sup> (90% funding)</td>
-<td>$1,170</td>
+<td>$484</td>
 </tr>
 
 <tr>
 <td>Singapore Citizen/SPR sponsored by SMEs<sup>2</sup> (90% funding)</td>
-<td>$1,170</td>
+<td>$484</td>
 </tr>
 
 </table>
@@ -89,7 +89,8 @@ Visa for travel to China<br>
 Travel insurance
   </center>
   
- <!-- button code --> 
+
+<!-- button code --> 
 <center><a href="https://form.gov.sg/#!/5e4a462056e8230011d5d3bb" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;" target="_blank">Request for Brochure</a></center>
   
  <P> <center><a href="https://form.gov.sg/#!/5cec9ce35d6edc00173c0f942" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;" target="_blank">Register Now</a></center>
