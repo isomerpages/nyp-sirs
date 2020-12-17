@@ -10,7 +10,7 @@ second_nav_title: "Digital Marketing Masterclasses"
 
 <img src="images/digital-masterclasses/increase-business-revenue-through-seo.jpg" style="width:100%;">
 
-<p>The rise of digital mediums and innovation in technology have changed the way consumers behave, and thus influencing their purchase decisions. Ecommerce platforms, such as e-marketplaces, have also transformed with the increased competition. In this changing landscape, how can businesses leverage the digital mediums to stay competitive and relevant to market needs?</p>
+<p>The rise of digital mediums and innovation in technology have changed the way consumers behave, and thus influencing their purchase decisions. E-commerce platforms, such as e-marketplaces, have also transformed with the increased competition. In this changing landscape, how can businesses leverage the digital mediums to stay competitive and relevant to market needs?</p>
 
 <p>This masterclass is designed to equip individuals with the skills and industry insights to make savvier business decisions when embarking on digital campaigns. </p>
 
