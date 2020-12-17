@@ -14,6 +14,8 @@ second_nav_title: "Digital Marketing Masterclasses"
 
 <p>Participants are required to have a Gmail account, bring a laptop and have Google Chrome (Safari on Mac) browser installed for constant practice.</p>
 
+<p>This is an introductory program that is suitable for acquiring an overview of existing industry practices in digital marketing and SEO, looking to understand the change in consumer behaviour to adapt their business marketing plans, and seeking clear direction to drive breakthrough marketing campaigns.</p>
+
 <h3 style="text-align:center;">Course Outline</h3>
 <ul>
 <li>Introduction to today’s digital space</li>
