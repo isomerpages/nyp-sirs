@@ -14,9 +14,12 @@ second_nav_title: "SkillsFuture Series"
 
 <h3>Course Outline</h3>
 <ul>
-  <li>Understand digital marketing </li>
-<li>Search engine marketing</li>
-<li>Social media marketing</li>
+  <li>Understand what is digital marketing</li>
+  <li>Understand the benefits and importance of digital marketing</li>
+  <li>Know the types of digital marketing methods</li>
+  <li>Learn how to get started on digital marketing</li>  
+  <li>Understand the basics of Search Engine Optimization (SEO) and Search Engine Marketing (SEM)</li>
+  <li>Understand social media marketing</li>
   </ul>
 
 <h3>Course Fees</h3>
