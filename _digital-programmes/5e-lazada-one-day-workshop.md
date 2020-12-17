@@ -74,27 +74,27 @@ second_nav_title: "E-Commerce Programmes"
   <li>Manage store and sales performance with Lazada Business Advisor</li>
  
 <h4>Day 1: 9am-6pm</h4>
-  <h4>1. Understand How to Use the Store Builder</h4>
-  <li>Showcase hero products and attractive promotions</li>
-  <li>In-built banner design tools to attract followers</li>
+<h4>1. Understand How to Use the Store Builder</h4>
+<li>Showcase hero products and attractive promotions</li>
+<li>In-built banner design tools to attract followers</li>
 
 <h4>2. Understand How to Use the Chat Now Function</h4>
-  <li>Build relationship with customer</li>
-  <li>Automating messages</li>
-  <li>Customer incentives</li>
+<li>Build relationship with customer</li>
+<li>Automating messages</li>
+<li>Customer incentives</li>
 
 <h4>3. Understand How to Join Campaigns and Increase Your Product Exposure</h4>
-  <li>Create settings in laptop and via mobile app</li>
+<li>Create settings in laptop and via mobile app</li>
 
 <h4>4. Improve Sales Conversion</h4>
-  <li>Boost your best selling products visibility to increase exposure by 30%</li>
-  <li>Increase sales and loyalty through the voucher function</li>
-  <li>Offer competitive and attractive deals without lowering your price</li>
-  <li>Increase exposure through Flash sales</li>
+<li>Boost your best selling products visibility to increase exposure by 30%</li>
+<li>Increase sales and loyalty through the voucher function</li>
+<li>Offer competitive and attractive deals without lowering your price</li>
+<li>Increase exposure through Flash sales</li>
 
 <h4>5. Manage Sales Performance Using Lazada’s Business Advisor</h4>
-  <li>Monitor real time performance and read data</li>
-  <li>Identify target SKUs to maximize sales</li>
+<li>Monitor real time performance and read data</li>
+<li>Identify target SKUs to maximize sales</li>
 </ul>
 
 <h3>Programme Fees</h3>
