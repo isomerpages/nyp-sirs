@@ -37,7 +37,7 @@ collection_name: about-us
     <th>Designation</th>
   </tr>
   <tr>
-    <td>Mr Gordon Lee</td>
+    <td>Ms Celeste YL Tan</td>
     <td>Manager/Business Development</td>
   </tr>
   <tr>
@@ -84,10 +84,6 @@ collection_name: about-us
   </tr>
   <tr>
     <td>Ms Nuraidah Binti Abdulla Thani</td>
-    <td>Customer Relations Executive</td>
-  </tr>
-  <tr>
-    <td>Mr Jackson Tay</td>
     <td>Customer Relations Executive</td>
   </tr>
   <tr>
