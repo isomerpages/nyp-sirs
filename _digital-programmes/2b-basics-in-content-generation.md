@@ -14,9 +14,10 @@ second_nav_title: "SkillsFuture Series"
 
 <h3>Course Outline</h3>
 <ul>
-<li>Understand the importance of content and its role </li>
-<li>Content creation</li>
-  <li>Content promotion</li>
+  <li>Understand the importance of content and its role</li>
+  <li>Appreciate the importance of storytelling and in the digital age</li>
+  <li>Learn how to create content for your audience through the use of storytelling techniques</li>
+  <li>Learn how to promote content</li>
   </ul>
 
 <h3>Course Fees</h3>
