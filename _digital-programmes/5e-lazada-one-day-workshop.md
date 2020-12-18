@@ -24,7 +24,7 @@ second_nav_title: "E-Commerce Programmes"
   <h3>
 
 <h4>Course Outline</h4>
-<ul>
+
   <li>Understanding the digital commerce world</li>
   <li>Find out how modern consumers are purchasing their products online</li>
   <li>Learn how to use digital marketing tools and strategy to increase traffic to your Lazada store</li>
@@ -34,7 +34,7 @@ second_nav_title: "E-Commerce Programmes"
   <li>Set up your own Lazada store</li>
   <li>Understand Lazada Seller Centre app and seller support</li>
   <li>Fundamentals to successful selling on Lazada</li>
-</ul>
+
 
 <h4>1. Understand the Digital Commerce World</h4>
 <li>Know the current trends in your product</li>
@@ -66,7 +66,7 @@ second_nav_title: "E-Commerce Programmes"
 </h3>
 
 <h4>Course Outline</h4>
-<ul>
+
   <li>Learn how to use the Lazada Store Builder</li>
   <li>Understand the importance of live chat, and how to use the Chat Now function</li>
   <li>Understand what Lazada Campaigns are, how to join them to increase your brand exposure</li>
@@ -95,7 +95,7 @@ second_nav_title: "E-Commerce Programmes"
 <h4>5. Manage Sales Performance Using Lazada’s Business Advisor</h4>
 <li>Monitor real time performance and read data</li>
 <li>Identify target SKUs to maximize sales</li>
-</ul>
+
 
 <h3>Programme Fees</h3>
 Fees are per workshop (onboarding OR marketing)
