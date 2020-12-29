@@ -1,9 +1,10 @@
 ---
 layout: leftnav-page-content
-title: SGUnited Skills Programmes
+title: Overview
 permalink: /digital-programmes/sgunited-skills-programmes
-breadcrumb: SGUnited Skills Programmes
+breadcrumb: Overview
 collection_name: digital-programmes
+second_nav_title: "SGUnited Skills (SGUS) Programmes"
 ---
 <a href="#" onclick="history.go(-1)">Back to previous page</a>
 
