@@ -4,7 +4,7 @@ title: Manage Retail & Enterprise in the Digital Age
 permalink: /digital-programmes/manage-retail-and-enterprise-in-the-digital-age
 breadcrumb: Manage Retail & Enterprise in the Digital Age
 collection_name: digital-programmes
-second_nav_title: "SGUnited Skills Programmes"
+second_nav_title: "SGUnited Skills (SGUS) Programmes"
 ---
 <a href="#" onclick="history.go(-1)">Back to previous page</a>
 
