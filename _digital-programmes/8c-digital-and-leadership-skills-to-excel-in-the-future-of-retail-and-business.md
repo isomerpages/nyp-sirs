@@ -22,3 +22,35 @@ A leader consistently leads others by supporting staff to grow through collabora
 their skills. The programmes will equip participants with future leadership skills, to cultivate positive team dynamics, establish clear roles and 
 responsibilities, to achieve organisational goals.</p>
 
+<h3>Topics Covered:</h3>
+
+<ul>
+  <li>Engage Customers through Social Media (7 hours)</li>
+  <li>Fundamentals to Starting an Online Business (7 hours)</li>
+  <li>Introduction to Digital Marketing (7 hours)</li>
+  <li>Personal Online Branding (7 hours)</li>
+  <li>Tapping into the Power of Instagram for Selling (7 hours)</li>
+  <li>Thrive in Digital Disruption – Learn, Unlearn and Relearn (7 hours)</li>
+  <li>Social Media Marketing (24 hours)</li>
+  <li>Search Engine Optimization - SEO (24 hours)</li>
+  <li>Paid Search Engine Marketing (24 hours)</li>
+  <li>Content Management (24 hours)</li>
+  <li>Merchandise Performance Analysis (24 hours)</li>
+  <li>Web Design (24 hours)</li>
+  <li>Personal Effectiveness (24 hours)</li>
+  <li>Service Leadership (24 hours)</li>
+  <li>Service Excellence (24 hours)</li>
+  <li>Emerging Technology (18 hours)</li>
+  <li>Business Environment Analysis - Formulate Social Media Strategy  (24 hours)</li>
+  <li>Drive Productivity and Innovation (24 hours)</li>
+  <li>Set Up an Online Business (+ Project Work) (39 hours)</li>
+  </ul>
+  
+<p>Suitable for participants with at least 3 years senior managerial working experience in retail or Professional, Managers, Executives and Technicians (PMETs) 
+position in non-retail sector.</p>
+
+<h3>Admission Requirements</h3>
+<p>GCE 'O' level Credit (at least C6) in English and Mathematics or Workplace Literacy and Numeracy (WPLN) score: Level 7 for Reading, Listening and Numeracy.</p>
+
+<h3>Course Fees</h3>
+<p>$500</p>
