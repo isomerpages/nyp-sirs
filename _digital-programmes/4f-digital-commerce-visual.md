@@ -10,6 +10,13 @@ second_nav_title: "Digital Marketing Masterclasses"
 
 <img src="images/digital-masterclasses/digital-commerce-visual.jpg" style="width:100%;">
 
+<h4>
+Next Online Classroom Intake
+<li>10-11 Nov 2020 (Tue-Wed)</li>
+<li>21-22 Jan 2021 (Thu-Fri)</li>
+  </h4>
+  
+
 <p>Human are visual beings. Visual content enables customers to absorb and remember your brand better. It is more effective than any other form of communication. Marketers who use visual marketing tend to reap higher returns in terms of fans, followers, readers, leads, clients and, of course, revenue. Through this Masterclass, participants will develop a good understanding of visual marketing for Omni-commerce; applicable to both entrepreneurial and marketing operation with practical hands-on applications and case studies.</p>
 
 <p>Participants are required to bring a laptop for in-class photoshop practical. (Photoshop software will be provided for training purposes).</p>
