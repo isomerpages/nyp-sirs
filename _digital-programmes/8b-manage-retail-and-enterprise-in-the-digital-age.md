@@ -7,52 +7,42 @@ collection_name: digital-programmes
 ---
 <a href="#" onclick="history.go(-1)">Back to previous page</a>
 
-<h2>SGUS Programme in Digital & Leadership Skills to Excel in the Future of Retail & Business</h2>
+<h3>SGUS Programme in Digital & Leadership Skills to Excel in the Future of Retail & Business</h3>
 
-<h3>Next Intakes:
-<li>11 Jan 2021 (Full)</li>
-<li>7 Jan 2021 (New date!)</li>
-</h3>
+<h4>Next Intakes:
+8 Jan 2021
+</h4>
 
-<p>The digital age requires the agility of an organisation and its people to accommodate continuous change. 
-It is about careful planning and putting in place initiatives targeting transformational results to bring about benefits of digital transformation, 
-instead of merely adopting systems for optimization. In this pathway, participants will learn to evaluate the landscape and develop strategies to 
-bring about digital transformation for the business. It is imperative also for leaders to understand the changing social dynamics and behaviours 
-of the workplace in today’s digital age. 
-
-A leader consistently leads others by supporting staff to grow through collaborating and fostering interdependence in pursuing goals that stretch their skills. 
-The programmes will equip participants with future leadership skills, to cultivate positive team dynamics, establish clear roles and responsibilities, 
-to achieve organisational goals. </p>
+<p>Digitisation has impacted the business environment, evolving into one high-tech global environment that is changing every minute. Connectivity amongst people has also reshaped our channels of communication and influenced our perception on what communication encompasses. Adopting mindsets of agility and responsiveness to changing needs have become important attributes for businesses and its people.  The programmes in this pathway will broaden your skillset and sharpen your competitive edge through developing your leadership skills to manage change, engage, coach and motivate team to strengthen team cohesion, boost productivity and drive growth. Participants will also gain skills and knowledge to manage business operations, heighten customer engagement, drive innovation in achieving desired outcomes for the business.</p>
 
 <h3>Topics Covered:</h3>
 
 <ul>
-  <li>Engage Customers through Social Media (7 hours)</li>
-  <li>Fundamentals to Starting an Online Business (7 hours)</li>
-  <li>Introduction to Digital Marketing (7 hours)</li>
-  <li>Personal Online Branding (7 hours)</li>
-  <li>Tapping into the Power of Instagram for Selling (7 hours)</li>
-  <li>Thrive in Digital Disruption – Learn, Unlearn and Relearn (7 hours)</li>
-  <li>Social Media Marketing (24 hours)</li>
-  <li>Search Engine Optimization - SEO (24 hours)</li>
-  <li>Paid Search Engine Marketing (24 hours)</li>
-  <li>Content Management (24 hours)</li>
-  <li>Merchandise Performance Analysis (24 hours)</li>
-  <li>Web Design (24 hours)</li>
-  <li>Personal Effectiveness (24 hours)</li>
-  <li>Service Leadership (24 hours)</li>
-  <li>Service Excellence (24 hours)</li>
-  <li>Emerging Technology (18 hours)</li>
-  <li>Business Environment Analysis - Formulate Social Media Strategy  (24 hours)</li>
-  <li>Drive Productivity and Innovation (24 hours)</li>
-  <li>Set Up an Online Business (+ Project Work) (39 hours)</li>
+  <li>Adapt to Change (24 hours)</li>
+  <li>People and Relationship Management (24 hours)</li>
+  <li>Service Coaching (18 hours)</li>
+  <li>Service Planning and Implementation (24 hours)</li>
+  <li>Workplace Communication (18 hours)</li>
+  <li>Customer Experience Innovation (18 hours)</li>
+  <li>Productivity Improvement (18 hours)</li>
+  <li>Global Mindset (24 hours)</li>
+  <li>Retailing and the Economy (24 hours)</li>
+  <li>Sales Target Management (24 hours)</li>
+  <li>Service Leadership (30 hours)</li>
+  <li>Workplace Communication (SF - Manager) (18 hours)</li>
+  <li>Customer Experience Innovation (SF - Manager) (18 hours)</li>
+  <li>Productivity Improvement (SF - Manager) (30 hours)</li>
+  <li>Financial Analysis (30 hours)</li>
+  <li>6 Dimensions of Retail (14 hours)</li>
+  <li>Delivering the Value Proposition (8 hours)</li>
+  <li>Category Management: The Key to Business Growth (16 hours)</li>
   </ul>
   
 <p>Suitable for participants with at least 3 years senior managerial working experience in retail or Professional, Managers, Executives and Technicians (PMETs) 
 position in non-retail sector.</p>
 
 <h3>Admission Requirements</h3>
-<p>GCE 'O' level Credit (at least C6) in English and Mathematics or Workplace Literacy and Numeracy (WPLN) score: Level 7 for Reading, Listening and Numeracy.</p>
+<p>GCE 'O' level Credit (at least C6) in English and Mathematics or Workplace Literacy and Numeracy (WPLN) score: Level 6 for Reading, Listening and Numeracy.</p>
 
 <h3>Course Fees</h3>
-<p>$500</p>
+<p>$500 (inclusive of GST)</p>
