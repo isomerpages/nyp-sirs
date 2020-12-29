@@ -16,8 +16,7 @@ and impart you with strategies for digital commerce success.
 
 Contact us today for a consultation to understand which platform is suitable for your business.</p>
 
-</ul>
-  <li><h3>For Entrepreneurs and Businesses Starting their Digital Commerce:</h3>
+  <h3>For Entrepreneurs and Businesses Starting their Digital Commerce:</h3>
     <ul>
       <li><a href="/digital-programmes/e-commerce-programmes/setup-an-online-business">Setup an Online Business</a></li>
       <li><a href="/digital-programmes/e-commerce-programmes/amazon-global-selling-programme">Amazon Global Selling Programme</a></li>
@@ -27,11 +26,9 @@ Contact us today for a consultation to understand which platform is suitable for
       <li><a href="/digital-programmes/e-commerce-programmes/qoo10-one-day-workshop">Qoo10 One Day Workshop</a></li>
       <li><a href="/digital-programmes/e-commerce-programmes/singtel-99-sme">Singtel 99% SME Onboarding Programme</a></li>
     </ul>
-  </li>
-  <li><h3>For Business Owners and Management:</h3>
+  <h3>For Business Owners and Management:</h3>
     <ul>
       <li><a href="/digital-programmes/alibaba-business-school/alibaba-entrepreneur-startup-programme">Alibaba Entrepreneurship Startup Programme</a></li>
       <li><a href="/digital-programmes/alibaba-business-school/alibaba-managerial-elite-programme">Alibaba Managerial Elite Programme</a></li>
     </ul>
-  </li>
-  </ul>
+
