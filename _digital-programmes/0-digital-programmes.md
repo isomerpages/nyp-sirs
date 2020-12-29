@@ -7,7 +7,7 @@ collection_name: digital-programmes
 ---
 <a href="#" onclick="history.go(-1)">Back to previous page</a>
 
-<h2>Digital Programmes</h2>
+<h3>Digital Programmes</h3>
 
 <p>The rapid introduction of new technology has caused a shift in the consumer journey, giving rise to new strategies needed for businesses to attract and engage with their customers. This has also resulted in the demand for new skills, with digital marketing being one of the top-rated skills needed by transforming businesses.</p>
 
