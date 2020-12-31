@@ -12,7 +12,7 @@ second_nav_title: "SkillsFuture Series"
 
 <p>The SkillsFuture Series is a curated list of short, industry-relevant training programmes that focus on emerging skills. Targeted at Singaporeans who are keen to either gain a basic understanding or deepen their skills in these emerging areas, the SkillsFuture Series comprises training programmes to benefit adult learners of different skills proficiency background.</p>
 
-<p>SIRS offers the following SkillsFuture Series programmes:
+<h4>SIRS offers the following SkillsFuture Series programmes:</h4>
   
   <ul>
   <li>Personal Productivity:
