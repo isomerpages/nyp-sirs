@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Overview
-permalink: /services/career-services/professional-conversion-programme/pcp-overview
+permalink: /digital-programmes/career-services/professional-conversion-programme/pcp-overview
 breadcrumb: Overview
 collection_name: professional-conversion-programme
 second_nav_title: "Professional Conversion Programme"
