@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: PCP - Retail Professional
-permalink: /services/career-services/professional-conversion-programme/pcp-retail-professional
+permalink: /digital-programmes/professional-conversion-programme/pcp-retail-professional
 breadcrumb: Retail Professional
 collection_name: professional-conversion-programme
 second_nav_title: "Professional Conversion Programme"
