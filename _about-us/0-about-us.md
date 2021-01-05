@@ -36,7 +36,6 @@ SIRS’ Career Services Centre provides complimentary career advisory and placem
 
 SIRS’ Business Solutions team has enabled many retailers to successfully implement training & capability development initiatives through our highly customised approach. Our team of retail consultants provide enterprise centric business solutions and recommendations to retailers, tapping the vast arrays of government assistance including Training Grant, Capability Development Grant (CDG), Productivity & Innovation Credit (PIC), Workfare Training Scheme (WTS) and Enhanced Training Support Scheme (ETSS).
 
-<!DOCTYPE html>
 <html>
 <head>
 <style>
