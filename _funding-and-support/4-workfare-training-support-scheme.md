@@ -24,6 +24,6 @@ The  subsidies  will  apply  to SSG-supported certifiable courses. You can enjoy
 
 <h3>How do I apply for WTS?</h3>
 
-For self-sponsored individuals, you do not have to apply for the additional fee subsidy when you attend SIRS programmes. You will only need to pay the nett fee (full course fee after SSG’s grant).​
+For self-sponsored individuals, you do not have to apply for the additional fee subsidy when you attend SIRS programmes. You will only need to pay the nett fee (full course fee after SSG’s grant).
 
 For company-sponsored employees, companies may <a href="https://www.skillsconnect.gov.sg/" target="_blank">apply through the SkillsConnect portal</a> for the programme you attended. The Government will reimburse the additional programme fee funding along with the absentee payroll.
