@@ -18,7 +18,7 @@ To be considered as a SME, please refer to the eligibility criteria <a href="htt
 
 For all eligible SMEs, sponsored staff enjoys 90% fee subsidy for all approved programmes. The company enjoys higher absentee payroll at the usual 80% of basic hourly salary, at a higher capped of $7.50 per hour.
 
-<h3>Which are the programmes can I use it for?</h3>
+<h3>Which programmes can I use it for?</h3>
 
 The  enhanced  subsidies  will  apply  to SSG-supported certifiable courses. You can enjoy ETSS for all SIRS programmes, masterclasses and workshops.
 
