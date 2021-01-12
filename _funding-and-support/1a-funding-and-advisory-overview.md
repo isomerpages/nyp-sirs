@@ -2,7 +2,7 @@ layout: leftnav-page-content
 title: Funding & Advisory
 permalink: /services/funding-and-advisory/overview
 breadcrumb: Funding & Advisory
-collection_name: funding-and-advisory
+collection_name: funding-and-support
 
 <h3>Funding & Advisory</h3>
 
