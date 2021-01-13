@@ -12,7 +12,7 @@ second_nav_title: "SkillsFuture Series"
 
 <p>This programme will enable participants to become a more effective digital storyteller. Participants will learn storytelling techniques that will help them to create interest to heighten the engagement and connectivity with their customers on e-commerce platforms.</p>
 
-<h3>Course Outline</h3>
+<h3>Outline</h3>
 <ul>
   <li>Understand the importance of content and its role</li>
   <li>Appreciate the importance of storytelling and in the digital age</li>
@@ -20,7 +20,7 @@ second_nav_title: "SkillsFuture Series"
   <li>Learn how to promote content</li>
   </ul>
 
-<h3>Course Fees</h3>
+<h3>Fees</h3>
 
 <center>
 <table style="width:100%;">
@@ -30,7 +30,7 @@ second_nav_title: "SkillsFuture Series"
 </tr>
 
 <tr>
-<td>Full Course Fees</td>
+<td>Full Fees</td>
 <td>$278.20</td>
 </tr>
 
