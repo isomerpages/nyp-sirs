@@ -12,7 +12,7 @@ second_nav_title: "WSQ Certified Modular Programmes"
 
 <p>Look your best every day without spending too much on products. Know the makeup style that suits you the most, choose essential products that you need and learn the right techniques to enhance your appearance, boost your confidence and self-esteem. Suitable for anyone interested in beauty and makeup.</p>
 
-<h3>Outline</h3>
+<h4>Outline</h4>
 <ul>
 <li>Understand why wearing make-up is important</li>
 <li>Know the various types of make-up products and tools</li>
@@ -22,7 +22,7 @@ second_nav_title: "WSQ Certified Modular Programmes"
   <li>Demonstrate the application of make-up products</li>
   </ul>
 
-<h3>Fees</h3>
+<h4>Fees</h4>
 
 <center>
 <table style="width:100%;">
