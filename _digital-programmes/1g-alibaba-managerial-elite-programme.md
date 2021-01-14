@@ -27,7 +27,7 @@ second_nav_title: "Alibaba Business School"
 
 <p>完成课程后的学员将获得由阿里巴巴商学院和新加坡零售管理学院所颁发的毕业证书。课程将由淘宝大学认证讲师以中文或英文授课!</p>
 
-<h3>Highlights</h3>
+<h4>Highlights</h4>
 
 <ul>
   <li>Understanding the Chinese digital commerce landscape and cross-border trade</li>
@@ -36,7 +36,7 @@ second_nav_title: "Alibaba Business School"
   <li>Enhancing digital store presentation with visual marketing and short video marketing</li>
 </ul>
 
-<h3>Programme Fees</h3>
+<h4>Fees</h4>
 
 <center>
 <table style="width:100%;">
@@ -46,7 +46,7 @@ second_nav_title: "Alibaba Business School"
 </tr>
   
 <tr>
-<td>Full course fee</td>
+<td>Full fees</td>
 <td>$6,099</td>
 </tr>
 
