@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: The Art and Science of Visual Merchandising
-permalink: /wsq-programmes/wsq-full-qualification-programmes/the-art-and-science-of-visual-merchandising
+permalink: /wsq-programmes/wsq-modular-programmes/the-art-and-science-of-visual-merchandising
 breadcrumb: The Art and Science of Visual Merchandising
 collection_name: retail-programmes
 second_nav_title: "WSQ Certified Modular Programmes"
