@@ -1,10 +1,10 @@
 ---
 layout: leftnav-page-content
 title: Creating an Unforgettable Customer Experience
-permalink: /retail-programmes/short-courses/creating-an-unforgettable-customer-experience
+permalink: /wsq-programmes/wsq-modular-programmes/creating-an-unforgettable-customer-experience
 breadcrumb: Creating an Unforgettable Customer Experience
 collection_name: retail-programmes
-second_nav_title: "Short Courses"
+second_nav_title: "WSQ Certified Modular Programmes"
 ---
 <a href="#" onclick="history.go(-1)">Back to previous page</a><br>
 
@@ -12,7 +12,7 @@ second_nav_title: "Short Courses"
 
 <p>Although more customers are doing their shopping online, the human element remains an integral part of delivering amazing customer experience. This is especially true for physical stores where frontline retail associates are the major touchpoint between your brand and the customers. Therefore, it is important for them to provide a differentiated in-store experience by cultivating greater empathy to deepen connection and acquiring the know-how to project favourable brand perception during customer interactions. Keep your business going strong by attracting and retaining loyal customers to your stores through unforgettable experience curated for them.</p>
 
-<h3>Course Outline</h3>
+<h3>Outline</h3>
 <ul>
 <li>Develop a service mindset</li>
 <li>Provide an unforgettable in-store service/customer experience</li>
@@ -24,7 +24,7 @@ second_nav_title: "Short Courses"
   <li>Develop empathy and connection</li>
   </ul>
 
-<h3>Course Duration</h3>
+<h3>Duration</h3>
 
 <p>Total of 2 days, 15 hours:
   <ul>
@@ -33,7 +33,7 @@ second_nav_title: "Short Courses"
     </ul>
     </p>
 
-<h3>Course Fees</h3>
+<h3>Fees</h3>
 
 <center>
 <table style="width:100%;">
@@ -43,7 +43,7 @@ second_nav_title: "Short Courses"
 </tr>
 
 <tr>
-<td>Full Course Fees</td>
+<td>Full Fees</td>
 <td>$440.00</td>
 </tr>
 
@@ -55,11 +55,6 @@ second_nav_title: "Short Courses"
 <tr>
   <td>Singapore Citizen/SPR sponsored by SMEs<sup>1</sup> (90% funding)</td>
 <td>$47.08</td>
-</tr>
-
-<tr>
-  <td><a href="/services/consultancy/funding-and-support/workfare-training-support-scheme">Workfare Training Support (WTS)</a> recipient (95% funding)</td>
-<td>$25.08</td>
 </tr>
 
 </table>
