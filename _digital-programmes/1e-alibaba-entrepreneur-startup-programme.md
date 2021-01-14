@@ -27,7 +27,7 @@ second_nav_title: "Alibaba Business School"
 
 <p>完成课程后的学员将获得由阿里巴巴商学院和新加坡零售管理学院所颁发的毕业证书。课程将由淘宝大学认证讲师以中文授课!</p>
 
-<h3 style="text-align:center;">Highlights</h3>
+<h4>Highlights</h4>
 
 <ul>
   <li>Gain insights to the development of the e-commerce industry in Southeast Asia and China</li>
@@ -37,10 +37,10 @@ second_nav_title: "Alibaba Business School"
   <li>Introduction to strategies to maximise conversions</li>
 </ul>
 
-<h3 style="text-align:center;">Testimonials</h3>
+<h4>Testimonials</h4>
 <p><em>"I feel that the Alibaba is very advanced in terms of e-commerce and digital marketing. The lecturers were all of a very high standard, both in terms of intellectual ability, practical knowledge, and even business sense. I was quite amazed that  the criteria is that they must have managed real business sites well before they are allowed to be lecturers."</em> - <b>Lucy Yow, New Asia Ferrell</b></p>
 
-<h3>Programme Fees</h3>
+<h4>Fees</h4>
 
 <center>
 <table style="width:100%;">
@@ -50,7 +50,7 @@ second_nav_title: "Alibaba Business School"
 </tr>
 
 <tr>
-<td>Full course fee</td>
+<td>Full fees</td>
 <td>$8,025</td>
 </tr>
 
