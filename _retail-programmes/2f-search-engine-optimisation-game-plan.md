@@ -14,7 +14,7 @@ Optimisation (SEO) can help to optimise your website content for the best possib
 visibility and engagement. Formulate overarching SEO strategies for your organisation's digital assets and content to expand your customer 
 base and increase sales.</p>
 
-<h3>Highlights</h3>
+<h4>Highlights</h4>
 <ul>
 <li>Perform internet marketing strategy quick audits using advanced Google Search Operators and Screening Frog</li>
 <li>Craft customer journey using SEO and content marketing</li>
@@ -24,7 +24,7 @@ base and increase sales.</p>
 <li>Up to 90% course subsidy</li>
 </ul>
 
-<h3>Learning Outcomes</h3>
+<h4>Learning Outcomes</h4>
 <ul>
 <li>Cutting edge SEO techniques and start ranking websites</li>
 <li>Evaluate SEO and internet marketing strategies to develop a blueprint for SEO success</li>
@@ -36,13 +36,14 @@ base and increase sales.</p>
 <li>Adept in building and managing links from relevant web pages : . Master how to monitor relevant dashboards and reports to evaluate SEO performances</li>
 </ul>
 
-<h3>Duration</h3>
+<h4>Duration</h4>
 <p>
-Day 1 - 4: 9am - 4pm (4 Days, 24 hours)<br>
+Total: 4 Days, 24 hours<br>
+Day 1 - 4: 9am - 4pm <br>
 Receive a WSQ Statement of Attainment (SOA) from the Skills Future Singapore (SSG) upon completion.<br>
 </p>
 
-<h3>Entry Requirements</h3>
+<h4>Entry Requirements</h4>
 <ul>
 <li>GCE 'O' level Credit (at least C6) in English and Mathematics or Workplace Literacy and</li>
 <li>Numeracy (WPLN) score: Level 6 for Reading, Listening and Numeracy, and</li>
@@ -50,7 +51,7 @@ Receive a WSQ Statement of Attainment (SOA) from the Skills Future Singapore (SS
 position in non-retail sector</li>
 </ul>
 
-<h3>Fees</h3>
+<h4>Fees</h4>
 
 <center>
 <table style="width:100%;">
