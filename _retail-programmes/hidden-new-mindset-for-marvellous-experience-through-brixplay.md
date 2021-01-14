@@ -1,5 +1,5 @@
 ---
-layout: leftnav-page-content
+layout: 
 title: New Mindset for Marvellous Experience through brixPLAY
 permalink: 
 breadcrumb: New Mindset for Marvellous Experience through brixPLAY
