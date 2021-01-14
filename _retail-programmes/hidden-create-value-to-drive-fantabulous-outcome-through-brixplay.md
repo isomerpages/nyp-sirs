@@ -1,5 +1,5 @@
 ---
-layout: leftnav-page-content
+layout: 
 title: Create Value to Drive 'Fantabulous' Outcome through brixPLAY
 permalink: 
 breadcrumb: Create Value to Drive 'Fantabulous' Outcome through brixPLAY
