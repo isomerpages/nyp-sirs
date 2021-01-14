@@ -1,4 +1,5 @@
 ---
+layout: 
 title: Carousell One Day Workshop
 permalink: 
 breadcrumb: Carousell One Day Workshop
