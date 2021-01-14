@@ -39,11 +39,12 @@ second_nav_title: "Alibaba Business School"
 <li>参访盒马鲜生</li>
 </ul>
 
-<h4>Day 1</h4>
+<p>Day 1<br>
 <li>Depart Singapore to Hangzhou, China</li>
 <li>Check in Hotel</li>
+</p>
 
-<h4>Day 2</h4>
+<p>Day 2<br>
 <li>Alibaba’s New Retail Experiential Tour<li>
 <li>Visit Alibaba Binjiang campus and experience Alibaba Big Data Global Transaction Console</li>
 <li>Site visit to Alibaba Global HQ: Alibaba West Stream Campus</li>
@@ -51,8 +52,9 @@ second_nav_title: "Alibaba Business School"
 <li>Site visit to Alimall and Hema Fresh</li>
 <li>Introduction to Alibaba ecosystem</li>
 <li>Meals provided: Breakfast/Lunch/Dinner</li>
+</p>
 
-<h4>Day 3</h4>
+<p>Day 3<br>
 <li>The Strategic Transformation of New Retail Era</li>
 <li>The origin of New Retail</li>
 <li>Deep dive into the eco-system & scenario of New Retail</li>
@@ -60,8 +62,9 @@ second_nav_title: "Alibaba Business School"
 <li>Reconstruct the New Retail "Persona, Product, Place, Profit"</li>
 <li>Discussion: Canvas planning for individual New Retail business</li>
 <li>Meals provided: Breakfast/Lunch/Dinner</li>
+</p>
 
-<h4>Day 4</h4>
+<p>Day 4<br>
 <li>New Retail Organisation Transformation & Talent Development</li>
 <li>Strategic New Retail transformation trend</li>
 <li>The force -organisation and talent development</li>
@@ -69,23 +72,27 @@ second_nav_title: "Alibaba Business School"
 <li>New Retail staff competency map, grooming and motivation/reward systems</li>
 <li>Discussion: Individual business organisation change & talent development</li>
 <li>Meals provided: Breakfast/Lunch/Dinner</li>
+</p>
 
-<h4>Day 5</h4>
+<p>Day 5<br>
 <li>Marketing Transformation in a New Retail Era
 <li>New Marketing phenomenon – methods to recognize, reach new retail consumers</li>
 <li>Consumer insights: Limitations of consumer insights in traditional marketing and integration of online and offline consumer assets during a new retail era</li>
 <li>Reaching consumers in a comprehensive manner</li>
 <li>Meals provided: Breakfast/Lunch</li>
+</p>
 
-<h4>Day 6</h4>
+<p>Day 6<br>
 <li>Depart Hangzhou, China to Singapore</li>
 <li>Meals provided: Breakfast</li>
-
-<h4>第一天</h4>
+</p>
+  
+<p>第一天<br>
 <li>从新加坡飞往杭州，中国</li>
 <li>入住酒店</li>
+</p>
 
-<h4>第二天</h4>
+<p>第二天<br>
 <li>阿里巴巴新零售体验之旅</li>
 <li>参观滨江园区，观摩数据大屏</li>
 <li>阿里巴巴西溪园区（全球总部）访客中心参观</li>
@@ -93,8 +100,9 @@ second_nav_title: "Alibaba Business School"
 <li>阿里巴巴新零售商场- 亲橙里 (Alimall) 参观 & 盒马鲜生体验</li>
 <li>阿里生态平台介绍</li>
 <li>提供餐食：早/午/晚餐</li>
-
-<h4>第三天</h4>
+</p>
+  
+<p>第三天<br>
 <li>新零售时代的战略变革</li>
 <li>新零售的前世今生</li>
 <li>解析万物生长的局势及新零售场景</li>
@@ -102,8 +110,9 @@ second_nav_title: "Alibaba Business School"
 <li>新零售的"人、货、场、利"重构</li>
 <li>企业自身的新零售商业画布分析</li>
 <li>提供餐食：早/午/晚餐</li>
-
-<h4>第四天</h4>
+</p>
+  
+<p>第四天<br>
 <li>新零售时代的组织变革与人才发展</li>
 <li>新零售时代的企业战略变革趋势—“人、货、场、利”</li>
 <li>组织与人才发展是新零售战略变革的原驱力</li>
@@ -111,19 +120,22 @@ second_nav_title: "Alibaba Business School"
 <li>新零售时代的员工能力模型、培养体系和激励体系</li>
 <li>研讨：本企业的新零售组织变革与人才发展</li>
 <li>提供餐食：早/午/晚餐</li>
+</p>
 
-<h4>第五天</h4>
+<p>第五天<br>
 <li>新零售时代的营销变革</li>
 <li>新营销现象呈现多样化的新零售消费者识别方式、全域触达</li>
 <li>消费者洞察：传统营销在消费者洞查上的局限性及新零售时代线上线下消费者资产融合</li>
 <li>消费者全域触达</li>
 <li>提供餐食：早/午餐</li>
+</p>
 
-<h4>第六天</h4>
+<p>第六天<br>
 <li>从杭州，中国往回新加坡</li>
 <li>提供餐食：早餐</li>
+</p>
 
-<h3>Programme Fees</h3>
+<h4>Fees</h4>
 
 <center>
 <table style="width:100%;">
@@ -133,7 +145,7 @@ second_nav_title: "Alibaba Business School"
 </tr>
   
 <tr>
-<td>Full course fee</td>
+<td>Full fees</td>
 <td>$7,200</td>
 </tr>
 
