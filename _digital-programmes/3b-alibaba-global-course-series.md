@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: Alibaba Global Course series
+title: Alibaba Global Course series (AGCs)
 permalink: /digital-programmes/alibaba-business-school/alibaba-global-course-series
 breadcrumb: Alibaba Global Course series
 collection_name: digital-programmes
@@ -16,9 +16,9 @@ second_nav_title: "Alibaba Business School"
 
 <p>Through the AGCs, participants stand to gain firsthand knowledge from current practitioners of the Alibaba ecosystem and platforms, as well as top trainers from the esteemed Taobao University.</p>
 
-<h3>Highlights</h3>
+<h4>Highlights</h4>
 
-<h4>Alibaba Global Course series - Expand Your Global Footprint with Cross-Border E-Commerce</h4>
+<b>Alibaba Global Course series - Expand Your Global Footprint with Cross-Border E-Commerce</b><br>
 <em>19 September 2019</em>
 
 <p>The third edition of the Alibaba Global Course series (AGCs) deep dives into challenges that businesses face in taking the first step outside their home country. One common hurdle that business owners must overcome in entering new markets is in the opening of new sales channels and the understanding of consumer behaviour.</p>
@@ -27,7 +27,7 @@ second_nav_title: "Alibaba Business School"
 
 <img src="images/alibaba-business-school/agcs-aug-2019.jpg" style="max-width:500px;">
 
-<h4>Alibaba Global Course series - New Retail</h4>
+<b>Alibaba Global Course series - New Retail</b><br>
 <em>3 April 2019</em>
 
 <p>Held on 3rd April 2019, the second edition of the AGCs marked the signing of a MoU between Alibaba (China) Education & Technology, SIRS and SFIC Institute in collaboration to support the digital transformation for SFIC’s members and the supporting industries & companies.</p>
@@ -38,21 +38,21 @@ second_nav_title: "Alibaba Business School"
 
 <img src="images/alibaba-business-school/agcs-apr-2019.jpg" style="width:100%;">
 
-<h4>Alibaba Global Course series - New Marketing</h4>
+<b>Alibaba Global Course series - New Marketing</b><br>
 <em>30 Aug 2018</em>
 
 <p>Following the hugely successful Alibaba Global Course held 4 months prior, SIRS kicked off the first of a four-part series on 30 August 2018. The focus of the first in the series focused on New Marketing – and how brands need to constantly evolve their strategies in order to engage their audiences. The one-day course covered topics ranging from content marketing to live-streaming, equipping attendees with the skills and knowledge to effectively grow and engage their fanbase online.</p>
 
 <img src="images/alibaba-business-school/agcs-aug-2018.jpg" style="width:100%;">
 
-<h4>Alibaba Global Course</h4>
+<b>Alibaba Global Course</b><br>
 <em>12 April 2018</em>
 
 <p>12 April 2018 marked the inaugural Alibaba Global Course. Held at Resorts World Sentosa, the event saw more than 2,000 participants who gained firsthand knowledge about Alibaba's global strategy through key leaders from Alibaba. Through the one day conference, participants learned how technology such as Artificial Intelligence, Machine Learning, Big Data, and marketing strategies such as O2O in New Retail has not only benefited retailers in China, but also how the ways these strategies can be adapted for their own businesses.</p>
 
 <img src="images/alibaba-business-school/agc-apr-2018.jpg" style="width:100%;">
 
-<h3>Media Coverage</h3>
+<h4>Media Coverage</h4>
 
 <table style="width:100%;">
   <tr>
