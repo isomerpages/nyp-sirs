@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: e-Communications (Whatsapp)
-permalink: /digital-programmes/national-silver-academy/e-Communications-Whatsapp
+permalink: 
 breadcrumb: e-Communications (Whatsapp)
 collection_name: digital-programmes
 second_nav_title: National Silver Academy
