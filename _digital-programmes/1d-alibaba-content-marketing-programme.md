@@ -27,7 +27,7 @@ second_nav_title: "Alibaba Business School"
 
 <p>完成课程后的学员将获得由阿里巴巴商学院和新加坡零售管理学院所颁发的毕业证书。课程将由淘宝大学认证讲师以中文授课!</p>
 
-<h3>Highlights</h3>
+<h4>Highlights</h4>
 
 <ul>
   <li>Optimise Content Marketing Strategy and Learn Creative Image-text and Video Skills</li>
@@ -37,10 +37,10 @@ second_nav_title: "Alibaba Business School"
   <li>Fans Economy: Grow and Manage Your Fan Base</li>
 </ul>
 
-<h3 style="text-align:center;">Media Coverage</h3>
+<h4>Media Coverage</h4>
 <center><iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F8worldnews%2Fvideos%2F2614262928592616%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe></center>
 
-<h3 style="text-align:center;">Testimonials</h3>
+<h4>Testimonials</h4>
 
 <p><em>"Through the Alibaba Content Marketing Programme, the trainers break down the various operations and explain them in-depth. The first day of the course was very insightful because the trainer showcased lots of data that is very useful in understanding the importance of content marketing, while second and third days are more interactive, and how to create livestreams."</em><br>
 <b>Shaynen Tan, Brand & Marketing Manager, D'Elegance</b></p>
@@ -51,7 +51,7 @@ second_nav_title: "Alibaba Business School"
 <p><em>"Through the Alibaba Content Marketing Programme, I have learned how to gain an edge through content marketing, such as the knowledge of how to write or the angles of photos that I have to take to make it appealing to the fanbase."</em><br>
   <b>Clarissa Guo, Business Development Manager, AOne F&B Group</b></p>
 
-<h3>Programme Fees</h3>
+<h4>Fees</h4>
 
 <center>
 <table style="width:100%;">
@@ -61,7 +61,7 @@ second_nav_title: "Alibaba Business School"
 </tr>
 
 <tr>
-<td>Full course fee</td>
+<td>Full fees</td>
 <td>$6,099</td>
 </tr>
 
