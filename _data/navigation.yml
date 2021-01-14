@@ -12,60 +12,55 @@
   - title: Our Team
     url: /about-us/our-team/
   - title: Our Partners
-    url: /about-us/our-partner
-  - title: Success Stories
-    url: /about-us/success-stories
+    url: /about-us/our-partners
   - title: Contact Us
     url: /contact-us/
     
 - title: Services
   url: /services/
   sub-links:
+  - title: Career Services
+    url: /services/career-services
   - title: Consultancy
     url: /services/consultancy
   - title: Education & Training
     url: /services/education-and-training
-  - title: Career Services
-    url: /services/career-services
+  - title: Funding & Advisory
+    url: /services/funding-and-advisory
 
-- title: Retail Programmes
-  url: /retail-programmes/
+- title: WSQ Programmes
+  url: /wsq-programmes/
   sub-links:
-  - title: WSQ Certification Programmes
-    url: /retail-programmes/WSQ-certification-programmes/
-  - title: Short Courses
-    url: /retail-programmes/short-courses/
+  - title: WSQ Certified Modular Programmes
+    url: /wsq-programmes/wsq-modular-programmes/
+  - title: WSQ Certification Programmes - Full Qualification
+    url: /wsq-programmes/wsq-full-qualification-programmes/
 
 - title: Digital Programmes
   url: /digital-programmes/
   sub-links:
-  - title: SkillsFuture for Digital Workplace
+  - title: Alibaba Business School
+    url: /digital-programmes/alibaba-business-school
+  - title: Digital Mentorship Programmes
+    url: digital programmes/digital-mentorship-programmes
+  - title: E-Commerce Programmes
+    url: /digital-programmes/e-commerce-programmes
+  - title: Masterclasses & Workshops
+    url: /digital-programmes/joint-certification-programmes
+  - title: National Silver Academy
+    url: /digital-programmes/masterclasses-and-workshops
+  - title: Joint Certification Programmes
+    url: /digital-programmes/national-silver-academy
+  - title: SkillsFuture for Digital Workplace (SFDW)
     url: /digital-programmes/skillsfuture-for-digital-workplace
   - title: SkillsFuture Series
     url: /digital-programmes/skillsfuture-series
-  - title: Digital Marketing Masterclasses
-    url: /digital-programmes/digital-marketing-masterclasses
-  - title: Alibaba Business School
-    url: /digital-programmes/alibaba-business-school
-  - title: E-Commerce Programmes
-    url: /digital-programmes/e-commerce-programmes
-  - title: National Silver Academy
-    url: /digital-programmes/national-silver-academy
-  - title: Joint Certification Programmes
-    url: /digital-programmes/joint-certification-programmes
-  - title: SGUnited Skills (SGUS) Programmes
-    url: /digital-programmes/sgunited-skills-programmes
-  - title: Professional Conversion Programme
-    url: /digital-programmes/professional-conversion-programme/
+
  
-- title: Media
-  url: /media-centre/
+- title: Success Stories & Blog
+  url: /success-and-blog/
   sub-links:
-  - title: Media Coverage
-    url: /media-centre/media-coverage
-  - title: Press Release
-    url: /media-centre/press-release
   - title: Blog
-    url: /media-centre/blog
-  - title: Upcoming Events
-    url: /upcoming-events
+    url: /success-and-blog/blog
+  - title: Success Stories
+    url: /success-and-blog/success-stories
