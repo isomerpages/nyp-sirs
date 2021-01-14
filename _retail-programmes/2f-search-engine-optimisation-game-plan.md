@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Search Engine Optimisation (SEO) Game Plan
-permalink: /wsq-programmes/wsq-modular-programmes/seo-game-plan
+permalink: /wsq-programmes/wsq-modular-programmes/seo-game-plan/
 breadcrumb: Search Engine Optimisation (SEO) Game Plan
 collection_name: retail-programmes
 second_nav_title: "WSQ Certified Modular Programmes"
