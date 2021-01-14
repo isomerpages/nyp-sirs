@@ -1,5 +1,5 @@
 ---
-layout: leftnav-page-content
+layout: 
 title: Omni-Commerce Retail
 permalink: 
 breadcrumb: Omni-Commerce Retail
