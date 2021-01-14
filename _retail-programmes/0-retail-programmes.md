@@ -23,7 +23,7 @@ collection_name: retail-programmes
   <ol>
     <li><a href="/retail-programmes/wsq-certification-programmes/certificate-in-retail-operations">Certificate in Retail (Operations)</a></li>
     <li><a href="/retail-programmes/wsq-certification-programmes/advanced-certificate-in-retail-operations">Advanced Certificate in Retail (Operations)</a></li>
-    <li><a href="/retail-programmes/wsq-certification-programmes/diploma-in-retail-operations">Diploma in Retail (Operations)</a></li>
+    <li><a href="/retail-programmes/wsq-certification-programm"?"diploma-in-retail-operations">Diploma in Retail (Operations)</a></li>
     <li><a href="/retail-programmes/wsq-certification-programmes/specialist-diploma-in-retail-operations">Specialist Diploma in Retail (Operations)</a></li>
   </ol>
   <li>Modular WSQ Programmes:</li>
@@ -31,6 +31,8 @@ collection_name: retail-programmes
     <li><a href="/wsq-programmes/wsq-modular-programmes/be-your-own-makeup-artist">Be Your Own Makeup Artist</a></li>
     <li><a href="/wsq-programmes/wsq-modular-programmes/creating-an-unforgettable-customer-experience">Creating an Unforgettable Customer Experience</a></li>
     <li><a href="/wsq-programmes/wsq-modular-programmes/mastering-the-art-of-selling-in-new-retail">Mastering the Art of Selling in New Retail</a></li>
+    <li><a href="/wsq-programmes/wsq-modular-programmes/maximise-digital-ad-dollars-with-sem">Maximise Digital Advertising Dollars with Search Engine Marketing (SEM)</a></li>
+    <li><a href"/wsq-programmes/wsq-modular-programmes/seo-game-plan">Search Engine Optimisation Game Plan</a>
     <li><a href="/wsq-programmes/wsq-modular-programmes/the-art-and-science-of-visual-merchandising">The Art and Science of Visual Merchandising</a></li>
     <li><a href="/wsq-programmes/wsq-modular-programmes/unleash-the-power-of-social-media-marketing">Unleash the Power of Social Media Merchandising</a></li>
   </ol>
