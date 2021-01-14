@@ -1,10 +1,10 @@
 ---
 layout: leftnav-page-content
 title: Diploma in Retail (Operations)
-permalink: /retail-programmes/wsq-certification-programmes/diploma-in-retail-operations
+permalink: /wsq-programmes/wsq-full-qualification-programmes/diploma-in-retail-operations
 breadcrumb: Diploma in Retail (Operations)
 collection_name: retail-programmes
-second_nav_title: "WSQ Certification Programmes"
+second_nav_title: "WSQ Certification Programmes - Full Qualification"
 ---
 <a href="#" onclick="history.go(-1)">Back to previous page</a><br>
 
@@ -19,7 +19,7 @@ second_nav_title: "WSQ Certification Programmes"
 <h3>Course Outline</h3>
  
 <p><b>Adapt to Change (24 hours)</b><br>
-Evaluate local & global issues & trends that impact one's employability & job role and to be able to identify competency gaps, determine training and development needs and to establish & evaluate appropriate training & learning opportunities for all including the implementation of a conducive work environment to facilitate transfer of knowledge & skills.</p>
+Evaluate local & global issues & trends that impact one's employability & job role. Be able to identify competency gaps, determine training and development needs and to establish & evaluate appropriate training & learning opportunities for all including the implementation of a conducive work environment to facilitate transfer of knowledge & skills.</p>
 
 <p><b>Sales Target Management (24 hours)</b><br>
 Set, communicate, drive and motivate staff to achieve sales target and to review social-economic changes in the local context as well as assess impact of external economic and political events on the local retailing environment and to make changes to target set inability to reflect actual situation.</p>
