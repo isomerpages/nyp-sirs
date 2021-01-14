@@ -34,6 +34,6 @@ collection_name: retail-programmes
     <li><a href="/wsq-programmes/wsq-modular-programmes/maximise-digital-ad-dollars-with-sem">Maximise Digital Advertising Dollars with Search Engine Marketing (SEM)</a></li>
     <li><a href"/wsq-programmes/wsq-modular-programmes/seo-game-plan">Search Engine Optimisation Game Plan</a></li>
     <li><a href="/wsq-programmes/wsq-modular-programmes/the-art-and-science-of-visual-merchandising">The Art and Science of Visual Merchandising</a></li>
-    <li><a href="/wsq-programmes/wsq-modular-programmes/unleash-the-power-of-social-media-merch">Unleash the Power of Social Media Merchandising</a></li>
+    <li><a href="/wsq-programmes/wsq-modular-programmes/unleash-the-power-of-social-media-marketing">Unleash the Power of Social Media Marketing</a></li>
   </ol>
 </ul>
