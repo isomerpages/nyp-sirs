@@ -1,9 +1,12 @@
+--- 
 layout: leftnav-page-content
 title: Maximising Digital Advertising Dollars with Search Engine Marketing (SEM)
 permalink: /wsq-programmes/wsq-modular-programmes/maximising-digital-ad-dollars-with-sem
 breadcrumb: Maximising Digital Advertising Dollars with Search Engine Marketing (SEM)
 collection_name: retail-programmes
 second_nav_title: "WSQ Certified Modular Programmes"
+---
+<a href="#" onclick="history.go(-1)">Back to previous page</a><br>
 
 <p>With millions of businesses vying for the same eyeballs online, one of the most effective way to enhance your digital presence and achieve fast results is 
 through Search Engine Marketing (SEM), a form of internet marketing by increasing your website visibility on search engine results through paid advertising. 
