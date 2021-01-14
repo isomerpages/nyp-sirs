@@ -38,7 +38,7 @@ base and increase sales.</p>
 
 <h4>Duration</h4>
 <p>
-Total: 4 Days, 24 hours<br>
+Total of 4 Days, 24 hours:<br>
 Day 1 - 4: 9am - 4pm <br>
 Receive a WSQ Statement of Attainment (SOA) from the Skills Future Singapore (SSG) upon completion.<br>
 </p>
