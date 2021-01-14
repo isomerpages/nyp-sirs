@@ -1,16 +1,17 @@
 ---
-layout: leftnav-page-content
-title: PCP - Digital Professional
-permalink: /digital-programmes/professional-conversion-programme/digital-professional
+layout: 
+title: 
+permalink: 
 breadcrumb: Digital Professional
 collection_name: professional-conversion-programme
-second_nav_title: "Professional Conversion Programme"
+second_nav_title: 
 ---
 <a href="#" onclick="history.go(-1)">Back to previous page</a><br>
 <img src="images/pcp/pcp-digital-professional.jpg" style="width:100%;">
 <center>A Joint Initiative By:</center>
 <img src="images/pcp/sirs-wsg-banner.jpg" style="text-align:center;width:50%;">
 
+<h1>page is saved for fact sheet structure</h1>
 <p>As part of the <a href="/services/career-services/professional-conversion-programme">Professional Conversion Programme</a>, SIRS offers the opportunity for PMET mid-career switchers to embark on their journey as a Digital Professional.</p>
 
 <p>The PCP - Digital Professional (PCP - DP) seeks to help retail companies tap on additional sources of manpower and meet their manpower needs by providing mid-career switchers with an opportunity to enter the retail profession. The PCP - DP will train participants in the operations and management of digital commerce, while equipping them with the necessary skills for digital marketing to aid retailers in their digital transformation, and boost their revenue with digital commerce.</p>
