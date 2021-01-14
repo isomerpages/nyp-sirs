@@ -13,7 +13,7 @@ through Search Engine Marketing (SEM), a form of internet marketing by increasin
 When equipped with SEM skills and knowledge, you will be able to manage, review and implement successful SEM strategies to create immediate brand visibility, 
 increase traffic, and boost lead conversions - a key to your long-term business success.</p>
 
-<h3>Highlights</h3>
+<h4>Highlights</h4>
 <ul>
 <li>Achieve Google Ads Search Certification</li>
 <li>Create and set up Google Ads account and billing</li>
@@ -24,7 +24,7 @@ campaign objectives</li>
 <li>Up to 90% course subsidy</li>
 </ul>
 
-<h3>Learning Outcomes</h3>
+<h4>Learning Outcomes</h4>
 <ul>
 <li>Fundamental concepts and best practices for Google Search and Display Network advertising</li>
 <li>Advertise products and services online effectively through Google Search</li>
@@ -34,21 +34,21 @@ campaign objectives</li>
 <li>Measure performance and effectiveness across Google Ads Search and display advertising campaigns</li>
 </ul>
 
-<h3>Duration</h3> 
+<h4>Duration</h4> 
 <p>
 WSQ Paid Search Engine Marketing (SEM)<br>
 Day 1 - 4: 9am - 4pm (4 Days, 24 hours)<br>
 Receive a WSQ Statement of Attainment (SOA) from the Skills Future Singapore (SSG) upon completion.<br>
 </p>
 
-<h3>Entry Requirements</h3>
+<h4>Entry Requirements</h4>
 <ul>
 <li>GCE 'O' level Credit (at least C6) in English and Mathematics or Workplace Literacy and 
 Numeracy (WPLN) score: Level 6 for Reading, Listening and Numeracy, and</li>
 <li>With at least 3 years supervisory/managerial working experience in retail or Professional/Managerial/Management Executive (PME) 
 position in non-retail sector</li>
 
-<h3>Fees</h3>
+<h4>Fees</h4>
 
 <center>
 <table style="width:100%;">
@@ -75,7 +75,7 @@ position in non-retail sector</li>
 </table>
 </center>
 
-<p>This course is also eligible for the following:</p>
+<p>Particpants may also be eligible for the following:</p>
 <ul>
   <li>For self-sponsored participants
   <ol><li><a href="/services/consultancy/funding-and-support/skillsfuture-credit">SkillsFuture Credit S$500</a></li>
