@@ -16,7 +16,7 @@ second_nav_title: "WSQ Certification Programmes - Full Qualification"
  
 <p>This programme equips Retail Supervisors with critical skills to lead and drive customer-centric business excellence, product and service innovation coupled with an understanding of current and emerging retail technology to leverage these platforms in engaging and meeting the changing customer expectations and the new retail landscape.</p>
  
-<h3>Course Outline</h3>
+<h3>Outline</h3>
  
 <P><b>Lifelong Learning (24 hours)</b><br>
 Understand the effects and implications of change to ensure alignment of staff competencies in relation to the new workplace needs. Promote a corporate culture of lifelong learning to enable staff to stay relevant at the workplace and ensure the growth of the organisation.</p>
@@ -39,10 +39,10 @@ Driving innovative customer experience requires active listening to customers an
 <P><b>Productivity Improvement (18 hours)</b><br>
 Understand current trends in retail and how to use analytical tools to identify areas and key targets for productivity improvement in achieving organization goals. Using the ability to lead and drive workplace efficiency and effectiveness to help the workplace to bring about better customer experience leading to higher productivity outcome and better business results.</p>
  
-<h3>Course Duration</h3>
+<h3>Duration</h3>
 <p>The total duration of the programme is 5-8 months. Day or night classes are available.</p>
 
-<h3>Course Fees</h3>
+<h3>Fees</h3>
 
 <center>
 <table style="width:100%;">
@@ -61,15 +61,10 @@ Understand current trends in retail and how to use analytical tools to identify 
 <td>$471.87</td>
 </tr>
 
-<tr>
-  <td><a href="/services/consultancy/funding-and-support/workfare-training-support-scheme">Workfare Training Support</a><sup>1</sup> (95% funding)</td>
-<td>$251.37</td>
-</tr>
-
 </table>
 </center>
 
-This course is also eligible for the following:
+Participants are also eligible for the following:
 
 <ul>
   <li><a href="/services/consultancy/funding-and-support/skillsfuture-credit">SkillsFuture Credit S$500</a><sup>2</sup></li>
