@@ -21,10 +21,10 @@ collection_name: retail-programmes
 <ul>
   <li>Full qualification WSQ Certificate Programmes:</li>
   <ol>
-    <li><a href="/retail-programmes/wsq-certification-programmes/certificate-in-retail-operations">Certificate in Retail (Operations)</a></li>
-    <li><a href="/retail-programmes/wsq-certification-programmes/advanced-certificate-in-retail-operations">Advanced Certificate in Retail (Operations)</a></li>
-    <li><a href="/retail-programmes/wsq-certification-programm"?"diploma-in-retail-operations">Diploma in Retail (Operations)</a></li>
-    <li><a href="/retail-programmes/wsq-certification-programmes/specialist-diploma-in-retail-operations">Specialist Diploma in Retail (Operations)</a></li>
+    <li><a href="/wsq-programmes/wsq-full-qualification-programmes/certificate-in-retail-operations">Certificate in Retail (Operations)</a></li>
+    <li><a href="/wsq-programmes/wsq-full-qualification-programmes/advanced-certificate-in-retail-operations">Advanced Certificate in Retail (Operations)</a></li>
+    <li><a href="/wsq-programmes/wsq-full-qualification-programmes/diploma-in-retail-operations">Diploma in Retail (Operations)</a></li>
+    <li><a href="/wsq-programmes/wsq-full-qualification-programmes/specialist-diploma-in-retail-operations">Specialist Diploma in Retail (Operations)</a></li>
   </ol>
   <li>Modular WSQ Programmes:</li>
   <ol>
