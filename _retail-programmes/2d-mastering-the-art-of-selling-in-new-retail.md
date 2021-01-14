@@ -1,10 +1,10 @@
 ---
 layout: leftnav-page-content
 title: Mastering the Art of Selling in New Retail
-permalink: /retail-programmes/short-courses/mastering-the-art-of-selling-in-new-retail
+permalink: /wsq-programmes/wsq-modular-programmes/mastering-the-art-of-selling-in-new-retail
 breadcrumb: Mastering the Art of Selling in New Retail
 collection_name: retail-programmes
-second_nav_title: "Short Courses"
+second_nav_title: "WSQ Certified Modular Programmes"
 ---
 <a href="#" onclick="history.go(-1)">Back to previous page</a><br>
 
@@ -12,7 +12,7 @@ second_nav_title: "Short Courses"
 
 <p>The rapid transformation of the retail landscape has brought about new challenges for retailers. To meet the shifting demands of increasingly diverse customers, sales professionals need to take a creative and interactive approach to sell in the digital age. Besides being product experts, sales professionals must also cultivate meaningful relationships with customers, while adopting new technologies and sales strategies. Stay ahead of the competition by developing your skills and mastering the art of selling to win more customers in the new retail landscape.</p>
 
-<h3>Course Outline</h3>
+<h3>Outline</h3>
 <ul>
 <li>Understand New Retail: New landscape, new customers</li>
 <li>Determine and meet diverse customer requirements</li>
@@ -22,7 +22,7 @@ second_nav_title: "Short Courses"
   <li>Appreciate the process of closing a sale</li>
   </ul>
   
-<h3>Course Duration</h3>
+<h3>Duration</h3>
 
 <p>Total of 2 days, 15 hours:
   <ul>
@@ -33,7 +33,7 @@ second_nav_title: "Short Courses"
 
 <b>Receive a Workforce Skills Qualification (WSQ) Statement of Attainment (SOA) from the SkillsFuture Singapore (SSG) upon completion.</b>
 
-<h3>Course Fees</h3>
+<h3>Fees</h3>
 
 <center>
 <table style="width:100%;">
