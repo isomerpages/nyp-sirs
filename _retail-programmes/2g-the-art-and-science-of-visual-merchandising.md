@@ -14,7 +14,7 @@ second_nav_title: "WSQ Certified Modular Programmes"
 
 <p>Join us in this 2-day course to learn how you can revitalize your store to attract and engage shoppers, and provide them with an immersive shopping experience that excites the senses through The Art and Science of Visual Merchandising. Attract visitors through shareable moments, engage your fanbase, and convert them into your loyal customers today!</p>
 
-<h3>Outline</h3>
+<h4>Outline</h4>
 <ul>
 <li>Understand different types of store layout</li>
 <li>Elements of storytelling and brand identity</li>
@@ -24,7 +24,7 @@ second_nav_title: "WSQ Certified Modular Programmes"
   <li>Create instagrammable areas in the store</li>
   </ul>
 
-<h3>Duration</h3>
+<h4>Duration</h4>
 
 <p>Total of 2 days, 15 hours:
   <ul>
@@ -33,7 +33,7 @@ second_nav_title: "WSQ Certified Modular Programmes"
     </ul>
     </p>
 
-<h3>Fees</h3>
+<h4>Fees</h4>
 
 <center>
 <table style="width:100%;">
