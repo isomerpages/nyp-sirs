@@ -1,10 +1,9 @@
 ---
-layout: leftnav-page-content
 title: Carousell One Day Workshop
-permalink: /digital-programmes/e-commerce-programmes/carousell-one-day-workshop
+permalink: 
 breadcrumb: Carousell One Day Workshop
 collection_name: digital-programmes
-second_nav_title: "E-Commerce Programmes"
+second_nav_title: 
 ---
 <a href="#" onclick="history.go(-1)">Back to previous page</a>
 
@@ -18,7 +17,7 @@ second_nav_title: "E-Commerce Programmes"
  
 <p>Carousell 旋转拍卖是新加坡最受欢迎的手机应用之一。 潜在买家可以通过应用与你沟通，你也可以与买家谈判价格和条款。最适合休闲卖家销售二手产品，以及自制的产品。你还可以通过Facebook, Instagram 和Twitter 推广你的产品。</p>
 
-<h3>Course Outline</h3>
+<h4>Outline</h4>
 <ul>
   <li>Introduction to e-commerce and e-marketplaces</li>
   <li>Hands-on session to set up your Carousell account and list your first product</li>
