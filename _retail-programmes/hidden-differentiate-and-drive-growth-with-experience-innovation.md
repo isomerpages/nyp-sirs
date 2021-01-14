@@ -1,5 +1,5 @@
 ---
-layout: leftnav-page-content
+layout: 
 title: Differentiate and Drive Growth with Experience Innovation
 permalink: 
 breadcrumb: Differentiate and Drive Growth with Experience Innovation
@@ -14,7 +14,7 @@ second_nav_title:
 </p><p>
 Like their customers, retail businesses can also leverage on digital technology to gain access to information easily. Such data provides insights into their customer journey, to help them analyse gaps and identify opportunities to create an excellent customer experience.</p>
 
-<h3>Course Outline</h3>
+<h3>Outline</h3>
 <ul>
 <li>Understanding factors that impact customer experience</li>
 <li>Knowing the key components of a customer journey map</li>
@@ -24,7 +24,7 @@ Like their customers, retail businesses can also leverage on digital technology 
 <li>Creating customer experience journey through building relationships and connecting emotionally</li>
   </ul>
 
-<h3>Course Fees</h3>
+<h3>Fees</h3>
 
 <center>
 <table style="width:100%;">
