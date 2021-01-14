@@ -1,10 +1,10 @@
 ---
 layout: leftnav-page-content
 title: Be Your Own Makeup Artist
-permalink: /retail-programmes/short-courses/be-your-own-makeup-artist
+permalink: /wsq-programmes/wsq-modular-programmes/be-your-own-makeup-artist
 breadcrumb: Be Your Own Makeup Artist
 collection_name: retail-programmes
-second_nav_title: "Short Courses"
+second_nav_title: "WSQ Certified Modular Programmes"
 ---
 <a href="#" onclick="history.go(-1)">Back to previous page</a><br>
 
@@ -12,7 +12,7 @@ second_nav_title: "Short Courses"
 
 <p>Look your best every day without spending too much on products. Know the makeup style that suits you the most, choose essential products that you need and learn the right techniques to enhance your appearance, boost your confidence and self-esteem. Suitable for anyone interested in beauty and makeup.</p>
 
-<h3>Course Outline</h3>
+<h3>Outline</h3>
 <ul>
 <li>Understand why wearing make-up is important</li>
 <li>Know the various types of make-up products and tools</li>
@@ -22,7 +22,7 @@ second_nav_title: "Short Courses"
   <li>Demonstrate the application of make-up products</li>
   </ul>
 
-<h3>Course Fees</h3>
+<h3>Fees</h3>
 
 <center>
 <table style="width:100%;">
@@ -32,7 +32,7 @@ second_nav_title: "Short Courses"
 </tr>
 
 <tr>
-<td>Full Course Fees</td>
+<td>Full Fees</td>
 <td>$440.00</td>
 </tr>
 
@@ -44,11 +44,6 @@ second_nav_title: "Short Courses"
 <tr>
   <td>Singapore Citizen/SPR sponsored by SMEs<sup>1</sup> (90% funding)</td>
 <td>$47.08</td>
-</tr>
-
-<tr>
-  <td><a href="/services/consultancy/funding-and-support/workfare-training-support-scheme">Workfare Training Support (WTS)</a> recipient (95% funding)</td>
-<td>$25.08</td>
 </tr>
 
 </table>
