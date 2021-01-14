@@ -1,10 +1,10 @@
 ---
 layout: leftnav-page-content
 title: The Art and Science of Visual Merchandising
-permalink: /retail-programmes/short-courses/the-art-and-science-of-visual-merchandising
+permalink: /wsq-programmes/wsq-full-qualification-programmes/the-art-and-science-of-visual-merchandising
 breadcrumb: The Art and Science of Visual Merchandising
 collection_name: retail-programmes
-second_nav_title: "Short Courses"
+second_nav_title: "WSQ Certified Modular Programmes"
 ---
 <a href="#" onclick="history.go(-1)">Back to previous page</a><br>
 
@@ -14,7 +14,7 @@ second_nav_title: "Short Courses"
 
 <p>Join us in this 2-day course to learn how you can revitalize your store to attract and engage shoppers, and provide them with an immersive shopping experience that excites the senses through The Art and Science of Visual Merchandising. Attract visitors through shareable moments, engage your fanbase, and convert them into your loyal customers today!</p>
 
-<h3>Course Outline</h3>
+<h3>Outline</h3>
 <ul>
 <li>Understand different types of store layout</li>
 <li>Elements of storytelling and brand identity</li>
@@ -24,7 +24,7 @@ second_nav_title: "Short Courses"
   <li>Create instagrammable areas in the store</li>
   </ul>
 
-<h3>Course Duration</h3>
+<h3>Duration</h3>
 
 <p>Total of 2 days, 15 hours:
   <ul>
@@ -33,7 +33,7 @@ second_nav_title: "Short Courses"
     </ul>
     </p>
 
-<h3>Course Fees</h3>
+<h3>Fees</h3>
 
 <center>
 <table style="width:100%;">
@@ -57,15 +57,10 @@ second_nav_title: "Short Courses"
 <td>$47.08</td>
 </tr>
 
-<tr>
-  <td><a href="/services/consultancy/funding-and-support/workfare-training-support-scheme">Workfare Training Support (WTS)</a> recipient (95% funding)</td>
-<td>$25.08</td>
-</tr>
-
 </table>
 </center>
 
-<p>This course is also eligible for the following:</p>
+<p>Participants may also be eligible for the following:</p>
 <ul>
   <li>For self-sponsored participants
   <ol><li><a href="/services/consultancy/funding-and-support/skillsfuture-credit">SkillsFuture Credit S$500</a></li>
