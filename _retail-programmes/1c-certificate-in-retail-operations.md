@@ -16,7 +16,7 @@ second_nav_title: "WSQ Certification Programmes - Full Qualification"
 
 <p>This programme equips you with critical operational skills to provide customer-centric business excellence, product and service innovation and equip you with a better understanding of current and emerging retail technology to leverage these platforms in engaging and meeting changing customer expectations in the evolving retail landscape.</p>
 
-<h3>Course Outline</h3>
+<h3>Outline</h3>
 
 <p><b>Adapt to Change (15 hours)</b></p>
 
@@ -42,11 +42,11 @@ second_nav_title: "WSQ Certification Programmes - Full Qualification"
 
 <p>Understand the importance of productivity at workplace and how it can turn the workplace into a more healthy and happy working environment and bring about positive impact to service delivery and customer experience.</p>
 
-<h3>Course Duration</h3>
+<h3>Duration</h3>
 
 <p>The total duration of the programme is <b>6 months</b>. Day or night classes are available</p>
 
-<h3>Course Fees</h3>
+<h3>Fees</h3>
 
 <center>
 <table style="width:100%;">
