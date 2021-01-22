@@ -5,7 +5,6 @@ permalink: /about-us/our-team/
 breadcrumb: Our Team
 collection_name: about-us
 ---
-<a href="#" onclick="history.go(-1)">Back to previous page</a>
 
 <img src="images/sirs-team-2019.jpg" style="width:100%;">
 
