@@ -5,7 +5,7 @@ permalink: /digital-programmes/skillsfuture-for-digital-workplace
 breadcrumb: SkillsFuture for Digital Workplace
 collection_name: digital-programmes
 ---
-<a href="#" onclick="history.go(-1)">Back to previous page</a>
+
 <img src="images/sfdw_banner.png" style="width:100%;">
 <h3 style="text-align:center;">Next intake:</h3>
 
@@ -57,7 +57,7 @@ What you will learn:
     <li>利用科技来提高生活质量和增加工作效率</li>
     <li>制定继续学习计划，为将来做好准备</li>
 
-<h3 style="text-align:center;">Programme Fees</h3>
+<h4>Fees</h4>
 <center>
 <table style="width:100%;">
 <tr>
@@ -66,7 +66,7 @@ What you will learn:
 </tr>
 
 <tr>
-<td>Full Course Fees</td>
+<td>Full Fees</td>
 <td>$802.50</td>
 </tr>
 
