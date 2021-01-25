@@ -3,7 +3,7 @@ layout: leftnav-page-content
 title: Productivity Solutions Grant (PSG)
 permalink: /services/funding-and-advisory/psg
 breadcrumb: Funding & Advisory 
-collection_name: funding-and-support
+collection_name: services
 second_nav_title: "Funding & Advisory"
 ---
 
