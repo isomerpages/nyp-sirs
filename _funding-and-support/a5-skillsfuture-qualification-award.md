@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content 
-title: Funding & Advisory 
+title: Skillsfuture Qualification Award
 permalink: /services/funding-and-advisory/skillsfuture-qualification-award
 breadcrumb: Funding & Advisory 
 collection_name: funding-and-support
