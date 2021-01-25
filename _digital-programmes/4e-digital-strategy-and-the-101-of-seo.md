@@ -1,12 +1,11 @@
 ---
 layout: leftnav-page-content
 title: Digital Strategy & the 101 of SEO
-permalink: /digital-programmes/digital-marketing-masterclasses/digital-strategy-and-the-101-of-seo
+permalink: /digital-programmes/masterclasses-and-workshops/digital-strategy-and-the-101-of-seo
 breadcrumb: Digital Strategy & the 101 of SEO
 collection_name: digital-programmes
-second_nav_title: "Digital Marketing Masterclasses"
+second_nav_title: "Masterclasses & Workshops"
 ---
-<a href="#" onclick="history.go(-1)">Back to previous page</a>
 
 <img src="images/digital-masterclasses/digital-strategy-and-the-101-of-seo.jpg" style="width:100%;">
 
@@ -16,7 +15,7 @@ second_nav_title: "Digital Marketing Masterclasses"
 
 <p>This is an introductory program that is suitable for acquiring an overview of existing industry practices in digital marketing and SEO, looking to understand the change in consumer behaviour to adapt their business marketing plans, and seeking clear direction to drive breakthrough marketing campaigns.</p>
 
-<h3 style="text-align:center;">Course Outline</h3>
+<h4>Outline</h4>
 <ul>
 <li>Introduction to today’s digital space</li>
 <li>Understand social media, search engine, email marketing and e-Commerce platforms</li>
@@ -28,12 +27,12 @@ second_nav_title: "Digital Marketing Masterclasses"
 <li>Create a simple framework to evaluate campaign success or failure and understand key metrics from Google Analytics and Google Webmaster tools</li>
   </ul>
   
-<h3 style="text-align:center;">Trainer Profile</h3>
+<h4>Trainer Profile</h4>
 <p><b>Jayden Ooi</b><br>
   <em>Entrepreneur, Digital Strategist</em><br>
 Jayden is the founding partner of 2 service companies, Ambient (Software Develop-ment) and NightOwl (SEO), which he started in 2014. Prior to it, Jayden graduated from NUS School Of Computing, with a major in eCommerce in 2013. He started a tech startup during his stint in university, and won the prestigious Startup@Singapore competition. Unfortunately, the startup failed in late 2014. Through a chance encoun-ter, Jayden received an opportunity to use his breadth of knowledge to strategise the online business for a small F&B business. He eventually assisted them to overcome their digital obstacles and rise to the very top of their industry in 3 years with a 7 digits yearly turnover today. It was a pivotal moment, where Jayden transformed his failed startup into a competent in-house team of SEO-ninjas and software engineers in Sin-gapore & Malaysia, that create quality solutions to solve real digital problems. Jayden & team has successfully nailed a Rank 1 / Top 3 / Top 5 ranking in Google Page 1 that has successfully driven an exponential increase in business opportunities and break-through in yearly revenue growth for his clients.</p>
 
-<h3>Programme Fees</h3>
+<h4>Fees</h4>
 
 <center>
 <table style="width:100%;">
@@ -43,7 +42,7 @@ Jayden is the founding partner of 2 service companies, Ambient (Software Develop
 </tr>
 
 <tr>
-<td>Full course fee</td>
+<td>Full fees</td>
 <td>$802.50</td>
 </tr>
 
