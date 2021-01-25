@@ -14,7 +14,7 @@ We provide advice on the vast arrays of government assistance such as:</p>
 
 <h3>For Individuals</h3>
 <li><a href="/services/funding-and-advisory/skillsfuture-credit">SkillsFuture Credit (SFC)</a></li>
-<li><a href="/services/funding-and-advisory/skillsfuture-midcareer-enhanced-subsidy>SkillsFuture Mid-Career Enhanced Subsidy (MCES)</a></li>
+<li><a href="/services/funding-and-advisory/skillsfuture-midcareer-enhanced-subsidy">SkillsFuture Mid-Career Enhanced Subsidy (MCES)</a></li>
 <li><a href="/services/funding-and-advisory/skillsfuture-study-awards">SkillsFuture Study Awards</a></li>
 <li><a href="/services/funding-and-advisory/skillsfuture-qualification-award">SkillsFuture Qualification Award</a></li>
 <li><a href="/services/funding-and-advisory/workfare-skills-support-wss">Workfare Skills Support (WSS) Scheme (Replace WTS from 1 July 2020)</a></li>
