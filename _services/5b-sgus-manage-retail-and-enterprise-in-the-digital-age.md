@@ -20,7 +20,7 @@ competitive edge through developing your leadership skills to manage change, eng
 drive growth. Participants will also gain skills and knowledge to manage business operations, heighten customer engagement, drive innovation in achieving desired 
 outcomes for the business.</p>
 
-<b>Topics Covered:</b>
+<b>Outline</b>
 
 <ul>
   <li>Adapt to Change (24 hours)</li>
