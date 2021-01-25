@@ -1,17 +1,17 @@
 ---
 layout: leftnav-page-content
 title: Google Shopping with AdWords Professional Certification
-permalink: /digital-programmes/digital-marketing-masterclasses/google-shopping-with-adwords-professional-certification
+permalink: /digital-programmes/masterclasses-and-workshops/google-shopping-with-adwords-professional-certification
 breadcrumb: Google Shopping with AdWords Professional Certification
 collection_name: digital-programmes
-second_nav_title: "Digital Marketing Masterclasses"
+second_nav_title: "Masterclasses & Workshops"
 ---
-<a href="#" onclick="history.go(-1)">Back to previous page</a>
+
 <p>Advertising in Google enables you to expand our online presence. According to StatCounter Global Stats in Jun 2018 report, Google holds almost 90% of search engine market share. Google Shopping, together with the use of AdWords, enables potential customers to see your product image, title, price, store name, and more. These ads give users a strong sense of the product you are selling before they click the ad, which gives you more qualified leads. Many businesses experience significantly higher clickthrough rates (CTR) with Shopping ads compared to text ads.</p>
 
 <p>Understanding Google AdWords and setting up best practices for Google Shopping Campaigns are important in digital marketing. The course aims to help online retailers to reap the benefits of Google Shopping through managing search, display, video and shopping campaigns.</p>
 
-<h3 style="text-align:center;">Course Outline</h3>
+<h4>Outline</h4>
 <ul>
   <li>Introduction to Search fundamentals</li>
 <li>Understanding Singapore e-commerce system</li>
@@ -22,11 +22,11 @@ second_nav_title: "Digital Marketing Masterclasses"
 <li>Fundamentals & Google Shopping Review: Google AdWords Fundamentals & Shopping Advertising Exam</li>
   </ul>
 
-<h3 style="text-align:center;">Trainer Profile</h3>
+<h4>Trainer Profile</h4>
 <p><b>Ivan Wong</b><br>
 Ivan has over 20 years of experience in Business Consulting, Training, Search Engine Marketing, Conversion Optimisation and Digital Analytics from both client side and within the agency environment. Well-versed in both the technical and business aspects of digital marketing, he is one of the few Google-appointed regional trainers who trains the official Google AdWords, Analytics, and Mobile Advertising courses. In addition, he is a sought-after trainer, providing training and consultancy for leading marketing agencies including Google Mobile Labs, IE Singapore, The Knowledge Engineers, General Assembly, Econsultancy and ClickAcademy Asia. He was formerly the SEO/Analytics Director with GroupM Asia-Pacific. Prior to that, he was the Director of eCommerce at Far East Hospitality, Singapore’s largest operator of hotels and serviced residences. He has also held management positions at DGM Asia, Hewlett-Packard Asia, and Magnus Management Consultants.</p>
 
-<h3>Programme Fees</h3>
+<h4>Fees</h4>
 
 <center>
 <table style="width:100%;">
