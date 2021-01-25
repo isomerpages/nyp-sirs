@@ -2,7 +2,7 @@
 layout: leftnav-page-content 
 title: Union Training Assistance Programme (UTAP)
 permalink: /services/funding-and-advisory/utap
-breadcrumb: Funding & Advisory 
+breadcrumb: Union Training Assistance Programme
 collection_name: services
 second_nav_title: "Funding & Advisory"
 ---
