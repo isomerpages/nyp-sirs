@@ -14,7 +14,7 @@ Recognising that mid-career individuals may face greater challenges in undertaki
 mid-career Singaporeans to upskill and reskill. 
 Eligible individuals will receive higher subsidies of up to 90% of course fees for SSG-supported courses.</p>
 
-<b>Am I eligible for Mid-Career Enhanced Subsidy?</b>
+<b>Who is eligible for Mid-Career Enhanced Subsidy?</b>
 <p>Only  Singapore  Citizens  aged  40  and  above  will  be  eligible  to  receive  the enhanced subsidies.</p>
 
 <b>Which programmes can I use it for?</b>
