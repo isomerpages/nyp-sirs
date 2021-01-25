@@ -27,7 +27,7 @@ expanding into overseas markets.<br><br>
 </ol>
 </p>
 <i>As of 30 December 2020, Overseas Marketing Presence (OMP) will be supported under the Market Readiness Assistance Grant (MRA). Please refer 
-<a href="https://www.enterprisesg.gov.sg/financial-assistance/grants/for-local-companies/market-readiness-assistance-grant">here</a> for more details.</i>
+<a href="https://www.enterprisesg.gov.sg/financial-assistance/grants/for-local-companies/market-readiness-assistance-grant">here</a> for more details.</i>>br>
 
 <b>Who is eligible for the Enterprise Development Grant?</b>
 <p>To qualify for the EDG, you need to:
@@ -47,7 +47,7 @@ Eligible employers who fulfil the following criteria can also qualify for additi
 <i>Note: From 1 April 2020, all EDG applications should include commitments to worker outcomes as part of the qualifying requirements. Worker outcomes include increase in wage increment, job creation, job re-design, or training for existing staff. 
 <br>
 In addition, unionised companies and e2i partners under the Labour Movement are eligible to receive an additional 10% funding, subject to NTUC-e2i’s endorsement.</i>
-
+<br>
 <b>How does it work?</b>
 <p>The grant funds qualifying project costs namely third party consultancy fees, software and equipment, and internal manpower cost.<br>
 As announced at Supplementary Budget 2020, the maximum support level will be raised to 80% from 1 April 2020 to 30 September 2021.<br>
