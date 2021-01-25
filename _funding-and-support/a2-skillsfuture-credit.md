@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content 
-title: Funding & Advisory 
+title: SkillsFuture Credit
 permalink: /services/funding-and-advisory/skillsfuture-credit
 breadcrumb: Funding & Advisory 
 collection_name: funding-and-support
