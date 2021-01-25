@@ -6,7 +6,6 @@ breadcrumb: Certificate in Retail (Operations)
 collection_name: retail-programmes
 second_nav_title: "WSQ Certification Programmes - Full Qualification"
 ---
-<a href="#" onclick="history.go(-1)">Back to previous page</a><br>
 
 <img src="images/wsq/wsq-cro.jpg" style="width:100%;">
 
@@ -16,7 +15,7 @@ second_nav_title: "WSQ Certification Programmes - Full Qualification"
 
 <p>This programme equips you with critical operational skills to provide customer-centric business excellence, product and service innovation and equip you with a better understanding of current and emerging retail technology to leverage these platforms in engaging and meeting changing customer expectations in the evolving retail landscape.</p>
 
-<h3>Outline</h3>
+<h4>Outline</h4>
 
 <p><b>Adapt to Change (15 hours)</b></p>
 
@@ -42,11 +41,11 @@ second_nav_title: "WSQ Certification Programmes - Full Qualification"
 
 <p>Understand the importance of productivity at workplace and how it can turn the workplace into a more healthy and happy working environment and bring about positive impact to service delivery and customer experience.</p>
 
-<h3>Duration</h3>
+<h4>Duration</h4>
 
 <p>The total duration of the programme is <b>6 months</b>. Day or night classes are available</p>
 
-<h3>Fees</h3>
+<h4>Fees</h4>
 
 <center>
 <table style="width:100%;">
@@ -83,6 +82,8 @@ This course is also eligible for the following:
 <em><sup>1</sup>Singapore Citizen, aged 35 years & above and monthly income of not more than $2,000<br>
 <sup>2</sup>Applicable for Singapore Citizens only<br>
   All fees include prevailing GST</em>
+
+For more information about funding and support, click <a href="/services/funding-and-advisory">here.</a>
 
 <h3>Entry Requirements</h3>
 <ol>
