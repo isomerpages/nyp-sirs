@@ -6,7 +6,6 @@ breadcrumb: Specialist Diploma in Retail (Operations)
 collection_name: retail-programmes
 second_nav_title: "WSQ Certification Programmes - Full Qualification"
 ---
-<a href="#" onclick="history.go(-1)">Back to previous page</a><br>
 
 <img src="images/wsq/wsq-sdro.jpg" style="width:100%;">
 
@@ -16,7 +15,7 @@ second_nav_title: "WSQ Certification Programmes - Full Qualification"
  
 <p>This programme equips you with 21st century leadership and management skills to meet the needs of today's omni-channel world of retailing. Develop essential skills that will help you in implementing omni-channel strategy. Lead your team of champions to create a great shopping experience for your customers to grow and sustain your business in this disruptive and evolving retail environment.</p>
  
-<h3>Course Outline</h3>
+<h4>Outline</h4>
  
 <P><b>Personal effectiveness (21 hours)</b><br>
 Learn to facilitate the execution of the organsiation's strategy in building alignment, winning mindshare, developing and growing the skills and competencies of staff. It is imperative to develop future leadership qualities and behaviours to meet the needs of the disruptive and evolving landscape.</p>
@@ -38,10 +37,10 @@ Develop the right and effective social media marketing strategy and raise awaren
 <P><b>Drive Productivity and Innovation (24 hours)</b><br>
 Learn to build an organizational culture for innovation and productivity to have long term business growth and sustainability of any organization. Understand the critical role to champion creativity, ideas-sharing, collaboration, value building and exploring new areas of growth or ways to enhance efficiency.</p>
  
-<h3>Course Duration</h3>
+<h4>Duration</h4>
 <p>The total duration of the programme is 6 months. Day or night classes are available.</p>
 
-<h3>Course Fees</h3>
+<h4>Fees</h4>
 
 <center>
 <table style="width:100%;">
@@ -94,14 +93,16 @@ This course is also eligible for the following:
 <sup>2</sup>Additional funding under the <a href="/services/consultancy/funding-and-support/skillsfuture-enhanced-training-support-for-smes">Enhanced Training Support for SMEs (ETSS)</a><br>
 <sup>3</sup>Applicable for Singapore Citizens only<br>
  All fees include prevailing GST</em>
+ 
+<p>For more information about funding and support, click <a href="/services/funding-and-advisory">here.</a></p>
 
-<h3>Entry Requirements</h3>
+<h4>Entry Requirements</h4>
 <ol>
   <li>GCE 'O' level Credit (at least C6) in English and Mathematics or Workplace Literacy and Numeracy (WPLN) score: Level 7 for Reading, Listening and Numeracy; and</li>
   <li>With at least 3 years senior managerial working experience in retail or Professional, Managers, Executives and Technicians (PMETs) position in non-retail sector</li>
 </ol>
  
-<h3>Application</h3>
+<h4>Application</h4>
 
 <p>To apply, please complete the online registration <a href="http://form.gov.sg/5d92ea7ece0ed40012a9db5f" target="_blank">here</a> and email to <a href="mailto:courses@sirs.edu.sg?subject=Registration for CRO" target="_blank">courses@sirs.edu.sg</a> with the following supporting documents:
 
