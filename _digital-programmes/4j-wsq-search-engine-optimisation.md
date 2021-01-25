@@ -32,3 +32,38 @@ Entrepreneur, Digital Strategist
 Jayden has built a reputation of engineering cost effective and  sustainable solutions for companies, at a practical pace, in realistic stages. EzyBBQ successfully grew its sales 10 times over 24 months, and Shingawa Eye Centre, W Eye Clinic, Acuvue and  Essilor Singapore respectively experiencing quick turnaround results are all but proof of Jayden’s  excellent stewardship in digital strategy. A champion of thought leadership, Jayden’s entrepreneurial  capabilities have been recognised through grants and awards won at national and global tech  competitions.
 
 He is the founding owner of a few start-ups and regular speaker at the Google (HQ) Business Group. Jayden’s background and experience places him in good standing to best understand the uphill task business owners and key decision makers face in a highly competitive retail environment.</p>
+
+<h4>Fees</h4>
+<center>
+<table style="width:100%;">
+<tr>
+<th style="width:70%;">Category</th>
+<th style="width:30%:">Price</th>
+</tr>
+
+<tr>
+<td>Full Fees</td>
+<td>$802.50</td>
+</tr>
+
+<tr>
+<td>Singapore Citizen/Singapore PR (SPR)</td>
+<td>$240.75</td>
+</tr>
+
+<tr>
+    <td>Singapore Citizen/Singapore PR sponsored by SMEs</td>
+<td>$90.75</td>
+</tr>
+
+<tr>
+    <td>Singapore Citizen 40 years and above</td>
+<td>$90.75</td>
+</tr>
+
+</table>
+</center>
+
+<center><a href="https://form.gov.sg/#!/5e4a462056e8230011d5d3bb" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;" target="_blank">Request for Brochure</a></center>
+
+<center><a href="https://goo.gl/forms/kEI6opeWj0ud3BK82" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;" target="_blank">Register Now</a></center>
