@@ -74,7 +74,7 @@ Participants are also eligible for the following:
 <sup>2</sup>Applicable for Singapore Citizens only<br>
  All fees include prevailing GST</em>
  
-For more information about funding and support, click <a href="/services/funding-and-advisory">here.</a>
+<p>For more information about funding and support, click <a href="/services/funding-and-advisory">here.</a></p>
 
 <b>Entry Requirements</b>
 <ol>
