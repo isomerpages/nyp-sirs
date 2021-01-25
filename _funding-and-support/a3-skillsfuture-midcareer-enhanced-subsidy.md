@@ -3,7 +3,7 @@ layout: leftnav-page-content
 title: SkillsFuture Mid-career Enhanced Subsidy (MCES)
 permalink: /services/funding-and-advisory/skillsfuture-midcareer-enhanced-subsidy
 breadcrumb: Funding & Advisory 
-collection_name: funding-and-support
+collection_name: services
 second_nav_title: "Funding & Advisory"
 ---
 
