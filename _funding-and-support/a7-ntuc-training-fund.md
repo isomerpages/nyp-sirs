@@ -2,7 +2,7 @@
 layout: leftnav-page-content 
 title: NTUC Training Fund
 permalink: /services/funding-and-advisory/ntuc-training-fund
-breadcrumb: Funding & Advisory 
+breadcrumb: NTUC Training Fund
 collection_name: services
 second_nav_title: "Funding & Advisory"
 ---
