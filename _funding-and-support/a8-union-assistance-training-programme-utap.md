@@ -15,6 +15,6 @@ NTUC members enjoy 50% *unfunded course fee support for up to $250 each year whe
 *Unfunded course fee refers to the balance course fee payable after applicable government subsidy. This excludes GST, registration fees, misc. fees etc.
 <br>
 All NTUC members can apply. 
-<br>
-Click<a href="http://skillsupgrade.ntuc.org.sg/wps/portal/skillsupgrade/home/skillsupgradeavailable/featuredindustries/featuredindustriesdetails?WCM_GLOBAL_CONTEXT=/content_library/skillsupgrade/home/skills+upgrade+available/featured+industries/da9571804f32741a9d86fdbda6c1e78c">here</a> 
+<br><br>
+Click <a href="http://skillsupgrade.ntuc.org.sg/wps/portal/skillsupgrade/home/skillsupgradeavailable/featuredindustries/featuredindustriesdetails?WCM_GLOBAL_CONTEXT=/content_library/skillsupgrade/home/skills+upgrade+available/featured+industries/da9571804f32741a9d86fdbda6c1e78c">here</a> 
 to view details.</p>
