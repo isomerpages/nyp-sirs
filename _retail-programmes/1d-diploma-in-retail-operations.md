@@ -15,7 +15,7 @@ second_nav_title: "WSQ Certification Programmes - Full Qualification"
 
 <p>This programme equips you with skills and knowledge create and implement customer-centric business excellence and drive service innovation. You will evaluate current and emerging retail trends and leverage technology to engage and meet the changing customer expectations and retail landscape.</p>
  
-<h3>Course Outline</h3>
+<h4>Outline</h4>
  
 <p><b>Adapt to Change (24 hours)</b><br>
 Evaluate local & global issues & trends that impact one's employability & job role. Be able to identify competency gaps, determine training and development needs and to establish & evaluate appropriate training & learning opportunities for all including the implementation of a conducive work environment to facilitate transfer of knowledge & skills.</p>
@@ -100,13 +100,13 @@ This course is also eligible for the following:
  
 <p>For more information about funding and support, click <a href="/services/funding-and-advisory">here.</a></p>
 
-<h3>Entry Requirements</h3>
+<h4>Entry Requirements</h4>
 <ol>
   <li>GCE 'O' level Credit (at least C6) in English and Mathematics or Workplace Literacy and Numeracy (WPLN) score: Level 6 for Reading, Listening and Numeracy; and</li>
   <li>With at least 3 years supervisory/managerial working experience in retail or Professional/Managerial/Management Executive (PME) position in non-retail sector</li>
 </ol>
  
-<h3>Application</h3>
+<h4>Application</h4>
 
 <p>To apply, please complete the online registration <a href="http://form.gov.sg/5d92ea7ece0ed40012a9db5f" target="_blank">here</a> and email to <a href="mailto:courses@sirs.edu.sg?subject=Registration for CRO" target="_blank">courses@sirs.edu.sg</a> with the following supporting documents:
 
