@@ -1,14 +1,13 @@
 ---
 layout: leftnav-page-content
 title: Omni Commerce Visual
-permalink: /digital-programmes/digital-marketing-masterclasses/omni-commerce-visual
+permalink: /digital-programmes/masterclasses-and-workshops/omni-commerce-visual
 breadcrumb: Omni Commerce Visual
 collection_name: digital-programmes
-second_nav_title: "Digital Marketing Masterclasses"
+second_nav_title: "Masterclasses & Workshops"
 ---
-<a href="#" onclick="history.go(-1)">Back to previous page</a>
 
-<h3 style="text-align:center;">Next intake for Online Training:</h3>
+<h4>Next intake for Online Training:</h4>
 
 <center><table style="width:80%;">
     <tr style="text-align:center;">
@@ -49,7 +48,7 @@ Omni-commerce marketing campaigns are some of the considerations in developing a
 
 <p>Suitable for C-level Executives, General Managers, Heads of Technology/IT, Marketing & Business Development, Heads of Delivery, Technologists, and Innovation Managers.</p>
 
-<h3 style="text-align:center;">Programme Fees</h3>
+<h4>Fees</h4>
 <center>
 <table style="width:100%;">
 <tr>
@@ -58,7 +57,7 @@ Omni-commerce marketing campaigns are some of the considerations in developing a
 </tr>
 
 <tr>
-<td>Full Course Fees</td>
+<td>Full Fees</td>
 <td>$1712.00</td>
 </tr>
 
