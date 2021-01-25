@@ -25,9 +25,9 @@ Looking to understand the change in consumer behaviour to adapt their business m
 Seeking clear direction to drive breakthrough marketing campaigns
 </p>
 
-<h4>Trainer Profile</h4>
-Jayden Ooi
-Entrepreneur, Digital Strategist
+<h4>Trainer Profile</h4><br>
+<b>Jayden Ooi<br>
+Entrepreneur, Digital Strategist</b><br><br>
 
 Jayden has built a reputation of engineering cost effective and  sustainable solutions for companies, at a practical pace, in realistic stages. EzyBBQ successfully grew its sales 10 times over 24 months, and Shingawa Eye Centre, W Eye Clinic, Acuvue and  Essilor Singapore respectively experiencing quick turnaround results are all but proof of Jayden’s  excellent stewardship in digital strategy. A champion of thought leadership, Jayden’s entrepreneurial  capabilities have been recognised through grants and awards won at national and global tech  competitions.
 
