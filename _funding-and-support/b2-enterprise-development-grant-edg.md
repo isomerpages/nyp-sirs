@@ -2,7 +2,7 @@
 layout: leftnav-page-content 
 title: Enterprise Development Grant (EDG)
 permalink: /services/funding-and-advisory/edg
-collection_name: funding-and-support
+collection_name: services
 second_nav_title: "Funding & Advisory"
 ---
 
