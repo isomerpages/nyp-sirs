@@ -18,7 +18,7 @@ during working hours.</p>
 <b>Which programmes can I use it for?</b>
 <p>The  subsidies  will  apply  to SSG-supported certifiable courses. You can enjoy AP for all SIRS programmes, masterclasses and workshops.</p>
 
-<b>How does it work?<b>
+<b>How does it work?</b>
 <p>Your company will receive 80% of hourly basic salary (capped at $4.50 per trainee-hour) for each sponsored employee. SMEs receive 80% of hourly basic salary 
 (capped at $7.50 per trainee-hour) for each sponsored employee.</p>
 
