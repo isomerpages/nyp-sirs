@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content 
-title: Funding & Advisory 
+title: NTUC Training Fund
 permalink: /services/funding-and-advisory/ntuc-training-fund
 breadcrumb: Funding & Advisory 
 collection_name: funding-and-support
