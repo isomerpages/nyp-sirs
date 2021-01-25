@@ -1,12 +1,11 @@
 ---
 layout: leftnav-page-content
 title: Digital Commerce Visual
-permalink: /digital-programmes/digital-marketing-masterclasses/digital-commerce-visual
+permalink: /digital-programmes/masterclasses-and-workshops/digital-commerce-visual
 breadcrumb: Digital Commerce Visual
 collection_name: digital-programmes
-second_nav_title: "Digital Marketing Masterclasses"
+second_nav_title: "Masterclasses & Workshops"
 ---
-<a href="#" onclick="history.go(-1)">Back to previous page</a>
 
 <img src="images/digital-masterclasses/digital-commerce-visual.jpg" style="width:100%;">
 
@@ -21,7 +20,7 @@ Next Online Classroom Intake
 
 <p>Participants are required to bring a laptop for in-class photoshop practical. (Photoshop software will be provided for training purposes).</p>
 
-<h3 style="text-align:center;">Course Outline</h3>
+<h4>Outline</h4>
 <ul>
 <li>Understand how to create one click visual marketing to drive Omni-commerce.</li>
 <li>Understand the role of visual merchandising for an online store and category.</li>
@@ -30,7 +29,7 @@ Next Online Classroom Intake
   <li>Systematic plan and implement process for effective visual marketing.</li>
   </ul>
 
-<h3>Programme Fees</h3>
+<h4>Fees</h4>
 
 <center>
 <table style="width:100%;">
@@ -40,7 +39,7 @@ Next Online Classroom Intake
 </tr>
 
 <tr>
-<td>Full course fee</td>
+<td>Full fees</td>
 <td>$1,284.00</td>
 </tr>
 
