@@ -1,12 +1,12 @@
 ---
 layout: leftnav-page-content 
-title: Funding & Advisory 
+title: Enterprise Development Grant (EDG)
 permalink: /services/funding-and-advisory/edg
 collection_name: funding-and-support
 second_nav_title: "Funding & Advisory"
 ---
 
-<h4>What is the Entreprise Development Grant (EDG)?</h4>
+<h4>What is the Enterprise Development Grant (EDG)?</h4>
 <p>Today and into the future, companies that thrive are the ones that have strong business foundations and strategies, adopt technology and innovative processes, 
 and grow their overseas presence.<br>
 <br>
