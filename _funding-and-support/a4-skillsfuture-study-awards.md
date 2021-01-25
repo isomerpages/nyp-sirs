@@ -3,7 +3,7 @@ layout: leftnav-page-content
 title: SkillsFuture Study Awards
 permalink: /services/funding-and-advisory/skillsfuture-study-awards
 breadcrumb: Funding & Advisory 
-collection_name: funding-and-support
+collection_name: services
 second_nav_title: "Funding & Advisory"
 ---
 
