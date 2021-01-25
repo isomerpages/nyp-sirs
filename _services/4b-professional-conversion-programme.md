@@ -1,12 +1,11 @@
 ---
 layout: leftnav-page-content
 title: Professional Conversion Programme
-permalink: /services/career-services/professional-conversion-programme
+permalink: /services/professional-conversion-programme
 breadcrumb: Professional Conversion Programme
 collection_name: services
-second_nav_title: "Career Services"
+second_nav_title: "Professional Conversion Programme (PCP)"
 ---
-<a href="#" onclick="history.go(-1)">Back to previous page</a><br>
 <img src="images/pcp/PCP-header.jpg" style="width:100%;"><br>
 <center>A joint initiative by:</center>
 <img src="images/pcp/sirs-wsg-banner.jpg" style="width:50%;text-align:center;">
