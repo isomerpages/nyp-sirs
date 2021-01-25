@@ -27,7 +27,7 @@ expanding into overseas markets.<br><br>
 </ol>
 </p>
 <i>As of 30 December 2020, Overseas Marketing Presence (OMP) will be supported under the Market Readiness Assistance Grant (MRA). Please refer 
-<a href="https://www.enterprisesg.gov.sg/financial-assistance/grants/for-local-companies/market-readiness-assistance-grant">here</a> for more details.</i>>br>
+<a href="https://www.enterprisesg.gov.sg/financial-assistance/grants/for-local-companies/market-readiness-assistance-grant">here</a> for more details.</i><br>
 
 <b>Who is eligible for the Enterprise Development Grant?</b>
 <p>To qualify for the EDG, you need to:
