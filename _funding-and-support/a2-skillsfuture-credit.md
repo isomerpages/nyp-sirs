@@ -7,7 +7,7 @@ collection_name: funding-and-support
 second_nav_title: "Funding & Advisory"
 ---
 
-<h4>What is SkillsFuture Credit? (SFC)<h4>
+<h4>What is SkillsFuture Credit? (SFC)</h4>
 
 <b>Opening SkillsFuture Credit of $500 (no expiry date)</b>
 <p>SkillsFuture Credit aims to encourage individuals to take ownership of their skills development and lifelong learning. Introduced in 2015, all Singaporeans aged 25 
