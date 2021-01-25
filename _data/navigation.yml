@@ -21,16 +21,16 @@
   sub-links:
   - title: Career Services
     url: /services/career-services
-  - title: Professional Conversion Programme (PCP)
-    url: /services/professional-conversion-programme
-  - title: SGUnited Skills (SGUS) Programmes
-    url: /services/sgus-programmes
   - title: Consultancy
     url: /services/consultancy
   - title: Education & Training
     url: /services/education-and-training
   - title: Funding & Advisory
     url: /services/funding-and-advisory
+  - title: Professional Conversion Programme (PCP)
+    url: /services/professional-conversion-programme
+  - title: SGUnited Skills (SGUS) Programmes
+    url: /services/sgus-programmes
 
 - title: WSQ Programmes
   url: /wsq-programmes/
