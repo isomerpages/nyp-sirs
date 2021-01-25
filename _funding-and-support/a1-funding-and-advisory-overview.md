@@ -9,8 +9,7 @@ second_nav_title: "Funding & Advisory"
 
 <h3>Funding & Advisory</h3>
 
-<p>We help companies become more successful in people development and business excellence. Our retail consultants are highly experienced and deeply passionate about the trade. We believe in speed-to-market collaborations & co-creating solutions with clients to help them meet the challenges and seize the opportunities in the dynamic retail industry.​
-We provide advice on the vast arrays of government assistance such as:</p>
+<p>We help companies become more successful in people development and business excellence. Our retail consultants are highly experienced and deeply passionate about the trade. We believe in speed-to-market collaborations & co-creating solutions with clients to help them meet the challenges and seize the opportunities in the dynamic retail industry. We provide advice on the vast arrays of government assistance such as:</p>
 
 <h3>For Individuals</h3>
 <li><a href="/services/funding-and-advisory/skillsfuture-credit">SkillsFuture Credit (SFC)</a></li>
