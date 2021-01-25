@@ -3,7 +3,7 @@ layout: leftnav-page-content
 title: Enhanced Training Support for SMEs (ETSS)
 permalink: /services/funding-and-advisory/etss
 breadcrumb: Funding & Advisory 
-collection_name: funding-and-support
+collection_name: services
 second_nav_title: "Funding & Advisory"
 ---
 
