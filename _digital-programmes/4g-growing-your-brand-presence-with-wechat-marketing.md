@@ -1,12 +1,11 @@
 ---
 layout: leftnav-page-content
 title: Growing Your Brand Presence with WeChat Marketing
-permalink: /digital-programmes/digital-marketing-masterclasses/growing-your-brand-presence-with-wechat-marketing
+permalink: /digital-programmes/masterclasses-and-workshops/growing-your-brand-presence-with-wechat-marketing
 breadcrumb: Growing Your Brand Presence with WeChat Marketing
 collection_name: digital-programmes
-second_nav_title: "Digital Marketing Masterclasses"
+second_nav_title: "Masterclasses & Workshops"
 ---
-<a href="#" onclick="history.go(-1)">Back to previous page</a>
 
 <img src="images/digital-masterclasses/growing-your-brand-presence-with-wechat-marketing.jpg" style="width:100%;">
 
@@ -14,13 +13,13 @@ second_nav_title: "Digital Marketing Masterclasses"
 
 <p>Join us on this one-day masterclass to gain a deeper understanding and appreciation of WeChat and the Tencent ecosystem, and the marketing strategies that brands have used to achieve success on the platform. In this masterclass, you will understand the various functions of a WeChat Official Account, and how to use the various tools and functions to increase new fans and grow your business.</p>
 
-<p>Programme conducted in Mandarin.</p>
+<p>Class conducted in Mandarin.</p>
 
 <p>微信不仅仅是一个与朋友聊天及分享照片的社交平台，也是一个强大有效的营销工具。随着微信用户的迅猛增长，越多企业都在使用微信公众号吸引粉丝，并与他们互动及配合线上线下的推广活动。微信在新加坡商业圈逐渐普及化的趋势让许多商家越来越重视这个平台，频频应用微信宣传产品和服务。除了新加坡市场，您也能将品牌扩展到中国市场并从中获取新的粉丝，扩大客户群。</p>
 
 <p>立即参与我们为期一天的高级讲习班，深入认识微信营销方式。您将从中了解微信公众号的功能、最新趋势及政策，学习如何提高微信营销效率以吸引新客户、增加销售。今天就与我们提升您的微信营销知识和技能，将您定位在这个利润丰厚的市场，提高您的销售业绩及品牌影响力！</p>
 
-<h3 style="text-align:center;">Course Outline</h3>
+<h4>Outline</h4>
 <ul>
 <li>Understand the WeChat and Tencent ecosystem</li>
 <li>Gain insights on how brands have succeeded on WeChat</li>
@@ -28,7 +27,7 @@ second_nav_title: "Digital Marketing Masterclasses"
   <li>Learn how to operate your very own WeChat Official Account to grow your business</li>
   </ul>
   
-<h3 style="text-align:center;">Trainer Profile</h3>
+<h4>Trainer Profile</h4>
 <p><b>Lou Peng 娄鹏</b><br>
   <em>Singapore Marketing Specialist/新加坡新媒体专家</em><br>
 Lou Peng has been specialising in WeChat marketing since 2012, helping many businesses in growing their brands and presence on WeChat. He has a wealth of experience conducting WeChat marketing training in Singapore for SMEs, and has been invited to numerous MNCs such as AIA, PropNex, CDL, and Sim Lim Square to provide training in WeChat marketing.</p>
@@ -37,7 +36,7 @@ Lou Peng has been specialising in WeChat marketing since 2012, helping many busi
 
 <p>关于培训，成功在新加坡授课数百场，大量新加坡企业家在微信课程中受益，拥有众多SME客户，并得到大家的认可并从客户自发的转介绍中获取大量新客户。同时也多次受邀到新加坡最大的保险公司AIA友邦保险公司、新加坡最大的上市房地产经纪公司PropNex博纳公司、新加坡CDL城市发展集团、Sim Lim Square 等知名品牌和机构授课，并得到大家认可，持续多次前去授课。</p>
 
-<h3>Programme Fees</h3>
+<h4>Fees</h4>
 
 <center>
 <table style="width:100%;">
@@ -47,7 +46,7 @@ Lou Peng has been specialising in WeChat marketing since 2012, helping many busi
 </tr>
 
 <tr>
-<td>Full course fee</td>
+<td>Full fees</td>
 <td>$802.50</td>
 </tr>
 
