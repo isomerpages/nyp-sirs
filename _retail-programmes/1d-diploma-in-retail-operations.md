@@ -6,7 +6,6 @@ breadcrumb: Diploma in Retail (Operations)
 collection_name: retail-programmes
 second_nav_title: "WSQ Certification Programmes - Full Qualification"
 ---
-<a href="#" onclick="history.go(-1)">Back to previous page</a><br>
 
 <img src="images/wsq/wsq-dro.jpg" style="width:100%;">
 
@@ -42,10 +41,10 @@ Understand key considerations and target markets in retailing as well as the app
 <p><b>Financial Analysis (30 hours)</b><br>
 Evaluate financial ratios, perform cost-benefits analysis and analyse the short and long term financial implications for the business to facilitate decision-making by management including the proper presentation of financial analysis to the management.</p>
  
-<h3>Course Duration</h3>
+<h4>Duration</h4>
 <p>The total duration of the programme is 6-12 months. Day or night classes are available.</p>
 
-<h3>Course Fees</h3>
+<h4>Fees</h4>
 
 <center>
 <table style="width:100%;">
@@ -98,6 +97,8 @@ This course is also eligible for the following:
 <sup>2</sup>Additional funding under the <a href="/services/consultancy/funding-and-support/skillsfuture-enhanced-training-support-for-smes">Enhanced Training Support for SMEs (ETSS)</a><br>
 <sup>3</sup>Applicable for Singapore Citizens only<br>
  All fees include prevailing GST</em>
+ 
+<p>For more information about funding and support, click <a href="/services/funding-and-advisory">here.</a></p>
 
 <h3>Entry Requirements</h3>
 <ol>
