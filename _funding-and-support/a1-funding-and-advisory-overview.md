@@ -1,8 +1,11 @@
+---
 layout: leftnav-page-content
 title: Funding & Advisory
 permalink: /services/funding-and-advisory/overview
 breadcrumb: Funding & Advisory
 collection_name: funding-and-support
+second_nav_title: "Funding & Advisory"
+---
 
 <h3>Funding & Advisory</h3>
 
@@ -25,5 +28,4 @@ We provide advice on the vast arrays of government assistance such as:</p>
 <li>Enhanced Training Support Package (ETSP) & Enhanced Absentee Payroll (COVID-19)</li>
 <li>Productivity Solutions Grant (PSG)</li>
 <li>Singtel 99%SME</li>
-<li>Workfare Training Support (WTS) Scheme</li>
 <li>Workfare Skills Support (WSS) Scheme (available as of 1 July 2020)</li>
