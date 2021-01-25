@@ -18,3 +18,5 @@ All NTUC members can apply.
 <br><br>
 Click <a href="http://skillsupgrade.ntuc.org.sg/wps/portal/skillsupgrade/home/skillsupgradeavailable/featuredindustries/featuredindustriesdetails?WCM_GLOBAL_CONTEXT=/content_library/skillsupgrade/home/skills+upgrade+available/featured+industries/da9571804f32741a9d86fdbda6c1e78c">here</a> 
 to view details.</p>
+
+<p>Use the Union Training Assistance Programme (UTAP) to sign up for SIRS programmes today!</p>
