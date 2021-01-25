@@ -6,7 +6,6 @@ breadcrumb: Advanced Certificate in Retail (Operations)
 collection_name: retail-programmes
 second_nav_title: "WSQ Certification Programmes - Full Qualification"
 ---
-<a href="#" onclick="history.go(-1)">Back to previous page</a><br>
 
 <img src="images/wsq/wsq-acro.jpg" style="width:100%;">
 
@@ -39,10 +38,10 @@ Driving innovative customer experience requires active listening to customers an
 <P><b>Productivity Improvement (18 hours)</b><br>
 Understand current trends in retail and how to use analytical tools to identify areas and key targets for productivity improvement in achieving organization goals. Using the ability to lead and drive workplace efficiency and effectiveness to help the workplace to bring about better customer experience leading to higher productivity outcome and better business results.</p>
  
-<h3>Duration</h3>
+<b>Duration</b>
 <p>The total duration of the programme is 5-8 months. Day or night classes are available.</p>
 
-<h3>Fees</h3>
+<h4>Fees</h4>
 
 <center>
 <table style="width:100%;">
@@ -74,14 +73,16 @@ Participants are also eligible for the following:
 <em><sup>1</sup>Singapore Citizen, aged 35 years & above and monthly income of not more than $2,000<br>
 <sup>2</sup>Applicable for Singapore Citizens only<br>
  All fees include prevailing GST</em>
+ 
+For more information about funding and support, click <a href="/services/funding-and-advisory">here.</a>
 
-<h3>Entry Requirements</h3>
+<b>Entry Requirements</b>
 <ol>
   <li>GCE 'O' level Credit (at least C6) in English and Mathematics or Workplace Literacy and Numeracy (WPLN) score: Level 5 for Reading, Listening and Numeracy; and</li>
   <li>With at least 2 years supervisory working experience in retail or 3 years supervisory/managerial working experience in non-retail sector</li>
 </ol>
  
-<h3>Application</h3>
+<b>Application</b>
 
 <p>To apply, please complete the online registration <a href="http://form.gov.sg/5d92ea7ece0ed40012a9db5f" target="_blank">here</a> and email to <a href="mailto:courses@sirs.edu.sg?subject=Registration for CRO" target="_blank">courses@sirs.edu.sg</a> with the following supporting documents:
 
