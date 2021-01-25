@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content 
-title: Funding & Advisory 
+title: Productivity Solutions Grant (PSG)
 permalink: /services/funding-and-advisory/psg
 breadcrumb: Funding & Advisory 
 collection_name: funding-and-support
