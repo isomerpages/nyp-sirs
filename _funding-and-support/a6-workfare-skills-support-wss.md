@@ -2,7 +2,7 @@
 layout: leftnav-page-content 
 title: Workfare Skills Support (WSS)
 permalink: /services/funding-and-advisory/workfare-skills-support-wss
-breadcrumb: Funding & Advisory 
+breadcrumb: Workfare Skills Support
 collection_name: services
 second_nav_title: "Funding & Advisory"
 ---
