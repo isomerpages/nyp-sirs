@@ -24,7 +24,7 @@ From 1 October 2020, this top-up can be used on all SkillsFuture Credit-eligible
 <p>All unused credit from this additional SkillsFuture Credit <b>will expire on 31 December 2025</b>.</p>
 
 <b>How can I check my SkillsFuture Credit?</b>
-<p>You may check your SkillsFuture Credit account<a href="https://www.skillsfuture.gov.sg/credit">here.</a></p>
+<p>You may check your SkillsFuture Credit account <a href="https://www.skillsfuture.gov.sg/credit">here.</a></p>
 
 <b>Can I use the SkillsFuture Credit after the government subsidy?</b>
 <p>The credits can be used on top of existing course fee subsidies provided by the Government.</p>
