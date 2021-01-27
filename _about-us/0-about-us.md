@@ -26,6 +26,8 @@ To promote skills deepening and lifelong learning, SIRS, in collaboration with t
 <p>
 SIRS as a holistic solutions provider with capability development & training at our core. 
  
+<img src="images-2021/AboutUs_SIRS_Solutions&Services.png" style="width:80%;">
+
 <ul>
  <li><a href="/services/education-and-training">Educate</a></li>
 Raise awareness and offer accessibility to leading edge knowledge and skills, as well as industry trends 
