@@ -43,8 +43,7 @@ Digital Commerce Lead</b>
 aspects of sales, marketing and business development. As Electrolux’s Head of
 e-commerce APAC, corporate facilitator and curriculum developer for leadership, he
 has accumulated vast experience in coaching C-suite and VP level learners. Previously
-as Head of eTailer & Social Commerce for Dell APAC, David successfully grew Dell.
-com eTailing revenue 100% in the region year on year. Prior to Dell, he was the GM of
+as Head of eTailer & Social Commerce for Dell APAC, David successfully grew Dell.com eTailing revenue 100% in the region year on year. Prior to Dell, he was the GM of
 BenQ SEA, and had held key roles in Hewlett Packard-APJ and Motorola-APJ.</p>
 
 <h4>Fees</h4>
