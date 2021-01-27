@@ -172,6 +172,8 @@ second_nav_title: "Alibaba Business School"
 Self-sponsored participants can utilise their <a href="/services/consultancy/funding-and-support/skillsfuture-credit">SkillsFuture Credit</a> to offset course fees<br>
 All fees inclusive of prevailing GST</em>
 
+<p>For more information about funding and support, click <a href="/services/funding-and-advisory">here.</a></p>
+
 <center>
   <b>All fees include :</b><br>
 Accommodation, meals & local transfers (6D5N)<br>
