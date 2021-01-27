@@ -6,7 +6,7 @@ breadcrumb: Our Partners
 collection_name: about-us
 ---
 
-<img src="/images-2021/AboutUs_SIRS_StrategicPartners.png" style="width:50%;">
+<img src="/images-2021/AboutUs_SIRS_StrategicPartners.png" style="width:80%;">
 
 <p>
 SIRS works with market leaders to develop cutting edge solutions and training programmes to help you reinvent your business to compete in new markets, gain new channels and develop skilled human capital. 
@@ -15,7 +15,7 @@ SIRS works with market leaders to develop cutting edge solutions and training pr
 <b>Alibaba Business School</b>
 <ul>
   <li><a href="/digital-programmes/alibaba-business-school/alibaba-ceo-programme">Alibaba CEO Programme</a></li>
-  <li><a href="/digital-programmes/alibaba-business-school/alibaba-ceo-master-programme">Alibaba CEO Master Programme</a>
+  <li><a href="/digital-programmes/alibaba-business-school/alibaba-ceo-master-programme">Alibaba CEO Master Programme</a></li>
   <li><a href="/digital-programmes/alibaba-business-school/alibaba-managerial-elite-programme">Alibaba Managerial Elite Programme</a></li>
   <li><a href="/digital-programmes/alibaba-business-school/alibaba-entrepreneur-startup-programme">Alibaba Entrepreneur Startup Programme</a></li>
   <li><a href="/digital-programmes/alibaba-business-school/alibaba-content-marketing-programme">Alibaba Content Marketing Programme</a></li>
