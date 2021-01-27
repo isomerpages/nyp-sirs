@@ -6,139 +6,36 @@ breadcrumb: About SIRS
 collection_name: about-us
 ---
 
-The Singapore Institute of Retail Studies (SIRS) is a Continuing Education & Training (CET) institute of Nanyang Polytechnic (NYP). Set up in 2006, SIRS’ excellent performance and track record won the conferment of the National CET Institute status, the pinnacle status for CET centres. In 2016, SIRS is appointed as the Anchor Provider for the Retail Industry by *SkillsFuture Singapore, as well as the Lean Enterprise Development Multiplier and Programme Manager for the Professional Conversion Programme & Earn And Learn Programme by Workforce Singapore.
+<h3>Our Mission</h3>
+<p>
+The Singapore Institute of Retail Studies (SIRS) is a Continuing Education & Training (CET) institute of Nanyang Polytechnic. Established in January 2006 as the first CET Institute in Singapore, SIRS’ excellent performance and track record won the conferment of the National CET Institute status, the pinnacle status for CET centres. Since April 2016, SIRS is the Anchor Provider for the Retail Industry by SkillsFuture Singapore, as well as the Programme Manager for various national programmes including Lean Enterprise Development (LED) Scheme, Professional Conversion Programmes (PCPs), Work-Study Programmes, Work-Study Certificate (Bootcamp for Digital Marketing & Branding), Job Redesign Place-and-Train Programme, as well as the SGUnited Skills (SGUS) Programme.<br>
+ 
+SIRS provides quality, market-driven and comprehensive spectrum of Retail programmes and solutions to support and prepare enterprises and workforce for the evolving challenges in the marketplace. These programmes include the Workforce Skills Qualifications suite, Executive Programmes, Masterclasses, Workshops, Seminars and Conferences. SIRS aligns its solutions to the Retail Sectoral Manpower Plan and the Retail Industry Transformation Map to help companies drive growth through innovation & internationalisation, improve productivity with technology and build a future-ready and productive workforce.<br>
 
-On 30 November 2016, SIRS-NYP and UniSIM signed a collaboration agreement to offer a new articulation pathway for participants of the Retail SkillsFuture Earn & Learn Programme (ELP). ELP candidates, upon completion of their WSQ Specialist Diploma in Retail Management, can enrol in UniSIM’s Bachelor of Science in Marketing programme and gain recognition for up to 30 credit units, enabling them to complete the programme in a shorter period of time.
+To lead the Retail industry into digitalisation and e-commerce, SIRS establishes strategic partnerships with market leaders the likes of Alibaba, Amazon, eBay, Lazada, NETS, Qoo10, SCash, Shopee, 99% SME and many others, to co-create a suite of cutting edge digital programmes to help retailers navigate the changing retail landscape and execute successful omnichannel strategies. SIRS also works closely with e-commerce aggregators under the Enterprise Singapore’s Multichannel E-commerce Platform (MEP) Programme as the designated training partner to develop and deliver quality training to Small and Medium Enterprises who are keen to kick-start their cross-border online businesses.<br>
 
-In addition to expanding our services for the evolving retail industry, SIRS-NYP also took on a collaboration with world digital leader, Alibaba Group's TaoBao University to offer a suite of cutting edge digital programmes to help our retailers adopt ecommerce and omni-channel strategies to succeed in today's digital context. Retailers will attain first-hand insights on successful e-commerce strategies, skills, implementation roadmaps and learn how to achieve indisputable market progress in the light of technology disruption.
-
-<i>*formerly known as Singapore Workforce Development Agency (WDA)</i>
+To promote skills deepening and lifelong learning, SIRS, in collaboration with the Singapore University of Social Sciences, offers an articulation pathway for graduates of the Work-Study Post- Diploma - WSQ Specialist Diploma (Operations) with advanced standing. 
+</p>
 
 <h3>Achievements</h3>
-As a leader in retail training with more than 10 years of experience and proven track record, SIRS has trained more than 150,000 retail professionals and job seekers. SIRS strives to be an enabler and aggregator of solutions to help retailers improve business performance through training, consultancy, applied research, study mission and recruitment/placement service in a single-stop. We count among our clientele a wide range of retail enterprises, both MNCs and SMEs. Some of our long time partners include AsiaMalls, BHG, Changi Airport Group, Club21, Courts, Dairy Farm Singapore, Eu Yan Sang, H&M, Koufu, L’Oreal, Pet Lovers Centre, Robinsons, Sentosa Development Corporation, Sephora, Shell, Sheng Siong Supermarket, Singapore Petroleum Company, Singtel, StarHub, Takashimaya and many more.
+<p>
+ As a leader in retail training with more than 10 years of experience and proven track record, SIRS has trained more than 170,000 retail professionals and job seekers. We are an enabler and aggregator of solutions to help enterprises improve business performance through training, consultancy, applied research, study mission and placement service in a single-stop. We count among our clientele a wide range of enterprises comprising MNCs and SMEs. Some of our long time partners include Aldo, Amore Pacific, BHG, CapitaLand, Changi Airport Group, Charles and Keith, Club 21, Dairy Farm Singapore, Eu Yan Sang, Full House Home Furnishing, Pet Lovers Centre, Robinsons, Sephora, Shangri La Group, Shilla, Singapore Petroleum Company, SingHealth, Singtel, Sony Electronics Singapore and many more.
+</p>
  
-<h3>Programmes and Services</h3>
-
-We offer a full suite of programmes in modular and full qualification basis.
-
+<h3>Solutions and Services</h3>
+<p>
 <ul>
-<li>Retail Programmes at Certificate, Advanced Certificate, Diploma and Specialist Diploma Levels</li>
-<li>Service Excellence Programmes at Operation, Supervisory & Managerial Levels</li>
-<li>Business Management Programmes</li>
-<li>Leadership & People Management Programmes</li>
- <li>Employability Skills Programmes</li>
- </ul>
+ <li><a href="/services/education-and-training">Educate</a></li>
+Raise awareness and offer accessibility to leading edge knowledge and skills, as well as industry trends 
 
-SIRS’ Career Services Centre provides complimentary career advisory and placement services to assist job-seeking participants to gain employment in the retail industry and at the same time, support retailers’ recruiting needs.
+<li><a href="/services/education-and-training">Train</a></li>
+Quality and industry relevant training to the retail workforce, and enhance enterprise human capital
 
-<h3>Enterprise-centric Solutions</h3>
+<li><a href="/services/career-services">Place</a></li>
+Career services such as advisory and placement assistance to job seekers, redesign jobs to create value for enterprises
 
-SIRS’ Business Solutions team has enabled many retailers to successfully implement training & capability development initiatives through our highly customised approach. Our team of retail consultants provide enterprise centric business solutions and recommendations to retailers, tapping the vast arrays of government assistance including Training Grant, Capability Development Grant (CDG), Productivity & Innovation Credit (PIC), Workfare Training Scheme (WTS) and Enhanced Training Support Scheme (ETSS).
-
-<html>
-<head>
-<style>
-* {
-  box-sizing: border-box;
-}
-
-input[type=text], select, textarea {
-  width: 100%;
-  padding: 12px;
-  border: 1px solid #ccc;
-  border-radius: 4px;
-  resize: vertical;
-}
-
-label {
-  padding: 12px 12px 12px 0;
-  display: inline-block;
-}
-
-input[type=submit] {
-  background-color: #4CAF50;
-  color: white;
-  padding: 12px 20px;
-  border: none;
-  border-radius: 4px;
-  cursor: pointer;
-  float: right;
-}
-
-input[type=submit]:hover {
-  background-color: #45a049;
-}
-
-.container {
-  border-radius: 5px;
-  background-color: #f2f2f2;
-  padding: 20px;
-}
-
-.col-25 {
-  float: left;
-  width: 25%;
-  margin-top: 6px;
-}
-
-.col-75 {
-  float: left;
-  width: 75%;
-  margin-top: 6px;
-}
-
-/* Clear floats after the columns */
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-}
-
-/* Responsive layout - when the screen is less than 600px wide, make the two columns stack on top of each other instead of next to each other */
-@media screen and (max-width: 600px) {
-  .col-25, .col-75, input[type=submit] {
-    width: 100%;
-    margin-top: 0;
-  }
-}
-</style>
-</head>
-<body>
-
-<h3>Subscribe to Our Mailing List</h3>
-
-<div class="container">
-  <form action="/action_page.php">
-  <div class="row">
-    <div class="col-25">
-      <label for="name">Name</label>
-    </div>
-    <div class="col-75">
-      <input type="text" id="name" name="name" placeholder="Your name..">
-    </div>
-  </div>
-  <div class="row">
-    <div class="col-25">
-      <label for="lname">Email</label>
-    </div>
-    <div class="col-75">
-      <input type="text" id="email" name="email" placeholder="Your email address..">
-    </div>
-  </div>
- 
-  <div class="row">
-    <div class="col-25">
-      <label for="message">Message</label>
-    </div>
-    <div class="col-75">
-      <textarea id="message" name="message" placeholder="Any feedback.." style="height:200px"></textarea>
-    </div>
-  </div>
-  <div class="row">
-    <input type="submit" value="Submit">
-  </div>
-  </form>
-</div>
-
-</body>
-</html>
+<li><a href="/services/consultancy">Consult</a></li>
+Consultancy services and solutions to retailers who need assistance in business transformation and digitalisation
+</p>
+<br>
+<i>*As an educational institution, NYP is committed to ensuring a safe and supportive campus and environment where there is respect and dignity for everyone. Accordingly, high standards of conduct are expected from all in our community. In case of any alleged offences committed within our premises, SIRS may report the matter to the security and/or relevant government agencies.</i>
