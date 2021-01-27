@@ -8,7 +8,7 @@ collection_name: about-us
 
 <img src="images/sirs-team-2019.jpg" style="width:100%;">
 
-<p>The SIRS family comprises a team of passionate, dynamic and fun professionals from a diverse set of backgrounds with rich retail, eCommerce and service experience. Our team members are our greatest asset; the knowledge and depth of experience they bring forth are our greatest strength. Each member is an expert in their respective domains in Product & Solutions, Marketing and Corporate Support. Bonded by a common mission, the SIRS family comes together to inspire and transform the retail industry with our uniqueness and infectious can-do spirit. Contact our industry frontline teams to discuss how we can support your enterprise and workforce capability development and grant-supported solutions.</p>
+<p>The SIRS family comprises a team of passionate, dynamic, and fun professionals from a diverse set of backgrounds with rich retail, eCommerce, and service experience. Our team members are our greatest asset; the knowledge and depth of experience they bring forth are our greatest strength. Each member is an expert in their respective domains in Product & Solutions, Marketing and Corporate Support. Bonded by a common mission, the SIRS family comes together to inspire and transform the retail industry with our uniqueness and infectious can-do spirit. Contact our industry frontline teams to discuss how we can support your enterprise and workforce capability development and grant-supported solutions.</p>
 
 <h3>Director's Office</h3>
 <p>For enquiries, please email to <a href="mailto:dir_office@sirs.edu.sg">dir_office@sirs.edu.sg</a></p>
@@ -53,7 +53,7 @@ collection_name: about-us
   </tr>
   <tr>
     <td>Ms Celeste Tan</td>
-    <td>Businss Development Executive</td>
+    <td>Business Development Executive</td>
   </tr>
   <tr>
     <td>Ms Lynda Cheong</td>
@@ -71,11 +71,15 @@ collection_name: about-us
   </tr>
   <tr>
     <td>Ms Angie Ng</td>
-    <td>Senior Manager (Head of Department)</td>
+    <td>Senior Manager</td>
   </tr>
   <tr>
     <td>Ms Grace Hausjah</td>
     <td>Senior Executive</td>
+  </tr>
+  <tr>
+    <td>Ms Wendy Leong</td>
+    <td>Business Development Executive</td>
   </tr>
   <tr>
     <td>Ms Jasminah Mohd Jali</td>
@@ -86,7 +90,11 @@ collection_name: about-us
     <td>Customer Relations Executive</td>
   </tr>
   <tr>
-    <td>Ms Wendy Leong</td>
-    <td>Business Development Executive</td>
+    <td>Ms Lynn Quek</td>
+    <td>Customer Relations Executive</td>
+  </tr>
+  <tr>
+    <td>Ms Jessica Goh</td>
+    <td>Customer Relations Executive</td>
   </tr>
 </table>
