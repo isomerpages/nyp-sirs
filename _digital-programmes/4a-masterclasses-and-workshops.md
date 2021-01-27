@@ -33,4 +33,5 @@ second_nav_title: "Masterclasses & Workshops"
   <li>Social Media Content Generation</li>
   <li>Social Media Crisis Management</li>
   <li>Tap Into the Power of Facebook Marketing</li>
+  <li>The Power of Social Media Marketing</li>
   </ul>
