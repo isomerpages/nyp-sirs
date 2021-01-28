@@ -51,11 +51,6 @@ payment, delivery, product tracking, returns, and customer support practices. Le
 <td>$19.36</td>
 </tr>
 
-<tr>
-  <td><a href="/services/consultancy/funding-and-support/workfare-training-support-scheme">Workfare Training Support (WTS)</a> recipient (95% funding)</td>
-<td>$18.46</td>
-</tr>
-
 </table>
 </center>
 
