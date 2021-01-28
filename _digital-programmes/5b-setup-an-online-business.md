@@ -6,7 +6,6 @@ breadcrumb: Set up an Online Business
 collection_name: digital-programmes
 second_nav_title: "E-Commerce Programmes"
 ---
-<a href="#" onclick="history.go(-1)">Back to previous page</a>
 
 <img src="images/e-commerce/set-up-an-online-business.png" style="width:100%;">
 
@@ -16,32 +15,32 @@ second_nav_title: "E-Commerce Programmes"
 
 <p>Join us, and kickstart your digital business today!</p>
 
-<h3 style="text-align:center;">Course Outline</h3>
+<h4>Outline</h4>
 <ul>  
-  <h4>1. Introduction to Online Business</h4>
+  <b>1. Introduction to Online Business</b>
   <li>Understand the types of online business</li>
   <li>Identify the factors to consider before starting an online business</li>
   <li>Discover the resources required to start an online business</li>
   <li>Identify the key functions of an online business</li>
   <li>Appreciate the online sales process</li>
  
-  <h4>2. Different Platforms for Online Business</h4>
+  <b>2. Different Platforms for Online Business</b>
   <li>Understand various types of online marketplaces and e-commerce site builders</li>
   <li>Learn about different kinds of social commerce</li>
  
-  <h4>3. Managing and Handling Customers</h4>
+  <b>3. Managing and Handling Customers</b>
   <li>Learn to handle logistics and fulfilment</li>
   <li>Identify customer service best practices</li>
   <li>How to provide after-sales services</li>
  
-  <h4>4. Practical Hands-on Session on Shopmatic</h4>
+  <b>4. Practical Hands-on Session on Shopmatic</b>
   <li>Set up your Shopmatic account</li>
   <li>Build your e-commerce website</li>
   <li>Listing your products</li>
   <li>Learn about fulfilment and payment options</li>
   </ul>
 
-<h3>Programme Fees</h3>
+<h4>Fees</h4>
 
 <center>
 <table style="width:100%;">
@@ -51,7 +50,7 @@ second_nav_title: "E-Commerce Programmes"
 </tr>
 
 <tr>
-<td>Full course fee</td>
+<td>Full fees</td>
 <td>$802.50</td>
 </tr>
 
@@ -70,19 +69,5 @@ second_nav_title: "E-Commerce Programmes"
 <td>$90.75</td>
 </tr>
 
-<tr>
-<td><a href="/services/consultancy/funding-and-support/workfare-training-support-scheme">Workfare Training Support (WTS)</a> recipient (95% funding)</td>
-<td>$53.25</td>
-</tr>
-
 </table>
 </center>
-
-<em><sup>1</sup>Additional funding under <a href="/services/consultancy/funding-and-support/mid-career-enhanced-subsidy">Mid-Career Enhanced Subsidy</a><br>
-<sup>2</sup>Fee is after reimbursement of S$150 via SkillsConnect under <a href="/services/consultancy/funding-and-support/skillsfuture-enhanced-training-support-for-smes">Enhanced Training Support for SMEs (ETSS)</a><br>
-Self-sponsored participants can utilise their <a href="/services/consultancy/funding-and-support/skillsfuture-credit">SkillsFuture Credit</a> to offset course fees<br>
-All fees inclusive of prevailing GST</em>
-
-<center><a href="https://form.gov.sg/#!/5e4a462056e8230011d5d3bb" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;" target="_blank">Request for Brochure</a></center>
-
- <P> <center><a href="https://form.gov.sg/#!/5d1b13d4d46125001149cc33" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;" target="_blank">Register Now</a></center>
