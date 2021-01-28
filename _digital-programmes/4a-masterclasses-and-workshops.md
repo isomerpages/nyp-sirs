@@ -23,7 +23,7 @@ second_nav_title: "Masterclasses & Workshops"
   <li><a href="/digital-programmes/masterclasses-and-workshops/digital-strategy-and-the-101-of-seo">Digital Strategy & the 101 of SEO</a></li>
   <li><a href="/digital-programmes/masterclasses-and-workshops/digital-commerce-visual">Digital Commerce Visual</a></li>
   <li><a href="/digital-programmes/masterclasses-and-workshops/ecommerce-fastrack">eCommerce Fastrack</a></li>
-  <li><a href=/digital-programmes/masterclasses-and-workshops/empower-your-business-with-social-commerce-and-digital-payment">Empower Your Business with Social Commerce & Digital Payment</a></li>
+  <li><a href="/digital-programmes/masterclasses-and-workshops/empower-your-business-with-social-commerce-and-digital-payment">Empower Your Business with Social Commerce & Digital Payment</a></li>
   <li><a href="/digital-programmes/masterclasses-and-workshops/google-analytics-for-e-commerce">Google Analytics for e-Commerce with GAIQ Certification</a></li>
   <li><a href="/digital-programmes/masterclasses-and-workshops/google-shopping-with-adwords-professional-certification">Google Shopping with AdWords Professional Certification</a></li>
   <li><a href="/digital-programmes/masterclasses-and-workshops/growing-your-brand-presence-with-wechat-marketing">Growing Your Brand Presence with WeChat Marketing</a></li>
