@@ -31,7 +31,7 @@ second_nav_title: "Masterclasses & Workshops"
   <li><a href="/digital-programmes/masterclasses-and-workshops/omni-commerce-retail">Omni-Commerce Retail</a></li>
   <li><a href="/digital-programmes/masterclasses-and-workshops/omni-commerce-visual">Omni-Commerce Visual</a></li>
   <li><a href="/digital-programmes/masterclasses-and-workshops/returns-on-social-media-marketing-investments">Returns on Social Media Marketing Investments</a></li>
-  <li>Social Media Content Generation</li>
+  <li><a href="/digital-programmes/masterclasses-and-workshops/social-media-content-generation">Social Media Content Generation</a></li>
   <li>Social Media Crisis Management</li>
   <li>Tap Into the Power of Facebook Marketing</li>
   <li>The Power of Social Media Marketing</li>
