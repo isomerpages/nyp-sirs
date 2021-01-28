@@ -6,7 +6,6 @@ breadcrumb: Fundamentals to Starting an Online Business
 collection_name: digital-programmes
 second_nav_title: "SkillsFuture Series"
 ---
-<a href="#" onclick="history.go(-1)">Back to previous page</a>
 
 <img src="images/sf-series-banner.png" style="width:100%;">
 
@@ -28,7 +27,7 @@ second_nav_title: "SkillsFuture Series"
   <li>How to select the right mode of e-commerce for your business</li>
   </ul>
 
-<h3>Course Fees</h3>
+<h3>Fees</h3>
 
 <center>
 <table style="width:100%;">
@@ -38,7 +37,7 @@ second_nav_title: "SkillsFuture Series"
 </tr>
 
 <tr>
-<td>Full Course Fees</td>
+<td>Full Fees</td>
 <td>$224.70</td>
 </tr>
 
@@ -57,19 +56,14 @@ second_nav_title: "SkillsFuture Series"
 <td>$25.41</td>
 </tr>
 
-<tr>
-  <td><a href="/services/consultancy/funding-and-support/workfare-training-support-scheme">Workfare Training Support (WTS)</a> recipient (95% funding)</td>
-<td>$14.91</td>
-</tr>
-
 </table>
 </center>
 
-<em><sup>1</sup>Additional funding under <a href="/services/consultancy/funding-and-support/mid-career-enhanced-subsidy">Mid-Career Enhanced Subsidy</a><br>
-<sup>2</sup>Fee is after reimbursement of S$42 via SkillsConnect under <a href="/services/consultancy/funding-and-support/skillsfuture-enhanced-training-support-for-smes">Enhanced Training Support for SMEs (ETSS)</a><br>
-Self-sponsored participants can utilise their <a href="/services/consultancy/funding-and-support/skillsfuture-credit">SkillsFuture Credit</a> to offset course fees<br>
-All fees inclusive of prevailing GST</em>
+<p>Learners may be also eligible for the following:</p>
 
-<center><a href="https://form.gov.sg/#!/5e4a462056e8230011d5d3bb" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;" target="_blank">Request for Brochure</a></center>
+<ul>
+<li>SkillsFuture Credit</li>
+<li>UTAP Funding (for NTUC members)</li>
+</ul>
 
-<center><a href="https://goo.gl/forms/Xt1wfX9RlTVVXpZ53" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;" target="_blank">Register Now</a></center>
+<p>For more information about funding and support, click <a href="/services/funding-and-advisory">here.</a></p>
