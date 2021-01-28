@@ -99,8 +99,6 @@ second_nav_title: "E-Commerce Programmes"
   <li>Improve your store conversion rate through Lazada sales and promotion tools</li>
   <li>Manage store and sales performance with Lazada Business Advisor</li>
  
-<h4>Day 1: 9am-6pm</h4>
-
 <ol>
     
 <li>Understand How to Use the Store Builder
