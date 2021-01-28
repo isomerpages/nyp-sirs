@@ -6,6 +6,7 @@ breadcrumb: WSQ Search Engine Optimisation (SEO)
 collection_name: digital-programmes
 second_nav_title: "Masterclasses & Workshops"
 ---
+<img src="Masterclasses&Workshops_SIRS_Banner.png" style="width:100%;">
 
 <p>The rise of digital mediums and innovation in technology have changed the way consumers behave, and thus influencing their purchase decisions. Ecommerce platforms, such as e-marketplaces, have also transformed with the increased competition. In this changing landscape, how can businesses leverage the digital mediums to stay competitive and relevant to market needs?
 
@@ -20,14 +21,14 @@ Understand the technical workings of SEO and apply them to businesses
 Formulate digital campaigns with measurable outcomes
 
 This is an introductory program that is suitable for
-Acquiring an overview of existing industry practices in digital marketing and SEO
-Looking to understand the change in consumer behaviour to adapt their business marketing plans
-Seeking clear direction to drive breakthrough marketing campaigns
+<li>Acquiring an overview of existing industry practices in digital marketing and SEO</li>
+<li>Understanding the change in consumer behaviour to adapt their business marketing plans</li>
+<li>Seeking clear direction to drive breakthrough marketing campaigns</li>
 </p>
 
 <h4>Trainer Profile</h4><br>
-<b>Jayden Ooi<br>
-Entrepreneur, Digital Strategist</b><br><br>
+<p><b>Jayden Ooi</b><br>
+  <em>Entrepreneur, Digital Strategist</em><br>
 
 Jayden has built a reputation of engineering cost effective and  sustainable solutions for companies, at a practical pace, in realistic stages. EzyBBQ successfully grew its sales 10 times over 24 months, and Shingawa Eye Centre, W Eye Clinic, Acuvue and  Essilor Singapore respectively experiencing quick turnaround results are all but proof of Jayden’s  excellent stewardship in digital strategy. A champion of thought leadership, Jayden’s entrepreneurial  capabilities have been recognised through grants and awards won at national and global tech  competitions.
 
@@ -64,6 +65,4 @@ He is the founding owner of a few start-ups and regular speaker at the Google (H
 </table>
 </center>
 
-<center><a href="https://form.gov.sg/#!/5e4a462056e8230011d5d3bb" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;" target="_blank">Request for Brochure</a></center>
-
-<center><a href="https://goo.gl/forms/kEI6opeWj0ud3BK82" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;" target="_blank">Register Now</a></center>
+<p>For more information about funding and support, click <a href="/services/funding-and-advisory">here.</a></p>
