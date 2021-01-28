@@ -46,3 +46,5 @@ Participants must bring their own smart devices such as smartphone, IPad, Samsun
 </center>
 
 <em>All fees inclusive of prevailing GST</em>
+
+<p>For more information about funding and support, click <a href="/services/funding-and-advisory">here.</a></p>
