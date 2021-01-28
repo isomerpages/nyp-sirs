@@ -17,8 +17,8 @@ second_nav_title: "E-Commerce Programmes"
 
 <h4>Outline</h4>
 
-<ul>  
-  <li>Introduction to Online Business</li>
+<ol>  
+  <li>Introduction to Online Business
     <ul>
     <li>Understand the types of online business</li>
     <li>Identify the factors to consider before starting an online business</li>
@@ -26,32 +26,33 @@ second_nav_title: "E-Commerce Programmes"
     <li>Identify the key functions of an online business</li>
     <li>Appreciate the online sales process</li>
     </ul>
-    <br>
+    </li>
   
-  <li>Different Platforms for Online Business</li>
+  <li>Different Platforms for Online Business
     <ul>
     <li>Understand various types of online marketplaces and e-commerce site builders</li>
     <li>Learn about different kinds of social commerce</li>
     </ul>
-    <br>
+    </li>
  
-  <li>Managing and Handling Customers</li>
+  <li>Managing and Handling Customers
     <ul>
     <li>Learn to handle logistics and fulfilment</li>
     <li>Identify customer service best practices</li>
     <li>How to provide after-sales services</li>
     </ul>
-    <br>
+    </li>
     
-  <li>Practical Hands-on Session on Shopmatic</li>
+  <li>Practical Hands-on Session on Shopmatic
     <ul>
     <li>Set up your Shopmatic account</li>
     <li>Build your e-commerce website</li>
     <li>Listing your products</li>
     <li>Learn about fulfilment and payment options</li>
     </ul>
+    </li>
 
-</ul>
+</ol>
 
 <h4>Fees</h4>
 
