@@ -15,9 +15,9 @@ second_nav_title: "WSQ Certification Programmes - Full Qualification"
  
 <p>This programme equips Retail Supervisors with critical skills to lead and drive customer-centric business excellence, product and service innovation coupled with an understanding of current and emerging retail technology to leverage these platforms in engaging and meeting the changing customer expectations and the new retail landscape.</p>
  
-<h3>Outline</h3>
+<h4>Outline</h4>
  
-<P><b>Lifelong Learning (24 hours)</b><br>
+<p><b>Lifelong Learning (24 hours)</b><br>
 Understand the effects and implications of change to ensure alignment of staff competencies in relation to the new workplace needs. Promote a corporate culture of lifelong learning to enable staff to stay relevant at the workplace and ensure the growth of the organisation.</p>
  
 <P><b>People and Relationship Management (24 hours)</b><br>
@@ -38,7 +38,7 @@ Driving innovative customer experience requires active listening to customers an
 <P><b>Productivity Improvement (18 hours)</b><br>
 Understand current trends in retail and how to use analytical tools to identify areas and key targets for productivity improvement in achieving organization goals. Using the ability to lead and drive workplace efficiency and effectiveness to help the workplace to bring about better customer experience leading to higher productivity outcome and better business results.</p>
  
-<b>Duration</b>
+<h4>Duration</h4>
 <p>The total duration of the programme is 5-8 months. Day or night classes are available.</p>
 
 <h4>Fees</h4>
@@ -51,7 +51,7 @@ Understand current trends in retail and how to use analytical tools to identify 
 </tr>
 
 <tr>
-<td>Full Qualification (6 modules) Course Fees</td>
+<td>Full Qualification (6 modules) Fees</td>
 <td>$4,410</td>
 </tr>
 
@@ -63,7 +63,7 @@ Understand current trends in retail and how to use analytical tools to identify 
 </table>
 </center>
 
-Participants are also eligible for the following:
+Learners may also be eligible for the following:
 
 <ul>
   <li><a href="/services/consultancy/funding-and-support/skillsfuture-credit">SkillsFuture Credit S$500</a><sup>2</sup></li>
@@ -76,13 +76,13 @@ Participants are also eligible for the following:
  
 <p>For more information about funding and support, click <a href="/services/funding-and-advisory">here.</a></p>
 
-<b>Entry Requirements</b>
+<h4>Entry Requirements</h4>
 <ol>
   <li>GCE 'O' level Credit (at least C6) in English and Mathematics or Workplace Literacy and Numeracy (WPLN) score: Level 5 for Reading, Listening and Numeracy; and</li>
   <li>With at least 2 years supervisory working experience in retail or 3 years supervisory/managerial working experience in non-retail sector</li>
 </ol>
  
-<b>Application</b>
+<h4>Application</h4>
 
 <p>To apply, please complete the online registration <a href="http://form.gov.sg/5d92ea7ece0ed40012a9db5f" target="_blank">here</a> and email to <a href="mailto:courses@sirs.edu.sg?subject=Registration for CRO" target="_blank">courses@sirs.edu.sg</a> with the following supporting documents:
 
@@ -90,9 +90,5 @@ Participants are also eligible for the following:
 <li>Highest educational certificate and/or Workplace Literacy and Numeracy (WPLN) results</li>
   <li>Resume listing all working experiences and job functions performed</li>
 </ol></p>
-
-<center><a href="https://form.gov.sg/#!/5e4a462056e8230011d5d3bb" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;" target="_blank">Request for Brochure</a></center>
-
-<center><a href="http://form.gov.sg/5d92ea7ece0ed40012a9db5f" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;" target="_blank">Register Now</a></center>
 
 <p><em>All applications will be evaluated to determine their suitability for admission into the programme. The outcome of all applications will be communicated to applicants before the start of the earliest available intake subjected to submission of the required supporting documents and the minimum enrolment to start a class.</em></p>
