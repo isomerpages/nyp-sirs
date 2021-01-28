@@ -6,15 +6,14 @@ breadcrumb: Qoo10 One Day Workshop
 collection_name: digital-programmes
 second_nav_title: "E-Commerce Programmes"
 ---
-<a href="#" onclick="history.go(-1)">Back to previous page</a>
 
 <img src="images/e-commerce/workshop-for-qoo10-sellers.png" style="width:100%;">
 
 <p>Are you ready to have products flying off your page? Learn the ropes of using Qoo10 Sales Manager to start your own e-store today and find out how you can sell across the borders with QuuBe! Discover the ways to multiply your sales in Singapore and beyond using Qoo10 marketing tools!</p>
 
-<h3 style="text-align:center;">Workshop 1: Getting Started on Qoo10 (Onboarding)</h3>
+<h4>Workshop 1: Getting Started on Qoo10 (Onboarding)</h4>
 
-<h4>Course Outline</h4>
+<h4>Outline</h4>
 <ul>
   <li>Introduction to Qoo10 and its position in the e-commerce world</li>
   <li>Introduction to the Qoo10 Sales Manager (QSM)</li>
@@ -35,9 +34,9 @@ second_nav_title: "E-Commerce Programmes"
   </li>
 </ul>
 
-<h3 style="text-align:center;">Workshop 2: Drive Sales Performance on Lazada (Marketing)</h3>
+<h4>Workshop 2: Drive Sales Performance on Lazada (Marketing)</h4>
 
-<h4>Course Outline</h4>
+<h4>Outline</h4>
 <ul>
   <li>Gain in-depth understanding of QSM and its functions</li>
   <li>Introduction to marketing and promotional tools in QSM</li>
@@ -51,7 +50,7 @@ second_nav_title: "E-Commerce Programmes"
   </li>
 </ul>
 
-<h3>Programme Fees</h3>
+<h4>Fees</h4>
 Fees are per workshop (onboarding OR marketing)
 
 <center>
@@ -81,19 +80,20 @@ Fees are per workshop (onboarding OR marketing)
 <td>$19.36</td>
 </tr>
 
-<tr>
-<td><a href="/services/consultancy/funding-and-support/workfare-training-support-scheme">Workfare Training Support (WTS)</a> recipient (95% funding)</td>
-<td>$11.36</td>
-</tr>
-
 </table>
 </center>
 
-<em><sup>1</sup>Additional funding under <a href="/services/consultancy/funding-and-support/mid-career-enhanced-subsidy">Mid-Career Enhanced Subsidy</a><br>
-<sup>2</sup>Fee is after reimbursement of S$32 via SkillsConnect under <a href="/services/consultancy/funding-and-support/skillsfuture-enhanced-training-support-for-smes">Enhanced Training Support for SMEs (ETSS)</a><br>
-Self-sponsored participants can utilise their <a href="/services/consultancy/funding-and-support/skillsfuture-credit">SkillsFuture Credit</a> to offset course fees<br>
-All fees inclusive of prevailing GST</em>
+<p>Learners may be also eligible for the following:</p>
 
-<center><a href="https://form.gov.sg/#!/5e4a462056e8230011d5d3bb" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;" target="_blank">Request for Brochure</a></center>
+<ul>
+<li>SkillsFuture Credit</li>
+<li>Workfare Skills Support (WSS) Scheme</li>
+<li>Enhanced Training Support for SMEs (ETSS) for Singapore Citizens and Singapore PRs</li>
+<li>Absentee Payroll
+  <ul>
+  <li>For all Singaporean & SPR</li>
+  <li>80% of basic hourly salary, capped at $7.50 per hour</li>
+  </ul>
+</ul>
 
- <P> <center><a href="https://www.form.gov.sg/#!/5ba3111a44c4a1000f184264" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;" target="_blank">Register Now</a></center>
+<p>For more information about funding and support, click <a href="/services/funding-and-advisory">here.</a></p>
