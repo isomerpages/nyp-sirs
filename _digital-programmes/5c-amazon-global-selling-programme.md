@@ -88,6 +88,5 @@ second_nav_title: "E-Commerce Programmes"
   <li>80% of basic hourly salary, capped at $7.50 per hour</li>
   </ul>
 </ul>
-</ul>
 
 <p>For more information about funding and support, click <a href="/services/funding-and-advisory">here.</a></p>
