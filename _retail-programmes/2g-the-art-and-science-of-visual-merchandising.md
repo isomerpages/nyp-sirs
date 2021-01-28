@@ -61,13 +61,13 @@ second_nav_title: "WSQ Certified Modular Programmes"
 
 <p>Learners may also be eligible for the following:</p>
 <ul>
-  <li>For self-sponsored participants
+  <li>For self-sponsored:
   <ol><li><a href="/services/consultancy/funding-and-support/skillsfuture-credit">SkillsFuture Credit S$500</a></li>
     <li>Training Commitment Award
       <ul><li>For recipients of the Workfare Income Supplement (WIS) Scheme</li>
         <li>Receive $200 for each Statement of Attainment within a year, capped at $400 per year</li>
       </ul></li></ol></li>
-  <li>For company-sponsored participants
+  <li>For company-sponsored:
     <ul><li><sup>1</sup>Absentee payroll</li></ul>
   </li>
   </ul>
