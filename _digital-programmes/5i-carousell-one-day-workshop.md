@@ -1,12 +1,11 @@
 ---
-layout: 
+layout: leftnav-page-content
 title: Carousell One Day Workshop
-permalink: 
+permalink: /digital-programmes/e-commerce-programmes/carousell-one-day-workshop
 breadcrumb: Carousell One Day Workshop
 collection_name: digital-programmes
-second_nav_title: 
+second_nav_title: "E-Commerce Programmes"
 ---
-<a href="#" onclick="history.go(-1)">Back to previous page</a>
 
 <img src="images/e-commerce/one-day-workshop-for-carousell-sellers.png" style="width:100%;">
 
@@ -35,7 +34,7 @@ second_nav_title:
 <li>了解消费者和企业如何使用社交媒体进行购买决策</li>
 </ul>
 
-<h3>Programme Fees</h3>
+<h4>Fees</h4>
 Fees are per workshop (onboarding OR marketing)
 
 <center>
@@ -46,7 +45,7 @@ Fees are per workshop (onboarding OR marketing)
 </tr>
 
 <tr>
-<td>Full course fee</td>
+<td>Full fees</td>
 <td>$535.00</td>
 </tr>
 
@@ -73,11 +72,4 @@ Fees are per workshop (onboarding OR marketing)
 </table>
 </center>
 
-<em><sup>1</sup>Additional funding under <a href="/services/consultancy/funding-and-support/mid-career-enhanced-subsidy">Mid-Career Enhanced Subsidy</a><br>
-<sup>2</sup>Fee is after reimbursement of S$32 via SkillsConnect under <a href="/services/consultancy/funding-and-support/skillsfuture-enhanced-training-support-for-smes">Enhanced Training Support for SMEs (ETSS)</a><br>
-Self-sponsored participants can utilise their <a href="/services/consultancy/funding-and-support/skillsfuture-credit">SkillsFuture Credit</a> to offset course fees<br>
-All fees inclusive of prevailing GST</em>
-
-<center><a href="https://form.gov.sg/#!/5e4a462056e8230011d5d3bb" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;" target="_blank">Request for Brochure</a></center>
-
- <P> <center><a href="https://forms.gle/SYjnHVxJfCChQckA7" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;" target="_blank">Register Now</a></center>
+<p>For more information about funding and support, click <a href="/services/funding-and-advisory">here.</a></p>
