@@ -7,7 +7,7 @@ collection_name: digital-programmes
 second_nav_title: "Masterclasses & Workshops"
 ---
 
-<img src="images/digital-masterclasses/increase-business-revenue-through-seo.jpg" style="width:100%;">
+<img src="Masterclasses&Workshops_SIRS_Banner.png" style="width:100%;">
 
 <p>The rise of digital mediums and innovation in technology have changed the way consumers behave, and thus influencing their purchase decisions. E-commerce platforms, such as e-marketplaces, have also transformed with the increased competition. In this changing landscape, how can businesses leverage the digital mediums to stay competitive and relevant to market needs?</p>
 
@@ -58,19 +58,32 @@ Jayden is the founding partner of 2 service companies, Ambient (Software Develop
 <td>$90.75</td>
 </tr>
 
-<tr>
-<td><a href="/services/consultancy/funding-and-support/workfare-training-support-scheme">Workfare Training Support (WTS)</a> recipient (95% funding)</td>
-<td>$53.25</td>
-</tr>
-
 </table>
 </center>
 
-<em><sup>1</sup>Additional funding under <a href="/services/consultancy/funding-and-support/mid-career-enhanced-subsidy">Mid-Career Enhanced Subsidy</a><br>
-<sup>2</sup>Fee is after reimbursement of S$150 via SkillsConnect under <a href="/services/consultancy/funding-and-support/skillsfuture-enhanced-training-support-for-smes">Enhanced Training Support for SMEs (ETSS)</a><br>
-Self-sponsored participants can utilise their <a href="/services/consultancy/funding-and-support/skillsfuture-credit">SkillsFuture Credit</a> to offset course fees<br>
-All fees inclusive of prevailing GST</em>
+<p>Learners may be also eligible for the following:</p>
 
-<center><a href="https://form.gov.sg/#!/5e4a462056e8230011d5d3bb" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;" target="_blank">Request for Brochure</a></center>
+<ul>
+<li>Absentee Payroll
+  <ul>
+  <li>For all Singaporean & SPR</li>
+  <li>80% of basic hourly salary, capped at $7.50 per hour</li>
+  </ul>
+</ul>
 
- <P> <center><a href="https://form.gov.sg/5d9d3f30a8b1b30012143f58" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;" target="_blank">Register Now</a></center>
+<ul>
+<li>Workfare Skills Support (WSS) Scheme</li>
+  <ul>
+  <li>Absentee Payroll: Up to 95% of hourly basic salary</li>
+  </ul>
+</ul>
+
+<ul>
+<li>SkillsFuture Credit</li>
+  <ul>
+  <li>For Singapore Citizens aged 25 and above</li>
+  <li>Offset course fee payable after funding</li>
+  </ul>
+</ul>
+
+<p>For more information about funding and support, click <a href="/services/funding-and-advisory">here.</a></p>
