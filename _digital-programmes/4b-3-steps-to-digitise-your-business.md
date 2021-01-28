@@ -35,8 +35,8 @@ call centre, click and collect set ups, big and micro data analysis, etc</li>
 </ul>
 
 <h4>Trainer Profile</h4>
-<b>David Lee<br>
-Digital Commerce Lead</b>
+<p><b>David Lee</b><br>
+  <em>Digital Commerce Lead</em><br>
 
 
 <p>David has over 20 years of experience in digitizing the retail industry, covering all
