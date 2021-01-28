@@ -11,7 +11,7 @@ second_nav_title: "WSQ Certification Programmes - Full Qualification"
 
 <p>Retail industry has seen significant changes the past few years with digitisation taking place inn the everyday life of today's connected consumer. While online shopping continues to increase, the demand for the physical store will remain relevant especially for goods that require touch and feel. This derived the concept of 'New Retail', the integration of offline and online platforms with the use of data technology to deliver experience-focused service standards to meet the needs of consumers today. Store Manager are highly valued for their ability to optimize technology advancement to drive day-to-day operations and make data-based decisions.</p>
 
-<p>Whether you are interested in honing yourself with 21st century leadership skills to lead your staff or upskilling yourself to manage today's Online Merge Offline world of retailing, the latest WSQ Diploma in Retail (Operatioins) will be the best investment you can offer to yourself.</p>
+<p>Whether you are interested in honing yourself with 21st century leadership skills to lead your staff or upskilling yourself to manage today's Online Merge Offline world of retailing, the latest WSQ Diploma in Retail (Operations) will be the best investment you can offer to yourself.</p>
 
 <p>This programme equips you with skills and knowledge create and implement customer-centric business excellence and drive service innovation. You will evaluate current and emerging retail trends and leverage technology to engage and meet the changing customer expectations and retail landscape.</p>
  
