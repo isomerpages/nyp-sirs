@@ -72,11 +72,6 @@ and organizational skills with proven abilities in people management and trainin
 <td>$90.75</td>
 </tr>
 
-<tr>
-<td><a href="/services/consultancy/funding-and-support/workfare-training-support-scheme">Workfare Training Support (WTS)</a> recipient (95% funding)</td>
-<td>$53.25</td>
-</tr>
-
 </table>
 </center>
 
@@ -86,20 +81,19 @@ and organizational skills with proven abilities in people management and trainin
   <ul>
   <li>For all Singaporean & SPR</li>
   <li>80% of basic hourly salary, capped at $7.50 per hour</li>
-  </ul>
 </ul>
+
 <ul>
 <li>Workfare Skills Support (WSS) Scheme</li>
   <ul>
   <li>Absentee Payroll: Up to 95% of hourly basic salary</li>
   </ul>
-</ul>
+
 <ul>
 <li>SkillsFuture Credit</li>
   <ul>
   <li>For Singapore Citizens aged 25 and above</li>
   <li>Offset course fee payable after funding</li>
   </ul>
-</ul>
 
 <p>For more information about funding and support, click <a href="/services/funding-and-advisory">here.</a></p>
