@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Be a Tech-Savvy Senior
+title: E-Entertainment
 permalink: /digital-programmes/national-silver-academy/be-a-tech-savvy-senior
-breadcrumb: Be a Tech-Savvy Senior
+breadcrumb: E-Entertainment
 collection_name: digital-programmes
 second_nav_title: National Silver Academy
 ---
