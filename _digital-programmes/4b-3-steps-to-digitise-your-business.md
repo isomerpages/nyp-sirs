@@ -105,6 +105,5 @@ BenQ SEA, and had held key roles in Hewlett Packard-APJ and Motorola-APJ.</p>
   <li>Offset course fee payable after funding</li>
   </ul>
 </ul>
-</em>
 
 <p>For more information about funding and support, click <a href="/services/funding-and-advisory">here.</a></p>
