@@ -45,7 +45,7 @@ SIRS works with market leaders to develop cutting edge solutions and training pr
 
 <b>SCash & NETS</b>
 <ul>
-<li>SCash NETS Smart Retail Solution</li>
+<li><a href="/digital-programmes/e-commerce-programmes/scash-nets-smart-retail-solution">SCash NETS Smart Retail Solution</a></li>
 </ul>
 
 <b>Shopee</b>
