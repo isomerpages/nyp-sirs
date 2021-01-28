@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: 3 Steps to Digitise Your Business
-permalink: /digital-programmes/masterclasses-and-workshops/3-steps-to-digitise-your-business
-breadcrumb: 3 Steps to Digitise Your Business
+title: Category Management
+permalink: /digital-programmes/masterclasses-and-workshops/category-management
+breadcrumb: Category Management
 collection_name: digital-programmes
 second_nav_title: "Masterclasses & Workshops"
 ---
