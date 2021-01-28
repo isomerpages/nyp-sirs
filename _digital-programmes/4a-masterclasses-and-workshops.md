@@ -18,7 +18,7 @@ second_nav_title: "Masterclasses & Workshops"
   <li><a href="/digital-programmes/masterclasses-and-workshops/amazon-web-services-business-essentials">Amazon Web Services Business Essentials</a></li>
   <li><a href="/digital-programmes/masterclasses-and-workshops/category-management">Category Management: The Key to Business Growth</a></li>
   <li><a href="/digital-programmes/masterclasses-and-workshops/change-management-in-a-digitally-enabled-world">Change Management in a Digitally Enabled World</a></li>
-  <li>Content Creation 101</li>
+  <li><a href="/digital-programmes/masterclasses-and-workshops/content-creation-101">Content Creation 101</a></li>
   <li>Developing Social Media Advocacy</li>
   <li><a href="/digital-programmes/masterclasses-and-workshops/digital-strategy-and-the-101-of-seo">Digital Strategy & the 101 of SEO</a></li>
   <li><a href="/digital-programmes/masterclasses-and-workshops/digital-commerce-visual">Digital Commerce Visual</a></li>
