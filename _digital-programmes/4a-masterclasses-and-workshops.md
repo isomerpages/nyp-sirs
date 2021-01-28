@@ -16,6 +16,7 @@ second_nav_title: "Masterclasses & Workshops"
 <ul>
   <li><a href="/digital-programmes/masterclasses-and-workshops/3-steps-to-digitise-your-business">3 Steps to Digitise Your Business</a></li>
   <li><a href="/digital-programmes/masterclasses-and-workshops/amazon-web-services-business-essentials">Amazon Web Services Business Essentials</a></li>
+  <li><a href="/digital-programmes/masterclasses-and-workshops/brand-advocacy-through-social-media">Brand Advocacy through Social Media</a></li>
   <li><a href="/digital-programmes/masterclasses-and-workshops/category-management">Category Management: The Key to Business Growth</a></li>
   <li><a href="/digital-programmes/masterclasses-and-workshops/change-management-in-a-digitally-enabled-world">Change Management in a Digitally Enabled World</a></li>
   <li><a href="/digital-programmes/masterclasses-and-workshops/content-creation-101">Content Creation 101</a></li>
