@@ -6,7 +6,6 @@ breadcrumb: Overview
 collection_name: digital-programmes
 second_nav_title: National Silver Academy
 ---
-<a href="#" onclick="history.go(-1)">Back to previous page</a>
 
 <img src="images/national-silver-academy.jpg" style="width:100%;">
 
@@ -15,8 +14,7 @@ second_nav_title: National Silver Academy
 <p>As a provider of NSA courses under NYP, SIRS offers the following programmes:
   
   <ul>
-  <li><a href="/digital-programmes/national-silver-academy/using-your-phone-smartly-android">Use Your Phone Smartly (Android)</a></li>
-  <li><a href="/digital-programmes/national-silver-academy/selling-online">Selling Online</a></li>
+  <li><a href="/digital-programmes/national-silver-academy/carousell-selling-online">Carousell Selling Online</a></li>
   <li><a href="/digital-programmes/national-silver-academy/e-Communications-Whatsapp">e-Communications (Whatsapp)</a></li>
   </ul>
 
