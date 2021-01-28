@@ -26,6 +26,6 @@ second_nav_title: "Career Services"
 
 <div style="width:50%;float:left;"><center><a href="brochures/elp/20190801_ELP_ITE.pdf" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">For ITE Graduates</a></center></div>
 
-<div style="width:50%;float:left;"><center><a href="brochures/elp/20190801_ELP_Poly.pdf" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">For Pollytechnic Graduates</a></center></div>
+<div style="width:50%;float:left;"><center><a href="brochures/elp/20190801_ELP_Poly.pdf" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">For Polytechnic Graduates</a></center></div>
 
 <img src="images/elp/elp-testimonial.jpg" style="width:100%;">
