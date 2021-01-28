@@ -20,6 +20,7 @@ second_nav_title: "Masterclasses & Workshops"
   <li><a href="/digital-programmes/masterclasses-and-workshops/category-management">Category Management: The Key to Business Growth</a></li>
   <li><a href="/digital-programmes/masterclasses-and-workshops/change-management-in-a-digitally-enabled-world">Change Management in a Digitally Enabled World</a></li>
   <li><a href="/digital-programmes/masterclasses-and-workshops/content-creation-101">Content Creation 101</a></li>
+  <li><a href="/digital-programmes/masterclasses-and-workshops/data-driven-sales-approach">Data-Driven Sales Approach</a></li>
   <li><a href="/digital-programmes/masterclasses-and-workshops/developing-social-media-advocacy">Developing Social Media Advocacy</a></li>
   <li><a href="/digital-programmes/masterclasses-and-workshops/digital-strategy-and-the-101-of-seo">Digital Strategy & the 101 of SEO</a></li>
   <li><a href="/digital-programmes/masterclasses-and-workshops/digital-commerce-visual">Digital Commerce Visual</a></li>
