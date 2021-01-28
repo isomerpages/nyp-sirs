@@ -109,7 +109,7 @@ second_nav_title: "E-Commerce Programmes"
 <li>Identify target SKUs to maximize sales</li>
 
 
-<h3>Programme Fees</h3>
+<h4>Fees</h4>
 Fees are per workshop (onboarding OR marketing)
 
 <center>
@@ -137,11 +137,6 @@ Fees are per workshop (onboarding OR marketing)
 <tr>
   <td>Singapore Citizen/SPR sponsored by SMEs<sup>2</sup> (90% funding)</td>
 <td>$19.36</td>
-</tr>
-
-<tr>
-<td><a href="/services/consultancy/funding-and-support/workfare-training-support-scheme">Workfare Training Support (WTS)</a> recipient (95% funding)</td>
-<td>$11.36</td>
 </tr>
 
 </table>
