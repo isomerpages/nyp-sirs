@@ -33,9 +33,8 @@ profitability improvements and customer satisfaction level.
 </ul>
 
 <h4>Trainer Profile</h4>
-<b>Clarence Chew<br>
-Partner, Queen Consulting Group</b>
-
+<p><b>Clarence Chew</b><br>
+  <em>Partner, Queen Consulting Group</em><br>
 
 <p>Clarence Chew is currently a Partner at Queen Consulting Group. He has significant
 experience in market entry, technology and business growth. Clarence’s career highlights
