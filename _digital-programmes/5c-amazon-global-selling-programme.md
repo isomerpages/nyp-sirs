@@ -6,7 +6,6 @@ breadcrumb: Amazon Global Selling Programme
 collection_name: digital-programmes
 second_nav_title: "E-Commerce Programmes"
 ---
-<a href="#" onclick="history.go(-1)">Back to previous page</a>
 
 <img src="images/e-commerce/amazon-global-selling-programme.png" style="width:100%;">
 
@@ -14,29 +13,38 @@ second_nav_title: "E-Commerce Programmes"
 
 <p>Join us on this one-day onboarding programme, where you will learn how you can start selling to your international clientele with ease.</p>
 
-<h3 style="text-align:center;">Course Outline</h3>
+<h4>Outline</h4>
 <ul>
-  <h4>1. Introduction to Amazon Global Selling</h4>
+  <li>Introduction to Amazon Global Selling</li>
+  <ul>
   <li>Understand Amazon and the e-Marketplace ecosystem in the USA</li>
   <li>Appreciate the Fulfilment by Amazon (FBA) process – how your products are shipped and delivered to customers in North America</li>
   <li>Identify the 4 components of managing an online business and the magic formulas to succeeding on Amazon</li>
   <li>Learn to choose the right product categories for your goods</li>
- 
-  <h4>2. Practical Hands-on Session</h4>
-  <li>Register for an Amazon seller account</li>
-            <ul>√ Registration process and requirements</ul>
-            <ul>√ Seller identity verification</ul>
-  <li>Create product listings</li>
-            <ul>√ Category approval process</ul>
-            <ul>√ Barcode/Global Trade Item Number (GTIN) exemption</ul>
- 
-  <h4>3. Fulfilment by Amazon (FBA)</h4>
-  <li>Discover the benefits of FBA compared to merchant shipping and how much it costs</li>
-  <li>Understand the FBA shipment creation workflow</li>
-  <li>Learn how to optimise packaging and labelling, and FBA product restrictions</li>
   </ul>
+ 
+  <li>Practical Hands-on Session</li>
+  <ul>
+  <li>Register for an Amazon seller account</li>
+      <ul>
+            <li>√ Registration process and requirements</li>
+            <li>√ Seller identity verification</li>
+      </ul>
+  <li>Create product listings</li>
+            <li>√ Category approval process</li>
+            <li>√ Barcode/Global Trade Item Number (GTIN) exemption</li>
+      </ul>
+  </ul>
+ 
+  <li>Fulfilment by Amazon (FBA)</li>
+      <ul>
+            <li>Discover the benefits of FBA compared to merchant shipping and how much it costs</li>
+            <li>Understand the FBA shipment creation workflow</li>
+            <li>Learn how to optimise packaging and labelling, and FBA product restrictions</li>
+      </ul>
+</ul>
 
-<h3>Programme Fees</h3>
+<h4>Fees</h4>
 
 <center>
 <table style="width:100%;">
@@ -65,19 +73,31 @@ second_nav_title: "E-Commerce Programmes"
 <td>$19.36</td>
 </tr>
 
-<tr>
-<td><a href="/services/consultancy/funding-and-support/workfare-training-support-scheme">Workfare Training Support (WTS)</a> recipient (95% funding)</td>
-<td>$11.36</td>
-</tr>
-
 </table>
 </center>
 
-<em><sup>1</sup>Additional funding under <a href="/services/consultancy/funding-and-support/mid-career-enhanced-subsidy">Mid-Career Enhanced Subsidy</a><br>
-<sup>2</sup>Fee is after reimbursement of S$32 via SkillsConnect under <a href="/services/consultancy/funding-and-support/skillsfuture-enhanced-training-support-for-smes">Enhanced Training Support for SMEs (ETSS)</a><br>
-Self-sponsored participants can utilise their <a href="/services/consultancy/funding-and-support/skillsfuture-credit">SkillsFuture Credit</a> to offset course fees<br>
-All fees inclusive of prevailing GST</em>
+<p>Learners may be also eligible for the following:</p>
 
-<center><a href="https://form.gov.sg/#!/5e4a462056e8230011d5d3bb" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;" target="_blank">Request for Brochure</a></center>
+<ul>
+<li>Absentee Payroll
+  <ul>
+  <li>For all Singaporean & SPR</li>
+  <li>80% of basic hourly salary, capped at $7.50 per hour</li>
+  </ul>
+</ul>
 
- <P> <center><a href="https://forms.gle/AvJYUktmk16oy6XY8" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;" target="_blank">Register Now</a></center>
+<ul>
+<li>Workfare Skills Support (WSS) Scheme</li>
+  <ul>
+  <li>Absentee Payroll: Up to 95% of hourly basic salary</li>
+  </ul>
+</ul>
+
+<ul>
+<li>SkillsFuture Credit</li>
+<li>Workfare Skills Support (WSS) Scheme</li>
+<li>Enhanced Training Support for SMEs (ETSS) for Singapore Citizens and Singapore PRs</li>
+<li>Absentee Payroll: 80% of basic hourly salary, capped at $7.50 per trainee-hour</li>
+</ul>
+
+<p>For more information about funding and support, click <a href="/services/funding-and-advisory">here.</a></p>
