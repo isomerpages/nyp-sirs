@@ -39,22 +39,22 @@ referrals and business opportunities.</p>
 
 <tr>
 <td>Full fees</td>
-<td>$802.50</td>
+<td>$535.00</td>
 </tr>
 
 <tr>
 <td>Singapore Citizen/Singapore PR (SPR) (70% funding)</td>
-<td>$240.75</td>
+<td>$160.50</td>
 </tr>
 
 <tr>
 <td>Singapore Citizen 40 years & above<sup>1</sup> (90% funding)</td>
-<td>$90.75</td>
+<td>$60.50</td>
 </tr>
 
 <tr>
   <td>Singapore Citizen/SPR sponsored by SMEs<sup>2</sup> (90% funding)</td>
-<td>$90.75</td>
+<td>$60.50</td>
 </tr>
 
 </table>
