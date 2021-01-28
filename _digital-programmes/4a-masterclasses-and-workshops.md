@@ -34,5 +34,6 @@ second_nav_title: "Masterclasses & Workshops"
   <li><a href="/digital-programmes/masterclasses-and-workshops/social-media-content-generation">Social Media Content Generation</a></li>
   <li><a href="/digital-programmes/masterclasses-and-workshops/social-media-crisis-management">Social Media Crisis Management</a></li>
   <li><a href="/digital-programmes/masterclasses-and-workshops/tap-into-the-power-of-facebook-marketing">Tap Into the Power of Facebook Marketing</a></li>
-  <li>The Power of Social Media Marketing</li>
+  <li><a href="/digital-programmes/masterclasses-and-workshops/the-power-of-social-media-marketing">The Power of Social Media Marketing</a></li>
+  <li><a href="/digital-programmes/masterclasses-and-workshops/wsq-search-engine-optimisation">WSQ Search Engine Optimisation (SEO)</a></li>
   </ul>
