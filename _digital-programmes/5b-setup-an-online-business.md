@@ -16,29 +16,38 @@ second_nav_title: "E-Commerce Programmes"
 <p>Join us, and kickstart your digital business today!</p>
 
 <h4>Outline</h4>
+
 <ul>  
-  <b>1. Introduction to Online Business</b>
-  <li>Understand the types of online business</li>
-  <li>Identify the factors to consider before starting an online business</li>
-  <li>Discover the resources required to start an online business</li>
-  <li>Identify the key functions of an online business</li>
-  <li>Appreciate the online sales process</li>
+  <li>1. Introduction to Online Business</li>
+    <ul>
+    <li>Understand the types of online business</li>
+    <li>Identify the factors to consider before starting an online business</li>
+    <li>Discover the resources required to start an online business</li>
+    <li>Identify the key functions of an online business</li>
+    <li>Appreciate the online sales process</li>
+    </ul>
  
-  <b>2. Different Platforms for Online Business</b>
-  <li>Understand various types of online marketplaces and e-commerce site builders</li>
-  <li>Learn about different kinds of social commerce</li>
+  <li>2. Different Platforms for Online Business</li>
+    <ul>
+    <li>Understand various types of online marketplaces and e-commerce site builders</li>
+    <li>Learn about different kinds of social commerce</li>
+    </ul>
  
-  <b>3. Managing and Handling Customers</b>
-  <li>Learn to handle logistics and fulfilment</li>
-  <li>Identify customer service best practices</li>
-  <li>How to provide after-sales services</li>
+  <li>3. Managing and Handling Customers</li>
+    <ul>
+    <li>Learn to handle logistics and fulfilment</li>
+    <li>Identify customer service best practices</li>
+    <li>How to provide after-sales services</li>
+    </ul>
  
-  <b>4. Practical Hands-on Session on Shopmatic</b>
-  <li>Set up your Shopmatic account</li>
-  <li>Build your e-commerce website</li>
-  <li>Listing your products</li>
-  <li>Learn about fulfilment and payment options</li>
-  </ul>
+  <li>4. Practical Hands-on Session on Shopmatic</li>
+    <ul>
+    <li>Set up your Shopmatic account</li>
+    <li>Build your e-commerce website</li>
+    <li>Listing your products</li>
+    <li>Learn about fulfilment and payment options</li>
+    </ul>
+</ul>
 
 <h4>Fees</h4>
 
@@ -71,3 +80,5 @@ second_nav_title: "E-Commerce Programmes"
 
 </table>
 </center>
+
+<p>For more information about funding and support, click <a href="/services/funding-and-advisory">here.</a></p>
