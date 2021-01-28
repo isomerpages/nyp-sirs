@@ -37,7 +37,6 @@ second_nav_title: "E-Commerce Programmes"
   <li>Understand Lazada Seller Centre app and seller support</li>
   <li>Fundamentals to successful selling on Lazada</li>
 <br>
-<br>
 
 <ol>
 
@@ -99,6 +98,7 @@ second_nav_title: "E-Commerce Programmes"
   <li>Understand what Lazada Campaigns are, how to join them to increase your brand exposure</li>
   <li>Improve your store conversion rate through Lazada sales and promotion tools</li>
   <li>Manage store and sales performance with Lazada Business Advisor</li>
+ <br>
  
 <ol>
     
