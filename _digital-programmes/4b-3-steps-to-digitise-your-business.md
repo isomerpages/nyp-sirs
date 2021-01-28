@@ -88,14 +88,12 @@ BenQ SEA, and had held key roles in Hewlett Packard-APJ and Motorola-APJ.</p>
   </ul>
 </ul>
 
-
 <ul>
 <li>Workfare Skills Support (WSS) Scheme</li>
   <ul>
   <li>Absentee Payroll: Up to 95% of hourly basic salary</li>
   </ul>
 </ul>
-
 
 <ul>
 <li>SkillsFuture Credit</li>
