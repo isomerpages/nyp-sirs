@@ -30,8 +30,8 @@ cycle, cost management, and contracts while minimizing risks associated with con
 </ul>
 
 <h3>Trainer Profile</h3>
-<b>Roney Joesph P.<br>
-Senior Technical Trainer, Amazon Web Services</b>
+<p><b>Roney Joseph P.</b><br>
+  <em>Senior Technical Trainer, Amazon Web Services</em><br>
 
 <p>Roney has over 20 years of experience in the field of Information Technology and
 over 10 years of technical training experience globally for both corporate and
