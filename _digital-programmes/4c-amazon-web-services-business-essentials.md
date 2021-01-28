@@ -81,6 +81,7 @@ and organizational skills with proven abilities in people management and trainin
   <ul>
   <li>For all Singaporean & SPR</li>
   <li>80% of basic hourly salary, capped at $7.50 per hour</li>
+  </ul>
 </ul>
 
 <ul>
@@ -88,6 +89,7 @@ and organizational skills with proven abilities in people management and trainin
   <ul>
   <li>Absentee Payroll: Up to 95% of hourly basic salary</li>
   </ul>
+</ul>
 
 <ul>
 <li>SkillsFuture Credit</li>
@@ -95,5 +97,6 @@ and organizational skills with proven abilities in people management and trainin
   <li>For Singapore Citizens aged 25 and above</li>
   <li>Offset course fee payable after funding</li>
   </ul>
+</ul>
 
 <p>For more information about funding and support, click <a href="/services/funding-and-advisory">here.</a></p>
