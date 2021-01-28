@@ -21,8 +21,8 @@ of seniors and step-by-step guidance will be provided.</p>
   <ul>
   <li><a href="/digital-programmes/national-silver-academy/carousell-selling-online">Carousell Selling Online</a></li>
   <li><a href="/digital-programmes/national-silver-academy/e-entertainment">E-Entertainment</a></li>
-  <li><a href="/digital-programmes/national-silver-academy/google-photos">Google Photos</a></li>
   <li><a href="/digital-programmes/national-silver-academy/facebook">Facebook</a></li>
+  <li><a href="/digital-programmes/national-silver-academy/google-photos">Google Photos</a></li>
   <li><a href="/digital-programmes/national-silver-academy/navigating-around-singapore">Navigating Around Singapore</a></li>
   <li><a href="/digital-programmes/national-silver-academy/using-whatsapp">Using Whatsapp</a></li>
   </ul>
