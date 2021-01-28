@@ -35,9 +35,8 @@ offline and online channels</li>
 </ul>
 
 <h4>Trainer Profile</h4>
-<b>Chen Ing Hui<br>
-Director, IngSights Consulting Services</b>
-
+<p><b>Chen Ing Hui</b><br>
+  <em>Director, IngSights Consulting Services</em><br>
 
 <p>Ing Hui is the founder and director of IngSights Consulting Services Pte Ltd. She has
 more than 25 years of experience working alongside some of the top global retailers,
