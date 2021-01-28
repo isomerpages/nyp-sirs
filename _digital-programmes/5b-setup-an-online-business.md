@@ -26,12 +26,14 @@ second_nav_title: "E-Commerce Programmes"
     <li>Identify the key functions of an online business</li>
     <li>Appreciate the online sales process</li>
     </ul>
- 
+    <br>
+  
   <li>Different Platforms for Online Business</li>
     <ul>
     <li>Understand various types of online marketplaces and e-commerce site builders</li>
     <li>Learn about different kinds of social commerce</li>
     </ul>
+    <br>
  
   <li>Managing and Handling Customers</li>
     <ul>
@@ -39,7 +41,8 @@ second_nav_title: "E-Commerce Programmes"
     <li>Identify customer service best practices</li>
     <li>How to provide after-sales services</li>
     </ul>
- 
+    <br>
+    
   <li>Practical Hands-on Session on Shopmatic</li>
     <ul>
     <li>Set up your Shopmatic account</li>
@@ -47,6 +50,7 @@ second_nav_title: "E-Commerce Programmes"
     <li>Listing your products</li>
     <li>Learn about fulfilment and payment options</li>
     </ul>
+
 </ul>
 
 <h4>Fees</h4>
