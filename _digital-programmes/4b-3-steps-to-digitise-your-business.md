@@ -85,6 +85,7 @@ BenQ SEA, and had held key roles in Hewlett Packard-APJ and Motorola-APJ.</p>
 </center>
 
 <p>Learners may be also eligible for the following:</p>
+
 <ul>
 <li>Absentee Payroll
   <ul>
@@ -92,12 +93,14 @@ BenQ SEA, and had held key roles in Hewlett Packard-APJ and Motorola-APJ.</p>
   <li>80% of basic hourly salary, capped at $7.50 per hour</li>
   </ul>
 </ul>
+
 <ul>
 <li>Workfare Skills Support (WSS) Scheme</li>
   <ul>
   <li>Absentee Payroll: Up to 95% of hourly basic salary</li>
   </ul>
 </ul>
+
 <ul>
 <li>SkillsFuture Credit</li>
   <ul>
