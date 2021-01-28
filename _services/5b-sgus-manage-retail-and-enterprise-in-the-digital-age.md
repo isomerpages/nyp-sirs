@@ -9,9 +9,16 @@ second_nav_title: "SGUnited Skills (SGUS) Programmes"
 
 <h4>SGUS Programme in Digital & Leadership Skills to Excel in the Future of Retail & Business</h4>
 
-<h4>Next Intakes:
-8 Jan 2021
-</h4>
+<h4 style="text-align:center;">Next intake:</h4>
+
+<center><table style="width:80%;">
+    <tr style="text-align:center;">
+      <th style="text-align:center;width:50%;">Intake</th>
+    </tr>
+    <tr style="text-align:center;">
+      <td style="text-align:center;width:50%;">To be confirmed</td>
+    </tr>
+</table></center>
 
 <p>Digitisation has impacted the business environment, evolving into one high-tech global environment that is changing every minute. Connectivity amongst people 
 has also reshaped our channels of communication and influenced our perception on what communication encompasses. Adopting mindsets of agility and responsiveness 
