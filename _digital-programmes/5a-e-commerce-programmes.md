@@ -6,9 +6,8 @@ breadcrumb: Overview
 collection_name: digital-programmes
 second_nav_title: "E-Commerce Programmes"
 ---
-<a href="#" onclick="history.go(-1)">Back to previous page</a>
 
-<h3>Increase Your Business Revenue with Digital Commerce</h3>
+<h4>Increase Your Business Revenue with Digital Commerce</h4>
 
 <p>Starting your own business has never been easier. Technological and digital advancement has given easy access to consumers around the world, 
 reducing barriers-to-entry for individuals and businesses. Our range of programmes will allow you to onboard major e-commerce platforms with ease, 
@@ -23,6 +22,7 @@ Contact us today for a consultation to understand which platform is suitable for
       <li><a href="/digital-programmes/e-commerce-programmes/ebay-one-day-workshop">eBay One Day Workshop</a></li>
       <li><a href="/digital-programmes/e-commerce-programmes/lazada-one-day-workshop">Lazada One Day Workshop</a></li>
       <li><a href="/digital-programmes/e-commerce-programmes/shopee-one-day-workshop">Shopee One Day Workshop</a></li>
+      <li><a href="/digital-programmes/e-commerce-programmes/scash-nets-smart-retail-solution">SCash NETS Smart Retail Solution</a></li>
       <li><a href="/digital-programmes/e-commerce-programmes/qoo10-one-day-workshop">Qoo10 One Day Workshop</a></li>
       <li><a href="/digital-programmes/e-commerce-programmes/singtel-99-sme">Singtel 99% SME Onboarding Programme</a></li>
     </ul>
