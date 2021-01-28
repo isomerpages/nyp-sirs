@@ -7,8 +7,6 @@ collection_name: digital-programmes
 second_nav_title: National Silver Academy
 ---
 
-<img src="images/nsa-using-your-phone-smartly.jpg" style="width:100%;">
-
 <p>Do you have many unwanted yet usable products at home or handmade products that you want to sell? Be an online seller in just half a day! Learn to use the Carousell app to sell old or new items.</p>
 
 <h4>Outline</h4>
