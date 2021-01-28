@@ -12,7 +12,7 @@ second_nav_title: "E-Commerce Programmes"
 <p>Selling your products on Lazada has never been easier with SIRS 1-day workshop! Get onboard the top e-marketplace platform in Southeast Asia to get more customers and boost your sales by learning the marketing strategies you can deploy with Lazada's Marketing tools!</p>
 
 <h4>Workshop 1: Getting Started on Lazada (Onboarding)</h4>
-<h4 style="text-align:center;">Next intake:</h3>
+<h4 style="text-align:center;">Next intake:</h4>
 
 <center><table style="width:80%;">
     <tr style="text-align:center;">
@@ -38,33 +38,47 @@ second_nav_title: "E-Commerce Programmes"
   <li>Fundamentals to successful selling on Lazada</li>
 <br>
 
-<b>1. Understand the Digital Commerce World</b>
+<ol>
+
+<li>Understand the Digital Commerce World
+    <ul>
 <li>Know the current trends in your product</li>
 <li>Understand how mobile purchasing affects your business</li>
 <li>Understand the competition in the digital landscape/world/scene</li>
 <li>Use PPC, CPM, Google Adword and Adsense, Search Engine Optimisation (SEO) to your advantage</li>
 <li>Learn how to source for products</li>
-<br>
+        </ul>
+</li>
 
-<b>2. Maximize and Boost Your Sales</b>
+<li>Maximize and Boost Your Sales
+    <ul>
 <li>Understand the difference between eMarketplace, webstore, blogshop and social media shop</li>
 <li>Understand the 4 key components: Storefront, Payment Gateway, Marketing, Operations </li>
 <li>Apply the Golden Rule : Traffic x Conversion Rate x Average Order Value</li>
-<br>
+        </ul>
+</li>
 
-<b>3. Effective Product Content Creation</b>
+<li>Effective Product Content Creation
+    <ul>
 <li>Understand the importance of product categorization</li>
 <li>Know how to upload product content, through single & mass upload</li>
-<br>
+        </ul>
+</li>
 
-<b>4. Practical Session</b>
+<li>Practical Session
+    <ul>
 <li>Hands-on session of setting up your store and managing orders</li>
 <li>Understand Seller Centre app & support</li>
 <li>Tips on selling better on Lazada</li>
+        </ul>
+</li>
+
+</ol>
+
 
 <h4>Workshop 2: Drive Sales Performance on Lazada (Marketing)</h4>
 
-<h4 style="text-align:center;">Next intake:</h3>
+<h4 style="text-align:center;">Next intake:</h4>
 
 <center><table style="width:80%;">
     <tr style="text-align:center;">
