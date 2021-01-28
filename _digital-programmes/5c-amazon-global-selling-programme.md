@@ -79,25 +79,15 @@ second_nav_title: "E-Commerce Programmes"
 <p>Learners may be also eligible for the following:</p>
 
 <ul>
+<li>SkillsFuture Credit</li>
+<li>Workfare Skills Support (WSS) Scheme</li>
+<li>Enhanced Training Support for SMEs (ETSS) for Singapore Citizens and Singapore PRs</li>
 <li>Absentee Payroll
   <ul>
   <li>For all Singaporean & SPR</li>
   <li>80% of basic hourly salary, capped at $7.50 per hour</li>
   </ul>
 </ul>
-
-<ul>
-<li>Workfare Skills Support (WSS) Scheme</li>
-  <ul>
-  <li>Absentee Payroll: Up to 95% of hourly basic salary</li>
-  </ul>
-</ul>
-
-<ul>
-<li>SkillsFuture Credit</li>
-<li>Workfare Skills Support (WSS) Scheme</li>
-<li>Enhanced Training Support for SMEs (ETSS) for Singapore Citizens and Singapore PRs</li>
-<li>Absentee Payroll: 80% of basic hourly salary, capped at $7.50 per trainee-hour</li>
 </ul>
 
 <p>For more information about funding and support, click <a href="/services/funding-and-advisory">here.</a></p>
