@@ -36,7 +36,7 @@ second_nav_title: "E-Commerce Programmes"
   <li>Set up your own Lazada store</li>
   <li>Understand Lazada Seller Centre app and seller support</li>
   <li>Fundamentals to successful selling on Lazada</li>
-
+<br>
 
 <b>1. Understand the Digital Commerce World</b>
 <li>Know the current trends in your product</li>
@@ -44,15 +44,18 @@ second_nav_title: "E-Commerce Programmes"
 <li>Understand the competition in the digital landscape/world/scene</li>
 <li>Use PPC, CPM, Google Adword and Adsense, Search Engine Optimisation (SEO) to your advantage</li>
 <li>Learn how to source for products</li>
+<br>
 
 <b>2. Maximize and Boost Your Sales</b>
 <li>Understand the difference between eMarketplace, webstore, blogshop and social media shop</li>
 <li>Understand the 4 key components: Storefront, Payment Gateway, Marketing, Operations </li>
 <li>Apply the Golden Rule : Traffic x Conversion Rate x Average Order Value</li>
+<br>
 
 <b>3. Effective Product Content Creation</b>
 <li>Understand the importance of product categorization</li>
 <li>Know how to upload product content, through single & mass upload</li>
+<br>
 
 <b>4. Practical Session</b>
 <li>Hands-on session of setting up your store and managing orders</li>
