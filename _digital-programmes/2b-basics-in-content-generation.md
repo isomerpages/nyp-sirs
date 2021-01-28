@@ -47,11 +47,6 @@ second_nav_title: "SkillsFuture Series"
 <td>$31.46</td>
 </tr>
 
-<tr>
-  <td><a href="/services/consultancy/funding-and-support/workfare-training-support-scheme">Workfare Training Support (WTS)</a> recipient (95% funding)</td>
-<td>$18.46</td>
-</tr>
-
 </table>
 </center>
 
