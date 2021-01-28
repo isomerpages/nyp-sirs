@@ -6,7 +6,6 @@ breadcrumb: The Art and Science of Visual Merchandising
 collection_name: retail-programmes
 second_nav_title: "WSQ Certified Modular Programmes"
 ---
-<a href="#" onclick="history.go(-1)">Back to previous page</a><br>
 
 <img src="images/short-courses/short-courses-the-art-and-science-of-visual-merchandising.png" style="width:100%;">
 
@@ -60,7 +59,7 @@ second_nav_title: "WSQ Certified Modular Programmes"
 </table>
 </center>
 
-<p>Participants may also be eligible for the following:</p>
+<p>Learners may also be eligible for the following:</p>
 <ul>
   <li>For self-sponsored participants
   <ol><li><a href="/services/consultancy/funding-and-support/skillsfuture-credit">SkillsFuture Credit S$500</a></li>
@@ -75,6 +74,4 @@ second_nav_title: "WSQ Certified Modular Programmes"
 
 <em>All fees include prevailing GST</em>
 
-<center><a href="https://form.gov.sg/#!/5e4a462056e8230011d5d3bb" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;" target="_blank">Request for Brochure</a></center>
-
-<center><a href="http://docs.google.com/forms/d/e/1FAIpQLSc5T_Fk_whLcLHW79DS80MhPcC4lP199IKDyv3w-_nr4qXJsw/viewform" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;" target="_blank">Register Now</a></center>
+<p>For more information about funding and support, click <a href="/services/funding-and-advisory">here.</a></p>
