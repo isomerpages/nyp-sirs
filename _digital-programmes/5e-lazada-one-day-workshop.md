@@ -6,24 +6,26 @@ breadcrumb: Lazada One Day Workshop
 collection_name: digital-programmes
 second_nav_title: "E-Commerce Programmes"
 ---
-<a href="#" onclick="history.go(-1)">Back to previous page</a>
 
 <img src="images/e-commerce/lazada-one-day-workshop.png" style="width:100%;">
 
 <p>Selling your products on Lazada has never been easier with SIRS 1-day workshop! Get onboard the top e-marketplace platform in Southeast Asia to get more customers and boost your sales by learning the marketing strategies you can deploy with Lazada's Marketing tools!</p>
 
-<h3 style="text-align:center;">Workshop 1: Getting Started on Lazada (Onboarding)</h3>
+<h4>Workshop 1: Getting Started on Lazada (Onboarding)</h4>
+<h4 style="text-align:center;">Next intake:</h3>
 
-<h3 style="text-align:center;">Next Intake for Online Training
-  <li>5 Jan 2021 (Tue)</li>
-  </h3>
+<center><table style="width:80%;">
+    <tr style="text-align:center;">
+      <th style="text-align:center;width:50%;">Online Training</th>
+      <th style="text-align:center;width:50%;">Face-to-Face</th>
+    </tr>
+    <tr style="text-align:center;">
+      <td style="text-align:center;width:50%;">To be confirmed</td>
+      <td style="text-align:center;width:50%;">To be confirmed</td>
+    </tr>
+</table></center>
 
-<h3 style="text-align:center;">Next Face-to Face Classroom Intake
-  <li>5 Nov 2020 (Thu) - Full</li>
-  <li>9 Dec 2020 (Wed)</li>
-  <h3>
-
-<h4>Course Outline</h4>
+<h4>Outline</h4>
 
   <li>Understanding the digital commerce world</li>
   <li>Find out how modern consumers are purchasing their products online</li>
@@ -36,36 +38,43 @@ second_nav_title: "E-Commerce Programmes"
   <li>Fundamentals to successful selling on Lazada</li>
 
 
-<h4>1. Understand the Digital Commerce World</h4>
+<b>1. Understand the Digital Commerce World</b>
 <li>Know the current trends in your product</li>
 <li>Understand how mobile purchasing affects your business</li>
 <li>Understand the competition in the digital landscape/world/scene</li>
 <li>Use PPC, CPM, Google Adword and Adsense, Search Engine Optimisation (SEO) to your advantage</li>
 <li>Learn how to source for products</li>
 
-<h4>2. Maximize and Boost Your Sales</h4>
+<b>2. Maximize and Boost Your Sales</b>
 <li>Understand the difference between eMarketplace, webstore, blogshop and social media shop</li>
 <li>Understand the 4 key components: Storefront, Payment Gateway, Marketing, Operations </li>
 <li>Apply the Golden Rule : Traffic x Conversion Rate x Average Order Value</li>
 
-<h4>3. Effective Product Content Creation</h4>
+<b>3. Effective Product Content Creation</b>
 <li>Understand the importance of product categorization</li>
 <li>Know how to upload product content, through single & mass upload</li>
 
-<h4>4. Practical Session</h4>
+<b>4. Practical Session</b>
 <li>Hands-on session of setting up your store and managing orders</li>
 <li>Understand Seller Centre app & support</li>
 <li>Tips on selling better on Lazada</li>
 
-<h3 style="text-align:center;">Workshop 2: Drive Sales Performance on Lazada (Marketing)</h3>
+<h4>Workshop 2: Drive Sales Performance on Lazada (Marketing)</h4>
 
-<h3 style="text-align:center;">Next Intake for Online Training
-  <li>16 Nov 2020 (Mon) - Full</li>
-  <li>16 Dec 2020 (Wed)</li>
-  <li>11 Jan 2021 (Mon)</li>
-</h3>
+<h4 style="text-align:center;">Next intake:</h3>
 
-<h4>Course Outline</h4>
+<center><table style="width:80%;">
+    <tr style="text-align:center;">
+      <th style="text-align:center;width:50%;">Online Training</th>
+      <th style="text-align:center;width:50%;">Face-to-Face</th>
+    </tr>
+    <tr style="text-align:center;">
+      <td style="text-align:center;width:50%;">To be confirmed</td>
+      <td style="text-align:center;width:50%;">To be confirmed</td>
+    </tr>
+</table></center>
+
+<h4>Outline</h4>
 
   <li>Learn how to use the Lazada Store Builder</li>
   <li>Understand the importance of live chat, and how to use the Chat Now function</li>
@@ -135,11 +144,17 @@ Fees are per workshop (onboarding OR marketing)
 </table>
 </center>
 
-<em><sup>1</sup>Additional funding under <a href="/services/consultancy/funding-and-support/mid-career-enhanced-subsidy">Mid-Career Enhanced Subsidy</a><br>
-<sup>2</sup>Fee is after reimbursement of S$32 via SkillsConnect under <a href="/services/consultancy/funding-and-support/skillsfuture-enhanced-training-support-for-smes">Enhanced Training Support for SMEs (ETSS)</a><br>
-Self-sponsored participants can utilise their <a href="/services/consultancy/funding-and-support/skillsfuture-credit">SkillsFuture Credit</a> to offset course fees<br>
-All fees inclusive of prevailing GST</em>
+<p>Learners may be also eligible for the following:</p>
 
-<center><a href="https://form.gov.sg/#!/5e4a462056e8230011d5d3bb" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;" target="_blank">Request for Brochure</a></center>
+<ul>
+<li>SkillsFuture Credit</li>
+<li>Workfare Skills Support (WSS) Scheme</li>
+<li>Enhanced Training Support for SMEs (ETSS) for Singapore Citizens and Singapore PRs</li>
+<li>Absentee Payroll
+  <ul>
+  <li>For all Singaporean & SPR</li>
+  <li>80% of basic hourly salary, capped at $7.50 per hour</li>
+  </ul>
+</ul>
 
- <P> <center><a href="https://www.form.gov.sg/#!/5ba3111a44c4a1000f184264" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;" target="_blank">Register Now</a></center>
+<p>For more information about funding and support, click <a href="/services/funding-and-advisory">here.</a></p>
