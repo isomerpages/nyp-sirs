@@ -17,6 +17,9 @@ business elements across all the platforms.
 Applying real-time analytic tools, building a highly integrated supply chain, creating effective Omni-commerce
 marketing campaigns are some of the considerations in developing an effective Omni-commerce strategy.
 
+Suitable for C-level Executives, General Managers, Heads of Technology/IT, Marketing & Business Development, Heads of
+Delivery, Technologists, and Innovation Managers.
+
 <h4>Outline</h4>
 
 <dl>
