@@ -100,28 +100,45 @@ second_nav_title: "E-Commerce Programmes"
   <li>Manage store and sales performance with Lazada Business Advisor</li>
  
 <h4>Day 1: 9am-6pm</h4>
-<h4>1. Understand How to Use the Store Builder</h4>
+
+<ol>
+    
+<li>Understand How to Use the Store Builder
+    <ul>
 <li>Showcase hero products and attractive promotions</li>
 <li>In-built banner design tools to attract followers</li>
+    </ul>
+    </li>
 
-<h4>2. Understand How to Use the Chat Now Function</h4>
+<li>Understand How to Use the Chat Now Function
+    <ul>
 <li>Build relationship with customer</li>
 <li>Automating messages</li>
 <li>Customer incentives</li>
+    </ul>
+    </li>
 
-<h4>3. Understand How to Join Campaigns and Increase Your Product Exposure</h4>
+<li>Understand How to Join Campaigns and Increase Your Product Exposure
+    <ul>
 <li>Create settings in laptop and via mobile app</li>
+    </ul>
+    </li>
 
-<h4>4. Improve Sales Conversion</h4>
+<li>Improve Sales Conversion
+    <ul>
 <li>Boost your best selling products visibility to increase exposure by 30%</li>
 <li>Increase sales and loyalty through the voucher function</li>
 <li>Offer competitive and attractive deals without lowering your price</li>
 <li>Increase exposure through Flash sales</li>
+    </ul>
+    </li>
 
-<h4>5. Manage Sales Performance Using Lazada’s Business Advisor</h4>
+<li>Manage Sales Performance Using Lazada’s Business Advisor
+    <ul>
 <li>Monitor real time performance and read data</li>
 <li>Identify target SKUs to maximize sales</li>
-
+    </ul>
+    </li>
 
 <h4>Fees</h4>
 Fees are per workshop (onboarding OR marketing)
@@ -134,7 +151,7 @@ Fees are per workshop (onboarding OR marketing)
 </tr>
 
 <tr>
-<td>Full course fee</td>
+<td>Full fees</td>
 <td>$171.20</td>
 </tr>
 
