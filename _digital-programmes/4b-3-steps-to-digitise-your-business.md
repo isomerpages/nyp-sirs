@@ -75,11 +75,6 @@ BenQ SEA, and had held key roles in Hewlett Packard-APJ and Motorola-APJ.</p>
 <td>$90.75</td>
 </tr>
 
-<tr>
-<td><a href="/services/consultancy/funding-and-support/workfare-training-support-scheme">Workfare Training Support (WTS)</a> recipient (95% funding)</td>
-<td>$53.25</td>
-</tr>
-
 </table>
 </center>
 
