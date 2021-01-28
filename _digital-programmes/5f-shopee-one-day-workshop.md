@@ -6,15 +6,14 @@ breadcrumb: Shopee One Day Workshop
 collection_name: digital-programmes
 second_nav_title: "E-Commerce Programmes"
 ---
-<a href="#" onclick="history.go(-1)">Back to previous page</a>
 
 <img src="images/e-commerce/shopee-one-day-workshop.png" style="width:100%;">
 
 <p>	Get equipped with the essential e-commerce skills and knowledge to on-board Shopee store and bring your Shopee business to the next level with a winning marketing strategy! Enhance your shop's presence, capitalise social media to generate higher sales and create compelling visual content to bring your store to the top in rank. </p>
 
-<h3 style="text-align:center;">Workshop 1: Shopee Onboarding Programme</h3>
+<h4>Workshop 1: Shopee Onboarding Programme</h4>
 
-<h4>Course Outline</h4>
+<h4>Outline</h4>
 <ul>
   <li>Introduction to the Shopee platform and global e-commerce</li>
   <li>Understand the Shopee logistics system</li>
@@ -32,9 +31,9 @@ second_nav_title: "E-Commerce Programmes"
   </li>
 </ul>
 
-<h3 style="text-align:center;">Workshop 2: Driving Sales Performance on Shopee (Marketing)</h3>
+<h4>Workshop 2: Driving Sales Performance on Shopee (Marketing)</h4>
 
-<h4>Course Outline</h4>
+<h4>Outline</h4>
 <ul>
   <li>Understand customer shopping and buying behaviour</li>
   <li>Learn how to conduct social listening using social media data</li>
@@ -44,7 +43,7 @@ second_nav_title: "E-Commerce Programmes"
   <li>Learn basics of Facebook and Google advertising to drive traffic to your store</li>
 </ul>
 
-<h3>Programme Fees</h3>
+<h4>Fees</h4>
 Fees are per workshop (onboarding OR marketing)
 
 <center>
@@ -74,19 +73,20 @@ Fees are per workshop (onboarding OR marketing)
 <td>$19.36</td>
 </tr>
 
-<tr>
-<td><a href="/services/consultancy/funding-and-support/workfare-training-support-scheme">Workfare Training Support (WTS)</a> recipient (95% funding)</td>
-<td>$11.36</td>
-</tr>
-
 </table>
 </center>
 
-<em><sup>1</sup>Additional funding under <a href="/services/consultancy/funding-and-support/mid-career-enhanced-subsidy">Mid-Career Enhanced Subsidy</a><br>
-<sup>2</sup>Fee is after reimbursement of S$32 via SkillsConnect under <a href="/services/consultancy/funding-and-support/skillsfuture-enhanced-training-support-for-smes">Enhanced Training Support for SMEs (ETSS)</a><br>
-Self-sponsored participants can utilise their <a href="/services/consultancy/funding-and-support/skillsfuture-credit">SkillsFuture Credit</a> to offset course fees<br>
-All fees inclusive of prevailing GST</em>
+<p>Learners may be also eligible for the following:</p>
 
-<center><a href="https://form.gov.sg/#!/5e4a462056e8230011d5d3bb" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;" target="_blank">Request for Brochure</a></center>
+<ul>
+<li>SkillsFuture Credit</li>
+<li>Workfare Skills Support (WSS) Scheme</li>
+<li>Enhanced Training Support for SMEs (ETSS) for Singapore Citizens and Singapore PRs</li>
+<li>Absentee Payroll
+  <ul>
+  <li>For all Singaporean & SPR</li>
+  <li>80% of basic hourly salary, capped at $7.50 per hour</li>
+  </ul>
+</ul>
 
- <P> <center><a href="https://www.form.gov.sg/#!/5ba3111a44c4a1000f184264" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;" target="_blank">Register Now</a></center>
+<p>For more information about funding and support, click <a href="/services/funding-and-advisory">here.</a></p>
