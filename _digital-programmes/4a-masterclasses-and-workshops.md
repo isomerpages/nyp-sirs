@@ -22,6 +22,7 @@ second_nav_title: "Masterclasses & Workshops"
   <li><a href="/digital-programmes/masterclasses-and-workshops/content-creation-101">Content Creation 101</a></li>
   <li><a href="/digital-programmes/masterclasses-and-workshops/data-driven-sales-approach">Data-Driven Sales Approach</a></li>
   <li><a href="/digital-programmes/masterclasses-and-workshops/developing-social-media-advocacy">Developing Social Media Advocacy</a></li>
+  <li><a href="/digital-programmes/masterclasses-and-workshops/differentiate-and-drive-growth-with-experience-innovation">Differentiate and Drive Growth with Experience Innovation</a></li>
   <li><a href="/digital-programmes/masterclasses-and-workshops/digital-strategy-and-the-101-of-seo">Digital Strategy & the 101 of SEO</a></li>
   <li><a href="/digital-programmes/masterclasses-and-workshops/digital-commerce-visual">Digital Commerce Visual</a></li>
   <li><a href="/digital-programmes/masterclasses-and-workshops/ecommerce-fastrack">eCommerce Fastrack</a></li>
