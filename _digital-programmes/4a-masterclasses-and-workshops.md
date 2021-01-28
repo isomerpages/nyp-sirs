@@ -33,6 +33,6 @@ second_nav_title: "Masterclasses & Workshops"
   <li><a href="/digital-programmes/masterclasses-and-workshops/returns-on-social-media-marketing-investments">Returns on Social Media Marketing Investments</a></li>
   <li><a href="/digital-programmes/masterclasses-and-workshops/social-media-content-generation">Social Media Content Generation</a></li>
   <li><a href="/digital-programmes/masterclasses-and-workshops/social-media-crisis-management">Social Media Crisis Management</a></li>
-  <li>Tap Into the Power of Facebook Marketing</li>
+  <li><a href="/digital-programmes/masterclasses-and-workshops/tap-into-the-power-of-facebook-marketing">Tap Into the Power of Facebook Marketing</a></li>
   <li>The Power of Social Media Marketing</li>
   </ul>
