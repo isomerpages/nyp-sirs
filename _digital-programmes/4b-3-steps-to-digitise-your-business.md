@@ -19,7 +19,7 @@ trend. Make sense of the infinite pathways in the digital space. Experience hand
 a 5-stage results-focused digital business plan for e-Marketplace ecosystem.
 
 <h4>Outline</h4>
-<p>
+
 <ul>
 <li>Learn a short history of almost everything digital, new mobile commerce trends and customer
 purchase path, moments of truth in engaging the brands and mind-map using e-Marketplace,
@@ -32,7 +32,6 @@ Decision, Actions to Connect, Share, Swarm, Conversion</li>
 <li>Mind-map the conversion of traditional offline operation into Omni-channel, sales and no
 questions asked returns, free shipment, payment gateway, customer services via chat instead of
 call centre, click and collect set ups, big and micro data analysis, etc</li>
-</p>
 </ul>
 
 <h4>Trainer Profile</h4>
@@ -94,12 +93,14 @@ BenQ SEA, and had held key roles in Hewlett Packard-APJ and Motorola-APJ.</p>
   </ul>
 </ul>
 
+
 <ul>
 <li>Workfare Skills Support (WSS) Scheme</li>
   <ul>
   <li>Absentee Payroll: Up to 95% of hourly basic salary</li>
   </ul>
 </ul>
+
 
 <ul>
 <li>SkillsFuture Credit</li>
