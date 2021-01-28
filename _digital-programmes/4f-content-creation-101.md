@@ -35,9 +35,8 @@ This masterclass will cover on how to create good content systematically.
 </ul>
 
 <h4>Trainer Profile</h4>
-<b>Keith Nakamura<br>
-Co-founder of Gorilla Digital Pte Ltd</b>
-
+<p><b>Keith Nakamura</b><br>
+  <em>Co-founder of Gorilla Digital Pte Ltd</em><br>
 
 <p>
 Keith has more than 16 years of experience in Digital Marketing, Product Marketing
