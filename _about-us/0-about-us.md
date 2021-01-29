@@ -26,23 +26,22 @@ To promote skills deepening and lifelong learning, SIRS, in collaboration with t
 </p>
  
 <h4>Solutions and Services</h4>
-<p>SIRS as a holistic solutions provider with capability development & training at our core</p> 
+<p>SIRS as a holistic solutions provider with capability development & training at our core.</p> 
  
 <img src="images-2021/AboutUs_SIRS_Solutions&Services.png" style="width:80%;">
 
-<ul>
- <li><a href="/services/education-and-training">Educate</a></li>
-Raise awareness and offer accessibility to leading edge knowledge and skills, as well as industry trends 
-
-<li><a href="/services/education-and-training">Train</a></li>
-Quality and industry relevant training to the retail workforce, and enhance enterprise human capital
-
-<li><a href="/services/career-services">Place</a></li>
-Career services such as advisory and placement assistance to job seekers, redesign jobs to create value for enterprises
-
-<li><a href="/services/consultancy">Consult</a></li>
-Consultancy services and solutions to retailers who need assistance in business transformation and digitalisation
-</ul>
-<br>
+<dl>
+  <dt><a href="/services/education-and-training">Educate</a></dt>
+  <dd>Raise awareness and offer accessibility to leading edge knowledge and skills, as well as industry trends </dd>
+ 
+  <dt><a href="/services/education-and-training">Train</a></dt>
+  <dd>Quality and industry relevant training to the retail workforce, and enhance enterprise human capital</dd>
+  
+  <dt><a href="/services/career-services">Place</a></dt>
+  <dd>Career services such as advisory and placement assistance to job seekers, redesign jobs to create value for enterprises</dd>
+  
+  <dt><a href="/services/consultancy">Consult</a></dt>
+  <dd>Consultancy services and solutions to retailers who need assistance in business transformation and digitalisation</dd>
+</dl>
 
 <em>*As an educational institution, NYP is committed to ensuring a safe and supportive campus and environment where there is respect and dignity for everyone. Accordingly, high standards of conduct are expected from all in our community. In case of any alleged offences committed within our premises, SIRS may report the matter to the security and/or relevant government agencies.</em>
