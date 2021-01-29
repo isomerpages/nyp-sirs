@@ -58,3 +58,5 @@ position in non-retail sector.</p>
 
 <h4>Fees</h4>
 <p>$500 (inclusive of GST)</p>
+
+<p>For more information about funding and support, click <a href="/services/funding-and-advisory">here.</a></p>
