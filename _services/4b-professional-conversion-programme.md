@@ -17,7 +17,7 @@ second_nav_title: "Professional Conversion Programme (PCP)"
 
 <p>SIRS offers a range of Professional Conversion Programmes (PCPs) in the Retail sector,for the <a href="#pcp-rp">Retail Professional</a>, <a href="#pcp-dp">Digital Professional</a> and <a href="#pcp-nmp">New Media Professional</a>, to equip Professionals, Managers, Executives, and Technicians (PMETs) transiting into these new careers with the right skillsets and support employers to attract talents for enterprise capability building.</p>
 
-<h3 id="pcp-rp">PCP - Retail Professional (PCP - RP)</h3>
+<h4 id="pcp-rp">PCP - Retail Professional (PCP - RP)</h4>
 
 <img src="images/pcp/pcp-retail-professional.jpg" style="width:100%:">
 
@@ -32,9 +32,9 @@ Under the PCP - RP, participants will complete the following modules from the Wo
 	<li>Workplace Communication</li>
 </ol>
 
-<center><a href="/services/career-services/professional-conversion-programme/retail-professional" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Find Out More</a></center>
+<center><a href="/services/professional-conversion-programme/retail-professional" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Find Out More</a></center>
 
-<h3 id="pcp-dp">PCP - Digital Professional (PCP - DP)</h3>
+<h4 id="pcp-dp">PCP - Digital Professional (PCP - DP)</h4>
 
 <img src="images/pcp/pcp-digital-professional.jpg" style="width:100%:">
 
@@ -47,9 +47,9 @@ Under the PCP - RP, participants will complete the following modules from the Wo
 	<li><a href="/digital-programmes/alibaba-business-school/alibaba-content-marketing-programme">Alibaba Business School - SIRS Boost Sales through Effective Content Marketing Programme</a></li>
 </ol>
 
-<center><a href="/services/career-services/professional-conversion-programme/digital-professional" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Find Out More</a></center>
+<center><a href="/services/professional-conversion-programme/digital-professional" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Find Out More</a></center>
 
-<h3 id="pcp-nmp">PCP - New Media Professional (PCP - NMP)</h3>
+<h4 id="pcp-nmp">PCP - New Media Professional (PCP - NMP)</h4>
 
 <img src="images/pcp/pcp-new-media-professional.jpg" style="width:100%:">
 
@@ -62,9 +62,9 @@ Under the PCP - RP, participants will complete the following modules from the Wo
 	<li><a href="https://www.mediaacademy.sg/page/FUNDED-PROGRAMMES/making-online-content" target="_blank">Singapore Media Academy's Making Online Content Programme</a></li>
 </ol>
 
-<center><a href="/services/career-services/professional-conversion-programme/new-media-professional" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Find Out More</a></center>
+<center><a href="/services/professional-conversion-programme/new-media-professional" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Find Out More</a></center>
 
-<h3>Salary Support</h3>
+<h4>Salary Support</h4>
 
 <ul>
 	<li>Up to 70% of the trainee’s monthly salary, capped at $4,000 (excl. GST) per trainee per month, for the programme duration.</li>
@@ -75,7 +75,7 @@ Under the PCP - RP, participants will complete the following modules from the Wo
 
 <p><strong>Funding would be based on the duration of the programme (maximum 6 months)</strong></p>
 
-<h3>Eligibility</h3>
+<h4>Eligibility</h4>
 
 <ul>
 	<li>To facilitate the programme under a Place-and-Train mode, participating employers will hire the participants before they commence training; and be required to provide structured On-the-Job Training (OJT) plans to ensure that participants hired will gain the necessary competencies for their new role.</li>
@@ -85,7 +85,7 @@ Under the PCP - RP, participants will complete the following modules from the Wo
 		<li>The candidate must be a Singapore Citizen or Permanent Resident;</li>
 		<li>New PMET hires who have no more than three months of employment with the current company</li>
 		<li>Have graduated from pre-employment training for at least 2 years (excluding National Service where applicable)</li>
-		<li>The candidate must have managerial-level or equivalent experience in a non- related role prior to joining the PCP</li>
+		<li>The candidate must have managerial-level or equivalent experience in a non-related role prior to joining the PCP</li>
 		<li>Trainee remains employed at the hiring company for a minimum duration equivalent to the programme duration, after passing all the required modules</li>
 	</ul>
 	</li>
