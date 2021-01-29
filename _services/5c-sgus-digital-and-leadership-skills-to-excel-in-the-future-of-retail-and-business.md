@@ -9,8 +9,16 @@ second_nav_title: "SGUnited Skills (SGUS) Programmes"
 
 <h4>Digital & Leadership Skills to Excel in the Future of Retail & Business</h4>
 
-<h4>Next Intake:
-</h4>
+<h4 style="text-align:center;">Next intake:</h4>
+
+<center><table style="width:80%;">
+    <tr style="text-align:center;">
+      <th style="text-align:center;width:50%;">Intake</th>
+    </tr>
+    <tr style="text-align:center;">
+      <td style="text-align:center;width:50%;">To be confirmed</td>
+    </tr>
+</table></center>
 
 <p>The digital age requires the agility of an organisation and its people to accommodate continuous change. It is about careful planning and putting 
 in place initiatives targeting transformational results to bring about benefits of digital transformation, instead of merely adopting systems for 
@@ -19,6 +27,9 @@ the business. It is imperative also for leaders to understand the changing socia
 A leader consistently leads others by supporting staff to grow through collaborating and fostering interdependence in pursuing goals that stretch 
 their skills. The programmes will equip participants with future leadership skills, to cultivate positive team dynamics, establish clear roles and 
 responsibilities, to achieve organisational goals.</p>
+
+<p>Suitable for participants with at least 3 years senior managerial working experience in retail or Professional, Managers, Executives and Technicians (PMETs) 
+position in non-retail sector.</p>
 
 <b>Outline</b>
 
@@ -43,10 +54,7 @@ responsibilities, to achieve organisational goals.</p>
   <li>Drive Productivity and Innovation (24 hours)</li>
   <li>Set Up an Online Business (+ Project Work) (39 hours)</li>
   </ul>
-  
-<p>Suitable for participants with at least 3 years senior managerial working experience in retail or Professional, Managers, Executives and Technicians (PMETs) 
-position in non-retail sector.</p>
-
+ 
 <b>Admission Requirements</b>
 <p>GCE 'O' level Credit (at least C6) in English and Mathematics or Workplace Literacy and Numeracy (WPLN) score: Level 7 for Reading, Listening and Numeracy.</p>
 
