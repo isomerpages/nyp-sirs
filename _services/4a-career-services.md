@@ -9,7 +9,7 @@ second_nav_title: "Career Services"
 
 <img src="images/career-services-header.jpg" style="width:100%;">
 
-<h3>Your Retail Career Pathway</h3>
+<h4>Your Retail Career Pathway</h4>
 
 <p>The retail sector is a labour-intensive sector, with 80% of workers in Rank and File jobs, and 79% in Front-of-House operations. As part of retail operations, your role involves managing the day-to-day functions of establishments, with areas of responsibilities in planning, managing, and maintaining the retail store, protecting the store and merchandise, providing excellent customer service, and coordinating the movement of goods and people within the store.</p>
 
@@ -37,27 +37,27 @@ second_nav_title: "Career Services"
   
 <p><em>*Source: Skills Framework for Retail</em></p>
 
-<h3>Career Services Centre</h3>
+<h4>Career Services Centre</h4>
 
 <p>SIRS provides career guidance for individuals seeking a career in retail and those considering a career move from another industry or within the retail industry. This includes facilitating placements for individuals trained by SIRS, so that they can gain employment in the retail industry after training.</p>
 
 <p>Individuals can obtain information about and advice on issues like the current retail employment situation, job opportunities within specific professional specialisations and alternative job opportunities. We have a team of professional career consultants who will advise and guide potential jobseekers, even plan a training programme and work together to bring these trained jobseekers and potential employers together. SIRS' career guidance is a free service.</p>
 
-<h3>Place-and-Train Programmes</h3>
+<h4>Place-and-Train Programmes</h4>
 
 <p>SIRS is also the appointed programme manager for the <a href="/services/career-services/professional-conversion-programme">Professional Conversion Programme</a> and the <a href="/services/career-services/earn-and-learn-programme">SkillsFuture Earn & Learn</a> for the retail industry.</p>
 
-<h4>Professional Conversion Programme</h4>
+<b>Professional Conversion Programme</b>
 
 <p>The Professional Conversion Programme seeks to help PMETs mid-career switchers undergo skills conversion to gain relevant competencies and take on new, exciting careers in different industries. SIRS offers the PCP in the following tracks:
 
 <ol>
-  <li><a href="/services/career-services/professional-conversion-programme/retail-professional">PCP - Retail Professional</a></li>
-  <li><a href="/services/career-services/professional-conversion-programme/digital-professional">PCP - Digital Professional</a></li>
-  <li><a href="/services/career-services/professional-conversion-programme/new-media-professional">PCP - New Media Professional</a></li>
+  <li><a href="/services/professional-conversion-programme/retail-professional">PCP - Retail Professional</a></li>
+  <li><a href="/services/professional-conversion-programme/digital-professional">PCP - Digital Professional</a></li>
+  <li><a href="/services/professional-conversion-programme/new-media-professional">PCP - New Media Professional</a></li>
 </ol></p>
 
-<center><a href="/services/career-services/professional-conversion-programme" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Find Out More</a></center>
+<center><a href="/services/professional-conversion-programme" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Find Out More</a></center>
 
 <h4>SkillsFuture Earn & Learn</h4>
 
@@ -65,9 +65,9 @@ second_nav_title: "Career Services"
 
 <center><a href="/services/career-services/earn-and-learn-programme" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Find Out More</a></center>
 
-<h3>Train-and-Place Programmes</h3>
+<h4>Train-and-Place Programmes</h4>
 
-<h4>SkillsFuture Work-Learn Bootcamp</h4>
+<b>SkillsFuture Work-Learn Bootcamp</b>
 
 <p>The SkillsFuture Work-Learn Bootcamp (WLB) in Digital Marketing & Branding (DMB) is a SkillsFuture initiative in collaboration with Generation (a US-based global non-profit organisation founded by McKinsey & Company)and Singapore Institute of Retail Studies, to prepare highly productive workforce for emerging industries through a short intensive bootcamp training.</p>
 
