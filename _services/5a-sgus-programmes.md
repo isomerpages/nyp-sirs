@@ -12,7 +12,7 @@ second_nav_title: "SGUnited Skills (SGUS) Programmes"
 
 Besides strengthening skills portfolio for enhanced competitiveness and employability, trainees can also establish a strong support network among peers and industry professionals. </p>
 
-<b>How Can Trainees Benefit?</b>
+<h4>How Can Trainees Benefit?</h4>
 
 <b>Close to 100% Subsidised Course Fee</b>
 <p>Course fees are extremely affordable with close to 100% subsidised fee at only $500 nett for a 6-month programme. Trainees can use their SkillsFuture Credit, including the top-ups announced in 2020 Unity Budget, to offset the nett course fee.</p>
