@@ -10,7 +10,7 @@ collection_name: about-us
 
 <p>The SIRS family comprises a team of passionate, dynamic, and fun professionals from a diverse set of backgrounds with rich retail, eCommerce, and service experience. Our team members are our greatest asset; the knowledge and depth of experience they bring forth are our greatest strength. Each member is an expert in their respective domains in Product & Solutions, Marketing and Corporate Support. Bonded by a common mission, the SIRS family comes together to inspire and transform the retail industry with our uniqueness and infectious can-do spirit. Contact our industry frontline teams to discuss how we can support your enterprise and workforce capability development and grant-supported solutions.</p>
 
-<h3>Director's Office</h3>
+<h4>Director's Office</h4>
 <p>For enquiries, please email to <a href="mailto:dir_office@sirs.edu.sg">dir_office@sirs.edu.sg</a></p>
 <table>
   <tr>
@@ -27,7 +27,7 @@ collection_name: about-us
   </tr>
 </table>
 
-<h3>Business Development</h3>
+<h4>Business Development</h4>
 <p>For corporate training or partnership, please email to <a href="mailto:upskill@sirs.edu.sg">upskill@sirs.edu.sg</a></p>
 
 <table>
@@ -61,7 +61,7 @@ collection_name: about-us
   </tr>
 </table>
 
-<h3>Customer Relations Centre</h3>
+<h4>Customer Relations Centre</h4>
 <p>For self-sponsored training or general enquiries, please email to <a href="mailto:courses@sirs.edu.sg">courses@sirs.edu.sg</a>.
 
 <table>
