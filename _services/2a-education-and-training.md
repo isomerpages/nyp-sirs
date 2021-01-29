@@ -27,5 +27,3 @@ second_nav_title: "Education and Training"
 <h4>Training</h4>
 
 <p>Aside from education, SIRS also provides a whole suite of training programmes to equip retailers in the latest skillsets both in offline and online retail. This includes the inculcation of service leadership through our <a href="/retail-programmes">retail programmes</a>, and digital marketing and commerce skills to enable businesses to grow their online revenue through our <a href="/digital-programmes">digital programmes</a>. For maximum effectiveness, SIRS programmes offer a combination of classroom lessons and hands-on sessions, allowing learners to put their learnings into practice.</p>
-
-<p><a href="/services/education-and-training/course-directory">Click here for SIRS' full course directory.</a></p>
