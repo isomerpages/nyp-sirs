@@ -7,8 +7,6 @@ collection_name: digital-programmes
 second_nav_title: "E-Commerce Programmes"
 ---
 
-<img src="images/e-commerce/lazada-one-day-workshop.png" style="width:100%;">
-
 <p>You can now easily set-up your mobile commerce store with worry-free technology – SCash NETS Mobile Commerce
 Solution. The mobile commerce store enables one-on-one customer engagement and AI technology-driven traffic from
 social media to your store!</p>
