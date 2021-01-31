@@ -13,9 +13,6 @@ second_nav_title: "SGUnited Skills (SGUS) Programmes"
 
 <center><table style="width:80%;">
     <tr style="text-align:center;">
-      <th style="text-align:center;width:50%;">Intake</th>
-    </tr>
-    <tr style="text-align:center;">
       <td style="text-align:center;width:50%;">To be confirmed</td>
     </tr>
 </table></center>
