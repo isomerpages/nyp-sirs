@@ -19,7 +19,7 @@ The Government has thus enhanced training support for SMEs by providing  higher 
 <b>Which programmes can I use it for?</b>
 <p>The  enhanced  subsidies  will  apply  to SSG-supported certifiable courses. You can enjoy ETSS for all SIRS programmes, masterclasses and workshops.</p>
 
-<b>How does it work</b>
+<b>How does it work?</b>
 <p>For all eligible SMEs, sponsored staff enjoys 90% fee subsidy for all approved programmes. The company enjoys higher absentee payroll at the usual 80% of basic hourly 
 salary, at a higher capped of $7.50 per hour.</p>
 
