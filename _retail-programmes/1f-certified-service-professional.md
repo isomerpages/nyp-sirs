@@ -1,10 +1,10 @@
 ---
 layout: leftnav-page-content
 title: Certified Service Professional
-permalink: /retail-programmes/wsq-certification-programmes/certified-service-professional
+permalink: /retail-programmes/wsq-full-qualification-programmes/certified-service-professional
 breadcrumb: Certified Service Professional
 collection_name: retail-programmes
-second_nav_title: "WSQ Certification Programmes"
+second_nav_title: "WSQ Certification Programmes - Full Qualification"
 ---
 
 <img src="images/wsq/certified-service-professional.jpg" style="width:100%;">
