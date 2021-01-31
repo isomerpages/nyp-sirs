@@ -13,4 +13,5 @@ SIRS offers the following WSQ Full Qualification programmes:
     <li><a href="/wsq-programmes/wsq-full-qualification-programmes/advanced-certificate-in-retail-operations">Advanced Certificate in Retail (Operations)</a></li>
     <li><a href="/wsq-programmes/wsq-full-qualification-programmes/diploma-in-retail-operations">Diploma in Retail (Operations)</a></li>
     <li><a href="/wsq-programmes/wsq-full-qualification-programmes/specialist-diploma-in-retail-operations">Specialist Diploma in Retail (Operations)</a></li>
+    <li><a href="/retail-programmes/wsq-full-qualification-programmes/certified-service-professional">Certified Service Professional</a></li>
   </ul>
