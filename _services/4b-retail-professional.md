@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: PCP New Media Professional
-permalink: /services/professional-conversion-programme/new-media-professional
-breadcrumb: PCP New Media Professional
+title: PCP Retail Professional
+permalink: /services/professional-conversion-programme/retail-professional
+breadcrumb: PCP Retail Professional
 collection_name: services
 second_nav_title: "Professional Conversion Programme (PCP)"
 ---
