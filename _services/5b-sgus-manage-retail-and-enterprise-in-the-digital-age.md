@@ -57,6 +57,21 @@ position in non-retail sector.</p>
 <p>GCE 'O' level Credit (at least C6) in English and Mathematics or Workplace Literacy and Numeracy (WPLN) score: Level 6 for Reading, Listening and Numeracy.</p>
 
 <h4>Fees</h4>
-<p>$500 (inclusive of GST)</p>
+<h4>Fees</h4>
+
+<center>
+<table style="width:100%;">
+<tr>
+<th style="width:70%;">Category</th>
+<th style="width:30%:">Price</th>
+</tr>
+
+<tr>
+<td>Fees</td>
+<td>$500.00</td>
+</tr>
+
+</table>
+</center>
 
 <p>For more information about funding and support, click <a href="/services/funding-and-advisory">here.</a></p>
