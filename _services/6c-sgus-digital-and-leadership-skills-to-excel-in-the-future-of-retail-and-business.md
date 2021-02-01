@@ -1,10 +1,10 @@
 ---
 layout: leftnav-page-content
 title: Digital & Leadership Skills to Excel in the Future of Retail & Business
-permalink: /services/sgus-programmes/digital-and-leadership-skills-to-excel-in-the-future-of-retail-and-business
+permalink: /services/sgus-programme/digital-and-leadership-skills-to-excel-in-the-future-of-retail-and-business
 breadcrumb: Digital & Leadership Skills to Excel in the Future of Retail & Business
 collection_name: services
-second_nav_title: "SGUnited Skills (SGUS) Programmes"
+second_nav_title: "SGUnited Skills (SGUS) Programme"
 ---
 
 <h4>Digital & Leadership Skills to Excel in the Future of Retail & Business</h4>
