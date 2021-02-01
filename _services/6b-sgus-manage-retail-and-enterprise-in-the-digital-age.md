@@ -1,10 +1,10 @@
 ---
 layout: leftnav-page-content
 title: Manage Retail & Enterprise in the Digital Age
-permalink: /services/sgus-programmes/manage-retail-and-enterprise-in-the-digital-age
+permalink: /services/sgus-programme/manage-retail-and-enterprise-in-the-digital-age
 breadcrumb: Manage Retail & Enterprise in the Digital Age
 collection_name: services
-second_nav_title: "SGUnited Skills (SGUS) Programmes"
+second_nav_title: "SGUnited Skills (SGUS) Programme"
 ---
 
 <h4>SGUS Programme in Digital & Leadership Skills to Excel in the Future of Retail & Business</h4>
