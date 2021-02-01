@@ -23,6 +23,6 @@ Besides strengthening skills portfolio for enhanced competitiveness and employab
 <b>SIRS offers the following SGUnited Skills (SGUS) Programmes:</b>
 
 <ul>
-  <li><a href="/services/sgus-programmes/manage-retail-and-enterprise-in-the-digital-age">Manage Retail & Enterprise in the Digital Age</a></li>
-  <li><a href="/services/sgus-programmes/digital-and-leadership-skills-to-excel-in-the-future-of-retail-and-business">Digital & Leadership Skills to Excel in the Future of Retail & Business</a></li>
+  <li><a href="/services/sgus-programme/manage-retail-and-enterprise-in-the-digital-age">Manage Retail & Enterprise in the Digital Age</a></li>
+  <li><a href="/services/sgus-programme/digital-and-leadership-skills-to-excel-in-the-future-of-retail-and-business">Digital & Leadership Skills to Excel in the Future of Retail & Business</a></li>
   </ul>
