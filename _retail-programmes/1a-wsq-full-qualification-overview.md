@@ -4,7 +4,7 @@ title: Overview
 permalink: /wsq-programmes/wsq-full-qualification-programmes/
 breadcrumb: Overview
 collection_name: retail-programmes
-second_nav_title: "WSQ Certification Programmes - Full Qualification"
+second_nav_title: "WSQ Full Qualification Programmes"
 ---
 
 SIRS offers the following WSQ Full Qualification programmes:
