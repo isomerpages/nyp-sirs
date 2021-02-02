@@ -35,10 +35,11 @@
 - title: WSQ Programmes
   url: /wsq-programmes/
   sub-links:
+  - title: WSQ Full Qualification Programmes
+    url: /wsq-programmes/wsq-full-qualification-programmes/
   - title: WSQ Certified Modular Programmes
     url: /wsq-programmes/wsq-modular-programmes/
-  - title: WSQ Certification Programmes - Full Qualification
-    url: /wsq-programmes/wsq-full-qualification-programmes/
+    
 
 - title: Digital Programmes
   url: /digital-programmes/
