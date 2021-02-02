@@ -4,7 +4,7 @@ title: Certified Service Professional
 permalink: /retail-programmes/wsq-full-qualification-programmes/certified-service-professional
 breadcrumb: Certified Service Professional
 collection_name: retail-programmes
-second_nav_title: "WSQ Certification Programmes - Full Qualification"
+second_nav_title: "WSQ Full Qualification Programmes"
 ---
 
 <img src="images/wsq/certified-service-professional.jpg" style="width:100%;">
