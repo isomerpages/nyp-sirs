@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Our Partners
+title: Strategic Partners
 permalink: /about-us/our-partners
-breadcrumb: Our Partners
+breadcrumb: Strategic Partners
 collection_name: about-us
 ---
 
