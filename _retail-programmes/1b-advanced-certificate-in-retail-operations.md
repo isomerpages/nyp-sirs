@@ -7,7 +7,7 @@ collection_name: retail-programmes
 second_nav_title: "WSQ Full Qualification Programmes"
 ---
 
-<img src="images/wsq/wsq-acro.jpg" style="width:100%;">
+<img src="/images-2021/WSQ_FullQual_ACRO.png" style="width:100%;">
 
 <p>Many people may not recognise that retailing has evolved into a high-tech, global business.</p>
  
