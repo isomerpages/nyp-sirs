@@ -6,6 +6,7 @@ breadcrumb: SCash NETS Smart Retail Solution
 collection_name: digital-programmes
 second_nav_title: "E-Commerce Programmes"
 ---
+<img src="/images-2021/eCommerce_SCash NETS Smart Retail Solution.png" style="width:100%;">
 
 <p>You can now easily set-up your mobile commerce store with worry-free technology – SCash NETS Mobile Commerce
 Solution. The mobile commerce store enables one-on-one customer engagement and AI technology-driven traffic from
