@@ -1,10 +1,10 @@
 ---
 layout: leftnav-page-content 
 title: SkillsFuture Credit
-permalink: /services/funding-and-advisory/skillsfuture-credit
+permalink: /services/consultancy/skillsfuture-credit
 breadcrumb: SkillsFuture Credit
 collection_name: services
-second_nav_title: "Funding & Advisory"
+second_nav_title: "Consultancy"
 ---
 
 <h4>What is SkillsFuture Credit? (SFC)</h4>
