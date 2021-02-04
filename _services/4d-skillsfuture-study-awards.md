@@ -1,10 +1,10 @@
 ---
 layout: leftnav-page-content 
 title: SkillsFuture Study Awards
-permalink: /services/funding-and-advisory/skillsfuture-study-awards
+permalink: /services/consultancy/skillsfuture-study-awards
 breadcrumb: SkillsFuture Study Awards 
 collection_name: services
-second_nav_title: "Funding & Advisory"
+second_nav_title: "Consultancy"
 ---
 
 <h4>What are the SkillsFuture Study Awards?</h4>
