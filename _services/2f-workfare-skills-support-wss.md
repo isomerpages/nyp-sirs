@@ -1,10 +1,10 @@
 ---
 layout: leftnav-page-content 
 title: Workfare Skills Support (WSS)
-permalink: /services/funding-and-advisory/workfare-skills-support-wss
+permalink: /services/consultancy/workfare-skills-support-wss
 breadcrumb: Workfare Skills Support
 collection_name: services
-second_nav_title: "Funding & Advisory"
+second_nav_title: "Consultancy"
 ---
 
 <h4>What is the Workfare Skills Support (WSS) Scheme?</h4>
