@@ -1,10 +1,10 @@
 ---
 layout: leftnav-page-content 
 title: NTUC Training Fund
-permalink: /services/funding-and-advisory/ntuc-training-fund
+permalink: /services/consultancy/ntuc-training-fund
 breadcrumb: NTUC Training Fund
 collection_name: services
-second_nav_title: "Funding & Advisory"
+second_nav_title: "Consultancy"
 ---
 
 <h4>What is NTUC Training Fund (SEPs)?</h4>
