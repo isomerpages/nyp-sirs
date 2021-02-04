@@ -1,10 +1,10 @@
 ---
 layout: leftnav-page-content 
 title: Enhanced Training Support for SMEs (ETSS)
-permalink: /services/funding-and-advisory/etss
+permalink: /services/consultancy/etss
 breadcrumb: Enhanced Training Support for SMEs
 collection_name: services
-second_nav_title: "Funding & Advisory"
+second_nav_title: "Consultancy"
 ---
 
 <h4>What is Enhanced Training Support For SMEs (ETSS)?</h4>
