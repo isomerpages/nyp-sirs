@@ -1,10 +1,10 @@
 ---
 layout: leftnav-page-content 
 title: Singtel 99% SME Campaign
-permalink: /services/funding-and-advisory/singtel-99sme
+permalink: /services/consultancy/singtel-99sme
 breadcrumb: Singtel 99SME
 collection_name: services
-second_nav_title: "Funding & Advisory"
+second_nav_title: "Consultancy"
 ---
 
 <h4>What is Singtel 99% SME Campaign?</h4>
