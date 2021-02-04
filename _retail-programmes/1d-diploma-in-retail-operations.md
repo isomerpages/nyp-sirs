@@ -7,7 +7,7 @@ collection_name: retail-programmes
 second_nav_title: "WSQ Full Qualification Programmes"
 ---
 
-<img src="images/wsq/wsq-dro.jpg" style="width:100%;">
+<img src="/images-2021/WSQ_FullQual_DRO.png" style="width:100%;">
 
 <p>Retail industry has seen significant changes the past few years with digitisation taking place inn the everyday life of today's connected consumer. While online shopping continues to increase, the demand for the physical store will remain relevant especially for goods that require touch and feel. This derived the concept of 'New Retail', the integration of offline and online platforms with the use of data technology to deliver experience-focused service standards to meet the needs of consumers today. Store Manager are highly valued for their ability to optimize technology advancement to drive day-to-day operations and make data-based decisions.</p>
 
