@@ -1,10 +1,10 @@
 ---
 layout: leftnav-page-content 
 title: Union Training Assistance Programme (UTAP)
-permalink: /services/funding-and-advisory/utap
+permalink: /services/consultancy/utap
 breadcrumb: Union Training Assistance Programme
 collection_name: services
-second_nav_title: "Funding & Advisory"
+second_nav_title: "Consultancy"
 ---
 
 <h4>What is Union Training Assistance Programme (UTAP)?</h4>
