@@ -1,10 +1,10 @@
 ---
 layout: leftnav-page-content 
 title: Productivity Solutions Grant (PSG)
-permalink: /services/funding-and-advisory/psg
+permalink: /services/consultancy/psg
 breadcrumb: Productivity Solutions Grant
 collection_name: services
-second_nav_title: "Funding & Advisory"
+second_nav_title: "Consultancy"
 ---
 
 <h4>What is the Productivity Solutions Grant (PSG)?</h4>
