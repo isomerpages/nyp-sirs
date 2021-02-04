@@ -1,10 +1,10 @@
 ---
 layout: leftnav-page-content 
 title: Skillsfuture Qualification Award
-permalink: /services/funding-and-advisory/skillsfuture-qualification-award
+permalink: /services/consultancy/skillsfuture-qualification-award
 breadcrumb: Skillsfuture Qualification Award
 collection_name: services
-second_nav_title: "Funding & Advisory"
+second_nav_title: "Consultancy"
 ---
 
 <h4>What is the SkillsFuture Qualification Award?</h4>
