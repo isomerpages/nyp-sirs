@@ -1,10 +1,10 @@
 ---
 layout: leftnav-page-content 
 title: Enterprise Development Grant (EDG)
-permalink: /services/funding-and-advisory/edg
+permalink: /services/consultancy/edg
 breadcrumb: Enterprise Development Grant
 collection_name: services
-second_nav_title: "Funding & Advisory"
+second_nav_title: "Consultancy"
 ---
 
 <h4>What is the Enterprise Development Grant (EDG)?</h4>
