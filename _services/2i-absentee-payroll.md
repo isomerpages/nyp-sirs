@@ -1,10 +1,10 @@
 ---
 layout: leftnav-page-content 
 title: Absentee Payroll (AP)
-permalink: /services/funding-and-advisory/absentee-payroll-ap
+permalink: /services/consultancy/absentee-payroll-ap
 breadcrumb: Absentee Payroll
 collection_name: services
-second_nav_title: "Funding & Advisory"
+second_nav_title: "Consultancy"
 ---
 
 <h4>What is Absentee Payroll (AP)?</h4>
