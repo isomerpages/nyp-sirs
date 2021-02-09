@@ -7,7 +7,7 @@ collection_name: about-us
 ---
 <h4>General Enquiries & Feedback</h4>
 
-Tel: +65 6222 7477
+Tel: +65 6222 7477<br>
 Email: courses@sirs.edu.sg
 
 <h4>HQ Address</h4>
