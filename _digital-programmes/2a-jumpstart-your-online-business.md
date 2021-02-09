@@ -53,6 +53,7 @@ content and boost sales</li>
 </center>
 
 <sup>1</sup>Fee is under Enhanced Training Support Package (ETSP)
+<br>
 <em>All fees inclusive of prevailing GST</em>
 
 <p>For more information about funding and support, click <a href="/services/funding-and-advisory">here.</a></p>
