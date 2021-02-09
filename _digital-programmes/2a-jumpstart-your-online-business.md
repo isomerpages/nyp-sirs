@@ -29,3 +29,33 @@ answering customers enquiries and aligning business practices to support online 
 content and boost sales</li>
 <em>Bonus: Professional product photography for up to 20 products included!</em>
 </ul>
+
+<h4>Fees</h4>
+
+<center>
+<table style="width:100%;">
+<tr>
+<th style="width:70%;">Category</th>
+<th style="width:30%:">Price</th>
+</tr>
+  
+<tr>
+<td>Full fees</td>
+<td>$10,700</td>
+</tr>
+
+<tr>
+<td>Singapore Citizen/Singapore PR (SPR)<sup>1</sup></td>
+<td>$1,070</td>
+</tr>
+
+</table>
+</center>
+
+<sup>1</sup>Fee is under Enhanced Training Support Package (ETSP)
+<em>All fees inclusive of prevailing GST</em>
+
+<p>For more information about funding and support, click <a href="/services/funding-and-advisory">here.</a></p>
+
+
+<div style="width:50%;float:left;"><center><a href="https://form.gov.sg/#!/5f9fae2e08d25a0011362014" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Register Now</a></center></div>
