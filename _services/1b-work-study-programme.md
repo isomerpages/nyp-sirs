@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: SkillsFuture Earn and Learn Programme
-permalink: /services/career-services/earn-and-learn-programme
-breadcrumb: Earn and Learn Programme
+title: SkillsFuture Work-Study Programmes
+permalink: /services/career-services/skillsfuture-work-study-programmes
+breadcrumb: SkillsFuture Work-Study Programmes
 collection_name: services
 second_nav_title: "Career Services"
 ---
