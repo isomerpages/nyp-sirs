@@ -5,6 +5,9 @@ permalink: /contact-sirs
 breadcrumb: Contact SIRS
 collection_name: about-us
 ---
+
+<img src="images-2021/ContactUs_Image.png" style="width:100%;">
+
 <h4>General Enquiries & Feedback</h4>
 
 Tel: +65 6222 7477<br>
