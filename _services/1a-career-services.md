@@ -7,7 +7,7 @@ collection_name: services
 second_nav_title: "Career Services"
 ---
 
-<img src="images/career-services-header.jpg" style="width:100%;">
+<img src="images-2021/Services_CareerServices.jpg" style="width:100%;">
 
 <h4>Your Retail Career Pathway</h4>
 
