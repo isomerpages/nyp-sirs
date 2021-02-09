@@ -4,6 +4,7 @@ title: Digital Mentorship Programmes (DMP)
 permalink: /digital-programmes/digital-mentorship-programmes
 breadcrumb: Digital Mentorship Programmes (DMP)
 collection_name: digital-programmes
+second_nav_title: Digital Mentorship Programmes (DMP)
 ---
 
 <img src="images-2021/DigitalProgrammes-DMP-Overview.jpg" style="width:100%;">
