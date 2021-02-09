@@ -19,7 +19,7 @@ collection_name: digital-programmes
 
 <h4>Digital Mentorship Programmes (DMP)</h4>
 <p>A first of its kind, SIRS’ DMP helps small-and-medium-sized enterprises (SMEs) embark on digital commerce journey with personalised guidance. </p>
-<a href="/digital-programmes/alibaba-business-school" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;" target="_blank">Find Out More</a>
+<a href="/digital-programmes/digital-mentorship-programmes" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;" target="_blank">Find Out More</a>
 
 <h4>E-commerce Programmes</h4>
 <p>Kickstart your online business and increase revenue with our onboarding and marketing programmes with top e-commerce and e-marketplace platforms.</p>
@@ -43,4 +43,4 @@ collection_name: digital-programmes
 
 <h4>Study Trips</h4>
 <p>Immerse yourself in real business environments to gain first-hand experience and insights to formulate your strategies towards success.</p>
-<a href="/digital-programmes/skillsfuture-series" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;" target="_blank">Find Out More</a>
+<a href="/digital-programmes/study-trips" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;" target="_blank">Find Out More</a>
