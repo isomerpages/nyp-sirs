@@ -7,7 +7,7 @@ collection_name: services
 second_nav_title: "Career Services"
 ---
 
-<img src="images/elp/elp-header.jpg" style="width:100%;">
+<img src="images-2021/Services_CareerServices_SkillsFuture Work-Study Programme.png" style="width:100%;">
 
 <p>The SkillsFuture Work-Study Programmes give fresh graduates from polytechnics and the Institute of Technical Education (ITE) a head-start in careers related to their discipline of study. It provides them with more opportunities, after graduation, to build on the skills and knowledge they acquired in school, and better supports their transition into the workforce.</p>
 
