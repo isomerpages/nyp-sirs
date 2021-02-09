@@ -6,7 +6,7 @@ breadcrumb: Overview
 collection_name: digital-programmes
 second_nav_title: "Alibaba Business School"
 ---
-<a href="#" onclick="history.go(-1)">Back to previous page</a>
+
 <img src="images/agcs-abs-sirs-atu-combined-logos.png" style="width:100%:">
 
 <h3>About SIRS and Alibaba Business School</h3>
