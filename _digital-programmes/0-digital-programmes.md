@@ -5,7 +5,8 @@ permalink: /digital-programmes
 breadcrumb: Overview
 collection_name: digital-programmes
 ---
-<h3>Digital Programmes</h3>
+
+<img src="DigitalProgrammes_Overview.png" style="width:100%;">
 
 <p>Digital technology is a game-changer. The introduction of innovative retail technologies has created new shopping methods, be it through websites, mobile applications, e-marketplaces, social media platforms or even live streaming. This evolution of the retail landscape has caused a shift in consumer behaviour and expectations, giving rise to new strategies needed for retailers to remain relevant and thrive in competition.</p>
 
@@ -24,6 +25,17 @@ collection_name: digital-programmes
 <h4>E-commerce Programmes</h4>
 <p>Kickstart your online business and increase revenue with our onboarding and marketing programmes with top e-commerce and e-marketplace platforms.</p>
 <a href="/digital-programmes/e-commerce-programmes" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;" target="_blank">Find Out More</a>
+
+<h4>Joint Certification Programmes</h4>
+
+<b>Certified Digital & Professional Consultant (CDPC) Programme</b>
+<p>SIRS with Singapore Productivity Centre (SGPC) and Heartland Enterprise Centre Singapore (HECS) launched this programme to train and upskill digital and productivity consultants in digital commerce, to support and accelerate the digitalisation journey of heartland enterprises.</p>
+<a href="/digital-programmes/certified-digital-productivity-consultant" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;" target="_blank">Find Out More</a>
+
+<b>Professional Certificate in Digital Retail Entertainment</b>
+<p>Online retailers tapping on the retail digitainment wave - using live streaming and video marketing to entertain and interact with followers while selling products - can now get themselves formally certified through this joint certification by SIRS and the Singapore Media Academy (SMA), in collaboration with Alibaba-Taobao University.</p>
+<a href="/digital-programmes/professional-certificate-in-digital-retail-entertainment" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;" target="_blank">Find Out More</a>
+
 
 <h4>Masterclasses & Workshops</h4>
 <p>To remain relevant and ahead of competition, there is no faster way than to learn from expert industry practitioners. Let them share their wealth of experience through our masterclasses & workshops.</p>
