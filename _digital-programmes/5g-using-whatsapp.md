@@ -7,7 +7,7 @@ collection_name: digital-programmes
 second_nav_title: National Silver Academy
 ---
 
-<img src="images-2021/DigitalProgrammes_NSA_TechSavvy-WhatsApp.png" style="width:100%;"
+<img src="images-2021/DigitalProgrammes_NSA_TechSavvy-WhatsApp.png" style="width:100%;">
 
 <p>Stay connected with your family and friends at anytime, anywhere. Learn how to create your account, manage chats, and send messages
 to multiple people at the same time.</p>
