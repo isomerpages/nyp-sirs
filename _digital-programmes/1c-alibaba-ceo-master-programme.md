@@ -6,7 +6,7 @@ breadcrumb: Alibaba CEO Master Programme
 collection_name: digital-programmes
 second_nav_title: "Alibaba Business School"
 ---
-<a href="#" onclick="history.go(-1)">Back to previous page</a>
+
 <img src="images/agcs-abs-sirs-atu-combined-logos.png" style="width:100%:">
 
 <img src="images/alibaba-business-school/alibaba-ceo-master-programme.JPG" style="width:100%;">
@@ -22,7 +22,7 @@ second_nav_title: "Alibaba Business School"
 
 <p>千万不要错过这一个难得的机会，重塑您的零售业务，取得成功！每一次的考察之旅只限40位成功付款的学员参加。完成课程后的学员将获得由阿里巴巴商学院和新加坡零售管理学员所颁发的阿里巴巴大学毕业证书。课程将由淘宝大学认证讲师以中文授课!</p>
 
-<h3>Highlights</h3>
+<h4>Highlights</h4>
 
 <ul>
   <li>Learn from Alibaba certified trainers</li>
