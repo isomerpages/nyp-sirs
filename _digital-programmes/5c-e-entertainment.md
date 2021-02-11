@@ -6,6 +6,7 @@ breadcrumb: E-Entertainment
 collection_name: digital-programmes
 second_nav_title: National Silver Academy
 ---
+<img src="images-2021/DigitalProgrammes_NSA_TechSavvy-E-Entertainment.png" style="width:100%;">
 
 <p>There are mobile apps that will provide you with a great source of entertainment! Learn to search and watch videos, as well as tune in
 to your favourite local radio stations.</p>
