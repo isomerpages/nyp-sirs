@@ -7,6 +7,8 @@ collection_name: digital-programmes
 second_nav_title: National Silver Academy
 ---
 
+<img src="images-2021/DigitalProgrammes_NSA_TechSavvy-GooglePhotos.png" style="width:100%;>
+                                                                               
 <p>Enhance and edit the photos you have taken using the Google Photos app. Learn how to store, manage, and share these beautiful photos with your loved ones!</p>
 
 <h4>Outline</h4>
