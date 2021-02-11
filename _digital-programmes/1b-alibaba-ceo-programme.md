@@ -44,6 +44,8 @@ You are only a trip away to gain useful takeaways for immediate business applica
   <li>探店“亲橙里”及体验黑科技产品</li>
 </ul>
 
+<h4>Itinerary</h4>
+
 <p>Day 1<br>
 <li>Depart Singapore to Hangzhou, China</li>
 <li>Check in Hotel</li>
@@ -88,6 +90,8 @@ You are only a trip away to gain useful takeaways for immediate business applica
 <li>Depart Hangzhou, China to Singapore</li>
 <li>Meals provided: Breakfast</li>
 </p>
+
+<h4>日程</h4>
 
 <p>第一天<br>
 <li>从新加坡飞往杭州，中国</li>
