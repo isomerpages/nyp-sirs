@@ -7,7 +7,7 @@ collection_name: digital-programmes
 second_nav_title: National Silver Academy
 ---
 
-<img src="images/national-silver-academy.jpg" style="width:100%;">
+<img src="images-2021/DigitalProgrammes_NSA_TechSavvy.jpg" style="width:100%;">
 
 <p>The National Silver Academy comprises a network of course providers, providing a wide range of courses to seniors to encourage lifelong learning. Courses under the NSA not only equips seniors with work skills, but also caters to interests in media, design, finance, and more.
 
