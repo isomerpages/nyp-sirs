@@ -31,13 +31,15 @@ second_nav_title: "Alibaba Business School"
 <li>Guided tour in Hema Fresh</li>
 </ul>
 
-<h3>亮点</h3>
+<h4>亮点</h4>
 <ul>
   <li>课程将由阿里巴巴证讲师以中文授课</li>
 <li>阿里巴巴集团菲住布渴酒店黑科技参观及用餐</li>
 <li>到访阿里巴巴总部</li>
 <li>参访盒马鲜生</li>
 </ul>
+
+<h4>Itinerary</h4>
 
 <p>Day 1<br>
 <li>Depart Singapore to Hangzhou, China</li>
@@ -86,6 +88,8 @@ second_nav_title: "Alibaba Business School"
 <li>Depart Hangzhou, China to Singapore</li>
 <li>Meals provided: Breakfast</li>
 </p>
+
+<h4>日程</h4>
   
 <p>第一天<br>
 <li>从新加坡飞往杭州，中国</li>
