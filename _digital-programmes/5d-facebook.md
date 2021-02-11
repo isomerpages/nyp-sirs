@@ -7,6 +7,8 @@ collection_name: digital-programmes
 second_nav_title: National Silver Academy
 ---
 
+<img src="images-2021/DigitalProgrammes_NSA_TechSavvy-Facebook.png" style"width:100%;">
+
 <p>Stay in touch with your family and friends digitally on Facebook. Learn to create and customise your profile, explore the features,
 and protect your account while you socialise!</p>
 
