@@ -6,7 +6,7 @@ breadcrumb: Amazon Web Services Business Essentials
 collection_name: digital-programmes
 second_nav_title: "Masterclasses & Workshops"
 ---
-<img src="Masterclasses&Workshops_SIRS_Banner.png" style="width:100%;">
+<img src="images-2021/DigitalProgrammes-Image-Masterclass.png" style="width:100%;">
 
 <p>Many industries are already benefiting from cloud technology. Retailers too, regardless their size, will
 have a big gain using it. From reduction of IT costs, improvement of the overall business process to
@@ -29,7 +29,7 @@ security and data protection</li>
 cycle, cost management, and contracts while minimizing risks associated with consumptionbased pricing models</li>
 </ul>
 
-<h3>Trainer Profile</h3>
+<h4>Trainer Profile</h4>
 <p><b>Roney Joseph P.</b><br>
   <em>Senior Technical Trainer, Amazon Web Services</em><br>
 
@@ -99,4 +99,4 @@ and organizational skills with proven abilities in people management and trainin
   </ul>
 </ul>
 
-<p>For more information about funding and support, click <a href="/services/funding-and-advisory">here.</a></p>
+<p>For more information about funding and support, click <a href="/services/consultancy">here.</a></p>
