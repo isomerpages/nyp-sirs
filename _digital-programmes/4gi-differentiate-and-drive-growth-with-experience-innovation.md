@@ -6,7 +6,7 @@ breadcrumb: Differentiate and Drive Growth with Experience Innovation
 collection_name: digital-programmes
 second_nav_title: "Masterclasses & Workshops"
 ---
-<img src="Masterclasses&Workshops_SIRS_Banner.png" style="width:100%;">
+<img src="images-2021/DigitalProgrammes-Image-Masterclass.png" style="width:100%;">
 
 <p>It is undeniable that good customer experience increases the likelihood of repeat business and retain
 loyal customers. Customers in today’s digital world are exposed to multiple communication platforms,
@@ -89,4 +89,4 @@ to develop a new skillset or deepen their knowledge in understanding of customer
   </ul>
 </ul>
 
-<p>For more information about funding and support, click <a href="/services/funding-and-advisory">here.</a></p>
+<p>For more information about funding and support, click <a href="/services/consultancy">here.</a></p>
