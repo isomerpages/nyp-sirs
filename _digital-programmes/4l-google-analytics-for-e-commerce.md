@@ -7,7 +7,7 @@ collection_name: digital-programmes
 second_nav_title: "Masterclasses & Workshops"
 ---
 
-<img src="images/digital-masterclasses/google-analytics-for-e-commerce-with-gaiq-certification.jpg" style="width:100%;">
+<img src="images-2021/DigitalProgrammes-Image-Masterclass.png" style="width:100%;">
 
 <p>Following the rapid developments in e-commerce, it is increasingly crucial to understand the measurement framework that can help you better understand and achieve the effectiveness of your digital strategy. Data analytics has, therefore, become an important component which gives you the ability to track and optimise marketing campaigns by providing deep insights into multi-channel funnels and conversion attribution. The core analysis techniques are imperative in driving growth and success of digital business for retailers.</p>
 
@@ -69,4 +69,4 @@ All fees inclusive of prevailing GST</em>
 
 <center><a href="https://form.gov.sg/#!/5e4a462056e8230011d5d3bb" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;" target="_blank">Request for Brochure</a></center>
   
- <P> <center><a href="https://form.gov.sg/5d9d3f30a8b1b30012143f58" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;" target="_blank">Register Now</a></center>
+ <P> <center><a href="https://form.gov.sg/5d9d3f30a8b1b30012143f58" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;" target="_blank">Register Here</a></center>
