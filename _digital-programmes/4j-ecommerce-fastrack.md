@@ -6,7 +6,7 @@ breadcrumb: eCommerce Fastrack
 collection_name: digital-programmes
 second_nav_title: "Masterclasses & Workshops"
 ---
-<img src="Masterclasses&Workshops_SIRS_Banner.png" style="width:100%;">
+<img src="images-2021/DigitalProgrammes-Image-Masterclass.png" style="width:100%;">
 
 Digital transformation has empowered consumers more than ever before and businesses that adopt
 eCommerce will gain competitive advantage. To be successful in eCommerce, businesses need to
@@ -93,4 +93,4 @@ rapid traction in the digital commerce route.
   </ul>
 </ul>
 
-<p>For more information about funding and support, click <a href="/services/funding-and-advisory">here.</a></p>
+<p>For more information about funding and support, click <a href="/services/consultancy">here.</a></p>
