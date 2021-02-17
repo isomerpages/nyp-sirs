@@ -3,7 +3,7 @@ layout: leftnav-page-content
 title: Job Redeployment/Redesign Reskilling PCP
 permalink: /digital-programmes/job-redeployment-redesign-pcp
 breadcrumb: Job Redeployment/Redesign Reskilling PCP
-collection_name: digital-programmes
+collection_name: services
 second_nav_title: "Career Services"
 ---
 
@@ -40,18 +40,19 @@ of facilitated classroom training and structured on-the-job (OJT) across 3 month
 <ul>
 <li><b>Standard Rate for Singapore Citizens and Permanent Residents:</b>
   <ol>
-<p><li>Up to 70% of monthly salary (capped at $2,000 per month)</li></p>
+    <p><li>Up to 70% of monthly salary (capped at $2,000 per month)</li></p>
 </ol>
 </li>
 </ul>
  
 <ul>
-<li><b>Enhanced Rate for Singapore Citizen Mature Workers (aged 40 and above) only:</li></b>
+<li><b>Enhanced Rate for Singapore Citizen Mature Workers (aged 40 and above) only:</b>
   <ol>
 <p><li>Up to 90% of the monthly salary (capped at $3,000 per month)</li></p>
-<p><li>Salary support based on the duration of the programme (maximum 3 months)</li></p>
 </ol>
 </li>
 </ul>
+
+<b>Salary support based on the duration of the programme (maximum 3 months)</b>
  
 For more information on this programme, please email to upskill@sirs.edu.sg
