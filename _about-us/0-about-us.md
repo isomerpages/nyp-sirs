@@ -31,19 +31,12 @@ To promote skills deepening and lifelong learning, SIRS, in collaboration with t
 <img src="images-2021/AboutUs_SIRS_Solutions&Services.png" style="width:80%;">
 
 <p>
-<dl>
-  <dt><a href="/services/education-and-training">Educate</a></dt>
-  <dd>Raise awareness and offer accessibility to leading edge knowledge and skills, as well as industry trends </dd>
- 
-  <dt><a href="/services/education-and-training">Train</a></dt>
-  <dd>Quality and industry relevant training to the retail workforce, and enhance enterprise human capital</dd>
-  
-  <dt><a href="/services/career-services">Place</a></dt>
-  <dd>Career services such as advisory and placement assistance to job seekers, redesign jobs to create value for enterprises</dd>
-  
-  <dt><a href="/services/consultancy">Consult</a></dt>
-  <dd>Consultancy services and solutions to retailers who need assistance in business transformation and digitalisation</dd>
-</dl>
+<ul>
+ <li><a href="/services/education-and-training">Educate</a>: Raise awareness and offer accessibility to leading edge knowledge and skills, as well as industry trends</li>
+ <li><a href="/services/education-and-training">Train</a>: Quality and industry relevant training to the retail workforce, and enhance enterprise human capital</li>
+ <li><a href="/services/career-services">Place</a>: Career services such as advisory and placement assistance to job seekers, redesign jobs to create value for enterprises</li>
+ <li><a href="/services/consultancy">Consult</a>: Consultancy services and solutions to retailers who need assistance in business transformation and digitalisation</li>
+</ul>
 </p>
 
-<em><small>*As an educational institution, NYP is committed to ensuring a safe and supportive campus and environment where there is respect and dignity for everyone. Accordingly, high standards of conduct are expected from all in our community. In case of any alleged offences committed within our premises, SIRS may report the matter to the security and/or relevant government agencies.</small></em>
+<p>*As an educational institution, NYP is committed to ensuring a safe and supportive campus and environment where there is respect and dignity for everyone. Accordingly, high standards of conduct are expected from all in our community. In case of any alleged offences committed within our premises, SIRS may report the matter to the security and/or relevant government agencies.</p>
