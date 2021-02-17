@@ -6,7 +6,7 @@ breadcrumb: Change Management in a Digitally Enabled World
 collection_name: digital-programmes
 second_nav_title: "Masterclasses & Workshops"
 ---
-<img src="Masterclasses&Workshops_SIRS_Banner.png" style="width:100%;">
+<img src="images-2021/DigitalProgrammes-Image-Masterclass.png" style="width:100%;">
 
 The tectonic plates of business and technology are shifting. The speed of change that businesses face today
 is advancing in the blink of an eye. Today’s business norm is to optimise disruptive innovations powered by
@@ -105,4 +105,4 @@ Kong and Malaysia.</p>
   </ul>
 </ul>
 
-<p>For more information about funding and support, click <a href="/services/funding-and-advisory">here.</a></p>
+<p>For more information about funding and support, click <a href="/services/consultancy">here.</a></p>
