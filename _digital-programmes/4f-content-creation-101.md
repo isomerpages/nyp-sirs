@@ -6,7 +6,7 @@ breadcrumb: Content Creation 101
 collection_name: digital-programmes
 second_nav_title: "Masterclasses & Workshops"
 ---
-<img src="Masterclasses&Workshops_SIRS_Banner.png" style="width:100%;">
+<img src="images-2021/DigitalProgrammes-Image-Masterclass.png" style="width:100%;">
 
 Content marketing is a marketing approach to creating and distributing valuable, relevant and consistent
 content to attract and expand your customer base. It supports the objective of driving profitable customer
@@ -119,4 +119,4 @@ South East Asian countries.
   </ul>
 </ul>
 
-<p>For more information about funding and support, click <a href="/services/funding-and-advisory">here.</a></p>
+<p>For more information about funding and support, click <a href="/services/consultancy">here.</a></p>
