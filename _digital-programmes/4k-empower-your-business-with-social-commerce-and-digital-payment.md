@@ -6,7 +6,7 @@ breadcrumb: Empower Your Business with Social Commerce & Digital Payment
 collection_name: digital-programmes
 second_nav_title: "Masterclasses & Workshops"
 ---
-<img src="Masterclasses&Workshops_SIRS_Banner.png" style="width:100%;">
+<img src="images-2021/DigitalProgrammes-Image-Masterclass.png" style="width:100%;">
 
 Social media channels are no longer just networking platforms but have evolved to become e-marketplaces
 for direct selling and buying of products and services. Known as Social Commerce, it is a trend that is fast
@@ -115,4 +115,4 @@ code to improve customer payment experience.</p>
   </ul>
 </ul>
 
-<p>For more information about funding and support, click <a href="/services/funding-and-advisory">here.</a></p>
+<p>For more information about funding and support, click <a href="/services/consultancy">here.</a></p>
