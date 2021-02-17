@@ -28,7 +28,7 @@ responsibilities, to achieve organisational goals.</p>
 <p>Suitable for participants with at least 3 years senior managerial working experience in retail or Professional, Managers, Executives and Technicians (PMETs) 
 position in non-retail sector.</p>
 
-<b>Outline</b>
+<h4>Outline</h4>
 
 <ul>
   <li>Engage Customers through Social Media (7 hours)</li>
@@ -52,7 +52,7 @@ position in non-retail sector.</p>
   <li>Set Up an Online Business (+ Project Work) (39 hours)</li>
   </ul>
  
-<b>Admission Requirements</b>
+<h4>Admission Requirements</h4>
 <p>GCE 'O' level Credit (at least C6) in English and Mathematics or Workplace Literacy and Numeracy (WPLN) score: Level 7 for Reading, Listening and Numeracy.</p>
 
 <h4>Fees</h4>
@@ -72,5 +72,5 @@ position in non-retail sector.</p>
 </table>
 </center>
 
-<p>For more information about funding and support, click <a href="/services/funding-and-advisory">here.</a></p>
+<p>For more information about funding and support, click <a href="/services/consultancy">here.</a></p>
 
