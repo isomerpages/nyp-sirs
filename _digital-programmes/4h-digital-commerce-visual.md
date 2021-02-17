@@ -9,11 +9,16 @@ second_nav_title: "Masterclasses & Workshops"
 
 <img src="images/digital-masterclasses/digital-commerce-visual.jpg" style="width:100%;">
 
-<h4>
-Next Online Classroom Intake
-<li>10-11 Nov 2020 (Tue-Wed)</li>
-<li>21-22 Jan 2021 (Thu-Fri)</li>
-  </h4>
+<h4 style="text-align:center;">Next intake:</h4>
+
+<center><table style="width:80%;">
+    <tr style="text-align:center;">
+      <th style="text-align:center;width:50%;">Online Classroom</th>
+    </tr>
+    <tr style="text-align:center;">
+      <td style="text-align:center;width:50%;">To be confirmed</td>
+    </tr>
+</table></center>
   
 
 <p>Human are visual beings. Visual content enables customers to absorb and remember your brand better. It is more effective than any other form of communication. Marketers who use visual marketing tend to reap higher returns in terms of fans, followers, readers, leads, clients and, of course, revenue. Through this Masterclass, participants will develop a good understanding of visual marketing for Omni-commerce; applicable to both entrepreneurial and marketing operation with practical hands-on applications and case studies.</p>
@@ -56,11 +61,6 @@ Next Online Classroom Intake
 <tr>
   <td>Singapore Citizen/SPR sponsored by SMEs<sup>2</sup> (90% funding)</td>
 <td>$145.20</td>
-</tr>
-
-<tr>
-<td><a href="/services/consultancy/funding-and-support/workfare-training-support-scheme">Workfare Training Support (WTS)</a> recipient (95% funding)</td>
-<td>$85.20</td>
 </tr>
 
 </table>
