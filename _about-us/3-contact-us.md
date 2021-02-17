@@ -15,7 +15,7 @@ Lifelong Learning Institute<br>
 #08-02/03/04<br>
 Singapore 408601<br>
 Nearest MRT: Paya Lebar MRT<br></p>
-Find Directions
+<a href="https://www.google.com/maps/dir/1.3198688,103.89251/1.3196896,103.8924922/@1.3191312,103.8928854,16.73z?hl=en">Find Directions</a>
 
 <h4>General Enquiries & Feedback</h4>
 
