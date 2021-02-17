@@ -6,7 +6,7 @@ breadcrumb: 3 Steps to Digitise Your Business
 collection_name: digital-programmes
 second_nav_title: "Masterclasses & Workshops"
 ---
-<img src="Masterclasses&Workshops_SIRS_Banner.png" style="width:100%;">
+<img src="DigitalProgrammes-Image-Masterclass.png" style="width:100%;">
 
 In this digital world we live in, it is no longer a matter of whether a business should become digitised, it is
 a matter of when. It is a journey which aims at leveraging the power of digital technologies to automate
