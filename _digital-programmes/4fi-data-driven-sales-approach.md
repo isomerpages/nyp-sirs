@@ -6,7 +6,7 @@ breadcrumb: Data-Driven Sales Approach
 collection_name: digital-programmes
 second_nav_title: "Masterclasses & Workshops"
 ---
-<img src="Masterclasses&Workshops_SIRS_Banner.png" style="width:100%;">
+<img src="images-2021/DigitalProgrammes-Image-Masterclass.png" style="width:100%;">
 
 <p>How customers shop is changing dramatically. It used to be a linear process – from awareness through
 consideration to purchase. Now, in a connected marketplace, it is much more complex, with multiple and
@@ -82,4 +82,4 @@ out will be the ones that can provide these solutions – seamlessly and intuiti
   </ul>
 </ul>
 
-<p>For more information about funding and support, click <a href="/services/funding-and-advisory">here.</a></p>
+<p>For more information about funding and support, click <a href="/services/consultancy">here.</a></p>
