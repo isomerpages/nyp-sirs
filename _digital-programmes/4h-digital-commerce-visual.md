@@ -7,7 +7,7 @@ collection_name: digital-programmes
 second_nav_title: "Masterclasses & Workshops"
 ---
 
-<img src="images/digital-masterclasses/digital-commerce-visual.jpg" style="width:100%;">
+<img src="images-2021/DigitalProgrammes-Image-Masterclass.png" style="width:100%;">
 
 <h4 style="text-align:center;">Next intake:</h4>
 
