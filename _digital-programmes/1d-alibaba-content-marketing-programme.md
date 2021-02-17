@@ -6,7 +6,6 @@ breadcrumb: Alibaba Content Marketing Programme
 collection_name: digital-programmes
 second_nav_title: "Alibaba Business School"
 ---
-<a href="#" onclick="history.go(-1)">Back to previous page</a>
 
 <img src="images/agcs-abs-sirs-atu-combined-logos.png" style="width:100%:">
 
@@ -80,11 +79,6 @@ second_nav_title: "Alibaba Business School"
 <td>$689.70</td>
 </tr>
 
-<tr>
-<td><a href="/services/consultancy/funding-and-support/workfare-training-support-scheme">Workfare Training Support (WTS)</a> recipient (95% funding)</td>
-<td>$404.70</td>
-</tr>
-
 </table>
 </center>
 
@@ -95,4 +89,4 @@ All fees inclusive of prevailing GST</em>
 
 <center><a href="https://form.gov.sg/#!/5e4a462056e8230011d5d3bb" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;" target="_blank">Request for Brochure</a></center>
   
- <P> <center><a href="https://form.gov.sg/#!/5d9d56784073c8001282fd64" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;" target="_blank">Register Now</a></center>
+ <P> <center><a href="https://form.gov.sg/#!/5d9d56784073c8001282fd64" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;" target="_blank">Register Here</a></center>
