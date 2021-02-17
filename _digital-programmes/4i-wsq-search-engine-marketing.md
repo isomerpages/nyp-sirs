@@ -7,8 +7,19 @@ collection_name: digital-programmes
 second_nav_title: "Masterclasses & Workshops"
 ---
 
-<h4>Next Intake for Online Training</h4>
-<h3>17, 18, 21 and 22 Dec (Thurs, Fri, Mon and Tue)</h3>
+<img src="images-2021/DigitalProgrammes-Image-Masterclass.png" style="width:100%;">
+
+<h4 style="text-align:center;">Next intake:</h4>
+
+<center><table style="width:80%;">
+    <tr style="text-align:center;">
+      <th style="text-align:center;width:50%;">Online Training</th>
+    </tr>
+    <tr style="text-align:center;">
+      <td style="text-align:center;width:50%;">To be confirmed</td>
+    </tr>
+</table></center>
+
 
 <h4>Total Training Duration: 24 hours</h4>
 
@@ -26,6 +37,7 @@ immediate brand visibility, increase traffic, and boost lead conversions – a k
 <li>Up to 90% course subsidy</li>
 
 <h4>Outline</h4>
+
 <ul>
 <li>Fundamental concepts and best practices for Google Search and Display Network advertising</li>
 <li>Advertise products and services online effectively through Google Search</li>
@@ -67,3 +79,7 @@ immediate brand visibility, increase traffic, and boost lead conversions – a k
 
 </table>
 </center>
+
+<p>For more information about funding and support, click <a href="/services/consultancy">here.</a></p>
+
+
