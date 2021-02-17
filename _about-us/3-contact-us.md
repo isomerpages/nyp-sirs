@@ -21,7 +21,7 @@ Nearest MRT: Paya Lebar MRT<br></p>
 
 <b>Contact Customer Relations Centre via</b>
 <p>Call: (+65) 6222 7477<br>
-Email: courses@sirs.edu.sg</p>
+  Email: <a href = "mailto: courses@sirs.edu.sg">courses@sirs.edu.sg</a></p>
 
 <h4>Corporate Trainings & Partnerships</h4>
 
