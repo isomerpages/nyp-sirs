@@ -6,7 +6,7 @@ breadcrumb: Brand Advocacy through Social Media
 collection_name: digital-programmes
 second_nav_title: "Masterclasses & Workshops"
 ---
-<img src="Masterclasses&Workshops_SIRS_Banner.png" style="width:100%;">
+<img src="images-2021/DigitalProgrammes-Image-Masterclass.png" style="width:100%;">
 
 <p>The power of social media has shaped our world into a highly connected one, changing the way people
 work, socialize and shop. By leveraging on this connectivity, your organization is able to further expand
@@ -84,4 +84,4 @@ referrals and business opportunities.</p>
   </ul>
 </ul>
 
-<p>For more information about funding and support, click <a href="/services/funding-and-advisory">here.</a></p>
+<p>For more information about funding and support, click <a href="/services/consultancy">here.</a></p>
