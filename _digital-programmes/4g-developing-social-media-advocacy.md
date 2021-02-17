@@ -6,7 +6,7 @@ breadcrumb: Developing Social Media Advocacy
 collection_name: digital-programmes
 second_nav_title: "Masterclasses & Workshops"
 ---
-<img src="Masterclasses&Workshops_SIRS_Banner.png" style="width:100%;">
+<img src="images-2021/DigitalProgrammes-Image-Masterclass.png" style="width:100%;">
 
 Leads through social media advocates convert more often than any other leads. Information shared
 by advocates is deemed to be more credible than any content shared through the brand’s own social
@@ -99,4 +99,4 @@ Natasha has helped clients stay competitive in today’s digital environment.</p
   </ul>
 </ul>
 
-<p>For more information about funding and support, click <a href="/services/funding-and-advisory">here.</a></p>
+<p>For more information about funding and support, click <a href="/services/consultancy">here.</a></p>
