@@ -26,7 +26,7 @@ Email: courses@sirs.edu.sg</p>
 <h4>Corporate Trainings & Partnerships</h4>
 
 <b>Contact Business Development via</b>
-<p>Email: upskill@sirs.edu.sg</p>
+<p>Email: <a href = "mailto: upskill@sirs.edu.sg">upskill@sirs.edu.sg</a></p>
 
 <h4>Operating Hours</h4>
 
