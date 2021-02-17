@@ -7,7 +7,7 @@ collection_name: services
 second_nav_title: "SGUnited Skills (SGUS) Programme"
 ---
 
-<img src="123.jpg" style="images-2021/Services-CareerServices-SGUS-Overview.png">
+<img src="images-2021/Services-CareerServices-SGUS-Overview.png" style="width:100%;">
 
 <h4>SGUnited Skills (SGUS) Programme</h4>
 
