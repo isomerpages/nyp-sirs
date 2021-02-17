@@ -45,5 +45,5 @@ block; margin: 4px 2px; cursor:pointer;text-decoration:none;">For Employers</a><
 <div style="width:50%;float:left;"><center><a href="/documents-2021/Services_PCP_NMP_Applicants_Factsheet_v1_Jan 21.pdf" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">For Applicants</a></center></div>
 
 
-<p>For more information about funding and support, click <a href="/services/funding-and-advisory">here.</a></p>
+<p>For more information about funding and support, click <a href="/services/consultancy">here.</a></p>
 
