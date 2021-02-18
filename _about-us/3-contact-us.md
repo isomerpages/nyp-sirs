@@ -26,6 +26,5 @@ Nearest MRT: Paya Lebar MRT<br></p>
 
 <h4>Operating Hours</h4>
 
-<p>Mon – Thu: 8.30am – 6.00pm<br>
-Fri: 8.30am – 5pm<br>
+<p>Mon – Thu: 8.30am – 6.00pm | Fri: 8.30am – 5pm<br>
 Closed on Weekends and Public Holidays</p>
