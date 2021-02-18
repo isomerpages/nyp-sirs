@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: E-Entertainment
-permalink: /digital-programmes/national-silver-academy/be-a-tech-savvy-senior
+permalink: /digital-programmes/national-silver-academy/e-entertainment
 breadcrumb: E-Entertainment
 collection_name: digital-programmes
 second_nav_title: National Silver Academy
@@ -42,4 +42,4 @@ to your favourite local radio stations.</p>
 
 <em>All fees inclusive of prevailing GST</em>
 
-<p>For more information about funding and support, click <a href="/services/funding-and-advisory">here.</a></p>
+<p>For more information about funding and support, click <a href="/services/consultancy">here.</a></p>
