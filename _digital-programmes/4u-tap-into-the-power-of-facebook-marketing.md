@@ -6,19 +6,19 @@ breadcrumb: Tap into the Power of Facebook Marketing
 collection_name: digital-programmes
 second_nav_title: "Masterclasses & Workshops"
 ---
-<img src="Masterclasses&Workshops_SIRS_Banner.png" style="width:100%;">
+<img src="images-2021/DigitalProgrammes-Image-Masterclass.png" style="width:100%;">
 
-Facebook is a popular social media platform for many businesses to market their brand and services.
+<p>Facebook is a popular social media platform for many businesses to market their brand and services.
 Facebook Pages provide the most ideal business marketing solution as they are user-searchable and
 public accessible by search engines. While some companies use Facebook Pages, many fail to fully benefit
-from all that Facebook offers.
+from all that Facebook offers.</p>
 
-This masterclass will cover the structure of an effective Facebook Page, best practices and tips for using
+<p>This masterclass will cover the structure of an effective Facebook Page, best practices and tips for using
 Facebook Pages. Through hands-on practical session, participants will get to learn and apply their
 knowledge in real-time. The class is suitable for retailers who already have a Facebook Page and want to
-learn how to maximise it effectively.
+learn how to maximise it effectively.</p>
 
-Suitable for Marketing, Marcom & PR, Editorial, and Digital Marketing Teams.
+<p>Suitable for Marketing, Marcom & PR, Editorial, and Digital Marketing Teams.</p>
 
 <h4>Outline</h4>
 
@@ -77,29 +77,22 @@ Botanical Garden.</p>
 </table>
 </center>
 
-<p>Learners may be also eligible for the following:</p>
+<em>Fees include prevailing GST.</em>
 
+<h4>Additional Support</h4>
+
+<p>This course is also eligible for the following:</p>
+
+<p>For self-sponsored participants:</p>
 <ul>
-<li>Absentee Payroll
-  <ul>
-  <li>For all Singaporean & SPR</li>
-  <li>80% of basic hourly salary, capped at $7.50 per hour</li>
-  </ul>
+  <li>SkillsFuture Credit</li>
+  <li>Workfare Skills Support (WSS)</li>
 </ul>
-
+  
+<p>For company-sponsored participants:</p>
 <ul>
-<li>Workfare Skills Support (WSS) Scheme</li>
-  <ul>
-  <li>Absentee Payroll: Up to 95% of hourly basic salary</li>
+  <li>Absentee Payroll</li>
+  <li>Workfare Skills Support (WSS) Scheme (Absentee Payroll)</li>
   </ul>
-</ul>
 
-<ul>
-<li>SkillsFuture Credit</li>
-  <ul>
-  <li>For Singapore Citizens aged 25 and above</li>
-  <li>Offset course fee payable after funding</li>
-  </ul>
-</ul>
-
-<p>For more information about funding and support, click <a href="/services/funding-and-advisory">here.</a></p>
+<p>For more information about funding and support, click <a href="/services/consultancy">here.</a></p>
