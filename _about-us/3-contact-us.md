@@ -14,14 +14,15 @@ collection_name: about-us
 Lifelong Learning Institute<br>
 #08-02/03/04<br>
 Singapore 408601<br>
+
 Nearest MRT: Paya Lebar MRT<br></p>
 <a href="https://www.google.com/maps/dir/1.3198688,103.89251/1.3196896,103.8924922/@1.3191312,103.8928854,16.73z?hl=en">Find Directions</a>
 
 <h4>General Enquiries & Feedback</h4>
 
 <b>Contact Customer Relations Centre via</b>
-<p>Call: (+65) 6222 7477<br>
-  Email: <a href = "mailto: courses@sirs.edu.sg">courses@sirs.edu.sg</a></p>
+Call: (+65) 6222 7477<br>
+Email: <a href = "mailto: courses@sirs.edu.sg">courses@sirs.edu.sg</a></p>
 
 <h4>Corporate Trainings & Partnerships</h4>
 
