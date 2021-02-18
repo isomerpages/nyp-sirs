@@ -17,7 +17,7 @@ second_nav_title: "Professional Conversion Programme (PCP)"
 
 <h4 id="pcp-rp">PCP - Retail Professional (PCP - RP)</h4>
 
-<img src="images/pcp/pcp-retail-professional.jpg" style="width:100%:">
+<img src="images-2021/Services-CareerServices-PCP-RP.jpg" style="width:100%:">
 
 <p>PMET mid-career switchers will undergo skills conversion to embark on a career in retail such as Operations, Customer Service or Supply Chain job roles, to assist retailers to meet growing consumers’ expectations and to deliver a memorable customer journey.
 Under the PCP - RP, participants will complete the following modules from the Workforce Skills Qualification (WSQ) Diploma in Retail (Operations):
@@ -34,7 +34,7 @@ Under the PCP - RP, participants will complete the following modules from the Wo
 
 <h4 id="pcp-dp">PCP - Digital Professional (PCP - DP)</h4>
 
-<img src="images/pcp/pcp-digital-professional.jpg" style="width:100%:">
+<img src="images-2021/Services-CareerServices-PCP-DP.jpg" style="width:100%:">
 
 <p>PMET mid-career switchers will be reskilled with the necessary competencies to move into new occupations in retail such as Online Business or E-commerce Business Development job roles, to assist retailers to digitalise their business and to provide seamless O2O integration.</p>
 
@@ -49,7 +49,7 @@ Under the PCP - RP, participants will complete the following modules from the Wo
 
 <h4 id="pcp-nmp">PCP - New Media Professional (PCP - NMP)</h4>
 
-<img src="images/pcp/pcp-new-media-professional.jpg" style="width:100%:">
+<img src="images-2021/Services-CareerServices-PCP-NMP.jpg" style="width:100%:">
 
 <p>Live broadcast is gaining traction as it becomes a popular and effective way to engage customers. To keep abreast of the new trend and support employers to develop their media communication for digital commerce, the new PCP track aims to groom new media enthusiasts into professionals with the relevant skills, such as storytelling and video production, to help employers engage with their fan communities in their marketing and promotional campaigns.</p>
 
