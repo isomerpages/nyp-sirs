@@ -86,7 +86,7 @@ Botanical Garden.</p>
 <p>For self-sponsored participants:</p>
 <ul>
   <li>SkillsFuture Credit</li>
-  <li>Workfare Skills Support (WSS)</li>
+  <li>Workfare Skills Support (WSS) Scheme</li>
 </ul>
   
 <p>For company-sponsored participants:</p>
