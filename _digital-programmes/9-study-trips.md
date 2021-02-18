@@ -1,9 +1,10 @@
 ---
 layout: leftnav-page-content
-title: Study Trips
+title: Overview
 permalink: /digital-programmes/study-trips
-breadcrumb: Study Trips
+breadcrumb: Overview
 collection_name: digital-programmes
+second_nav_title: Study Trips
 ---
 
 <img src="images-2021/DigitalProgrammes-StudyTrips.jpg" style="width:100%;">
