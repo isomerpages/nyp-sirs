@@ -6,7 +6,7 @@ breadcrumb: Improve Customer Engagement with Digital Mindset
 collection_name: digital-programmes
 second_nav_title: "Masterclasses & Workshops"
 ---
-<img src="images-2021/DigitalProgrammes-Image-Masterclass.png" style="width:100%;">
+<img src="images-2021/DigitalProgrammes-HImage-Workshop.png" style="width:100%;">
 
 Customers are everything for all businesses. For this reason, it is important for any businesses to
 continuously be in touch with their customers. This is especially true when we are living in a digitally
@@ -63,29 +63,22 @@ in the digital world.
 </table>
 </center>
 
-<p>Learners may be also eligible for the following:</p>
+<em>Fees include prevailing GST.</em>
 
-<ul>
-<li>Absentee Payroll
-  <ul>
-  <li>For all Singaporean & SPR</li>
-  <li>80% of basic hourly salary, capped at $7.50 per hour</li>
-  </ul>
-</ul>
+<h4>Additional Support</h4>
 
-<ul>
-<li>Workfare Skills Support (WSS) Scheme</li>
-  <ul>
-  <li>Absentee Payroll: Up to 95% of hourly basic salary</li>
-  </ul>
-</ul>
+<p>This course is also eligible for the following:</p>
 
+<p>For self-sponsored participants:</p>
 <ul>
-<li>SkillsFuture Credit</li>
-  <ul>
-  <li>For Singapore Citizens aged 25 and above</li>
-  <li>Offset course fee payable after funding</li>
-  </ul>
+  <li>SkillsFuture Credit</li>
+  <li>Workfare Skills Support (WSS) Scheme</li>
 </ul>
+  
+<p>For company-sponsored participants:</p>
+<ul>
+  <li>Absentee Payroll</li>
+  <li>Workfare Skills Support (WSS) Scheme (Absentee Payroll)</li>
+  </ul>
 
 <p>For more information about funding and support, click <a href="/services/consultancy">here.</a></p>
