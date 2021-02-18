@@ -6,7 +6,7 @@ breadcrumb: Brand Advocacy through Social Media
 collection_name: digital-programmes
 second_nav_title: "Masterclasses & Workshops"
 ---
-<img src="images-2021/DigitalProgrammes-Image-Masterclass.png" style="width:100%;">
+<img src="images-2021/DigitalProgrammes-HImage-Workshop.png" style="width:100%;">
 
 <p>The power of social media has shaped our world into a highly connected one, changing the way people
 work, socialize and shop. By leveraging on this connectivity, your organization is able to further expand
@@ -60,28 +60,22 @@ referrals and business opportunities.</p>
 </table>
 </center>
 
-<p>Learners may be also eligible for the following:</p>
-<ul>
-<li>Absentee Payroll
-  <ul>
-  <li>For all Singaporean & SPR</li>
-  <li>80% of basic hourly salary, capped at $7.50 per hour</li>
-  </ul>
-</ul>
+<em>Fees include prevailing GST.</em>
 
-<ul>
-<li>Workfare Skills Support (WSS) Scheme</li>
-  <ul>
-  <li>Absentee Payroll: Up to 95% of hourly basic salary</li>
-  </ul>
-</ul>
+<h4>Additional Support</h4>
 
+<p>This course is also eligible for the following:</p>
+
+<p>For self-sponsored participants:</p>
 <ul>
-<li>SkillsFuture Credit</li>
-  <ul>
-  <li>For Singapore Citizens aged 25 and above</li>
-  <li>Offset course fee payable after funding</li>
-  </ul>
+  <li>SkillsFuture Credit</li>
+  <li>Workfare Skills Support (WSS) Scheme</li>
 </ul>
+  
+<p>For company-sponsored participants:</p>
+<ul>
+  <li>Absentee Payroll</li>
+  <li>Workfare Skills Support (WSS) Scheme (Absentee Payroll)</li>
+  </ul>
 
 <p>For more information about funding and support, click <a href="/services/consultancy">here.</a></p>
