@@ -7,6 +7,8 @@ collection_name: services
 second_nav_title: "Professional Conversion Programme (PCP)"
 ---
 
+<img src="images-2021/Services-CareerServices-PCP-RP.jpg" style="width:100%;">
+
 The PCP - Retail Professional (PCP - RP) seeks to help retailers in their manpower needs by providing mid-career switchers with an opportunity to work in retail operations. 
 Through the PCP - RP, participants will gain knowledge and be equipped in skillsets in operations, customer service, and supply chain roles, assisting retailers in meeting 
 the growing consumer expectations while delivering a memorable customer journey.
