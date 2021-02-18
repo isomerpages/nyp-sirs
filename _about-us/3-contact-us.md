@@ -10,7 +10,7 @@ collection_name: about-us
 
 <h4>Our Address</h4>
 
-<p>11 Eunos Road 8>br>
+<p>11 Eunos Road 8<br>
 Lifelong Learning Institute, #08-02/03/04<br>
 Singapore 408601<br>
 
