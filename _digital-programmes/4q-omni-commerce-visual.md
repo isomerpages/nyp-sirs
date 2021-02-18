@@ -23,15 +23,16 @@ second_nav_title: "Masterclasses & Workshops"
     </tr>
 </table></center>
 
-Digital transformation has empowered consumers more than ever before through access to information and to one another anytime and anywhere. Retailers 
+<p>Digital transformation has empowered consumers more than ever before through access to information and to one another anytime and anywhere. Retailers 
 who can infuse consumer perspective into their approach to Omni-commerce strategy can gain competitive advantage. Be it brick-and-mortar store, website, 
 mobile app or e-marketplace, retailers need to understand how Omni-commerce space works and drive a customer-centric approach towards managing their 
 e-Commerce business elements across all the platforms. Applying real-time analytic tools, building a highly integrated supply chain, creating effective 
-Omni-commerce marketing campaigns are some of the considerations in developing an effective Omni-commerce strategy.
+Omni-commerce marketing campaigns are some of the considerations in developing an effective Omni-commerce strategy.</p>
 
-Suitable for C-level Executives, General Managers, Heads of Technology/IT, Marketing & Business Development, Heads of Delivery, Technologists, and Innovation Managers.
+<p>Suitable for C-level Executives, General Managers, Heads of Technology/IT, Marketing & Business Development, Heads of Delivery, Technologists, and Innovation Managers.</p>
 
 <h4>Outline</h4>
+
 <dl>
 <dt>Developing an effective Omni-commerce strategy </dt>
         <dd>Identify the 5 key future trends, 7 key technology enablements and cross border trade.</dd>
@@ -80,29 +81,20 @@ Suitable for C-level Executives, General Managers, Heads of Technology/IT, Marke
 </table>
 </center>
 
-<p>Learners may be also eligible for the following:</p>
+<h4>Additional Support</h4>
 
+<p>This course is also eligible for the following:</p>
+
+<p>For self-sponsored participants</li>
 <ul>
-<li>Absentee Payroll
-  <ul>
-  <li>For all Singaporean & SPR</li>
-  <li>80% of basic hourly salary, capped at $7.50 per hour</li>
-  </ul>
+    <li>SkillsFuture Credit:</li>
+    <li>Workfare Skills Support (WSS) Scheme</li>
 </ul>
 
+<p>For company-sponsored participants</p>
 <ul>
-<li>Workfare Skills Support (WSS) Scheme</li>
-  <ul>
-  <li>Absentee Payroll: Up to 95% of hourly basic salary</li>
-  </ul>
-</ul>
+    <li>Absentee Payroll</li>
+    <li>Workfare Skills Support (WSS) Scheme (Absentee Payroll)</li>
+    </ul>
 
-<ul>
-<li>SkillsFuture Credit</li>
-  <ul>
-  <li>For Singapore Citizens aged 25 and above</li>
-  <li>Offset course fee payable after funding</li>
-  </ul>
-</ul>
-
-<p>For more information about funding and support, click <a href="/services/funding-and-advisory">here.</a></p>
+<p>For more information about funding and support, click <a href="/services/consultancy">here.</a></p>
