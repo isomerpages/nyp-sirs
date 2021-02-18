@@ -32,5 +32,5 @@ Email: <a href = "mailto: upskill@sirs.edu.sg">upskill@sirs.edu.sg</a></p>
 <h4>Operating Hours</h4>
 
 <p><b>Mon – Thu<b>: 8.30am – 6.00pm<br>
-<b>Fri<b>: 8.30am – 5pm<br>
+Fri: 8.30am – 5pm<br>
 Closed on Weekends and Public Holidays</p>
