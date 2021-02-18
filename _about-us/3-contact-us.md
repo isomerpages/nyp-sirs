@@ -26,8 +26,8 @@ Email: <a href = "mailto: courses@sirs.edu.sg">courses@sirs.edu.sg</a></p>
 
 <h4>Corporate Trainings & Partnerships</h4>
 
-<b>Contact Business Development via</b>
-<p>Email: <a href = "mailto: upskill@sirs.edu.sg">upskill@sirs.edu.sg</a></p>
+<p>Contact Business Development via</br>
+<b>Email:<b> <a href = "mailto: upskill@sirs.edu.sg">upskill@sirs.edu.sg</a></p>
 
 <h4>Operating Hours</h4>
 
