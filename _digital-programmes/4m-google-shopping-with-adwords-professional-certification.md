@@ -7,6 +7,8 @@ collection_name: digital-programmes
 second_nav_title: "Masterclasses & Workshops"
 ---
 
+<img src="/images-2021/DigitalProgrammes-Image-Masterclass.png" style="width:100%;">
+
 <p>Advertising in Google enables you to expand our online presence. According to StatCounter Global Stats in Jun 2018 report, Google holds almost 90% of search engine market share. Google Shopping, together with the use of AdWords, enables potential customers to see your product image, title, price, store name, and more. These ads give users a strong sense of the product you are selling before they click the ad, which gives you more qualified leads. Many businesses experience significantly higher clickthrough rates (CTR) with Shopping ads compared to text ads.</p>
 
 <p>Understanding Google AdWords and setting up best practices for Google Shopping Campaigns are important in digital marketing. The course aims to help online retailers to reap the benefits of Google Shopping through managing search, display, video and shopping campaigns.</p>
