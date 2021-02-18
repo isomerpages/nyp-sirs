@@ -6,7 +6,7 @@ breadcrumb: The Art of Storytelling
 collection_name: digital-programmes
 second_nav_title: "Masterclasses & Workshops"
 ---
-<img src="images-2021/DigitalProgrammes-Image-Masterclass.png" style="width:100%;">
+<img src="images-2021/DigitalProgrammes-HImage-Workshop.png" style="width:100%;">
 
 <p>A good story is always more persuasive than facts. It is able to attract attention, engage emotions and
 influence decisions. For businesses, a good story will help to make selling much easier. Customers today
