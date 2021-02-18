@@ -6,18 +6,18 @@ breadcrumb: Social Media Content Generation
 collection_name: digital-programmes
 second_nav_title: "Masterclasses & Workshops"
 ---
-<img src="Masterclasses&Workshops_SIRS_Banner.png" style="width:100%;">
+<img src="images-2021/DigitalProgrammes-Image-Masterclass.png" style="width:100%;">
 
-Social sharing of branded content is great for businesses. It is however challenging to have consistently
+<p>Social sharing of branded content is great for businesses. It is however challenging to have consistently
 sharable content that people want to read and shout about. That’s why social media content generation
-requires proper planning and strategy.
+requires proper planning and strategy.</p>
 
-This workshop is designed to equip individuals with skills and industry insights to improve their social
+<p>This workshop is designed to equip individuals with skills and industry insights to improve their social
 media content generation. The framework covers both creative and technical aspects of social media
 content creation. Learn to be a world-class social media storyteller with strategies and best practices used
-by Fortune 500 Companies of consumer brands in this hands-on masterclass.
+by Fortune 500 Companies of consumer brands in this hands-on masterclass.</p>
 
-Suitable for Marketing, Marcom & PR, Editorial, and Digital Marketing Teams.
+<p>Suitable for Marketing, Marcom & PR, Editorial, and Digital Marketing Teams.</p>
 
 <h4>Outline</h4>
 
@@ -63,9 +63,9 @@ Suitable for Marketing, Marcom & PR, Editorial, and Digital Marketing Teams.
 
 <p>Natasha is a Partner & Principal Consultant of QED. She has advised Fortune 500
 Corporations & Small to Medium Enterprises in Singapore and the region on
-business strategies leveraging digital mediums.
+business strategies leveraging digital mediums.</p>
 
-Her experience spans B2B & B2C companies, such as Coca-Cola, CA Technologies,
+<p>Her experience spans B2B & B2C companies, such as Coca-Cola, CA Technologies,
 Discovery Channel, Dolby and Unilever. Having led organizations in restructuring
 communications & marketing departments for digital integration & implementation,
 Natasha has helped clients stay competitive in today’s digital environment.</p>
@@ -102,29 +102,22 @@ Natasha has helped clients stay competitive in today’s digital environment.</p
 </table>
 </center>
 
-<p>Learners may be also eligible for the following:</p>
+<em>Fees include prevailing GST.</em>
 
+<h4>Additional Support</h4>
+
+<p>This course is also eligible for the following:</p>
+
+<p>For self-sponsored participants:</p>
 <ul>
-<li>Absentee Payroll
-  <ul>
-  <li>For all Singaporean & SPR</li>
-  <li>80% of basic hourly salary, capped at $7.50 per hour</li>
-  </ul>
+  <li>SkillsFuture Credit</li>
+  <li>Workfare Skills Support (WSS) Scheme</li>
 </ul>
-
+  
+<p>For company-sponsored participants:</p>
 <ul>
-<li>Workfare Skills Support (WSS) Scheme</li>
-  <ul>
-  <li>Absentee Payroll: Up to 95% of hourly basic salary</li>
+  <li>Absentee Payroll</li>
+  <li>Workfare Skills Support (WSS) Scheme (Absentee Payroll)</li>
   </ul>
-</ul>
 
-<ul>
-<li>SkillsFuture Credit</li>
-  <ul>
-  <li>For Singapore Citizens aged 25 and above</li>
-  <li>Offset course fee payable after funding</li>
-  </ul>
-</ul>
-
-<p>For more information about funding and support, click <a href="/services/funding-and-advisory">here.</a></p>
+<p>For more information about funding and support, click <a href="/services/consultancy">here.</a></p>
