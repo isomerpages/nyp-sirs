@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Singtel 99% SME Onboarding Programme
+title: 99%SME Onboarding Programme
 permalink: /digital-programmes/e-commerce-programmes/singtel-99-sme
-breadcrumb: Singtel 99% SME Onboarding Programme
+breadcrumb: 99%SME Onboarding Programme
 collection_name: digital-programmes
 second_nav_title: "E-Commerce Programmes"
 ---
@@ -68,4 +68,4 @@ Fees are per workshop (onboarding OR marketing)
   </ul>
 </ul>
 
-<p>For more information about funding and support, click <a href="/services/funding-and-advisory">here.</a></p>
+<p>For more information about funding and support, click <a href="/services/consultancy">here.</a></p>
