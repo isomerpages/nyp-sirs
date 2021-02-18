@@ -7,7 +7,7 @@ collection_name: digital-programmes
 second_nav_title: "Masterclasses & Workshops"
 ---
 
-<img src="Masterclasses&Workshops_SIRS_Banner.png" style="width:100%;">
+<img src="images-2021/DigitalProgrammes-Image-Masterclass.png" style="width:100%;">
 
 <p>The rise of digital mediums and innovation in technology have changed the way consumers behave, and thus influencing their purchase decisions. E-commerce platforms, such as e-marketplaces, have also transformed with the increased competition. In this changing landscape, how can businesses leverage the digital mediums to stay competitive and relevant to market needs?</p>
 
@@ -86,4 +86,4 @@ Jayden is the founding partner of 2 service companies, Ambient (Software Develop
   </ul>
 </ul>
 
-<p>For more information about funding and support, click <a href="/services/funding-and-advisory">here.</a></p>
+<p>For more information about funding and support, click <a href="/services/consultancy">here.</a></p>
