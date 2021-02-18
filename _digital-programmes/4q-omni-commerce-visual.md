@@ -71,12 +71,12 @@ Omni-commerce marketing campaigns are some of the considerations in developing a
 </tr>
 
 <tr>
-<td>Singapore Citizen 40 years & above<sup>1</sup> (90% funding)</td>
+<td>Singapore Citizen 40 years & above(90% funding)</td>
 <td>$193.60</td>
 </tr>
 
 <tr>
-    <td>Singapore Citizen/Singapore PR sponsored by SMEs<sup>1</sup></td>
+    <td>Singapore Citizen/Singapore PR sponsored by SMEs</td>
 <td>$193.60</td>
 </tr>
 
