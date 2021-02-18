@@ -57,7 +57,7 @@ Under the PCP - RP, participants will complete the following modules from the Wo
 <ol>
 	<li><a href="/digital-programmes/alibaba-business-school/alibaba-entrepreneur-startup-programme">Alibaba Business School - SIRS Entrepreneur Startup Programme</a></li>
 	<li><a href="/digital-programmes/alibaba-business-school/alibaba-content-marketing-programme">Alibaba Business School - SIRS Boost Sales through Effective Content Marketing Programme</a></li>
-	<li><a href="https://www.mediaacademy.sg/page/FUNDED-PROGRAMMES/making-online-content" target="_blank">Singapore Media Academy's Making Online Content Programme</a></li>
+	<li><a href="https://pd.mediaacademy.sg/ftv/moc" target="_blank">Singapore Media Academy's Making Online Content Programme</a></li>
 </ol>
 
 <center><a href="/services/professional-conversion-programme/new-media-professional" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Find Out More</a></center>
