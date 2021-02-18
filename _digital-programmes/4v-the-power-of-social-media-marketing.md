@@ -6,16 +6,16 @@ breadcrumb: The Power of Social Media Marketing
 collection_name: digital-programmes
 second_nav_title: "Masterclasses & Workshops"
 ---
-<img src="Masterclasses&Workshops_SIRS_Banner.png" style="width:100%;">
+<img src="images-2021/DigitalProgrammes-Image-Masterclass.png" style="width:100%;">
 
-Many businesses recognise social media is a powerful marketing tool but may not quite know how to
+<p>Many businesses recognise social media is a powerful marketing tool but may not quite know how to
 optimise it. Being able to harness the power of social media is the key to create greater brand awareness
-and expand your business. Start engaging your followers on social media effectively.
+and expand your business. Start engaging your followers on social media effectively.</p>
 
-In this masterclass, participants will learn the most effective ways to market to the target audience
+<p>In this masterclass, participants will learn the most effective ways to market to the target audience
 via social platforms such as Facebook, Instagram, Twitter, LinkedIn and many more. As part of digital
 marketing practice, learn to measure success with social media marketing and boost its effectiveness
-with advertising. 
+with advertising.</p>
 
 <h4>Outline</h4>
 
@@ -53,18 +53,18 @@ solver, an engaging public speaker, and a keen observer of the latest digital tr
 and who is able to empower and guide organisations in connecting the dots between
 high level strategies and tactical action plans to achieve tangible business goals.
 Of all things digital, Keith specialises in digital reputation management, campaign
-executions and operationalising digital functions.
+executions and operationalising digital functions.</p>
 
-Prior to joining RHT Digital and Media, he held leadership and executive roles in
+<p>Prior to joining RHT Digital and Media, he held leadership and executive roles in
 Microsoft (APAC/Singapore), International Data Group (IDG), CREO Consulting, and
-Nokia (SEA).
+Nokia (SEA).</p>
 
-He is experienced in working with governments, multi-nationals, MNCs and SME
+<p>He is experienced in working with governments, multi-nationals, MNCs and SME
 businesses. Some organisations he has worked with includes Mediacorp, Samsung,
 Twitter, SAP, Intel, BreadTalk, Habitat for Humanity, Singtel, M1, the government of
-Bhutan and Singapore Prime Minister’s Office and Ministry of Defence.
+Bhutan and Singapore Prime Minister’s Office and Ministry of Defence.</p>
 
-Keith is a highly sought-after speaker and had spoken on digital strategy at
+<p>Keith is a highly sought-after speaker and had spoken on digital strategy at
 organisational keynotes in countries like New Zealand, Australia, South Korea and
 South East Asian countries.</p>
 
@@ -88,41 +88,34 @@ South East Asian countries.</p>
 </tr>
 
 <tr>
-<td>Singapore Citizen 40 years & above<sup>1</sup> (90% funding)</td>
+<td>Singapore Citizen 40 years & above (90% funding)</td>
 <td>$90.75</td>
 </tr>
 
 <tr>
-  <td>Singapore Citizen/SPR sponsored by SMEs<sup>2</sup> (90% funding)</td>
+  <td>Singapore Citizen/SPR sponsored by SMEs (90% funding)</td>
 <td>$90.75</td>
 </tr>
 
 </table>
 </center>
 
-<p>Learners may be also eligible for the following:</p>
+<em>Fees include prevailing GST.</em>
 
+<h4>Additional Support</h4>
+
+<p>This course is also eligible for the following:</p>
+
+<p>For self-sponsored participants:</p>
 <ul>
-<li>Absentee Payroll
-  <ul>
-  <li>For all Singaporean & SPR</li>
-  <li>80% of basic hourly salary, capped at $7.50 per hour</li>
-  </ul>
+  <li>SkillsFuture Credit</li>
+  <li>Workfare Skills Support (WSS) Scheme</li>
 </ul>
-
+  
+<p>For company-sponsored participants:</p>
 <ul>
-<li>Workfare Skills Support (WSS) Scheme</li>
-  <ul>
-  <li>Absentee Payroll: Up to 95% of hourly basic salary</li>
+  <li>Absentee Payroll</li>
+  <li>Workfare Skills Support (WSS) Scheme (Absentee Payroll)</li>
   </ul>
-</ul>
 
-<ul>
-<li>SkillsFuture Credit</li>
-  <ul>
-  <li>For Singapore Citizens aged 25 and above</li>
-  <li>Offset course fee payable after funding</li>
-  </ul>
-</ul>
-
-<p>For more information about funding and support, click <a href="/services/funding-and-advisory">here.</a></p>
+<p>For more information about funding and support, click <a href="/services/consultancy">here.</a></p>
