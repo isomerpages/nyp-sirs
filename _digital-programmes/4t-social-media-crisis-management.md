@@ -6,17 +6,17 @@ breadcrumb: Social Media Crisis Management
 collection_name: digital-programmes
 second_nav_title: "Masterclasses & Workshops"
 ---
-<img src="Masterclasses&Workshops_SIRS_Banner.png" style="width:100%;">
+<img src="images-2021/DigitalProgrammes-Image-Masterclass.png" style="width:100%;">
 
-While social media can be an essential tool to increase brand awareness, drive customer engagement, and
+<p>While social media can be an essential tool to increase brand awareness, drive customer engagement, and
 ultimately bring in sales, a social media crisis can be extremely damaging to brands. In today’s connected
 world, a poorly managed event on social media can explode into a public outrage. Business with a robust
 social media crisis management strategy can prevent small issues from spiralling into a full-blown social
 media crisis. Learn how business can prepare and set strategy to minimize permanent damage to the
-brand and business during a social media crisis.
+brand and business during a social media crisis.</p>
 
-Social Media Crisis Management masterclass offers a strategic groundwork map in response to social
-media crisis.
+<p>Social Media Crisis Management masterclass offers a strategic groundwork map in response to social
+media crisis.</p>
 
 <h4>Outline</h4>
 
@@ -78,29 +78,22 @@ region to date and is also actively lecturing at tertiary institutions.</p>
 </table>
 </center>
 
-<p>Learners may be also eligible for the following:</p>
+<em>Fees include prevailing GST.</em>
 
+<h4>Additional Support</h4>
+
+<p>This course is also eligible for the following:</p>
+
+<p>For self-sponsored participants:</p>
 <ul>
-<li>Absentee Payroll
-  <ul>
-  <li>For all Singaporean & SPR</li>
-  <li>80% of basic hourly salary, capped at $7.50 per hour</li>
-  </ul>
+  <li>SkillsFuture Credit</li>
+  <li>Workfare Skills Support (WSS) Scheme</li>
 </ul>
-
+  
+<p>For company-sponsored participants:</p>
 <ul>
-<li>Workfare Skills Support (WSS) Scheme</li>
-  <ul>
-  <li>Absentee Payroll: Up to 95% of hourly basic salary</li>
+  <li>Absentee Payroll</li>
+  <li>Workfare Skills Support (WSS) Scheme (Absentee Payroll)</li>
   </ul>
-</ul>
 
-<ul>
-<li>SkillsFuture Credit</li>
-  <ul>
-  <li>For Singapore Citizens aged 25 and above</li>
-  <li>Offset course fee payable after funding</li>
-  </ul>
-</ul>
-
-<p>For more information about funding and support, click <a href="/services/funding-and-advisory">here.</a></p>
+<p>For more information about funding and support, click <a href="/services/consultancy">here.</a></p>
