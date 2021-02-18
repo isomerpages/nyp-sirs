@@ -7,7 +7,7 @@ collection_name: digital-programmes
 second_nav_title: "Masterclasses & Workshops"
 ---
 
-<img src="images/digital-masterclasses/growing-your-brand-presence-with-wechat-marketing.jpg" style="width:100%;">
+<img src="images-2021/DigitalProgrammes-Image-Masterclass.png" style="width:100%;">
 
 <p>WeChat has grown from a messenger app to one that is an indispensible tool for brands and businesses. With the rapid growth of WeChat's platform, many Singapore brands are starting to recognise the importance of using WeChat to gain brand presence, engage with new fans, and to interact with fans in online-offline activations. Through WeChat, local businesses can not only grow their presence locally, but are also presented the opportunity to bring their brands to the growing Chinese consumer market.</p>
 
