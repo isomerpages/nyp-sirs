@@ -6,19 +6,19 @@ breadcrumb: The Art of Storytelling
 collection_name: digital-programmes
 second_nav_title: "Masterclasses & Workshops"
 ---
-<img src="Masterclasses&Workshops_SIRS_Banner.png" style="width:100%;">
+<img src="images-2021/DigitalProgrammes-Image-Masterclass.png" style="width:100%;">
 
-A good story is always more persuasive than facts. It is able to attract attention, engage emotions and
+<p>A good story is always more persuasive than facts. It is able to attract attention, engage emotions and
 influence decisions. For businesses, a good story will help to make selling much easier. Customers today
 are bombarded with more advertisements and messages than ever before, so a good story that resonates
 with them can draw the attention of your audience, encourage interest and develop an emotional bond
-between your customers and your brand.
+between your customers and your brand.</p>
 
-Leveraging the power of storytelling is a way of conveying your brand’s personality and offering without
+<p>Leveraging the power of storytelling is a way of conveying your brand’s personality and offering without
 being overly promotional, which can go a long way towards building your business. More and more
 companies are recognising the impact of writing a good story and creating buzz for their brands. The
 more the buzz, the more the awareness. The greater awareness, the higher the probability of being in the
-top-of-mind position of your customers when they make purchasing decisions.
+top-of-mind position of your customers when they make purchasing decisions.</p>
 
 <h4>Outline</h4>
 
@@ -50,41 +50,34 @@ top-of-mind position of your customers when they make purchasing decisions.
 </tr>
 
 <tr>
-<td>Singapore Citizen 40 years & above<sup>1</sup> (90% funding)</td>
+<td>Singapore Citizen 40 years & above (90% funding)</td>
 <td>$60.50</td>
 </tr>
 
 <tr>
-  <td>Singapore Citizen/SPR sponsored by SMEs<sup>2</sup> (90% funding)</td>
+  <td>Singapore Citizen/SPR sponsored by SMEs (90% funding)</td>
 <td>$60.50</td>
 </tr>
 
 </table>
 </center>
 
-<p>Learners may be also eligible for the following:</p>
+<em>Fees include prevailing GST.</em>
 
+<h4>Additional Support</h4>
+
+<p>This course is also eligible for the following:</p>
+
+<p>For self-sponsored participants:</p>
 <ul>
-<li>Absentee Payroll
-  <ul>
-  <li>For all Singaporean & SPR</li>
-  <li>80% of basic hourly salary, capped at $7.50 per hour</li>
-  </ul>
+  <li>SkillsFuture Credit</li>
+  <li>Workfare Skills Support (WSS) Scheme</li>
 </ul>
-
+  
+<p>For company-sponsored participants:</p>
 <ul>
-<li>Workfare Skills Support (WSS) Scheme</li>
-  <ul>
-  <li>Absentee Payroll: Up to 95% of hourly basic salary</li>
+  <li>Absentee Payroll</li>
+  <li>Workfare Skills Support (WSS) Scheme (Absentee Payroll)</li>
   </ul>
-</ul>
 
-<ul>
-<li>SkillsFuture Credit</li>
-  <ul>
-  <li>For Singapore Citizens aged 25 and above</li>
-  <li>Offset course fee payable after funding</li>
-  </ul>
-</ul>
-
-<p>For more information about funding and support, click <a href="/services/funding-and-advisory">here.</a></p>
+<p>For more information about funding and support, click <a href="/services/consultancy">here.</a></p>
