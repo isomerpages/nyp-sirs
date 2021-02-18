@@ -6,7 +6,7 @@ breadcrumb: Improve Customer Engagement with Digital Mindset
 collection_name: digital-programmes
 second_nav_title: "Masterclasses & Workshops"
 ---
-<img src="Masterclasses&Workshops_SIRS_Banner.png" style="width:100%;">
+<img src="images-2021/DigitalProgrammes-Image-Masterclass.png" style="width:100%;">
 
 Customers are everything for all businesses. For this reason, it is important for any businesses to
 continuously be in touch with their customers. This is especially true when we are living in a digitally
