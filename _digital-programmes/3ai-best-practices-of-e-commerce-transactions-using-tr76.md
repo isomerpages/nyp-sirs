@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Best Practices of E-Commerce Using TR 76
-permalink: /digital-programmes/skillsfuture-series/best-practices-of-e-commerce-transactions-using-tr76
+permalink: /digital-programmes/e-commerce-programmes/best-practices-of-e-commerce-transactions-using-tr76
 breadcrumb: Best Practices of E-Commerce Using TR 76
 collection_name: digital-programmes
 second_nav_title: "E-Commerce Programmes"
@@ -10,12 +10,14 @@ second_nav_title: "E-Commerce Programmes"
 <h4>One Day Workshop on Best Practices of E-commerce Transactions using TR 76</h4>
 
 <p>Technical Reference 76 (TR 76) is the first national standard on guidelines for e-commerce transactions launched by the Enterprise Singapore (ESG) and the 
-Singapore Standards Council. TR 76 serves as a practical reference for e-retailers and online intermediaries to build trust and transparency in online transactions.
+Singapore Standards Council. TR 76 serves as a practical reference for e-retailers and online intermediaries to build trust and transparency in online transactions.</p>
 
-SIRS, in collaboration with ESG, presents this one-day workshop which covers the entire e-commerce transaction process including browsing, purchasing, 
+<p>SIRS, in collaboration with ESG, presents this one-day workshop which covers the entire e-commerce transaction process including browsing, purchasing, 
 payment, delivery, product tracking, returns, and customer support practices. Learn to map your e-commerce process with TR 76 to gain customers’ confidence.</p>
 
-<h4>The 1-day hands-on programme covers the following:</h4>
+<h4>Outline</h4>
+
+<b>The 1-day hands-on programme covers the following:</b>
 <ul>
 <li>Introduction to the global e-payment elements and evolution</li>
 <li>Discover how you can save time and effort in content creation, delivery, and governance to generate more shopping carts and close sales</li>
@@ -54,18 +56,17 @@ payment, delivery, product tracking, returns, and customer support practices. Le
 </table>
 </center>
 
-<p>Learners may be also eligible for the following:</p>
+<em>Fees include prevailing GST.</em>
+
+<h4>Additional Support</h4>
+
+<p>This course is also eligible for the following:</p>
 
 <ul>
-<li>SkillsFuture Credit</li>
-<li>Workfare Skills Support (WSS) Scheme</li>
-<li>Enhanced Training Support for SMEs (ETSS) for Singapore Citizens and Singaporean PRs</li>
-<li>Absentee Payroll
-  <ul>
-  <li>For all Singaporean & SPR</li>
-  <li>80% of basic hourly salary, capped at $7.50 per hour</li>
-  </ul>
-</ul>
+  <li>SkillsFuture Credit</li>
+  <li>Workfare Skills Support (WSS) Scheme</li>
+  <li>Enhanced Training Support for SMEs (ETSS) for Singapore Citizens and Singaporean PRs</li>
+  <li>Absentee Payroll</li>
 </ul>
 
-<p>For more information about funding and support, click <a href="/services/funding-and-advisory">here.</a></p>
+<p>For more information about funding and support, click <a href="/services/consultancy">here.</a></p>
