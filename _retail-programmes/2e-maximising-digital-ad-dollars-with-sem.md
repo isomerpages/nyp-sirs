@@ -7,20 +7,18 @@ collection_name: retail-programmes
 second_nav_title: "WSQ Certified Modular Programmes"
 ---
 
-<p>With millions of businesses vying for the same eyeballs online, one of the most effective way to enhance your digital presence and achieve fast results is 
-through Search Engine Marketing (SEM), a form of internet marketing by increasing your website visibility on search engine results through paid advertising. 
-When equipped with SEM skills and knowledge, you will be able to manage, review and implement successful SEM strategies to create immediate brand visibility, 
-increase traffic, and boost lead conversions - a key to your long-term business success.</p>
+<img src="/images-2021/WSQ Modular_SEM.png" style="width:100%;">
+
+<p>With millions of businesses vying for the same eyeballs online, one of the most effective way to enhance your digital presence and achieve fast results is through Search Engine Marketing (SEM), a form of internet marketing by increasing your website visibility on search engine results through paid advertising. When equipped with SEM skills and knowledge, you will be able to manage, review and implement successful SEM strategies to create immediate brand visibility, increase traffic, and boost lead conversions – a key to your long-term business success.</p>
+
+<b>Receive a WSQ Statement of Attainment (SOA) from the Skills Future Singapore (SSG) upon completion.</b>
 
 <h4>Highlights</h4>
 <ul>
-<li>Achieve Google Ads Search Certification</li>
-<li>Create and set up Google Ads account and billing</li>
-<li>Acquire techniques for effective keyword research, competitor analysis and ad copy writing</li>
-<li>Learn best practice checklist approach to setup, measure and optimise Google Ads Search and display campaigns to improve conversions, traffic or other 
-campaign objectives</li> 
-<li>SkillsFuture Credit eligible</li>
-<li>Up to 90% course subsidy</li>
+  <li>Achieve Google Ads Search Certification</li>
+  <li>Create and set up Google Ads account and billing</li>
+  <li>Acquire techniques for effective keyword research, competitor analysis and ad copy writing</li>
+  <li>Learn best practice checklist approach to setup, measure and optimise Google Ads Search and display campaigns to improve conversions, traffic or other campaign objectives</li>
 </ul>
 
 <h4>Learning Outcomes</h4>
@@ -34,18 +32,13 @@ campaign objectives</li>
 </ul>
 
 <h4>Duration</h4> 
-<p>
-WSQ Paid Search Engine Marketing (SEM)<br>
-Day 1 - 4: 9am - 4pm (4 Days, 24 hours)<br>
-Receive a WSQ Statement of Attainment (SOA) from the Skills Future Singapore (SSG) upon completion.<br>
-</p>
+<p>Total of 4 days, 24 hours:</p>
+<li>Day 1 - 4: 9am to 4pm</li>
 
 <h4>Entry Requirements</h4>
-<ul>
-<li>GCE 'O' level Credit (at least C6) in English and Mathematics or Workplace Literacy and 
-Numeracy (WPLN) score: Level 6 for Reading, Listening and Numeracy, and</li>
-<li>With at least 3 years supervisory/managerial working experience in retail or Professional/Managerial/Management Executive (PME) 
-position in non-retail sector</li>
+<li>GCE ‘O’ level Credit (at least C6) in English and Mathematics or Workplace Literacy and Numeracy (WPLN) score: Level 6 for Reading, Listening and Numeracy, and</li>
+<li>With at least 3 years supervisory/managerial working experience in retail or Professional/Managerial/Management Executive (PME) position in non-retail sector</li>
+
 
 <h4>Fees</h4>
 
@@ -57,36 +50,41 @@ position in non-retail sector</li>
 </tr>
 
 <tr>
-<td>Full Fees</td>
+<td>Full Course Fee (before GST)</td>
 <td>$840.00</td>
 </tr>
 
 <tr>
-<td>Singapore Citizen/Singapore PR (SPR) (90% funding)</td>
+<td>Singapore Citizen/Singapore PR (SPR) (70% funding)</td>
 <td>$269.64</td>
 </tr>
 
 <tr>
-  <td>Funding for Enhanced Training Support for SMEs (ETSS)/Mid-career Enhanced Subsidy<sup>1</sup> (Additional 20% funding)</td>
+  <td>Singapore Citizen 40 years and above<sup>1</sup> (additional 20% funding)</td>
+<td>$101.64</td>
+</tr>
+
+<tr>
+  <td>Enhanced Training Support for SMEs<sup>2</sup> (additional 20% funding)</td>
 <td>$101.64</td>
 </tr>
 
 </table>
 </center>
 
-<p>Learners may also be eligible for the following:</p>
-<ul>
-  <li>For self-sponsored:
-  <ol><li><a href="/services/consultancy/funding-and-support/skillsfuture-credit">SkillsFuture Credit S$500</a></li>
-    <li>Training Commitment Award
-      <ul><li>For recipients of the Workfare Income Supplement (WIS) Scheme</li>
-        <li>Receive $200 for each Statement of Attainment within a year, capped at $400 per year</li>
-      </ul></li></ol></li>
-  <li>For company-sponsored:
-    <ul><li><sup>1</sup>Absentee payroll</li></ul>
-  </li>
-  </ul>
+<em><sup>1</sup>Singapore Citizens eligible for Mid-Career Enhanced Subsidy</em>
+<em><sup>2</sup>Additional funding under the Enhanced Training Support for SMEs (ETSS)</em>
+<em>Fees include prevailing GST</em>
 
-<em>All fees include prevailing GST</em>
+<h4>Additional Support</h4>
+<p>This course is also eligible for the following:</p>
 
-<p>For more information about funding and support, click <a href="/services/funding-and-advisory">here.</a></p>
+<p>For self-sponsored participants:</p>
+<li>SkillsFuture Credit</li>
+<li>Workfare Skills Support (WSS) Scheme</li>
+
+<p>For company-sponsored participants:</p>
+<li>Absentee Payroll</li>
+<li>Workfare Skills Support (WSS) Scheme (Absentee Payroll)</li>
+
+<p>For more information about funding and support, click <a href="/services/consultancy">here.</a></p>
