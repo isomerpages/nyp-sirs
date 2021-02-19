@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Education and Training
+title: Overview
 permalink: /services/education-and-training
-breadcrumb: Education and Training
+breadcrumb: Overview
 collection_name: services
 second_nav_title: "Education and Training"
 ---
