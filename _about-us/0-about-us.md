@@ -32,11 +32,22 @@ To promote skills deepening and lifelong learning, SIRS, in collaboration with t
 
 <p>
 <ul>
- <li><a href="/services/education-and-training">Educate</a>: Raise awareness and offer accessibility to leading edge knowledge and skills, as well as industry trends</li>
- <li><a href="/services/education-and-training">Train</a>: Quality and industry relevant training to the retail workforce, and enhance enterprise human capital</li>
- <li><a href="/services/career-services">Place</a>: Career services such as advisory and placement assistance to job seekers, redesign jobs to create value for enterprises</li>
- <li><a href="/services/consultancy">Consult</a>: Consultancy services and solutions to retailers who need assistance in business transformation and digitalisation</li>
+ <li><a href="/services/education-and-training">Educate</a><br>
+  Raise awareness and offer accessibility to leading edge knowledge and skills, as well as industry trends</li>
+
+ 
+ <li><a href="/services/education-and-training">Train</a><br>
+  Quality and industry relevant training to the retail workforce, and enhance enterprise human capital</li>
+ 
+ 
+ <li><a href="/services/career-services">Place</a><br>
+  Career services such as advisory and placement assistance to job seekers, redesign jobs to create value for enterprises</li>
+  
+ 
+ <li><a href="/services/consultancy">Consult</a><br>
+  Consultancy services and solutions to retailers who need assistance in business transformation and digitalisation</li>
 </ul>
 </p>
+
 
 <i><small>*As an educational institution, NYP is committed to ensuring a safe and supportive campus and environment where there is respect and dignity for everyone. Accordingly, high standards of conduct are expected from all in our community. In case of any alleged offences committed within our premises, SIRS may report the matter to the security and/or relevant government agencies.
