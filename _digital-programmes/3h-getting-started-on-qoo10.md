@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Qoo10 One Day Workshop
-permalink: /digital-programmes/e-commerce-programmes/qoo10-one-day-workshop
-breadcrumb: Qoo10 One Day Workshop
+title: Getting Started on Qoo10 (Onboarding)
+permalink: /digital-programmes/e-commerce-programmes/getting-started-on-qoo10
+breadcrumb: Getting Started on Qoo10 (Onboarding)
 collection_name: digital-programmes
 second_nav_title: "E-Commerce Programmes"
 ---
@@ -34,24 +34,7 @@ second_nav_title: "E-Commerce Programmes"
   </li>
 </ul>
 
-<h4>Workshop 2: Drive Sales Performance on Lazada (Marketing)</h4>
-
-<h4>Outline</h4>
-<ul>
-  <li>Gain in-depth understanding of QSM and its functions</li>
-  <li>Introduction to marketing and promotional tools in QSM</li>
-  <li>Hands-on session with QSM promotional tools:
-    <ul>
-      <li>Plus Display</li>
-      <li>Special Deals Displays</li>
-      <li>Qspecial Premium</li>
-      <li>Premium Search Banner</li>
-    </ul>
-  </li>
-</ul>
-
 <h4>Fees</h4>
-Fees are per workshop (onboarding OR marketing)
 
 <center>
 <table style="width:100%;">
@@ -71,29 +54,31 @@ Fees are per workshop (onboarding OR marketing)
 </tr>
 
 <tr>
-<td>Singapore Citizen 40 years & above<sup>1</sup> (90% funding)</td>
+<td>Singapore Citizen 40 years & above (90% funding)</td>
 <td>$19.36</td>
 </tr>
 
 <tr>
-  <td>Singapore Citizen/SPR sponsored by SMEs<sup>2</sup> (90% funding)</td>
+  <td>Singapore Citizen/SPR sponsored by SMEs<sup>1</sup> (90% funding)</td>
 <td>$19.36</td>
 </tr>
 
 </table>
 </center>
 
-<p>Learners may be also eligible for the following:</p>
+<em><sup>1</sup>Fee is under Enhanced Training Support for SMEs (ETSS) for Singaporean and Singapore PR.</em>
+
+<em>Fees include prevailing GST</em>
+
+<h4>Additional Support</h4>
+
+<p>This course is also eligible for the following:</p>
 
 <ul>
 <li>SkillsFuture Credit</li>
 <li>Workfare Skills Support (WSS) Scheme</li>
 <li>Enhanced Training Support for SMEs (ETSS) for Singapore Citizens and Singapore PRs</li>
-<li>Absentee Payroll
-  <ul>
-  <li>For all Singaporean & SPR</li>
-  <li>80% of basic hourly salary, capped at $7.50 per hour</li>
+<li>Absentee Payroll</li>
   </ul>
-</ul>
 
-<p>For more information about funding and support, click <a href="/services/funding-and-advisory">here.</a></p>
+<p>For more information about funding and support, click <a href="/services/consultancy">here.</a></p>
