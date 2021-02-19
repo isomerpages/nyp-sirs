@@ -67,12 +67,12 @@ second_nav_title: "WSQ Full Qualification Programmes"
 </tr>
 
 <tr>
-  <td>Singapore Citizen 40 years and above1 (additional 20% funding)<sup>1</sup></td>
+  <td>Singapore Citizen 40 years and above<sup>1</sup> (additional 20% funding)</td>
 <td>$1,212.42</td>
 </tr>
 
 <tr>
-  <td>Enhanced Training Support for SMEs2 (additional 20% funding)<sup>2</sup> (95% funding)</td>
+  <td>Enhanced Training Support for SMEs<sup>2</sup> (additional 20% funding)</td>
 <td>$1,212.42</td>
 </tr>
 
@@ -90,15 +90,19 @@ Fees include prevailing GST</em>
 <p>This course is also eligible for the following:</p>
 
 <p>For self-sponsored participants:</p>
+<ul>
 <li>SkillsFuture Credit</li>
 <li>Union Training Assistance Programme (UTAP)</li>
 <li>Workfare Skills Support (WSS) Scheme</li>
 <li>SkillsFuture Qualification Award $1,000</li>
 <li>SkillsFuture Stud</li>
+ </ul>
 
 <p>For company-sponsored participants</p>
+<ul>
 <li>Absentee Payroll</li>
 <li>Workfare Skills Support (WSS) Scheme (Absentee Payroll)</li>
+ </ul>
  
 <p>For more information about funding and support, click <a href="/services/consultancy">here.</a></p>
  
