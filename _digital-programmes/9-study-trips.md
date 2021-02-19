@@ -14,4 +14,4 @@ second_nav_title: Study Trips
 <b>Overseas Immersion Programmes</b>
 <li><a href="/digital-programmes/alibaba-business-school/alibaba-ceo-programme">Alibaba CEO Programme (6D5N Study Trip – Hangzhou)</a></li>
 <li><a href="/digital-programmes/alibaba-business-school/alibaba-ceo-master-programme">Alibaba CEO Master Programme (6D5N Study Trip – Hangzhou)</a></li>
-<li>WeChat Digital Immersion Programme (5D4N Study Trip – Shanghai)</li>
+<li><a href="/digital-programmes/study-trips/wechat-digital-immersion-programme">WeChat Digital Immersion Programme (5D4N Study Trip – Shanghai)</a></li>
