@@ -19,7 +19,7 @@ second_nav_title: "WSQ Full Qualification Programmes"
 <p>To achieve a full qualification, individuals must successfully attain competency in all the following modules:</p>
 
 <b>Adapt to Change (24 hours)</b>
-<p>Understand the effects and implications of change to ensure alignment of staff competencies in relation to the new workplace needs. Promote a corporate culture of lifelong learning to enable staff to stay relevant at the workplace and ensure the growth of the organisation.</p><br>
+<p>Understand the effects and implications of change to ensure alignment of staff competencies in relation to the new workplace needs. Promote a corporate culture of lifelong learning to enable staff to stay relevant at the workplace and ensure the growth of the organisation.</p>
  
 <b>People and Relationship Management (24 hours)</b>
 <p>Recognise the diversities at current workplace that is characterized by different nationalities, races, ethnicities, generations, religions, cultures, and abilities. Learn to build a harmonious and inclusive workplace that appreciates differences to encourage greater range of talent, broaden skill base and therefore, become more competitive and innovative.</p>
