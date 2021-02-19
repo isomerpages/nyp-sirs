@@ -14,27 +14,34 @@ second_nav_title: "WSQ Certified Modular Programmes"
 <b>Receive a WSQ Statement of Attainment (SOA) from the Skills Future Singapore (SSG) upon completion.</b>
 
 <h4>Highlights</h4>
+<ul>
 <li>Creative sales techniques</li>
 <li>Selling effectively in the digital age</li>
 <li>Insights into changing customer behaviour</li>
+ </ul>
 
 <h4>Learning Outcomes</h4>
+<ul>
 <li>Understand New Retail: New landscape, new customers</li>
 <li>Determine and meet diverse customer requirements</li>
 <li>Manage customer challenges</li>
 <li>Recommend solutions with relevant products and services</li>
 <li>Identify creative sales opportunities in online-to-offline commerce</li>
 <li>Appreciate the process of closing a sale</li>
+ </ul>
 
 <h4>Duration</h4>
+<ul>
 <p>Total of 2 days, 15 hours:</p>
 <li>Day 1: 9am to 5pm</li>
 <li>Day 2: 9am to 6pm</li>
- 
+ </ul>
  
 <h4>Entry Requirements</h4>
+<ul>
 <li>GCE ‘N’ level Credit (at least C5) in English and Mathematics or Workplace Literacy and Numeracy (WPLN) score: Level 4 for Reading, Listening and Numeracy, and</li>
 <li>With at least 1 years working experience in retail or 2 years in non-retail sector</li>
+</ul>
 
 <h4>Fees</h4>
 
@@ -70,13 +77,16 @@ second_nav_title: "WSQ Certified Modular Programmes"
 <p>This course is also eligible for the following:</p>
 
 <p>For self-sponsored participants:</p>
+<ul>
 <li>SkillsFuture Credit</li>
 <li>Union Training Assistance Programme (UTAP)</li>
 <li>Workfare Skills Support (WSS) Scheme</li>
+ </ul>
 
 <p>For company-sponsored participants:</p>
+<ul>
 <li>Absentee Payroll</li>
 <li>Workfare Skills Support (WSS) Scheme (Absentee Payroll)</li>
-
+ </ul>
  
 <p>For more information about funding and support, click <a href="/services/consultancy">here.</a></p>
