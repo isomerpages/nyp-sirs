@@ -13,12 +13,8 @@ second_nav_title: "WSQ Certified Modular Programmes"
 
 <b>Receive a WSQ Statement of Attainment (SOA) from the Skills Future Singapore (SSG) upon completion.</b>
 
-<h4>Highlights</h4>
-<li>Hands-on live demonstration</li>
-<li>Learn 2 makeup styles: natural & glam look</li>
-<li>Newly added eye lash enhancement! Receive a set of faux lashes for practice during class</li>
-
 <h4>Learning Outcomes</h4>
+<ul>
 <li>Develop a service mindset</li>
 <li>Provide an unforgettable in-store service/customer experience</li>
 <li>Recognise how a great in-store service has a positive impact on the brand</li>
@@ -27,15 +23,20 @@ second_nav_title: "WSQ Certified Modular Programmes"
 <li>Serve different customer needs and expectations</li>
 <li>Serve different types of customers</li>
 <li>Develop empathy and connection</li>
+ </ul>
 
 <h4>Duration</h4>
 <p>Total of 2 days, 15 hours:</p>
+<ul>
 <li>Day 1: 9am to 5pm</li>
 <li>Day 2: 9am to 6pm</li>
+ </ul>
  
 <h4>Entry Requirements</h4>
+<ul>
 <li>GCE ‘N’ level Credit (at least C5) in English and Mathematics or Workplace Literacy and Numeracy (WPLN) score: Level 4 for Reading, Listening and Numeracy, and</li>
 <li>With at least 1 years working experience in retail or 2 years in non-retail sector</li>
+ </ul>
 
 <h4>Fees</h4>
 
@@ -71,12 +72,16 @@ second_nav_title: "WSQ Certified Modular Programmes"
 <p>This course is also eligible for the following:</p>
 
 <p>For self-sponsored participants:</p>
+<ul>
 <li>SkillsFuture Credit</li>
 <li>Union Training Assistance Programme (UTAP)</li>
 <li>Workfare Skills Support (WSS) Scheme</li>
+ </ul>
 
 <p>For company-sponsored participants:</p>
+<ul>
 <li>Absentee Payroll</li>
 <li>Workfare Skills Support (WSS) Scheme (Absentee Payroll)</li>
+ </ul>
   
 <p>For more information about funding and support, click <a href="/services/consultancy">here.</a></p>
