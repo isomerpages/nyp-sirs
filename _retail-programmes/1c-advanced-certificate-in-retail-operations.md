@@ -73,7 +73,7 @@ second_nav_title: "WSQ Full Qualification Programmes"
 
 <em>Fees include prevailing GST</em>
 
-<h4>Additional Support<h4>
+<h4>Additional Support</h4>
 
 <p>This course is also eligible for the following:</p>
 
