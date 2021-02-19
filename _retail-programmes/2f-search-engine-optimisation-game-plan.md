@@ -79,7 +79,9 @@ second_nav_title: "WSQ Certified Modular Programmes"
 </center>
 
 <em><sup>1</sup>Singapore Citizens eligible for Mid-Career Enhanced Subsidy</em>
+
 <em><sup>2</sup>Additional funding under the Enhanced Training Support for SMEs (ETSS)</em>
+
 <em>Fees include prevailing GST</em>
 
 <h4>Additional Support</h4>
