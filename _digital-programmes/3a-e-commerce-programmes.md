@@ -24,6 +24,6 @@ second_nav_title: "E-Commerce Programmes"
       <li><a href="/digital-programmes/e-commerce-programmes/drive-sales-performance-on-qoo10">Driving Sales Performance on Qoo10 (Marketing)</a></li>
       <li><a href="/digital-programmes/e-commerce-programmes/scash-nets-smart-retail-solution">SCash NETS Smart Retail Solution</a></li>
       <li><a href="/digital-programmes/e-commerce-programmes/setup-an-online-business">Set up an Online Business</a></li>
-      <li>Getting Started on Shopee (Onboarding)</li>
-      <li>Driving Sales Performance on Shopee (Marketing)</li>
+      <li><a href="/digital-programmes/e-commerce-programmes/getting-started-on-shopee">Getting Started on Shopee (Onboarding)</a></li>
+      <li><a href="/digital-programmes/e-commerce-programmes/driving-sales-performance-on-shopee">Driving Sales Performance on Shopee (Marketing)</a></li>
     </ul>
