@@ -61,9 +61,4 @@ second_nav_title: "Career Services"
   </tr>
   </table>
 
-<h4>Fact Sheets</h4>
-<p>To find out more about the SkillsFuture Work-Learn Bootcamp, you may download the respective factsheets in the links below:</p>
-
-<div style="width:50%;float:left;"><center><a href="brochures/wlb/Factsheet_SIRS_WLB_DMB_Employer_v2_ Sep 2019.pdf" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">For Employers</a></center></div>
-
-<div style="width:50%;float:left;"><center><a href="brochures/wlb/Factsheet_SIRS_WLB_DMB_Participant_v2.pdf" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">For Employees</a></center></div>
+<div style="width:50%;float:left;"><center><a href="https://genrecruiting.generation.org/welcome?country=71&program=229&location=938" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Register Now</a></center></div>
