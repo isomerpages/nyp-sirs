@@ -7,7 +7,7 @@ collection_name: digital-programmes
 second_nav_title: "E-Commerce Programmes"
 ---
 
-<img src="images/e-commerce/lets-ebay-with-sirs.png" style="width:100%;">
+<img src="images-2021/DigitalProgrammes-E-Commerce-TR76.png" style="width:100%;">
 
 <p>With 175 million international customers, eBay is one of the top e-commerce platforms worldwide. Learn how you can take your e-commerce business international with our one-day eBay programme, where you will learn how you can create an eBay account, manage your products, and ensure that your products reach customers anywhere in the world.</p>
 
@@ -82,17 +82,17 @@ second_nav_title: "E-Commerce Programmes"
 </table>
 </center>
 
-<p>Learners may be also eligible for the following:</p>
+<em>Fees include prevailing GST</em>
+
+<h4>Additional Support</h4>
+
+<p>This course is also eligible for the following:</p>
 
 <ul>
 <li>SkillsFuture Credit</li>
 <li>Workfare Skills Support (WSS) Scheme</li>
 <li>Enhanced Training Support for SMEs (ETSS) for Singapore Citizens and Singapore PRs</li>
-<li>Absentee Payroll
-  <ul>
-  <li>For all Singaporean & SPR</li>
-  <li>80% of basic hourly salary, capped at $7.50 per hour</li>
+<li>Absentee Payroll</li>
   </ul>
-</ul>
 
-<p>For more information about funding and support, click <a href="/services/funding-and-advisory">here.</a></p>
+<p>For more information about funding and support, click <a href="/services/consultancy">here.</a></p>
