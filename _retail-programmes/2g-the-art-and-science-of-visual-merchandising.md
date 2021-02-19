@@ -54,7 +54,7 @@ second_nav_title: "WSQ Certified Modular Programmes"
 </tr>
 
 <tr>
-<td>Full Course Fees</td>
+<td>Full Qualification (7 modules) Full Course Fee (before GST)</td>
 <td>$440.00</td>
 </tr>
 
@@ -64,26 +64,30 @@ second_nav_title: "WSQ Certified Modular Programmes"
 </tr>
 
 <tr>
-  <td>Singapore Citizen/SPR sponsored by SMEs<sup>1</sup> (90% funding)</td>
+  <td>Enhanced Training Support for SMEs (ETSS) (90% funding)</td>
 <td>$47.08</td>
 </tr>
 
 </table>
 </center>
 
-<p>Learners may also be eligible for the following:</p>
+<em>Fees include prevailing GST</em>
+
+<h4>Additonal Support</h4>
+
+<p>This course is also eligible for the following:</p>
+
+<p>For self-sponsored participants:</p>
 <ul>
-  <li>For self-sponsored:
-  <ol><li><a href="/services/consultancy/funding-and-support/skillsfuture-credit">SkillsFuture Credit S$500</a></li>
-    <li>Training Commitment Award
-      <ul><li>For recipients of the Workfare Income Supplement (WIS) Scheme</li>
-        <li>Receive $200 for each Statement of Attainment within a year, capped at $400 per year</li>
-      </ul></li></ol></li>
-  <li>For company-sponsored:
-    <ul><li><sup>1</sup>Absentee payroll</li></ul>
-  </li>
-  </ul>
+  <li>SkillsFuture Credit</li> 
+  <li>Union Training Assistance Programme (UTAP)</li>
+  <li>Workfare Skills Support (WSS) Scheme</li>
+</ul>
 
-<em>All fees include prevailing GST</em>
+<p>For company-sponsored participants:</p>
+<ul>
+  <li>Absentee Payroll</li>
+  <li>Workfare Skills Support (WSS) Scheme (Absentee Payroll)</li>
+</ul>
 
-<p>For more information about funding and support, click <a href="/services/funding-and-advisory">here.</a></p>
+<p>For more information about funding and support, click <a href="/services/consultancy">here.</a></p>
