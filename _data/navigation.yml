@@ -17,7 +17,7 @@
     url: /contact-sirs
     
 - title: Services
-  url: /services/
+  url: /services/career-services
   sub-links:
   - title: Career Services
     url: /services/career-services
@@ -25,10 +25,6 @@
     url: /services/consultancy
   - title: Education & Training
     url: /services/education-and-training
-  - title: Professional Conversion Programme (PCP)
-    url: /services/professional-conversion-programme
-  - title: SGUnited Skills (SGUS) Programme
-    url: /services/sgus-programme
 
 - title: WSQ Programmes
   url: /wsq-programmes/
