@@ -21,7 +21,7 @@ Besides strengthening skills portfolio for enhanced competitiveness and employab
 <b>Up to $7,200 of Training Allowance</b>
 <p>Trainees can receive a training allowance of $1,200 per month throughout the 6 months programme, for up to $7,200 for the full duration. This is subject to minimum attendance requirement and successful completion.</p>
 
-<b>SIRS offers the following SGUnited Skills (SGUS) Programmes:</b>
+<h4>SGUnited Skills (SGUS) Programmes:</h4>
 
 <ul>
   <li><a href="/services/sgus-programme/manage-retail-and-enterprise-in-the-digital-age">Manage Retail & Enterprise in the Digital Age</a></li>
