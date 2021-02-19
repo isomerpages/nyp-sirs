@@ -20,8 +20,8 @@ second_nav_title: "E-Commerce Programmes"
       <li><a href="/digital-programmes/e-commerce-programmes/ebay-global-selling">eBay Global Selling (Onboarding)</a></li>
       <li><a href="/digital-programmes/e-commerce-programmes/getting-started-on-lazada">Getting Started on Lazada (Onboarding)</a></li>
       <li><a href="/digital-programmes/e-commerce-programmes/drive-sales-performance-on-lazada">Drive Sales Performance on Lazada (Marketing)</a></li>
-      <li>Getting Started on Qoo10 (Onboarding)</li>
-      <li>Driving Sales Performance on Qoo10 (Marketing)</li>
+      <li><a href="/digital-programmes/e-commerce-programmes/getting-started-on-qoo10">Getting Started on Qoo10 (Onboarding)</a></li>
+      <li><a href="/digital-programmes/e-commerce-programmes/drive-sales-performance-on-qoo10">Driving Sales Performance on Qoo10 (Marketing)</a></li>
       <li><a href="/digital-programmes/e-commerce-programmes/scash-nets-smart-retail-solution">SCash NETS Smart Retail Solution</a></li>
       <li><a href="/digital-programmes/e-commerce-programmes/setup-an-online-business">Set up an Online Business</a></li>
       <li>Getting Started on Shopee (Onboarding)</li>
