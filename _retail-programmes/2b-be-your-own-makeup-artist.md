@@ -14,26 +14,34 @@ second_nav_title: "WSQ Certified Modular Programmes"
 <b>Receive a WSQ Statement of Attainment (SOA) from the Skills Future Singapore (SSG) upon completion.</b>
 
 <h4>Highlights</h4>
+<ul>
 <li>Hands-on live demonstration</li>
 <li>Learn 2 makeup styles: natural & glam look</li>
 <li>Newly added eye lash enhancement! Receive a set of faux lashes for practice during class</li>
+</ul>
 
 <h4>Learning Outcomes</h4>
+<ul>
 <li>Understand why wearing makeup is important</li>
 <li>Know the various types of makeup products and tools</li>
 <li>Establish your own makeup style</li>
 <li>Choose the right products and tools</li>
 <li>Understand the general care of makeup products and tools</li>
 <li>Demonstrate the application of makeup products</li>
+  </ul>
   
 <h4>Duration</h4>
 <p>Total of 2 days, 12 hours:</p>
+<ul>
 <li>Day 1: 9am to 4pm</li>
 <li>Day 2: 9am to 4pm</li>
+  </ul>
   
 <h4>Entry Requirements</h4>
+<ul>
 <li>GCE ‘N’ level Credit (at least C5) in English and Mathematics or Workplace Literacy and Numeracy (WPLN) score: Level 4 for Reading, Listening and Numeracy, and</li>
 <li>With at least 1 years working experience in retail or 2 years in non-retail sector</li>
+</ul>
 
 <h4>Fees</h4>
 
@@ -69,12 +77,16 @@ second_nav_title: "WSQ Certified Modular Programmes"
 <p>This course is also eligible for the following:</p>
 
 <p>For self-sponsored participants:</p>
+<ul>
 <li>SkillsFuture Credit</li>
 <li>Union Training Assistance Programme (UTAP)</li>
 <li>Workfare Skills Support (WSS) Scheme</li>
+  </ul>
 
 <p>For company-sponsored participants</p>
+<ul>
 <li>Absentee Payroll</li>
 <li>Workfare Skills Support (WSS) Scheme (Absentee Payroll)</li>
+  </ul>
 
 <p>For more information about funding and support, click <a href="/services/consultancy">here.</a></p>
