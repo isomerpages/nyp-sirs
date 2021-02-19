@@ -13,6 +13,14 @@ second_nav_title: "WSQ Certified Modular Programmes"
 
 <b>Receive a WSQ Statement of Attainment (SOA) from the SkillsFuture Singapore (SSG) upon completion.</b>
 
+<h4>Highlights</h4>
+<ul>
+ <li>Deliver an amazing customer experience</li>
+ <li>Build brand image and brand loyalty</li>
+ <li>Peer-to-peer and class-wide discussions</li>
+ <li>Enhanced learning through role play</li>
+  </ul>
+  
 <h4>Learning Outcomes</h4>
 <ul>
 <li>Develop a service mindset</li>
