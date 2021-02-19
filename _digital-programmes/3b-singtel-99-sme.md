@@ -7,7 +7,7 @@ collection_name: digital-programmes
 second_nav_title: "E-Commerce Programmes"
 ---
 
-<img src="images/e-commerce/one-day-workshop-for-singtel99-sme-sellers.png" style="width:100%;">
+<img src="images-2021/DigitalProgrammes-E-Commerce-99SME.png" style="width:100%;">
 
 <p>Embark on your digital commerce journey by tapping on FREE tools and resources. Develop an online revenue stream while encouraging footfall to your physical store!</p>
 
