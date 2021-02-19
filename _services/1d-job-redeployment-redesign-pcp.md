@@ -6,7 +6,6 @@ breadcrumb: Redeployment/Job Redesign Reskilling PCP
 collection_name: services
 second_nav_title: "Career Services"
 ---
-
 <img src="images-2021/Services_Career Services_Job Redeployment PCP.jpg" style="width:100%;">
 
 <p>The Redeployment/Job Redesign Reskilling PCP for the retail industry aims to reskill at-risk employees into new roles arising from the on-going 
