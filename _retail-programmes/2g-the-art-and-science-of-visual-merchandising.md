@@ -13,7 +13,7 @@ second_nav_title: "WSQ Certified Modular Programmes"
 
 <p>Join us in this 2-day course to learn how you can revitalize your store to attract and engage shoppers, and provide them with an immersive shopping experience that excites the senses through The Art and Science of Visual Merchandising. Attract visitors through shareable moments, engage your fanbase, and convert them into your loyal customers today!</p>
 
-<b>Receive a WSQ Statement of Attainment (SOA) from the Skills Future Singapore (SSG) upon completion.</b>
+<b>Receive a WSQ Statement of Attainment (SOA) from the SkillsFuture Singapore (SSG) upon completion.</b>
 
 <h4>Highlights</h4>
 <ul>
@@ -40,6 +40,7 @@ second_nav_title: "WSQ Certified Modular Programmes"
   </ul>
  
 <h4>Entry Requirements</h4>
+<ul>
 <li>GCE ‘N’ level Credit (at least C5) in English and Mathematics or Workplace Literacy and Numeracy (WPLN) score: Level 4 for Reading, Listening and Numeracy, and</li>
 <li>With at least 1 years working experience in retail or 2 years in non-retail sector</li>
 </ul>
