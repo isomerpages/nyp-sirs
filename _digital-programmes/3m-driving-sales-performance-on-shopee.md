@@ -7,12 +7,10 @@ collection_name: digital-programmes
 second_nav_title: "E-Commerce Programmes"
 ---
 
-<img src="images/e-commerce/shopee-one-day-workshop.png" style="width:100%;">
+<img src="/images-2021/DigitalProgrammes-E-Commerce-Shopee-Marketing.PNG" style="width:100%;">
 
 <p>	Get equipped with the essential e-commerce skills and knowledge to on-board Shopee store and bring your Shopee business to the next level with a winning marketing strategy! 
 Enhance your shop's presence, capitalise social media to generate higher sales and create compelling visual content to bring your store to the top in rank. </p>
-
-<h4>Workshop 2: Driving Sales Performance on Shopee (Marketing)</h4>
 
 <h4>Outline</h4>
 <ul>
