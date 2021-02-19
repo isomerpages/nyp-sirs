@@ -9,36 +9,43 @@ second_nav_title: "WSQ Full Qualification Programmes"
 
 <img src="/images-2021/WSQ_FullQual_SDRO.png" style="width:100%;">
 
-<p>As technology advances, savvier consumers demand for more curated shopping experience as they touch on multiple channels during their purchasing journey, triggering a new trend in the retail landscape. Retailers now need to embrace 'New Retail' - an integration of offline and online platforms by leveraging data technology to provide a more well-rounded retail experience. With data driving the day-to-day operations and decision-makings, Retail/Operations/Area Managers need to analyse, strategise and execute omni-channel plans to drive sales and performance. Managers must also possess the ability to drive unique customer experience to stand out from the competition for sustainability and profitability.</p>
- 
-<p>Develop the skills you need to lead your staff effectively in today's Online Merge Offline world of retailing with our latest WSQ Specialist Diploma in Retail (Operations). Gain competitive edge and deliver greater experience-focused engagement to your customers to win more businesses.</p>
- 
-<p>This programme equips you with 21st century leadership and management skills to meet the needs of today's omni-channel world of retailing. Develop essential skills that will help you in implementing omni-channel strategy. Lead your team of champions to create a great shopping experience for your customers to grow and sustain your business in this disruptive and evolving retail environment.</p>
- 
-<h4>Outline</h4>
- 
-<P><b>Personal effectiveness (21 hours)</b><br>
-Learn to facilitate the execution of the organsiation's strategy in building alignment, winning mindshare, developing and growing the skills and competencies of staff. It is imperative to develop future leadership qualities and behaviours to meet the needs of the disruptive and evolving landscape.</p>
- 
-<P><b>Service Leadership (21 hours)</b><br>
-Develop the ability to create and promote a customer-centric culture within the organization design customer focused strategies to deliver and champion the organization's service excellence ethos and foster great customer experience.</p>
- 
-<P><b>Service Excellence (21 hours)</b><br>
-Learn to establish and leverage value creating strategic partnerships for organisations to emhance their competitive edge by expanding the customer base, access to new resources and talents as well as mitigate risks. The partnership can bring about new products and services that ultimately improve customer engagement and experience.</p>
+<p>As technology advances, savvier consumers demand for more curated shopping experiences as they touch on multiple channels during their purchasing journey, triggering a new trend in the retail landscape. Retailers now need to embrace ‘New Retail’ - an integration of offline and online platforms by leveraging data technology to provide a more well-rounded retail experience. With data driving the day-to-day operations and decision-makings, Retail/Operations/Area Managers need to analyse, strategise and execute omni-channel plans to drive sales and performance. Managers must also possess the ability to drive unique customer experience to stand out from the competition for sustainability and profitability.</p>
 
-<p>Learn the '6-Steps Partnership Process', to bring Service Innovation ideas from vision to reality. Learn how to plan, present and execute their ideas to create winning partnerships and jointly deliver Service Excellence. Identify and create opportunities through collaboration and alliances.</p>
+<p>Develop the skills you need to lead your staff effectively in today’s Online Merge Offline world of retailing with our latest WSQ SDRO. Gain competitive edge and deliver greater experience-focused engagement to your customers to win more businesses.</p>
+
+<p>Joining this programme will further develop managers with 21st century leadership and management skills to thrive in today’s omni-channel world of retailing, and to strategise and direct customer-centric business excellence and drive service innovation in an organisation. You will learn how to evaluate current and emerging retail trends and leverage technology to drive your organisation’s business strategies both offline and online in the ever-changing retail landscape.</p>
  
-<P><b>Emerging Technology (15 hours)</b><br>
-Understand the constant need to review emerging technologies and the implications towards business strategies and objectives to stay competitive.</p>
+<h4>Modules</h4>
+
+<p>To achieve a full qualification, individuals must successfully attain competency in all the following modules:</p>
+
+<b>Personal Effectiveness (SF-Operations Manager) (24 hours)</b>
+<p>Learn to facilitate the execution of the organisation’s strategy in building alignment, winning mindshare, developing, and growing the skills and competencies of staff. It is imperative to develop future leadership qualities and behaviours to meet the needs of the disruptive and evolving landscape.</p>
  
-<P><b>Business Environment Analysis - Formulate Social Media Strategy (21 hours)</b><br>
-Develop the right and effective social media marketing strategy and raise awareness of the company brand for increase market share, drives sales and growth.</p>
+<b>Service Leadership (SF-Operations Manager) (24 hours)</b>
+<p>Develop the ability to create and promote a customer-centric culture within the organization design customer focused strategies to deliver and champion the organization's service excellence ethos and foster great customer experience.</p>
  
-<P><b>Drive Productivity and Innovation (24 hours)</b><br>
-Learn to build an organizational culture for innovation and productivity to have long term business growth and sustainability of any organization. Understand the critical role to champion creativity, ideas-sharing, collaboration, value building and exploring new areas of growth or ways to enhance efficiency.</p>
+<b>Service Excellence (SF-Operations Manager) (24 hours)</b>
+<p>Learn to establish and leverage value creating strategic partnerships for organisations to enhance their competitive edge by expanding the customer base, access to new resources and talents as well as mitigate risks. The partnership can bring about new products and services that ultimately improve customer engagement and experience.</p>
+
+<p>Learn the '6-Steps Partnership Process', to bring Service Innovation ideas from vision to reality. Learn how to plan, present, and execute their ideas to create winning partnerships and jointly deliver Service Excellence. Identify and create opportunities through collaboration and alliances.</p>
+ 
+<b>Emerging Technology (SF-Operations Manager) (18 hours)</b>
+<p>Understand the constant need to review emerging technologies and the implications towards business strategies and objectives to stay competitive.</p>
+ 
+<b>Business Environment Analysis (SF-Operations Manager) - Formulate Social Media Strategy (24 hours)</b>
+<p>Develop the right and effective social media marketing strategy and raise awareness of the company brand for increase market share, drives sales and growth.</p>
+ 
+<b>Drive Productivity and Innovation (SF-Operations Manager) (24 hours)</b>
+<p>Learn to build an organizational culture for innovation and productivity to have long term business growth and sustainability of any organization. Understand the critical role to champion creativity, ideas-sharing, collaboration, value building and exploring new areas of growth or ways to enhance efficiency.</p>
  
 <h4>Duration</h4>
-<p>The total duration of the programme is 6 months. Day or night classes are available.</p>
+<p>Duration is 6 months for day class (once a week) or 6 months for night class (twice a week)</p>
+
+<h4>Entry Requirements</h4>
+<li>GCE ‘O’ level Credit (at least C6) in English and Mathematics or Workplace Literacy and Numeracy (WPLN) score: Level 7 for Reading, Listening and Numeracy, and</li>
+<li>With at least 3 years senior managerial working experience in retail or Professionals, Managers, Executives and Technicians (PMETs) position in non-retail sector</li>
+
 
 <h4>Fees</h4>
 
@@ -50,7 +57,7 @@ Learn to build an organizational culture for innovation and productivity to have
 </tr>
 
 <tr>
-<td>Full Qualification (6 modules) Course Fees</td>
+<td>Full Qualification (6 modules) Full Course Fee (before GST)</td>
 <td>$10,020</td>
 </tr>
 
@@ -60,47 +67,40 @@ Learn to build an organizational culture for innovation and productivity to have
 </tr>
 
 <tr>
-  <td>Singapore Citizen 40 years old and above<sup>1</sup> (90% funding)</td>
+  <td>Singapore Citizen 40 years and above1 (additional 20% funding)<sup>1</sup></td>
 <td>$1,212.42</td>
 </tr>
 
 <tr>
-  <td>Singapore Citizen/SPR sponsored by SMEs<sup>2</sup> (95% funding)</td>
+  <td>Enhanced Training Support for SMEs2 (additional 20% funding)<sup>2</sup> (95% funding)</td>
 <td>$1,212.42</td>
-</tr>
-
-<tr>
-  <td><a href="/services/consultancy/funding-and-support/workfare-training-support-scheme">Workfare Training Support</a> (90% funding)</td>
-<td>$711.42</td>
 </tr>
 
 </table>
 </center>
 
-This course is also eligible for the following:
-
-<ul>
-  <li><a href="/services/consultancy/funding-and-support/skillsfuture-credit">SkillsFuture Credit S$500</a><sup>3</sup></li>
-  <li>SkillsFuture Qualification Award S$1,000<sup>3</sup></li>
-  <li>SkillsFuture Study Award S$5,000<sup>3</sup>
-    <ul><li>For more information on the SkillsFuture Study Award, <a href="http://programmes.myskillsfuture.sg/Portal/ProgramListing.aspx?source=SFSA" target="_blank">click here</a>.</li>
-      <li>To apply for the SkillsFuture Study Award, <a href="http://programmes.myskillsfuture.sg/Portal/ProgramDetails.aspx?ProgID=P00000068" target="_blank">click here</a>.</li>
-    </ul>
-  </li>
-</ul>
 
 <em><sup>1</sup>Singapore Citizens eligible for <a href="/services/consultancy/funding-and-support/mid-career-enhanced-subsidy">Mid-Career Enhanced Subsidy</a><br>
 <sup>2</sup>Additional funding under the <a href="/services/consultancy/funding-and-support/skillsfuture-enhanced-training-support-for-smes">Enhanced Training Support for SMEs (ETSS)</a><br>
 <sup>3</sup>Applicable for Singapore Citizens only<br>
- All fees include prevailing GST</em>
- 
-<p>For more information about funding and support, click <a href="/services/funding-and-advisory">here.</a></p>
+Fees include prevailing GST</em>
 
-<h4>Entry Requirements</h4>
-<ol>
-  <li>GCE 'O' level Credit (at least C6) in English and Mathematics or Workplace Literacy and Numeracy (WPLN) score: Level 7 for Reading, Listening and Numeracy; and</li>
-  <li>With at least 3 years senior managerial working experience in retail or Professional, Managers, Executives and Technicians (PMETs) position in non-retail sector</li>
-</ol>
+<h4>Additional Support</h4>
+
+<p>This course is also eligible for the following:</p>
+
+<p>For self-sponsored participants:</p>
+<li>SkillsFuture Credit</li>
+<li>Union Training Assistance Programme (UTAP)</li>
+<li>Workfare Skills Support (WSS) Scheme</li>
+<li>SkillsFuture Qualification Award $1,000</li>
+<li>SkillsFuture Stud</li>
+
+<p>For company-sponsored participants</p>
+<li>Absentee Payroll</li>
+<li>Workfare Skills Support (WSS) Scheme (Absentee Payroll)</li>
+ 
+<p>For more information about funding and support, click <a href="/services/consultancy">here.</a></p>
  
 <h4>Application</h4>
 
