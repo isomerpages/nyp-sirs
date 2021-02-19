@@ -6,6 +6,7 @@ breadcrumb: WeChat Digital Immersion Programme
 collection_name: digital-programmes
 second_nav_title: Study Trips
 ---
+<img src="/images-2021/DigitalProgrammes-StudyTrips-WeChat.jpg" style="width:100%;">
 
 <center>WeChat Digital Immersion Programme</center>
 <center>(5D4N Study Trip - Shanghai)</center>
