@@ -70,11 +70,11 @@ second_nav_title: "WSQ Certified Modular Programmes"
 
 <p>For self-sponsored participants:</p>
 <li>SkillsFuture Credit</li>
-<li>Union Training Assistance Programme (UTAP)
-<li>Workfare Skills Support (WSS) Scheme
-For company-sponsored participants
-<li>Absentee Payroll
-<li>Workfare Skills Support (WSS) Scheme (Absentee Payroll)
+<li>Union Training Assistance Programme (UTAP)</li>
+<li>Workfare Skills Support (WSS) Scheme</li>
+
+<p>For company-sponsored participants</p>
+<li>Absentee Payroll</li>
+<li>Workfare Skills Support (WSS) Scheme (Absentee Payroll)</li>
 
 <p>For more information about funding and support, click <a href="/services/consultancy">here.</a></p>
-
