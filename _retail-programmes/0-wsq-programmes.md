@@ -13,7 +13,7 @@ collection_name: retail-programmes
 <p>As the anchor provider for the retail sector, SIRS provides a full suite of programmes including <a href="/wsq-programmes/wsq-full-qualification-programmes">WSQ Full Qualification Programmes</a> and <a href="wsq-programmes/wsq-modular-programmes">WSQ Certified Modular Programmes</a>, catered to retail professionals at different stages of their careers – from the retail associate, to the retail manager – in the latest skillsets required to continually delight today’s customers. </p>
 
 
-  <h4>WSQ Full qualification Programmes</h4>
+  <h4>WSQ Full Qualification Programmes</h4>
   <ul>
     <li><a href="/wsq-programmes/wsq-full-qualification-programmes/certificate-in-retail-operations">Certificate in Retail (Operations)</a></li>
     <li><a href="/wsq-programmes/wsq-full-qualification-programmes/advanced-certificate-in-retail-operations">Advanced Certificate in Retail (Operations)</a></li>
