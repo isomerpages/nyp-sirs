@@ -7,12 +7,11 @@ collection_name: digital-programmes
 second_nav_title: "E-Commerce Programmes"
 ---
 
-<img src="images/e-commerce/workshop-for-qoo10-sellers.png" style="width:100%;">
+<img src="images-2021/DigitalProgrammes-E-Commerce-Qoo10-Marketing.png" style="width:100%;">
 
-<p>Are you ready to have products flying off your page? Learn the ropes of using Qoo10 Sales Manager to start your own e-store today and find out how you can sell across the borders with QuuBe! 
-Discover the ways to multiply your sales in Singapore and beyond using Qoo10 marketing tools!</p>
+<p>Are you ready to have products flying off your page? Learn the ropes of using Qoo10 Sales Manager to start your own e-store today and find out how you can sell across the borders with QuuBe!</p>
 
-<h4>Workshop 2: Drive Sales Performance on Lazada (Marketing)</h4>
+<p>Discover the ways to multiply your sales in Singapore and beyond using Qoo10 marketing tools!</p>
 
 <h4>Outline</h4>
 <ul>
