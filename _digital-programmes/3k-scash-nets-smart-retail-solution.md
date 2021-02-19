@@ -6,7 +6,7 @@ breadcrumb: SCash NETS Smart Retail Solution
 collection_name: digital-programmes
 second_nav_title: "E-Commerce Programmes"
 ---
-<img src="/images-2021/eCommerce_SCash NETS Smart Retail Solution.png" style="width:100%;">
+<img src="/images-2021/DigitalProgrammes-E-Commerce-SCashNETS.png" style="width:100%;">
 
 <p>You can now easily set-up your mobile commerce store with worry-free technology – SCash NETS Mobile Commerce
 Solution. The mobile commerce store enables one-on-one customer engagement and AI technology-driven traffic from
@@ -51,29 +51,29 @@ Fees are per workshop (onboarding OR marketing)
 </tr>
 
 <tr>
-<td>Singapore Citizen 40 years & above<sup>1</sup> (90% funding)</td>
+<td>Singapore Citizen 40 years & above (90% funding)</td>
 <td>$60.50</td>
 </tr>
 
 <tr>
-  <td>Singapore Citizen/SPR sponsored by SMEs<sup>2</sup> (90% funding)</td>
+  <td>Singapore Citizen/SPR sponsored by SMEs (90% funding)</td>
 <td>$60.50</td>
 </tr>
 
 </table>
 </center>
 
-<p>Learners may be also eligible for the following:</p>
+<em>Fees include prevailing GST</em>
+
+<h4>Additional Support</h4>
+
+<p>The course is also eligible for the following:</p>
 
 <ul>
 <li>SkillsFuture Credit</li>
 <li>Workfare Skills Support (WSS) Scheme</li>
 <li>Enhanced Training Support for SMEs (ETSS) for Singapore Citizens and Singapore PRs</li>
-<li>Absentee Payroll
-  <ul>
-  <li>For all Singaporean & SPR</li>
-  <li>80% of basic hourly salary, capped at $7.50 per hour</li>
-  </ul>
+<li>Absentee Payroll</li>
 </ul>
 
-<p>For more information about funding and support, click <a href="/services/funding-and-advisory">here.</a></p>
+<p>For more information about funding and support, click <a href="/services/consultancy">here.</a></p>
