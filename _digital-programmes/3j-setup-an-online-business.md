@@ -7,7 +7,7 @@ collection_name: digital-programmes
 second_nav_title: "E-Commerce Programmes"
 ---
 
-<img src="images/e-commerce/set-up-an-online-business.png" style="width:100%;">
+<img src="/images-2021/DigitalProgrammes-E-Commerce-Shopmatic-SetupOnlineBiz.png" style="width:100%;">
 
 <p>As technology advances and consumer habits change, retailers are increasingly moving onto the online space to ensure their visibility and product availability both online and offline. Furthermore, as the Southeast Asian e-commerce economy has crossed the US$100 billion mark in 2019, and is projected to reach US$300 billion by 2025, e-commerce and digital strategies has become a critical component of any retail business.</p>
 
@@ -86,4 +86,6 @@ second_nav_title: "E-Commerce Programmes"
 </table>
 </center>
 
-<p>For more information about funding and support, click <a href="/services/funding-and-advisory">here.</a></p>
+<em>Fees include prevailing GST</em>
+
+<p>For more information about funding and support, click <a href="/services/consultancy">here.</a></p>
