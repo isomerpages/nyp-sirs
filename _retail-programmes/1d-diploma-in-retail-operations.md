@@ -94,15 +94,18 @@ second_nav_title: "WSQ Full Qualification Programmes"
 <p>This course is also eligible for the following:</p>
 
 <p>For self-sponsored participants:</p>
+<ul>
 <li>SkillsFuture Credit</li>
 <li>Union Training Assistance Programme (UTAP)</li>
 <li>Workfare Skills Support (WSS) Scheme</li>
 <li>SkillsFuture Qualification Award $1,000</li>
-<li>SkillsFuture Stud</li>
+</ul>
 
 <p>For company-sponsored participants:</p>
+<ul>
 <li>Absentee Payroll</li>
 <li>Workfare Skills Support (WSS) Scheme (Absentee Payroll)</li>
+</ul>
 
 <p>For more information about funding and support, click <a href="/services/consultancy">here.</a></p>
 
