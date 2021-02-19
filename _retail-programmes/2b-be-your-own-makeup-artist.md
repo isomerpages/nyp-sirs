@@ -11,7 +11,7 @@ second_nav_title: "WSQ Certified Modular Programmes"
 
 <p>Look your best every day without spending too much on products. Know the makeup style that suits you the most, choose essential products that you need and learn the right techniques to enhance your appearance, boost your confidence and self-esteem. Suitable for anyone interested in beauty and makeup.</p>
 
-<b>Receive a WSQ Statement of Attainment (SOA) from the Skills Future Singapore (SSG) upon completion.</b>
+<b>Receive a WSQ Statement of Attainment (SOA) from the SkillsFuture Singapore (SSG) upon completion.</b>
 
 <h4>Highlights</h4>
 <ul>
