@@ -44,7 +44,7 @@ with advertising.</p>
 
 <h4>Trainer Profile</h4>
 <p><b>Keith Nakamura</b><br>
-  <em>Co-founder of Gorilla Digital Pte Ltd/em><br>
+  <em>Co-founder of Gorilla Digital Pte Ltd</em><br>
 
 <p>Keith has more than 16 years of experience in Digital Marketing, Product Marketing
 and Leading Digital Transformation. He is currently leading the digital department as
