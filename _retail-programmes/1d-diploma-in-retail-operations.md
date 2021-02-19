@@ -9,40 +9,47 @@ second_nav_title: "WSQ Full Qualification Programmes"
 
 <img src="/images-2021/WSQ_FullQual_DRO.png" style="width:100%;">
 
-<p>Retail industry has seen significant changes the past few years with digitisation taking place inn the everyday life of today's connected consumer. While online shopping continues to increase, the demand for the physical store will remain relevant especially for goods that require touch and feel. This derived the concept of 'New Retail', the integration of offline and online platforms with the use of data technology to deliver experience-focused service standards to meet the needs of consumers today. Store Manager are highly valued for their ability to optimize technology advancement to drive day-to-day operations and make data-based decisions.</p>
+<p>Retail industry has seen significant changes in the past few years with digitalisation taking place in the everyday life of today's connected consumer. While online shopping continues to increase, the demand for the physical store will remain relevant especially for goods that require touch and feel. This derived the concept of ‘New Retail’, the integration of offline and online platforms with the use of data technology to deliver experience-focused service standards to meet the needs of consumers today.  Store Managers are highly valued for their ability to optimise technology advancement to drive day-to-day operations and make data-based decisions.</p> 
 
-<p>Whether you are interested in honing yourself with 21st century leadership skills to lead your staff or upskilling yourself to manage today's Online Merge Offline world of retailing, the latest WSQ Diploma in Retail (Operations) will be the best investment you can offer to yourself.</p>
+<p>Whether you are interested in honing yourself with 21st century leadership skills to lead your staff or upskilling yourself to manage today’s Online Merge Offline world of retailing, the latest WSQ DRO will be the best investment you can offer to yourself.</p>
 
-<p>This programme equips you with skills and knowledge create and implement customer-centric business excellence and drive service innovation. You will evaluate current and emerging retail trends and leverage technology to engage and meet the changing customer expectations and retail landscape.</p>
+<p>This programme equips you with the skills and knowledge to implement and manage customer-centric business excellence and drive service innovation. This knowledge will enable you to recognise current and emerging retail trends, and understand which kinds of retail technology will best engage your customer segment, and the leadership knowledge you will gain in this course will develop your effectiveness in handling staff and identifying training opportunities for them.</p>
+
+<h4>Modules</h4>
+
+<p>To achieve a full qualification, individuals must successfully attain competency in all the following modules:</p>
+
+<b>Global Mindset (Intermediate) (24 hours)</b>
+<p>Evaluate local & global issues & trends that impact one's employability & job role and to be able to identify competency gaps, determine training and development needs and to establish & evaluate appropriate training & learning opportunities for all including the implementation of a conducive work environment to facilitate transfer of knowledge & skills.</p>
  
-<h4>Outline</h4>
+<b>Sales Target Management (24 hours)</b>
+<p>Set, communicate, drive and motivate staff to achieve sales target and to review social-economic changes in the local context as well as assess impact of external economic and political events on the local retailing environment and to make changes to target set inability to reflect actual situation.</p><br>
  
-<p><b>Adapt to Change (24 hours)</b><br>
-Evaluate local & global issues & trends that impact one's employability & job role. Be able to identify competency gaps, determine training and development needs and to establish & evaluate appropriate training & learning opportunities for all including the implementation of a conducive work environment to facilitate transfer of knowledge & skills.</p>
-
-<p><b>Sales Target Management (24 hours)</b><br>
-Set, communicate, drive and motivate staff to achieve sales target and to review social-economic changes in the local context as well as assess impact of external economic and political events on the local retailing environment and to make changes to target set inability to reflect actual situation.</p>
-
-<p><b>Workplace Communication (18 hours)</b><br>
-Use appropriate methods / equipment / platform to communicate policies and procedure to staff and monitor their compliance including evaluating the effectiveness of such methods / channels.</p>
-
-<p><b>Productivity Improvement (30 hours)</b><br>
-Manage productivity action plans and initiatives that include reviewing potential areas & opportunities as well as evaluating tools and techniques for productivity measurement and improvement.</p>
-
-<p><b>Service Leadership (30 hours)</b><br>
-Recognise the characteristics of a leader and to discharge the roles & responsibilities of a leader in operationlising the organization's service vision, mission and values - entailing ways to promote a customer centric environment as well as analyzing the performance of individual member and the team with the intent to identify follow-up actions for improvement.</p>
-
-<p><b>Customer Experience Innovation (18 hours)</b><br>
-Develop insights & methods to enhance customer experience by identifying and mapping the organization's current customer journey. Then after, to analyse for gaps in the journey before seeking, evaluating and implementing proposed environments.</p>
-
-<p><b>Retailing & the Economy (24 hours)</b><br>
-Understand key considerations and target markets in retailing as well as the application of the following concepts in the context of retailing: scarcity, opportunity costs, demand & supply, elasticity, utility.</p>
-
-<p><b>Financial Analysis (30 hours)</b><br>
-Evaluate financial ratios, perform cost-benefits analysis and analyse the short and long term financial implications for the business to facilitate decision-making by management including the proper presentation of financial analysis to the management.</p>
+<b>Workplace Communication (18 hours)</b>
+<p>Use appropriate methods / equipment / platform to communicate policies and procedure to staff and monitor their compliance including evaluating the effectiveness of such methods / channels.</p><br>
+ 
+<b>Productivity Improvement (30 hours)</b>
+<p>Manage productivity action plans and initiatives that include reviewing potential areas & opportunities as well as evaluating tools and techniques for productivity measurement and improvement.</p><br>
+ 
+<b>Service Leadership (30 hours)</b>
+<p>Recognise the characteristics of a leader and to discharge the roles & responsibilities of a leader in operationalising the organization's service vision, mission and values - entailing ways to promote a customer centric environment as well as analysing the performance of individual member and the team with the intent to identify follow-up actions for improvement.</p><br>
+ 
+<b>Customer Experience Innovation (18 hours)</b>
+<p>Develop insights & methods to enhance customer experience by identifying and mapping the organization's current customer journey. Then after, to analyse for gaps in the journey before seeking, evaluating, and implementing proposed environments.</p><br>
+ 
+<b>Retailing & the Economy (24 hours)</b>
+<p>Understand key considerations and target markets in retailing as well as the application of the following concepts in the context of retailing: scarcity, opportunity costs, demand & supply, elasticity, utility.</p><br>
+ 
+<b>Financial Analysis (30 hours)</b>
+<p>Evaluate financial ratios, perform cost-benefits analysis and analyse the short and long term financial implications for the business to facilitate decision-making by management including the proper presentation of financial analysis to the management.</p>
  
 <h4>Duration</h4>
-<p>The total duration of the programme is 6-12 months. Day or night classes are available.</p>
+<p>Duration is 5 months for day class (twice a week) or 9 months for night class (twice a week)</p>
+
+<h4>Entry Requirements</h4>
+<ul>
+<li>GCE ‘O’ level Credit (at least C6) in English and Mathematics or Workplace Literacy and Numeracy (WPLN) score: Level 6 for Reading, Listening and Numeracy, and</li>
+<li>With at least 3 years supervisory/managerial working experience in retail or Professional/Managerial/Management Executive (PME) position in non-retail sector</li>
 
 <h4>Fees</h4>
 
@@ -54,7 +61,7 @@ Evaluate financial ratios, perform cost-benefits analysis and analyse the short 
 </tr>
 
 <tr>
-<td>Full Qualification (6 modules) Course Fees</td>
+<td>Full Qualification (8 modules) Full Course Fee (before GST)</td>
 <td>$6,720</td>
 </tr>
 
@@ -69,42 +76,35 @@ Evaluate financial ratios, perform cost-benefits analysis and analyse the short 
 </tr>
 
 <tr>
-  <td>Singapore Citizen/SPR sponsored by SMEs<sup>2</sup> (90% funding)</td>
+  <td>Enhanced Training Support for SMEs (additional 90% funding)<sup>2</sup> (90% funding)</td>
 <td>$813.12</td>
-</tr>
-
-<tr>
-  <td><a href="/services/consultancy/funding-and-support/workfare-training-support-scheme">Workfare Training Support</a> (95% funding)</td>
-<td>$477.12</td>
 </tr>
 
 </table>
 </center>
 
-This course is also eligible for the following:
+<em><sup>1</sup>Singapore Citizens eligible for Mid-Career Enhanced Subsidy</em>
 
-<ul>
-  <li><a href="/services/consultancy/funding-and-support/skillsfuture-credit">SkillsFuture Credit S$500</a><sup>3</sup></li>
-  <li>SkillsFuture Qualification Award S$1,000<sup>3</sup></li>
-  <li>SkillsFuture Study Award S$5,000<sup>3</sup>
-    <ul><li>For more information on the SkillsFuture Study Award, <a href="http://programmes.myskillsfuture.sg/Portal/ProgramListing.aspx?source=SFSA" target="_blank">click here</a>.</li>
-      <li>To apply for the SkillsFuture Study Award, <a href="http://programmes.myskillsfuture.sg/Portal/ProgramDetails.aspx?ProgID=P00000068" target="_blank">click here</a>.</li>
-    </ul>
-  </li>
-</ul>
+<em><sup>2</sup>Additional funding under the Enhanced Training Support for SMEs (ETSS)</em>
 
-<em><sup>1</sup>Singapore Citizens eligible for <a href="/services/consultancy/funding-and-support/mid-career-enhanced-subsidy">Mid-Career Enhanced Subsidy</a><br>
-<sup>2</sup>Additional funding under the <a href="/services/consultancy/funding-and-support/skillsfuture-enhanced-training-support-for-smes">Enhanced Training Support for SMEs (ETSS)</a><br>
-<sup>3</sup>Applicable for Singapore Citizens only<br>
- All fees include prevailing GST</em>
- 
-<p>For more information about funding and support, click <a href="/services/funding-and-advisory">here.</a></p>
+<em>Fees include prevailing GST</em>
 
-<h4>Entry Requirements</h4>
-<ol>
-  <li>GCE 'O' level Credit (at least C6) in English and Mathematics or Workplace Literacy and Numeracy (WPLN) score: Level 6 for Reading, Listening and Numeracy; and</li>
-  <li>With at least 3 years supervisory/managerial working experience in retail or Professional/Managerial/Management Executive (PME) position in non-retail sector</li>
-</ol>
+<h4>Additional Support</h4>
+
+<p>This course is also eligible for the following:</p>
+
+<p>For self-sponsored participants:</p>
+<li>SkillsFuture Credit</li>
+<li>Union Training Assistance Programme (UTAP)</li>
+<li>Workfare Skills Support (WSS) Scheme</li>
+<li>SkillsFuture Qualification Award $1,000</li>
+<li>SkillsFuture Stud</li>
+
+<p>For company-sponsored participants:</p>
+<li>Absentee Payroll</li>
+<li>Workfare Skills Support (WSS) Scheme (Absentee Payroll)</li>
+
+<p>For more information about funding and support, click <a href="/services/consultancy">here.</a></p>
  
 <h4>Application</h4>
 
