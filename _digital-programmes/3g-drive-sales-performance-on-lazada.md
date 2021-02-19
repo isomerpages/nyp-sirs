@@ -107,7 +107,7 @@ and boost your sales by learning the marketing strategies you can deploy with La
 </table>
 </center>
 
-<em><sup>1</sup>*Fee is under Enhanced Training Support for SMEs (ETSS) for Singaporean and Singapore PR</em>
+<em><sup>1</sup>Fee is under Enhanced Training Support for SMEs (ETSS) for Singaporean and Singapore PR</em>
 
 <em>Fees include prevailing GST</em>
 
