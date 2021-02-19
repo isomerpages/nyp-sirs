@@ -7,6 +7,12 @@ collection_name: digital-programmes
 second_nav_title: Study Trips
 ---
 
+<center>WeChat Digital Immersion Programme 
+(5D4N Study Trip - Shanghai)</center>
+
+<center>新加坡微信及移动互联网上海游学浸濡团
+(5天4夜考察之旅 - 上海)</center>
+
 <b>This programme will be conducted in Mandarin.</b>
 
 <p>Mobile commerce is becoming a powerful channel in digitalizing your business. The success of WeChat as an
