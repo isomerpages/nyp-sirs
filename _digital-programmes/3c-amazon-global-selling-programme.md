@@ -7,7 +7,7 @@ collection_name: digital-programmes
 second_nav_title: "E-Commerce Programmes"
 ---
 
-<img src="images/e-commerce/amazon-global-selling-programme.png" style="width:100%;">
+<img src="images-2021/DigitalProgrammes-E-Commerce-AmazonGlobal.png" style="width:100%;">
 
 <p>Amazon is one of the largest global e-marketplaces, with more than 310 million monthly active users worldwide. The availability of Amazon in more than 150 countries allows for brands to easily grow their global presence, and get your products to customers all around the world.</p>
 
@@ -76,17 +76,17 @@ second_nav_title: "E-Commerce Programmes"
 </table>
 </center>
 
-<p>Learners may be also eligible for the following:</p>
+<em>Fees include preailing GST</em>
+
+<h4>Additional Support</h4>
+
+<p>This course is also eligible for the following:</p>
 
 <ul>
 <li>SkillsFuture Credit</li>
 <li>Workfare Skills Support (WSS) Scheme</li>
 <li>Enhanced Training Support for SMEs (ETSS) for Singapore Citizens and Singapore PRs</li>
-<li>Absentee Payroll
-  <ul>
-  <li>For all Singaporean & SPR</li>
-  <li>80% of basic hourly salary, capped at $7.50 per hour</li>
-  </ul>
+  <li>Absentee Payroll</li>
 </ul>
 
-<p>For more information about funding and support, click <a href="/services/funding-and-advisory">here.</a></p>
+<p>For more information about funding and support, click <a href="/services/consultancy">here.</a></p>
