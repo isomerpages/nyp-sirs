@@ -7,7 +7,7 @@ collection_name: retail-programmes
 second_nav_title: "WSQ Certified Modular Programmes"
 ---
 
-<img src="images/short-courses/short-courses-be-your-own-makeup-artist.png" style="width:100%;">
+<img src="/images-2021/WSQ Modular_BYOMA.png" style="width:100%;">
 
 <p>Look your best every day without spending too much on products. Know the makeup style that suits you the most, choose essential products that you need and learn the right techniques to enhance your appearance, boost your confidence and self-esteem. Suitable for anyone interested in beauty and makeup.</p>
 
