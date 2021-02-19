@@ -18,25 +18,25 @@ second_nav_title: "WSQ Full Qualification Programmes"
 
 <p>To achieve a full qualification, individuals must successfully attain competency in all the following modules:</p>
 
-<b>Adapt to Change (24 hours)</b><br>
+<b>Adapt to Change (24 hours)</b>
 <p>Understand the effects and implications of change to ensure alignment of staff competencies in relation to the new workplace needs. Promote a corporate culture of lifelong learning to enable staff to stay relevant at the workplace and ensure the growth of the organisation.</p><br>
  
-<b>People and Relationship Management (24 hours)</b><br>
-<p>Recognise the diversities at current workplace that is characterized by different nationalities, races, ethnicities, generations, religions, cultures, and abilities. Learn to build a harmonious and inclusive workplace that appreciates differences to encourage greater range of talent, broaden skill base and therefore, become more competitive and innovative.</p><br>
+<b>People and Relationship Management (24 hours)</b>
+<p>Recognise the diversities at current workplace that is characterized by different nationalities, races, ethnicities, generations, religions, cultures, and abilities. Learn to build a harmonious and inclusive workplace that appreciates differences to encourage greater range of talent, broaden skill base and therefore, become more competitive and innovative.</p>
  
-<b>Productivity Improvement (18 hours)</b><br>
-<p>Understand current trends in retail and how to use analytical tools to identify areas and key targets for productivity improvement in achieving organization goals. Using the ability to lead and drive workplace efficiency and effectiveness to help the workplace to bring about better customer experience leading to higher productivity outcome and better business results.</p><br>
+<b>Productivity Improvement (18 hours)</b>
+<p>Understand current trends in retail and how to use analytical tools to identify areas and key targets for productivity improvement in achieving organization goals. Using the ability to lead and drive workplace efficiency and effectiveness to help the workplace to bring about better customer experience leading to higher productivity outcome and better business results.</p>
  
-<b>Service Coaching (18 hours)</b><br>
-<p>Use right coaching techniques to help staff address service gaps and monitor their progress for improvements in the delivery of customer experience. Promoting coaching culture to propel the workplace into a high-performance organisation.</p><br>
+<b>Service Coaching (18 hours)</b>
+<p>Use right coaching techniques to help staff address service gaps and monitor their progress for improvements in the delivery of customer experience. Promoting coaching culture to propel the workplace into a high-performance organisation.</p>
  
-<b>Customer Experience Innovation (18 hours)</b><br>
-<p>Driving innovative customer experience requires active listening to customers and meeting all their needs, be it defined or yet to be conceived. As organisations promote customer experience as a competitive advantage, it becomes imperative to embrace disruptions, provide value propositions that matters and turn customer data into insights for greater customer engagement.</p><br>
+<b>Customer Experience Innovation (18 hours)</b>
+<p>Driving innovative customer experience requires active listening to customers and meeting all their needs, be it defined or yet to be conceived. As organisations promote customer experience as a competitive advantage, it becomes imperative to embrace disruptions, provide value propositions that matters and turn customer data into insights for greater customer engagement.</p>
  
-<b>Service Planning and Implementation (24 hours)</b><br>
-<p>Understand the importance of a customer-centric approach to the business and provide superior and memorable customer experience to gain and sustain a competitive advantage in today's marketplace. Learn to align organization service operations to empower staff and strengthen processes to elevate customer experience.</p><br>
+<b>Service Planning and Implementation (24 hours)</b>
+<p>Understand the importance of a customer-centric approach to the business and provide superior and memorable customer experience to gain and sustain a competitive advantage in today's marketplace. Learn to align organization service operations to empower staff and strengthen processes to elevate customer experience.</p>
  
-<b>Workplace Communication (18 hours)</b><br>
+<b>Workplace Communication (18 hours)</b>
 <p>Develop and apply appropriate communication styles and techniques to build trust within workplace and ultimately elevate customer experience and boost morale, commitment, and efficiency among employees.</p>
  
 <h4>Duration</h4>
