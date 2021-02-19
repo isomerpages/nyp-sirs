@@ -7,11 +7,9 @@ collection_name: digital-programmes
 second_nav_title: "E-Commerce Programmes"
 ---
 
-<img src="images/e-commerce/workshop-for-qoo10-sellers.png" style="width:100%;">
+<img src="/images-2021/DigitalProgrammes-E-Commerce-Qoo10-Onboarding.png" style="width:100%;">
 
 <p>Are you ready to have products flying off your page? Learn the ropes of using Qoo10 Sales Manager to start your own e-store today and find out how you can sell across the borders with QuuBe! Discover the ways to multiply your sales in Singapore and beyond using Qoo10 marketing tools!</p>
-
-<h4>Workshop 1: Getting Started on Qoo10 (Onboarding)</h4>
 
 <h4>Outline</h4>
 <ul>
