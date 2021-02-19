@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: eBay Global Selling (Onboarding)
-permalink: /digital-programmes/e-commerce-programmes/ebay-one-day-workshop
+permalink: /digital-programmes/e-commerce-programmes/ebay-global-selling
 breadcrumb: eBay Global Selling (Onboarding)
 collection_name: digital-programmes
 second_nav_title: "E-Commerce Programmes"
