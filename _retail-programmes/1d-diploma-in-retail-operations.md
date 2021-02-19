@@ -20,7 +20,7 @@ second_nav_title: "WSQ Full Qualification Programmes"
 <p>To achieve a full qualification, individuals must successfully attain competency in all the following modules:</p>
 
 <b>Global Mindset (Intermediate) (24 hours)</b>
-<p>Evaluate local & global issues & trends that impact one's employability & job role and to be able to identify competency gaps, determine training and development needs and to establish & evaluate appropriate training & learning opportunities for all including the implementation of a conducive work environment to facilitate transfer of knowledge & skills.</p>
+<p>Evaluate local & global issues & trends that impact one's employability & job role and to be able to identify competency gaps, determine training and development needs and to establish & evaluate appropriate training & learning opportunities for all including the implementation of a conducive work environment to facilitate transfer of knowledge & skills.</p><br>
  
 <b>Sales Target Management (24 hours)</b>
 <p>Set, communicate, drive and motivate staff to achieve sales target and to review social-economic changes in the local context as well as assess impact of external economic and political events on the local retailing environment and to make changes to target set inability to reflect actual situation.</p><br>
