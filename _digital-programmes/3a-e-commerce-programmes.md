@@ -18,8 +18,8 @@ second_nav_title: "E-Commerce Programmes"
       <li><a href="/digital-programmes/e-commerce-programmes/amazon-global-selling-programme">Amazon Global Selling (Onboarding)</a></li>
       <li><a href="/digital-programmes/e-commerce-programmes/best-practices-of-e-commerce-transactions-using-tr76">Best Practices of E-Commerce Using TR 76</a></li>
       <li><a href="/digital-programmes/e-commerce-programmes/ebay-global-selling">eBay Global Selling (Onboarding)</a></li>
-      <li>Getting Started on Lazada (Onboarding)</li>
-      <li>Drive Sales Performance of Lazada (Marketing)</li>
+      <li><a href="/digital-programmes/e-commerce-programmes/getting-started-on-lazada">Getting Started on Lazada (Onboarding)</a></li>
+      <li><a href="/digital-programmes/e-commerce-programmes/drive-sales-performance-on-lazada">Drive Sales Performance on Lazada (Marketing)</a></li>
       <li>Getting Started on Qoo10 (Onboarding)</li>
       <li>Driving Sales Performance on Qoo10 (Marketing)</li>
       <li><a href="/digital-programmes/e-commerce-programmes/scash-nets-smart-retail-solution">SCash NETS Smart Retail Solution</a></li>
