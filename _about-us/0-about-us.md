@@ -50,4 +50,6 @@ To promote skills deepening and lifelong learning, SIRS, in collaboration with t
 </p>
 
 
-<i><small>*As an educational institution, NYP is committed to ensuring a safe and supportive campus and environment where there is respect and dignity for everyone. Accordingly, high standards of conduct are expected from all in our community. In case of any alleged offences committed within our premises, SIRS may report the matter to the security and/or relevant government agencies.
+<p><i><small>*As an educational institution, NYP is committed to ensuring a safe and supportive campus and environment where there is respect and dignity for everyone. Accordingly, high standards of conduct are expected from all in our community. In case of any alleged offences committed within our premises, SIRS may report the matter to the security and/or relevant government agencies.
+ </p>
+
