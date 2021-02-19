@@ -17,7 +17,7 @@ second_nav_title: "WSQ Full Qualification Programmes"
 
 <h4>Modules</h4>
 
-<p>To achieve a full qualification, individuals must successfully attain competency in all the following modules:<p>
+<p>To achieve a full qualification, individuals must successfully attain competency in all the following modules:</p>
   
 <b>Adapt to Change (15 hours)</b>
 <p>Recognise both local and global trends that bring about changes impacting the workplace, job roles and responsibility. Adapt to cope with new workplace expectations and embrace lifelong learning for continuous upskilling to improve employability and growth potential in an evolving and diverse workplace.</p>
