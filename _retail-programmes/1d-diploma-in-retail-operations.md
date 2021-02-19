@@ -76,7 +76,7 @@ second_nav_title: "WSQ Full Qualification Programmes"
 </tr>
 
 <tr>
-  <td>Enhanced Training Support for SMEs (additional 90% funding)<sup>2</sup> (90% funding)</td>
+  <td>Enhanced Training Support for SMEs (additional 90% funding)<sup>2</sup></td>
 <td>$813.12</td>
 </tr>
 
@@ -84,9 +84,9 @@ second_nav_title: "WSQ Full Qualification Programmes"
 </center>
 
 <em><sup>1</sup>Singapore Citizens eligible for Mid-Career Enhanced Subsidy</em>
-
+<br>
 <em><sup>2</sup>Additional funding under the Enhanced Training Support for SMEs (ETSS)</em>
-
+<br>
 <em>Fees include prevailing GST</em>
 
 <h4>Additional Support</h4>
