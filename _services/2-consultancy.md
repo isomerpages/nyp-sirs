@@ -12,6 +12,17 @@ second_nav_title: "Consultancy"
 
 <p>We help companies become more successful in people development and business excellence. Our retail consultants are highly experienced and deeply passionate about the trade. We believe in speed-to-market collaborations & co-creating solutions with clients to help them meet the challenges and seize the opportunities in the dynamic retail industry. We provide advice on the vast arrays of government assistance such as:</p>
 
+<h4>For Companies</h4>
+<ul>
+<li><a href="/services/consultancy/absentee-payroll-ap">Absentee Payroll (AP)</a></li>
+<li><a href="/services/consultancy/edg">Enterprise Development Grant (EDG)</a></li>
+<li><a href="/services/consultancy/etss">Enhanced Training Support for SMEs (ETSS)</a></li>
+<li>Enhanced Training Support Package (ETSP) & Enhanced Absentee Payroll (COVID-19)</li>
+<li><a href="/services/consultancy/psg">Productivity Solutions Grant (PSG)</a></li>
+<li><a href="/services/consultancy/singtel-99sme">Singtel 99%SME</a></li>
+<li><a href="/services/consultancy/workfare-skills-support-wss">Workfare Skills Support (WSS) Scheme (available as of 1 July 2020)</a></li>
+</ul>
+
 <h4>For Individuals</h4>
 <ul>
 <li><a href="/services/consultancy/skillsfuture-credit">SkillsFuture Credit (SFC)</a></li>
@@ -21,14 +32,4 @@ second_nav_title: "Consultancy"
 <li><a href="/services/consultancy/workfare-skills-support-wss">Workfare Skills Support (WSS) Scheme (Replace WTS from 1 July 2020)</a></li>
 <li><a href="/services/consultancy/ntuc-training-fund">NTUC Training Fund (SEPs)</a></li>
 <li><a href="/services/consultancy/utap">Union Training Assistance Programme (UTAP)</a></li>
-</ul>
-
-<h4>For Companies</h4>
-<ul>
-<li><a href="/services/consultancy/absentee-payroll-ap">Absentee Payroll (AP)</a></li>
-<li><a href="/services/consultancy/edg">Enterprise Development Grant (EDG)</a></li>
-<li><a href="/services/consultancy/etss">Enhanced Training Support for SMEs (ETSS)</a></li>
-<li><a href="/services/consultancy/psg">Productivity Solutions Grant (PSG)</a></li>
-<li><a href="/services/consultancy/singtel-99sme">Singtel 99%SME</a></li>
-<li><a href="/services/consultancy/workfare-skills-support-wss">Workfare Skills Support (WSS) Scheme (available as of 1 July 2020)</a></li>
 </ul>
