@@ -37,7 +37,7 @@ second_nav_title: "WSQ Full Qualification Programmes"
 <p>Understand the importance of a customer-centric approach to the business and provide superior and memorable customer experience to gain and sustain a competitive advantage in today's marketplace. Learn to align organization service operations to empower staff and strengthen processes to elevate customer experience.</p><br>
  
 <b>Workplace Communication (18 hours)</b><br>
-<p>Develop and apply appropriate communication styles and techniques to build trust within workplace and ultimately elevate customer experience and boost morale, commitment, and efficiency among employees.</p><br>
+<p>Develop and apply appropriate communication styles and techniques to build trust within workplace and ultimately elevate customer experience and boost morale, commitment, and efficiency among employees.</p>
  
 <h4>Duration</h4>
 <p>Duration is 6 months for day class (once a week) or 6 months for night class (twice a week)</p>
