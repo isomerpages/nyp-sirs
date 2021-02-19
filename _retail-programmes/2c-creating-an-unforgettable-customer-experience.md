@@ -7,7 +7,7 @@ collection_name: retail-programmes
 second_nav_title: "WSQ Certified Modular Programmes"
 ---
 
-<img src="images-2021/WSQ Modular_CX.png" style="width:100%;">
+<img src="/images-2021/WSQ Modular_CX.png" style="width:100%;">
 
 <p>Although more customers are doing their shopping online, the human element remains an integral part of delivering amazing customer experience. This is especially true for physical stores where frontline retail associates are the major touchpoint between your brand and the customers. Therefore, it is important for them to provide a differentiated in-store experience by cultivating greater empathy to deepen connection and acquiring the know-how to project favourable brand perception during customer interactions. Keep your business going strong by attracting and retaining loyal customers to your stores through unforgettable experience curated for them.</p>
 
@@ -78,6 +78,5 @@ second_nav_title: "WSQ Certified Modular Programmes"
 <p>For company-sponsored participants:</p>
 <li>Absentee Payroll</li>
 <li>Workfare Skills Support (WSS) Scheme (Absentee Payroll)</li>
-
   
 <p>For more information about funding and support, click <a href="/services/consultancy">here.</a></p>
