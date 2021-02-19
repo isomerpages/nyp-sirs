@@ -65,11 +65,6 @@ second_nav_title: "WSQ Full Qualification Programmes"
 <td>$282.48</td>
 </tr>
 
-<tr>
-  <td><a href="/services/consultancy/funding-and-support/workfare-training-support-scheme">Workfare Training Support</a><sup>1</sup> (95% funding)</td>
-<td>$150.48</td>
-</tr>
-
 </table>
 </center>
 
