@@ -7,11 +7,11 @@ collection_name: digital-programmes
 second_nav_title: Study Trips
 ---
 
-<center>WeChat Digital Immersion Programme 
-(5D4N Study Trip - Shanghai)</center>
-
-<center>新加坡微信及移动互联网上海游学浸濡团
-(5天4夜考察之旅 - 上海)</center>
+<center>WeChat Digital Immersion Programme</center>
+<center>(5D4N Study Trip - Shanghai)</center>
+<br>
+<center>新加坡微信及移动互联网上海游学浸濡团</center>
+<center>(5天4夜考察之旅 - 上海)</center>
 
 <b>This programme will be conducted in Mandarin.</b>
 
