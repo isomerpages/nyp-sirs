@@ -11,15 +11,29 @@ second_nav_title: "WSQ Certified Modular Programmes"
 
 <p>Look your best every day without spending too much on products. Know the makeup style that suits you the most, choose essential products that you need and learn the right techniques to enhance your appearance, boost your confidence and self-esteem. Suitable for anyone interested in beauty and makeup.</p>
 
-<h4>Outline</h4>
-<ul>
-<li>Understand why wearing make-up is important</li>
-<li>Know the various types of make-up products and tools</li>
-<li>Establish your own make-up style</li>
+<b>Receive a WSQ Statement of Attainment (SOA) from the Skills Future Singapore (SSG) upon completion.</b>
+
+<h4>Highlights</h4>
+<li>Hands-on live demonstration</li>
+<li>Learn 2 makeup styles: natural & glam look</li>
+<li>Newly added eye lash enhancement! Receive a set of faux lashes for practice during class</li>
+
+<h4>Learning Outcomes</h4>
+<li>Understand why wearing makeup is important</li>
+<li>Know the various types of makeup products and tools</li>
+<li>Establish your own makeup style</li>
 <li>Choose the right products and tools</li>
-<li>Understand the general care of make-up products and tools</li>
-  <li>Demonstrate the application of make-up products</li>
-  </ul>
+<li>Understand the general care of makeup products and tools</li>
+<li>Demonstrate the application of makeup products</li>
+  
+<h4>Duration</h4>
+<p>Total of 2 days, 12 hours:</p>
+<li>Day 1: 9am to 4pm</li>
+<li>Day 2: 9am to 4pm</li>
+  
+<h4>Entry Requirements</h4>
+<li>GCE ‘N’ level Credit (at least C5) in English and Mathematics or Workplace Literacy and Numeracy (WPLN) score: Level 4 for Reading, Listening and Numeracy, and</li>
+<li>With at least 1 years working experience in retail or 2 years in non-retail sector</li>
 
 <h4>Fees</h4>
 
@@ -31,7 +45,7 @@ second_nav_title: "WSQ Certified Modular Programmes"
 </tr>
 
 <tr>
-<td>Full Fees</td>
+<td>Full Course Fee (before GST)</td>
 <td>$440.00</td>
 </tr>
 
@@ -41,28 +55,26 @@ second_nav_title: "WSQ Certified Modular Programmes"
 </tr>
 
 <tr>
-  <td>Singapore Citizen/SPR sponsored by SMEs<sup>1</sup> (90% funding)</td>
+  <td>Enhanced Training Support for SMEs (ETSS) (90% funding)</td>
 <td>$47.08</td>
 </tr>
 
 </table>
 </center>
 
-<p>Learners may also be eiligible for the following:</p>
-<ul>
-  <li>For self-sponsored participants
-  <ol><li><a href="/services/consultancy/funding-and-support/skillsfuture-credit">SkillsFuture Credit S$500</a></li>
-    <li>Training Commitment Award
-      <ul><li>For recipients of the Workfare Income Supplement (WIS) Scheme</li>
-        <li>Receive $200 for each Statement of Attainment within a year, capped at $400 per year</li>
-      </ul></li></ol></li>
-  <li>For company-sponsored participants
-    <ul><li><sup>1</sup>Absentee payroll</li></ul>
-  </li>
-  </ul>
+<em>Fees include prevailing GST</em>
 
-<em>All fees include prevailing GST</em>
+<h4>Additional Support</h4>
 
+<p>This course is also eligible for the following:</p>
 
-<p>For more information about funding and support, click <a href="/services/funding-and-advisory">here.</a></p>
+<p>For self-sponsored participants:</p>
+<li>SkillsFuture Credit</li>
+<li>Union Training Assistance Programme (UTAP)
+<li>Workfare Skills Support (WSS) Scheme
+For company-sponsored participants
+<li>Absentee Payroll
+<li>Workfare Skills Support (WSS) Scheme (Absentee Payroll)
+
+<p>For more information about funding and support, click <a href="/services/consultancy">here.</a></p>
 
