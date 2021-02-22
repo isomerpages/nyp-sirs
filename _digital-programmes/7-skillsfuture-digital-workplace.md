@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: SkillsFuture for Digital Workplace
+title: SkillsFuture for Digital Workplace (SFDW)
 permalink: /digital-programmes/skillsfuture-for-digital-workplace
-breadcrumb: SkillsFuture for Digital Workplace
+breadcrumb: SkillsFuture for Digital Workplace (SFDW)
 collection_name: digital-programmes
 ---
 
