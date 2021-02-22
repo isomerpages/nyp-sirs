@@ -4,6 +4,7 @@ title: BEST Denki increased sales by 100% within 6 months
 permalink: /success-and-blog/success-stories/best-denki
 breadcrumb: BEST Denki increased sales by 100% within 6 months
 collection_name: success-and-blog
+second_nav_title: Success Stories
 ---
 <img src="images-2021/SuccessStories-BestDenki.jpg" style="width:100%;">
 
