@@ -15,5 +15,5 @@ the right network to realise our plans. We highly recommend the programme to fel
 perspective and know-how to start a digital platform for their business. The programme is practical, and SIRS has follow-up digital programmes to help SMEs realise their
 strategy.</p>
 
-<b>Irene Soon</b>
+<b>Irene Soon</b><br>
 <em>Managing Director, Activhealth (Singapore)</em>
