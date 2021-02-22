@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Digital Strategy & the 101 of SEO
+title: Digital Strategy & the 101 of Search Engine Optimisation (SEO)
 permalink: /digital-programmes/masterclasses-and-workshops/digital-strategy-and-the-101-of-seo
-breadcrumb: Digital Strategy & the 101 of SEO
+breadcrumb: Digital Strategy & the 101 of Search Engine Optimisation (SEO)
 collection_name: digital-programmes
 second_nav_title: "Masterclasses & Workshops"
 ---
@@ -61,19 +61,11 @@ Jayden is the founding partner of 2 service companies, Ambient (Software Develop
 <td>$90.75</td>
 </tr>
 
-<tr>
-<td><a href="/services/consultancy/funding-and-support/workfare-training-support-scheme">Workfare Training Support (WTS)</a> recipient (95% funding)</td>
-<td>$53.25</td>
-</tr>
-
 </table>
 </center>
 
 <em><sup>1</sup>Additional funding under <a href="/services/consultancy/funding-and-support/mid-career-enhanced-subsidy">Mid-Career Enhanced Subsidy</a><br>
 <sup>2</sup>Fee is after reimbursement of S$150 via SkillsConnect under <a href="/services/consultancy/funding-and-support/skillsfuture-enhanced-training-support-for-smes">Enhanced Training Support for SMEs (ETSS)</a><br>
 Self-sponsored participants can utilise their <a href="/services/consultancy/funding-and-support/skillsfuture-credit">SkillsFuture Credit</a> to offset course fees<br>
-All fees inclusive of prevailing GST</em>
+Fees include prevailing GST</em>
 
-<center><a href="https://form.gov.sg/#!/5e4a462056e8230011d5d3bb" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;" target="_blank">Request for Brochure</a></center>
-
- <P> <center><a href="https://form.gov.sg/5d9d3f30a8b1b30012143f58" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;" target="_blank">Register Here</a></center>
