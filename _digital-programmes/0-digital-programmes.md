@@ -18,7 +18,7 @@ collection_name: digital-programmes
 <p> Be inspired and learn from Alibaba, one of the world’s largest retail and e-commerce companies, on business digitalisation and build a stronger foothold in the digital retail landscape. </p>
 <a href="/digital-programmes/alibaba-business-school" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;" target="_blank">Find Out More</a>
 
-<h4>Digital Mentorship Programmes (DMP)</h4>
+<h4>Digital Mentorship Programme (DMP)</h4>
 <p>A first of its kind, SIRS’ DMP helps small-and-medium-sized enterprises (SMEs) embark on digital commerce journey with personalised guidance. </p>
 <a href="/digital-programmes/digital-mentorship-programmes" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;" target="_blank">Find Out More</a>
 
@@ -35,7 +35,6 @@ collection_name: digital-programmes
 <b>Professional Certificate in Digital Retail Entertainment</b>
 <p>Online retailers tapping on the retail digitainment wave - using live streaming and video marketing to entertain and interact with followers while selling products - can now get themselves formally certified through this joint certification by SIRS and the Singapore Media Academy (SMA), in collaboration with Alibaba-Taobao University.</p>
 <a href="/digital-programmes/professional-certificate-in-digital-retail-entertainment" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;" target="_blank">Find Out More</a>
-
 
 <h4>Masterclasses & Workshops</h4>
 <p>To remain relevant and ahead of competition, there is no faster way than to learn from expert industry practitioners. Let them share their wealth of experience through our masterclasses & workshops.</p>
