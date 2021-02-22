@@ -3,7 +3,7 @@ layout: leftnav-page-content
 title: D’Elegance converts motivated and talented mid-career PMETs to reskill and take on new job roles
 permalink: /success-and-blog/success-stories/d-elegance
 breadcrumb: D’Elegance converts motivated and talented mid-career PMETs to reskill and take on new job roles
-collection_name: digital-programmes
+collection_name: success-and-blog
 ---
 <img src="/images-2021/SuccessStories-DElegance.jpg" style="width:100%;">
 
