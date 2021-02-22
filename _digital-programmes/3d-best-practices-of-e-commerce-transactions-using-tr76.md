@@ -8,8 +8,6 @@ second_nav_title: "E-Commerce Programmes"
 ---
 <img src="/images-2021/DigitalProgrammes-E-Commerce-TR76.png" style="width:100%;">
 
-<b>One Day Workshop on Best Practices of E-commerce Transactions using TR 76</b>
-
 <p>Technical Reference 76 (TR 76) is the first national standard on guidelines for e-commerce transactions launched by the Enterprise Singapore (ESG) and the 
 Singapore Standards Council. TR 76 serves as a practical reference for e-retailers and online intermediaries to build trust and transparency in online transactions.</p>
 
@@ -18,7 +16,6 @@ payment, delivery, product tracking, returns, and customer support practices. Le
 
 <h4>Outline</h4>
 
-<b>The 1-day hands-on programme covers the following:</b>
 <ul>
 <li>Introduction to the global e-payment elements and evolution</li>
 <li>Discover how you can save time and effort in content creation, delivery, and governance to generate more shopping carts and close sales</li>
