@@ -28,9 +28,7 @@ second_nav_title: "Masterclasses & Workshops"
   <li><a href="/digital-programmes/masterclasses-and-workshops/google-shopping-with-adwords-professional-certification">Google Shopping with AdWords Professional Certification</a></li>
   <li><a href="/digital-programmes/masterclasses-and-workshops/growing-your-brand-presence-with-wechat-marketing">Growing Your Brand Presence with WeChat Marketing</a></li>
   <li><a href="/digital-programmes/masterclasses-and-workshops/increase-business-revenue-through-seo">Increase Business Revenue through Search Engine Optimisation</a></li>
-  <li><a href="/digital-programmes/masterclasses-and-workshops/level-up-customer-engagement-through-live-streaming">Level Up Customer Engagement Through Live Streaming</a></li>
   <li><a href="/digital-programmes/masterclasses-and-workshops/omni-commerce-retail">Omni-Commerce Retail</a></li>
-  <li><a href="/digital-programmes/masterclasses-and-workshops/omni-commerce-visual">Omni-Commerce Visual</a></li>
   <li><a href="/digital-programmes/masterclasses-and-workshops/returns-on-social-media-marketing-investments">Returns on Social Media Marketing Investments</a></li>
   <li><a href="/digital-programmes/masterclasses-and-workshops/social-media-content-generation">Social Media Content Generation</a></li>
   <li><a href="/digital-programmes/masterclasses-and-workshops/social-media-crisis-management">Social Media Crisis Management</a></li>
@@ -39,12 +37,13 @@ second_nav_title: "Masterclasses & Workshops"
   </ul>
   
   <h4>Workshops</h4>
-  
+  <ul>
   <li><a href="/digital-programmes/masterclasses-and-workshops/brand-advocacy-through-social-media">Brand Advocacy through Social Media</a></li>
   <li>Create Value to Drive ‘Fantabulous’ Outcome through brixPLAY</li>
   <li><a href="/digital-programmes/masterclasses-and-workshops/data-driven-sales-approach">Data-Driven Sales Approach</a></li>
   <li><a href="/digital-programmes/masterclasses-and-workshops/differentiate-and-drive-growth-with-experience-innovation">Differentiate and Drive Growth with Experience Innovation</a></li>
   <li><a href="/digital-programmes/masterclasses-and-workshops/improve-customer-engagement-with-digital-mindset">Improve Customer Engagement with Digital Mindset</a></li>
   <li>New Mindset for Marvellous Experience through brixPLAY</li>
+  <li><a href="/digital-programmes/masterclasses-and-workshops/level-up-customer-engagement-through-live-streaming">Level Up Customer Engagement Through Live Streaming</a></li>
   <li><a href="/digital-programmes/masterclasses-and-workshops/the-art-of-storytelling">The Art of Storytelling</a></li>
-
+</ul>
