@@ -45,7 +45,7 @@ second_nav_title: "Masterclasses & Workshops"
   <li><a href="/digital-programmes/masterclasses-and-workshops/data-driven-sales-approach">Data-Driven Sales Approach</a></li>
   <li><a href="/digital-programmes/masterclasses-and-workshops/differentiate-and-drive-growth-with-experience-innovation">Differentiate and Drive Growth with Experience Innovation</a></li>
   <li><a href="/digital-programmes/masterclasses-and-workshops/improve-customer-engagement-with-digital-mindset">Improve Customer Engagement with Digital Mindset</a></li>
-  <li>New Mindset for Marvellous Experience through brixPLAY</li>
+  <li><a href="/digital-programmes/masterclasses-and-workshops/new-mindset-for-marvellous-experience-through-brixplay">New Mindset for Marvellous Experience through brixPLAY</a></li>
   <li><a href="/digital-programmes/masterclasses-and-workshops/level-up-customer-engagement-through-live-streaming">Level Up Customer Engagement Through Live Streaming</a></li>
   <li><a href="/digital-programmes/masterclasses-and-workshops/the-art-of-storytelling">The Art of Storytelling</a></li>
 </ul>
