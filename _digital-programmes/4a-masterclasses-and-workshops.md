@@ -38,6 +38,7 @@ second_nav_title: "Masterclasses & Workshops"
   </ul>
   
   <h4>Workshops</h4>
+  
   <ul>
   <li><a href="/digital-programmes/masterclasses-and-workshops/brand-advocacy-through-social-media">Brand Advocacy through Social Media</a></li>
   <li>Create Value to Drive ‘Fantabulous’ Outcome through brixPLAY</li>
