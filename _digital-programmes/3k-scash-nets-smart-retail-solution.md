@@ -19,7 +19,7 @@ social media to your store!</p>
 </ol>
 
 <h4>Outline</h4>
-
+<ul>
 <li>What is a digital commerce business?</li>
 <li>Learn to transform your business into mobile commerce</li>
 <li>Introduction and quick view of SCash Technologies</li>
@@ -27,11 +27,9 @@ social media to your store!</p>
 <li>Review the step by step user guide of SCash App</li>
 <li>Grasp NETS onboarding process</li>
 <li>Understand Ninja Van onboarding process</li>
-</li>
-<br>
+</ul>
 
 <h4>Fees</h4>
-Fees are per workshop (onboarding OR marketing)
 
 <center>
 <table style="width:100%;">
