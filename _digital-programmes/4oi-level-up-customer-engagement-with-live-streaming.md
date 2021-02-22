@@ -6,7 +6,7 @@ breadcrumb: Level Up Customer Engagement Through Live Streaming
 collection_name: digital-programmes
 second_nav_title: "Masterclasses & Workshops"
 ---
-<img src="images-2021/DigitalProgrammes-Image-Masterclass.png" style="width:100%;">
+<img src="images-2021/DigitalProgrammes-HImage-Workshop.png" style="width:100%;">
 
 From novelty to necessity, live streaming has become the game-changer in social media marketing. This
 trend is growing popularity in Singapore as social media channels like Facebook and Instagram integrated
@@ -30,7 +30,6 @@ looking for new channels to engage customers.
 encouraged to attend our ‘Introduction to Digital Marketing’ course.</em>
 
 <h4>Outline</h4>
-
 <ul>
 <li>Plan and create content, script and programme flow for your live streaming</li>
 <li>Prepare and set-up for live streaming</li>
@@ -39,7 +38,7 @@ encouraged to attend our ‘Introduction to Digital Marketing’ course.</em>
 <li>Monitor effectiveness of your live streaming</li>
 </ul>
 
-<h4>Requirements:</h4>
+<h4>Requirements</h4>
 <ul>
 <li>Bring along a mobile device (phone/tablet) with camera*</li>
 <li>Ensure the mobile device has at least 10 GB of free space</li>
