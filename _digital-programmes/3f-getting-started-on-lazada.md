@@ -25,20 +25,7 @@ second_nav_title: "E-Commerce Programmes"
 </table></center>
 
 <h4>Outline</h4>
-
-  <li>Understanding the digital commerce world</li>
-  <li>Find out how modern consumers are purchasing their products online</li>
-  <li>Learn how to use digital marketing tools and strategy to increase traffic to your Lazada store</li>
-  <li>Learn how to source for products</li>
-  <li>Understand the different components of a Lazada store: storefront, payment gateway, marketing, oprations</li>
-  <li>Create effective storefront and product listings to optimise conversion</li>
-  <li>Set up your own Lazada store</li>
-  <li>Understand Lazada Seller Centre app and seller support</li>
-  <li>Fundamentals to successful selling on Lazada</li>
-<br>
-
 <ol>
-
 <li>Understand the Digital Commerce World
     <ul>
 <li>Know the current trends in your product</li>
@@ -48,7 +35,6 @@ second_nav_title: "E-Commerce Programmes"
 <li>Learn how to source for products</li>
         </ul>
 </li>
-
 <li>Maximize and Boost Your Sales
     <ul>
 <li>Understand the difference between eMarketplace, webstore, blogshop and social media shop</li>
@@ -56,14 +42,12 @@ second_nav_title: "E-Commerce Programmes"
 <li>Apply the Golden Rule : Traffic x Conversion Rate x Average Order Value</li>
         </ul>
 </li>
-
 <li>Effective Product Content Creation
     <ul>
 <li>Understand the importance of product categorization</li>
 <li>Know how to upload product content, through single & mass upload</li>
         </ul>
 </li>
-
 <li>Practical Session
     <ul>
 <li>Hands-on session of setting up your store and managing orders</li>
@@ -71,7 +55,6 @@ second_nav_title: "E-Commerce Programmes"
 <li>Tips on selling better on Lazada</li>
         </ul>
 </li>
-
 </ol>
 
 <h4>Fees</h4>
