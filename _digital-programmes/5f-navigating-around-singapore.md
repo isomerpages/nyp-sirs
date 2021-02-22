@@ -30,17 +30,17 @@ destination using public transport in the shortest time possible.</p>
 
 <tr>
 <td>Full Fees</td>
-<td>$100.00</td>
+<td>$53.50</td>
 </tr>
 
 <tr>
 <td>Singapore Citizens 50 years & above</td>
-<td>$53.27</td>
+<td>$13.50</td>
 </tr>
 
 </table>
 </center>
 
-<em>All fees inclusive of prevailing GST</em>
+<em>Fees include prevailing GST</em>
 
-<p>For more information about funding and support, click <a href="/services/funding-and-advisory">here.</a></p>
+<p>For more information about funding and support, click <a href="/services/consultancy">here.</a></p>
