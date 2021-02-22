@@ -6,8 +6,6 @@ breadcrumb: Alibaba Global Course series
 collection_name: digital-programmes
 second_nav_title: "Alibaba Business School"
 ---
-<a href="#" onclick="history.go(-1)">Back to previous page</a>
-
 <img src="images/agcs-abs-sirs-atu-combined-logos.png" style="width:100%:">
 
 <p>The Alibaba Global Course series (AGCs) was launched in April 2018 with the Alibaba Global Conference, a partnership between the renowned Taobao University and Singapore Institute of Retail Studies (SIRS).</p>
