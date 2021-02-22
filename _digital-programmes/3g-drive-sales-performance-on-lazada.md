@@ -111,7 +111,6 @@ second_nav_title: "E-Commerce Programmes"
 <h4>Additional Support</h4>
 
 <p>This course is also eligible for the following:</p>
-
 <ul>
 <li>SkillsFuture Credit</li>
 <li>Workfare Skills Support (WSS) Scheme</li>
