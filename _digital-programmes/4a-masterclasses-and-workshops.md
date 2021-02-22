@@ -41,7 +41,7 @@ second_nav_title: "Masterclasses & Workshops"
   
   <ul>
   <li><a href="/digital-programmes/masterclasses-and-workshops/brand-advocacy-through-social-media">Brand Advocacy through Social Media</a></li>
-  <li>Create Value to Drive ‘Fantabulous’ Outcome through brixPLAY</li>
+  <li><a href="/digital-programmes/masterclasses-and-workshops/create-value-to-drive-fantabulous-outcome-through-brixplay">Create Value to Drive ‘Fantabulous’ Outcome through brixPLAY</a></li>
   <li><a href="/digital-programmes/masterclasses-and-workshops/data-driven-sales-approach">Data-Driven Sales Approach</a></li>
   <li><a href="/digital-programmes/masterclasses-and-workshops/differentiate-and-drive-growth-with-experience-innovation">Differentiate and Drive Growth with Experience Innovation</a></li>
   <li><a href="/digital-programmes/masterclasses-and-workshops/improve-customer-engagement-with-digital-mindset">Improve Customer Engagement with Digital Mindset</a></li>
