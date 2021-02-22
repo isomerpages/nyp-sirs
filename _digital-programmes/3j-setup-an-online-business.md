@@ -9,7 +9,9 @@ second_nav_title: "E-Commerce Programmes"
 
 <img src="/images-2021/DigitalProgrammes-E-Commerce-Shopmatic-SetupOnlineBiz.png" style="width:100%;">
 
-<p>As technology advances and consumer habits change, retailers are increasingly moving onto the online space to ensure their visibility and product availability both online and offline. Furthermore, as the Southeast Asian e-commerce economy has crossed the US$100 billion mark in 2019, and is projected to reach US$300 billion by 2025, e-commerce and digital strategies has become a critical component of any retail business.</p>
+<p>As technology advances and consumer habits change, retailers are increasingly moving onto the online space to ensure their visibility and product availability both online and offline.</p>
+
+<p>Furthermore, as the Southeast Asian e-commerce economy has crossed the US$100 billion mark in 2019, and is projected to reach US$300 billion by 2025, e-commerce and digital strategies has become a critical component of any retail business.</p>
 
 <p>In this 2-day workshop, you will learn more about the digital economy in Singapore and Southeast Asia, discover different online distribution channels that are suitable for your product range, and gain hands-on experience in setting up an e-commerce store using the Shopmatic platform.</p>
 
@@ -34,7 +36,7 @@ second_nav_title: "E-Commerce Programmes"
     <li>Learn about different kinds of social commerce</li>
     </ul>
     </li>
- 
+    
   <li>Managing and Handling Customers
     <ul>
     <li>Learn to handle logistics and fulfilment</li>
@@ -51,7 +53,6 @@ second_nav_title: "E-Commerce Programmes"
     <li>Learn about fulfilment and payment options</li>
     </ul>
     </li>
-
 </ol>
 
 <h4>Fees</h4>
