@@ -64,11 +64,6 @@ second_nav_title: "Alibaba Business School"
 <td>$689.70</td>
 </tr>
 
-<tr>
-<td><a href="/services/consultancy/funding-and-support/workfare-training-support-scheme">Workfare Training Support (WTS)</a> recipient (95% funding)</td>
-<td>$404.70</td>
-</tr>
-
 </table>
 </center>
 
