@@ -9,8 +9,7 @@ second_nav_title: "E-Commerce Programmes"
 
 <img src="images-2021/DigitalProgrammes-E-Commerce-Lazada-Marketing.png" style="width:100%;">
 
-<p>Selling your products on Lazada has never been easier with SIRS 1-day workshop! Get onboard the top e-marketplace platform in Southeast Asia to get more customers
-and boost your sales by learning the marketing strategies you can deploy with Lazada's Marketing tools!</p>
+<p>Selling your products on Lazada has never been easier with SIRS 1-day workshop! Get onboard the top e-marketplace platform in Southeast Asia to boost your sales by learning the marketing strategies you can deploy with Lazada's Marketing tools!</p>
 
 <h4 style="text-align:center;">Next intake:</h4>
 
