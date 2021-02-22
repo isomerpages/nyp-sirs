@@ -3,7 +3,7 @@ layout: leftnav-page-content
 title: Mighty Velo gained deeper understanding on online business model and business patterns
 permalink: /success-and-blog/success-stories/mighty-velo
 breadcrumb: Mighty Velo gained deeper understanding on online business model and business patterns
-collection_name: digital-programmes
+collection_name: success-and-blog
 ---
 <img src="/images-2021/SuccessStories-MightyVelo.png" style="width:100%;">
 
