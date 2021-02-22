@@ -3,7 +3,7 @@ layout: leftnav-page-content
 title: BHG (Singapore) successfully implemented reinvention plan despite COVID-19 constraints 
 permalink: /success-and-blog/success-stories/bhg
 breadcrumb: BHG (Singapore) successfully implemented reinvention plan despite COVID-19 constraints 
-collection_name: digital-programmes
+collection_name: success-and-blog
 ---
 <img src="/images-2021/SuccessStories-BHG.jpg" style="width:100%;">
 
