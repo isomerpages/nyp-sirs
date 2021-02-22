@@ -16,5 +16,5 @@ adapt to be future-ready. Within 6 months of attending the programme, after appl
 better equipped to formulate the digital commerce strategies for my company and are more confidently when presenting to my management. Thank you, SIRS, for organising this 
 programme.</p>
 
-<b>Johnson Chong</b>
-<em>(Previous) E-commerce Manager, BEST Denki Singapore</b>
+<b>Johnson Chong</b><br>
+<em>(Previous) E-commerce Manager, BEST Denki Singapore</em>
