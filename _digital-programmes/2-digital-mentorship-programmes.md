@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Overview
-permalink: /digital-programmes/digital-mentorship-programmes
+permalink: /digital-programmes/digital-mentorship-programme
 breadcrumb: Digital Mentorship Programmes (DMP)
 collection_name: digital-programmes
 second_nav_title: Digital Mentorship Programmes (DMP)
