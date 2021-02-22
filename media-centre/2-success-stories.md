@@ -3,7 +3,7 @@ layout: leftnav-page-content
 title: Overview
 permalink: /success-and-blog/success-stories
 breadcrumb: Overview
-collection_name: digital-programmes
+collection_name: success-and-blog
 ---
 <img src="/images-2021/SuccessStories-Overview.jpg" style="width:100%;">
 
