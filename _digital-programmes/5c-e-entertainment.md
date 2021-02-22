@@ -29,12 +29,12 @@ to your favourite local radio stations.</p>
 
 <tr>
 <td>Full Fees</td>
-<td>$100.00</td>
+<td>$53.50</td>
 </tr>
 
 <tr>
 <td>Singapore Citizens 50 years & above</td>
-<td>$53.27</td>
+<td>$13.50</td>
 </tr>
 
 </table>
