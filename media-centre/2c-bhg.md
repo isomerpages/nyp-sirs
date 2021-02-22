@@ -14,5 +14,5 @@ series of e-learning courses for BHG staff, helping our team learn about New Ret
 aligned BHG staff with the company’s new directions, helping the team adjust their mindset, away from traditional departmental stores. Our team also acquired new skills 
 on how to engage customers in the new customer’s journey.  SIRS will continue to be the key partner of BHG in the subsequent phases of our three-year reinvention plan.</p>
 
-<b>Jheeva Subramanian</b>
+<b>Jheeva Subramanian</b><br>
 <em>Chief Financial Officer, BHG (Singapore)</em>
