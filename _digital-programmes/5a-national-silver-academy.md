@@ -15,9 +15,9 @@ second_nav_title: National Silver Academy
   
   <ul>
   <li><a href="/digital-programmes/national-silver-academy/carousell-selling-online">Carousell Selling Online</a></li>
-  <li><a href="/digital-programmes/national-silver-academy/e-entertainment">E-Entertainment</a></li>
-  <li><a href="/digital-programmes/national-silver-academy/facebook">Facebook</a></li>
-  <li><a href="/digital-programmes/national-silver-academy/google-photos">Google Photos</a></li>
-  <li><a href="/digital-programmes/national-silver-academy/navigating-around-singapore">Navigating Around Singapore</a></li>
-  <li><a href="/digital-programmes/national-silver-academy/using-whatsapp">Using Whatsapp</a></li>
+  <li><a href="/digital-programmes/national-silver-academy/e-entertainment">Be a Tech-Savvy Senior: E-Entertainment</a></li>
+  <li><a href="/digital-programmes/national-silver-academy/facebook">Be a Tech-Savvy Senior: Facebook</a></li>
+  <li><a href="/digital-programmes/national-silver-academy/google-photos">Be a Tech-Savvy Senior: Google Photos</a></li>
+  <li><a href="/digital-programmes/national-silver-academy/navigating-around-singapore">Be a Tech-Savvy Senior: Navigating Around Singapore</a></li>
+  <li><a href="/digital-programmes/national-silver-academy/using-whatsapp">Be a Tech-Savvy Senior: Using Whatsapp</a></li>
   </ul>
