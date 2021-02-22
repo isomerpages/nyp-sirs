@@ -4,6 +4,7 @@ title: Activhealth attained clarity in crafting digital strategy
 permalink: /success-and-blog/success-stories/activhealth
 breadcrumb: Activhealth attained clarity in crafting digital strategy
 collection_name: success-and-blog
+second_nav_title: Success Stories
 ---
 <img src="/images-2021/SuccessStories-Activhealth.jpg" style="width:100%;">
 
