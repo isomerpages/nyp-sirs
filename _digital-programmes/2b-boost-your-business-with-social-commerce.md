@@ -1,10 +1,10 @@
 ---
 layout: leftnav-page-content
 title: Boost Your Business with Social Commerce
-permalink: /digital-programmes/digital-mentorship-programmes/boost-your-business-with-social-commerce
+permalink: /digital-programmes/digital-mentorship-programme/boost-your-business-with-social-commerce
 breadcrumb: Boost Your Business with Social Commerce
 collection_name: digital-programmes
-second_nav_title: "Digital Mentorship Programmes (DMP)"
+second_nav_title: "Digital Mentorship Programme (DMP)"
 ---
 
 <img src="images-2021/DigitalProgrammes-DMP-SocialCommerce.png" style="width:100%;">
