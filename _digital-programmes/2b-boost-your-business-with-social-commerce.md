@@ -18,7 +18,7 @@ of your target audience. Go where your customers are and learn to reach out to t
 <p>This programme includes 16 hours of classroom learning and 56 hours of on-the-job training where you will be assigned to a personal mentor. At the end of three months, 
 you will be able to leverage social commerce to grow your business with confidence!</p>
 
-<small><em>*Data from <a href="https://wearesocial.com/sg/digital-2019-singapore">https://wearesocial.com/sg/digital-2019-singapore</a></em></small>
+<small><small><em>*Data from <a href="https://wearesocial.com/sg/digital-2019-singapore">https://wearesocial.com/sg/digital-2019-singapore</a></em></small></small>
 
 <h4>Outline</h4>
 
