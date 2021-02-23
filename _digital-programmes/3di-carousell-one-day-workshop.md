@@ -6,7 +6,6 @@ breadcrumb: Carousell One Day Workshop
 collection_name: digital-programmes
 second_nav_title: "E-Commerce Programmes"
 ---
-
 <img src="images/e-commerce/one-day-workshop-for-carousell-sellers.png" style="width:100%;">
 
 <p>The rapid introduction of digital and social media has enabled anyone to become a digital seller. In this programme, you will learn the fundamentals of digital commerce, and digital marketing strategies to gain visibility using Carousell.</p>
@@ -35,7 +34,6 @@ second_nav_title: "E-Commerce Programmes"
 </ul>
 
 <h4>Fees</h4>
-Fees are per workshop (onboarding OR marketing)
 
 <center>
 <table style="width:100%;">
@@ -64,12 +62,7 @@ Fees are per workshop (onboarding OR marketing)
 <td>$60.50</td>
 </tr>
 
-<tr>
-<td><a href="/services/consultancy/funding-and-support/workfare-training-support-scheme">Workfare Training Support (WTS)</a> recipient (95% funding)</td>
-<td>$35.50</td>
-</tr>
-
 </table>
 </center>
 
-<p>For more information about funding and support, click <a href="/services/funding-and-advisory">here.</a></p>
+<p>For more information about funding and support, click <a href="/services/consultancy">here.</a></p>
