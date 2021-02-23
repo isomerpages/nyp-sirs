@@ -50,11 +50,13 @@ e-commerce website, you will also learn to set up a Carousell store for payment 
 </table>
 </center>
 
-<sup>1</sup>Fee is under Enhanced Training Support Package (ETSP)
+<small>
+  <sup>1</sup>Fee is under Enhanced Training Support Package (ETSP)
 <br>
-<em>All fees inclusive of prevailing GST</em>
+<em>Fees include prevailing GST</em>
+  </small>
 
-<p>For more information about funding and support, click <a href="/services/funding-and-advisory">here.</a></p>
+<p>For more information about funding and support, click <a href="/services/consultancy">here.</a></p>
 
 
 <div style="width:50%;float:left;"><center><a href="https://form.gov.sg/#!/5f9fae2e08d25a0011362014" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Register Now</a></center></div>
