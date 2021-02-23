@@ -4,7 +4,7 @@ title: Blog
 permalink: success-and-blog/blog
 breadcrumb: Blog
 collection_name: success-and-blog
-second_nav_title: Success Stories
+second_nav_title: Blog
 ---
 
 <h4>Posts</h4>
