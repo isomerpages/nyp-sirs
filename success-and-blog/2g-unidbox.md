@@ -4,6 +4,7 @@ title: Training vital to heartland SME Unidbox Hardware’s online breakthrough
 permalink: /success-and-blog/success-stories/unidbox-hardware
 breadcrumb: Training vital to heartland SME Unidbox Hardware’s online breakthrough
 collection_name: success-and-blog
+second_nav_title: Success Stories
 ---
 <img src="images-2021/SuccessStories-Unidbox.jpg" style="width:100%;">
 
