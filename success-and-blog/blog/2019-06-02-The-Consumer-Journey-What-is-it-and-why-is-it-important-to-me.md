@@ -4,7 +4,7 @@ title:  The Consumer Journey - What is it, and why is it important to me?
 permalink: /success-and-blog/blog/The-Consumer-Journey-What-is-it-and-why-is-it-important-to-me
 breadcrumb: The Consumer Journey - What is it, and why is it important to me?
 collection_name: success-and-blog
-second_nav_title: Success Stories
+second_nav_title: Blog
 ---
 Date:   2019-06-02
 <img src="/blog/images/Consumer-Journey-Map.jpg" alt-text="consumer image map" style="width:80%;max-width:1000px;">
