@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Redeployment/Job Redesign Reskilling PCP
-permalink: /digital-programmes/job-redeployment-redesign-pcp
+permalink: /digital-programmes/redeployment-job-redesign-reskilling-pcp
 breadcrumb: Redeployment/Job Redesign Reskilling PCP
 collection_name: services
 second_nav_title: "Career Services"
