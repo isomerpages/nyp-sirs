@@ -28,19 +28,19 @@ SIRS works with market leaders to develop cutting edge solutions and training pr
 
 <b>eBay</b>
 <ul>
-<li><a href="/digital-programmes/e-commerce-programmes/ebay-one-day-workshop">eBay Global Selling (Onboarding)</a></li>
+<li><a href="/digital-programmes/e-commerce-programmes/ebay-global-selling">eBay Global Selling (Onboarding)</a></li>
 </ul>
 
 <b>Lazada</b>
 <ul>
-<li><a href="/digital-programmes/e-commerce-programmes/lazada-one-day-workshop">Getting Started on Lazada (Onboarding)</a></li>
-<li><a href="/digital-programmes/e-commerce-programmes/lazada-one-day-workshop">Drive Sales Performance on Lazada (Marketing)"</a></li>
+<li><a href="/digital-programmes/e-commerce-programmes/getting-started-on-lazada">Getting Started on Lazada (Onboarding)</a></li>
+<li><a href="/digital-programmes/e-commerce-programmes/drive-sales-performance-on-lazada">Drive Sales Performance on Lazada (Marketing)</a></li>
 </ul>
 
 <b>Qoo10</b>
 <ul>
-<li><a href="/digital-programmes/e-commerce-programmes/qoo10-one-day-workshop">Getting Started on Qoo10 (Onboarding)</a></li>
-<li><a href="/digital-programmes/e-commerce-programmes/qoo10-one-day-workshop">Driving Sales Performance on Qoo10 (Marketing)</a></li>
+<li><a href="/digital-programmes/e-commerce-programmes/getting-started-on-qoo10">Getting Started on Qoo10 (Onboarding)</a></li>
+<li><a href="/digital-programmes/e-commerce-programmes/drive-sales-performance-on-qoo10">Driving Sales Performance on Qoo10 (Marketing)</a></li>
 </ul>
 
 <b>SCash & NETS</b>
@@ -50,11 +50,11 @@ SIRS works with market leaders to develop cutting edge solutions and training pr
 
 <b>Shopee</b>
 <ul>
-<li><a href="/digital-programmes/e-commerce-programmes/shopee-one-day-workshop">Shopee Onboarding</a></li>
-<li><a href="/digital-programmes/e-commerce-programmes/shopee-one-day-workshop">Driving Sales Performance on Shopee (Marketing)</a></li>
+<li><a href="/digital-programmes/e-commerce-programmes/getting-started-on-shopee">Getting Started on Shopee (Onboarding)</a></li>
+<li><a href="/digital-programmes/e-commerce-programmes/driving-sales-performance-on-shopee">Driving Sales Performance on Shopee (Marketing)</a></li>
 </ul>
 
 <b>99%SME</b>
 <ul>
-<li><a href="/digital-programmes/e-commerce-programmes/singtel-99-sme">Singtel 99%SME Onboarding</a></li>
+<li><a href="/digital-programmes/e-commerce-programmes/singtel-99-sme">99%SME (Onboarding)</a></li>
 </ul>
