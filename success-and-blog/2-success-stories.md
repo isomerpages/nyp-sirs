@@ -28,7 +28,7 @@ collection_name: success-and-blog
 <p>Mighty Velo gained deeper understanding on online business model and business patterns. Read full story <a href="/success-and-blog/success-stories/mighty-velo">here.</a></p>
 
 <li><b>Unidbox Hardware</b></li>
-Heartland SME Unidbox Hardware’s online breakthrough. Read full story <a href="/success-and-blog/success-stories/unidbox-hardware">here.</a></p>
+<p>Heartland SME Unidbox Hardware’s online breakthrough. Read full story <a href="/success-and-blog/success-stories/unidbox-hardware">here.</a></p>
 
 <li><b>Mr Kwan Kah Huei</b></li>
-An entrepreneur’s journey to become one of the top sellers on Lazada. Read full story <a href="/success-and-blog/success-stories/mr-kwan-kah-huei">here.</a></p>
+<p>An entrepreneur’s journey to become one of the top sellers on Lazada. Read full story <a href="/success-and-blog/success-stories/mr-kwan-kah-huei">here.</a></p>
