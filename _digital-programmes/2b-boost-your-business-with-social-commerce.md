@@ -51,7 +51,7 @@ e-commerce website, you will also learn to set up a Carousell store for payment 
 </center>
 
 <small>
-  <sup>1</sup>Fee is under Enhanced Training Support Package (ETSP)
+  <em><sup>1</sup>Fee is under Enhanced Training Support Package (ETSP)</em>
 <br>
 <em>Fees include prevailing GST</em>
   </small>
