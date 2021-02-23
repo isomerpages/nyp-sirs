@@ -37,11 +37,11 @@ collection_name: about-us
   </tr>
   <tr>
     <td>Ms Celeste YL Tan</td>
-    <td>Manager/Business Development</td>
+    <td>Manager (Business Development)</td>
   </tr>
   <tr>
     <td>Ms Low Lee Keng</td>
-    <td>Deputy Manager/Business Development</td>
+    <td>Deputy Manager (Business Development)</td>
   </tr>
   <tr>
     <td>Ms Lai Jiawen</td>
