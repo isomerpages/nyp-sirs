@@ -1,10 +1,10 @@
 ---
 layout: leftnav-page-content
 title: Jumpstart Your Online Business
-permalink: /digital-programmes/digital-mentorship-programmes/jumpstart-your-online-business
+permalink: /digital-programmes/digital-mentorship-programme/jumpstart-your-online-business
 breadcrumb: Jumpstart Your Online Business
 collection_name: digital-programmes
-second_nav_title: "Digital Mentorship Programmes (DMP)"
+second_nav_title: "Digital Mentorship Programme (DMP)"
 ---
 
 <img src="images-2021/DigitalProgrammes-DMP-Jumpstart.png" style="width:100%;">
@@ -52,11 +52,11 @@ content and boost sales</li>
 </table>
 </center>
 
-<sup>1</sup>Fee is under Enhanced Training Support Package (ETSP)
+<em><sup>1</sup>Fee is under Enhanced Training Support Package (ETSP)</em>
 <br>
-<em>All fees inclusive of prevailing GST</em>
+<em>Fees include prevailing GST</em>
 
-<p>For more information about funding and support, click <a href="/services/funding-and-advisory">here.</a></p>
+<p>For more information about funding and support, click <a href="/services/consultancy">here.</a></p>
 
 
 <div style="width:50%;float:left;"><center><a href="https://form.gov.sg/#!/5f9fae2e08d25a0011362014" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Register Now</a></center></div>
