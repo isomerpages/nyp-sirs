@@ -6,6 +6,7 @@ breadcrumb: Carousell Selling Online
 collection_name: digital-programmes
 second_nav_title: National Silver Academy
 ---
+<img src="images-2021/DigitalProgrammes-NSA-CarousellTechSavvy.png" style="width:100%;">
 
 <p>Do you have many unwanted yet usable products at home or handmade products that you want to sell? Be an online seller in just half a day! Learn to use the Carousell app to sell old or new items.</p>
 
