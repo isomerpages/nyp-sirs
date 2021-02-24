@@ -84,6 +84,8 @@ knowledge of the consumer goods ecosystem.</p>
 </table>
 </center>
 
+<small><i>Fees include prevailing GST</i></small>
+
 <p>Learners may be also eligible for the following:</p>
 
 <ul>
@@ -113,5 +115,6 @@ knowledge of the consumer goods ecosystem.</p>
 
 <p>For more information about funding and support, click <a href="/services/consultancy">here.</a></p>
 
-<div style="width:50%;float:left;"><center><a href="https://form.gov.sg/#!/5d9d3f30a8b1b30012143f58" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-
-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Register Here</a></center></div>
+<div style="width:50%;float:left;"><center><a href="((LINK))" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Register Now</a></center></div>
+
+<div style="width:50%;float:left;"><center><a href="https://form.gov.sg/602f33f172d5100012d6ca8b" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center></div>
