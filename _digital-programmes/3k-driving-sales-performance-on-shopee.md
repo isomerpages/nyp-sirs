@@ -54,9 +54,8 @@ Enhance your shop's presence, capitalise social media to generate higher sales a
 </table>
 </center>
 
-<em><sup>1</sup>Fee is under Enhanced Training Support for SMEs (ETSS) for Singaporean and Singapore PR.</em>
-
-<em>Fees include prevailing GST</h4>
+<small><i><sup>1</sup>Fee is under Enhanced Training Support for SMEs (ETSS) for Singaporean and Singapore PR<br>
+Fees include prevailing GST</i></small>
 
 <h4>Additional Support</h4>
 
@@ -70,7 +69,6 @@ Enhance your shop's presence, capitalise social media to generate higher sales a
 </ul>
 
 <p>For more information about funding and support, click <a href="/services/consultancy">here.</a></p>
-
 
 <div style="width:50%;float:left;"><center><a href="https://form.gov.sg/#!/5e5c849930d0700011b48fc5" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Register Now</a></center></div>
 
