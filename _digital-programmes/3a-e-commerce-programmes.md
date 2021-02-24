@@ -28,3 +28,5 @@ second_nav_title: "E-Commerce Programmes"
       <li><a href="/digital-programmes/e-commerce-programmes/scash-nets-smart-retail-solution">SCash NETS Smart Retail Solution</a></li>
       <li><a href="/digital-programmes/e-commerce-programmes/setup-an-online-business">Set up an Online Business</a></li>
     </ul>
+
+<center><a href="https://form.gov.sg/602f30a8cdb38800116f60a6" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center>
