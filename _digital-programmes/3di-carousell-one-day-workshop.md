@@ -29,6 +29,8 @@ second_nav_title: "E-Commerce Programmes"
   <li>Gain insights on the consumer journey and how it impacts consumer behaviour</li>
 </ul>
 
+<b>*Particpants are required to bring their own smart devices, such as smart phones, tablets, or laptops.
+
 <ul>
   <li>了解电子商务的定义，优点和缺点以及类型</li>
 <li>应用Carousell旋转拍卖</li>
@@ -36,6 +38,8 @@ second_nav_title: "E-Commerce Programmes"
 <li>认识社交媒体并区分社交媒体平台和社交媒体工具</li>
 <li>了解消费者和企业如何使用社交媒体进行购买决策</li>
 </ul>
+
+<b>*学员需要自带智能电器如智能手机或平板电脑</b>
 
 <h4>Fees</h4>
 
