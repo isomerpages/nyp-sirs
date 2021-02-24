@@ -29,7 +29,7 @@ second_nav_title: "E-Commerce Programmes"
   <li>Gain insights on the consumer journey and how it impacts consumer behaviour</li>
 </ul>
 
-<b>*Particpants are required to bring their own smart devices, such as smart phones, tablets, or laptops.
+<b>*Particpants are required to bring their own smart devices, such as smart phones, tablets, or laptops.</b>
 
 <ul>
   <li>了解电子商务的定义，优点和缺点以及类型</li>
