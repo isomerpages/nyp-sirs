@@ -19,20 +19,18 @@ of facilitated classroom training and structured on-the-job (OJT) across 3 month
 
 <ul>
 <li><b>Standard Rate for Singapore Citizens and Permanent Residents:</b><br>
-<p>Up to 70% of monthly salary (capped at $4,000 per month)</li></p>
-
+<p>Up to 70% of monthly salary (capped at $4,000 per month)</p>
 <li><b>Enhanced Rate for Singapore Citizen Mature Workers (aged 40 and above) only:</b><br>
-<p>Up to 90% of monthly salary (capped at $6,000 per month)</li></p>
+<p>Up to 90% of monthly salary (capped at $6,000 per month)</p>
 </ul>
  
 <h4>Salary Support for RnFs</h4>
 
 <ul>
 <li><b>Standard Rate for Singapore Citizens and Permanent Residents:</b><br>
-<p>Up to 70% of monthly salary (capped at $2,000 per month)</li></p>
-  
+<p>Up to 70% of monthly salary (capped at $2,000 per month)</p>
 <li><b>Enhanced Rate for Singapore Citizen Mature Workers (aged 40 and above) only:</b><br>
-<p>Up to 90% of the monthly salary (capped at $3,000 per month)</li></p>
+<p>Up to 90% of the monthly salary (capped at $3,000 per month)</p>
 </ul>
 
 <b>Salary support based on the duration of the programme (maximum 3 months)</b>
