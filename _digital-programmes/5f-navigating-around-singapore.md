@@ -34,13 +34,14 @@ destination using public transport in the shortest time possible.</p>
 </tr>
 
 <tr>
-<td>Singapore Citizens 50 years & above</td>
+<td>Singapore Citizens 50 years & above<sup>1</sup></td>
 <td>$13.50</td>
 </tr>
 
 </table>
 </center>
 
-<em>Fees include prevailing GST</em>
+<small><i><sup>1</sup>Subsidy from National Silver Academy (NSA)<br>
+  Fees include prevailing GST</i></small>
 
 <p>For more information about funding and support, click <a href="/services/consultancy">here.</a></p>
