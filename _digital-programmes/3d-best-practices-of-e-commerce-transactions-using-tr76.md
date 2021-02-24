@@ -15,7 +15,6 @@ Singapore Standards Council. TR 76 serves as a practical reference for e-retaile
 payment, delivery, product tracking, returns, and customer support practices. Learn to map your e-commerce process with TR 76 to gain customers’ confidence.</p>
 
 <h4>Outline</h4>
-
 <ul>
 <li>Introduction to the global e-payment elements and evolution</li>
 <li>Discover how you can save time and effort in content creation, delivery, and governance to generate more shopping carts and close sales</li>
@@ -68,3 +67,7 @@ payment, delivery, product tracking, returns, and customer support practices. Le
 </ul>
 
 <p>For more information about funding and support, click <a href="/services/consultancy">here.</a></p>
+
+<div style="width:50%;float:left;"><center><a href="https://form.gov.sg/#!/5d9d3f30a8b1b30012143f58" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Register Now</a></center></div>
+
+<div style="width:50%;float:left;"><center><a href="https://form.gov.sg/602f30a8cdb38800116f60a6" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center></div>
