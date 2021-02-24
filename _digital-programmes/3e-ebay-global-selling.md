@@ -7,7 +7,7 @@ collection_name: digital-programmes
 second_nav_title: "E-Commerce Programmes"
 ---
 
-<img src="images-2021/DigitalProgrammes-E-Commerce-TR76.png" style="width:100%;">
+<img src="images-2021/DigitalProgrammes-E-Commerce-eBay.png" style="width:100%;">
 
 <p>With 175 million international customers, eBay is one of the top e-commerce platforms worldwide. Learn how you can take your e-commerce business international with our one-day eBay programme, where you will learn how you can create an eBay account, manage your products, and ensure that your products reach customers anywhere in the world.</p>
 
