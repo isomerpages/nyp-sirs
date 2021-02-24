@@ -6,7 +6,6 @@ breadcrumb: Unleash the Power of Social Media Marketing
 collection_name: retail-programmes
 second_nav_title: "WSQ Certified Modular Programmes"
 ---
-
 <img src="/images-2021/WSQ Modular_SMM.png" style="width:100%;">
 
 <p>As social media continues to weave itself into everyone's daily lives, it has become one of the most important and profitable aspects of digital marketing. Social media platforms provide businesses with the opportunity to reach out to billions of consumers worldwide and allow them to engage with their customers regularly. With consistent monitoring and fine-tuning of your social media marketing strategy, you will potentially see an increase in traffic & sales, improve brand awareness and gain more satisfied customers to help you take your business to greater heights.</p>
@@ -73,11 +72,9 @@ second_nav_title: "WSQ Certified Modular Programmes"
 </table>
 </center>
 
-<em><sup>1</sup>Singapore Citizens eligible for Mid-Career Enhanced Subsidy</em>
-
-<em><sup>2</sup>Additional funding under the Enhanced Training Support for SMEs (ETSS)</em>
-
-<em>Fees include prevailing GST</em>
+<small><i><sup>1</sup>Singapore Citizens eligible for Mid-Career Enhanced Subsidy<br>
+ <sup>2</sup>Additional funding under the Enhanced Training Support for SMEs (ETSS)<br>
+ Fees include prevailing GST</i></small>
 
 <h4>Additional Support</h4>
 
@@ -96,3 +93,7 @@ second_nav_title: "WSQ Certified Modular Programmes"
 </ul>
 
 <p>For more information about funding and support, click <a href="/services/consultancy">here.</a></p>
+
+<div style="width:50%;float:left;"><center><a href="https://form.gov.sg/#!/5e5cbf59130b010011602eaa" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Register Now</a></center></div>
+
+<div style="width:50%;float:left;"><center><a href="https://form.gov.sg/602f27830951350012530bee" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center></div>
