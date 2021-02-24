@@ -71,7 +71,7 @@ second_nav_title: "WSQ Full Qualification Programmes"
 </table>
 </center>
 
-<em>Fees include prevailing GST</em>
+<small><i>Fees include prevailing GST</i></small>
 
 <h4>Additional Support</h4>
 
@@ -92,5 +92,9 @@ second_nav_title: "WSQ Full Qualification Programmes"
 </ul>
 
 <p>For more information about funding and support, click <a href="/services/consultancy">here.</a></p>
+
+<div style="width:50%;float:left;"><center><a href="http://form.gov.sg/5d92ea7ece0ed40012a9db5f" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Register Now</a></center></div>
+
+<div style="width:50%;float:left;"><center><a href="https://form.gov.sg/602f27830951350012530bee" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center></div>
 
 <p><em>All applications will be evaluated to determine their suitability for admission into the programme. The outcome of all applications will be communicated to applicants before the start of the earliest available intake subjected to submission of the required supporting documents and the minimum enrolment to start a class.</em></p>
