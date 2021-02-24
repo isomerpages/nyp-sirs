@@ -45,4 +45,4 @@ to multiple people at the same time.</p>
 <small><i><sup>1</sup>Subsidy from National Silver Academy (NSA)<br>
   Fees include prevailing GST</i></small>
 
-<p>For more information about funding and support, click <a href="/services/funding-and-advisory">here.</a></p>
+<p>For more information about funding and support, click <a href="/services/consultancy">here.</a></p>
