@@ -6,7 +6,6 @@ breadcrumb: The Art and Science of Visual Merchandising
 collection_name: retail-programmes
 second_nav_title: "WSQ Certified Modular Programmes"
 ---
-
 <img src="/images-2021/WSQ Modular_VM.png" style="width:100%;">
 
 <p>Globally, brick-and-mortar sales is in the decline as consumers are increasingly going online to make their purchases. At the same time, consumers are searching for an exciting offline experience with brands. As a retailer, how can you capitalize on this opportunity?</p>
@@ -72,7 +71,7 @@ second_nav_title: "WSQ Certified Modular Programmes"
 </table>
 </center>
 
-<em>Fees include prevailing GST</em>
+<small><i>Fees include prevailing GST</i></small>
 
 <h4>Additonal Support</h4>
 
@@ -92,3 +91,7 @@ second_nav_title: "WSQ Certified Modular Programmes"
 </ul>
 
 <p>For more information about funding and support, click <a href="/services/consultancy">here.</a></p>
+
+<div style="width:50%;float:left;"><center><a href="https://form.gov.sg/#!/5e5cbf59130b010011602eaa" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Register Now</a></center></div>
+
+<div style="width:50%;float:left;"><center><a href="https://form.gov.sg/602f27830951350012530bee" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center></div>
