@@ -25,7 +25,6 @@ of facilitated classroom training and structured on-the-job (OJT) across 3 month
 <p>Up to 90% of monthly salary (capped at $6,000 per month)</li></p>
 </ul>
  
- 
 <h4>Salary Support for RnFs</h4>
 
 <ul>
