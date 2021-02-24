@@ -18,7 +18,7 @@ second_nav_title: "WSQ Full Qualification Programmes"
     <li><a href="/wsq-programmes/wsq-full-qualification-programmes/specialist-diploma-in-retail-operations">Specialist Diploma in Retail (Operations)</a></li>
   </ul>
 
-<div style="width:50%;float:left;"><center><a href="https://form.gov.sg/602f27830951350012530bee" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center></div>
+<center><a href="https://form.gov.sg/602f27830951350012530bee" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center>
 
 <h4>About WSQ</h4>
 
