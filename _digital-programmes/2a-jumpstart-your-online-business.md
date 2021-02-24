@@ -19,7 +19,6 @@ price and having a customer engagement strategy. Your online success depends on 
 through the intricacies of selling online. At the end of three months, you will be able to manage your online business with confidence!</p>
 
 <h4>Outline</h4>
-
 <ul>
 <li>Set up your online store on 99%SME, Lazada, Qoo10 or Shopee and start selling on the platform of your choice</li>
 <li>Receive customised consulting in designing a business process and Standard Operating Procedures (SOP) for your online business. Plan out SOP on fulfilling orders, 
@@ -52,11 +51,11 @@ content and boost sales</li>
 </table>
 </center>
 
-<em><sup>1</sup>Fee is under Enhanced Training Support Package (ETSP)</em>
-<br>
-<em>Fees include prevailing GST</em>
+<small><i><sup>1</sup>Fee is under Enhanced Training Support Package (ETSP)<br>
+Fees include prevailing GST</i></small>
 
 <p>For more information about funding and support, click <a href="/services/consultancy">here.</a></p>
 
-
 <div style="width:50%;float:left;"><center><a href="https://form.gov.sg/#!/5f9fae2e08d25a0011362014" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Register Now</a></center></div>
+
+<div style="width:50%;float:left;"><center><a href="https://form.gov.sg/602f304308dce80012761272" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center></div>
