@@ -61,9 +61,8 @@ second_nav_title: "E-Commerce Programmes"
 </table>
 </center>
 
-<em><sup>1</sup>Fee is under Enhanced Training Support for SMEs (ETSS) for Singaporean and Singapore PR.</em>
-
-<em>Fees include prevailing GST</h4>
+<small><i><sup>1</sup>Fee is under Enhanced Training Support for SMEs (ETSS) for Singaporean and Singapore PR.<br>
+Fees include prevailing GST</i></small>
 
 <h4>Additional Support</h4>
 
