@@ -64,4 +64,5 @@ second_nav_title: "Alibaba Business School"
 <center><a href="/digital-programmes/alibaba-business-school/alibaba-content-marketing-programme" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Find Out More</a></center>
 
 <p>For the brochure of any Alibaba Business School programme, click below:</p>
-<div style="width:50%;float:left;"><center><a href="https://form.gov.sg/602f2e2609513500125322dd" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center></div>
+
+<center><a href="https://form.gov.sg/602f2e2609513500125322dd" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center>
