@@ -9,28 +9,31 @@ second_nav_title: "E-Commerce Programmes"
 
 <img src="/images-2021/DigitalProgrammes-E-Commerce-Qoo10-Onboarding.png" style="width:100%;">
 
-<p>Are you ready to have products flying off your page? Learn the ropes of using Qoo10 Sales Manager to start your own e-store today and find out how you can sell across the borders with QuuBe! Discover the ways to multiply your sales in Singapore and beyond using Qoo10 marketing tools!</p>
+<p>Ready to bring your business online in Singapore and beyond? Learn the ropes of using Qoo10 Sales Manager
+to start your own e-store today and find out how you can sell across the borders with QuuBe!</p>
 
 <h4>Outline</h4>
+  <b>1. Introduction to Qoo10</b>
 <ul>
-  <li>Introduction to Qoo10 and its position in the e-commerce world</li>
-  <li>Introduction to the Qoo10 Sales Manager (QSM)</li>
-  <li>Hands-on session with QSM
-    <ul>
-      <li>Listing your products on Qoo10 in the right category and selling format</li>
-      <li>Creating visually attractive listings with images and videos</li>
-      <li>Using Search Tag Management to increase product exposure</li>
-      <li>Managing inventory and fulfillment</li>
+  <li>Understand Qoo10’s position in the eCommerce world</li>
+  <li>Get an overview of multi-channel promotions available to maximise your sales</li>
+  <li>Learn to use the Qoo10 Sales Manager (QSM) effectively</li>
+  </ul>
+  
+  <b>2. Practical Hands-on Session on QSM</b>
+<ul>
+  <li>Grasp how to list your product categories and selling format to drive up your sales</li>
+  <li>Create good content through the use of images & videos</li>
+  <li>Learn to use Search Tag Management to increase your product exposure</li>
+  <li>Understand how to handle delivery and returns for effective customer relationship management (CRM)</li>
+  </ul>
+  
+<b>3. Introduction to QuuBe</b>
+<ul>
+  <li>Learn how to register for QuuBe via QSM</li>
+  <li>Publish existing Qoo10 listings into QuuBe</li>
+  <li>Sync QuuBe’s listings with Qoo10’s</li>
     </ul>
-  </li>
-  <li>Introduction to QuuBe
-    <ul>
-      <li>Registering for QuuBe using QSM</li>
-      <li>Publishing existing Qoo10 listings on QuuBe</li>
-      <li>Syncing QuuBe listings with Qoo10</li>
-    </ul>
-  </li>
-</ul>
 
 <h4>Fees</h4>
 
@@ -42,7 +45,7 @@ second_nav_title: "E-Commerce Programmes"
 </tr>
 
 <tr>
-<td>Full course fee</td>
+<td>Full fees</td>
 <td>$171.20</td>
 </tr>
 
@@ -64,9 +67,8 @@ second_nav_title: "E-Commerce Programmes"
 </table>
 </center>
 
-<em><sup>1</sup>Fee is under Enhanced Training Support for SMEs (ETSS) for Singaporean and Singapore PR.</em>
-
-<em>Fees include prevailing GST</em>
+<small><i><sup>1</sup>Fee is under Enhanced Training Support for SMEs (ETSS) for Singaporean and Singapore PR<br>
+  Fees include prevailing GST</i></small>
 
 <h4>Additional Support</h4>
 
