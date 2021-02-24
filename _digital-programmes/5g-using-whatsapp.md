@@ -35,13 +35,14 @@ to multiple people at the same time.</p>
 </tr>
 
 <tr>
-<td>Singapore Citizens 50 years & above</td>
+<td>Singapore Citizens 50 years & above<sup>1</sup></td>
 <td>$53.27</td>
 </tr>
 
 </table>
 </center>
 
-<em>All fees inclusive of prevailing GST</em>
+<small><i><sup>1</sup>Subsidy from National Silver Academy (NSA)<br>
+  Fees include prevailing GST</i></small>
 
 <p>For more information about funding and support, click <a href="/services/funding-and-advisory">here.</a></p>
