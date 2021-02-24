@@ -14,7 +14,7 @@ second_nav_title: "E-Commerce Programmes"
 <h4>Outline</h4>
 
 <b>1. Introduction to eBay and Global Selling</b>
-    <ul>
+<ul>
   <li>Understand the opportunities as a seller with access to 175 million international eBay customers</li>
   <li>Learn about the challenges of cross-border trade</li>
   <li>Get a bird’s eye view of the differences between selling in an e-store or local marketplace vs a global marketplace of over 200 countries</li>
@@ -42,8 +42,6 @@ second_nav_title: "E-Commerce Programmes"
   <li>Work out the best logistics solution for your products</li>
   <li>Listing on eBay</li>
   </ul>
-  
-  </ol>
 
 <h4>Fees</h4>
 
