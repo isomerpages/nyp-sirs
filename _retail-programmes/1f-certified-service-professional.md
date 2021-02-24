@@ -13,7 +13,7 @@ second_nav_title: "WSQ Full Qualification Programmes"
  
 <p>The Singapore Institute of Retail Studies (SIRS) is the only training provider who  has integrated 4 critical skills, Emotional Intelligence, Service Value-Adding, Team Collaboration & Critical Thinking, to achieve sustainable service excellence and enhance training effectiveness; introducing WSQ Certified Service Professional 2++.</p>
  
-<h3>Course Outline</h3>
+<h3>Outline</h3>
  
 <P><b>WSQ Provide Go-the-Extra-Mile Service</b><br>
 <ul>
@@ -48,7 +48,7 @@ Offer smarter and targeted service to customers.</p>
 <P><b>SIRS' Enhanced Skill 4: Team Collaboration</b><br>
 Achieve customers’ satisfaction through teamwork.</p>
 
-<h3>Course Fees</h3>
+<h3>Fees</h3>
 
 <center>
 <table style="width:100%;">
@@ -58,7 +58,7 @@ Achieve customers’ satisfaction through teamwork.</p>
 </tr>
 
 <tr>
-<td>Full Course Fees</td>
+<td>Full Fees</td>
 <td>$580.00</td>
 </tr>
 
@@ -67,12 +67,13 @@ Achieve customers’ satisfaction through teamwork.</p>
 <td>$62.06</td>
 </tr>
 
-<tr>
-  <td><a href="/services/consultancy/funding-and-support/workfare-training-support-scheme">Workfare Training Support</a> (90% funding)</td>
-<td>$33.06</td>
-</tr>
-
 </table>
 </center>
 
 <p>For more information about funding and support, click <a href="/services/funding-and-advisory">here.</a></p>
+
+<small><i>Fees include prevailing GST</i></small>
+
+<div style="width:50%;float:left;"><center><a href="https://form.gov.sg/#!/5e5dc4cd30d0700011b57622" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Register Now</a></center></div>
+
+<div style="width:50%;float:left;"><center><a href="https://form.gov.sg/602f27830951350012530bee" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center></div>
