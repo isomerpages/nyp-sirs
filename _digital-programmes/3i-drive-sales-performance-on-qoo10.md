@@ -9,18 +9,22 @@ second_nav_title: "E-Commerce Programmes"
 
 <img src="images-2021/DigitalProgrammes-E-Commerce-Qoo10-Marketing.png" style="width:100%;">
 
-<p>Are you ready to have products flying off your page? Learn the ropes of using Qoo10 Sales Manager to start your own e-store today and find out how you can sell across the borders with QuuBe!</p>
-
-<p>Discover the ways to multiply your sales in Singapore and beyond using Qoo10 marketing tools!</p>
+<p>Ready to bring your business online in Singapore and beyond? Learn how to drive sales to your business with Qoo10 marketing tools!</p>
 
 <h4>Outline</h4>
+<b>1. Understanding Qoo10</b>
 <ul>
-  <li>Gain in-depth understanding of QSM and its functions</li>
-  <li>Introduction to marketing and promotional tools in QSM</li>
-  <li>Hands-on session with QSM promotional tools:
+  <li>Know the key factors of a successful seller</li>
+  <li>Multiply your sales through the use of multi-Qoo10 promotions</li>
+  <li>Understand how using Qspecial increases traffic (Keyword, Shopping Talk, Live Square & creating Sub-themes)</li>
+  </ul>
+  
+<b>2. QSM (Qoo10 Sales Manager) - Promotions</b>
+<ul>
+  <li>Practical hands-on session with QSM promotional tools:
     <ul>
       <li>Plus Display</li>
-      <li>Special Deals Displays</li>
+      <li>Special Deals Displays: Timesale/Daily Deals</li>
       <li>Qspecial Premium</li>
       <li>Premium Search Banner</li>
     </ul>
@@ -59,9 +63,8 @@ second_nav_title: "E-Commerce Programmes"
 </table>
 </center>
 
-<em><sup>1</sup>Fee is under Enhanced Training Support for SMEs (ETSS) for Singaporean and Singapore PR.</em>
-
-<em>Fees include prevailing GST</em>
+<small><i><sup>1</sup>Fee is under Enhanced Training Support for SMEs (ETSS) for Singaporean and Singapore PR<br>
+  Fees include prevailing GST</i></small>
 
 <h4>Additional Support</h4>
 
