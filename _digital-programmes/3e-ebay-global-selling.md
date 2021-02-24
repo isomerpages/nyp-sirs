@@ -13,40 +13,35 @@ second_nav_title: "E-Commerce Programmes"
 
 <h4>Outline</h4>
 
-<ol>
-  <li>Introduction to eBay and Global Selling
+<b>1. Introduction to eBay and Global Selling</b>
     <ul>
   <li>Understand the opportunities as a seller with access to 175 million international eBay customers</li>
   <li>Learn about the challenges of cross-border trade</li>
   <li>Get a bird’s eye view of the differences between selling in an e-store or local marketplace vs a global marketplace of over 200 countries</li>
   <li>Learn about buyer profiles on eBay and top-selling products from Singapore</li>
     </ul>
-  </li>
  
-  <li>Merchandising
+<b>2. Merchandising</b>
   <ul>
   <li>Understand how visual merchandising through high-quality images can drive up product views</li>
   <li>Learn how product category and listing can increase your sales</li>
   <li>Learn product listing tips and tricks to increase your visibility</li>
   </ul>
-  </li>
  
-  <li>Handling Customers
+<b>3. Handling Customers</b>
   <ul>
   <li>Learn how to manage buyers’ expectations on shipping and returns</li>
   <li>Understand which shipping option will suit buyers from different countries</li>
   <li>Learn the best ways to communicate with your international customers pre- and post-transaction</li>
   </ul>
-  </li>
  
-  <li>Practical Hands-on Session
+<b>4. Practical Hands-on Session</b>
   <ul>
   <li>Set up your eBay account</li>
   <li>Register for a PayPal account</li>
   <li>Work out the best logistics solution for your products</li>
   <li>Listing on eBay</li>
   </ul>
-  </li>
   
   </ol>
 
