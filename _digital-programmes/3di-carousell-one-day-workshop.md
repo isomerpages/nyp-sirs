@@ -12,9 +12,13 @@ second_nav_title: "E-Commerce Programmes"
 
 <p>Carousell is currently the most popular peer-to-peer (P2P) selling platform, allowing individuals to easily buy and sell products in a simple manner. Using other social media tools such as Facebook, Instagram, and Twitter, you can further increase visibility of your products, and draw traffic to your Carousell store.</p>
 
+<b>This programme will be conducted in Mandarin.</b>
+
 <p>过去的几年里，随着互联网的高速发展，电子商务快速扩充，使每个人都有可能成为电商。这项课程通过Carousell旋转拍卖让学员全面地掌握网络营销以及网络营销推广的基本概念，知识和技术。</p>
  
 <p>Carousell 旋转拍卖是新加坡最受欢迎的手机应用之一。 潜在买家可以通过应用与你沟通，你也可以与买家谈判价格和条款。最适合休闲卖家销售二手产品，以及自制的产品。你还可以通过Facebook, Instagram 和Twitter 推广你的产品。</p>
+
+<b>这课程将由淘宝大学认证讲师以中文授课!</b>
 
 <h4>Outline</h4>
 <ul>
