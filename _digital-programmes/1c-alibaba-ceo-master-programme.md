@@ -174,7 +174,7 @@ second_nav_title: "Alibaba Business School"
 <em><sup>1</sup>Additional funding under <a href="/services/consultancy/funding-and-support/mid-career-enhanced-subsidy">Mid-Career Enhanced Subsidy</a><br>
 <sup>2</sup>Fee is after reimbursement of S$1,340 via SkillsConnect under <a href="/services/consultancy/funding-and-support/skillsfuture-enhanced-training-support-for-smes">Enhanced Training Support for SMEs (ETSS)</a><br>
 Self-sponsored participants can utilise their <a href="/services/consultancy/funding-and-support/skillsfuture-credit">SkillsFuture Credit</a> to offset course fees<br>
-All fees inclusive of prevailing GST</em>
+Fees include prevailing GST</em>
 
 <p>For more information about funding and support, click <a href="/services/funding-and-advisory">here.</a></p>
 
@@ -187,6 +187,5 @@ Visa for travel to China<br>
 Travel insurance
   </center>
  
- <center><a href="https://form.gov.sg/#!/5e4a462056e8230011d5d3bb" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;" target="_blank">Request for Brochure</a></center>
- 
- <P> <center><a href="http://bit.do/eudcC" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;" target="_blank">Register Here</a></center>
+ <div style="width:50%;float:left;"><center><a href="https://docs.google.com/forms/d/e/1FAIpQLSekX2s9T95dYWncNmU85qHSN4wFQVXmhfKjjLEAhY3waWS3xw/viewform" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Register Now</a></center></div>
+ <div style="width:50%;float:left;"><center><a href="https://form.gov.sg/602f2e2609513500125322dd" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center></div>
