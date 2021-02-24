@@ -6,7 +6,6 @@ breadcrumb: Creating an Unforgettable Customer Experience
 collection_name: retail-programmes
 second_nav_title: "WSQ Certified Modular Programmes"
 ---
-
 <img src="/images-2021/WSQ Modular_CX.png" style="width:100%;">
 
 <p>Although more customers are doing their shopping online, the human element remains an integral part of delivering amazing customer experience. This is especially true for physical stores where frontline retail associates are the major touchpoint between your brand and the customers. Therefore, it is important for them to provide a differentiated in-store experience by cultivating greater empathy to deepen connection and acquiring the know-how to project favourable brand perception during customer interactions. Keep your business going strong by attracting and retaining loyal customers to your stores through unforgettable experience curated for them.</p>
@@ -73,7 +72,7 @@ second_nav_title: "WSQ Certified Modular Programmes"
 </table>
 </center>
 
-<em>Fees include prevailing GST</em>
+<small><i>Fees include prevailing GST</i></small>
 
 <h4>Additional Support</h4>
 
@@ -93,3 +92,7 @@ second_nav_title: "WSQ Certified Modular Programmes"
  </ul>
   
 <p>For more information about funding and support, click <a href="/services/consultancy">here.</a></p>
+
+<div style="width:50%;float:left;"><center><a href="https://form.gov.sg/#!/5e5cbf59130b010011602eaa" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Register Now</a></center></div>
+
+<div style="width:50%;float:left;"><center><a href="https://form.gov.sg/602f27830951350012530bee" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center></div>
