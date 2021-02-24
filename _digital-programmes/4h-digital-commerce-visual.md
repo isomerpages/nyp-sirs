@@ -13,13 +13,12 @@ second_nav_title: "Masterclasses & Workshops"
 
 <center><table style="width:80%;">
     <tr style="text-align:center;">
-      <th style="text-align:center;width:50%;">Online Classroom</th>
+      <th style="text-align:center;width:50%;">Online Training</th>
     </tr>
     <tr style="text-align:center;">
       <td style="text-align:center;width:50%;">To be confirmed</td>
     </tr>
 </table></center>
-  
 
 <p>Human are visual beings. Visual content enables customers to absorb and remember your brand better. It is more effective than any other form of communication. Marketers who use visual marketing tend to reap higher returns in terms of fans, followers, readers, leads, clients and, of course, revenue. Through this Masterclass, participants will develop a good understanding of visual marketing for Omni-commerce; applicable to both entrepreneurial and marketing operation with practical hands-on applications and case studies.</p>
 
@@ -66,11 +65,11 @@ second_nav_title: "Masterclasses & Workshops"
 </table>
 </center>
 
-<em><sup>1</sup>Additional funding under <a href="/services/consultancy/funding-and-support/mid-career-enhanced-subsidy">Mid-Career Enhanced Subsidy</a><br>
+<small><i><sup>1</sup>Additional funding under <a href="/services/consultancy/funding-and-support/mid-career-enhanced-subsidy">Mid-Career Enhanced Subsidy</a><br>
 <sup>2</sup>Fee is after reimbursement of S$240 via SkillsConnect under <a href="/services/consultancy/funding-and-support/skillsfuture-enhanced-training-support-for-smes">Enhanced Training Support for SMEs (ETSS)</a><br>
 Self-sponsored participants can utilise their <a href="/services/consultancy/funding-and-support/skillsfuture-credit">SkillsFuture Credit</a> to offset course fees<br>
-All fees inclusive of prevailing GST</em>
+    Fees include prevailing GST</i></small>
+    
+<div style="width:50%;float:left;"><center><a href="((LINK))" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Register Now</a></center></div>
 
-<center><a href="https://form.gov.sg/#!/5e4a462056e8230011d5d3bb" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;" target="_blank">Request for Brochure</a></center>
-
- <P> <center><a href="https://docs.google.com/forms/d/e/1FAIpQLSeAjptWicm8ov-LlTnZeQSBjr6R_0Oh2ZQ_z9OUB8xTxyHzmQ/viewform" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;" target="_blank">Register Here</a></center>
+<div style="width:50%;float:left;"><center><a href="https://form.gov.sg/602f33f172d5100012d6ca8b" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center></div>
