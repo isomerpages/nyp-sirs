@@ -18,38 +18,22 @@ of facilitated classroom training and structured on-the-job (OJT) across 3 month
 <h4>Salary Support for PMETs</h4>
 
 <ul>
-<li><b>Standard Rate for Singapore Citizens and Permanent Residents:</b>
-  <ol>
-<p><li>Up to 70% of monthly salary (capped at $4,000 per month)</li></p>
-</ol>
-</li>
-</ul>
- 
-<ul>
-<li><b>Enhanced Rate for Singapore Citizen Mature Workers (aged 40 and above) only:</li></b>
-  <ol>
+<li><b>Standard Rate for Singapore Citizens and Permanent Residents:</b><br>
+<p>Up to 70% of monthly salary (capped at $4,000 per month)</li></p>
+
+<li><b>Enhanced Rate for Singapore Citizen Mature Workers (aged 40 and above) only:</b><br>
 <p><li>Up to 90% of monthly salary (capped at $6,000 per month)</li></p>
-</ol>
-</li>
 </ul>
  
  
 <h4>Salary Support for RnFs</h4>
 
 <ul>
-<li><b>Standard Rate for Singapore Citizens and Permanent Residents:</b>
-  <ol>
-    <p><li>Up to 70% of monthly salary (capped at $2,000 per month)</li></p>
-</ol>
-</li>
-</ul>
- 
-<ul>
-<li><b>Enhanced Rate for Singapore Citizen Mature Workers (aged 40 and above) only:</b>
-  <ol>
+<li><b>Standard Rate for Singapore Citizens and Permanent Residents:</b><br>
+<p><li>Up to 70% of monthly salary (capped at $2,000 per month)</li></p>
+  
+<li><b>Enhanced Rate for Singapore Citizen Mature Workers (aged 40 and above) only:</b><br>
 <p><li>Up to 90% of the monthly salary (capped at $3,000 per month)</li></p>
-</ol>
-</li>
 </ul>
 
 <b>Salary support based on the duration of the programme (maximum 3 months)</b>
