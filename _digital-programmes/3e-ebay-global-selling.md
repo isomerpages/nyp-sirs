@@ -77,7 +77,7 @@ second_nav_title: "E-Commerce Programmes"
 </table>
 </center>
 
-<em>Fees include prevailing GST</em>
+<small><i>Fees include prevailing GST</i></small>
 
 <h4>Additional Support</h4>
 
