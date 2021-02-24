@@ -75,6 +75,8 @@ and organizational skills with proven abilities in people management and trainin
 </table>
 </center>
 
+<small><i>Fees include prevailing GST</i></small>
+
 <p>Learners may be also eligible for the following:</p>
 <ul>
 <li>Absentee Payroll
