@@ -16,12 +16,16 @@ prepare them for their new job roles as Sales Ambassador, Omni-Channel Sales Man
 of facilitated classroom training and structured on-the-job (OJT) across 3 months.</p>
 
 <h4>Salary Support for PMETs</h4>
-<b>1. Standard Rate for Singapore Citizens and Permanent Residents:</b> <p>Up to 70% of monthly salary (capped at $4,000 per month)</p>
-<b>2. Enhanced Rate for Singapore Citizen Mature Workers (aged 40 and above) only:</b> <p>Up to 90% of monthly salary (capped at $6,000 per month)</p>
+<b>1. Standard Rate for Singapore Citizens and Permanent Residents:</b> 
+<p>Up to 70% of monthly salary (capped at $4,000 per month)</p>
+<b>2. Enhanced Rate for Singapore Citizen Mature Workers (aged 40 and above) only:</b> 
+<p>Up to 90% of monthly salary (capped at $6,000 per month)</p>
  
 <h4>Salary Support for RnFs</h4>
-<b>1. Standard Rate for Singapore Citizens and Permanent Residents:</b> <p>Up to 70% of monthly salary (capped at $2,000 per month)</p>
-<b>2. Enhanced Rate for Singapore Citizen Mature Workers (aged 40 and above) only:</b> <p>Up to 90% of the monthly salary (capped at $3,000 per month)</p>
+<b>1. Standard Rate for Singapore Citizens and Permanent Residents:</b> 
+<p>Up to 70% of monthly salary (capped at $2,000 per month)</p>
+<b>2. Enhanced Rate for Singapore Citizen Mature Workers (aged 40 and above) only:</b> 
+<p>Up to 90% of the monthly salary (capped at $3,000 per month)</p>
 
 <b>Salary support based on the duration of the programme (maximum 3 months)</b>
  
