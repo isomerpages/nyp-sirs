@@ -40,6 +40,7 @@ to your favourite local radio stations.</p>
 </table>
 </center>
 
-<em>All fees inclusive of prevailing GST</em>
+<small><i>Subsidy from National Silver Academy (NSA)<br>
+  Fees include prevailing GST</i></small>
 
 <p>For more information about funding and support, click <a href="/services/consultancy">here.</a></p>
