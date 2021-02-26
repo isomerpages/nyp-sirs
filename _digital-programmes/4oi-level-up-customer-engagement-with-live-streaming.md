@@ -8,24 +8,25 @@ second_nav_title: "Masterclasses & Workshops"
 ---
 <img src="images-2021/DigitalProgrammes-HImage-Workshop.png" style="width:100%;">
 
-From novelty to necessity, live streaming has become the game-changer in social media marketing. This
+<p>From novelty to necessity, live streaming has become the game-changer in social media marketing. This
 trend is growing popularity in Singapore as social media channels like Facebook and Instagram integrated
 live video to their platforms, and businesses are acting fast in altering their marketing strategies accordingly
-to partake in this rising trend.
+to partake in this rising trend.</p>
 
-Inexpensive and incredibly easy to set up, live streaming has proven to be a highly effective way to boost
+<p>Inexpensive and incredibly easy to set up, live streaming has proven to be a highly effective way to boost
 sales. With the right set-up, content and scripting, it acts as a measurable and powerful tool to create a
 viral buzz for active engagement with viewers, build relationships and trust, grow and reach out to a huge
-audience base around the world, and to enhance brand awareness.
+audience base around the world, and to enhance brand awareness.</p>
 
-Join us in this hands-on workshop and learn to plan, organise and manage live stream on social media
+<p>Join us in this hands-on workshop and learn to plan, organise and manage live stream on social media
 platforms. Pick up live hosting skills from a professional host and discover ways to enhance your live
 stream using various tools, equipment and software to help you level up your engagement with your
-customers!
+customers!</p>
 
-This workshop is suitable for entrepreneurs and aspiring entrepreneurs, managers/leaders communication functions
+<p>This workshop is suitable for entrepreneurs and aspiring entrepreneurs, managers/leaders communication functions
 in an organisation, marketing/corporate communication professionals/executives, social media specialists who are
-looking for new channels to engage customers.
+looking for new channels to engage customers.</p>
+
 <em>*Participants with basic knowledge in digital marketing will benefit from this workshop. If not, you are strongly
 encouraged to attend our ‘Introduction to Digital Marketing’ course.</em>
 
@@ -78,7 +79,7 @@ encouraged to attend our ‘Introduction to Digital Marketing’ course.</em>
 </table>
 </center>
 
-<em>Fees include prevailing GST.</em>
+<small><i>Fees include prevailing GST.</i></small>
 
 <h4>Additional Support</h4>
 
@@ -96,3 +97,8 @@ encouraged to attend our ‘Introduction to Digital Marketing’ course.</em>
   </ul>
 
 <p>For more information about funding and support, click <a href="/services/consultancy">here.</a></p>
+
+<div style="width:50%;float:left;"><center><a href="((LINK))" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Register Now</a></center></div>
+
+<div style="width:50%;float:left;"><center><a href="https://form.gov.sg/602f33f172d5100012d6ca8b" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center></div>
+
