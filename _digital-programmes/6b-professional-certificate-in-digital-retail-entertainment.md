@@ -6,17 +6,15 @@ breadcrumb: Professional Certificate in Digital Retail Entertainment
 collection_name: digital-programmes
 second_nav_title: "Joint Certification Programmes"
 ---
-<a href="#" onclick="history.go(-1)">Back to previous page</a>
-
 <img src="images/joint-certification/professional-certificate-in-digital-retail-entertainment.jpg" style="width:100%;">
 
 <p>On 22 October 2019, SIRS and the Singapore Media Academy (SMA) signed a Memorandum of Understanding, and announced the upcoming launch of the joint Professional Certificate in Digital Retail Entertainment.</p>
 
 <p>With the increasing popularity of livestreaming and video marketing, the digital retail entertainment industry is now valued at more than S$20 billion, and is a strategy that retailers should not miss out on in growing their customer base, and retaining their customers' brand loyalty.</p>
 
-<h3>Programme Outline</h3>
+<h4>Programme Outline</h4>
 
-CDPC participants will have to complete the following programmes to receive the joint certificate:
+Participants will have to complete the following programmes to receive the joint certificate:
 <ul>
   <li><a href="/digital-programmes/alibaba-business-school/alibaba-content-marketing-programme">SIRS' Alibaba Content Marketing Programme</a></li>
   <li><a href="https://www.mediaacademy.sg/page/FUNDED-PROGRAMMES/making-online-content" target="_blank">Singapore Media Academy's Making Online Content Programme</a></li>
@@ -41,7 +39,7 @@ CDPC participants will have to complete the following programmes to receive the 
 </tr>
 
 <tr>
-<td>Full course fee</td>
+<td>Full fees</td>
 <td>$10,379.00</td>
 </tr>
 
@@ -60,17 +58,16 @@ CDPC participants will have to complete the following programmes to receive the 
 <td>$1,173.70</td>
 </tr>
 
-<tr>
-<td><a href="/services/consultancy/funding-and-support/workfare-training-support-scheme">Workfare Training Support (WTS)</a> recipient (95% funding)</td>
-<td>$688.70</td>
-</tr>
-
 </table>
 </center>
 
-<em><sup>1</sup>Additional funding under <a href="/services/consultancy/funding-and-support/mid-career-enhanced-subsidy">Mid-Career Enhanced Subsidy</a><br>
+<small><i><sup>1</sup>Additional funding under <a href="/services/consultancy/funding-and-support/mid-career-enhanced-subsidy">Mid-Career Enhanced Subsidy</a><br>
 <sup>2</sup>Fee is after reimbursement of S$1,940 via SkillsConnect under <a href="/services/consultancy/funding-and-support/skillsfuture-enhanced-training-support-for-smes">Enhanced Training Support for SMEs (ETSS)</a><br>
 Self-sponsored participants can utilise their <a href="/services/consultancy/funding-and-support/skillsfuture-credit">SkillsFuture Credit</a> to offset course fees<br>
-All fees inclusive of prevailing GST</em>
+Fees include prevailing GST</i></small>
 
-<center><a href="https://form.gov.sg/#!/5e4a462056e8230011d5d3bb" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;" target="_blank">Request for Brochure</a></center>
+
+<div style="width:50%;float:left;"><center><a href="((LINK))" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Register Now</a></center></div>
+
+<div style="width:50%;float:left;"><center><a href="https://form.gov.sg/602f3335cdb38800116f75a4" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center></div>
+
