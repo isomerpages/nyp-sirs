@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Join Mailing List
+title: Mailing List
 permalink: /subscribe
-breadcrumb: Join Mailing List
+breadcrumb: Mailing List
 collection_name: about us
 ---
 
