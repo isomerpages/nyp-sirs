@@ -1,9 +1,9 @@
 ---
 layout: leftnav-page-content
-title: Contact Us
-permalink: /contact-sirs
-breadcrumb: Contact SIRS
-collection_name: about-us
+title: SIRS Mailing List
+permalink: /subscribe
+breadcrumb: SIRS Mailing List
+collection_name: 
 ---
 
 <img src="images-2021/About-ContactUs.png" style="width:100%;">
