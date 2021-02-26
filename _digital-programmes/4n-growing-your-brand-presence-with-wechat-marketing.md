@@ -64,11 +64,6 @@ Lou Peng has been specialising in WeChat marketing since 2012, helping many busi
 <td>$90.75</td>
 </tr>
 
-<tr>
-<td><a href="/services/consultancy/funding-and-support/workfare-training-support-scheme">Workfare Training Support (WTS)</a> recipient (95% funding)</td>
-<td>$53.25</td>
-</tr>
-
 </table>
 </center>
 
