@@ -13,7 +13,7 @@ second_nav_title: "Masterclasses & Workshops"
 
 <p>This programme will cover the fundamentals of advanced certification topics in digital analytics, introduce key channels, concepts, metrics and determine how and where your business fits in the digital world.</p>
 
-<h3 style="text-align:center;">Course Outline</h3>
+<h4>Outline</h4>
 <ul>
   <li>An overview of key digital trends and marketing techniques, from search engine marketing to content marketing and influencer outreach</li>
 <li>Interpret and measure CPC, CPM, CPA, CTR, Conversions</li>
@@ -21,11 +21,11 @@ second_nav_title: "Masterclasses & Workshops"
 <li>Uncover further details and insights into your Google Analytics data by tackling topics such as customised tracking code, filtering analytics data, setting up goals and funnels, and tracking interactive elements</li>
   </ul>
   
-<h3 style="text-align:center;">Trainer Profile</h3>
+<h4>Trainer Profile</h4>
 <p><b>Ivan Wong</b><br>
 Ivan has over 20 years of experience in Business Consulting, Training, Search Engine Marketing, Conversion Optimisation and Digital Analytics from both client side and within the agency environment. Well-versed in both the technical and business aspects of digital marketing, he is one of the few Google-appointed regional trainers who trains the official Google AdWords, Analytics, and Mobile Advertising courses. In addition, he is a sought-after trainer, providing training and consultancy for leading marketing agencies including Google Mobile Labs, IE Singapore, The Knowledge Engineers, General Assembly, Econsultancy and ClickAcademy Asia. He was formerly the SEO/Analytics Director with GroupM Asia-Pacific. Prior to that, he was the Director of eCommerce at Far East Hospitality, Singapore’s largest operator of hotels and serviced residences. He has also held management positions at DGM Asia, Hewlett-Packard Asia, and Magnus Management Consultants.</p>
 
-<h3>Programme Fees</h3>
+<h4>Fees</h4>
 
 <center>
 <table style="width:100%;">
@@ -62,11 +62,14 @@ Ivan has over 20 years of experience in Business Consulting, Training, Search En
 </table>
 </center>
 
-<em><sup>1</sup>Additional funding under <a href="/services/consultancy/funding-and-support/mid-career-enhanced-subsidy">Mid-Career Enhanced Subsidy</a><br>
+<small><i><sup>1</sup>Additional funding under <a href="/services/consultancy/funding-and-support/mid-career-enhanced-subsidy">Mid-Career Enhanced Subsidy</a><br>
 <sup>2</sup>Fee is after reimbursement of S$240 via SkillsConnect under <a href="/services/consultancy/funding-and-support/skillsfuture-enhanced-training-support-for-smes">Enhanced Training Support for SMEs (ETSS)</a><br>
 Self-sponsored participants can utilise their <a href="/services/consultancy/funding-and-support/skillsfuture-credit">SkillsFuture Credit</a> to offset course fees<br>
-All fees inclusive of prevailing GST</em>
+Fees include prevailing GST</i></small>
 
-<center><a href="https://form.gov.sg/#!/5e4a462056e8230011d5d3bb" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;" target="_blank">Request for Brochure</a></center>
-  
- <P> <center><a href="https://form.gov.sg/5d9d3f30a8b1b30012143f58" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;" target="_blank">Register Here</a></center>
+For more information about funding and support click <a href="/services/consultancy">here.</a>
+
+<div style="width:50%;float:left;"><center><a href="((LINK))" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Register Now</a></center></div>
+
+<div style="width:50%;float:left;"><center><a href="https://form.gov.sg/602f33f172d5100012d6ca8b" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center></div>
+
