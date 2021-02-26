@@ -1,9 +1,9 @@
 ---
-layout: 
+layout: leftnav-page-content
 title: SIRS Mailing List
 permalink: /subscribe
 breadcrumb: SIRS Mailing List
-collection_name: 
+collection_name: about us
 ---
 
 <img src="images-2021/About-ContactUs.png" style="width:100%;">
