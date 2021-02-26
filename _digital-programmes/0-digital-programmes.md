@@ -19,7 +19,7 @@ collection_name: digital-programmes
 <a href="/digital-programmes/alibaba-business-school" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;" target="_blank">Find Out More</a>
 
 <h4>Digital Mentorship Programme (DMP)</h4>
-<p>A first of its kind, SIRS’ DMP helps small and medium-sized enterprises (SMEs) embark on digital commerce journey with personalised guidance. </p>
+<p>A first of its kind, SIRS’ DMP helps small and medium-sized enterprises (SMEs) embark on their digital commerce journey with personalised guidance. </p>
 <a href="/digital-programmes/digital-mentorship-programme" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;" target="_blank">Find Out More</a>
 
 <h4>E-Commerce Programmes</h4>
