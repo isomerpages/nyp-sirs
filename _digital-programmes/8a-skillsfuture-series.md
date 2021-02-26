@@ -23,3 +23,5 @@ second_nav_title: "SkillsFuture Series"
       <li><a href="/digital-programmes/skillsfuture-series/tap-into-the-power-of-instagram-for-selling">Tap into the Power of Instagram for Selling</a></li>
       <li><a href="/digital-programmes/skillsfuture-series/thrive-in-digital-disruption">Thrive in Digital Disruption</a></li>
     </ul>
+    
+<center><a href="https://form.gov.sg/602f39a008dce80012763d62" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center>
