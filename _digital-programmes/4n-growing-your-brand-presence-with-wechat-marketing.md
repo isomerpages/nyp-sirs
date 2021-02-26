@@ -6,7 +6,6 @@ breadcrumb: Growing Your Brand Presence with WeChat Marketing
 collection_name: digital-programmes
 second_nav_title: "Masterclasses & Workshops"
 ---
-
 <img src="images-2021/DigitalProgrammes-Image-Masterclass.png" style="width:100%;">
 
 <p>WeChat has grown from a messenger app to one that is an indispensible tool for brands and businesses. With the rapid growth of WeChat's platform, many Singapore brands are starting to recognise the importance of using WeChat to gain brand presence, engage with new fans, and to interact with fans in online-offline activations. Through WeChat, local businesses can not only grow their presence locally, but are also presented the opportunity to bring their brands to the growing Chinese consumer market.</p>
@@ -73,11 +72,11 @@ Lou Peng has been specialising in WeChat marketing since 2012, helping many busi
 </table>
 </center>
 
-<em><sup>1</sup>Additional funding under <a href="/services/consultancy/funding-and-support/mid-career-enhanced-subsidy">Mid-Career Enhanced Subsidy</a><br>
+<small><i><sup>1</sup>Additional funding under <a href="/services/consultancy/funding-and-support/mid-career-enhanced-subsidy">Mid-Career Enhanced Subsidy</a><br>
 <sup>2</sup>Fee is after reimbursement of S$150 via SkillsConnect under <a href="/services/consultancy/funding-and-support/skillsfuture-enhanced-training-support-for-smes">Enhanced Training Support for SMEs (ETSS)</a><br>
 Self-sponsored participants can utilise their <a href="/services/consultancy/funding-and-support/skillsfuture-credit">SkillsFuture Credit</a> to offset course fees<br>
-All fees inclusive of prevailing GST</em>
+Fees include prevailing GST</i></small>
 
-<center><a href="https://form.gov.sg/#!/5e4a462056e8230011d5d3bb" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;" target="_blank">Request for Brochure</a></center>
+<div style="width:50%;float:left;"><center><a href="((LINK))" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Register Now</a></center></div>
 
- <P> <center><a href="https://form.gov.sg/5d9d3f30a8b1b30012143f58" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;" target="_blank">Register Now</a></center>
+<div style="width:50%;float:left;"><center><a href="https://form.gov.sg/602f33f172d5100012d6ca8b" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center></div>
