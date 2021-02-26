@@ -35,7 +35,7 @@ Ivan has over 20 years of experience in Business Consulting, Training, Search En
 </tr>
   
 <tr>
-<td>Full course fee</td>
+<td>Full fees</td>
 <td>$1,284.00</td>
 </tr>
 
@@ -62,7 +62,7 @@ Ivan has over 20 years of experience in Business Consulting, Training, Search En
 Self-sponsored participants can utilise their <a href="/services/consultancy/funding-and-support/skillsfuture-credit">SkillsFuture Credit</a> to offset course fees<br>
 Fees include prevailing GST</i></small>
 
-For more information about funding and support click <a href="/services/consultancy">here.</a>
+For more information about funding and support, click <a href="/services/consultancy">here.</a>
 
 <div style="width:50%;float:left;"><center><a href="((LINK))" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Register Now</a></center></div>
 
