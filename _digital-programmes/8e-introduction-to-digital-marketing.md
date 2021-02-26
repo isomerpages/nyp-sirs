@@ -53,6 +53,8 @@ second_nav_title: "SkillsFuture Series"
 </table>
 </center>
 
+<small><i>Fees include prevailing GST</i></small>
+
 <p>Learners may be also eligible for the following:</p>
 
 <ul>
@@ -60,4 +62,9 @@ second_nav_title: "SkillsFuture Series"
 <li>UTAP Funding (for NTUC members)</li>
 </ul>
 
-<p>For more information about funding and support, click <a href="/services/funding-and-advisory">here.</a></p>
+<p>For more information about funding and support, click <a href="/services/consultancy">here.</a></p>
+
+<div style="width:50%;float:left;"><center><a href="https://form.gov.sg/#!/5e5cbf59130b010011602eaa" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Register Now</a></center></div>
+
+<div style="width:50%;float:left;"><center><a href="https://form.gov.sg/602f39a008dce80012763d62" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center></div>
+
