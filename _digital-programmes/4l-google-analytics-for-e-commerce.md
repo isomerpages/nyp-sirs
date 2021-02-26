@@ -54,11 +54,6 @@ Ivan has over 20 years of experience in Business Consulting, Training, Search En
 <td>$145.20</td>
 </tr>
 
-<tr>
-<td><a href="/services/consultancy/funding-and-support/workfare-training-support-scheme">Workfare Training Support (WTS)</a> recipient (95% funding)</td>
-<td>$85.20</td>
-</tr>
-
 </table>
 </center>
 
