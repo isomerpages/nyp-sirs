@@ -1,5 +1,5 @@
 ---
-layout: leftnav-page-content
+layout: 
 title: SIRS Mailing List
 permalink: /subscribe
 breadcrumb: SIRS Mailing List
