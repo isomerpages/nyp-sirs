@@ -12,15 +12,26 @@ second_nav_title: "E-Commerce Programmes"
 <p>Embark on your digital commerce journey by tapping on FREE tools and resources. Develop an online revenue stream while encouraging footfall to your physical store!</p>
 
 <h4>Outline</h4>
+<b>1. Get Started with Online Sales</b>
 <ul>
-  <li>Understand the Singapore digital commerce landscape</li>
-  <li>Listing your products on Singtel 99% SME e-marketplace</li>
-  <li>Discover free tools and resources to manage fulfillment, logistics, and more</li>
-  <li>Understand location-based features to enable customers to find businesses near them</li>
-  <li>Learning to use push notifications to draw traffic</li>
-  <li>Generating revenue/sales reports for business analysis</li>
-  <li>Profiling your customers to optimise sales, manage inventory, and optimise conversion</li>
-</ul>
+<li>Understand the Singapore digital commerce scene</li>
+<li>Learn about the key components to set-up a digital store</li>
+<li>Listing on 99%SME e-Marketplace</li>
+<li>Discover free tools and resources to manage customer orders, delivery logistics and more</li>
+  </ul>
+ 
+<b>2. Expand Visibility with Geolocation Search</b>
+<ul>
+<li>Understand how location-based feature helps customers search for businesses near them</li>
+<li>Learn to employ push marketing to reach out to more customers</li>
+<li>Case study on effective marketing campaign</li>
+  </ul>
+ 
+<b>3. Access Business Insights with Data Points</b>
+<ul>
+<li>Learn to generate revenue/sales reports for business analysis</li>
+<li>Understand your customers profile and sales performance to optimise sales, manage inventory and improve turnover</li>
+  </ul>
 
 <h4>Fees</h4>
 
@@ -32,7 +43,7 @@ second_nav_title: "E-Commerce Programmes"
 </tr>
 
 <tr>
-<td>Full fee</td>
+<td>Full fees</td>
 <td>$171.20</td>
 </tr>
 
@@ -42,17 +53,20 @@ second_nav_title: "E-Commerce Programmes"
 </tr>
 
 <tr>
-<td>Singapore Citizen 40 years & above<sup>1</sup> (90% funding)</td>
+<td>Singapore Citizen 40 years & above (90% funding)</td>
 <td>$19.36</td>
 </tr>
 
 <tr>
-  <td>Singapore Citizen/SPR sponsored by SMEs<sup>2</sup> (90% funding)</td>
+  <td>Singapore Citizen/SPR sponsored by SMEs<sup>1</sup> (90% funding)</td>
 <td>$19.36</td>
 </tr>
 
 </table>
 </center>
+
+<small><i><sup>1</sup>Fee is under Enhanced Training Support (ETSS) for SMEs<br>
+  Fees include prevailing GST</i></small>
 
 <p>Learners may be also eligible for the following:</p>
 
