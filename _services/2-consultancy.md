@@ -17,7 +17,7 @@ second_nav_title: "Consultancy"
 <li><a href="/services/consultancy/absentee-payroll-ap">Absentee Payroll (AP)</a></li>
 <li><a href="/services/consultancy/edg">Enterprise Development Grant (EDG)</a></li>
 <li><a href="/services/consultancy/etss">Enhanced Training Support for SMEs (ETSS)</a></li>
-<li>Enhanced Training Support Package (ETSP) & Enhanced Absentee Payroll (COVID-19)</li>
+<li><a href="/servces/consultancy/enhanced-training-support-package-etsp">Enhanced Training Support Package (ETSP) & Enhanced Absentee Payroll (COVID-19)</a></li>
 <li><a href="/services/consultancy/psg">Productivity Solutions Grant (PSG)</a></li>
 <li><a href="/services/consultancy/singtel-99sme">Singtel 99%SME</a></li>
 <li><a href="/services/consultancy/workfare-skills-support-wss">Workfare Skills Support (WSS) Scheme (available as of 1 July 2020)</a></li>
