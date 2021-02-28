@@ -3,7 +3,7 @@ layout: simple-page
 title: Mailing List
 permalink: /subscribe
 breadcrumb: Mailing List
-collection_name: about us
+collection_name: about-us
 ---
 
 <img src="images-2021/Home-Highlights-SIRSMailingList.png" style="width:100%;">
