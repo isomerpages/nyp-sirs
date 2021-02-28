@@ -1,5 +1,5 @@
 ---
-layout: simple-page
+layout: leftnav-page-content
 title: Mailing List
 permalink: /subscribe
 breadcrumb: Mailing List
