@@ -4,7 +4,7 @@ title: PCP New Media Professional
 permalink: /services/professional-conversion-programme/new-media-professional
 breadcrumb: PCP New Media Professional
 collection_name: services
-second_nav_title: "Professional Conversion Programme (PCP)"
+second_nav_title: "Career Services"
 ---
 
 <img src="images-2021/Services-CareerServices-PCP-NMP.jpg" style="width:100%;">
