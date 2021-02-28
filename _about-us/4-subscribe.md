@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Mailing List
-permalink: /subscribe
+permalink: /about-us/subscribe
 breadcrumb: Mailing List
 collection_name: about-us
 ---
