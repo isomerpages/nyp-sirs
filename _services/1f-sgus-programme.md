@@ -4,7 +4,7 @@ title: Overview
 permalink: /services/sgus-programme
 breadcrumb: SGUnited Skills Programme
 collection_name: services
-second_nav_title: "SGUnited Skills (SGUS) Programme"
+second_nav_title: "Career Services"
 ---
 
 <img src="images-2021/Services-CareerServices-SGUS-Overview.png" style="width:100%;">
