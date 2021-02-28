@@ -4,7 +4,7 @@ title: PCP Retail Professional
 permalink: /services/professional-conversion-programme/retail-professional
 breadcrumb: PCP Retail Professional
 collection_name: services
-second_nav_title: "Professional Conversion Programme (PCP)"
+second_nav_title: "Career Services"
 ---
 
 <img src="images-2021/Services-CareerServices-PCP-RP.jpg" style="width:100%;">
