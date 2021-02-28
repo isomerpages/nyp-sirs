@@ -4,7 +4,7 @@ title: PCP Digital Professional
 permalink: /services/professional-conversion-programme/digital-professional
 breadcrumb: PCP Digital Professional
 collection_name: services
-second_nav_title: "Professional Conversion Programme (PCP)"
+second_nav_title: "Career Services"
 ---
 
 <img src="images-2021/Services-CareerServices-PCP-DP.jpg" style="width:100%;">
