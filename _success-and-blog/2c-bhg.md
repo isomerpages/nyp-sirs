@@ -6,7 +6,7 @@ breadcrumb: BHG (Singapore) successfully implemented reinvention plan despite CO
 collection_name: success-and-blog
 second_nav_title: Success Stories
 ---
-<img src="/images-2021/SuccessStories-BHG.jpg" style="width:100%;">
+<img src="/images-2021/SuccessStories-BHG.jpg" style="width:30%;">
 
 <p>We started discussions with the SIRS team back in 2019. SIRS provided holistic advice and guidance to us on the various government grants & subsidies available, and this 
 helped BHG defray costs and get substantial support which is vital in the success of the reinvention plan. In terms of development and grooming of staff, SIRS has been a 
