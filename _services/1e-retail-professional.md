@@ -27,8 +27,6 @@ environment to facilitate transfer of knowledge & skills.
 <li>Retailing & the Economy (24 hours)</li>
 Understand key considerations and target markets in retailing as well as the application of the following concepts in the context of retailing: scarcity, 
 opportunity costs, demand & supply, elasticity, utility. 
-<br>
- 
 
 <li>Sales Target Management (24 hours)</li>
 Set, communicate, drive and motivate staff to achieve sales target and to review social-economic changes in the local context as well as assess impact of 
