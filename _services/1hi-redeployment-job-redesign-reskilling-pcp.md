@@ -30,3 +30,5 @@ of facilitated classroom training and structured on-the-job (OJT) across 3 month
 <b>Salary support based on the duration of the programme (maximum 3 months)</b>
  
 For more information on this programme, please email to <a href="mailto:upskill@sirs.edu.sg">upskill@sirs.edu.sg</a>
+
+<p>For more information about funding and support, click <a href="/services/consultancy">here.</a></p>
