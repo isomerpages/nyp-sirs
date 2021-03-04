@@ -78,14 +78,14 @@ second_nav_title: "WSQ Full Qualification Programmes"
 <ul>
   <li><a href="/services/consultancy/skillsfuture-credit">SkillsFuture Credit</a></li>
   <li><a href="/services/consultancy/utap">Union Training Assistance Programme (UTAP)</a></li>
-<li>Workfare Skills Support (WSS) Scheme</li>
-<li>SkillsFuture Qualification Award $200</li>
+  <li><a href="/services/consultancy/workfare-skills-support-wss">Workfare Skills Support (WSS) Scheme</a></li>
+  <li>SkillsFuture Qualification Award $200</li>
 </ul>
 
 <b>For company-sponsored participants:</b>
 <ul>
-<li>Absentee Payroll</li>
-<li>Workfare Skills Support (WSS) Scheme (Absentee Payroll)</li>
+  <li><a href="/services/consultancy/absentee-payroll-ap">Absentee Payroll</a></li>
+  <li><a href="/services/consultancy/workfare-skills-support-wss">Workfare Skills Support (WSS) Scheme (Absentee Payroll)</a></li>
   </ul>
 
 <p>For more information about funding and support, click <a href="/services/consultancy">here.</a></p>
