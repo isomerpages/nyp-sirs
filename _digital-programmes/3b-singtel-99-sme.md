@@ -45,7 +45,7 @@ second_nav_title: "E-Commerce Programmes"
   </ul>
 
 <h4>Duration</h4>
-<li>9am - 6pm (1 day)</li>
+<p>9am - 6pm (1 day)</p>
 
 <h4>Fees</h4>
 
