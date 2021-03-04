@@ -9,6 +9,17 @@ second_nav_title: "E-Commerce Programmes"
 
 <img src="images-2021/DigitalProgrammes-E-Commerce-eBay.png" style="width:100%;">
 
+<h3 style="text-align:center;">Next intake:</h3>
+
+<center><table style="width:80%;">
+    <tr style="text-align:center;">
+      <th style="text-align:center;width:50%;">Online Classroom</th>
+    </tr>
+    <tr style="text-align:center;">
+      <td style="text-align:center;width:50%;">3 Feb 2021 (Wed)<br>9 Apr 2021 (Fri)</td>
+    </tr>
+</table></center>
+
 <p>With 175 million international customers, eBay is one of the top e-commerce platforms worldwide. Learn how you can take your e-commerce business international with our one-day eBay programme, where you will learn how you can create an eBay account, manage your products, and ensure that your products reach customers anywhere in the world.</p>
 
 <h4>Outline</h4>
@@ -42,6 +53,9 @@ second_nav_title: "E-Commerce Programmes"
   <li>Work out the best logistics solution for your products</li>
   <li>Listing on eBay</li>
   </ul>
+  
+<h4>Duration</h4>
+<p>9am - 6pm (1 day)</p>
 
 <h4>Fees</h4>
 
@@ -82,10 +96,10 @@ second_nav_title: "E-Commerce Programmes"
 <p>This course is also eligible for the following:</p>
 
 <ul>
-<li>SkillsFuture Credit</li>
-<li>Workfare Skills Support (WSS) Scheme</li>
-<li>Enhanced Training Support for SMEs (ETSS) for Singapore Citizens and Singapore PRs</li>
-<li>Absentee Payroll</li>
+  <li><a href="/services/consultancy/skillsfuture-credit">SkillsFuture Credit</a></li>
+  <li><a href="/services/consultancy/workfare-skills-support-wss">Workfare Skills Support (WSS) Scheme</a></li>
+  <li><a href="/services/consultancy/etss">Enhanced Training Support for SMEs (ETSS)</a></li>
+  <li><a href="/services/consultancy/absentee-payroll-ap">Absentee Payroll</a></li>
   </ul>
 
 <p>For more information about funding and support, click <a href="/services/consultancy">here.</a></p>
