@@ -68,18 +68,18 @@ referrals and business opportunities.</p>
 
 <p>For self-sponsored participants:</p>
 <ul>
-  <li>SkillsFuture Credit</li>
-  <li>Workfare Skills Support (WSS) Scheme</li>
+  <li><a href="/services/consultancy/skillsfuture-credit">SkillsFuture Credit</a></li>
+  <li><a href="/services/consultancy/workfare-skills-support-wss">Workfare Skills Support (WSS) Scheme</a></li>
 </ul>
   
 <p>For company-sponsored participants:</p>
 <ul>
-  <li>Absentee Payroll</li>
-  <li>Workfare Skills Support (WSS) Scheme (Absentee Payroll)</li>
+  <li><a href="/services/consultancy/absentee-payroll-ap">Absentee Payroll</a></li>
+  <li><a href="/services/consultancy/workfare-skills-support-wss">Workfare Skills Support (WSS) Scheme (Absentee Payroll)</a></li>
   </ul>
 
 <p>For more information about funding and support, click <a href="/services/consultancy">here.</a></p>
 
-<div style="width:50%;float:left;"><center><a href="((LINK))" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Register Now</a></center></div>
+<div style="width:50%;float:left;"><center><a href="https://form.gov.sg/#!/5d9d3f30a8b1b30012143f58" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Register Now</a></center></div>
 
 <div style="width:50%;float:left;"><center><a href="https://form.gov.sg/602f33f172d5100012d6ca8b" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center></div>
