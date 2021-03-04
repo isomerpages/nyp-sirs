@@ -57,6 +57,9 @@ second_nav_title: "E-Commerce Programmes"
 </li>
 </ol>
 
+<h4>Duration</h4>
+<p>9am - 6pm (1 day)</p>
+
 <h4>Fees</h4>
 
 <center>
@@ -95,12 +98,11 @@ Fees include prevailing GST</i></small>
 <h4>Additional Support</h4>
 
 <p>This course is also eligible for the following:</p>
-
 <ul>
-<li>SkillsFuture Credit</li>
-<li>Workfare Skills Support (WSS) Scheme</li>
-<li>Enhanced Training Support for SMEs (ETSS) for Singapore Citizens and Singapore PRs</li>
-<li>Absentee Payroll
+  <li><a href="/services/consultancy/skillsfuture-credit">SkillsFuture Credit</a></li>
+  <li><a href="/services/consultancy/workfare-skills-support-wss">Workfare Skills Support (WSS) Scheme</a></li>
+  <li><a href="/services/consultancy/etss">Enhanced Training Support for SMEs (ETSS)</a></li>
+  <li><a href="/services/consultancy/absentee-payroll-ap">Absentee Payroll</a></li>
   </ul>
 
 <p>For more information about funding and support, click <a href="/services/consultancy">here.</a></p>
