@@ -171,10 +171,17 @@ second_nav_title: "Alibaba Business School"
 </table>
 </center>
 
-<em><sup>1</sup>Additional funding under <a href="/services/consultancy/funding-and-support/mid-career-enhanced-subsidy">Mid-Career Enhanced Subsidy</a><br>
+<small><i><sup>1</sup>Additional funding under <a href="/services/consultancy/funding-and-support/mid-career-enhanced-subsidy">Mid-Career Enhanced Subsidy</a><br>
 <sup>2</sup>Fee is after reimbursement of S$1,340 via SkillsConnect under <a href="/services/consultancy/funding-and-support/skillsfuture-enhanced-training-support-for-smes">Enhanced Training Support for SMEs (ETSS)</a><br>
 Self-sponsored participants can utilise their <a href="/services/consultancy/funding-and-support/skillsfuture-credit">SkillsFuture Credit</a> to offset course fees<br>
-Fees include prevailing GST</em>
+Fees include prevailing GST</i></small>
+
+<h4>Additional Support</h4>
+
+<p>This course is also eligible for the following:</p>
+<ul>
+  <li><a href="/services/consultancy/absentee-payroll-ap">Absentee Payroll</a></li>
+  </ul>
 
 <p>For more information about funding and support, click <a href="/services/funding-and-advisory">here.</a></p>
 
