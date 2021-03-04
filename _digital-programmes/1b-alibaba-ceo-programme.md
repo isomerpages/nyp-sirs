@@ -176,6 +176,13 @@ You are only a trip away to gain useful takeaways for immediate business applica
 Self-sponsored participants can utilise their <a href="/services/consultancy/funding-and-support/skillsfuture-credit">SkillsFuture Credit</a> to offset course fees<br>
 Fees include prevailing GST</i></small>
 
+<h4>Additional Support</h4>
+
+<p>This course is also eligible for the following:</p>
+<ul>
+  <li><a href="/services/consultancy/absentee-payroll-ap">Absentee Payroll</a></li>
+  </ul>
+
 <p>For more information about funding and support, click <a href="/services/consultancy">here.</a></p>
 
 <center>
