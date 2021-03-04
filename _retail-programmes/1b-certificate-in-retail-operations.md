@@ -76,8 +76,8 @@ second_nav_title: "WSQ Full Qualification Programmes"
 
 <b>For self-sponsored participants:</b>
 <ul>
-<li>SkillsFuture Credit</li>
-<li>Union Training Assistance Programme (UTAP)</li>
+  <li><a href="/services/consultancy/skillsfuture-credit">SkillsFuture Credit</a></li>
+  <li><a href="/services/consultancy/utap">Union Training Assistance Programme (UTAP)</a></li>
 <li>Workfare Skills Support (WSS) Scheme</li>
 <li>SkillsFuture Qualification Award $200</li>
 </ul>
