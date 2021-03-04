@@ -9,6 +9,17 @@ second_nav_title: "E-Commerce Programmes"
 
 <img src="images-2021/DigitalProgrammes-E-Commerce-AmazonGlobal.png" style="width:100%;">
 
+<h3 style="text-align:center;">Next intake:</h3>
+
+<center><table style="width:80%;">
+    <tr style="text-align:center;">
+      <th style="text-align:center;width:50%;">Online Training</th>
+    </tr>
+    <tr style="text-align:center;">
+      <td style="text-align:center;width:50%;">5 Mar 2021 (Fri)</td>
+    </tr>
+</table></center>
+
 <p>Amazon is one of the largest global e-marketplaces, with more than 310 million monthly active users worldwide. The availability of Amazon in more than 150 countries allows for brands to easily grow their global presence, and get your products to customers all around the world.</p>
 
 <p>Join us on this one-day onboarding programme, where you will learn how you can start selling to your international clientele with ease.</p>
@@ -44,6 +55,9 @@ second_nav_title: "E-Commerce Programmes"
       </ul>
 </ul>
 
+<h4>Duration</h4>
+<p>9am - 6pm (1 day)</p>
+
 <h4>Fees</h4>
 
 <center>
@@ -76,17 +90,17 @@ second_nav_title: "E-Commerce Programmes"
 </table>
 </center>
 
-<em>Fees include prevailing GST</em>
+<small><i>Fees include prevailing GST</i></small>
 
 <h4>Additional Support</h4>
 
 <p>This course is also eligible for the following:</p>
 
 <ul>
-<li>SkillsFuture Credit</li>
-<li>Workfare Skills Support (WSS) Scheme</li>
-<li>Enhanced Training Support for SMEs (ETSS) for Singapore Citizens and Singapore PRs</li>
-  <li>Absentee Payroll</li>
+  <li><a href="/services/consultancy/skillsfuture-credit">SkillsFuture Credit</a></li>
+  <li><a href="/services/consultancy/workfare-skills-support-wss">Workfare Skills Support (WSS) Scheme</a></li>
+  <li><a href="/services/consultancy/etss">Enhanced Training Support for SMEs (ETSS)</a></li>
+  <li><a href="/services/consultancy/absentee-payroll-ap">Absentee Payroll</a></li>
 </ul>
 
 <p>For more information about funding and support, click <a href="/services/consultancy">here.</a></p>
