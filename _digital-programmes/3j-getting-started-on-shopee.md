@@ -9,6 +9,19 @@ second_nav_title: "E-Commerce Programmes"
 
 <img src="/images-2021/DigitalProgrammes-E-Commerce-Shopee-Onboarding.PNG" style="width:100%;">
 
+<h3 style="text-align:center;">Next intake:</h3>
+
+<center><table style="width:80%;">
+    <tr style="text-align:center;">
+      <th style="text-align:center;width:50%;">Online Training</th>
+      <th style="text-align:center;width:50%;">Face-to-Face</th>
+    </tr>
+    <tr style="text-align:center;">
+      <td style="text-align:center;width:50%;">17 Mar 2021 (Wed)</td>
+      <td style="text-align:center;width:50%;">12 Apr 2021 (Mon)</td>
+    </tr>
+</table></center>
+
 <p>Get equipped with the essential e-commerce skills and knowledge to on-board Shopee store and bring your Shopee business to the next level with a winning marketing strategy! Enhance your shop's presence, capitalise social media to generate higher sales and create compelling visual content to bring your store to the top in rank. </p>
 
 <h4>Outline</h4>
@@ -28,6 +41,9 @@ second_nav_title: "E-Commerce Programmes"
     </ul>
   </li>
 </ul>
+
+<h4>Duration</h4>
+<p>9am - 6pm (1 day)</p>
 
 <h4>Fees</h4>
 
@@ -67,12 +83,11 @@ Fees include prevailing GST</i></small>
 <h4>Additional Support</h4>
 
 <p>This course is also eligible for the following:</p>
-
 <ul>
-<li>SkillsFuture Credit</li>
-<li>Workfare Skills Support (WSS) Scheme</li>
-<li>Enhanced Training Support for SMEs (ETSS) for Singapore Citizens and Singapore PRs</li>
-<li>Absentee Payroll</li>
+  <li><a href="/services/consultancy/skillsfuture-credit">SkillsFuture Credit</a></li>
+  <li><a href="/services/consultancy/workfare-skills-support-wss">Workfare Skills Support (WSS) Scheme</a></li>
+  <li><a href="/services/consultancy/etss">Enhanced Training Support for SMEs (ETSS)</a></li>
+  <li><a href="/services/consultancy/absentee-payroll-ap">Absentee Payroll</a></li>
 </ul>
 
 <p>For more information about funding and support, click <a href="/services/consultancy">here.</a></p>
