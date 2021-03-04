@@ -9,6 +9,17 @@ second_nav_title: "E-Commerce Programmes"
 
 <img src="images-2021/DigitalProgrammes-E-Commerce-99SME.png" style="width:100%;">
 
+<h3 style="text-align:center;">Next intake:</h3>
+
+<center><table style="width:80%;">
+    <tr style="text-align:center;">
+      <th style="text-align:center;width:50%;">Online Classroom</th>
+    </tr>
+    <tr style="text-align:center;">
+      <td style="text-align:center;width:50%;">26 Nov 2020</td>
+    </tr>
+</table></center>
+
 <p>Embark on your digital commerce journey by tapping on FREE tools and resources. Develop an online revenue stream while encouraging footfall to your physical store!</p>
 
 <h4>Outline</h4>
@@ -32,6 +43,9 @@ second_nav_title: "E-Commerce Programmes"
 <li>Learn to generate revenue/sales reports for business analysis</li>
 <li>Understand your customers profile and sales performance to optimise sales, manage inventory and improve turnover</li>
   </ul>
+
+<h4>Duration</h4>
+<li>9am - 6pm (1 day)</li>
 
 <h4>Fees</h4>
 
