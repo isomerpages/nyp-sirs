@@ -9,6 +9,17 @@ second_nav_title: "E-Commerce Programmes"
 
 <img src="/images-2021/DigitalProgrammes-E-Commerce-Qoo10-Onboarding.png" style="width:100%;">
 
+<h3 style="text-align:center;">Next intake:</h3>
+
+<center><table style="width:80%;">
+    <tr style="text-align:center;">
+      <th style="text-align:center;width:50%;">Face-to-Face</th>
+    </tr>
+    <tr style="text-align:center;">
+      <td style="text-align:center;width:50%;">9 Mar 2021 (Tue)</td>
+    </tr>
+</table></center>
+
 <p>Ready to bring your business online in Singapore and beyond? Learn the ropes of using Qoo10 Sales Manager
 to start your own e-store today and find out how you can sell across the borders with QuuBe!</p>
 
@@ -34,6 +45,9 @@ to start your own e-store today and find out how you can sell across the borders
   <li>Publish existing Qoo10 listings into QuuBe</li>
   <li>Sync QuuBe’s listings with Qoo10’s</li>
     </ul>
+    
+<h4>Duration</h4>
+<p>9am - 6pm (1 day)</p>
 
 <h4>Fees</h4>
 
@@ -73,12 +87,11 @@ to start your own e-store today and find out how you can sell across the borders
 <h4>Additional Support</h4>
 
 <p>This course is also eligible for the following:</p>
-
 <ul>
-<li>SkillsFuture Credit</li>
-<li>Workfare Skills Support (WSS) Scheme</li>
-<li>Enhanced Training Support for SMEs (ETSS) for Singapore Citizens and Singapore PRs</li>
-<li>Absentee Payroll</li>
+  <li><a href="/services/consultancy/skillsfuture-credit">SkillsFuture Credit</a></li>
+  <li><a href="/services/consultancy/workfare-skills-support-wss">Workfare Skills Support (WSS) Scheme</a></li>
+  <li><a href="/services/consultancy/etss">Enhanced Training Support for SMEs (ETSS)</a></li>
+  <li><a href="/services/consultancy/absentee-payroll-ap">Absentee Payroll</a></li>
   </ul>
 
 <p>For more information about funding and support, click <a href="/services/consultancy">here.</a></p>
