@@ -9,6 +9,19 @@ second_nav_title: "E-Commerce Programmes"
 
 <img src="images-2021/DigitalProgrammes-E-Commerce-Qoo10-Marketing.png" style="width:100%;">
 
+<h3 style="text-align:center;">Next intake:</h3>
+
+<center><table style="width:80%;">
+    <tr style="text-align:center;">
+      <th style="text-align:center;width:50%;">Online Training</th>
+      <th style="text-align:center;width:50%;">Face-to-Face</th>
+    </tr>
+    <tr style="text-align:center;">
+      <td style="text-align:center;width:50%;">19 Feb 2021 (Fri)<br>18 Mar 2021 (Thu)</td>
+      <td style="text-align:center;width:50%;">To be confirmed</td>
+    </tr>
+</table></center>
+
 <p>Ready to bring your business online in Singapore and beyond? Learn how to drive sales to your business with Qoo10 marketing tools!</p>
 
 <h4>Outline</h4>
@@ -30,6 +43,9 @@ second_nav_title: "E-Commerce Programmes"
     </ul>
   </li>
 </ul>
+
+<h4>Duration</h4>
+<p>9am - 6pm (1 day)</p>
 
 <h4>Fees</h4>
 
@@ -69,12 +85,11 @@ second_nav_title: "E-Commerce Programmes"
 <h4>Additional Support</h4>
 
 <p>This course is also eligible for the following:</p>
-
 <ul>
-<li>SkillsFuture Credit</li>
-<li>Workfare Skills Support (WSS) Scheme</li>
-<li>Enhanced Training Support for SMEs (ETSS) for Singapore Citizens and Singapore PRs</li>
-<li>Absentee Payroll</li>
+  <li><a href="/services/consultancy/skillsfuture-credit">SkillsFuture Credit</a></li>
+  <li><a href="/services/consultancy/workfare-skills-support-wss">Workfare Skills Support (WSS) Scheme</a></li>
+  <li><a href="/services/consultancy/etss">Enhanced Training Support for SMEs (ETSS)</a></li>
+  <li><a href="/services/consultancy/absentee-payroll-ap">Absentee Payroll</a></li>
   </ul>
 
 <p>For more information about funding and support, click <a href="/services/consultancy">here.</a></p>
