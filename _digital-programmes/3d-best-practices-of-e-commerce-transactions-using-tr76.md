@@ -56,7 +56,7 @@ payment, delivery, product tracking, returns, and customer support practices. Le
 </table>
 </center>
 
-<em>Fees include prevailing GST.</em>
+<small><i>Fees include prevailing GST</i></small>
 
 <h4>Additional Support</h4>
 
