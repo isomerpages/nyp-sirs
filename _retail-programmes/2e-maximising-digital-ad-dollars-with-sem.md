@@ -78,13 +78,17 @@ Fees include prevailing GST</i></small>
 <h4>Additional Support</h4>
 <p>This course is also eligible for the following:</p>
 
-<p>For self-sponsored participants:</p>
-<li>SkillsFuture Credit</li>
-<li>Workfare Skills Support (WSS) Scheme</li>
+<b>For self-sponsored participants:</b>
+<ul>
+  <li><a href="/services/consultancy/skillsfuture-credit">SkillsFuture Credit</a></li>
+  <li><a href="/services/consultancy/workfare-skills-support-wss">Workfare Skills Support (WSS) Scheme</a></li>
+</ul>
 
-<p>For company-sponsored participants:</p>
-<li>Absentee Payroll</li>
-<li>Workfare Skills Support (WSS) Scheme (Absentee Payroll)</li>
+<b>For company-sponsored participants:</b>
+<ul>
+  <li><a href="/services/consultancy/absentee-payroll-ap">Absentee Payroll</a></li>
+  <li><a href="/services/consultancy/workfare-skills-support-wss">Workfare Skills Support (WSS) Scheme (Absentee Payroll)</a></li>
+  </ul>
 
 <p>For more information about funding and support, click <a href="/services/consultancy">here.</a></p>
 
