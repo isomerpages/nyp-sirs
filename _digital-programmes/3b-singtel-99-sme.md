@@ -68,18 +68,15 @@ second_nav_title: "E-Commerce Programmes"
 <small><i><sup>1</sup>Fee is under Enhanced Training Support (ETSS) for SMEs<br>
   Fees include prevailing GST</i></small>
 
-<p>Learners may be also eligible for the following:</p>
+<h4>Additional Support</h4>
 
+<p>This course is also eligible for the following:</p>
 <ul>
-<li>SkillsFuture Credit</li>
-<li>Workfare Skills Support (WSS) Scheme</li>
-<li>Enhanced Training Support for SMEs (ETSS) for Singapore Citizens and Singapore PRs</li>
-<li>Absentee Payroll
-  <ul>
-  <li>For all Singaporean & SPR</li>
-  <li>80% of basic hourly salary, capped at $7.50 per hour</li>
+  <li><a href="/services/consultancy/skillsfuture-credit">SkillsFuture Credit</a></li>
+  <li><a href="/services/consultancy/etss">Enhanced Training Support for SMEs (ETSS)</a></li>
+  <li><a href="/services/consultancy/workfare-skills-support-wss">Workfare Skills Support (WSS) Scheme</a></li>
+  <li><a href="/services/consultancy/absentee-payroll-ap">Absentee Payroll</a></li>
   </ul>
-</ul>
 
 <p>For more information about funding and support, click <a href="/services/consultancy">here.</a></p>
 
