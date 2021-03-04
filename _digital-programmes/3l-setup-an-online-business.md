@@ -9,6 +9,19 @@ second_nav_title: "E-Commerce Programmes"
 
 <img src="/images-2021/DigitalProgrammes-E-Commerce-Shopmatic-SetupOnlineBiz.png" style="width:100%;">
 
+<h3 style="text-align:center;">Next intake:</h3>
+
+<center><table style="width:80%;">
+    <tr style="text-align:center;">
+      <th style="text-align:center;width:50%;">Online Training</th>
+      <th style="text-align:center;width:50%;">Face-to-Face</th>
+    </tr>
+    <tr style="text-align:center;">
+      <td style="text-align:center;width:50%;">15-16 Mar (Mon-Tue)</td>
+      <td style="text-align:center;width:50%;">22-23 Feb 2021 (Mon-Tue)<br>22-23 Apr 2021 (Thu-Fri)</td>
+    </tr>
+</table></center>
+
 <p>As technology advances and consumer habits change, retailers are increasingly moving onto the online space to ensure their visibility and product availability both online and offline.</p>
 
 <p>Furthermore, as the Southeast Asian e-commerce economy has crossed the US$100 billion mark in 2019, and is projected to reach US$300 billion by 2025, e-commerce and digital strategies has become a critical component of any retail business.</p>
@@ -55,6 +68,13 @@ second_nav_title: "E-Commerce Programmes"
     </li>
 </ol>
 
+<h4>Duration</h4>
+<p>2 Days (15 hours)</p>
+<ul>
+  <li>Day 1: 9am - 5pm</li>
+  <li>Day 2: 9am - 6pm</li>
+  </ul>
+
 <h4>Fees</h4>
 
 <center>
@@ -87,7 +107,16 @@ second_nav_title: "E-Commerce Programmes"
 </table>
 </center>
 
-<em>Fees include prevailing GST</em>
+<small><i>Fees include prevailing GST</i></small>
+
+<h4>Additional Support</h4>
+
+<p>This course is also eligible for the following:</p>
+<ul>
+  <li><a href="/services/consultancy/skillsfuture-credit">SkillsFuture Credit</a></li>
+  <li><a href="/services/consultancy/utap">Union Training Assistance Programme (UTAP)</a></li>
+  <li><a href="/services/consultancy/workfare-skills-support-wss">Workfare Skills Support (WSS) Scheme</a></li>
+  </ul>
 
 <p>For more information about funding and support, click <a href="/services/consultancy">here.</a></p>
 
