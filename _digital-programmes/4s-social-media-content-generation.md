@@ -88,19 +88,20 @@ Natasha has helped clients stay competitive in today’s digital environment.</p
 </tr>
 
 <tr>
-<td>Singapore Citizen 40 years & above<sup>1</sup> (90% funding)</td>
+<td>Singapore Citizen 40 years & above (90% funding)</td>
 <td>$90.75</td>
 </tr>
 
 <tr>
-  <td>Singapore Citizen/SPR sponsored by SMEs<sup>2</sup> (90% funding)</td>
+  <td>Singapore Citizen/SPR sponsored by SMEs<sup>1</sup> (90% funding)</td>
 <td>$90.75</td>
 </tr>
 
 </table>
 </center>
 
-<small><i>Fees include prevailing GST</i></small>
+<small><i><sup>1</sup>Fee is under Enhanced Training Support (ETSS) for SMEs<br>
+  Fees include prevailing GST</i></small>
 
 <h4>Additional Support</h4>
 
