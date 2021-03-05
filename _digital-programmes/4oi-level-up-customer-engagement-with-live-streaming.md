@@ -89,6 +89,7 @@ encouraged to attend our ‘Introduction to Digital Marketing’ course.</em>
 <p>For self-sponsored participants:</p>
 <ul>
   <li><a href="/services/consultancy/skillsfuture-credit">SkillsFuture Credit</a></li>
+  <li><a href="/services/consultancy/workfare-skills-support-wss">Workfare Skills Support (WSS) Scheme</a></li>
 </ul>
   
 <p>For company-sponsored participants:</p>
