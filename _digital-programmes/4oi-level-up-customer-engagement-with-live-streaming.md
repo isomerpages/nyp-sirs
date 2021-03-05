@@ -72,14 +72,15 @@ encouraged to attend our ‘Introduction to Digital Marketing’ course.</em>
 </tr>
 
 <tr>
-  <td>Singapore Citizen/SPR sponsored by SMEs<sup>2</sup> (90% funding)</td>
+  <td>Singapore Citizen/SPR sponsored by SMEs<sup>1</sup> (90% funding)</td>
 <td>$90.75</td>
 </tr>
 
 </table>
 </center>
 
-<small><i>Fees include prevailing GST.</i></small>
+<small><i><sup>1</sup>Fee is under Enhanced Training Support (ETSS) for SMEs<br>
+  Fees include prevailing GST</i></small>
 
 <h4>Additional Support</h4>
 
@@ -87,18 +88,18 @@ encouraged to attend our ‘Introduction to Digital Marketing’ course.</em>
 
 <p>For self-sponsored participants:</p>
 <ul>
-  <li>SkillsFuture Credit</li>
+  <li><a href="/services/consultancy/skillsfuture-credit">SkillsFuture Credit</a></li>
 </ul>
   
 <p>For company-sponsored participants:</p>
 <ul>
-  <li>Absentee Payroll</li>
-  <li>Workfare Skills Support (WSS) Scheme (Absentee Payroll)</li>
+  <li><a href="/services/consultancy/absentee-payroll-ap">Absentee Payroll</a></li>
+  <li><a href="/services/consultancy/workfare-skills-support-wss">Workfare Skills Support (WSS) Scheme (Absentee Payroll)</a></li>
   </ul>
 
 <p>For more information about funding and support, click <a href="/services/consultancy">here.</a></p>
 
-<div style="width:50%;float:left;"><center><a href="((LINK))" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Register Now</a></center></div>
+<div style="width:50%;float:left;"><center><a href="https://form.gov.sg/#!/5e587a6895e4da0011f0f746" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Register Now</a></center></div>
 
 <div style="width:50%;float:left;"><center><a href="https://form.gov.sg/602f33f172d5100012d6ca8b" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center></div>
 
