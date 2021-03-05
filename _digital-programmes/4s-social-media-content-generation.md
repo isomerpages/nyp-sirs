@@ -58,9 +58,7 @@ by Fortune 500 Companies of consumer brands in this hands-on masterclass.</p>
 
 <h4>Trainer Profile</h4>
 <p><b>Natasha Zhao</b><br>
-  <em>Principal Consultant Partner</em><br>
-
-
+  <em>Principal Consultant Partner</em>
 <p>Natasha is a Partner & Principal Consultant of QED. She has advised Fortune 500
 Corporations & Small to Medium Enterprises in Singapore and the region on
 business strategies leveraging digital mediums.</p>
@@ -102,26 +100,26 @@ Natasha has helped clients stay competitive in today’s digital environment.</p
 </table>
 </center>
 
-<small><i>Fees include prevailing GST.</i></small>
+<small><i>Fees include prevailing GST</i></small>
 
 <h4>Additional Support</h4>
 
 <p>This course is also eligible for the following:</p>
 
-<p>For self-sponsored participants:</p>
+<b>For self-sponsored participants:</b>
 <ul>
-  <li>SkillsFuture Credit</li>
-  <li>Workfare Skills Support (WSS) Scheme</li>
+  <li><a href="/services/consultancy/skillsfuture-credit">SkillsFuture Credit</a></li>
+  <li><a href="/services/consultancy/workfare-skills-support-wss">Workfare Skills Support (WSS) Scheme</a></li>
 </ul>
-  
-<p>For company-sponsored participants:</p>
+
+<b>For company-sponsored participants:</b>
 <ul>
-  <li>Absentee Payroll</li>
-  <li>Workfare Skills Support (WSS) Scheme (Absentee Payroll)</li>
+  <li><a href="/services/consultancy/absentee-payroll-ap">Absentee Payroll</a></li>
+  <li><a href="/services/consultancy/workfare-skills-support-wss">Workfare Skills Support (WSS) Scheme (Absentee Payroll)</a></li>
   </ul>
 
 <p>For more information about funding and support, click <a href="/services/consultancy">here.</a></p>
 
-<div style="width:50%;float:left;"><center><a href="((LINK))" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Register Now</a></center></div>
+<div style="width:50%;float:left;"><center><a href="https://form.gov.sg/#!/5d9d3f30a8b1b30012143f58" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Register Now</a></center></div>
 
 <div style="width:50%;float:left;"><center><a href="https://form.gov.sg/602f33f172d5100012d6ca8b" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center></div>
