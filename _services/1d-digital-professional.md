@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: PCP Digital Professional
-permalink: /services/career-services/professional-conversion-programme/digital-professional
+permalink: /services/career-services/digital-professional
 breadcrumb: PCP Digital Professional
 collection_name: services
 second_nav_title: "Career Services"
