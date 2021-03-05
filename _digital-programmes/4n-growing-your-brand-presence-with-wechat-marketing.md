@@ -12,7 +12,7 @@ second_nav_title: "Masterclasses & Workshops"
 
 <p>Join us on this one-day masterclass to gain a deeper understanding and appreciation of WeChat and the Tencent ecosystem, and the marketing strategies that brands have used to achieve success on the platform. In this masterclass, you will understand the various functions of a WeChat Official Account, and how to use the various tools and functions to increase new fans and grow your business.</p>
 
-<p>Class conducted in Mandarin.</p>
+<b>Class will be conducted in Mandarin.</b>
 
 <p>微信不仅仅是一个与朋友聊天及分享照片的社交平台，也是一个强大有效的营销工具。随着微信用户的迅猛增长，越多企业都在使用微信公众号吸引粉丝，并与他们互动及配合线上线下的推广活动。微信在新加坡商业圈逐渐普及化的趋势让许多商家越来越重视这个平台，频频应用微信宣传产品和服务。除了新加坡市场，您也能将品牌扩展到中国市场并从中获取新的粉丝，扩大客户群。</p>
 
@@ -72,6 +72,6 @@ Lou Peng has been specialising in WeChat marketing since 2012, helping many busi
 Self-sponsored participants can utilise their <a href="/services/consultancy/funding-and-support/skillsfuture-credit">SkillsFuture Credit</a> to offset course fees<br>
 Fees include prevailing GST</i></small>
 
-<div style="width:50%;float:left;"><center><a href="((LINK))" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Register Now</a></center></div>
+<div style="width:50%;float:left;"><center><a href="https://form.gov.sg/#!/5d9d3f30a8b1b30012143f58" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Register Now</a></center></div>
 
 <div style="width:50%;float:left;"><center><a href="https://form.gov.sg/602f33f172d5100012d6ca8b" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center></div>
