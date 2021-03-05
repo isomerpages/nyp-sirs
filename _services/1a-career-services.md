@@ -50,9 +50,9 @@ second_nav_title: "Career Services"
 <p>The Professional Conversion Programme (PCP) seeks to help PMETs mid-career switchers undergo skills conversion to gain relevant competencies and take on new, exciting careers in different industries. SIRS offers the PCP tracks in Retail Professional, Digital Professional and New Media Professional.</p>
 
 <ol>
-  <li><a href="/services/career-services/professional-conversion-programme/retail-professional">PCP - Retail Professional</a></li>
-  <li><a href="/services/career-services/professional-conversion-programme/digital-professional">PCP - Digital Professional</a></li>
-  <li><a href="/services/career-services/professional-conversion-programme/new-media-professional">PCP - New Media Professional</a></li>
+  <li><a href="/services/career-services/retail-professional">PCP - Retail Professional</a></li>
+  <li><a href="/services/career-services/digital-professional">PCP - Digital Professional</a></li>
+  <li><a href="/services/career-services/new-media-professional">PCP - New Media Professional</a></li>
 </ol></p>
 
 <a href="/services/career-services/professional-conversion-programme" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;" target="_blank">Find Out More</a>
