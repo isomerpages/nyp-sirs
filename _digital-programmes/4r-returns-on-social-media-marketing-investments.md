@@ -36,7 +36,6 @@ metrics, key performance measurement tools and relevant calculation techniques.<
 <h4>Trainer Profiles</h4>
 <b>Ryan Lim</b><br>
   <em>Principal Consultant Founding Partner</em>
-
 <p>Ryan is the Founding Partner and Principal Consultant of QED Consulting. He has more
 than 15 years of digital marketing experience leading teams to become leaders of the
 industry. Ryan is always known to lead industry trends and thus provides his clients
@@ -51,7 +50,6 @@ region to date and is also actively lecturing at tertiary institutions.</p>
 
 <b>Natasha Zhao</b><br>
   <em>Principal Consultant Partner</em><br>
-
 <p>Natasha is a Partner & Principal Consultant of QED. She has advised Fortune 500
 Corporations & Small to Medium Enterprises in Singapore and the region on
 business strategies leveraging digital mediums.</p>
@@ -63,7 +61,6 @@ Natasha has helped clients stay competitive in today’s digital environment.</p
 
 <b>Freda Kwok</b><br>
   <em>Principal Consultant Partner</em>
-
 <p>Freda is a Partner & Principal Consultant of QED. She leads regional organizations
 to strategic usage of the digital medium for business accountability. She is known
 for her insights in the retail, beauty and finance industry, with key expertise in
