@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: PCP New Media Professional
-permalink: /services/professional-conversion-programme/new-media-professional
+permalink: /services/career-services/new-media-professional
 breadcrumb: PCP New Media Professional
 collection_name: services
 second_nav_title: "Career Services"
