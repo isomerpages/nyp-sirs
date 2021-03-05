@@ -33,10 +33,24 @@ metrics, key performance measurement tools and relevant calculation techniques.<
 <li>Case studies</li>
 </ul>
 
-<h4>Trainer Profile</h4>
-<p><b>Natasha Zhao</b><br>
-  <em>Principal Consultant Partner</em><br>
+<h4>Trainer Profiles</h4>
+<b>Ryan Lim</b><br>
+  <em>Principal Consultant Founding Partner</em>
 
+<p>Ryan is the Founding Partner and Principal Consultant of QED Consulting. He has more
+than 15 years of digital marketing experience leading teams to become leaders of the
+industry. Ryan is always known to lead industry trends and thus provides his clients
+with a constant competitive advantage. Many of his proprietary digital frameworks
+and methodologies on digital transformation are adopted by leading institutions and
+organizations.</p>
+
+<p>Currently, he provides strategic counsel and advisory to senior management teams
+of leading global brands, and is constantly sought to train marketing professionals
+and their teams. He has trained over 3,000 marketing professionals across the ASEAN
+region to date and is also actively lecturing at tertiary institutions.</p>
+
+<b>Natasha Zhao</b><br>
+  <em>Principal Consultant Partner</em><br>
 
 <p>Natasha is a Partner & Principal Consultant of QED. She has advised Fortune 500
 Corporations & Small to Medium Enterprises in Singapore and the region on
@@ -46,6 +60,17 @@ business strategies leveraging digital mediums.</p>
 Discovery Channel, Dolby and Unilever. Having led organizations in restructuring
 communications & marketing departments for digital integration & implementation,
 Natasha has helped clients stay competitive in today’s digital environment.</p>
+
+<b>Freda Kwok</b><br>
+  <em>Principal Consultant Partner</em>
+
+<p>Freda is a Partner & Principal Consultant of QED. She leads regional organizations
+to strategic usage of the digital medium for business accountability. She is known
+for her insights in the retail, beauty and finance industry, with key expertise in
+content marketing and advocacy cultivation.</p>
+
+<p>Freda’s portfolio includes Alliance Bank, Manulife, Unilever, Estee Lauder, Love Bonito
+and HBO, with relationships spanning years as trusted, collaborative partners.</p>
 
 <h4>Fees</h4>
 
