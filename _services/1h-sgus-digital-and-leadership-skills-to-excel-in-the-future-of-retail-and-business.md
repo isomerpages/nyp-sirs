@@ -42,7 +42,7 @@ position in non-retail sector.</p>
   <li>Paid Search Engine Marketing (24 hours)</li>
   <li>Content Management (24 hours)</li>
   <li>Merchandise Performance Analysis (24 hours)</li>
-  <li>Web Design (24 hours)</li>
+  <li>Website Design (24 hours)</li>
   <li>Personal Effectiveness (24 hours)</li>
   <li>Service Leadership (24 hours)</li>
   <li>Service Excellence (24 hours)</li>
