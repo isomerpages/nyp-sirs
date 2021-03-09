@@ -32,4 +32,4 @@ second_nav_title: "Consultancy"
 <h4>Where can I get more information on AP?</h4>
 <p>You may visit <a href="https://www.skillsconnect.gov.sg/sop/portal/">SkillsConnect</a> for more information on AP.</p>
 
-<p>Apply for Absentee Payroll (AP) for any SIRS programme today!</p>
+<b>Apply for Absentee Payroll (AP) for any SIRS programme today!</b>
