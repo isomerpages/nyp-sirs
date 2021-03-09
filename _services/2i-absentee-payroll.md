@@ -21,10 +21,10 @@ Your company is eligible for AP as long as it is registered or incorporated in S
 <ul>                                           
   <li>Trainees must be fully sponsored by their>li employer for supportable cost components (such as course fees) incurred on the training course;</li>
 <li>Trainees must be full-time or permanent part-time employees of the sponsoring company;</li>
-Trainees must continue to receive their salary when they attend training</li>
-Trainees must have achieved at least 75% attendance;</li>
-Trainees must have sat for and passed the examinations/ assessments where applicable;</li>
-Trainees must complete the course whilst under employment of the sponsoring company; and</li>
+<li>Trainees must continue to receive their salary when they attend training</li>
+<li>Trainees must have achieved at least 75% attendance;</li>
+<li>Trainees must have sat for and passed the examinations/ assessments where applicable;</li>
+<li>Trainees must complete the course whilst under employment of the sponsoring company; and</li>
 For training outside working hours, company must have in place a Human Resource (HR) policy which provides for the payment of overtime pay* to employees for these training hours and pay their employees overtime pay for these hours, in accordance with the HR Policy.</li>
 </ul>
 
