@@ -53,7 +53,7 @@ second_nav_title: "Career Services"
   <li><a href="/services/career-services/retail-professional">PCP - Retail Professional</a></li>
   <li><a href="/services/career-services/digital-professional">PCP - Digital Professional</a></li>
   <li><a href="/services/career-services/new-media-professional">PCP - New Media Professional</a></li>
-</ol></p>
+</ol>
 
 <a href="/services/career-services/professional-conversion-programme" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;" target="_blank">Find Out More</a>
 
