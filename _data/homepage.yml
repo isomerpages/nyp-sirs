@@ -11,9 +11,44 @@ favicon: /images/sirs-favicon.ico
 agency-logo: /images/sirs-logo.png
 
 # Hero Banner
-hero-title: Singapore Institute of Retail Studies
-hero-subtitle: A CET Institute of Nanyang Polytechnic
-hero-banner: /images/homepage-banner.jpg
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+		<title>Simple Rotating Banner</title>
+		<link rel="stylesheet" type="text/css" href="jquery.simplebanner.css"/>
+		<script type="text/javascript" src="http://code.jquery.com/jquery-1.7.2.min.js"></script>
+		<script type="text/javascript" src="jquery.simplebanner.js"></script>
+		<style>
+			body, html {font:100%;padding:0;margin:0;width:100%;height:100%;background:#666;}
+			#siteWpr {width:960px;margin:0 auto;}
+		</style>
+		<script type="text/javascript">
+			$(document).ready(function(){
+				$('.simpleBanner').simplebanner();
+			});
+		</script>
+	</head>
+	<body>
+		<div id="siteWpr">
+			<div class="simpleBanner">
+				<div class="bannerListWpr">
+					<ul class="bannerList">
+						<li><img src="images-2021/Services_SkillsFuture Work-Study Programme.png" /></li>
+						<li><img src="images-2021/Services_Training2.jpg" /></li>
+						<li><img src="images-2021/Services_Career Services_Job Redeployment PCP.jpg" /></li>
+						<li><img src="images-2021/WSQ_FullQual_CRO.png" /></li>
+						<li><img src="images-2021/WSQ_Modular_SEO.png" /></li>
+						<li><img src="images-2021/DigitalProgrammes-NSA-CarousellTechSavvy.png" /></li>
+					</ul>
+				</div>
+				<div class="bannerControlsWpr bannerControlsPrev"><div class="bannerControls"></div></div>
+				<div class="bannerIndicators"><ul></ul></div>
+				<div class="bannerControlsWpr bannerControlsNext"><div class="bannerControls"></div></div>
+			</div>
+		</div>
+	</body>
+</html>
 
 # Google analytics
 google-analytics: UA-118644499-7
