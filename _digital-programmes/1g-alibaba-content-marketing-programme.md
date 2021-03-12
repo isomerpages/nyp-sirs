@@ -38,9 +38,6 @@ Holistic Hands-on Content Marketing Techniques</center>
   <li>Fans Economy: Grow and Manage Your Fan Base</li>
 </ul>
 
-<h4>Media Coverage</h4>
-<center><iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F8worldnews%2Fvideos%2F2614262928592616%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe></center>
-
 <h4>Testimonials</h4>
 
 <i>"Through the Alibaba Content Marketing Programme, the trainers break down the various operations and explain them in-depth. The first day of the course was very insightful because the trainer showcased lots of data that is very useful in understanding the importance of content marketing, while second and third days are more interactive, and how to create livestreams."</i><br>
