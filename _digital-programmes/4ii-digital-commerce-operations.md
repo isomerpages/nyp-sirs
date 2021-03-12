@@ -92,6 +92,6 @@ online business.ands-on exercise of creating a 5-stage results-focused digital b
 
 <p>For more information about funding and support, click <a href="/services/consultancy">here.</a></p>
 
-<p>This course is under the <a href="/services/career-services/professional-conversion-programme">Professional Conversion Programme (PCP)</a>. To register, email <a href="mailto:upskill@sirs.edu.sg">upskill@sirs.edu.sg</a> for more information.
+<p>This course is under the <a href="/services/career-services/professional-conversion-programme">Professional Conversion Programme (PCP)</a>. To register, please email <a href="mailto:upskill@sirs.edu.sg">upskill@sirs.edu.sg</a> for more information.
   
 <center><a href="https://form.gov.sg/602f33f172d5100012d6ca8b" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center>
