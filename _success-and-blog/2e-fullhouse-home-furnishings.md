@@ -6,7 +6,7 @@ breadcrumb: Fullhouse’s sales revenue made a quantum leap from 9 million in 8 
 collection_name: success-and-blog
 second_nav_title: Success Stories
 ---
-<img src="/images-2021/SuccessStories-Fullhouse.jpg" style="width:100%;">
+<img src="/images-2021/SuccessStories-Fullhouse.jpg" style="width:50%;">
 
 <p>Before attending Alibaba Business School - SIRS CEO Programme, I have no idea that e-commerce or social media marketing can create such a big influence in shaping 
 my business evolution. The programme had completely changed my perspective on doing business in digital commerce. The subject-matter is timely, relevant, present, and 
