@@ -96,7 +96,8 @@ Fees include prevailing GST</i></small>
   <li><a href="/services/consultancy/skillsfuture-credit">SkillsFuture Credit</a></li>
   <li><a href="/services/consultancy/utap">Union Training Assistance Programme (UTAP)</a></li>
   <li><a href="/services/consultancy/workfare-skills-support-wss">Workfare Skills Support (WSS) Scheme</a></li>
-  <li>SkillsFuture Qualification Award $1,000</li>
+  <li><a href="https://programmes.myskillsfuture.gov.sg/QualificationAward/ProgrammeDetails.aspx">SkillsFuture Qualification Award $1,000</a></li>
+  <li><a href="/services/consultancy/skillsfuture-study-awards">SkillsFuture Study Awards</a></li>
 </ul>
 
 <b>For company-sponsored participants:</b>
