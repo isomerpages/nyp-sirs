@@ -67,7 +67,7 @@ block; margin: 4px 2px; cursor:pointer;text-decoration:none;">For Employers</a><
 	<li>SMEs or trainees eligible for Mid-Caree Enhanced Subsidy (MCES): Up to 90% SSG funding*</li>
 	</ol>
 
-<small><i>*Funding caps vary and apply for respective PCPs</small></i>
+<small><i>*Funding caps vary and apply for respective PCPs</i></small>
 
 <p>For more information about funding and support, click <a href="/services/consultancy">here.</a></p>
 
@@ -83,13 +83,13 @@ block; margin: 4px 2px; cursor:pointer;text-decoration:none;">For Employers</a><
 		<li>Have graduated from pre-employment training for at least 2 years (excluding National Service where applicable)</li>
 		<li>The candidate must have managerial-level or equivalent experience in a non-related role prior to joining the PCP</li>
 		<li>Trainee remains employed at the hiring company for a minimum duration equivalent to the programme duration, after passing all the required modules</li>
-	</ul>
+		</ul>
 	</li>
 	<li>Participating companies must fulfill the following criteria:
 	<ul>
 		<li>The participating company must be registered or incorporated in Singapore;</li>
 		<li>the participating company must issue a valid employment contract; and</li>
 		<li>the participating company must be able to provide structured on-the-job training for the candidate.</li>
-	</ul>
+		</ul>
 	</li>
 </ul>
