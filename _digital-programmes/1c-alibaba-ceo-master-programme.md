@@ -53,7 +53,7 @@ CEO Master Programme<br>
 
 <b>Day 2</b><br>
 <ul>
-<li>Alibaba’s New Retail Experiential Tour<li>
+<li>Alibaba’s New Retail Experiential Tour</li>
 <li>Visit Alibaba Binjiang campus and experience Alibaba Big Data Global Transaction Console</li>
 <li>Site visit to Alibaba Global HQ: Alibaba West Stream Campus</li>
 <li>Visit & dine at Alibaba’s FlyZoo Hotel</li>
