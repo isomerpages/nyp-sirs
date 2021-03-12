@@ -11,7 +11,10 @@ second_nav_title: "Alibaba Business School"
 
 <img src="images/alibaba-business-school/alibaba-mep.jpg" style="width:100%;">
 
-<center>Online Strategies for E-commerce Breakthrough<br>
+<center>Alibaba Managerial Elite Programme<br>
+  Online Strategies for E-commerce Breakthrough</center>
+  
+<center>互联网商业销量破局班 - 管理层提升班<br>
 互联网策略：电商突围战术</center>
 
 <p>SIRS in partnership with Alibaba Business School, the official training arm of Alibaba Group, offers comprehensive and systematic training programmes to meet a full spectrum of learning needs of government groups, entrepreneurs, SMEs, startups, e-commerce practitioners and students.</p>
