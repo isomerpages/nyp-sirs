@@ -18,13 +18,13 @@ second_nav_title: "Alibaba Business School"
 
 <p>The Entrepreneur Startup programme is designed for enterprising business start-ups and individuals seeking to launch an online store as an individual or enterprise. Through this course, participants will learn how efficiently set up, manage and operate an online store, understand China and South East Asia’s business opportunities at each phase of development that businesses can gain from. Mastering the ecommerce modus operandi and techniques with key big data analytics and benchmark. </p>
 
-<p>Upon completion of the programme, participants will receive a certificate jointly awarded by Alibaba Business School and Singapore Institute of Retail Studies. Programme will be conducted in Mandarin.</p>
+<p>Upon completion of the programme, participants will receive a certificate jointly awarded by Alibaba Business School and Singapore Institute of Retail Studies. <b>Programme will be conducted in Mandarin.</b></p>
 
 <p>阿里巴巴商学院和新加坡南洋理工学院旗下零售管理学院合作，为新加坡企业带来一系列攸关电子商务实际操作与技能栽培课程，协助企业拓展核心能力并成功运用电子商务拓展营销与业务。</p>
 
 <p>随着互联网及电商的高速发展，电商专业人才短缺已成为行业核心痛点问题。电商创业班着重于培养电商理念、网上开店实操技能为主。力争使学员能够全面掌握开店所需知的跨境物流、跨境支付、店铺基础运营、免费推广、图片获取、页面制作、平台规则、客户工具、交易流程、售前服务等内容。 更加了解中国及东南亚家电商发展的情况及趋势。 掌握通用电商运营关键数据指标和运营技能。</p>
 
-<p>完成课程后的学员将获得由阿里巴巴商学院和新加坡零售管理学院所颁发的毕业证书。课程将由淘宝大学认证讲师以中文授课!</p>
+<p>完成课程后的学员将获得由阿里巴巴商学院和新加坡零售管理学院所颁发的毕业证书。<b>课程将由淘宝大学认证讲师以中文授课!</b></p>
 
 <h4>Highlights</h4>
 
@@ -37,7 +37,8 @@ second_nav_title: "Alibaba Business School"
 </ul>
 
 <h4>Testimonials</h4>
-<p><em>"I feel that the Alibaba is very advanced in terms of e-commerce and digital marketing. The lecturers were all of a very high standard, both in terms of intellectual ability, practical knowledge, and even business sense. I was quite amazed that  the criteria is that they must have managed real business sites well before they are allowed to be lecturers."</em> - <b>Lucy Yow, New Asia Ferrell</b></p>
+<p>"I feel that the Alibaba is very advanced in terms of e-commerce and digital marketing. The lecturers were all of a very high standard, both in terms of intellectual ability, practical knowledge, and even business sense. I was quite amazed that  the criteria is that they must have managed real business sites well before they are allowed to be lecturers."</p> 
+<b>- Lucy Yow, New Asia Ferrell</b>
 
 <h4>Fees</h4>
 
