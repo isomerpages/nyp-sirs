@@ -25,7 +25,7 @@ second_nav_title: "E-Commerce Programmes"
 <p>Join us on this one-day onboarding programme, where you will learn how you can start selling to your international clientele with ease.</p>
 
 <h4>Outline</h4>
-<ul>
+<ol>
   <li>Introduction to Amazon Global Selling</li>
   <ul>
   <li>Understand Amazon and the e-Marketplace ecosystem in the USA</li>
@@ -33,7 +33,6 @@ second_nav_title: "E-Commerce Programmes"
   <li>Identify the 4 components of managing an online business and the magic formulas to succeeding on Amazon</li>
   <li>Learn to choose the right product categories for your goods</li>
   </ul>
- 
   <li>Practical Hands-on Session</li>
   <ul>
   <li>Register for an Amazon seller account</li>
@@ -46,14 +45,13 @@ second_nav_title: "E-Commerce Programmes"
             <li>Barcode/Global Trade Item Number (GTIN) exemption</li>
       </ul>
   </ul>
- 
   <li>Fulfilment by Amazon (FBA)</li>
       <ul>
             <li>Discover the benefits of FBA compared to merchant shipping and how much it costs</li>
             <li>Understand the FBA shipment creation workflow</li>
             <li>Learn how to optimise packaging and labelling, and FBA product restrictions</li>
       </ul>
-</ul>
+</ol>
 
 <h4>Duration</h4>
 <p>9am - 6pm (1 day)</p>
