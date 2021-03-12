@@ -18,22 +18,76 @@ second_nav_title: "Alibaba Business School"
 
 <p>The Managerial Elite programme aims to develop Digital Professionals with core competency in the area of data analytics, enabling them to operate and strategise their business operations effectively. The knowledge and skills imparted will enable Digital Professionals to devise content marketing strategy and design retargeting promotion to achieve breakthrough in their existing online business and stand out from the industry competition.</p>
 
-<p>Upon completion of the programme, participants will receive a certificate jointly awarded by Alibaba Business School and Singapore Institute of Retail Studies. Programme will be conducted in English or Mandarin.</p>
+<p>Upon completion of the programme, participants will receive a certificate jointly awarded by Alibaba Business School and Singapore Institute of Retail Studies. <b>Programme will be conducted in English or Mandarin.</b></p>
 
 <p>阿里巴巴商学院和新加坡南洋理工学院旗下新加坡零售管理学院合作，为新加坡企业带来一系列攸关电子商务实际操作与技能栽培课程，协助企业拓展核心能力并成功运用电子商务拓展营销与业务。</p>
 
 <p>大数据的运用趋势已转化了企业经营的模式。精准的运用大数据分析已是企业超越竞争对手的关键因素。管理层提升班将帮助电商经营者避开盲目店铺操盘行为。赋能经理人管理团队运营，推广，视觉营销和做跨境物流规划和运作，让网店销售迅速增长。带领电商管理者转化与激活数据分析区块，实践有效的运营网店与跨境电商管理。学员将会学习如何运用内容营销策略与设计推广战略突破电商业绩，掌握店铺运营的数据化管理技。</p>
 
-<p>完成课程后的学员将获得由阿里巴巴商学院和新加坡零售管理学院所颁发的毕业证书。课程将由淘宝大学认证讲师以中文或英文授课!</p>
+<p>完成课程后的学员将获得由阿里巴巴商学院和新加坡零售管理学院所颁发的毕业证书。<b>课程将由淘宝大学认证讲师以中文或英文授课!</b></p>
 
 <h4>Highlights</h4>
-
 <ul>
   <li>Understanding the Chinese digital commerce landscape and cross-border trade</li>
   <li>Analysing and optimising your digital commerce performance</li>
   <li>Strategising store marketing and promotional activities for conversion</li>
   <li>Enhancing digital store presentation with visual marketing and short video marketing</li>
 </ul>
+
+<h4>Outline</h4>
+<b>China Digital Commerce Scenario and Cross Border Trade</b>
+<ul>
+  <li>The new economy of digital commerce cross border</li>
+  <li>International trade and cross border trade foundation concept</li>
+  <li>Logistics, custom clearance, taxation</li>
+  <li>Ali ecosystem way of importing overseas products</li>
+  </ul>
+
+<b>Digital Online Operation</b>
+<ul>
+  <li>Big data analysis and target persona, setting objectives and market forecast</li>
+  <li>Product category planning and growth strategy</li>
+  <li>Growing stages of online store objectives setting, developing phases of promotion and campaign rhythm and SOP value chain building</li>
+  </ul>
+
+<b>Store Activities</b>
+<ul>
+  <li>Analytical approach of 7 steps for promotion / campaign activities and content development</li>
+  <li>Manage (monitor and control) store online activities for store rating improvement</li>
+  <li>KPI of running the stores and staff</li>
+  </ul>
+
+<b>Visual Marketing</b>
+<ul>
+  <li>One-click visual improves sales conversion rate
+     <ul>
+      <li>What is good visual? Holistic visual marketing deep dive</li>
+      <li>Personal, product category visual positioning and analysis</li>
+   </ul>
+  </li>
+  <li>How to design a stunning visual artwork
+    <ul>
+      <li>Style and framework, scenario building, text and colour application</li>
+  </ul>
+ </li>
+</ul>
+
+<b>Short Video Marketing</b>
+<ul>
+  <li>Digital marketing new trend – short video marketing
+  <ul>
+    <li>Case studies, video marketing trend and application</li>
+    <li>Video production step 1: Script writing (brand video identity, product image, activities style and presentation)</li>
+    <li>Digital analytic way of copy-writing and creatives production for holistic campaign design</li>
+    </ul>
+  </li>
+  <li>From zero to one, completing video production and broadcast
+    <ul>
+    <li>3 steps of video production: Pre-shot preparation, photo shoot techniques, post-shoot edit</li>
+    <li>Video broadcast, rules and methods</li>
+    </ul>
+  </li>
+  </ul>
 
 <h4>Fees</h4>
 
