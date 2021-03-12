@@ -6,6 +6,7 @@ breadcrumb: SGUS Manage Retail & Enterprise in the Digital Age
 collection_name: services
 second_nav_title: "Career Services"
 ---
+<img src="images-2021/Services-CareerServices-SGUS-Overview.png" style="width:100%;">
 
 <h4>SGUS Programme in Digital & Leadership Skills to Excel in the Future of Retail & Business</h4>
 
