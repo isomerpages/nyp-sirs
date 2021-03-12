@@ -9,9 +9,9 @@ second_nav_title: "Career Services"
 
 <img src="images-2021/Services-CareerServices-SGUS-Overview.png" style="width:100%;">
 
-<p>The SGUS Programme administered by the Singapore Institute of Retail Studies (SIRS) is a 6 months full-time training programme designed to help Singapore Citizens and Singapore Permanent Residents (PRs) to upskill and reskill themselves with industry-relevant skills and knowledge, to boost their employability to take on new or enhanced job opportunities in the retail and new sectors as the economy recovers. The programme operates on a Train-and-Place model, where trainees receive career advisory, guidance and employment placement assistance from SIRS at no cost. 
+<p>The SGUS Programme administered by the Singapore Institute of Retail Studies (SIRS) is a 6 months full-time training programme designed to help Singapore Citizens and Singapore Permanent Residents (PRs) to upskill and reskill themselves with industry-relevant skills and knowledge, to boost their employability to take on new or enhanced job opportunities in the retail and new sectors as the economy recovers. The programme operates on a Train-and-Place model, where trainees receive career advisory, guidance and employment placement assistance from SIRS at no cost.</p>
 
-Besides strengthening skills portfolio for enhanced competitiveness and employability, trainees can also establish a strong support network among peers and industry professionals. </p>
+<p>Besides strengthening skills portfolio for enhanced competitiveness and employability, trainees can also establish a strong support network among peers and industry professionals.</p>
 
 <h4>How Can Trainees Benefit?</h4>
 
@@ -22,7 +22,6 @@ Besides strengthening skills portfolio for enhanced competitiveness and employab
 <p>Trainees can receive a training allowance of $1,200 per month throughout the 6 months programme, for up to $7,200 for the full duration. This is subject to minimum attendance requirement and successful completion.</p>
 
 <h4>SGUnited Skills (SGUS) Programmes:</h4>
-
 <ul>
   <li><a href="/services/sgus-programme/manage-retail-and-enterprise-in-the-digital-age">Manage Retail & Enterprise in the Digital Age</a></li>
   <li><a href="/services/sgus-programme/digital-and-leadership-skills-to-excel-in-the-future-of-retail-and-business">Digital & Leadership Skills to Excel in the Future of Retail & Business</a></li>
