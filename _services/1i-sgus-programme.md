@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: Overview
+title: SGUS Overview
 permalink: /services/sgus-programme
 breadcrumb: SGUnited Skills Programme
 collection_name: services
