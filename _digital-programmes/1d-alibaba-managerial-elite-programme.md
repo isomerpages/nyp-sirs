@@ -92,7 +92,7 @@ second_nav_title: "Alibaba Business School"
   </li>
   </ul>
   
-<h4>课表</h4>
+<h4>课程内容</h4>
 
 <b>中国电商背景 & 跨境电商</b>
 <ul>
