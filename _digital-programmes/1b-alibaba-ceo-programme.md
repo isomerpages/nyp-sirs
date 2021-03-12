@@ -11,8 +11,11 @@ second_nav_title: "Alibaba Business School"
 
 <img src="images/alibaba-business-school/alibaba-ceo-programme.JPG" style="width:100%;">
 
-<center>A 6-day 5-night immersive exploration into Alibaba's New Retail<br>
-6天5夜考察之旅-杭州</center>
+<center><b>定制总裁班<br>
+  (6天5夜考察之旅-杭州)</b></center>
+  
+<center><b>Alibaba CEO Programme<br>
+  A 6-day 5-night immersive exploration into Alibaba's New Retail - Hangzhou</b></center>
 
 <div style="text-align:center;"><h4>Next Intake</h4>
 To be confirmed</div>
@@ -46,12 +49,12 @@ You are only a trip away to gain useful takeaways for immediate business applica
 
 <h4>Itinerary</h4>
 
-<p>Day 1<br>
+<p><b>Day 1</b><br>
 <li>Depart Singapore to Hangzhou, China</li>
 <li>Check in Hotel</li>
   </p>
 
-<p>Day 2<br>
+<p><b>Day 2</b><br>
 <li>The Alibaba World Economy and The New Retail</li>
 <li>Site visit to Alibaba Global HQ: Alibaba West Stream Campus & “Facial Recognition Payment” Future Retail Mall</li>
 <li>Alibaba Big Data Global Transaction Console: Panoramic view of Alibaba global business strategy and data analytic real-time transactions</li>
@@ -60,7 +63,7 @@ You are only a trip away to gain useful takeaways for immediate business applica
 <li>Meals provided: Breakfast/Lunch/Dinner</li>
   </p>
 
-<p>Day 3<br>
+<p><b>Day 3</b><br>
 <li>Digital Commerce Law of Survival - Thought Leadership Breakthrough</li>
 <li>China digital commerce milestones and its rapidly developing pathway</li>
 <li>Internet transformation 4.0: from digital commerce to sharing economy</li>
@@ -69,7 +72,7 @@ You are only a trip away to gain useful takeaways for immediate business applica
 <li>Meals provided: Breakfast/Lunch/Dinner</li>
   </p>
 
-<p>Day 4<br>
+<p><b>Day 4</b><br>
 <li>Digital Commerce Branding and Planning</li>
 <li>Understand what Digital Precision Marketing is and how it differs from traditional branding</li>
 <li>Deep dive international brand success and bottleneck in China market</li>
@@ -78,7 +81,7 @@ You are only a trip away to gain useful takeaways for immediate business applica
 <li>Meals provided: Breakfast/Lunch/Dinner</li>
   </p>
  
-<p>Day 5<br>
+<p><b>Day 5</b><br>
 <li>Digital Commerce Way of Running Business</li>
 <li>Understand the value chain of digital commerce way of running business</li>
 <li>Thought leadership in digital commerce which includes re-construction of organisation and identify roles & responsibilities</li>
@@ -86,19 +89,19 @@ You are only a trip away to gain useful takeaways for immediate business applica
 <li>Meals provided: Breakfast/Lunch</li>
   </p>
  
-<p>Day 6<br>
+<p><b>Day 6</b><br>
 <li>Depart Hangzhou, China to Singapore</li>
 <li>Meals provided: Breakfast</li>
 </p>
 
 <h4>日程</h4>
 
-<p>第一天<br>
+<p><b>第一天</b><br>
 <li>从新加坡飞往杭州，中国</li>
 <li>入住酒店</li>
   </p>
  
-<p>第二天<br>
+<p><b>第二天</b><br>
 <li>阿里巴巴经济体与新零售体验</li>
 <li>参观阿里巴巴集团全球总部：阿里巴巴西溪园区&“人脸识别支付”未来店</li>
 <li>《阿里巴巴数据大屏》：阿里巴巴全球业务布局与数据详解</li>
@@ -107,7 +110,7 @@ You are only a trip away to gain useful takeaways for immediate business applica
 <li>提供餐食：早/午/晚餐</li>
   </p>
 
-<p>第三天<br>
+<p><b>第三天</b><br>
 <li>电子商务生存法则-思维决定出路</li>
 <li>中国电子商务的发展历程及电商快速发展的路径</li>
 <li>互联网蜕变：从线上网店到共享经济</li>
@@ -116,7 +119,7 @@ You are only a trip away to gain useful takeaways for immediate business applica
 <li>提供餐食：早/午/晚餐</li>
   </p>
  
-<p>第四天<br>
+<p><b>第四天</b><br>
 <li>互联网品牌规划</li>
 <li>了解什么是互联网品牌玩法，以及与传统品牌打造的区别</li>
 <li>分析外国品牌在中国经营现状与在中国面临瓶颈的原因</li>
@@ -125,7 +128,7 @@ You are only a trip away to gain useful takeaways for immediate business applica
 <li>提供餐食: 早/午/晚餐</li>
   </p>
  
-<p>第五天<br>
+<p><b>第五天</b><br>
 <li>互联网商业运营</li>
 <li>什么是互联网商业运营；电商运营特点</li>
 <li>线上运营的思路，包含了解电商团队搭建、角色定位与分工等</li>
@@ -133,14 +136,13 @@ You are only a trip away to gain useful takeaways for immediate business applica
 <li>提供餐食：早/午餐</li>
  </p>
  
-<p>第六天<br>
+<p><b>第六天</b><br>
 <li>从杭州，中国往回新加坡</li>
 <li>提供餐食：早餐</li>
 </p>
 
 <h4>Programme Fees</h4>
 
-<!-- table for programme fees --> 
 <center>
 <table style="width:100%;">
 <tr>
@@ -193,9 +195,7 @@ Airfare<br>
 Visa for travel to China<br>
 Travel insurance
   </center>
-  
 
-<!-- button code --> 
 <div style="width:50%;float:left;"><center><a href="https://form.gov.sg/#!/5cec9ce35d6edc00173c0f94" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Register Now</a></center></div>
 
 <div style="width:50%;float:left;"><center><a href="https://form.gov.sg/602f2e2609513500125322dd" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center></div>
