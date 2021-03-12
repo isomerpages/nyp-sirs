@@ -52,7 +52,7 @@ second_nav_title: "Alibaba Business School"
 
 <b>Store Activities</b>
 <ul>
-  <li>Analytical approach of 7 steps for promotion / campaign activities and content development</li>
+  <li>Analytical approach of 7 steps for promotion/campaign activities and content development</li>
   <li>Manage (monitor and control) store online activities for store rating improvement</li>
   <li>KPI of running the stores and staff</li>
   </ul>
@@ -85,6 +85,61 @@ second_nav_title: "Alibaba Business School"
     <ul>
     <li>3 steps of video production: Pre-shot preparation, photo shoot techniques, post-shoot edit</li>
     <li>Video broadcast, rules and methods</li>
+    </ul>
+  </li>
+  </ul>
+  
+<h4>课表</h4>
+
+<b>中国电商背景 & 跨境电商</b>
+<ul>
+  <li>新实体经济下的跨境电商大背景</li>
+  <li>一般贸易和跨境电商基础概念</li>
+  <li>物流通关纳税实务</li>
+  <li>阿里生态体系内进口商品进入方式</li>
+  </ul>
+
+<b>精细化运营</b>
+<ul>
+  <li>通过目标分析及数据分析，预判市场</li>
+  <li>制定产品规划方向</li>
+  <li>根据店铺不同阶段不同目标，运用运营节奏变 化，实现运营价值最大化</li>
+  </ul>
+
+<b>店铺活动</b>
+<ul>
+  <li>通过剖析活动策划七部曲来确定活动节奏及内容</li>
+  <li>指导学员根据自己店铺活动来进行监控</li>
+  <li>了解活动效果的评估方法</li>
+  </ul>
+  
+<b>视觉营销</b>
+<li>好视觉提高店铺销售转化率
+  <ul>
+    <li>什么才是好视觉：视觉营销的全方位解析</li>
+    <li>因人而异，人群和品类的视觉定位分析</li>
+  </ul>
+  </li>
+<li>如何做好一张视觉吸引人的图像设计
+  <ul>
+    <li>板式及构图，背景的烘托，字体及色彩的应用</li>
+  </ul>
+  </li>
+  </ul>
+
+<b>短视频营销</b>
+<ul>
+  <li>互联网营销新趋势——短视频营销
+  <ul>
+    <li>案例解析，视频营销的趋势与作用</li>
+    <li>视频营销第一步，脚本策划（品牌视频、产品视频、活动视频</li>
+    <li>如何通过文案策划及广告创意来打造视频整体创意结构</li>
+    </ul>
+  </li>
+  <li>从0到1，完成视频拍摄和发布
+    <ul>
+      <li>视频制作三部曲：拍摄前准备工作、拍摄中技巧、拍摄后的视频编辑</li>
+      <li>视频发布，你必须知道的规则和方法</li>
     </ul>
   </li>
   </ul>
