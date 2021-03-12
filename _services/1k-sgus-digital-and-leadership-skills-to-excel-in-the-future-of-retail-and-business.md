@@ -29,7 +29,6 @@ responsibilities, to achieve organisational goals.</p>
 position in non-retail sector.</p>
 
 <h4>Outline</h4>
-
 <ul>
   <li>Engage Customers through Social Media (7 hours)</li>
   <li>Fundamentals to Starting an Online Business (7 hours)</li>
