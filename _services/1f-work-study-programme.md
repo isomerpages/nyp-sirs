@@ -11,7 +11,7 @@ second_nav_title: "Career Services"
 
 <p>The SkillsFuture Work-Study Programmes give fresh graduates from polytechnics and the Institute of Technical Education (ITE) a head-start in careers related to their discipline of study. It provides them with more opportunities, after graduation, to build on the skills and knowledge they acquired in school, and better supports their transition into the workforce.</p>
 
-<h4>For Poly Graduate</h4>
+<h4>For Poly Graduates</h4>
 <b>Work-Study Post-Diploma – WSQ Specialist Diploma in Retail (Operations)</b>
 <ul>
   <li>A head-start in your Degree pursuit, enrol for 2 modules under SUSS Bachelor of Science in Marketing</li>
@@ -21,7 +21,7 @@ second_nav_title: "Career Services"
   <li>Guaranteed minimum salary of $2,000</li>
   </ul>
   
-<h4>For ITE Graduate</h4>
+<h4>For ITE Graduates</h4>
 <b>Work-Study Certificate – WSQ Advanced Certificate in Retail (Operations)</b>
 <ul>
   <li>A head-start in your Diploma pursuit, enrol for 2 modules under NYP Diploma in Business Practice (CRM)</li>
