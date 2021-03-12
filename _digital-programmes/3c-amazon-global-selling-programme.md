@@ -44,7 +44,6 @@ second_nav_title: "E-Commerce Programmes"
             <li>Category approval process</li>
             <li>Barcode/Global Trade Item Number (GTIN) exemption</li>
       </ul>
-  </ul>
   <li>Fulfilment by Amazon (FBA)</li>
       <ul>
             <li>Discover the benefits of FBA compared to merchant shipping and how much it costs</li>
