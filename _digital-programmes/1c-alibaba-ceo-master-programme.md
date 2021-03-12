@@ -86,7 +86,7 @@ CEO Master Programme<br>
 
 <b>Day 5</b><br>
 <ul>
-<li>Marketing Transformation in a New Retail Era
+  <li>Marketing Transformation in a New Retail Era</li>
 <li>New Marketing phenomenon – methods to recognize, reach new retail consumers</li>
 <li>Consumer insights: Limitations of consumer insights in traditional marketing and integration of online and offline consumer assets during a new retail era</li>
 <li>Reaching consumers in a comprehensive manner</li>
@@ -99,7 +99,7 @@ CEO Master Programme<br>
 <li>Meals provided: Breakfast</li>
   </ul>
 
-<h4>日程</h4>
+<h4>日程</h4><br>
   
 <b>第一天</b><br>
 <ul>
