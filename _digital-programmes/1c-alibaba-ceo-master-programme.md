@@ -99,7 +99,7 @@ CEO Master Programme<br>
 <li>Meals provided: Breakfast</li>
   </ul>
 
-<h4>日程</h4><br>
+<h4>日程</h4>
   
 <b>第一天</b><br>
 <ul>
