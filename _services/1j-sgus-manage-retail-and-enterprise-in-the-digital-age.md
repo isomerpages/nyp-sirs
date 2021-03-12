@@ -29,7 +29,6 @@ outcomes for the business.</p>
 position in non-retail sector.</p>
 
 <h4>Outline</h4>
-
 <ul>
   <li>Adapt to Change (24 hours)</li>
   <li>People and Relationship Management (24 hours)</li>
