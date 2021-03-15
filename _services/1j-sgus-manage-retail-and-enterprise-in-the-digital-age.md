@@ -6,7 +6,7 @@ breadcrumb: SGUS Manage Retail & Enterprise in the Digital Age
 collection_name: services
 second_nav_title: "Career Services"
 ---
-<img src="images-2021/Services-CareerServices-SGUS-Overview.png" style="width:100%;">
+<img src="images-2021/Services_SGUS_Overview.png" style="width:100%;">
 
 <h4>SGUS Programme in Digital & Leadership Skills to Excel in the Future of Retail & Business</h4>
 
@@ -73,3 +73,7 @@ position in non-retail sector.</p>
 <p>For <a href="/services/consultancy/skillsfuture-credit">SkillsFuture Credit</a>: For the reference code of all courses, please click <a href="/documents-2021/SIRS-SkillsFuture-CourseRefNumber.pdf">here.</a></p>
 
 <p>For more information about funding and support, click <a href="/services/consultancy">here.</a></p>
+
+<div style="width:50%;float:left;"><center><a href="https://form.gov.sg/#!/5f7c08ce956eff0011c11fcf" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Register Interest</a></center></div>
+
+<div style="width:50%;float:left;"><center><a href="https://form.gov.sg/602f3cfc8593b40011c817d5" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center></div>
