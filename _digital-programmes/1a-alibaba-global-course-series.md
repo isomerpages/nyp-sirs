@@ -68,3 +68,9 @@ second_nav_title: "Alibaba Business School"
     <td style="width:33%;vertical-align:middle;"><a href="https://www.sgsme.sg/news/alibaba-nyp-offer-joint-e-commerce-courses" target="_blank"><img src="images/logos/sgsme-logo.jpg" style="width:100%;"></a></td>
   </tr>
 </table>
+
+<p>For <a href="/services/consultancy/skillsfuture-credit">SkillsFuture Credit</a>: For the reference code of all courses, please click <a href="/documents-2021/SIRS-SkillsFuture-CourseRefNumber.pdf">here.</a></p>
+
+<p>For <a href="/services/consultancy/skillsfuture-credit">SkillsFuture Credit</a>: For the reference code of all courses, please click <a href="/documents-2021/SIRS-SkillsFuture-CourseRefNumber.pdf">here.</a></p>
+
+<p>For more information about funding and support, click <a href="/services/consultancy">here.</a></p>
