@@ -24,19 +24,19 @@ To promote skills deepening and lifelong learning, SIRS, in collaboration with t
 
 <p>
 <ul>
- <li><a href="/services/education-and-training">Educate</a><br>
+ <li><b><a href="/services/education-and-training">Educate</a></b><br>
   Raise awareness and offer accessibility to leading edge knowledge and skills, as well as industry trends</li>
 
  
- <li><a href="/services/education-and-training">Train</a><br>
+ <li><b><a href="/services/education-and-training">Train</a></b><br>
   Quality and industry relevant training to the retail workforce, and enhance enterprise human capital</li>
  
  
- <li><a href="/services/career-services">Place</a><br>
+ <li><b><a href="/services/career-services">Place</a></b><br>
   Career services such as advisory and placement assistance to job seekers, redesign jobs to create value for enterprises</li>
   
  
- <li><a href="/services/consultancy">Consult</a><br>
+ <li><b><a href="/services/consultancy">Consult</a></b><br>
   Consultancy services and solutions to retailers who need assistance in business transformation and digitalisation</li>
 </ul>
 </p>
