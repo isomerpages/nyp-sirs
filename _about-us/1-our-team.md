@@ -62,7 +62,7 @@ collection_name: about-us
 </table>
 
 <h4>Customer Relations Centre</h4>
-<p>For self-sponsored training or general enquiries, please email to <a href="mailto:courses@sirs.edu.sg">courses@sirs.edu.sg</a>.
+<p>For self-sponsored training or general enquiries, please email to <a href="mailto:courses@sirs.edu.sg">courses@sirs.edu.sg</a>
 
 <table>
   <tr>
