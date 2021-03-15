@@ -27,5 +27,3 @@ breadcrumb: Privacy
     </ul>
   </li>
   </ol> 
-  </i>
-
