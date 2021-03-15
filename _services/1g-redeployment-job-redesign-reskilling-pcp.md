@@ -31,4 +31,6 @@ of facilitated classroom training and structured on-the-job (OJT) across 3 month
  
 For more information on this programme, please email to <a href="mailto:upskill@sirs.edu.sg">upskill@sirs.edu.sg</a>
 
+<p>For <a href="/services/consultancy/skillsfuture-credit">SkillsFuture Credit</a>: For the reference code of all courses, please click <a href="/documents-2021/SIRS-SkillsFuture-CourseRefNumber.pdf">here.</a></p>
+
 <p>For more information about funding and support, click <a href="/services/consultancy">here.</a></p>
