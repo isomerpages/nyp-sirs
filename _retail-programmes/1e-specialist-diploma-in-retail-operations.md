@@ -43,9 +43,10 @@ second_nav_title: "WSQ Full Qualification Programmes"
 <p>Duration is 6 months for day class (once a week) or 6 months for night class (twice a week)</p>
 
 <h4>Entry Requirements</h4>
+<ul>
 <li>GCE ‘O’ level Credit (at least C6) in English and Mathematics or Workplace Literacy and Numeracy (WPLN) score: Level 7 for Reading, Listening and Numeracy, and</li>
 <li>With at least 3 years senior managerial working experience in retail or Professionals, Managers, Executives and Technicians (PMETs) position in non-retail sector</li>
-
+ </ul>
 
 <h4>Fees</h4>
 
