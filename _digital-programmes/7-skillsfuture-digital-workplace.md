@@ -15,8 +15,8 @@ collection_name: digital-programmes
       <th style="text-align:center;width:50%;">English Intake</th>
     </tr>
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">16-17 Dec 2019 (Monday - Tuesday)</td>
-      <td style="text-align:center;width:50%;">5-6 Dec 2019 (Thursday - Friday)</td>
+      <td style="text-align:center;width:50%;">To be confirmed</td>
+      <td style="text-align:center;width:50%;">To be confirmed</td>
     </tr>
 </table></center>
 
@@ -86,8 +86,9 @@ What you will learn:
 <small><i><sup>1</sup>To check if you are an NTUC UNION member, please call 6213 8008<br>
 All fees include prevailing GST</i></small>
 
-<p>For more information about funding and support, click <a href="/services/consultancy">here.</a></p>
+<p>For <a href="/services/consultancy/skillsfuture-credit">SkillsFuture Credit</a>: For the reference code of all courses, please click <a href="/documents-2021/SIRS-SkillsFuture-CourseRefNumber.pdf">here.</a></p>
 
+<p>For more information about funding and support, click <a href="/services/consultancy">here.</a></p>
 
 <div style="width:50%;float:left;"><center><a href="https://form.gov.sg/#!/5e2f9efffcbc0f00119ba02f" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Register Now</a></center></div>
 
