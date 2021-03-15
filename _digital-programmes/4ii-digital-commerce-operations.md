@@ -90,6 +90,8 @@ online business.ands-on exercise of creating a 5-stage results-focused digital b
   <li><a href="/services/consultancy/workfare-skills-support-wss">Workfare Skills Support (WSS) Scheme (Absentee Payroll)</a></li>
   </ul>
 
+<p>For <a href="/services/consultancy/skillsfuture-credit">SkillsFuture Credit</a>: For the reference code of all courses, please click <a href="/documents-2021/SIRS-SkillsFuture-CourseRefNumber.pdf">here.</a></p>
+
 <p>For more information about funding and support, click <a href="/services/consultancy">here.</a></p>
 
 <p>This course is under the <a href="/services/career-services/professional-conversion-programme">Professional Conversion Programme (PCP)</a>. To register, please email <a href="mailto:upskill@sirs.edu.sg">upskill@sirs.edu.sg</a> for more information.
