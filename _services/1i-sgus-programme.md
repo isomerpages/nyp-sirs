@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: SGUnited Skills (SGUS) Programme Overview
-permalink: /services/sgus-programme
+permalink: /services/career-services/sgus-programme
 breadcrumb: SGUnited Skills Programme
 collection_name: services
 second_nav_title: "Career Services"
