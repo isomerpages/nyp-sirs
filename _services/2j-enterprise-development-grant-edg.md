@@ -10,7 +10,7 @@ second_nav_title: "Consultancy"
 <h4>What is the Enterprise Development Grant (EDG)?</h4>
 <p>The EDG helps Singapore companies grow and transform. This grant supports projects that help you upgrade your business, innovate or venture overseas, under three pillars: Core Capabilities, Innovation and Productivity, and Market Access. For more information, click <a href="https://www.enterprisesg.gov.sg/financial-assistance/grants/for-local-companies/enterprise-development-grant/overview">here.</a></p>
 
-<h4>What does ESG support?</h4>
+<h4>What does EDG support?</h4>
 <p>The grant funds qualifying project costs namely third-party consultancy fees, software and equipment, and internal manpower cost.</p>
 
 <h4>Am I eligible for EDG?</h4>
