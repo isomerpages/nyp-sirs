@@ -69,6 +69,8 @@ block; margin: 4px 2px; cursor:pointer;text-decoration:none;">For Employers</a><
 
 <small><i>*Funding caps vary and apply for respective PCPs</i></small>
 
+<p>For <a href="/services/consultancy/skillsfuture-credit">SkillsFuture Credit</a>: For the reference code of all courses, please click <a href="/documents-2021/SIRS-SkillsFuture-CourseRefNumber.pdf">here.</a></p>
+
 <p>For more information about funding and support, click <a href="/services/consultancy">here.</a></p>
 
 <h4>Eligibility</h4>
