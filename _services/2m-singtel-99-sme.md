@@ -12,6 +12,7 @@ second_nav_title: "Consultancy"
 the immense contributions of SMEs to Singapore’s economy.  By being part of 99% SME, businesses like yours can grow strong, together</p>
 
 <b>How can SIRS help?</b>
+<ul>
 <li>FREE Registration to 99% SME & Enjoy Immediate Benefits</li>
 <li>We support SMEs through our Business Advisory Services and Placement under the Professional Conversion Programme (PCP) for Digital Professional (DP)</li>
 <li>We help SMEs to tap on additional sources of manpower and meet their manpower needs by matching them with mid-career PMET Digital Professional/s to support the companies 
@@ -20,6 +21,7 @@ digital journey</li>
 enabling programmes.</li>                                            
 <li>We provide solutions in key areas of digital marketing strategies including maximising social media for retailers, Facebook Digital Marketing and SEO (Search Engine 
 Optimisation)</li>
+  </ul>
 <br>
 <b>How does it work?</b>
 <p>
