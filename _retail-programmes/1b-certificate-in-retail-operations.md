@@ -22,20 +22,15 @@ second_nav_title: "WSQ Full Qualification Programmes"
 <b>Adapt to Change (15 hours)</b>
 <p>Recognise both local and global trends that bring about changes impacting the workplace, job roles and responsibility. Adapt to cope with new workplace expectations and embrace lifelong learning for continuous upskilling to improve employability and growth potential in an evolving and diverse workplace.</p>
 
-<b>Service Excellence (15 hours)</b>
-<p>Equip with the service mindset in providing excellent customer service. Identify critical moments of truth and escalate areas of improvement that will enhance the customer experience. Recognise and embrace the essential customer service skills in delivering exceptional customer experience.</p>
+<b>Service Excellence (15 hours)</b><br><p>Equip with the service mindset in providing excellent customer service. Identify critical moments of truth and escalate areas of improvement that will enhance the customer experience. Recognise and embrace the essential customer service skills in delivering exceptional customer experience.</p>
 
-<b>Service Challenges (15 hours)</b>
-<p>Recognise the challenges brought about by evolving technology and customer behaviour in the service environment. Understand the importance of addressing these service challenges with the aim to deliver great customer experience.</p>
+<b>Service Challenges (15 hours)</b><br><p>Recognise the challenges brought about by evolving technology and customer behaviour in the service environment. Understand the importance of addressing these service challenges with the aim to deliver great customer experience.</p>
 
-<b>Service Leadership (15 hours)</b>
-<p>Recognise the role that one plays in contributing to the customer interactions and experience with the brand while aligning with the company's service vision, mission, and values. Understand the customer journey and seek opportunity to explore, innovate, nurture, and improve the customer experience.</p>
+<b>Service Leadership (15 hours)</b><br><p>Recognise the role that one plays in contributing to the customer interactions and experience with the brand while aligning with the company's service vision, mission, and values. Understand the customer journey and seek opportunity to explore, innovate, nurture, and improve the customer experience.</p>
 
-<b>Workplace Communications (15 hours)</b>
-<p>Establish a culture of good communication is essential in the evolving workplace. Understand the process of exchanging information and ideas, both verbal and non-verbal, is critical in enhancing team effectiveness in a diverse workplace.</p>
+<b>Workplace Communications (15 hours)</b><br><p>Establish a culture of good communication is essential in the evolving workplace. Understand the process of exchanging information and ideas, both verbal and non-verbal, is critical in enhancing team effectiveness in a diverse workplace.</p>
 
-<b>Productivity Improvement (15 hours)</b>
-<p>Understand the importance of productivity at workplace and how it can turn the workplace into a more healthy and happy working environment and bring about positive impact to service delivery and customer experience.</p>
+<b>Productivity Improvement (15 hours)</b><br><p>Understand the importance of productivity at workplace and how it can turn the workplace into a more healthy and happy working environment and bring about positive impact to service delivery and customer experience.</p>
 
 <h4>Duration</h4>
 <p>Duration is 2 months for day class (twice a week) or 4 months for night class (twice a week)</p>
