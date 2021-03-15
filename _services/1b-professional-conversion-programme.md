@@ -98,7 +98,7 @@ second_nav_title: "Career Services"
 	<li>SMEs or trainees eligible for Mid-Caree Enhanced Subsidy (MCES): Up to 90% SSG funding*</li>
 	</ol>
 
-<small><i>*Funding caps vary and apply for respective PCPs</small></i>
+<small><i>*Funding caps vary and apply for respective PCPs</i></small>
 
 <h4>Eligibility</h4>
 
