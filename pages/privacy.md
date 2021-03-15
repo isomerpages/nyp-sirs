@@ -20,7 +20,7 @@ breadcrumb: Privacy
   </li>
   <li>To safeguard your Personal Data, all electronic storage and transmission of Personal Data is secured with appropriate security technologies.</li>
   <li>This digital service may contain links to non-Government digital services whose data protection and privacy practices may differ from ours. We are not responsible for the content and privacy practices of these other digital services and encourage you to consult the privacy notices of those digital services.</li>
-  <li>Please contact the Nanyang Polytechnic Quality Service Manager by telephone on 1800 455 0400 if you :
+  <li>Please contact the Nanyang Polytechnic Quality Service Manager by telephone on 1800 455 0400 if you:
     <ul>
       <li>have any enquires or feedback on our data protection policies and procedures,</li>
       <li>need more information on or access to data which you have provided to us in the past.</li>
