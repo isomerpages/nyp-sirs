@@ -10,12 +10,14 @@ second_nav_title: "Alibaba Business School"
 <img src="images/agcs-abs-sirs-atu-combined-logos.png" style="width:100%:">
 
 <img src="images/alibaba-business-school/alibaba-ceo-programme.JPG" style="width:100%;">
-
-<center>定制总裁班<br>
-  (6天5夜考察之旅 — 杭州)</center>
   
-<center>Alibaba CEO Programme<br>
+<center>6-day Immersive Exploration into Alibaba's 'New Retail'<br>
+  Alibaba CEO Programme<br>
   A 6-day 5-night immersive exploration into Alibaba's New Retail — Hangzhou</center>
+  
+<center>沉浸式探索阿里巴巴集团新零售<br>
+  定制总裁班<br>
+  (6天5夜考察之旅 — 杭州)</center>
 
 <h3 style="text-align:center;">Next intake:</h3>
 
