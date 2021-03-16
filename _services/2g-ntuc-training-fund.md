@@ -31,7 +31,7 @@ For more information, click <a href="https://e2i.com.sg/individuals/employabilit
   </ul>
 
 <b>Step 2: Under SIRS' course registration page, click ‘Yes’ as shown below and you will be prompted to upload the approved Letter of Eligibility.</b><br>
-<img src="/images-2021/Services_Consultancy_NTUCSEPs_Screenshot.jpg" style="width:100%;">
+<img src="/images-2021/Services_Consultancy_NTUCSEPs_Screenshot.jpg" style="width:70%;">
 
 <h4>After I have completed my training, how do I claim the training allowance?</h4>
 <ul>
