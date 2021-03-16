@@ -20,7 +20,7 @@ second_nav_title: National Silver Academy
 </ul>
 
 <h4>Requirements</h4>
-Participants must bring their own smart devices such as smartphone, IPad, Samsung tablet etc. for class.
+Participants must bring their own smart devices such as smartphone, iPad, tablets etc. for class.
 
 <h4>Fees</h4>
 
