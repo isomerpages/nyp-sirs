@@ -18,36 +18,36 @@ the growing consumer expectations while delivering a memorable customer journey.
 The PCP - RP includes the following training modules from the Workforce Skills Qualifications (WSQ) Diploma in Retail (Operations):
 
 <ol>
-<li>Global Mindset (24 hours)</li>
+<li><b>Global Mindset (24 hours)</b></li>
 Evaluate local & global issues & trends that impact one's employability & job role and to be able to identify competency gaps, determine training & 
 development needs and to establish & evaluate appropriate training & learning opportunities for all including the implementation of a conducive work 
 environment to facilitate transfer of knowledge & skills.
 <br>
  
-<li>Retailing & the Economy (24 hours)</li>
+<li><b>Retailing & the Economy (24 hours)</b></li>
 Understand key considerations and target markets in retailing as well as the application of the following concepts in the context of retailing: scarcity, 
 opportunity costs, demand & supply, elasticity, utility. 
 
-<li>Sales Target Management (24 hours)</li>
+<li><b>Sales Target Management (24 hours)</b></li>
 Set, communicate, drive and motivate staff to achieve sales target and to review social-economic changes in the local context as well as assess impact of 
 external economic and political events on the local retailing environment and to make changes to target set inability to reflect actual situation. 
 <br>
  
-<li>Service Leadership (30 hours)</li>
+<li><b>Service Leadership (30 hours)</b></li>
 Recognise the characteristics of a leader and to discharge the roles & responsibilities of a leader in operationalising the organization's service vision, 
 mission and values - entailing ways to promote a customer centric environment as well as analyzing the performance of individual member and the team with 
 the intent to identify follow-up actions for improvement. 
 <br>
 
-<li>Workplace Communication (18 hours)</li>
+<li><b>Workplace Communication (18 hours)</b></li>
 Use appropriate methods/equipment/platform to communicate policies and procedure to staff and monitor their compliance including evaluating the 
 effectiveness of such methods/channels. 
 <br>
 
-The PCP RP trainee should attain a ‘Competent’ for all modules. Upon completion of the programme, trainees will receive the nationally accredited Statement 
-of Attainment (SOA), under the Singapore Workforce Skills Qualifications (WSQ) framework for Retail.
+<p>The PCP RP trainee should attain a ‘Competent’ for all modules. Upon completion of the programme, trainees will receive the nationally accredited Statement 
+of Attainment (SOA), under the Singapore Workforce Skills Qualifications (WSQ) framework for Retail.</p>
 
-<em>*Training hours may be subjected to change</em>
+<i>*Training hours may be subjected to change</i>
 
 <h4>Fact Sheets</h4>
 To view more details, refer to the factsheets below:
@@ -70,7 +70,7 @@ block; margin: 4px 2px; cursor:pointer;text-decoration:none;">For Employers</a><
 	</ol>
 
 <small><i><sup>1</sup>Long-term Unemployed (LTU) is defined as being unemployed and actively seeking employment for six months or more<br>
-	<sup>2</sup>Mature trainee is defined as being aged 40 and above.</i></small>
+	<sup>2</sup>Mature trainee is defined as being aged 40 and above.</i></small><br>
 	
 <b>Course Fee Subsidy</b>
 <ol>
@@ -79,10 +79,6 @@ block; margin: 4px 2px; cursor:pointer;text-decoration:none;">For Employers</a><
 	</ol>
 
 <small><i>*Funding caps vary and apply for respective PCPs</i></small>
-
-<p>For <a href="/services/consultancy/skillsfuture-credit">SkillsFuture Credit</a>: For the reference code of all courses, please click <a href="/documents-2021/SIRS-SkillsFuture-CourseRefNumber.pdf">here.</a></p>
-
-<p>For more information about funding and support, click <a href="/services/consultancy">here.</a></p>
 
 <h4>Eligibility</h4>
 <ul>
