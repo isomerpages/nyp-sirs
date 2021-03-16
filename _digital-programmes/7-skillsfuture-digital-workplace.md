@@ -84,7 +84,7 @@ What you will learn:
 </center>
 
 <small><i><sup>1</sup>To check if you are an NTUC UNION member, please call 6213 8008<br>
-All fees include prevailing GST</i></small>
+Fees include prevailing GST</i></small>
 
 <p>For <a href="/services/consultancy/skillsfuture-credit">SkillsFuture Credit</a>: For the reference code of all courses, please click <a href="/documents-2021/SIRS-SkillsFuture-CourseRefNumber.pdf">here.</a></p>
 
