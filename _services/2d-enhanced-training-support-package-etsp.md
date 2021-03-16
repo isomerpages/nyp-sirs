@@ -23,7 +23,7 @@ second_nav_title: Consultancy
 <small><i>*With effect from 1 Jan to 30 June 2021, the enhanced Absentee Payroll (AP) is revised to 80% of hourly basic salary capped at $7.50 per hour per headcount. This is lowered from previous enhanced AP rate of 90% of hourly basic salary capped at $10 per hour, in line with the easing of Government support as the economy recovers.</i></small>
 
 <h4>What are the courses eligible for ETSP?</h4>
-<p>Click <a href="/documents-2021/Services_Consultancy_CoursesEligibleforETSP">here</a> to view the SIRS courses that are eligible for ETSP.</p>
+<p>Click <a href="/documents-2021/Services_Consultancy_CoursesEligibleforETSP.pdf">here</a> to view the SIRS courses that are eligible for ETSP.</p>
 
 <h4>Who can I speak with for more information and to sign up for ETSP?</h4>
 <table>
