@@ -27,7 +27,7 @@ second_nav_title: "Consultancy"
   </ul>
 
 <h4>How do I apply for AP?</h4>
-<p>Your company may apply through the SkillsConnect for the programme you attended. The Government will reimburse the absentee payroll.</p>
+<p>Your company may apply through the <a href="https://www.skillsconnect.gov.sg/sop/portal/">SkillsConnect</a> for the programme you attended. The Government will reimburse the absentee payroll.</p>
 
 <h4>Where can I get more information on AP?</h4>
 <p>You may visit <a href="https://www.skillsconnect.gov.sg/sop/portal/">SkillsConnect</a> for more information on AP.</p>
