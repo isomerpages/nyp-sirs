@@ -17,8 +17,8 @@ second_nav_title: Digital Mentorship Programme (DMP)
 
 <h4>Digital Mentorship Programme (DMP) Courses</h4>
 <ul>
-  <li><a href="/digital-programmes/digital-mentorship-programme/jumpstart-your-online-business">Jumpstart Your Online Business</a></li>
   <li><a href="/digital-programmes/digital-mentorship-programme/boost-your-business-with-social-commerce">Boost Your Business with Social Commerce</a></li>
+  <li><a href="/digital-programmes/digital-mentorship-programme/jumpstart-your-online-business">Jumpstart Your Online Business</a></li>
   </ul>
 
 <center><a href="https://form.gov.sg/602f304308dce80012761272" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center>
