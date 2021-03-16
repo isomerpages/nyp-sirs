@@ -22,7 +22,7 @@ enabling programmes.</li>
 <li>We provide solutions in key areas of digital marketing strategies including maximising social media for retailers, Facebook Digital Marketing and SEO (Search Engine 
 Optimisation)</li>
   </ul>
-<br>
+
 <h4>How does it work?</h4>
 <p>
 <ol>
