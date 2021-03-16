@@ -1,6 +1,6 @@
 --- 
 layout: leftnav-page-content
-title: Maximising Digital Advertising Dollars with Search Engine Marketing (SEM)
+title: Maximise Digital Advertising Dollars with Search Engine Marketing (SEM)
 permalink: /wsq-programmes/wsq-modular-programmes/maximising-digital-ad-dollars-with-sem
 breadcrumb: Maximising Digital Advertising Dollars with Search Engine Marketing (SEM)
 collection_name: retail-programmes
