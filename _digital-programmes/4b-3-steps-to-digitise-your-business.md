@@ -11,9 +11,8 @@ second_nav_title: "Masterclasses & Workshops"
 In this digital world we live in, it is no longer a matter of whether a business should become digitised, it is
 a matter of when. It is a journey which aims at leveraging the power of digital technologies to automate
 processes and provide intelligence and actionable insights to enabling business outcome more quickly.
-Learn the latest digital trends to start right. 
   
-Discover why digital commerce is not digital marketing and
+Learn the latest digital trends to start right. Discover why digital commerce is not digital marketing and
 how to apply specific knowledge and skills in developing intuitive online purchase for Click and Collect
 trend. Make sense of the infinite pathways in the digital space. Experience hands-on exercise of creating
 a 5-stage results-focused digital business plan for e-Marketplace ecosystem.
