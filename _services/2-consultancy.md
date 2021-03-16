@@ -19,7 +19,7 @@ second_nav_title: "Consultancy"
 <li><a href="/services/consultancy/etss">Enhanced Training Support for SMEs (ETSS)</a></li>
 <li><a href="/services/consultancy/enhanced-training-support-package-etsp">Enhanced Training Support Package (ETSP) & Enhanced Absentee Payroll (COVID-19)</a></li>
 <li><a href="/services/consultancy/edg">Enterprise Development Grant (EDG)</a></li>
-<li><a href="/services/consultancy/wss-companies">Workfare Skills Support (WSS) Scheme (Companies)</a></li>
+<li><a href="/services/consultancy/wss-companies">Workfare Skills Support (WSS) Scheme (For Companies)</a></li>
 </ul>
 
 <h4>For Individuals</h4>
@@ -30,5 +30,5 @@ second_nav_title: "Consultancy"
 <li><a href="/services/consultancy/skillsfuture-study-awards">SkillsFuture Study Awards</a></li>
 <li><a href="/services/consultancy/skillsfuture-qualification-award">SkillsFuture Qualification Award</a></li>
 <li><a href="/services/consultancy/utap">Union Training Assistance Programme (UTAP)</a></li>
-<li><a href="/services/consultancy/wss-individuals">Workfare Skills Support (WSS) Scheme (Individuals)</a></li>
+<li><a href="/services/consultancy/wss-individuals">Workfare Skills Support (WSS) Scheme (For Individuals)</a></li>
 </ul>
