@@ -1,17 +1,17 @@
 ---
 layout: leftnav-page-content 
-title: Singtel 99% SME Campaign
+title: 99% SME Campaign
 permalink: /services/consultancy/singtel-99sme
-breadcrumb: Singtel 99SME
+breadcrumb: 99SME
 collection_name: services
 second_nav_title: "Consultancy"
 ---
 
-<h4>What is Singtel 99% SME Campaign?</h4>
+<h4>What is 99% SME Campaign?</h4>
 <p>SMEs make up 99% of the businesses in Singapore, forming the backbone of Singapore’s economy.  99% SME was set up as a movement to recognise, celebrate and support 
 the immense contributions of SMEs to Singapore’s economy.  By being part of 99% SME, businesses like yours can grow strong, together</p>
 
-<b>How can SIRS help?</b>
+<h4>How can SIRS help?</h4>
 <ul>
 <li>FREE Registration to 99% SME & Enjoy Immediate Benefits</li>
 <li>We support SMEs through our Business Advisory Services and Placement under the Professional Conversion Programme (PCP) for Digital Professional (DP)</li>
@@ -23,7 +23,7 @@ enabling programmes.</li>
 Optimisation)</li>
   </ul>
 <br>
-<b>How does it work?</b>
+<h4>How does it work?</h4>
 <p>
 <ol>
 <li>Free Advertising Space
