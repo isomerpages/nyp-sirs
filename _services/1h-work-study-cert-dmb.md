@@ -56,9 +56,7 @@ second_nav_title: "Career Services"
   </ul>
 
 <h4>Duration</h4>
-<ul>
-  <li>40 days (9am to 6pm)</li>
-  </ul>
+<p>40 days (9am to 6pm)</p>
   
 <div style="width:50%;float:left;"><center><a href="https://genrecruiting.generation.org/welcome?country=71&program=229&location=938" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Register Now</a></center></div>
   
