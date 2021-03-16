@@ -28,5 +28,3 @@ From 1 October 2020, this top-up can be used on all SkillsFuture Credit-eligible
 
 <b>Can I use the SkillsFuture Credit after the government subsidy?</b>
 <p>The credits can be used on top of existing course fee subsidies provided by the Government.</p>
-
-<b>Use the SkillsFuture Credit to sign up for SIRS programmes today!</b>
