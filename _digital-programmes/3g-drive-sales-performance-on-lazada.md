@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Drive Sales Performance on Lazada
+title: Drive Sales Performance on Lazada (Marketing)
 permalink: /digital-programmes/e-commerce-programmes/drive-sales-performance-on-lazada
-breadcrumb: Drive Sales Performance on Lazada
+breadcrumb: Drive Sales Performance on Lazada (Marketing)
 collection_name: digital-programmes
 second_nav_title: "E-Commerce Programmes"
 ---
@@ -25,16 +25,15 @@ second_nav_title: "E-Commerce Programmes"
 <p>Selling your products on Lazada has never been easier with SIRS 1-day workshop! Get onboard the top e-marketplace platform in Southeast Asia to boost your sales by learning the marketing strategies you can deploy with Lazada's Marketing tools!</p>
 
 <h4>Outline</h4>
-
+<ul>
   <li>Learn how to use the Lazada Store Builder</li>
   <li>Understand the importance of live chat, and how to use the Chat Now function</li>
   <li>Understand what Lazada Campaigns are, how to join them to increase your brand exposure</li>
   <li>Improve your store conversion rate through Lazada sales and promotion tools</li>
   <li>Manage store and sales performance with Lazada Business Advisor</li>
- <br>
- 
-<ol>
-    
+</ul>
+
+<ol>  
 <li>Understand How to Use the Store Builder
     <ul>
 <li>Showcase hero products and attractive promotions</li>
