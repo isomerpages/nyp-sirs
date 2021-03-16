@@ -26,7 +26,7 @@ and scalability. Gain first-mover advantage through our masterclass.</p>
 <li>Understand the robust security capabilities, controls, and assurances in place to maintain
 security and data protection</li>
 <li>Articulate the financial impact the AWS cloud can have on an organization’s procurement
-cycle, cost management, and contracts while minimizing risks associated with consumptionbased pricing models</li>
+cycle, cost management, and contracts while minimizing risks associated with consumption-based pricing models</li>
 </ul>
 
 <h4>Trainer Profile</h4>
