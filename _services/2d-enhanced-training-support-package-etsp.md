@@ -23,27 +23,23 @@ second_nav_title: Consultancy
 <small><i>*With effect from 1 Jan to 30 June 2021, the enhanced Absentee Payroll (AP) is revised to 80% of hourly basic salary capped at $7.50 per hour per headcount. This is lowered from previous enhanced AP rate of 90% of hourly basic salary capped at $10 per hour, in line with the easing of Government support as the economy recovers.</i></small>
 
 <h4>What are the courses eligible for ETSP?</h4>
-<p>Click here to view the SIRS courses that are eligible for ETSP.</p>
-
-<h2>Create tables</h2>
+<p>Click <a href="/documents-2021/Services_Consultancy_CoursesEligibleforETSP">here</a> to view the SIRS courses that are eligible for ETSP.</p>
 
 <h4>Who can I speak with for more information and to sign up for ETSP?</h4>
 <table>
   <tr>
-    <td>Celeste YL Tan<br>Email: celeste_yl_tan@sirs.edu.sg<br>Tel: 6417-3029</td>
-    <td>Low Lee Keng<br>Email: low_lee_keng@sirs.edu.sg<br>Tel: 6417-30217</td>
+    <td>Celeste YL Tan<br>Email: <a href="celeste_yl_tan@sirs.edu.sg">celeste_yl_tan@sirs.edu.sg</a><br>Tel: 6417-3029</td>
+    <td>Low Lee Keng<br>Email: <a href="low_lee_keng@sirs.edu.sg">low_lee_keng@sirs.edu.sg</a><br>Tel: 6417-30217</td>
   </tr>
   <tr>
-    <td>Lai Jiawen<br>Email: lai_jiawen@sirs.edu.sg<br>Tel: 6417-3012</td>
-    <td>Joanne Low<br>Email: joanne_low@sirs.edu.sg<br>Tel: 6417-3033</td>
+    <td>Lai Jiawen<br>Email: <a href="lai_jiawen@sirs.edu.sg">lai_jiawen@sirs.edu.sg</a><br>Tel: 6417-3012</td>
+    <td>Joanne Low<br>Email: <a href="joanne_low@sirs.edu.sg">joanne_low@sirs.edu.sg</a><br>Tel: 6417-3033</td>
   </tr>
   <tr>
-    <td>Celeste Tan<br>Email: celeste_tan@sirs.edu.sg<br>Tel: 6417-3034</td>
-    <td>Lynda Cheong<br>Email: lynda_cheong@sirs.edu.sg<br>Tel: 6417-3009</td>
+    <td>Celeste Tan<br>Email: <a href="celeste_tan@sirs.edu.sg">celeste_tan@sirs.edu.sg</a><br>Tel: 6417-3034</td>
+    <td>Lynda Cheong<br>Email: <a href="lynda_cheong@sirs.edu.sg">lynda_cheong@sirs.edu.sg</a><br>Tel: 6417-3009</td>
   </tr>
 </table>
 
 <h4>Where can I get more information on ETSP?</h4>
 <p>You may visit <a href="https://www.ssg.gov.sg/ETSP_EnhancedAP.html">SkillsFuture Singapore</a> for more information on ETSP.</p>
-
-<b>Use the Enhanced Training Support Package (ETSP) to sign up for SIRS programmes today!</b>
