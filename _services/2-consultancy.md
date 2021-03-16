@@ -27,8 +27,8 @@ second_nav_title: "Consultancy"
 <li><a href="/services/consultancy/ntuc-training-fund">NTUC Training Fund (SEPs)</a></li>
 <li><a href="/services/consultancy/skillsfuture-credit">SkillsFuture Credit (SFC)</a></li>
 <li><a href="/services/consultancy/skillsfuture-midcareer-enhanced-subsidy">SkillsFuture Mid-Career Enhanced Subsidy (MCES)</a></li>
-<li><a href="/services/consultancy/skillsfuture-study-awards">SkillsFuture Study Awards</a></li>
 <li><a href="/services/consultancy/skillsfuture-qualification-award">SkillsFuture Qualification Award</a></li>
+<li><a href="/services/consultancy/skillsfuture-study-awards">SkillsFuture Study Awards</a></li>
 <li><a href="/services/consultancy/utap">Union Training Assistance Programme (UTAP)</a></li>
 <li><a href="/services/consultancy/wss-individuals">Workfare Skills Support (WSS) Scheme (For Individuals)</a></li>
 </ul>
