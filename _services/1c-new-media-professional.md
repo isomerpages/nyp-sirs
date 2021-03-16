@@ -35,7 +35,7 @@ Under the PCP - NMP, participants will have to complete the following programmes
 <li>Customer Experience Innovation</li>
 <li>Paid Search Engine Marketing (SEM)</li>
 <li>Search Engine Optimization (SEO)</li>
-<li>Singapore Media Academy’s Making Online Content Programme</li>
+<li><a href="https://pd.mediaacademy.sg/ftv/moc">Singapore Media Academy’s Making Online Content Programme</a></li>
 </ul>
 
 <h4>Fact Sheets</h4>
