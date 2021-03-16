@@ -14,14 +14,14 @@ existing ones requiring updated skillsets. The SkillsFuture Study Awards encoura
 economic growth sectors or in areas of demand. It also supports Singaporeans who already have deep specialist skills to develop other competencies. Over 500 
 study awards will be available from October 2015. At a later stage, we aim to give up to 2,000 study awards annually.</p>
 
-<b>Who is eligible for the SkillsFuture Study Awards?</b>
+<h4>Who is eligible for the SkillsFuture Study Awards?</h4>
 <p>The SkillsFuture Study Awards are for early to mid-career Singaporeans who are committed to developing and deepening their skills in key sectors and have 
 relevant working experience in such sectors.</p>
 
-<b>How does it work?</b>
+<h4>How does it work?</h4>
 <p>You will enjoy additional support in your journey of acquiring and advancing your skills, an enhanced level of employability in an evolving economy and 
 greater opportunities to maximise your potential.<br>You will receive a monetary award of S$5,000, which you can use to defray out-of-pocket expenses associated 
 with the course that you will be taking. It can also be used on top of existing Government course fee subsidies. You do not need to serve a bond.</p>
 
-<b>How do I sign up?</b>
+<h4>How do I sign up?</h4>
 <p>Click <a href="https://www.myskillsfuture.sg/content/portal/en/header/faqs/SkillsFutureStudyAward.html">here</a> to view details and apply for the SkillsFuture Study Award.
