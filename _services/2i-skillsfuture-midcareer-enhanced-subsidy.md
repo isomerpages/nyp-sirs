@@ -14,18 +14,16 @@ Recognising that mid-career individuals may face greater challenges in undertaki
 mid-career Singaporeans to upskill and reskill. 
 Eligible individuals will receive higher subsidies of up to 90% of course fees for SSG-supported courses.</p>
 
-<b>Who is eligible for Mid-Career Enhanced Subsidy?</b>
+<h4>Who is eligible for Mid-Career Enhanced Subsidy?</h4>
 <p>Only  Singapore  Citizens  aged  40  and  above  will  be  eligible  to  receive  the enhanced subsidies.</p>
 
-<b>Which programmes can I use it for?</b>
+<h4>Which programmes can I use it for?</h4>
 <p>The  enhanced  subsidies  will  apply  to SSG-supported certifiable courses. You can enjoy Mid-Career Enhanced Subsidy for all SIRS programmes, masterclasses 
 and workshops.</p>
 
-<b>How do I apply for the enhanced subsidy?</b>
+<h4>How do I apply for the enhanced subsidy?</h4>
 <p>For self-sponsored individuals, you do not have to apply for the additional fee subsidy when you attend SIRS programmes. You will only need to pay the nett fee 
-(full course fee after SSG’s grant).
+(full course fee after SSG’s grant).</p>
 
-For company-sponsored employees, your company will have to apply through the SkillsConnect for the programme you attended. The Government will reimburse the additional 
+<p>For company-sponsored employees, your company will have to apply through the SkillsConnect for the programme you attended. The Government will reimburse the additional 
 programme fee funding along with the absentee payroll.</p>
-
-<b>Use the SkillsFuture Mid-Career Enhanced Subsidy to sign up SIRS programmes today!</b>
