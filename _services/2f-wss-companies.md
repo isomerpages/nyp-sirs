@@ -25,7 +25,6 @@ second_nav_title: "Consultancy"
   <ul>
     <li>Together with spouse, own less than two properties; or</li>
     <li>Spouse’s assessable income for the preceding Year of Assessment is less than $70,000</li>
-    </li>
     </ul>
     
 <h4>How do I claim for TCA, TA and/or AP?</h4>
