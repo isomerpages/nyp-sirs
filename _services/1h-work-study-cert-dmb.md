@@ -33,9 +33,7 @@ second_nav_title: "Career Services"
 
 <small><i>*Terms & Conditions Apply</i></small>
 
-<h4>Programme Details</h4>
-
-<b>Eligibility</b>
+<h4>Eligibility</h4>
 <ul>
   <li>Singaporean / Permanent Resident</li>
   <li>Completed National Service</li>
@@ -48,23 +46,19 @@ second_nav_title: "Career Services"
   <li>Meet the requirements of the participating companies</li>
   </ul>
 
-<b>Certification</b>
+<h4>Certification</h4>
 <p>Participants will be awarded the Certificate of Attendance by Nanyang Polytechnic - Singapore Institute of Retail Studies, upon meeting 85% of attendance requirement.</p>
 
-<b>Fees</b>
+<h4>Fees</h4>
 <ul>
   <li>70% sponsored by SkillsFuture Singapore</li>
   <li>30% sponsored by hiring company (upon placement)</li>
   </ul>
 
-<b>Course Duration</b>
+<h4>Duration</h4>
 <ul>
   <li>40 days (9am to 6pm)</li>
   </ul>
-
-<p>For <a href="/services/consultancy/skillsfuture-credit">SkillsFuture Credit</a>: For the reference code of all courses, please click <a href="/documents-2021/SIRS-SkillsFuture-CourseRefNumber.pdf">here.</a></p>
-
-<p>For more information about funding and support, click <a href="/services/consultancy">here.</a></p>
   
 <div style="width:50%;float:left;"><center><a href="https://genrecruiting.generation.org/welcome?country=71&program=229&location=938" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Register Now</a></center></div>
   
