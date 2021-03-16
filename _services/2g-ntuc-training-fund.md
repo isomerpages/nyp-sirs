@@ -42,9 +42,10 @@ For more information, click <a href="https://e2i.com.sg/individuals/employabilit
 <p>For more information, please refer to <a href="https://e2i.com.sg/wp-content/uploads/2020/11/SEP_Infokit_v22_3-Nov.pdf">NTUC Training Fund (SEPs) Infokit</a></br>For more information or enquiries on NTUC Training Fund (SEPs), please visit www.e2i.com.sg/SEP2020.</p>
 
 <p>You can also contact NTUC’s e2i or NTUC’s U FSE for assistance.</p>
-<b>Employment and Employability Institute (NTUC’s e2i)</b>
-Tel: 6474 0606
-Email: SEP2020@e2i.com.sg
- 
-Freelancers and Self- Employed Unit (NTUC’s U FSE)
-Email: septraining@ntuc.org.sg
+
+<table>
+  <tr>
+    <td><b>Employment and Employability Institute (NTUC’s e2i)</b><br>Email: <a href="SEP2020@e2i.com.sg">SEP2020@e2i.com.sg</a><br>Tel: 6474-0606</td>
+    <td>Low Lee Keng<br>Email: <a href="septraining@ntuc.org.sg">septraining@ntuc.org.sg</a></td>
+  </tr>
+  </table>
