@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: Best Practices of E-Commerce Using TR 76
+title: Best Practices of E-Commerce Transactions Using TR 76
 permalink: /digital-programmes/e-commerce-programmes/best-practices-of-e-commerce-transactions-using-tr76
 breadcrumb: Best Practices of E-Commerce Using TR 76
 collection_name: digital-programmes
