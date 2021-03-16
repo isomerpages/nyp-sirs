@@ -41,13 +41,13 @@ Holistic Hands-on Content Marketing Techniques</center>
 <h4>Testimonials</h4>
 
 <i>"Through the Alibaba Content Marketing Programme, the trainers break down the various operations and explain them in-depth. The first day of the course was very insightful because the trainer showcased lots of data that is very useful in understanding the importance of content marketing, while second and third days are more interactive, and how to create livestreams."</i><br>
-<b>Shaynen Tan, Brand & Marketing Manager, D'Elegance</b>
+<b>- Shaynen Tan, Brand & Marketing Manager, D'Elegance</b>
 
 <i>"We need to always learn and innovate, which is why I always listen to other industry players or attend such programmes. This course came from Alibaba Business School, and seeing how advanced they are in the retail environment with the use of omni-channel is something that I found very fascinating. The two areas that got me interested and are applicable would be very much on livestreaming operations and the fan economy."</i><br>
-<b>Rachel Pang, Director, OC Group</b>
+<b>- Rachel Pang, Director, OC Group</b>
 
 <i>"Through the Alibaba Content Marketing Programme, I have learned how to gain an edge through content marketing, such as the knowledge of how to write or the angles of photos that I have to take to make it appealing to the fanbase."</i><br>
-<b>Clarissa Guo, Business Development Manager, AOne F&B Group</b>
+<b>- Clarissa Guo, Business Development Manager, AOne F&B Group</b>
 
 <h4>Fees</h4>
 
