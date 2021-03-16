@@ -15,7 +15,7 @@ second_nav_title: "Joint Certification Programmes"
 
 <p>Upon completion of the programme, CDPCs will work closely with merchant associations and heartland enterprises in increasing their online presence, selling effectively on local and overseas e-commerce marketplaces, and utilising big data to optimise their online and offline retail operations.</p>
 
-<h4>Outline</h4>
+<h4>Modules</h4>
 
 CDPC participants will have to complete the following programmes to receive the joint certificate:
 <ul>
@@ -24,13 +24,13 @@ CDPC participants will have to complete the following programmes to receive the 
   <li><a href="https://www.sgpc.sg/services/training-certification/cps/rdps/" target="_blank">SGPC's Retail Digital Productivity Specialist Course</a></li>
 </ul>
 
-<h4>Learning Outcomes</h4>
+<h4>Outline</h4>
 
 The CDPC programme will equip the consultant with literacy and skills in:
 
 <ul>
 <li>Retail productivity for digital transformation</li>
-<li>Financial statements related to the productivity diagnosis and improvement in online and/or offline retail operations</li>
+<li>Analysing financial statements for productivity diagnosis and improvement in online and/or offline retail operations</li>
 <li>The latest cyber-security and digital marketing knowledge to manage visual marketing and retail store performance</li>
 <li>Managing holistic digital commerce via real time big data analytics</li>
   <li>Manage cross-border e-commerce with access to e-marketplace platforms</li>
