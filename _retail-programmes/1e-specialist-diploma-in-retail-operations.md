@@ -108,15 +108,6 @@ second_nav_title: "WSQ Full Qualification Programmes"
 
 <p>For more information about funding and support, click <a href="/services/consultancy">here.</a></p>
  
-<h4>Application</h4>
-
-<p>To apply, please complete the online registration <a href="http://form.gov.sg/5d92ea7ece0ed40012a9db5f" target="_blank">here</a> and email to <a href="mailto:courses@sirs.edu.sg?subject=Registration for CRO" target="_blank">courses@sirs.edu.sg</a> with the following supporting documents:
-
-<ol>
-<li>Highest educational certificate and/or Workplace Literacy and Numeracy (WPLN) results</li>
-  <li>Resume listing all working experiences and job functions performed</li>
-</ol></p>
-
 <div style="width:50%;float:left;"><center><a href="http://form.gov.sg/5d92ea7ece0ed40012a9db5f" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Register Now</a></center></div>
 
 <div style="width:50%;float:left;"><center><a href="https://form.gov.sg/602f27830951350012530bee" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center></div>
