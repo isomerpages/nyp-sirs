@@ -10,7 +10,7 @@ second_nav_title: Study Trips
 
 <center>WeChat Digital Immersion Programme</center>
 <center>(5D4N Study Trip - Shanghai)</center>
-<br>
+
 <center>新加坡微信及移动互联网上海游学浸濡团</center>
 <center>(5天4夜考察之旅 - 上海)</center>
 
@@ -33,7 +33,6 @@ understanding the future of mobile integrated e-Commerce space.</p>
 C-suite Level</p>
 
 <h4>Outline</h4>
-
 <ul>
 <li>Learn about the Tencent eco-system and opportunities to harness the prowess of new retail,
 mobile commerce, social media & big data</li>
@@ -58,22 +57,22 @@ lifestyle of your customers</li>
 
 <tr>
 <td>Full fees</td>
-<td>$802.50</td>
+<td>$5,500</td>
 </tr>
 
 <tr>
-<td>Singapore Citizen/Singapore PR (SPR) (70% funding)</td>
-<td>$240.75</td>
+<td>Singapore Citizen/Singapore PR (SPR)</td>
+<td>$2,000</td>
 </tr>
 
 <tr>
-<td>Singapore Citizen 40 years & above (90% funding)</td>
-<td>$90.75</td>
+<td>Singapore Citizen 40 years & above</td>
+<td>$1,000</td>
 </tr>
 
 <tr>
-  <td>Singapore Citizen/SPR sponsored by SMEs<sup>1</sup> (90% funding)</td>
-<td>$90.75</td>
+  <td>Singapore Citizen/SPR sponsored by SMEs<sup>1</sup></td>
+<td>$1,000</td>
 </tr>
 
 </table>
