@@ -16,21 +16,13 @@ prepare them for their new job roles as Sales Ambassador, Omni-Channel Sales Man
 of facilitated classroom training and structured on-the-job (OJT) across 3 months.</p>
 
 <h4>Salary Support for PMETs</h4>
-<b>1. Standard Rate for Singapore Citizens and Permanent Residents:</b> 
-<p>Up to 70% of monthly salary (capped at $4,000 per month)</p>
-<b>2. Enhanced Rate for Singapore Citizen Mature Workers (aged 40 and above) only:</b> 
-<p>Up to 90% of monthly salary (capped at $6,000 per month)</p>
+<b>1. Standard Rate for Singapore Citizens and Permanent Residents:</b><br>Up to 70% of monthly salary (capped at $4,000 per month)
+<b>2. Enhanced Rate for Singapore Citizen Mature Workers (aged 40 and above) only:</b><br>Up to 90% of monthly salary (capped at $6,000 per month)
  
 <h4>Salary Support for RnFs</h4>
-<b>1. Standard Rate for Singapore Citizens and Permanent Residents:</b> 
-<p>Up to 70% of monthly salary (capped at $2,000 per month)</p>
-<b>2. Enhanced Rate for Singapore Citizen Mature Workers (aged 40 and above) only:</b> 
-<p>Up to 90% of the monthly salary (capped at $3,000 per month)</p>
+<b>1. Standard Rate for Singapore Citizens and Permanent Residents:</b><br>Up to 70% of monthly salary (capped at $2,000 per month)
+<b>2. Enhanced Rate for Singapore Citizen Mature Workers (aged 40 and above) only:</b><br>Up to 90% of the monthly salary (capped at $3,000 per month)
 
 <b>Salary support based on the duration of the programme (maximum 3 months)</b>
  
-For more information on this programme, please email to <a href="mailto:upskill@sirs.edu.sg">upskill@sirs.edu.sg</a>
-
-<p>For <a href="/services/consultancy/skillsfuture-credit">SkillsFuture Credit</a>: For the reference code of all courses, please click <a href="/documents-2021/SIRS-SkillsFuture-CourseRefNumber.pdf">here.</a></p>
-
-<p>For more information about funding and support, click <a href="/services/consultancy">here.</a></p>
+<p>For more information on this programme, please email to <a href="mailto:upskill@sirs.edu.sg">upskill@sirs.edu.sg</a></p>
