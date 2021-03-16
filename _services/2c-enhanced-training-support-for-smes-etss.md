@@ -32,5 +32,3 @@ second_nav_title: "Consultancy"
 
 <h4>Where can I get more information on ETSS?</h4>
 <p>You may visit <a href="https://www.ssg.gov.sg/programmes-and-initiatives/funding/enhanced-training-support-for-smes1.html">SkillsFuture Singapore</a> for more information on ETSS.</p>
-
-<b>Use Enhanced Training Support For SMEs (ETSS) to sign up SIRS programmes today!</b>
