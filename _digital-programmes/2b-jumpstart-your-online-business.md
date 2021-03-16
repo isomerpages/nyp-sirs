@@ -26,7 +26,7 @@ answering customers enquiries and aligning business practices to support online 
 <li>Discover what product catalogue management is - learn to curate products that can be effectively sold online, review and refine product selection over time</li>
 <li>Learn best practices on creating content for product listing including writing effective product listing, briefing photographer on product photography, reviewing 
 content and boost sales</li>
-<em>Bonus: Professional product photography for up to 20 products included!</em>
+<i>Bonus: Professional product photography for up to 20 products included!</i>
 </ul>
 
 <h4>Fees</h4>
