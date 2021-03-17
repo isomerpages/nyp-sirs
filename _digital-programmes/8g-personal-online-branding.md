@@ -9,16 +9,12 @@ second_nav_title: "SkillsFuture Series"
 
 <img src="images/sf-series-banner.png" style="width:100%;">
 
-<p>This programme will help participants to understand the importance of online professional profile. They will learn through hands-on session to develop an effective personal online branding strategy through various social media. </p>
+<p>This programme will help participants to understand the importance of online professional profile. They will learn through hands-on session to develop an effective personal online branding strategy through various social media.</p>
 
 <h4>Outline</h4>
 <ul>
-  <li>Understand the importance of personal online branding</li>
-  <li>Develop an effective Personal Online Branding Strategy</li>
-  <li>Create an effective Linkedin Profile – The 4 Essentials</li>
-  <li>Getting recommendation on Linkedin</li>
-  <li>How to create and/or improve Linkedin Profile</li>
-  <li>How to brand yourself on social media platforms – Facebook and Instagram</li>
+  <li>Develop online branding</li>
+  <li>Branding on social platforms</li>
   <li>Privacy and security</li>
   </ul>
 
@@ -62,6 +58,8 @@ second_nav_title: "SkillsFuture Series"
 <li>SkillsFuture Credit</li>
 <li>UTAP Funding (for NTUC members)</li>
 </ul>
+
+<p>For <a href="/services/consultancy/skillsfuture-credit">SkillsFuture</a> course reference, please click <a href="/documents-2021/SIRS-SkillsFuture-CourseRefNumber.pdf">here.</a></p>
 
 <p>For more information about funding and support, click <a href="/services/consultancy">here.</a></p>
 
