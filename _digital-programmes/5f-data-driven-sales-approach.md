@@ -60,12 +60,12 @@ their marketing plans and seek clear direction to drive breakthrough in business
 </tr>
 
 <tr>
-<td>Singapore Citizen 40 years & above<sup>1</sup> (90% funding)</td>
+<td>Singapore Citizen 40 years & above (90% funding)</td>
 <td>$60.50</td>
 </tr>
 
 <tr>
-  <td>Singapore Citizen/SPR sponsored by SMEs<sup>2</sup> (90% funding)</td>
+  <td>Singapore Citizen/SPR sponsored by SMEs (90% funding)</td>
 <td>$60.50</td>
 </tr>
 
@@ -78,16 +78,16 @@ their marketing plans and seek clear direction to drive breakthrough in business
 
 <p>This course is also eligible for the following:</p>
 
-<p>For self-sponsored participants:</p>
+<b>For self-sponsored participants:</b>
 <ul>
   <li><a href="/services/consultancy/skillsfuture-credit">SkillsFuture Credit</a></li>
-  <li><a href="/services/consultancy/workfare-skills-support-wss">Workfare Skills Support (WSS) Scheme</a></li>
+  <li><a href="/services/consultancy/wss-individuals">Workfare Skills Support (WSS) Scheme (For Individuals)</a></li>
 </ul>
-  
-<p>For company-sponsored participants:</p>
+
+<b>For company-sponsored participants:</b>
 <ul>
   <li><a href="/services/consultancy/absentee-payroll-ap">Absentee Payroll</a></li>
-  <li><a href="/services/consultancy/workfare-skills-support-wss">Workfare Skills Support (WSS) Scheme (Absentee Payroll)</a></li>
+  <li><a href="/services/consultancy/wss-companies">Workfare Skills Support (WSS) Scheme (For Companies)</a></li>
   </ul>
 
 <p>For <a href="/services/consultancy/skillsfuture-credit">SkillsFuture</a> course reference, please click <a href="/documents-2021/SIRS-SkillsFuture-CourseRefNumber.pdf">here.</a></p>
