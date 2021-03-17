@@ -23,7 +23,7 @@ second_nav_title: National Silver Academy
 <p>Participants must bring their own smart devices such smartphone/iPad/tablet for class.</p>
 
 <h4>Duration</h4>
-<p>9am - 1pm</p>
+<p>9am - 1pm (4 hours)</p>
 
 <h4>Fees</h4>
 
