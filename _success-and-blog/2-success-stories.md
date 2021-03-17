@@ -10,26 +10,18 @@ second_nav_title: Success Stories
 
 <h4>Let Our Clients Speak for Us</h4>
 <p>Read how our clients, after attending our programmes, transform their business successfully to digital platforms, increase sales and achieve greater branding awareness.</p>
-<li><b>Activhealth (Singapore)</b></li>
-<p>Activhealth attained clarity in crafting digital strategy. Read full story <a href="/success-and-blog/success-stories/activhealth">here.</a></p>
+<h4>Activhealth (Singapore)</h4><br>Activhealth attained clarity in crafting digital strategy. Read full story <a href="/success-and-blog/success-stories/activhealth">here.</a>
 
-<li><b>BEST Denki Singapore</b></li>
-<p>BEST Denki increased sales by 100% within 6 months. Read full story <a href="/success-and-blog/success-stories/best-denki">here.</a></p>
+<h4>BEST Denki Singapore</b></h4><br>BEST Denki increased sales by 100% within 6 months. Read full story <a href="/success-and-blog/success-stories/best-denki">here.</a>
 
-<li><b>BHG (Singapore)</b></li>
-<p>BHG (Singapore) successfully implemented reinvention plan despite COVID-19 constraints. Read full story <a href="/success-and-blog/success-stories/bhg">here.</a></p>
+<h4>BHG (Singapore)</h4><br>BHG (Singapore) successfully implemented reinvention plan despite COVID-19 constraints. Read full story <a href="/success-and-blog/success-stories/bhg">here.</a>
 
-<li><b>D’Elegance</b></li>
-<p>D’Elegance converts motivated and talented mid-career PMETs to reskill and take on new job roles. Read full story <a href="/success-and-blog/success-stories/d-elegance">here.</a></p>
+<h4>D’Elegance</h4><br>D’Elegance converts motivated and talented mid-career PMETs to reskill and take on new job roles. Read full story <a href="/success-and-blog/success-stories/d-elegance">here.</a>
 
-<li><b>Fullhouse Home Furnishings</b></li>
-<p>Fullhouse’s sales revenue made a quantum leap from 9 million in 8 months to 7 million in 3 months. Read full story <a href="/success-and-blog/success-stories/fullhouse-home-furnishings">here.</a></p>
+<h4>Fullhouse Home Furnishings</h4><br>Fullhouse’s sales revenue made a quantum leap from 9 million in 8 months to 7 million in 3 months. Read full story <a href="/success-and-blog/success-stories/fullhouse-home-furnishings">here.</a>
 
-<li><b>Mighty Velo Singapore</b></li>
-<p>Mighty Velo gained deeper understanding on online business model and business patterns. Read full story <a href="/success-and-blog/success-stories/mighty-velo">here.</a></p>
+<h4>Mighty Velo Singapore</h4><br>Mighty Velo gained deeper understanding on online business model and business patterns. Read full story <a href="/success-and-blog/success-stories/mighty-velo">here.</a>
 
-<li><b>Unidbox Hardware</b></li>
-<p>Heartland SME Unidbox Hardware’s online breakthrough. Read full story <a href="/success-and-blog/success-stories/unidbox-hardware">here.</a></p>
+<h4>Unidbox Hardware</h4><br>Heartland SME Unidbox Hardware’s online breakthrough. Read full story <a href="/success-and-blog/success-stories/unidbox-hardware">here.</a>
 
-<li><b>Mr Kwan Kah Huei</b></li>
-<p>An entrepreneur’s journey to become one of the top sellers on Lazada. Read full story <a href="/success-and-blog/success-stories/mr-kwan-kah-huei">here.</a></p>
+<h4>Mr Kwan Kah Huei</h4><br>An entrepreneur’s journey to become one of the top sellers on Lazada. Read full story <a href="/success-and-blog/success-stories/mr-kwan-kah-huei">here.</a>
