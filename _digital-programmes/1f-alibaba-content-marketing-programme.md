@@ -33,25 +33,47 @@ Holistic Hands-on Content Marketing Techniques</center>
 
 <p>完成课程后的学员将获得由阿里巴巴商学院和新加坡零售管理学院所颁发的毕业证书。</p>
 
-<h4>Highlights</h4>
+<h4>Outline</h4>
+
+<b>Optimise Content Marketing Strategy and Learn Creative Image-text and Video Skills</b>
 <ul>
-  <li>Optimise Content Marketing Strategy and Learn Creative Image-text and Video Skills</li>
-  <li>Successful Live-streaming Operations</li>
-  <li>Become a Key Opinion Leader (KOL) to Attract, Engage, and Convert Your Audience</li>
-  <li>Art and Science of Video Production</li>
-  <li>Fans Economy: Grow and Manage Your Fan Base</li>
-</ul>
+  <li>Recognise the trends in content marketing</li>
+  <li>Introduction to new content marketing methods – live-streaming, image-text, short videos, etc</li>
+  <li>Understand the new strategy of content marketing</li>
+  <li>Learn to optimise the positioning of image-text</li>
+  <li>Pick up image-text creative skills</li>
+  </ul>
 
-<h4>Testimonials</h4>
+<b>Successful Live-streaming Operations</b>
+<ul>
+  <li>Know the reasons behind the popularity of live-streaming</li>
+  <li>Gain in-depth understanding of the elements for a successful live-streaming and the methods that can be replicated</li>
+  <li>Create a live-streaming session: a comprehensive review of the processes</li>
+  <li>Uncover the secrets to maximising an anchor’s advantage – ways to position yourself for the win</li>
+  </ul>
 
-<i>"Through the Alibaba Content Marketing Programme, the trainers break down the various operations and explain them in-depth. The first day of the course was very insightful because the trainer showcased lots of data that is very useful in understanding the importance of content marketing, while second and third days are more interactive, and how to create livestreams."</i><br>
-<b>- Shaynen Tan, Brand & Marketing Manager, D'Elegance</b>
+<b>Become a Key Opinion Leader (KOL) to Attract, Engage, and Convert Your Audience</b>
+<ul>
+  <li>Learn key skills of a Key Opinion Leader (KOL) and the interaction skills necessary for live-streaming</li>
+  <li>Acquire advanced skills of a KOL - Product selection, promotion, improvement of influence and more</li>
+  <li>Data review: The preparation for your next live-streaming</li>
+  </ul>
 
-<i>"We need to always learn and innovate, which is why I always listen to other industry players or attend such programmes. This course came from Alibaba Business School, and seeing how advanced they are in the retail environment with the use of omni-channel is something that I found very fascinating. The two areas that got me interested and are applicable would be very much on livestreaming operations and the fan economy."</i><br>
-<b>- Rachel Pang, Director, OC Group</b>
+<b>Art and Science of Video Production</b>
+<ul>
+  <li>Understand the definition, trends and significance of video marketing through case studies</li>
+  <li>Plan the content for scripts of brand videos, product videos, and promotional videos</li>
+  <li>Develop a creative video structure through copywriting and advertising techniques</li>
+  <li>Learn the before, during and after processes of making a video - preparations, techniques & editing</li>
+  <li>Understand the rules and procedures to publish a completed video</li>
+  </ul>
 
-<i>"Through the Alibaba Content Marketing Programme, I have learned how to gain an edge through content marketing, such as the knowledge of how to write or the angles of photos that I have to take to make it appealing to the fanbase."</i><br>
-<b>- Clarissa Guo, Business Development Manager, AOne F&B Group</b>
+<b>Fans Economy: Grow and Manage Your Fan Base</b>
+<ul>
+  <li>Learn ways to grow your fan base</li>
+  <li>Establish an effective mechanism to protect your fan base</li>
+  <li>How to manage and maintain your fan base</li>
+  </ul>
 
 <h4>Fees</h4>
 
