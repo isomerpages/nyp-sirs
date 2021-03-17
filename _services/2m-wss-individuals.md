@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content 
-title: Workfare Skills Support (WSS) (For Individuals)
+title: Workfare Skills Support (WSS) Scheme (For Individuals)
 permalink: /services/consultancy/wss-individuals
-breadcrumb: Workfare Skills Support (WSS) (For Individuals)
+breadcrumb: Workfare Skills Support (WSS) Scheme (For Individuals)
 collection_name: services
 second_nav_title: "Consultancy"
 ---
