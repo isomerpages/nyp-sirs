@@ -20,7 +20,7 @@ second_nav_title: "WSQ Certified Modular Programmes"
 <li>Insights into changing customer behaviour</li>
  </ul>
 
-<h4>Learning Outcomes</h4>
+<h4>Outline</h4>
 <ul>
 <li>Understand New Retail: New landscape, new customers</li>
 <li>Determine and meet diverse customer requirements</li>
