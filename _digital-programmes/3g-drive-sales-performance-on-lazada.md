@@ -26,14 +26,14 @@ second_nav_title: "E-Commerce Programmes"
 
 <h4>Outline</h4>
 <ol>  
-<li>Understand How to Use the Store Builder
+<li><b>Understand How to Use the Store Builder</b>
     <ul>
 <li>Showcase hero products and attractive promotions</li>
 <li>In-built banner design tools to attract followers</li>
     </ul>
     </li>
 
-<li>Understand How to Use the Chat Now Function
+<li><b>Understand How to Use the Chat Now Function</b>
     <ul>
 <li>Build relationship with customer</li>
 <li>Automating messages</li>
@@ -41,13 +41,13 @@ second_nav_title: "E-Commerce Programmes"
     </ul>
     </li>
 
-<li>Understand How to Join Campaigns and Increase Your Product Exposure
+<li><b>Understand How to Join Campaigns and Increase Your Product Exposure</b>
     <ul>
 <li>Create settings in laptop and via mobile app</li>
     </ul>
     </li>
 
-<li>Improve Sales Conversion
+<li><b>Improve Sales Conversion</b>
     <ul>
 <li>Boost your best selling products visibility to increase exposure by 30%</li>
 <li>Increase sales and loyalty through the voucher function</li>
@@ -56,7 +56,7 @@ second_nav_title: "E-Commerce Programmes"
     </ul>
     </li>
 
-<li>Manage Sales Performance Using Lazada’s Business Advisor
+<li><b>Manage Sales Performance Using Lazada’s Business Advisor</b>
     <ul>
 <li>Monitor real time performance and read data</li>
 <li>Identify target SKUs to maximize sales</li>
