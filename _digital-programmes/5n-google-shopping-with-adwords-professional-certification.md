@@ -20,9 +20,6 @@ second_nav_title: "Masterclasses & Workshops"
 
 <p>Understanding Google AdWords and setting up best practices for Google Shopping Campaigns are important in digital marketing. The course aims to help online retailers to reap the benefits of Google Shopping through managing search, display, video and shopping campaigns.</p>
 
-<h4>Who Should Attend</h4>
-<p>This masterclass is suitable for Retailers, eCommerce Professionals, Entrepreneurs, Marketing, Operations, Customer Service personnel.</p>
-
 <h4>Outline</h4>
 <ul>
   <li>Introduction to Search fundamentals</li>
@@ -33,6 +30,9 @@ second_nav_title: "Masterclasses & Workshops"
 <li>Measuring & Optimizing AdWords Campaigns</li>
 <li>Fundamentals & Google Shopping Review: Google AdWords Fundamentals & Shopping Advertising Exam</li>
   </ul>
+  
+<h4>Who Should Attend</h4>
+<p>This masterclass is suitable for Retailers, eCommerce Professionals, Entrepreneurs, Marketing, Operations, Customer Service personnel.</p>
   
 <h4>Duration</h4>
 <p>3 days (9am - 6pm daily)</p>
