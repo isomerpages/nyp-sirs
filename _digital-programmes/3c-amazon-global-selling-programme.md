@@ -51,6 +51,7 @@ second_nav_title: "E-Commerce Programmes"
             <li>Understand the FBA shipment creation workflow</li>
             <li>Learn how to optimise packaging and labelling, and FBA product restrictions</li>
       </ul>
+      </ol>
 
 <h4>Duration</h4>
 <p>9am - 6pm (1 day)</p>
