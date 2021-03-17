@@ -33,7 +33,7 @@ second_nav_title: "E-Commerce Programmes"
   <li>Identify the 4 components of managing an online business and the magic formulas to succeeding on Amazon</li>
   <li>Learn to choose the right product categories for your goods</li>
   </ul>
-  <li>Practical Hands-on Session</li>
+  <li>Walkthrough Session</li>
   <ul>
   <li>Register for an Amazon seller account</li>
       <ul>
@@ -41,6 +41,7 @@ second_nav_title: "E-Commerce Programmes"
             <li>Seller identity verification</li>
       </ul>
   <li>Create product listings</li>
+      <ul>
             <li>Category approval process</li>
             <li>Barcode/Global Trade Item Number (GTIN) exemption</li>
       </ul>
@@ -100,7 +101,7 @@ second_nav_title: "E-Commerce Programmes"
   <li><a href="/services/consultancy/absentee-payroll-ap">Absentee Payroll</a></li>
 </ul>
 
-<p>For <a href="/services/consultancy/skillsfuture-credit">SkillsFuture Credit</a>: For the reference code of all courses, please click <a href="/documents-2021/SIRS-SkillsFuture-CourseRefNumber.pdf">here.</a></p>
+<p>For <a href="/services/consultancy/skillsfuture-credit>SkillsFuture</a> course reference, please click <a href="/documents-2021/SIRS-SkillsFuture-CourseRefNumber.pdf">here.</a></p>
 
 <p>For more information about funding and support, click <a href="/services/consultancy">here.</a></p>
 
