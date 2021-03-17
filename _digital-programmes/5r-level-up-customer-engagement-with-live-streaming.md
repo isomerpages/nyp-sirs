@@ -38,12 +38,13 @@ looking for new channels to engage customers.</p>
 <i>*Participants with basic knowledge in digital marketing will benefit from this workshop. If not, you are strongly
 encouraged to attend our ‘Introduction to Digital Marketing’ course.</i>
 
-<h4>Requirements</h4>
+<h4>Outline</h4>
 <ul>
-<li>Bring along a mobile device (phone/tablet) with camera*</li>
-<li>Ensure the mobile device has at least 10 GB of free space</li>
-<li>Have a Facebook account</li>
-<i>To ensure a better learning experience, laptop with camera is preferred but not required</i>
+<li>Plan and create content, script and programme flow for your live streaming</li>
+<li>Prepare and set-up for live streaming</li>
+<li>Leverage on social media and drive traffic to your live streaming</li>
+<li>Manage live streaming as a host</li>
+<li>Monitor effectiveness of your live streaming</li>
 </ul>
 
 <h4>Who Should Attend*</h4>
@@ -53,13 +54,12 @@ professionals/executives, social media specialists who are looking for new chann
 <i>*Participants with basic knowledge in digital marketing will benefit from this workshop. If not, you are strongly
 encouraged to attend our <a href="/digital-programmes/skillsfuture-series/introduction-to-digital-marketing">Introduction to Digital Marketing</a> course.</i>
 
-<h4>Outline</h4>
+<h4>Requirements</h4>
 <ul>
-<li>Plan and create content, script and programme flow for your live streaming</li>
-<li>Prepare and set-up for live streaming</li>
-<li>Leverage on social media and drive traffic to your live streaming</li>
-<li>Manage live streaming as a host</li>
-<li>Monitor effectiveness of your live streaming</li>
+<li>Bring along a mobile device (phone/tablet) with camera*</li>
+<li>Ensure the mobile device has at least 10 GB of free space</li>
+<li>Have a Facebook account</li>
+<i>To ensure a better learning experience, laptop with camera is preferred but not required</i>
 </ul>
 
 <h4>Duration</h4>
