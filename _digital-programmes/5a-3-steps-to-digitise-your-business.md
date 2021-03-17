@@ -8,6 +8,14 @@ second_nav_title: "Masterclasses & Workshops"
 ---
 <img src="images-2021/DigitalProgrammes-Image-Masterclass.png" style="width:100%;">
 
+<h4 style="text-align:center;">Next intake:</h4>
+
+<center><table style="width:80%;">
+    <tr style="text-align:center;">
+      <td style="text-align:center;width:50%;">To be confirmed</td>
+    </tr>
+</table></center>
+
 <p>In this digital world we live in, it is no longer a matter of whether a business should become digitised, it is
 a matter of when. It is a journey which aims at leveraging the power of digital technologies to automate
 processes and provide intelligence and actionable insights to enabling business outcome more quickly.</p>
@@ -31,6 +39,9 @@ Decision, Actions to Connect, Share, Swarm, Conversion</li>
 questions asked returns, free shipment, payment gateway, customer services via chat instead of
 call centre, click and collect set ups, big and micro data analysis, etc</li>
 </ul>
+
+<h4>Duration</h4>
+<p>9am - 6pm (8 hours)</p>
 
 <h4>Trainer Profile</h4>
 <p><b>David Lee</b><br>
