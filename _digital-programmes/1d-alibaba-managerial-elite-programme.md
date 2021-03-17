@@ -150,6 +150,9 @@ second_nav_title: "Alibaba Business School"
 <h4>Duration</h4>
 <p>5 days (40 hours)</p>
 
+<h4>课程时间</h4>
+<p>5天 (40小时)</p>
+
 <h4>Fees</h4>
 
 <center>
