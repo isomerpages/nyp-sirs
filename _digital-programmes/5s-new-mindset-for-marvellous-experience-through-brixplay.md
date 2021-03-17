@@ -8,6 +8,14 @@ second_nav_title: "Masterclasses & Workshops"
 ---
 <img src="images-2021/DigitalProgrammes-HImage-Workshop.png" style="width:100%;">
 
+<h4 style="text-align:center;">Next intake:</h4>
+
+<center><table style="width:80%;">
+    <tr style="text-align:center;">
+      <td style="text-align:center;width:50%;">To be confirmed</td>
+    </tr>
+</table></center>
+
 <p>According to Stanford psychologist Carol Dweck, the best predictor of success in what you do is your
 mindset. You can either view every situation ‘glass half full’ or ‘glass half empty’. Mindset is the established
 set of attitudes held by someone, a belief that orients the way we handle situations - the way we sort out
@@ -18,8 +26,6 @@ brixPLAY methodology, participants will discover and share new points of view an
 think and behave. With the new skills and mindset acquired, they will be able to offer customers quality
 services and marvellous experiences.</p>
 
-<p>This workshop is ideal for managers, supervisors, service crews and SME owners.</p>
-
 <h4>Outline</h4>
 <ul>
 <li>Understanding what kind of mindset is important to create customer experience and service excellence</li>
@@ -29,6 +35,12 @@ services and marvellous experiences.</p>
 <li>Sustaining the growth mindset</li>
 <li>Striving towards Service Excellence</li>
 </ul>
+
+<h4>Who Should Attend</h4>
+<p>This workshop is ideal for managers, supervisors, service crews and SME owners.</p>
+
+<h4>Duration</h4>
+<p>9am - 6pm (8 hours)</p>
 
 <h4>Fees</h4>
 
