@@ -8,6 +8,14 @@ second_nav_title: "Masterclasses & Workshops"
 ---
 <img src="images-2021/DigitalProgrammes-HImage-Workshop.png" style="width:100%;">
 
+<h4 style="text-align:center;">Next intake:</h4>
+
+<center><table style="width:80%;">
+    <tr style="text-align:center;">
+      <td style="text-align:center;width:50%;">To be confirmed</td>
+    </tr>
+</table></center>
+
 <p>Customers are everything for all businesses. For this reason, it is important for any businesses to
 continuously be in touch with their customers. This is especially true when we are living in a digitally
 connected era, where our customers can easily be engaged by your competitors.</p>
@@ -19,6 +27,9 @@ customers tend to spend more money and be more loyal.</p>
 
 <p>This workshop is designed to equip individuals to generate ideas and opportunities to engage customers in the digital world.</p>
 
+<h4>Who Should Attend</h4>
+<p>This workshop is suitable for individuals involved in generating ideas and opportunities to engage customers in the digital world.</p>
+  
 <h4>Outline</h4>
 <ul>
 <li>Understanding the evolution of retail with changing habits and trends</li>
@@ -28,6 +39,9 @@ customers tend to spend more money and be more loyal.</p>
 <li>Understanding customer’s intent to shape customer experience</li>
 <li>Redefining the service personnel role and to upgrade capabilities</li>
 </ul>
+
+<h4>Duration</h4>
+<p>9am - 6pm (8 hours)</p>
 
 <h4>Fees</h4>
 
