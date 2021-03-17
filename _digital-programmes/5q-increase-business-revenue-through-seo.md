@@ -23,14 +23,6 @@ second_nav_title: "Masterclasses & Workshops"
 
 <p>With a good understanding of online marketing demands, it will enable participants to determine the right digital mediums. Participants will also learn to develop content that can influence online customers purchase decisions, apply effective measurements of digital campaigns and formulate actionable review plans.</p>
 
-<h4>Who Should Attend</h4>
-<p>This masterclass is suitable for marketing professionals and web & content developers who would like to:</p>
-<ul>
-  <li>Acquire an overview of existing industry practices in digital marketing and SEO</li>
-  <li>Understand the change in consumer behaviour to adapt their business marketing plans</li>
-  <li>Seek clear direction to drive breakthrough marketing campaigns</li>
-  </ul>
-
 <h4>Outline</h4>
 <ul>
 <li>Acquire the fundamental knowledge to analyse and devise digital strategies that aid in  business decision making</li>
@@ -40,6 +32,14 @@ second_nav_title: "Masterclasses & Workshops"
   <li>Formulate digital campaigns with measurable outcomes</li>
   </ul>
   
+<h4>Who Should Attend</h4>
+<p>This masterclass is suitable for marketing professionals and web & content developers who would like to:</p>
+<ul>
+  <li>Acquire an overview of existing industry practices in digital marketing and SEO</li>
+  <li>Understand the change in consumer behaviour to adapt their business marketing plans</li>
+  <li>Seek clear direction to drive breakthrough marketing campaigns</li>
+  </ul>
+
 <h4>Duration</h4>
 <p>9am - 6pm (8 hours)</p>
   
