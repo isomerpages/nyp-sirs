@@ -76,8 +76,8 @@ second_nav_title: "WSQ Full Qualification Programmes"
 </table>
 </center>
 
-<small><i><sup>1</sup>Singapore Citizens eligible for Mid-Career Enhanced Subsidy<br>
-<sup>2</sup>Additional funding under the Enhanced Training Support for SMEs (ETSS)<br>
+<small><i><sup>1</sup>Singapore Citizens eligible for <a href="/services/consultancy/skillsfuture-midcareer-enhanced-subsidy">SkillsFuture Mid-Career Enhanced Subsidy (MCES)</a><br>
+<sup>2</sup>Additional funding under the <a href="/services/consultancy/etss">Enhanced Training Support for SMEs (ETSS)</a><br>
 Fees include prevailing GST</i></small>
 
 <h4>Additional Support</h4>
@@ -88,15 +88,15 @@ Fees include prevailing GST</i></small>
 <ul>
   <li><a href="/services/consultancy/skillsfuture-credit">SkillsFuture Credit</a></li>
   <li><a href="/services/consultancy/utap">Union Training Assistance Programme (UTAP)</a></li>
-  <li><a href="/services/consultancy/workfare-skills-support-wss">Workfare Skills Support (WSS) Scheme</a></li>
-  <li><a href="https://programmes.myskillsfuture.gov.sg/QualificationAward/ProgrammeDetails.aspx">SkillsFuture Qualification Award $1,000</a></li>
+  <li><a href="/services/consultancy/wss-individuals">Workfare Skills Support (WSS) Scheme (For Individuals)</a></li>
+  <li><a href="/services/consultancy/skillsfuture-qualification-award">SkillsFuture Qualification Award $1,000</a></li>
   <li><a href="/services/consultancy/skillsfuture-study-awards">SkillsFuture Study Awards</a></li>
 </ul>
 
 <b>For company-sponsored participants:</b>
 <ul>
   <li><a href="/services/consultancy/absentee-payroll-ap">Absentee Payroll</a></li>
-  <li><a href="/services/consultancy/workfare-skills-support-wss">Workfare Skills Support (WSS) Scheme (Absentee Payroll)</a></li>
+  <li><a href="/services/consultancy/wss-companies">Workfare Skills Support (WSS) Scheme (For Companies)</a></li>
   </ul>
   
 <p>For <a href="/services/consultancy/skillsfuture-credit">SkillsFuture</a> course reference, please click <a href="/documents-2021/SIRS-SkillsFuture-CourseRefNumber.pdf">here.</a></p>
