@@ -8,6 +8,14 @@ second_nav_title: "Masterclasses & Workshops"
 ---
 <img src="images-2021/DigitalProgrammes-HImage-Workshop.png" style="width:100%;">
 
+<h4 style="text-align:center;">Next intake:</h4>
+
+<center><table style="width:80%;">
+    <tr style="text-align:center;">
+      <td style="text-align:center;width:50%;">To be confirmed</td>
+    </tr>
+</table></center>
+
 <p>Effective communication is the cornerstone of a productive workplace. Being able to communicate
 effectively in an organisation, staff will spend less time undoing misunderstandings with colleagues or
 customers. It promotes positive work environment and improve staff morale. In value creation, from
