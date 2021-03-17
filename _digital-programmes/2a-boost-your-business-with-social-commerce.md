@@ -49,7 +49,7 @@ e-commerce website, you will also learn to set up a Carousell store for payment 
 </table>
 </center>
 
-<small><i><sup>1</sup>Fee is under Enhanced Training Support Package (ETSP)<br>
+<small><i><sup>1</sup>Fee is under <a href="/services/consultancy/enhanced-training-support-package-etsp">Enhanced Training Support Package (ETSP)</a><br>
 Fees include prevailing GST</i></small>
 
 <p>For <a href="/services/consultancy/skillsfuture-credit">SkillsFuture</a> course reference, please click <a href="/documents-2021/SIRS-SkillsFuture-CourseRefNumber.pdf">here.</a></p>
