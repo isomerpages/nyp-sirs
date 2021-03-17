@@ -9,9 +9,20 @@ second_nav_title: "Masterclasses & Workshops"
 
 <img src="images-2021/DigitalProgrammes-Image-Masterclass.png" style="width:100%;">
 
+<h4 style="text-align:center;">Next intake:</h4>
+
+<center><table style="width:80%;">
+    <tr style="text-align:center;">
+      <td style="text-align:center;width:50%;">8 to 9 April 2021</td>
+    </tr>
+</table></center>
+
 <p>Following the rapid developments in e-commerce, it is increasingly crucial to understand the measurement framework that can help you better understand and achieve the effectiveness of your digital strategy. Data analytics has, therefore, become an important component which gives you the ability to track and optimise marketing campaigns by providing deep insights into multi-channel funnels and conversion attribution. The core analysis techniques are imperative in driving growth and success of digital business for retailers.</p>
 
 <p>This programme will cover the fundamentals of advanced certification topics in digital analytics, introduce key channels, concepts, metrics and determine how and where your business fits in the digital world.</p>
+
+<h4>Who Should Attend</h4>
+<p>This masterclass is suitable for any e-commerce executives involved in marketing, digital analytics or any customer-facing personnel.</p>
 
 <h4>Outline</h4>
 <ul>
@@ -20,6 +31,9 @@ second_nav_title: "Masterclasses & Workshops"
 <li>Understand advanced tools, and best practices to improve advertising and marketing ROI, measuring visitors’ engagement and creating advanced goals</li>
 <li>Uncover further details and insights into your Google Analytics data by tackling topics such as customised tracking code, filtering analytics data, setting up goals and funnels, and tracking interactive elements</li>
   </ul>
+  
+<h4>Duration</h4>
+<p>2 days (9am - 6pm daily)</p>
   
 <h4>Trainer Profile</h4>
 <p><b>Ivan Wong</b><br>
