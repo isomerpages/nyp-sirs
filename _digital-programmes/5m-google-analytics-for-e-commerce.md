@@ -21,9 +21,6 @@ second_nav_title: "Masterclasses & Workshops"
 
 <p>This programme will cover the fundamentals of advanced certification topics in digital analytics, introduce key channels, concepts, metrics and determine how and where your business fits in the digital world.</p>
 
-<h4>Who Should Attend</h4>
-<p>This masterclass is suitable for any e-commerce executives involved in marketing, digital analytics or any customer-facing personnel.</p>
-
 <h4>Outline</h4>
 <ul>
   <li>An overview of key digital trends and marketing techniques, from search engine marketing to content marketing and influencer outreach</li>
@@ -31,6 +28,9 @@ second_nav_title: "Masterclasses & Workshops"
 <li>Understand advanced tools, and best practices to improve advertising and marketing ROI, measuring visitors’ engagement and creating advanced goals</li>
 <li>Uncover further details and insights into your Google Analytics data by tackling topics such as customised tracking code, filtering analytics data, setting up goals and funnels, and tracking interactive elements</li>
   </ul>
+
+<h4>Who Should Attend</h4>
+<p>This masterclass is suitable for any e-commerce executives involved in marketing, digital analytics or any customer-facing personnel.</p>
   
 <h4>Duration</h4>
 <p>2 days (9am - 6pm daily)</p>
