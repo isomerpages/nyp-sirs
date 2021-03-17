@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content 
-title: Workfare Skills Support (WSS) (For Companies)
+title: Workfare Skills Support (WSS) Scheme (For Companies)
 permalink: /services/consultancy/wss-companies
-breadcrumb: Workfare Skills Support (WSS) (For Companies)
+breadcrumb: Workfare Skills Support (WSS) Scheme (For Companies)
 collection_name: services
 second_nav_title: "Consultancy"
 ---
