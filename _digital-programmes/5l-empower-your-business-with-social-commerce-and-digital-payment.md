@@ -29,9 +29,6 @@ experience on social media platforms.</p>
 masterclass to help you gain in-depth knowledge to help your business grow and expand in its outreach
 and revenue.</p>
 
-<h4>Who Should Attend</h4>
-<p>This masterclass is suitable for Business Owners, C-Suite, Senior Management, Decision Makers, Marketers and Sales Associates.</p>
-
 <h4>Outline</h4>
 
 <ul>
@@ -58,12 +55,14 @@ and revenue.</p>
   </ul>
 </ul>
 
+<h4>Who Should Attend</h4>
+<p>This masterclass is suitable for Business Owners, C-Suite, Senior Management, Decision Makers, Marketers and Sales Associates.</p>
+
 <h4>Duration</h4>
 <p>1 day (9am - 6pm)</p>
 
 <h4>Trainer Profile</h4>
 <p><b>Simon Woon</b><br>
-
 
 <p>Simon Woon is an independent trainer who brings with him a plethora of skill sets including over 6 years of
 experience establishing expertise in social media, WeChat marketing, cashless and cross-border payment
