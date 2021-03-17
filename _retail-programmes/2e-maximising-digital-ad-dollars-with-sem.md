@@ -35,9 +35,10 @@ second_nav_title: "WSQ Certified Modular Programmes"
 <li>Day 1 - 4: 9am to 4pm</li>
 
 <h4>Entry Requirements</h4>
+<ul>
 <li>GCE ‘O’ level Credit (at least C6) in English and Mathematics or Workplace Literacy and Numeracy (WPLN) score: Level 6 for Reading, Listening and Numeracy, and</li>
 <li>With at least 3 years supervisory/managerial working experience in retail or Professional/Managerial/Management Executive (PME) position in non-retail sector</li>
-
+</ul>
 
 <h4>Fees</h4>
 
@@ -71,8 +72,8 @@ second_nav_title: "WSQ Certified Modular Programmes"
 </table>
 </center>
 
-<small><i><sup>1</sup>Singapore Citizens eligible for Mid-Career Enhanced Subsidy<br>
-<sup>2</sup>Additional funding under the Enhanced Training Support for SMEs (ETSS)<br>
+<small><i><sup>1</sup>Singapore Citizens eligible for <a href="/services/consultancy/skillsfuture-midcareer-enhanced-subsidy">SkillsFuture Mid-Career Enhanced Subsidy (MCES)</a><br>
+<sup>2</sup>Additional funding under the <a href="/services/consultancy/etss">Enhanced Training Support for SMEs (ETSS)</a><br>
 Fees include prevailing GST</i></small>
 
 <h4>Additional Support</h4>
