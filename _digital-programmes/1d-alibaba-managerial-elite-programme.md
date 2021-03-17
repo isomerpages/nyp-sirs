@@ -33,13 +33,8 @@ second_nav_title: "Alibaba Business School"
 
 <p>完成课程后的学员将获得由阿里巴巴商学院和新加坡零售管理学院所颁发的毕业证书。</p>
 
-<h4>Highlights</h4>
-<ul>
-  <li>Understanding the Chinese digital commerce landscape and cross-border trade</li>
-  <li>Analysing and optimising your digital commerce performance</li>
-  <li>Strategising store marketing and promotional activities for conversion</li>
-  <li>Enhancing digital store presentation with visual marketing and short video marketing</li>
-</ul>
+<h4>Who Should Attend</h4>
+<p>This programme is suitable for Digital Professionals, Online Business Owners, E-Commerce Managers, and Digital Marketers.</p>
 
 <h4>Outline</h4>
 <b>China Digital Commerce Scenario and Cross Border Trade</b>
@@ -151,6 +146,9 @@ second_nav_title: "Alibaba Business School"
     </ul>
   </li>
   </ul>
+  
+<h4>Duration</h4>
+<p>5 days (40 hours)</p>
 
 <h4>Fees</h4>
 
