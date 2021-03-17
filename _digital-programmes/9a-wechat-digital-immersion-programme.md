@@ -29,10 +29,6 @@ WeChat in consumers’ daily life, thereby offering practical insights for busin
 <p>Join us in this experiential learning trip and future proof your e-Commerce strategy design through
 understanding the future of mobile integrated e-Commerce space.</p>
 
-<h4>Who Should Attend</h4>
-<p>This programme is suitable for Business Owners, Decision Makers, Head of Departments, and
-C-suite Level.</p>
-
 <h4>Outline</h4>
 <ul>
 <li>Learn about the Tencent eco-system and opportunities to harness the prowess of new retail,
@@ -44,6 +40,9 @@ sales conversion & loyalty</li>
 <li>Experience first-hand and learn how to leverage the pervasive mobile commerce culture and
 lifestyle of your customers</li>
 </ul>
+
+<h4>Who Should Attend</h4>
+<p>This programme is suitable for Business Owners, Decision Makers, Head of Departments, and C-suite Level.</p>
 
 <h4>Fees</h4>
 
