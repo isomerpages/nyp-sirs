@@ -26,7 +26,7 @@ second_nav_title: "E-Commerce Programmes"
 
 <h4>Outline</h4>
 <ol>
-<li>Understand the Digital Commerce World
+<li><b>Understand the Digital Commerce World</b>
     <ul>
 <li>Know the current trends in your product</li>
 <li>Understand how mobile purchasing affects your business</li>
@@ -35,20 +35,20 @@ second_nav_title: "E-Commerce Programmes"
 <li>Learn how to source for products</li>
         </ul>
 </li>
-<li>Maximize and Boost Your Sales
+<li><b>Maximize and Boost Your Sales</b>
     <ul>
 <li>Understand the difference between eMarketplace, webstore, blogshop and social media shop</li>
 <li>Understand the 4 key components: Storefront, Payment Gateway, Marketing, Operations </li>
 <li>Apply the Golden Rule : Traffic x Conversion Rate x Average Order Value</li>
         </ul>
 </li>
-<li>Effective Product Content Creation
+<li><b>Effective Product Content Creation</b>
     <ul>
 <li>Understand the importance of product categorization</li>
 <li>Know how to upload product content, through single & mass upload</li>
         </ul>
 </li>
-<li>Practical Session
+<li><b>Practical Session</b>
     <ul>
 <li>Hands-on session of setting up your store and managing orders</li>
 <li>Understand Seller Centre app & support</li>
