@@ -21,9 +21,6 @@ second_nav_title: "Masterclasses & Workshops"
 
 <p>This is an introductory program that is suitable for acquiring an overview of existing industry practices in digital marketing and SEO, looking to understand the change in consumer behaviour to adapt their business marketing plans, and seeking clear direction to drive breakthrough marketing campaigns.</p>
 
-<h4>Requirements</h4>
-<p>Participants are required to have a Gmail account, bring a laptop and have Google Chrome (Safari on Mac) browser installed for constant practice.</p>
-
 <h4>Outline</h4>
 <ul>
 <li>Introduction to today’s digital space</li>
@@ -35,6 +32,9 @@ second_nav_title: "Masterclasses & Workshops"
 <li>Evaluating digital campaigns & key metrics</li>
 <li>Create a simple framework to evaluate campaign success or failure and understand key metrics from Google Analytics and Google Webmaster tools</li>
   </ul>
+
+<h4>Requirements</h4>
+<p>Participants are required to have a Gmail account, bring a laptop and have Google Chrome (Safari on Mac) browser installed for constant practice.</p>
   
 <h4>Duration</h4>
 <p>9am - 6pm (8 hours)</p>
