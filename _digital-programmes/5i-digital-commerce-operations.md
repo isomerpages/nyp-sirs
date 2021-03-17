@@ -26,9 +26,6 @@ operates.</p>
 360 view of the e-commerce landscape and learn holistic operational functions critical to a successful
 online business.ands-on exercise of creating a 5-stage results-focused digital business plan for e-Marketplace ecosystem.</p>
 
-<h4>Who Should Attend</h4>
-<p>This masterclass is suitable for entrepreneurs, marketing, operations, and customer service.</p>
-
 <h4>Outline</h4>
 
 <b>The operational aspects of an e-commerce store or business</b>
@@ -49,6 +46,9 @@ online business.ands-on exercise of creating a 5-stage results-focused digital b
 <li>Techniques to handle online communication with customers</li>
 <li>Knowing seller’s responsibilities</li>
 </ul>
+
+<h4>Who Should Attend</h4>
+<p>This masterclass is suitable for entrepreneurs, marketing, operations, and customer service.</p>
 
 <h4>Duration</h4> 
 <p>3 days (9am - 6pm)</p>
