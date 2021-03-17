@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Category Management
+title: Category Management: The Key to Business Growth
 permalink: /digital-programmes/masterclasses-and-workshops/category-management
-breadcrumb: Category Management
+breadcrumb: Category Management: The Key to Business Growth
 collection_name: digital-programmes
 second_nav_title: "Masterclasses & Workshops"
 ---
@@ -29,10 +29,6 @@ purchase decision process, learn to leverage data and assess performance, plan a
 layouts and displays, identify growth opportunities, develop effective strategies and tactics to maximise
 category sales and profitability.</p>
 
-<h4>Who Should Attend</h4>
-<p>This masterclass is suitable for Category Managers, Merchandising Managers, Buyers, Private Label Managers, Space Management Planners,
-Brand Managers, Trade Marketing Managers, Key Account Managers, and Sales Managers.</p>
-
 <h4>Outline</h4>
 <ul>
 <li>Build effective joint business plans with retailers/suppliers to achieve win-win results</li>
@@ -44,6 +40,10 @@ improvement</li>
 <li>Learn to set strategies and tactics to optimise assortment, price, promotion and space for
 offline and online channels</li>
 </ul>
+
+<h4>Who Should Attend</h4>
+<p>This masterclass is suitable for Category Managers, Merchandising Managers, Buyers, Private Label Managers, Space Management Planners,
+Brand Managers, Trade Marketing Managers, Key Account Managers, and Sales Managers.</p>
 
 <h4>Duration</h4>
 <p>2 days (9am - 6pm daily)</p>
