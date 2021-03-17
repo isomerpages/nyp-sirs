@@ -8,16 +8,26 @@ second_nav_title: "Masterclasses & Workshops"
 ---
 <img src="images-2021/DigitalProgrammes-Image-Masterclass.png" style="width:100%;">
 
-Leads through social media advocates convert more often than any other leads. Information shared
+<h4 style="text-align:center;">Next intake:</h4>
+
+<center><table style="width:80%;">
+    <tr style="text-align:center;">
+      <td style="text-align:center;width:50%;">To be confirmed</td>
+    </tr>
+</table></center>
+
+<p>Leads through social media advocates convert more often than any other leads. Information shared
 by advocates is deemed to be more credible than any content shared through the brand’s own social
 channels. Organic social media marketing can help business gain visibility across social networks more
-quickly and provide more engagement. This is the power of social media advocacy.
+quickly and provide more engagement. This is the power of social media advocacy.</p>
 
-Developing Social Media Advocacy masterclass will demonstrate how you can develop a strategy to
-engage your advocates to help you elevate and amplify your brand messaging to their own social networks. 
+<p>Developing Social Media Advocacy masterclass will demonstrate how you can develop a strategy to
+engage your advocates to help you elevate and amplify your brand messaging to their own social networks.</p>
 
+<h4>Who Should Attend</h4>
+<p>This masterclass is suitable for Marketing, Marcom & PR, Editorial and Digital Marketing Teams.</p>
+  
 <h4>Outline</h4>
-
 <ul>
 <li>Understand the key principles of social media advocacy</li>
 <li>Appreciate the benefits of social media advocacy done right</li>
@@ -28,10 +38,12 @@ engage your advocates to help you elevate and amplify your brand messaging to th
 <li>Benchmark the success of a social media advocacy program</li>
 </ul>
 
+<h4>Duration</h4>
+<p>9am - 6pm (8 hours)</p>
+
 <h4>Trainer Profile</h4>
 <p><b>Natasha Zhao</b><br>
   <em>Principal Consultant Partner</em><br>
-
 
 <p>Natasha is a Partner & Principal Consultant of QED. She has advised Fortune 500
 Corporations & Small to Medium Enterprises in Singapore and the region on
