@@ -76,23 +76,24 @@ narrative will benefit from attending this programme.</p>
 </table>
 </center>
 
-<small><i><sup>1</sup>Fee is under Enhanced Training Support (ETSS) for SMEs<br>
+<small><i><sup>1</sup>Additional funding under the <a href="/services/consultancy/etss">Enhanced Training Support for SMEs (ETSS)</a><br>
   Fees include prevailing GST</i></small>
 
 <h4>Additional Support</h4>
 
 <p>This course is also eligible for the following:</p>
 
+
 <b>For self-sponsored participants:</b>
 <ul>
   <li><a href="/services/consultancy/skillsfuture-credit">SkillsFuture Credit</a></li>
-  <li><a href="/services/consultancy/workfare-skills-support-wss">Workfare Skills Support (WSS) Scheme</a></li>
+  <li><a href="/services/consultancy/wss-individuals">Workfare Skills Support (WSS) Scheme (For Individuals)</a></li>
 </ul>
 
 <b>For company-sponsored participants:</b>
 <ul>
   <li><a href="/services/consultancy/absentee-payroll-ap">Absentee Payroll</a></li>
-  <li><a href="/services/consultancy/workfare-skills-support-wss">Workfare Skills Support (WSS) Scheme (Absentee Payroll)</a></li>
+  <li><a href="/services/consultancy/wss-companies">Workfare Skills Support (WSS) Scheme (For Companies)</a></li>
   </ul>
 
 <p>For <a href="/services/consultancy/skillsfuture-credit">SkillsFuture</a> course reference, please click <a href="/documents-2021/SIRS-SkillsFuture-CourseRefNumber.pdf">here.</a></p>
