@@ -45,8 +45,6 @@ lifestyle of your customers</li>
 </ul>
 
 <h4>Fees</h4>
-<em>includes accommodation, excludes airfare</em>
-
 
 <center>
 <table style="width:100%;">
@@ -81,6 +79,13 @@ lifestyle of your customers</li>
 <small><i><sup>1</sup>Fee is after reimbursement of S$1,000 via SkillsConnect under
 Enhanced Training Support for SMEs<br>
 Fees include prevailing GST</i></small>
+
+<center>
+  <b>All fees include:</b><br>
+Accommodation (5D4N)<br>
+  <b>All fees exclude:</b> <br>
+Airfare
+  </center>
 
 <h4>Additional Support</h4>
 
