@@ -33,6 +33,12 @@ Holistic Hands-on Content Marketing Techniques</center>
 
 <p>完成课程后的学员将获得由阿里巴巴商学院和新加坡零售管理学院所颁发的毕业证书。</p>
 
+<h4>Who Should Attend</h4>
+<p>This programme is suitable for Digital Professionals, Online Business Owners, E-Commerce Managers, Digital Marketers.</p>
+
+<h4>培训对象</h4>
+<p>电商专业人士, 电商创业者, 电商决策人, 数码营销人员。</p>
+
 <h4>Outline</h4>
 
 <b>Optimise Content Marketing Strategy and Learn Creative Image-text and Video Skills</b>
@@ -119,6 +125,9 @@ Holistic Hands-on Content Marketing Techniques</center>
   
 <h4>Duration</h4>
 <p>5 days (40 hours)</p>
+
+<h4>课程时间</h4>
+<p>5天 (40小时)</p>
 
 <h4>Fees</h4>
 
