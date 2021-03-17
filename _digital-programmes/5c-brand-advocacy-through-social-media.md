@@ -8,6 +8,14 @@ second_nav_title: "Masterclasses & Workshops"
 ---
 <img src="images-2021/DigitalProgrammes-HImage-Workshop.png" style="width:100%;">
 
+<h4 style="text-align:center;">Next intake:</h4>
+
+<center><table style="width:80%;">
+    <tr style="text-align:center;">
+      <td style="text-align:center;width:50%;">To be confirmed</td>
+    </tr>
+</table></center>
+
 <p>The power of social media has shaped our world into a highly connected one, changing the way people
 work, socialize and shop. By leveraging on this connectivity, your organization is able to further expand
 your reach by empowering employees, loyal customers, and partners as your brand advocates, to spread
@@ -18,8 +26,11 @@ speak on your brand’s behalf to create awareness, influence opinions, and purc
 advocacy through social media is able to enhance the credibility of your brand, and bring you more
 referrals and business opportunities.</p>
 
-<h4>Outline</h4>
+<h4>Who Should Attend</h4>
+<p>This workshop is suitable for individuals who want to develop a sizeable community on their consumers who can influence
+other consumers’ perceptions and possibly even defend the brands in times of social media crisis.</p>
 
+<h4>Outline</h4>
 <ul>
 <li>Recognising the ever-changing social media landscape and the power of social media for businesses</li>
 <li>Understanding the importance of social media advocacy</li>
@@ -28,6 +39,9 @@ referrals and business opportunities.</p>
 <li>Preparing to surprise and delight customers with social customer care</li>
 </ul>
 
+<h4>Duration</h4>
+<p>9am - 6pm (8 hours)</p>
+  
 <h4>Fees</h4>
 
 <center>
