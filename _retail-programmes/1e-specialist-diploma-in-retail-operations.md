@@ -96,7 +96,7 @@ second_nav_title: "WSQ Full Qualification Programmes"
   <li><a href="/services/consultancy/workfare-skills-support-wss">Workfare Skills Support (WSS) Scheme (Absentee Payroll)</a></li>
   </ul>
  
-<p>For <a href="https://www.skillsfuture.gov.sg/credit">SkillsFuture</a> course reference, please click <a href="/documents-2021/SIRS-SkillsFuture-CourseRefNumber.pdf">here.</a></p>
+<p>For <a href="/services/consultancy/skillsfuture-credit">SkillsFuture</a> course reference, please click <a href="/documents-2021/SIRS-SkillsFuture-CourseRefNumber.pdf">here.</a></p>
 
 <p>For more information about funding and support, click <a href="/services/consultancy">here.</a></p>
  
