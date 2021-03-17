@@ -51,12 +51,12 @@ second_nav_title: "SkillsFuture Series"
 <td>$83.46</td>
 </tr>
 <tr>
-  <td>Singapore Citizen 40 years & above<sup>1</sup> (90% funding)</td>
+  <td>Singapore Citizen 40 years & above (90% funding)</td>
 <td>$31.46</td>
 </tr>
 
 <tr>
-  <td>Singapore Citizen/SPR sponsored by SMEs<sup>2</sup> (90% funding)</td>
+  <td>Singapore Citizen/SPR sponsored by SMEs (90% funding)</td>
 <td>$31.46</td>
 </tr>
 
