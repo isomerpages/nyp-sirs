@@ -50,14 +50,14 @@ CEO Master Programme<br>
 <h4>Itinerary</h4>
 
 <b>Day 1</b><br>
+<b>Depart Singapore to Hangzhou, China</b>
 <ul>
-<li>Depart Singapore to Hangzhou, China</li>
 <li>Check in Hotel</li>
   </ul>
 
 <b>Day 2</b><br>
+<b>Alibaba’s New Retail Experiential Tour</b>
 <ul>
-<li>Alibaba’s New Retail Experiential Tour</li>
 <li>Visit Alibaba Binjiang campus and experience Alibaba Big Data Global Transaction Console</li>
 <li>Site visit to Alibaba Global HQ: Alibaba West Stream Campus</li>
 <li>Visit & dine at Alibaba’s FlyZoo Hotel</li>
@@ -67,8 +67,8 @@ CEO Master Programme<br>
   </ul>
 
 <b>Day 3</b><br>
+<b>The Strategic Transformation of New Retail Era</b>
 <ul>
-<li>The Strategic Transformation of New Retail Era</li>
 <li>The origin of New Retail</li>
 <li>Deep dive into the eco-system & scenario of New Retail</li>
 <li>Discover the New Persona, New Product and New Organisation</li>
@@ -78,8 +78,8 @@ CEO Master Programme<br>
   </ul>
 
 <b>Day 4</b><br>
+<b>New Retail Organisation Transformation & Talent Development</b>
 <ul>
-<li>New Retail Organisation Transformation & Talent Development</li>
 <li>Strategic New Retail transformation trend</li>
 <li>The force -organisation and talent development</li>
 <li>New Retail management & structural change</li>
@@ -89,8 +89,8 @@ CEO Master Programme<br>
   </ul>
 
 <b>Day 5</b><br>
+<b>Marketing Transformation in a New Retail Era</b>
 <ul>
-  <li>Marketing Transformation in a New Retail Era</li>
 <li>New Marketing phenomenon – methods to recognize, reach new retail consumers</li>
 <li>Consumer insights: Limitations of consumer insights in traditional marketing and integration of online and offline consumer assets during a new retail era</li>
 <li>Reaching consumers in a comprehensive manner</li>
@@ -98,22 +98,22 @@ CEO Master Programme<br>
   </ul>
 
 <b>Day 6</b><br>
+<b>Depart Hangzhou, China to Singapore</b>
 <ul>
-<li>Depart Hangzhou, China to Singapore</li>
 <li>Meals provided: Breakfast</li>
   </ul>
 
 <h4>日程</h4>
   
 <b>第一天</b><br>
+<b>从新加坡飞往杭州，中国</b>
 <ul>
-<li>从新加坡飞往杭州，中国</li>
 <li>入住酒店</li>
   </ul>
 
 <b>第二天</b><br>
+<b>阿里巴巴新零售体验之旅</b>
 <ul>
-<li>阿里巴巴新零售体验之旅</li>
 <li>参观滨江园区，观摩数据大屏</li>
 <li>阿里巴巴西溪园区（全球总部）访客中心参观</li>
 <li>阿里巴巴集团菲住布渴酒店黑科技参观及用餐</li>
@@ -123,8 +123,8 @@ CEO Master Programme<br>
   </ul>
   
 <b>第三天</b><br>
+<b>新零售时代的战略变革</b>
 <ul>
-<li>新零售时代的战略变革</li>
 <li>新零售的前世今生</li>
 <li>解析万物生长的局势及新零售场景</li>
 <li>新零售—新用户、新产品、新组织</li>
@@ -134,8 +134,8 @@ CEO Master Programme<br>
   </ul>
   
 <b>第四天</b><br>
+<b>新零售时代的组织变革与人才发展</b>
 <ul>
-<li>新零售时代的组织变革与人才发展</li>
 <li>新零售时代的企业战略变革趋势—“人、货、场、利”</li>
 <li>组织与人才发展是新零售战略变革的原驱力</li>
 <li>新零售时代的组织能力与组织架构变革</li>
@@ -145,8 +145,8 @@ CEO Master Programme<br>
   </ul>
 
 <b>第五天</b><br>
+<b>新零售时代的营销变革</b>
 <ul>
-<li>新零售时代的营销变革</li>
 <li>新营销现象呈现多样化的新零售消费者识别方式、全域触达</li>
 <li>消费者洞察：传统营销在消费者洞查上的局限性及新零售时代线上线下消费者资产融合</li>
 <li>消费者全域触达</li>
@@ -154,8 +154,8 @@ CEO Master Programme<br>
   </ul>
 
 <b>第六天</b><br>
+<b>从杭州，中国往回新加坡</b>
 <ul>
-<li>从杭州，中国往回新加坡</li>
 <li>提供餐食：早餐</li>
   </ul>
 
