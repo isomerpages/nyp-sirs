@@ -8,6 +8,14 @@ second_nav_title: "Masterclasses & Workshops"
 ---
 <img src="images-2021/DigitalProgrammes-Image-Masterclass.png" style="width:100%;">
 
+<h4 style="text-align:center;">Next intake:</h4>
+
+<center><table style="width:80%;">
+    <tr style="text-align:center;">
+      <td style="text-align:center;width:50%;">To be confirmed</td>
+    </tr>
+</table></center>
+
 <p>Social media is resource intensive. As business increases investment in social media, business owners and
 management teams are questioning whether the investment is delivering results. If business owners really
 want to know what is actually working in social media marketing and what isn’t, measuring social media
@@ -16,8 +24,6 @@ return on investment will help to prioritise marketing efforts to produce the hi
 <p>This workshop addresses most commonly asked questions pertaining to the social media return on
 investment. It includes strategic recommendations on the valuation methods, appropriate performance
 metrics, key performance measurement tools and relevant calculation techniques.</p>
-
-<p>Suitable for Marketing, Marcom & PR, Editorial, and Digital Marketing Teams.</p>
 
 <h4>Outline</h4>
 
@@ -32,6 +38,12 @@ metrics, key performance measurement tools and relevant calculation techniques.<
 <li>Reporting using a social media ROI template</li>
 <li>Case studies</li>
 </ul>
+
+<h4>Who Should Attend</h4>
+<p>This masterclass is suitable for Marketing, Marcom & PR, Editorial, and Digital Marketing Teams.</p>
+
+<h4>Duration</h4>
+<p>9am - 6pm (8 hours)</p>
 
 <h4>Trainer Profiles</h4>
 <b>Ryan Lim</b><br>
