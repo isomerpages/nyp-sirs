@@ -24,7 +24,7 @@ and protect your account while you socialise!</p>
 <p>Participants must bring their own smart devices such smartphone/iPad/tablet for class.</p>
 
 <h4>Duration</h4>
-<p>9am - 12pm</p>
+<p>9am - 12pm (3 hours)</p>
 
 <h4>Fees</h4>
 
