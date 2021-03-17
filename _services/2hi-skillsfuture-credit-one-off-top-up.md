@@ -24,7 +24,8 @@ Please visit SkillsFuture Singapore’s website to learn more.</p>
 
 <i>*Note: Submission of claims for SFC2 will not be available on MySkillsFuture portal and mobile app till 1 Oct 2020.</i>
 <br>
-<img src="/images-2021/Services_Consultancy_SFC2_Screenshot.jpg" style="width:70%;">
+
+<img src="/images-2021/Services_Consultancy_SFC2_Screenshot.jpg" style="width:80%;">
 
 <b>Step 3:</b> Upon receiving your application, SIRS will email the claim application form for your completion. Please return the completed form to SIRS by either email at courses@sirs.edu.sg or WhatsApp at 9223 2979. If you don’t have a scanner, you can send the form as a photo attachment. Please ensure the image is sharp and clear.
  
