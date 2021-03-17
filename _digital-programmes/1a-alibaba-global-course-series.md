@@ -50,8 +50,6 @@ second_nav_title: "Alibaba Business School"
 
 <img src="images/alibaba-business-school/agc-apr-2018.jpg" style="width:100%;">
 
-<center><a href="https://form.gov.sg/602f2e2609513500125322dd" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center>
-
 <h4>Media Coverage</h4>
 
 <table style="width:100%;">
