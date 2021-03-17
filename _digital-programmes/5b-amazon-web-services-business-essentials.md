@@ -8,6 +8,14 @@ second_nav_title: "Masterclasses & Workshops"
 ---
 <img src="images-2021/DigitalProgrammes-Image-Masterclass.png" style="width:100%;">
 
+<h4 style="text-align:center;">Next intake:</h4>
+
+<center><table style="width:80%;">
+    <tr style="text-align:center;">
+      <td style="text-align:center;width:50%;">To be confirmed</td>
+    </tr>
+</table></center>
+
 <p>Many industries are already benefiting from cloud technology. Retailers too, regardless their size, will
 have a big gain using it. From reduction of IT costs, improvement of the overall business process to
 provision of a great experience to their customers, the cloud-based technology is set to revolutionize the
@@ -28,6 +36,9 @@ security and data protection</li>
 <li>Articulate the financial impact the AWS cloud can have on an organization’s procurement
 cycle, cost management, and contracts while minimizing risks associated with consumption-based pricing models</li>
 </ul>
+
+<h4>Duration</h4>
+<p>9am - 6pm (8 hours)</p>
 
 <h4>Trainer Profile</h4>
 <p><b>Roney Joseph P.</b><br>
