@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content 
-title: NTUC Training Fund
+title: NTUC Training Fund (SEPs)
 permalink: /services/consultancy/ntuc-training-fund
-breadcrumb: NTUC Training Fund
+breadcrumb: NTUC Training Fund (SEPs)
 collection_name: services
 second_nav_title: "Consultancy"
 ---
@@ -30,7 +30,8 @@ For more information, click <a href="https://e2i.com.sg/individuals/employabilit
   <li><a href="/digital-programmes/skillsfuture-for-digital-workplace">SkillsFuture Digital Workplace</a></li>
   </ul>
 
-<b>Step 2: Under SIRS' course registration page, click ‘Yes’ as shown below and you will be prompted to upload the approved Letter of Eligibility.</b><br>
+<b>Step 2: Under SIRS' course registration page, click ‘Yes’ as shown below and you will be prompted to upload the approved Letter of Eligibility.</b>
+<br>
 <img src="/images-2021/Services_Consultancy_NTUCSEPs_Screenshot.jpg" style="width:70%;">
 
 <h4>After I have completed my training, how do I claim the training allowance?</h4>
@@ -39,7 +40,7 @@ For more information, click <a href="https://e2i.com.sg/individuals/employabilit
   <li>Submit the Training Certification Slip with the necessary supporting documents as required by NTUC’s e2i within 30 days upon every course completion.</li>
   </ul>
 
-<p>For more information, please refer to <a href="https://e2i.com.sg/wp-content/uploads/2020/11/SEP_Infokit_v22_3-Nov.pdf">NTUC Training Fund (SEPs) Infokit</a></br>For more information or enquiries on NTUC Training Fund (SEPs), please visit www.e2i.com.sg/SEP2020.</p>
+<p>For more information, please refer to <a href="https://e2i.com.sg/wp-content/uploads/2020/11/SEP_Infokit_v22_3-Nov.pdf">NTUC Training Fund (SEPs) Infokit</a></br>For more information or enquiries on NTUC Training Fund (SEPs), please visit <a href="www.e2i.com.sg/SEP2020">www.e2i.com.sg/SEP2020</a></p>
 
 <p>You can also contact NTUC’s e2i or NTUC’s U FSE for assistance.</p>
 
