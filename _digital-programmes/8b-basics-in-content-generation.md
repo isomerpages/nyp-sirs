@@ -65,12 +65,15 @@ second_nav_title: "SkillsFuture Series"
 
 <small><i>Fees include prevailing GST</i></small>
 
-<p>Learners may be also eligible for the following:</p>
+<h4>Additional Support</h4>
 
+<p>This course is also eligible for the following:</p>
+
+<b>For self-sponsored participants:</b>
 <ul>
-<li>SkillsFuture Credit</li>
-<li>UTAP Funding (for NTUC members)</li>
-</ul>
+  <li><a href="/services/consultancy/skillsfuture-credit">SkillsFuture Credit</a></li>
+  <li><a href="/services/consultancy/utap">Union Training Assistance Programme (UTAP)</a></li>
+    </ul>
 
 <p>For <a href="/services/consultancy/skillsfuture-credit">SkillsFuture</a> course reference, please click <a href="/documents-2021/SIRS-SkillsFuture-CourseRefNumber.pdf">here.</a></p>
 
