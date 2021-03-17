@@ -20,7 +20,7 @@ second_nav_title: "WSQ Certified Modular Programmes"
  <li>Enhanced learning through role play</li>
   </ul>
   
-<h4>Learning Outcomes</h4>
+<h4>Outline</h4>
 <ul>
 <li>Develop a service mindset</li>
 <li>Provide an unforgettable in-store service/customer experience</li>
