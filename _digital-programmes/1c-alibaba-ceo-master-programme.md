@@ -19,13 +19,17 @@ CEO Master Programme<br>
 高级总裁班 — 升级版<br>
 (6天5夜考察之旅 — 杭州)</center>
 
+<b>This programme will be conducted in Mandarin.</b>
+
 <p>Presented by Alibaba Business School, SIRS invites you to join us on a journey to the birthplace of 'New Retail', envisioned by Jack Ma, which has remodelled traditional retail into successful businesses such as the renowned Hema Fresh. Experts from Alibaba will walk you through the journey of 'New Retail' from understanding the origin and ecosystem to learning how you too can apply and transform your business.</p>
 
-<p>Expand your knowledge and create your retail success! Each run is limited to 40 pax only and confirmation is upon successful payment. Upon completion of the programme, participants will receive a highly valued Alibaba University graduate certificate jointly awarded by Alibaba Business School and Singapore Institute of Retail Studies. <b>Programme will be conducted in Mandarin.</b></p>
+<p>Expand your knowledge and create your retail success! Each run is limited to 40 pax only and confirmation is upon successful payment. Upon completion of the programme, participants will receive a highly valued Alibaba University graduate certificate jointly awarded by Alibaba Business School and Singapore Institute of Retail Studies.</p>
+
+<b>这课程将由淘宝大学认证讲师以中文授课!</b>
 
 <p>由阿里巴巴商学院主办，SIRS 邀请您加入我们的考察之旅，直接与阿里巴巴接触和体验阿里巴巴集团的“新零售”吸取新知识。阿里巴巴认证讲师将以中文讲解，让您了解大数据分析如何改变零售环境，以及如何将这些策略应用于您的业务。 您还将有难得的机会亲临阿里巴巴新零售地点，拜访阿里巴巴总部，深入了解专家们的体验及给予您的建议。</p>
 
-<p>千万不要错过这一个难得的机会，重塑您的零售业务，取得成功！每一次的考察之旅只限40位成功付款的学员参加。完成课程后的学员将获得由阿里巴巴商学院和新加坡零售管理学员所颁发的阿里巴巴大学毕业证书。<b>课程将由淘宝大学认证讲师以中文授课!</b></p>
+<p>千万不要错过这一个难得的机会，重塑您的零售业务，取得成功！每一次的考察之旅只限40位成功付款的学员参加。完成课程后的学员将获得由阿里巴巴商学院和新加坡零售管理学员所颁发的阿里巴巴大学毕业证书。</p>
 
 <h4>Highlights</h4>
 <ul>
