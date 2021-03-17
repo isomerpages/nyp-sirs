@@ -18,36 +18,28 @@ second_nav_title: "WSQ Full Qualification Programmes"
 
 <p>To achieve a full qualification, individuals must successfully attain competency in all the following modules:</p>
 
-<b>Adapt to Change (24 hours)</b>
-<p>Understand the effects and implications of change to ensure alignment of staff competencies in relation to the new workplace needs. Promote a corporate culture of lifelong learning to enable staff to stay relevant at the workplace and ensure the growth of the organisation.</p>
+<b>Adapt to Change (24 hours)</b><br>Understand the effects and implications of change to ensure alignment of staff competencies in relation to the new workplace needs. Promote a corporate culture of lifelong learning to enable staff to stay relevant at the workplace and ensure the growth of the organisation.
  
-<b>People and Relationship Management (24 hours)</b>
-<p>Recognise the diversities at current workplace that is characterized by different nationalities, races, ethnicities, generations, religions, cultures, and abilities. Learn to build a harmonious and inclusive workplace that appreciates differences to encourage greater range of talent, broaden skill base and therefore, become more competitive and innovative.</p>
+<b>People and Relationship Management (24 hours)</b><br>Recognise the diversities at current workplace that is characterized by different nationalities, races, ethnicities, generations, religions, cultures, and abilities. Learn to build a harmonious and inclusive workplace that appreciates differences to encourage greater range of talent, broaden skill base and therefore, become more competitive and innovative.
  
-<b>Productivity Improvement (18 hours)</b>
-<p>Understand current trends in retail and how to use analytical tools to identify areas and key targets for productivity improvement in achieving organization goals. Using the ability to lead and drive workplace efficiency and effectiveness to help the workplace to bring about better customer experience leading to higher productivity outcome and better business results.</p>
+<b>Productivity Improvement (18 hours)</b><br>Understand current trends in retail and how to use analytical tools to identify areas and key targets for productivity improvement in achieving organization goals. Using the ability to lead and drive workplace efficiency and effectiveness to help the workplace to bring about better customer experience leading to higher productivity outcome and better business results.
  
-<b>Service Coaching (18 hours)</b>
-<p>Use right coaching techniques to help staff address service gaps and monitor their progress for improvements in the delivery of customer experience. Promoting coaching culture to propel the workplace into a high-performance organisation.</p>
+<b>Service Coaching (18 hours)</b><br>Use right coaching techniques to help staff address service gaps and monitor their progress for improvements in the delivery of customer experience. Promoting coaching culture to propel the workplace into a high-performance organisation.
  
-<b>Customer Experience Innovation (18 hours)</b>
-<p>Driving innovative customer experience requires active listening to customers and meeting all their needs, be it defined or yet to be conceived. As organisations promote customer experience as a competitive advantage, it becomes imperative to embrace disruptions, provide value propositions that matters and turn customer data into insights for greater customer engagement.</p>
+<b>Customer Experience Innovation (18 hours)</b><br>Driving innovative customer experience requires active listening to customers and meeting all their needs, be it defined or yet to be conceived. As organisations promote customer experience as a competitive advantage, it becomes imperative to embrace disruptions, provide value propositions that matters and turn customer data into insights for greater customer engagement.
  
-<b>Service Planning and Implementation (24 hours)</b>
-<p>Understand the importance of a customer-centric approach to the business and provide superior and memorable customer experience to gain and sustain a competitive advantage in today's marketplace. Learn to align organization service operations to empower staff and strengthen processes to elevate customer experience.</p>
+<b>Service Planning and Implementation (24 hours)</b><br>Understand the importance of a customer-centric approach to the business and provide superior and memorable customer experience to gain and sustain a competitive advantage in today's marketplace. Learn to align organization service operations to empower staff and strengthen processes to elevate customer experience.
  
-<b>Workplace Communication (18 hours)</b>
-<p>Develop and apply appropriate communication styles and techniques to build trust within workplace and ultimately elevate customer experience and boost morale, commitment, and efficiency among employees.</p>
+<b>Workplace Communication (18 hours)</b><br>Develop and apply appropriate communication styles and techniques to build trust within workplace and ultimately elevate customer experience and boost morale, commitment, and efficiency among employees.
  
 <h4>Duration</h4>
-<p>Duration is 6 months for day class (once a week) or 6 months for night class (twice a week)</p>
+<p>Duration is 6 months for day class (once a week) or 6 months for night class (twice a week).</p>
 
 <h4>Entry Requirements</h4>
 <ul>
 <li>GCE ‘O’ level Credit (at least C6) in English and Mathematics or Workplace Literacy and Numeracy (WPLN) score: Level 5 for Reading, Listening and Numeracy, and</li>
 <li>With at least 2 years supervisory working experience in retail or 3 years supervisory/managerial working experience in non-retail sector</li>
  </ul>
-
 
 <h4>Fees</h4>
 
@@ -91,7 +83,7 @@ second_nav_title: "WSQ Full Qualification Programmes"
   <li><a href="/services/consultancy/workfare-skills-support-wss">Workfare Skills Support (WSS) Scheme (Absentee Payroll)</a></li>
   </ul>
 
-<p>For <a href="/services/consultancy/skillsfuture-credit">SkillsFuture Credit</a>: For the reference code of all courses, please click <a href="/documents-2021/SIRS-SkillsFuture-CourseRefNumber.pdf">here.</a></p>
+<p>For SkillsFuture course reference, please click <a href="/documents-2021/SIRS-SkillsFuture-CourseRefNumber.pdf">here.</a></p>
 
 <p>For more information about funding and support, click <a href="/services/consultancy">here.</a></p>
 
