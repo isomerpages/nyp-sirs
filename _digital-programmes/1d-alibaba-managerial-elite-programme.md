@@ -185,9 +185,8 @@ second_nav_title: "Alibaba Business School"
 </table>
 </center>
 
-<small><i><sup>1</sup>Additional funding under <a href="/services/consultancy/funding-and-support/mid-career-enhanced-subsidy">Mid-Career Enhanced Subsidy</a><br>
-<sup>2</sup>Fee is after reimbursement of S$1,140 via SkillsConnect under <a href="/services/consultancy/funding-and-support/skillsfuture-enhanced-training-support-for-smes">Enhanced Training Support for SMEs (ETSS)</a><br>
-Self-sponsored participants can utilise their <a href="/services/consultancy/funding-and-support/skillsfuture-credit">SkillsFuture Credit</a> to offset course fees<br>
+<small><i><sup>1</sup>Singapore Citizens eligible for <a href="/services/consultancy/skillsfuture-midcareer-enhanced-subsidy">SkillsFuture Mid-Career Enhanced Subsidy (MCES)</a><br>
+<sup>2</sup>Fee is after reimbursement of S$1,140 via SkillsConnect under <a href="/services/consultancy/etss">Enhanced Training Support for SMEs (ETSS)</a><br>
 Fees include prevailing GST</i></small>
 
 <h4>Additional Support</h4>
