@@ -19,12 +19,6 @@ second_nav_title: "Masterclasses & Workshops"
 
 <p>Human are visual beings. Visual content enables customers to absorb and remember your brand better. It is more effective than any other form of communication. Marketers who use visual marketing tend to reap higher returns in terms of fans, followers, readers, leads, clients and, of course, revenue. Through this Masterclass, participants will develop a good understanding of visual marketing for Omni-commerce; applicable to both entrepreneurial and marketing operation with practical hands-on applications and case studies.</p>
 
-<h4>Requirements</h4>
-<p>Participants are required to bring a laptop for in-class photoshop practical. Photoshop software will be provided for training purposes.</p>
-
-<h4>Who Should Attend</h4>
-<p>This masterclass is suitable for entrepreneurs, marketing, visual merchandising, and operations.</p>
-
 <h4>Outline</h4>
 <ul>
 <li>Understand how to create one click visual marketing to drive Omni-commerce</li>
@@ -33,6 +27,12 @@ second_nav_title: "Masterclasses & Workshops"
 <li>Drive effective visual marketing through well define customer personas, setting your visual direction and navigation pathway</li>
 <li>Systematic plan and implement process for effective visual marketing</li>
   </ul>
+  
+<h4>Who Should Attend</h4>
+<p>This masterclass is suitable for entrepreneurs, marketing, visual merchandising, and operations.</p>
+
+<h4>Requirements</h4>
+<p>Participants are required to bring a laptop for in-class photoshop practical. Photoshop software will be provided for training purposes.</p>
   
 <h4>Duration</h4>
 <p>2 days (9am - 6pm)</p>
