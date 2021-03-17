@@ -8,6 +8,14 @@ second_nav_title: "Masterclasses & Workshops"
 ---
 <img src="images-2021/DigitalProgrammes-Image-Masterclass.png" style="width:100%;">
 
+<h4 style="text-align:center;">Next intake:</h4>
+
+<center><table style="width:80%;">
+    <tr style="text-align:center;">
+      <td style="text-align:center;width:50%;">To be confirmed</td>
+    </tr>
+</table></center>
+
 <p>In the rapidly changing retail landscape brought by digitalisation, being able to manage e-commerce
 operation efficiently is one of the critical factors of a successful retail business. Retailers need to satisfy
 the increased expectations of customers and at the same time, grasp and manoeuvre in the complexity
@@ -17,6 +25,9 @@ operates.</p>
 <p>To make optimal business and operational plan, business owners and e-commerce teams will require a
 360 view of the e-commerce landscape and learn holistic operational functions critical to a successful
 online business.ands-on exercise of creating a 5-stage results-focused digital business plan for e-Marketplace ecosystem.</p>
+
+<h4>Who Should Attend</h4>
+<p>This masterclass is suitable for entrepreneurs, marketing, operations, and customer service.</p>
 
 <h4>Outline</h4>
 
@@ -39,6 +50,9 @@ online business.ands-on exercise of creating a 5-stage results-focused digital b
 <li>Knowing seller’s responsibilities</li>
 </ul>
 
+<h4>Duration</h4> 
+<p>3 days (9am - 6pm)</p>
+  
 <h4>Fees</h4>
 
 <center>
