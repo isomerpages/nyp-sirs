@@ -8,6 +8,14 @@ second_nav_title: "Masterclasses & Workshops"
 ---
 <img src="images-2021/DigitalProgrammes-HImage-Workshop.png" style="width:100%;">
 
+<h4 style="text-align:center;">Next intake:</h4>
+
+<center><table style="width:80%;">
+    <tr style="text-align:center;">
+      <td style="text-align:center;width:50%;">To be confirmed</td>
+    </tr>
+</table></center>
+
 <p>It is undeniable that good customer experience increases the likelihood of repeat business and retain
 loyal customers. Customers in today’s digital world are exposed to multiple communication platforms,
 enabling them to obtain and share information easily. Being more well-informed, customers are having
@@ -22,8 +30,11 @@ opportunities to create an excellent customer experience.</p>
 <p>This workshop is ideal for anyone involved in creating or managing customer experiences. Marketers looking
 to develop a new skillset or deepen their knowledge in understanding of customer experience principles.</p>
 
-<h4>Outline</h4>
+<h4>Who Should Attend</h4>
+<p>This workshop is ideal for anyone involved in creating or managing customer experiences. Marketers looking
+to develop a new skillset or deepen their knowledge in understanding of customer experience principles.</p>
 
+<h4>Outline</h4>
 <ul>
 <li>Understanding factors that impact customer experience</li>
 <li>Knowing the key components of a customer journey map</li>
@@ -32,6 +43,9 @@ to develop a new skillset or deepen their knowledge in understanding of customer
 <li>Sharing successful journey mapping involving irresistible customer experiences</li>
 <li>Creating customer experience journey through building relationships and connecting emotionally</li>
 </ul>
+
+<h4>Duration</h4>
+<p>9am - 6pm (8 hours)</p>
 
 <h4>Fees</h4>
 
