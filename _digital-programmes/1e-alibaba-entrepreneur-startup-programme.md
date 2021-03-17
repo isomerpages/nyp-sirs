@@ -33,6 +33,9 @@ Open Your Horizons. Apply Proven E-Commerce Strategies</center>
 
 <p>完成课程后的学员将获得由阿里巴巴商学院和新加坡零售管理学院所颁发的毕业证书。</p>
 
+<h4>Who Should Attend</h4>
+<p>This programme is suitable for Digital Professionals, Online Business Owners, E-Commerce Managers, and Digital Marketers.</p>
+
 <h4>Outline</h4>
 
 <b>Insights to E-Commerce Development</b>
