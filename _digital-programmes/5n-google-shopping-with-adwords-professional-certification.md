@@ -8,9 +8,20 @@ second_nav_title: "Masterclasses & Workshops"
 ---
 <img src="/images-2021/DigitalProgrammes-Image-Masterclass.png" style="width:100%;">
 
+<h4 style="text-align:center;">Next intake:</h4>
+
+<center><table style="width:80%;">
+    <tr style="text-align:center;">
+      <td style="text-align:center;width:50%;">To be confirmed</td>
+    </tr>
+</table></center>
+
 <p>Advertising in Google enables you to expand our online presence. According to StatCounter Global Stats in Jun 2018 report, Google holds almost 90% of search engine market share. Google Shopping, together with the use of AdWords, enables potential customers to see your product image, title, price, store name, and more. These ads give users a strong sense of the product you are selling before they click the ad, which gives you more qualified leads. Many businesses experience significantly higher clickthrough rates (CTR) with Shopping ads compared to text ads.</p>
 
 <p>Understanding Google AdWords and setting up best practices for Google Shopping Campaigns are important in digital marketing. The course aims to help online retailers to reap the benefits of Google Shopping through managing search, display, video and shopping campaigns.</p>
+
+<h4>Who Should Attend</h4>
+<p>This masterclass is suitable for Retailers, eCommerce Professionals, Entrepreneurs, Marketing, Operations, Customer Service personnel.</p>
 
 <h4>Outline</h4>
 <ul>
@@ -22,6 +33,9 @@ second_nav_title: "Masterclasses & Workshops"
 <li>Measuring & Optimizing AdWords Campaigns</li>
 <li>Fundamentals & Google Shopping Review: Google AdWords Fundamentals & Shopping Advertising Exam</li>
   </ul>
+  
+<h4>Duration</h4>
+<p>3 days (9am - 6pm daily)</p>
 
 <h4>Trainer Profile</h4>
 <p><b>Ivan Wong</b><br>
