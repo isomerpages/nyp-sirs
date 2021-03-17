@@ -79,6 +79,53 @@ Open Your Horizons. Apply Proven E-Commerce Strategies</center>
   <li>How to provide post-sales service
   <li>How to handle packaging and logistics
     </ul>
+    
+<h4>课程内容</h4>
+
+<b>电商发展概论</b>
+<ul>
+  <li>了解中国及东南亚的电商发展现状</li>
+  <li>了解海外电商发展趋势及优势</li>
+  <li>电商创业角色解析</li>
+  <li>阿里平台解析：公司店铺与个人店铺</li>
+  </ul>
+
+<b>电商创业解读及淘宝创业</b>
+<ul>
+  <li>账户注册问答、创建店铺、了解规则</li>
+  <li>数据化工具认知</li>
+  <li>数据化名词解释</li>
+  </ul>
+  
+<b>网店运营</b>
+<ul>
+  <li>店铺基础设置</li>
+  <li>店铺分类设置</li>
+  <li>发布宝贝技巧</li>
+  </ul>
+
+<b>店铺装修与视觉</b>
+<ul>
+  <li>页面认知</li>
+  <li>图片获取</li>
+  <li>首页优化</li>
+  <li>详情页优化</li>
+  </ul>
+
+<b>网店推广</b>
+<ul>
+  <li>付费流量与免费流量认知</li>
+  <li>内容营销介绍，如短视频、 微淘、图文、直播等</li>
+  </ul>
+
+<b>网店客服</b>
+<ul>
+  <li>千牛工具认知</li>
+  <li>售前准备</li>
+  <li>售中接待</li>
+  <li>售后服务</li>
+  <li>包装及物流</li>
+  </ul>
 
 <h4>Fees</h4>
 
