@@ -116,6 +116,9 @@ Holistic Hands-on Content Marketing Techniques</center>
   <li>学员选择短视频、图文、直播等内容营销常见方式中的一种/多种，团队合作完成某个产品/品牌的内容营销作品</li>
   <li>讲师进行指导和点评，让学员实操内容营销各工具，并在课程结束时产出团队作品</li>
   </ul>
+  
+<h4>Duration</h4>
+<p>5 days (40 hours)</p>
 
 <h4>Fees</h4>
 
