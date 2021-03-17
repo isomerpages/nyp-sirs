@@ -9,6 +9,17 @@ second_nav_title: "SkillsFuture Series"
 
 <img src="images/sf-series-banner.png" style="width:100%;">
 
+<h4 style="text-align:center;">Next intake:</h4>
+
+<center><table style="width:80%;">
+    <tr style="text-align:center;">
+      <th style="text-align:center;width:50%;">Online Training</th>
+    </tr>
+    <tr style="text-align:center;">
+      <td style="text-align:center;width:50%;">23 Feb 2021 (Tue)<br>24 Mar 2021 (Wed)<br>21 Apr 2021 (Wed)</td>
+    </tr>
+</table></center>
+
 <p>This programme will enable participants to become a more effective digital storyteller. Participants will learn storytelling techniques that will help them to create interest to heighten the engagement and connectivity with their customers on e-commerce platforms.</p>
 
 <h4>Outline</h4>
@@ -17,6 +28,9 @@ second_nav_title: "SkillsFuture Series"
   <li>Content creation</li>
   <li>Content promotion</li>
   </ul>
+  
+<h4>Duration</h4>
+<p>9am -12pm, 2-6pm (1 day)</p>
 
 <h4>Fees</h4>
 
