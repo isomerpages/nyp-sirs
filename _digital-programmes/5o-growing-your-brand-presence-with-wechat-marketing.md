@@ -1,18 +1,18 @@
 ---
 layout: leftnav-page-content
-title: Growing Your Brand Presence with WeChat Marketing
+title: Grow Your Brand Presence with WeChat Marketing
 permalink: /digital-programmes/masterclasses-and-workshops/growing-your-brand-presence-with-wechat-marketing
-breadcrumb: Growing Your Brand Presence with WeChat Marketing
+breadcrumb: Grow Your Brand Presence with WeChat Marketing
 collection_name: digital-programmes
 second_nav_title: "Masterclasses & Workshops"
 ---
 <img src="images-2021/DigitalProgrammes-Image-Masterclass.png" style="width:100%;">
 
+<b>This class will be conducted in Mandarin.</b>
+
 <p>WeChat has grown from a messenger app to one that is an indispensible tool for brands and businesses. With the rapid growth of WeChat's platform, many Singapore brands are starting to recognise the importance of using WeChat to gain brand presence, engage with new fans, and to interact with fans in online-offline activations. Through WeChat, local businesses can not only grow their presence locally, but are also presented the opportunity to bring their brands to the growing Chinese consumer market.</p>
 
 <p>Join us on this one-day masterclass to gain a deeper understanding and appreciation of WeChat and the Tencent ecosystem, and the marketing strategies that brands have used to achieve success on the platform. In this masterclass, you will understand the various functions of a WeChat Official Account, and how to use the various tools and functions to increase new fans and grow your business.</p>
-
-<b>Class will be conducted in Mandarin.</b>
 
 <p>微信不仅仅是一个与朋友聊天及分享照片的社交平台，也是一个强大有效的营销工具。随着微信用户的迅猛增长，越多企业都在使用微信公众号吸引粉丝，并与他们互动及配合线上线下的推广活动。微信在新加坡商业圈逐渐普及化的趋势让许多商家越来越重视这个平台，频频应用微信宣传产品和服务。除了新加坡市场，您也能将品牌扩展到中国市场并从中获取新的粉丝，扩大客户群。</p>
 
@@ -72,7 +72,7 @@ Lou Peng has been specialising in WeChat marketing since 2012, helping many busi
 Self-sponsored participants can utilise their <a href="/services/consultancy/funding-and-support/skillsfuture-credit">SkillsFuture Credit</a> to offset course fees<br>
 Fees include prevailing GST</i></small>
 
-<p>For <a href="/services/consultancy/skillsfuture-credit">SkillsFuture Credit</a>: For the reference code of all courses, please click <a href="/documents-2021/SIRS-SkillsFuture-CourseRefNumber.pdf">here.</a></p>
+<p>For <a href="/services/consultancy/skillsfuture-credit">SkillsFuture</a> course reference, please click <a href="/documents-2021/SIRS-SkillsFuture-CourseRefNumber.pdf">here.</a></p>
 
 <p>For more information about funding and support, click <a href="/services/consultancy">here.</a></p>
 
