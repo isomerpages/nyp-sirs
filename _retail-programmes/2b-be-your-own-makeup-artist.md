@@ -20,7 +20,7 @@ second_nav_title: "WSQ Certified Modular Programmes"
 <li>Newly added eye lash enhancement! Receive a set of faux lashes for practice during class</li>
 </ul>
 
-<h4>Learning Outcomes</h4>
+<h4>Outline</h4>
 <ul>
 <li>Understand why wearing makeup is important</li>
 <li>Know the various types of makeup products and tools</li>
