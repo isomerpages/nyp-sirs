@@ -46,6 +46,7 @@ second_nav_title: "E-Commerce Programmes"
             <li>Barcode/Global Trade Item Number (GTIN) exemption</li>
       </ul>
       </li>
+    </ul>
 <b>3. Fulfilment by Amazon (FBA)</b>
       <ul>
             <li>Discover the benefits of FBA compared to merchant shipping and how much it costs</li>
