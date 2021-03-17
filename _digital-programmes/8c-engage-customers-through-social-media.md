@@ -9,6 +9,17 @@ second_nav_title: "SkillsFuture Series"
 
 <img src="images/sf-series-banner.png" style="width:100%;">
 
+<h4 style="text-align:center;">Next intake:</h4>
+
+<center><table style="width:80%;">
+    <tr style="text-align:center;">
+      <th style="text-align:center;width:50%;">Online Training</th>
+    </tr>
+    <tr style="text-align:center;">
+      <td style="text-align:center;width:50%;">22 Feb 2021 (Mon)<br>19 Mar 2021 (Fri)<br>19 Apr 2021 (Mon)</td>
+    </tr>
+</table></center>
+
 <p>Companies have embraced social media as part of their marketing mix, but with various degrees of success. The programme will address various social media initiatives and techniques that participants can utilise to enhance engagement with their customers.</p>
 
 <h4>Outline</h4>
@@ -17,6 +28,9 @@ second_nav_title: "SkillsFuture Series"
   <li>Using social media to engage customers</li>
   <li>Tools and resources</li>
   </ul>
+  
+<h4>Duration</h4>
+<p>9am -12pm, 2-6pm (1 day)</p>
 
 <h4>Fees</h4>
 
