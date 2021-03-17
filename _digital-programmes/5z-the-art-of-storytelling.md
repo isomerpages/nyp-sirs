@@ -8,6 +8,14 @@ second_nav_title: "Masterclasses & Workshops"
 ---
 <img src="images-2021/DigitalProgrammes-HImage-Workshop.png" style="width:100%;">
 
+<h4 style="text-align:center;">Next intake:</h4>
+
+<center><table style="width:80%;">
+    <tr style="text-align:center;">
+      <td style="text-align:center;width:50%;">To be confirmed</td>
+    </tr>
+</table></center>
+
 <p>A good story is always more persuasive than facts. It is able to attract attention, engage emotions and
 influence decisions. For businesses, a good story will help to make selling much easier. Customers today
 are bombarded with more advertisements and messages than ever before, so a good story that resonates
@@ -28,6 +36,13 @@ top-of-mind position of your customers when they make purchasing decisions.</p>
 <li>Exploring effective storytelling tips that help connect to the consumers</li>
 <li>Learning how to build a good story</li>
 </ul>
+
+<h4>Who Should Attend</h4>
+<p>This workshop is suitable for anyone who want to influence others for buy-in and those who aspire to enhance relationships with people at work through inspirational
+narrative will benefit from attending this programme.</p>
+
+<h4>Duration</h4>
+<p>9am - 6pm (8 hours)</p>
 
 <h4>Fees</h4>
 
