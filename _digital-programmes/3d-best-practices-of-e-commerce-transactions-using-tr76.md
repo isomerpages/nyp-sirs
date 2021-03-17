@@ -11,8 +11,9 @@ second_nav_title: "E-Commerce Programmes"
 <p>Technical Reference 76 (TR 76) is the first national standard on guidelines for e-commerce transactions launched by the Enterprise Singapore (ESG) and the 
 Singapore Standards Council. TR 76 serves as a practical reference for e-retailers and online intermediaries to build trust and transparency in online transactions.</p>
 
-<p>SIRS, in collaboration with ESG, presents this one-day workshop which covers the entire e-commerce transaction process including browsing, purchasing, 
-payment, delivery, product tracking, returns, and customer support practices. Learn to map your e-commerce process with TR 76 to gain customers’ confidence.</p>
+<p>SIRS, in collaboration with ESG, presents this one-day workshop which covers the entire e-commerce transaction
+process including browsing, purchasing, payment, delivery, product tracking, returns, and customer support practices.
+Learn to map your e-commerce process with TR 76 to gain customers’ confidence to engage and transact online with you today!</p>
 
 <h4>Outline</h4>
 <ul>
