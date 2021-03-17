@@ -24,13 +24,13 @@ To apply for SEP training fund, click <a href="https://e2i.com.sg/individuals/em
 For more information, click <a href="https://e2i.com.sg/individuals/employability/ntuc-training-fund-seps/">here.</a>
   </p>
 
-<b>Step 1: To register for our courses, click on the link for the courses you want to register</b>
+<b>Step 1:</b> To register for our courses, click on the link for the courses you want to register:
 <ul>
   <li><a href="/digital-programmes/skillsfuture-series">SkillsFuture Series</a></li>
   <li><a href="/digital-programmes/skillsfuture-for-digital-workplace">SkillsFuture Digital Workplace</a></li>
   </ul>
 
-<b>Step 2: Under SIRS' course registration page, click ‘Yes’ as shown below and you will be prompted to upload the approved Letter of Eligibility.</b>
+<b>Step 2:</b> Under SIRS' course registration page, click ‘Yes’ as shown below and you will be prompted to upload the approved Letter of Eligibility.
 <br>
 <img src="/images-2021/Services_Consultancy_NTUCSEPs_Screenshot.jpg" style="width:70%;">
 
