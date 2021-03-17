@@ -25,6 +25,9 @@ how to apply specific knowledge and skills in developing intuitive online purcha
 trend. Make sense of the infinite pathways in the digital space. Experience hands-on exercise of creating
 a 5-stage results-focused digital business plan for e-Marketplace ecosystem.</p>
 
+<h4>Who Should Attend</h4>
+<p>This masterclass is suitable for Entrepreneurs, Business Owners, IT Department, Senior Management Level, and Head of Departments.</p>
+
 <h4>Outline</h4>
 <ul>
 <li>Learn a short history of almost everything digital, new mobile commerce trends and customer
