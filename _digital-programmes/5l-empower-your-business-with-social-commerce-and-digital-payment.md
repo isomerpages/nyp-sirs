@@ -8,18 +8,29 @@ second_nav_title: "Masterclasses & Workshops"
 ---
 <img src="images-2021/DigitalProgrammes-Image-Masterclass.png" style="width:100%;">
 
-Social media channels are no longer just networking platforms but have evolved to become e-marketplaces
+<h4 style="text-align:center;">Next intake:</h4>
+
+<center><table style="width:80%;">
+    <tr style="text-align:center;">
+      <td style="text-align:center;width:50%;">To be confirmed</td>
+    </tr>
+</table></center>
+
+<p>Social media channels are no longer just networking platforms but have evolved to become e-marketplaces
 for direct selling and buying of products and services. Known as Social Commerce, it is a trend that is fast
 changing the e-commerce industry, offering significant opportunities for retailers to connect and engage
-with customers instantly.
+with customers instantly.</p>
 
-As social commerce continues to create economic opportunities for businesses, it is fundamental for
+<p>As social commerce continues to create economic opportunities for businesses, it is fundamental for
 retailers to adopt seamless and efficient digital payment solutions to complete a customer-centric buying
-experience on social media platforms.
+experience on social media platforms.</p>
 
-With several options when choosing the avenues of social commerce and digital payment, join us in this
+<p>With several options when choosing the avenues of social commerce and digital payment, join us in this
 masterclass to help you gain in-depth knowledge to help your business grow and expand in its outreach
-and revenue.
+and revenue.</p>
+
+<h4>Who Should Attend</h4>
+<p>This masterclass is suitable for Business Owners, C-Suite, Senior Management, Decision Makers, Marketers and Sales Associates.</p>
 
 <h4>Outline</h4>
 
@@ -46,6 +57,9 @@ and revenue.
   <li>Learn to drive traffic to stores with digital payments</li>
   </ul>
 </ul>
+
+<h4>Duration</h4>
+<p>1 day (9am - 6pm)</p>
 
 <h4>Trainer Profile</h4>
 <p><b>Simon Woon</b><br>
