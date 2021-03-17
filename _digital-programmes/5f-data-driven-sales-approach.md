@@ -8,6 +8,14 @@ second_nav_title: "Masterclasses & Workshops"
 ---
 <img src="images-2021/DigitalProgrammes-HImage-Workshop.png" style="width:100%;">
 
+<h4 style="text-align:center;">Next intake:</h4>
+
+<center><table style="width:80%;">
+    <tr style="text-align:center;">
+      <td style="text-align:center;width:50%;">To be confirmed</td>
+    </tr>
+</table></center>
+
 <p>How customers shop is changing dramatically. It used to be a linear process – from awareness through
 consideration to purchase. Now, in a connected marketplace, it is much more complex, with multiple and
 overlapping touchpoints along the path to purchase.</p>
@@ -16,8 +24,11 @@ overlapping touchpoints along the path to purchase.</p>
 decisions are made along their purchase journeys. From now on, companies that stand
 out will be the ones that can provide these solutions – seamlessly and intuitively.</p>
 
-<h4>Outline</h4>
+<h4>Who Should Attend</h4>
+<p>This workshop is designed for individuals who are looking to understand the change in consumer behaviour in order to adapt
+their marketing plans and seek clear direction to drive breakthrough in business growth.</p>
 
+<h4>Outline</h4>
 <ul>
 <li>Appreciating why customer data is critically important in driving business results</li>
 <li>Understanding emerging data analytics trends</li>
@@ -25,6 +36,9 @@ out will be the ones that can provide these solutions – seamlessly and intuiti
 <li>Understanding how to grow your business with upcoming digital trends</li>
 <li>Championing customer-centric data-driven approaches on customer insights & decision-making</li>
 </ul>
+
+<h4>Duration</h4>
+<p>9am - 6pm (8 hours)</p>
 
 <h4>Fees</h4>
 
