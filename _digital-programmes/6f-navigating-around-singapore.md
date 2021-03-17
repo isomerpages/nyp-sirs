@@ -19,6 +19,12 @@ destination using public transport in the shortest time possible.</p>
 <li>Use ride-hailing app to book a ride</li>
 </ul>
 
+<h4>Requirements</h4>
+<p>Participants must bring their own smart devices such smartphone/iPad/tablet for class.</p>
+
+<h4>Duration</h4>
+<p>9am - 12pm</p>
+
 <h4>Fees</h4>
 
 <center>
