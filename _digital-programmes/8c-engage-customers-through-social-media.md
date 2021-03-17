@@ -52,12 +52,12 @@ second_nav_title: "SkillsFuture Series"
 </tr>
 
 <tr>
-  <td>Singapore Citizen 40 years & above<sup>1</sup> (90% funding)</td>
+  <td>Singapore Citizen 40 years & above (90% funding)</td>
 <td>$25.41</td>
 </tr>
 
 <tr>
-  <td>Singapore Citizen/SPR sponsored by SMEs<sup>2</sup> (90% funding)</td>
+  <td>Singapore Citizen/SPR sponsored by SMEs (90% funding)</td>
 <td>$25.41</td>
 </tr>
 
@@ -65,13 +65,15 @@ second_nav_title: "SkillsFuture Series"
 </center>
 
 <small><i>Fees include prevailing GST</i></small>
+<h4>Additional Support</h4>
 
-<p>Learners may be also eligible for the following:</p>
+<p>This course is also eligible for the following:</p>
 
+<b>For self-sponsored participants:</b>
 <ul>
-<li>SkillsFuture Credit</li>
-<li>UTAP Funding (for NTUC members)</li>
-</ul>
+  <li><a href="/services/consultancy/skillsfuture-credit">SkillsFuture Credit</a></li>
+  <li><a href="/services/consultancy/utap">Union Training Assistance Programme (UTAP)</a></li>
+    </ul>
 
 <p>For <a href="/services/consultancy/skillsfuture-credit">SkillsFuture</a> course reference, please click <a href="/documents-2021/SIRS-SkillsFuture-CourseRefNumber.pdf">here.</a></p>
 
