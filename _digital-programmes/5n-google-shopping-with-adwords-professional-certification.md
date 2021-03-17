@@ -73,9 +73,8 @@ Ivan has over 20 years of experience in Business Consulting, Training, Search En
 </table>
 </center>
 
-<small><i><sup>1</sup>Additional funding under <a href="/services/consultancy/funding-and-support/mid-career-enhanced-subsidy">Mid-Career Enhanced Subsidy</a><br>
-<sup>2</sup>Fee is after reimbursement of S$240 via SkillsConnect under <a href="/services/consultancy/funding-and-support/skillsfuture-enhanced-training-support-for-smes">Enhanced Training Support for SMEs (ETSS)</a><br>
-Self-sponsored participants can utilise their <a href="/services/consultancy/funding-and-support/skillsfuture-credit">SkillsFuture Credit</a> to offset course fees<br>
+<small><i><sup>1</sup>Singapore Citizens eligible for <a href="/services/consultancy/skillsfuture-midcareer-enhanced-subsidy">SkillsFuture Mid-Career Enhanced Subsidy (MCES)</a><br>
+<sup>2</sup>Fee is after reimbursement of S$240 via SkillsConnect under the <a href="/services/consultancy/etss">Enhanced Training Support for SMEs (ETSS)</a><br>
 Fees include prevailing GST</i></small>
 
 <h4>Additional Support</h4>
@@ -85,13 +84,13 @@ Fees include prevailing GST</i></small>
 <b>For self-sponsored participants:</b>
 <ul>
   <li><a href="/services/consultancy/skillsfuture-credit">SkillsFuture Credit</a></li>
-  <li><a href="/services/consultancy/workfare-skills-support-wss">Workfare Skills Support (WSS) Scheme</a></li>
+  <li><a href="/services/consultancy/wss-individuals">Workfare Skills Support (WSS) Scheme (For Individuals)</a></li>
 </ul>
 
 <b>For company-sponsored participants:</b>
 <ul>
   <li><a href="/services/consultancy/absentee-payroll-ap">Absentee Payroll</a></li>
-  <li><a href="/services/consultancy/workfare-skills-support-wss">Workfare Skills Support (WSS) Scheme (Absentee Payroll)</a></li>
+  <li><a href="/services/consultancy/wss-companies">Workfare Skills Support (WSS) Scheme (For Companies)</a></li>
   </ul>
 
 <p>For <a href="/services/consultancy/skillsfuture-credit">SkillsFuture</a> course reference, please click <a href="/documents-2021/SIRS-SkillsFuture-CourseRefNumber.pdf">here.</a></p>
