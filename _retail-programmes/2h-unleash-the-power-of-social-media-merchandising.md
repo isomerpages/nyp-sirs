@@ -20,7 +20,7 @@ second_nav_title: "WSQ Certified Modular Programmes"
 <li>Create social media strategy</li>
 </ul>
 
-<h4>Learning Outcomes</h4>
+<h4>Outline</h4>
 <ul>
 <li>Evaluate usage of social media and its potential impact on the organisation</li>
 <li>Appraise potential and suitability of social media marketing opportunities</li>
@@ -92,7 +92,7 @@ second_nav_title: "WSQ Certified Modular Programmes"
   <li><a href="/services/consultancy/workfare-skills-support-wss">Workfare Skills Support (WSS) Scheme (Absentee Payroll)</a></li>
   </ul>
   
-<p>For <a href="/services/consultancy/skillsfuture-credit">SkillsFuture Credit</a>: For the reference code of all courses, please click <a href="/documents-2021/SIRS-SkillsFuture-CourseRefNumber.pdf">here.</a></p>
+<p>For <a href="https://www.skillsfuture.gov.sg/credit">SkillsFuture</a> course reference, please click <a href="/documents-2021/SIRS-SkillsFuture-CourseRefNumber.pdf">here.</a></p>
 
 <p>For more information about funding and support, click <a href="/services/consultancy">here.</a></p>
 
