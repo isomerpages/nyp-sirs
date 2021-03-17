@@ -11,13 +11,13 @@ second_nav_title: "SkillsFuture Series"
 
 <p>With the increasing traffic in social media space, successful engagement through digital content marketing is a great booster for business.</p>
 
-<p>In this 1-day course, participants would have the basic knowledge and applications to understand digital engagement that is superseding traditional marketing channels. This programme will allow participants to understand the applications of data analytics and how they can apply similar approach to derive insights from data. Participants will be equipped with the right level of appreciation in the areas of retail analytics.</p>
+<p>This programme will allow participants to understand the applications of data analytics and how they can apply similar approach to derive insights from data. The programme will equip participants with the right level of appreciation in the areas of retail analytics.</p>
 
 <h4>Outline</h4>
 <ul>
   <li>Understand types of data</li>
-<li>Collection of data</li>
-<li>Steps in data analytics</li>
+  <li>Collection of data</li>
+  <li>Steps in data analytics</li>
   </ul>
 
 <h4>Fees</h4>
@@ -59,7 +59,7 @@ second_nav_title: "SkillsFuture Series"
 <li>UTAP Funding (for NTUC members)</li>
 </ul>
 
-<p>For <a href="/services/consultancy/skillsfuture-credit">SkillsFuture Credit</a>: For the reference code of all courses, please click <a href="/documents-2021/SIRS-SkillsFuture-CourseRefNumber.pdf">here.</a></p>
+<p>For <a href="/services/consultancy/skillsfuture-credit">SkillsFuture</a> course reference, please click <a href="/documents-2021/SIRS-SkillsFuture-CourseRefNumber.pdf">here.</a></p>
 
 <p>For more information about funding and support, click <a href="/services/consultancy">here.</a></p>
 
