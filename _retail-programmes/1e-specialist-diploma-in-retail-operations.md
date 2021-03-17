@@ -19,28 +19,20 @@ second_nav_title: "WSQ Full Qualification Programmes"
 
 <p>To achieve a full qualification, individuals must successfully attain competency in all the following modules:</p>
 
-<b>Personal Effectiveness (SF-Operations Manager) (24 hours)</b>
-<p>Learn to facilitate the execution of the organisation’s strategy in building alignment, winning mindshare, developing, and growing the skills and competencies of staff. It is imperative to develop future leadership qualities and behaviours to meet the needs of the disruptive and evolving landscape.</p>
+<b>Personal Effectiveness (SF-Operations Manager) (24 hours)</b><br>Learn to facilitate the execution of the organisation’s strategy in building alignment, winning mindshare, developing, and growing the skills and competencies of staff. It is imperative to develop future leadership qualities and behaviours to meet the needs of the disruptive and evolving landscape.
  
-<b>Service Leadership (SF-Operations Manager) (24 hours)</b>
-<p>Develop the ability to create and promote a customer-centric culture within the organization design customer focused strategies to deliver and champion the organization's service excellence ethos and foster great customer experience.</p>
+<b>Service Leadership (SF-Operations Manager) (24 hours)</b><br>Develop the ability to create and promote a customer-centric culture within the organization design customer focused strategies to deliver and champion the organization's service excellence ethos and foster great customer experience.
  
-<b>Service Excellence (SF-Operations Manager) (24 hours)</b>
-<p>Learn to establish and leverage value creating strategic partnerships for organisations to enhance their competitive edge by expanding the customer base, access to new resources and talents as well as mitigate risks. The partnership can bring about new products and services that ultimately improve customer engagement and experience.</p>
-
-<p>Learn the '6-Steps Partnership Process', to bring Service Innovation ideas from vision to reality. Learn how to plan, present, and execute their ideas to create winning partnerships and jointly deliver Service Excellence. Identify and create opportunities through collaboration and alliances.</p>
+<b>Service Excellence (SF-Operations Manager) (24 hours)</b><br>Learn to establish and leverage value creating strategic partnerships for organisations to enhance their competitive edge by expanding the customer base, access to new resources and talents as well as mitigate risks. The partnership can bring about new products and services that ultimately improve customer engagement and experience. Learn the '6-Steps Partnership Process', to bring Service Innovation ideas from vision to reality. Learn how to plan, present, and execute their ideas to create winning partnerships and jointly deliver Service Excellence. Identify and create opportunities through collaboration and alliances.
  
-<b>Emerging Technology (SF-Operations Manager) (18 hours)</b>
-<p>Understand the constant need to review emerging technologies and the implications towards business strategies and objectives to stay competitive.</p>
+<b>Emerging Technology (SF-Operations Manager) (18 hours)</b><br>Understand the constant need to review emerging technologies and the implications towards business strategies and objectives to stay competitive.
  
-<b>Business Environment Analysis (SF-Operations Manager) - Formulate Social Media Strategy (24 hours)</b>
-<p>Develop the right and effective social media marketing strategy and raise awareness of the company brand for increase market share, drives sales and growth.</p>
+<b>Business Environment Analysis (SF-Operations Manager) - Formulate Social Media Strategy (24 hours)</b><br>Develop the right and effective social media marketing strategy and raise awareness of the company brand for increase market share, drives sales and growth.
  
-<b>Drive Productivity and Innovation (SF-Operations Manager) (24 hours)</b>
-<p>Learn to build an organizational culture for innovation and productivity to have long term business growth and sustainability of any organization. Understand the critical role to champion creativity, ideas-sharing, collaboration, value building and exploring new areas of growth or ways to enhance efficiency.</p>
+<b>Drive Productivity and Innovation (SF-Operations Manager) (24 hours)</b><br>Learn to build an organizational culture for innovation and productivity to have long term business growth and sustainability of any organization. Understand the critical role to champion creativity, ideas-sharing, collaboration, value building and exploring new areas of growth or ways to enhance efficiency.
  
 <h4>Duration</h4>
-<p>Duration is 6 months for day class (once a week) or 6 months for night class (twice a week)</p>
+<p>Duration is 6 months for day class (once a week) or 6 months for night class (twice a week).</p>
 
 <h4>Entry Requirements</h4>
 <ul>
@@ -104,7 +96,7 @@ second_nav_title: "WSQ Full Qualification Programmes"
   <li><a href="/services/consultancy/workfare-skills-support-wss">Workfare Skills Support (WSS) Scheme (Absentee Payroll)</a></li>
   </ul>
  
-<p>For <a href="/services/consultancy/skillsfuture-credit">SkillsFuture Credit</a>: For the reference code of all courses, please click <a href="/documents-2021/SIRS-SkillsFuture-CourseRefNumber.pdf">here.</a></p>
+<p>For SkillsFuture course reference, please click <a href="/documents-2021/SIRS-SkillsFuture-CourseRefNumber.pdf">here.</a></p>
 
 <p>For more information about funding and support, click <a href="/services/consultancy">here.</a></p>
  
