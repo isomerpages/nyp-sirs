@@ -8,6 +8,14 @@ second_nav_title: "Masterclasses & Workshops"
 ---
 <img src="images-2021/DigitalProgrammes-Image-Masterclass.png" style="width:100%;">
 
+<h4 style="text-align:center;">Next intake:</h4>
+
+<center><table style="width:80%;">
+    <tr style="text-align:center;">
+      <td style="text-align:center;width:50%;">To be confirmed</td>
+    </tr>
+</table></center>
+
 <p>While social media can be an essential tool to increase brand awareness, drive customer engagement, and
 ultimately bring in sales, a social media crisis can be extremely damaging to brands. In today’s connected
 world, a poorly managed event on social media can explode into a public outrage. Business with a robust
@@ -29,6 +37,12 @@ media crisis.</p>
 <li>Avoid issues that can cause unnecessary further escalation of issues</li>
 </ul>
 
+<h4>Who Should Attend</h4>
+<p>This masterclass is suitable for Marketing, Marcom & PR, Editorial and Digital Marketing Teams.</p>
+
+<h4>Duration</h4>
+<p>9am - 6pm (8 hours)</p>
+
 <h4>Trainer Profile</h4>
 <p><b>Ryan Lim</b><br>
   <em>Principal Consultant Founding Partner</em>
@@ -37,9 +51,9 @@ than 15 years of digital marketing experience leading teams to become leaders of
 industry. Ryan is always known to lead industry trends and thus provides his clients
 with a constant competitive advantage. Many of his proprietary digital frameworks
 and methodologies on digital transformation are adopted by leading institutions and
-organizations.
+organizations.</p>
 
-Currently, he provides strategic counsel and advisory to senior management teams
+<p>Currently, he provides strategic counsel and advisory to senior management teams
 of leading global brands, and is constantly sought to train marketing professionals
 and their teams. He has trained over 3,000 marketing professionals across the ASEAN
 region to date and is also actively lecturing at tertiary institutions.</p>
