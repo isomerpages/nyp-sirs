@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Using Whatsapp
+title: Using WhatsApp
 permalink: /digital-programmes/national-silver-academy/using-whatsapp
-breadcrumb: Using Whatsapp
+breadcrumb: Using WhatsApp
 collection_name: digital-programmes
 second_nav_title: National Silver Academy
 ---
@@ -14,8 +14,8 @@ to multiple people at the same time.</p>
 
 <h4>Outline</h4>
 <ul>
-<li>Create a Whatsapp account</li>
-<li>Add contacts to your Whatsapp account</li>
+<li>Create a WhatsApp account</li>
+<li>Add contacts to your WhatsApp account</li>
 <li>Send messages, images, and files</li>
 <li>Manage voice calls and group chats</li>
 </ul>
@@ -44,7 +44,7 @@ to multiple people at the same time.</p>
 
 <small><i>Fees include prevailing GST</i></small>
 
-<p>For SkillsFuture course reference, please click <a href="/documents-2021/SIRS-SkillsFuture-CourseRefNumber.pdf">here.</a></p>
+<p>For <a href="/services/consultancy/skillsfuture-credit">SkillsFuture</a> course reference, please click <a href="/documents-2021/SIRS-SkillsFuture-CourseRefNumber.pdf">here.</a></p>
 
 <p>For more information about funding and support, click <a href="/services/consultancy">here.</a></p>
 
