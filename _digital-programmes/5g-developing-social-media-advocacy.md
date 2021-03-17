@@ -23,9 +23,6 @@ quickly and provide more engagement. This is the power of social media advocacy.
 
 <p>Developing Social Media Advocacy masterclass will demonstrate how you can develop a strategy to
 engage your advocates to help you elevate and amplify your brand messaging to their own social networks.</p>
-
-<h4>Who Should Attend</h4>
-<p>This masterclass is suitable for Marketing, Marcom & PR, Editorial and Digital Marketing Teams.</p>
   
 <h4>Outline</h4>
 <ul>
@@ -37,6 +34,9 @@ engage your advocates to help you elevate and amplify your brand messaging to th
 <li>Plan for sufficient resources to sustain a social media advocacy program</li>
 <li>Benchmark the success of a social media advocacy program</li>
 </ul>
+
+<h4>Who Should Attend</h4>
+<p>This masterclass is suitable for Marketing, Marcom & PR, Editorial and Digital Marketing Teams.</p>
 
 <h4>Duration</h4>
 <p>9am - 6pm (8 hours)</p>
