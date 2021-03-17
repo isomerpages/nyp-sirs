@@ -8,6 +8,14 @@ second_nav_title: "Masterclasses & Workshops"
 ---
 <img src="images-2021/DigitalProgrammes-Image-Masterclass.png" style="width:100%;">
 
+<h4 style="text-align:center;">Next intake:</h4>
+
+<center><table style="width:80%;">
+    <tr style="text-align:center;">
+      <td style="text-align:center;width:50%;">To be confirmed</td>
+    </tr>
+</table></center>
+
 <p>Many businesses recognise social media is a powerful marketing tool but may not quite know how to
 optimise it. Being able to harness the power of social media is the key to create greater brand awareness
 and expand your business. Start engaging your followers on social media effectively.</p>
@@ -18,7 +26,6 @@ marketing practice, learn to measure success with social media marketing and boo
 with advertising.</p>
 
 <h4>Outline</h4>
-
 <ul>
 <li>Understanding the fundamentals of digital marketing</li>
 <li>Best practices in setting up good social media accounts and the respective pages</li>
@@ -28,7 +35,7 @@ with advertising.</p>
 <li>Dealing with customer’s complaints</li>
 </ul>
 
-<h4>Pre-Workshop Requirements:</h4>
+<h4>Requirements:</h4>
 <ol>
 <li>Practical session is to be done on LAPTOP ONLY (strictly no tablets and smartphones)</li>
 <li>MUST have Chrome, Safari or Firefox browser installed on your laptop</li>
@@ -41,6 +48,9 @@ with advertising.</p>
   <li>LinkedIn Account</li>
   </ul>
 </ol>
+
+<h4>Duration</h4>
+<p>1 day (9am - 6pm)</p>
 
 <h4>Trainer Profile</h4>
 <p><b>Keith Nakamura</b><br>
