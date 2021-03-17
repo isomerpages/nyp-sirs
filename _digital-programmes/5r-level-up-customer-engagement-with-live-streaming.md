@@ -8,6 +8,14 @@ second_nav_title: "Masterclasses & Workshops"
 ---
 <img src="images-2021/DigitalProgrammes-HImage-Workshop.png" style="width:100%;">
 
+<h4 style="text-align:center;">Next intake:</h4>
+
+<center><table style="width:80%;">
+    <tr style="text-align:center;">
+      <td style="text-align:center;width:50%;">To be confirmed</td>
+    </tr>
+</table></center>
+
 <p>From novelty to necessity, live streaming has become the game-changer in social media marketing. This
 trend is growing popularity in Singapore as social media channels like Facebook and Instagram integrated
 live video to their platforms, and businesses are acting fast in altering their marketing strategies accordingly
@@ -27,8 +35,23 @@ customers!</p>
 in an organisation, marketing/corporate communication professionals/executives, social media specialists who are
 looking for new channels to engage customers.</p>
 
-<em>*Participants with basic knowledge in digital marketing will benefit from this workshop. If not, you are strongly
-encouraged to attend our ‘Introduction to Digital Marketing’ course.</em>
+<i>*Participants with basic knowledge in digital marketing will benefit from this workshop. If not, you are strongly
+encouraged to attend our ‘Introduction to Digital Marketing’ course.</i>
+
+<h4>Requirements</h4>
+<ul>
+<li>Bring along a mobile device (phone/tablet) with camera*</li>
+<li>Ensure the mobile device has at least 10 GB of free space</li>
+<li>Have a Facebook account</li>
+<i>To ensure a better learning experience, laptop with camera is preferred but not required</i>
+</ul>
+
+<h4>Who Should Attend*</h4>
+<p>This workshop is suitable for entrepreneurs and aspiring entrepreneurs, managers/leaders communication functions in an organisation, marketing/corporate communication
+professionals/executives, social media specialists who are looking for new channels to engage customers.</p>
+
+<i>*Participants with basic knowledge in digital marketing will benefit from this workshop. If not, you are strongly
+encouraged to attend our <a href="/digital-programmes/skillsfuture-series/introduction-to-digital-marketing">Introduction to Digital Marketing</a> course.</i>
 
 <h4>Outline</h4>
 <ul>
@@ -39,13 +62,8 @@ encouraged to attend our ‘Introduction to Digital Marketing’ course.</em>
 <li>Monitor effectiveness of your live streaming</li>
 </ul>
 
-<h4>Requirements</h4>
-<ul>
-<li>Bring along a mobile device (phone/tablet) with camera*</li>
-<li>Ensure the mobile device has at least 10 GB of free space</li>
-<li>Have a Facebook account</li>
-<em>To ensure a better learning experience, laptop with camera is preferred but not required</em>
-</ul>
+<h4>Duration</h4>
+<p>2 days (9am - 6pm)</p>
 
 <h4>Fees</h4>
 
