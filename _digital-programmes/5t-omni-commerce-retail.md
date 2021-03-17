@@ -8,6 +8,14 @@ second_nav_title: "Masterclasses & Workshops"
 ---
 <img src="images-2021/DigitalProgrammes-Image-Masterclass.png" style="width:100%;">
 
+<h4 style="text-align:center;">Next intake:</h4>
+
+<center><table style="width:80%;">
+    <tr style="text-align:center;">
+      <td style="text-align:center;width:50%;">To be confirmed</td>
+    </tr>
+</table></center>
+
 <p>Digital transformation has empowered consumers more than ever before through access to information and to one another
 anytime and anywhere. Retailers who can infuse consumer perspective into their approach to Omni-commerce strategy can
 gain competitive advantage. Be it brick-and-mortar store, website, mobile app or e-marketplace, retailers need to
@@ -16,9 +24,6 @@ business elements across all the platforms.</p>
 
 <p>Applying real-time analytic tools, building a highly integrated supply chain, creating effective Omni-commerce
 marketing campaigns are some of the considerations in developing an effective Omni-commerce strategy.</p>
-
-<p>Suitable for C-level Executives, General Managers, Heads of Technology/IT, Marketing & Business Development, Heads of
-Delivery, Technologists, and Innovation Managers.</p>
 
 <h4>Outline</h4>
 
@@ -38,6 +43,10 @@ Delivery, Technologists, and Innovation Managers.</p>
 <dt>Developing social media strategy and KPI</dt>
   <dd>Create winning social commerce strategy to drive traffic and sales</dd>
 </dl>
+
+<h4>Who Should Attend</h4>
+<p>This masterclass is suitable for C-level Executives, General Managers, Heads of Technology/IT, Marketing & Business Development, Heads of
+Delivery, Technologists, and Innovation Managers.</p>
 
 <h4>Fees</h4>
 
