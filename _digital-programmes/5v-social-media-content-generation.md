@@ -8,6 +8,14 @@ second_nav_title: "Masterclasses & Workshops"
 ---
 <img src="images-2021/DigitalProgrammes-Image-Masterclass.png" style="width:100%;">
 
+<h4 style="text-align:center;">Next intake:</h4>
+
+<center><table style="width:80%;">
+    <tr style="text-align:center;">
+      <td style="text-align:center;width:50%;">To be confirmed</td>
+    </tr>
+</table></center>
+
 <p>Social sharing of branded content is great for businesses. It is however challenging to have consistently
 sharable content that people want to read and shout about. That’s why social media content generation
 requires proper planning and strategy.</p>
@@ -16,8 +24,6 @@ requires proper planning and strategy.</p>
 media content generation. The framework covers both creative and technical aspects of social media
 content creation. Learn to be a world-class social media storyteller with strategies and best practices used
 by Fortune 500 Companies of consumer brands in this hands-on masterclass.</p>
-
-<p>Suitable for Marketing, Marcom & PR, Editorial, and Digital Marketing Teams.</p>
 
 <h4>Outline</h4>
 
@@ -55,6 +61,12 @@ by Fortune 500 Companies of consumer brands in this hands-on masterclass.</p>
   <li>Tools to measure</li>
   </ul>
 </ul>
+
+<h4>Who Should Attend</h4>
+<p>This masterclass is suitable for Marketing, Marcom & PR, Editorial, and Digital Marketing Teams.</p>
+
+<h4>Duration</h4>
+<p>9am - 6pm (8 hours)</p>
 
 <h4>Trainer Profile</h4>
 <p><b>Natasha Zhao</b><br>
