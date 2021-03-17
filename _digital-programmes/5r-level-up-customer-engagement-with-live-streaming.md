@@ -31,13 +31,6 @@ platforms. Pick up live hosting skills from a professional host and discover way
 stream using various tools, equipment and software to help you level up your engagement with your
 customers!</p>
 
-<p>This workshop is suitable for entrepreneurs and aspiring entrepreneurs, managers/leaders communication functions
-in an organisation, marketing/corporate communication professionals/executives, social media specialists who are
-looking for new channels to engage customers.</p>
-
-<i>*Participants with basic knowledge in digital marketing will benefit from this workshop. If not, you are strongly
-encouraged to attend our ‘Introduction to Digital Marketing’ course.</i>
-
 <h4>Outline</h4>
 <ul>
 <li>Plan and create content, script and programme flow for your live streaming</li>
