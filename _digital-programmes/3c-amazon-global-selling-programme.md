@@ -26,32 +26,37 @@ second_nav_title: "E-Commerce Programmes"
 
 <h4>Outline</h4>
 <ol>
-  <li>Introduction to Amazon Global Selling</li>
+    <li><b>Introduction to Amazon Global Selling</b>
   <ul>
   <li>Understand Amazon and the e-Marketplace ecosystem in the USA</li>
   <li>Appreciate the Fulfilment by Amazon (FBA) process – how your products are shipped and delivered to customers in North America</li>
   <li>Identify the 4 components of managing an online business and the magic formulas to succeeding on Amazon</li>
   <li>Learn to choose the right product categories for your goods</li>
   </ul>
-  <li>Walkthrough Session</li>
+    </li>
+    <li><b>Walkthrough Session</b>
   <ul>
-  <li>Register for an Amazon seller account</li>
+  <li>Register for an Amazon seller account
       <ul>
             <li>Registration process and requirements</li>
             <li>Seller identity verification</li>
+          </li>
       </ul>
-  <li>Create product listings</li>
+  <li>Create product listings
       <ul>
             <li>Category approval process</li>
             <li>Barcode/Global Trade Item Number (GTIN) exemption</li>
+          </li>
       </ul>
-  <li>Fulfilment by Amazon (FBA)</li>
+      </li>
+      <li><b>Fulfilment by Amazon (FBA)</b>
       <ul>
             <li>Discover the benefits of FBA compared to merchant shipping and how much it costs</li>
             <li>Understand the FBA shipment creation workflow</li>
             <li>Learn how to optimise packaging and labelling, and FBA product restrictions</li>
       </ul>
-
+    </li>
+      </ol>
 
 <h4>Duration</h4>
 <p>9am - 6pm (1 day)</p>
