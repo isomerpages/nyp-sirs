@@ -48,6 +48,9 @@ marketing campaigns are some of the considerations in developing an effective Om
 <p>This masterclass is suitable for C-level Executives, General Managers, Heads of Technology/IT, Marketing & Business Development, Heads of
 Delivery, Technologists, and Innovation Managers.</p>
 
+<h4>Duration</h4>
+<p>3 days (9am - 6pm)</p>
+
 <h4>Fees</h4>
 
 <center>
