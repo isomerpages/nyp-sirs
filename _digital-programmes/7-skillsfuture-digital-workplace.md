@@ -84,7 +84,7 @@ What you will learn:
 </table>
 </center>
 
-<small><i><sup>1</sup>To check if you are an NTUC UNION member, please call 6213 8008<br>
+<small><i><sup>1</sup>To check if you are an NTUC UNION member, please call 6213-8008<br>
 Fees include prevailing GST</i></small>
 
 <p>For Advanced Usage of One-Off SkillsFuture Credit Top-Up (SFC2), click <a href="/services/consultancy/sfc2">here.</a></p>
