@@ -38,6 +38,6 @@ second_nav_title: "Consultancy"
 <table>
   <tr>
     <td><b>Enquiry on Membership Matters</b><br>Hotline: 6213-8008 (Mon – Fri: 9am to 5.30pm and Sat: 9am to 12.30pm)<br>Online enquiry: Click <a href="https://www.ntuc.org.sg/wps/portal/up2/home/feedback">here</a></td>
-    <td>Enquiry on UTAP Matters<br>Email: <a href="UTAP@e2i.com.sg">UTAP@e2i.com.sg</a><br>Website: <a href="http://skillsupgrade.ntuc.org.sg">http://skillsupgrade.ntuc.org.sg</a></td>
+    <td><b>Enquiry on UTAP Matters</b><br>Email: <a href="UTAP@e2i.com.sg">UTAP@e2i.com.sg</a><br>Website: <a href="http://skillsupgrade.ntuc.org.sg">http://skillsupgrade.ntuc.org.sg</a></td>
   </tr>
   </table>
