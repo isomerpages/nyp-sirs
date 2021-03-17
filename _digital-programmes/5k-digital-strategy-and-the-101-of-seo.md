@@ -9,11 +9,20 @@ second_nav_title: "Masterclasses & Workshops"
 
 <img src="images-2021/DigitalProgrammes-Image-Masterclass.png" style="width:100%;">
 
+<h4 style="text-align:center;">Next intake:</h4>
+
+<center><table style="width:80%;">
+    <tr style="text-align:center;">
+      <td style="text-align:center;width:50%;">To be confirmed</td>
+    </tr>
+</table></center>
+
 <p>Business decision makers will learn how to apply simple digital frameworks, analyse digital campaign successes, formulate an actionable, forward-focus review, perform simple budgeting for digital strategies, project potential marketing ROI from digital campaigns as well as drive sales and boost business through SEO execution. This class covers successful case studies in Singapore and is extremely hands-on.</p>
 
-<p>Participants are required to have a Gmail account, bring a laptop and have Google Chrome (Safari on Mac) browser installed for constant practice.</p>
-
 <p>This is an introductory program that is suitable for acquiring an overview of existing industry practices in digital marketing and SEO, looking to understand the change in consumer behaviour to adapt their business marketing plans, and seeking clear direction to drive breakthrough marketing campaigns.</p>
+
+<h4>Requirements</h4>
+<p>Participants are required to have a Gmail account, bring a laptop and have Google Chrome (Safari on Mac) browser installed for constant practice.</p>
 
 <h4>Outline</h4>
 <ul>
@@ -26,6 +35,9 @@ second_nav_title: "Masterclasses & Workshops"
 <li>Evaluating digital campaigns & key metrics</li>
 <li>Create a simple framework to evaluate campaign success or failure and understand key metrics from Google Analytics and Google Webmaster tools</li>
   </ul>
+  
+<h4>Duration</h4>
+<p>9am - 6pm (8 hours)</p>
   
 <h4>Trainer Profile</h4>
 <p><b>Jayden Ooi</b><br>
