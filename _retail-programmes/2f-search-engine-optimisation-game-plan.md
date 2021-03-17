@@ -21,7 +21,7 @@ second_nav_title: "WSQ Certified Modular Programmes"
 <li>Deploy ready-to-go SEO dashboards and reports</li>
 </ul>
 
-<h4>Learning Outcomes</h4>
+<h4>Outline</h4>
 <ul>
 <li>Cutting edge SEO techniques and start ranking websites</li>
 <li>Evaluate SEO and internet marketing strategies to develop a blueprint for SEO success</li>
