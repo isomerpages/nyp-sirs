@@ -50,9 +50,7 @@ second_nav_title: "Alibaba Business School"
 
 <img src="images/alibaba-business-school/agc-apr-2018.jpg" style="width:100%;">
 
-<div style="width:50%;float:left;"><center><a href="((LINK))" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Register Now</a></center></div>
-
-<div style="width:50%;float:left;"><center><a href="https://form.gov.sg/602f2e2609513500125322dd" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center></div>
+<center><a href="https://form.gov.sg/602f2e2609513500125322dd" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center>
 
 <h4>Media Coverage</h4>
 
@@ -63,12 +61,7 @@ second_nav_title: "Alibaba Business School"
     <td style="width:33%;vertical-align:middle;"><a href="https://sg.finance.yahoo.com/news/alibaba-launches-retail-e-commerce-065500079.html" target="_blank"><img src="images/logos/yahoo-finance-logo.jpg" style="width:100%;"></a></td>
   </tr>
   <tr>
-    <td style="width:33%;vertical-align:middle;"><a href="https://sbr.com.sg/retail/news/alibaba-launches-retail-and-e-commerce-courses-singaporean-businesses" target="_blank"><img src="images/logos/singapore-business-review-logo.jpg" style="width:100%;"></a></td>
     <td style="width:33%;vertical-align:middle;"><a href="https://www.alizila.com/singapore-smes-get-digital-education-taobao-university/" target="_blank"><img src="images/logos/alizila-logo.jpg" style="width:100%;"></a></td>
     <td style="width:33%;vertical-align:middle;"><a href="https://www.sgsme.sg/news/alibaba-nyp-offer-joint-e-commerce-courses" target="_blank"><img src="images/logos/sgsme-logo.jpg" style="width:100%;"></a></td>
   </tr>
 </table>
-
-<p>For <a href="/services/consultancy/skillsfuture-credit">SkillsFuture Credit</a>: For the reference code of all courses, please click <a href="/documents-2021/SIRS-SkillsFuture-CourseRefNumber.pdf">here.</a></p>
-
-<p>For more information about funding and support, click <a href="/services/consultancy">here.</a></p>
