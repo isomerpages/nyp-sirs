@@ -33,19 +33,52 @@ Open Your Horizons. Apply Proven E-Commerce Strategies</center>
 
 <p>完成课程后的学员将获得由阿里巴巴商学院和新加坡零售管理学院所颁发的毕业证书。</p>
 
-<h4>Highlights</h4>
+<h4>Outline</h4>
 
+<b>Insights to E-Commerce Development</b>
 <ul>
-  <li>Gain insights to the development of the e-commerce industry in Southeast Asia and China</li>
-  <li>Learn how to set up and operate an e-commerce store</li>
-  <li>Basics in creating attractive storefront and product listings</li>
-  <li>Understand how to generate organic and paid traffic to your e-store</li>
-  <li>Introduction to strategies to maximise conversions</li>
-</ul>
+  <li>Understand the development of e-commerce in China and Southeast Asia</li>
+  <li>Understand the global e-commerce trends and competitive advantages</li>
+  <li>The entrepreneur role of e-commerce explained</li>
+  <li>Alibaba platform policies explained: Company Store & Personal Store</li>
+  </ul>
 
-<h4>Testimonials</h4>
-<p>"I feel that the Alibaba is very advanced in terms of e-commerce and digital marketing. The lecturers were all of a very high standard, both in terms of intellectual ability, practical knowledge, and even business sense. I was quite amazed that  the criteria is that they must have managed real business sites well before they are allowed to be lecturers."</p> 
-<b>- Lucy Yow, New Asia Ferrell</b>
+<b>E-Commerce Entrepreneurship</b>
+<ul>
+  <li>How to create your account, setting up your store and understand the policies</li>
+  <li>Understanding using Big Data Analytics for e-commerce</li>
+  <li>Digital commerce glossary explained</li>
+  </ul>
+
+<b>Running an Online Store</b>
+<ul>
+  <li>How to do a basic setup for your e-store</li>
+  <li>How to create a product category setup</li>
+  <li>How to place product listing</li>
+  </ul>
+
+<b>Creating an Attractive Store Design with One-click Visual Impact</b>
+<ul>
+  <li>Store front page appreciation</li>
+  <li>Sourcing for high quality images / pictures</li>
+  <li>Learn to optimise your store front page</li>
+  <li>Learn to optimise product page</li>
+  </ul>
+
+<b>Online Store Campaign and Promotion</b>
+<ul>
+  <li>Understand paid and free traffic</li>
+  <li>Content marketing introduction (micro video, social media, text and pictures, live broadcast, etc)</li>
+  </ul>
+
+<b>Online Store Operation Techniques to Improve Store Ranking and Increase Sales Conversion</b>
+<ul>
+  <li>Understand management console with real time big data
+  <li>How to prepare for pre-sales 
+  <li>Optimising customer service during sales process
+  <li>How to provide post-sales service
+  <li>How to handle packaging and logistics
+    </ul>
 
 <h4>Fees</h4>
 
