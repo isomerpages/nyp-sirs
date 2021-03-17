@@ -36,6 +36,9 @@ Open Your Horizons. Apply Proven E-Commerce Strategies</center>
 <h4>Who Should Attend</h4>
 <p>This programme is suitable for Digital Professionals, Online Business Owners, E-Commerce Managers, and Digital Marketers.</p>
 
+<h4>培训对象</h4>
+<p>互联网商业平台开店的企业，个人，有意通过电商平台买向中国市场, 推广业务的品牌商等。</p>
+
 <h4>Outline</h4>
 
 <b>Insights to E-Commerce Development</b>
@@ -132,6 +135,9 @@ Open Your Horizons. Apply Proven E-Commerce Strategies</center>
 
 <h4>Duration</h4>
 <p>6 days (48 hours)</p>
+
+<h4>课程时间</h4>
+<p>6天 (48小时)</p>
 
 <h4>Fees</h4>
 
