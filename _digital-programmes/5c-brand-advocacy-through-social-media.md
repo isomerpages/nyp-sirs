@@ -26,10 +26,6 @@ speak on your brand’s behalf to create awareness, influence opinions, and purc
 advocacy through social media is able to enhance the credibility of your brand, and bring you more
 referrals and business opportunities.</p>
 
-<h4>Who Should Attend</h4>
-<p>This workshop is suitable for individuals who want to develop a sizeable community on their consumers who can influence
-other consumers’ perceptions and possibly even defend the brands in times of social media crisis.</p>
-
 <h4>Outline</h4>
 <ul>
 <li>Recognising the ever-changing social media landscape and the power of social media for businesses</li>
@@ -38,6 +34,10 @@ other consumers’ perceptions and possibly even defend the brands in times of s
 <li>Sharing social media advocacy best practices and assess social media advocacy programs</li>
 <li>Preparing to surprise and delight customers with social customer care</li>
 </ul>
+
+<h4>Who Should Attend</h4>
+<p>This workshop is suitable for individuals who want to develop a sizeable community on their consumers who can influence
+other consumers’ perceptions and possibly even defend the brands in times of social media crisis.</p>
 
 <h4>Duration</h4>
 <p>9am - 6pm (8 hours)</p>
