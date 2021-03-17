@@ -26,9 +26,6 @@ to spend more time with your brand while establishing a stronger connection. In 
 customers tend to spend more money and be more loyal.</p>
 
 <p>This workshop is designed to equip individuals to generate ideas and opportunities to engage customers in the digital world.</p>
-
-<h4>Who Should Attend</h4>
-<p>This workshop is suitable for individuals involved in generating ideas and opportunities to engage customers in the digital world.</p>
   
 <h4>Outline</h4>
 <ul>
@@ -39,6 +36,9 @@ customers tend to spend more money and be more loyal.</p>
 <li>Understanding customer’s intent to shape customer experience</li>
 <li>Redefining the service personnel role and to upgrade capabilities</li>
 </ul>
+
+<h4>Who Should Attend</h4>
+<p>This workshop is suitable for individuals involved in generating ideas and opportunities to engage customers in the digital world.</p>
 
 <h4>Duration</h4>
 <p>9am - 6pm (8 hours)</p>
