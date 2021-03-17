@@ -13,12 +13,9 @@ second_nav_title: "SkillsFuture Series"
 
 <h4>Outline</h4>
 <ul>
-  <li>Understand what is digital marketing</li>
-  <li>Understand the benefits and importance of digital marketing</li>
-  <li>Know the types of digital marketing methods</li>
-  <li>Learn how to get started on digital marketing</li>  
-  <li>Understand the basics of Search Engine Optimization (SEO) and Search Engine Marketing (SEM)</li>
-  <li>Understand social media marketing</li>
+  <li>Understand digital marketing</li>
+  <li>Search engine marketing</li>
+  <li>Social media marketing</li>
   </ul>
 
 <h4>Fees</h4>
@@ -62,7 +59,7 @@ second_nav_title: "SkillsFuture Series"
 <li>UTAP Funding (for NTUC members)</li>
 </ul>
 
-<p>For <a href="/services/consultancy/skillsfuture-credit">SkillsFuture Credit</a>: For the reference code of all courses, please click <a href="/documents-2021/SIRS-SkillsFuture-CourseRefNumber.pdf">here.</a></p>
+<p>For <a href="/services/consultancy/skillsfuture-credit">SkillsFuture</a> course reference, please click <a href="/documents-2021/SIRS-SkillsFuture-CourseRefNumber.pdf">here.</a></p>
 
 <p>For more information about funding and support, click <a href="/services/consultancy">here.</a></p>
 
