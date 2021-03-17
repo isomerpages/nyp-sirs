@@ -26,8 +26,10 @@ cloud based technology.</p>
 enough. Moving in the right direction is perhaps more important. Cloud offers convenience, flexibility,
 and scalability. Gain first-mover advantage through our masterclass.</p>
 
-<h4>Outline</h4>
+<h4>Who Should Attend</h4>
+<p>This masterclass is suitable for Entrepreneurs, Business Owners, and IT Department.</p>
 
+<h4>Outline</h4>
 <ul>
 <li>Identify the values and benefits of the AWS cloud</li>
 <li>Recognize the valuable ways that the AWS platform can be used</li>
