@@ -17,17 +17,21 @@ second_nav_title: "Alibaba Business School"
 <center>互联网商业销量破局班 - 管理层提升班<br>
 互联网策略：电商突围战术</center>
 
+<b>This programme will be conducted in English or Mandarin.</b>
+
 <p>SIRS in partnership with Alibaba Business School, the official training arm of Alibaba Group, offers comprehensive and systematic training programmes to meet a full spectrum of learning needs of government groups, entrepreneurs, SMEs, startups, e-commerce practitioners and students.</p>
 
 <p>The Managerial Elite programme aims to develop Digital Professionals with core competency in the area of data analytics, enabling them to operate and strategise their business operations effectively. The knowledge and skills imparted will enable Digital Professionals to devise content marketing strategy and design retargeting promotion to achieve breakthrough in their existing online business and stand out from the industry competition.</p>
 
-<p>Upon completion of the programme, participants will receive a certificate jointly awarded by Alibaba Business School and Singapore Institute of Retail Studies. <b>Programme will be conducted in English or Mandarin.</b></p>
+<p>Upon completion of the programme, participants will receive a certificate jointly awarded by Alibaba Business School and Singapore Institute of Retail Studies.</p>
+
+<b>这课程将由淘宝大学认证讲师以中文或英文授课!</b>
 
 <p>阿里巴巴商学院和新加坡南洋理工学院旗下新加坡零售管理学院合作，为新加坡企业带来一系列攸关电子商务实际操作与技能栽培课程，协助企业拓展核心能力并成功运用电子商务拓展营销与业务。</p>
 
 <p>大数据的运用趋势已转化了企业经营的模式。精准的运用大数据分析已是企业超越竞争对手的关键因素。管理层提升班将帮助电商经营者避开盲目店铺操盘行为。赋能经理人管理团队运营，推广，视觉营销和做跨境物流规划和运作，让网店销售迅速增长。带领电商管理者转化与激活数据分析区块，实践有效的运营网店与跨境电商管理。学员将会学习如何运用内容营销策略与设计推广战略突破电商业绩，掌握店铺运营的数据化管理技。</p>
 
-<p>完成课程后的学员将获得由阿里巴巴商学院和新加坡零售管理学院所颁发的毕业证书。<b>课程将由淘宝大学认证讲师以中文或英文授课!</b></p>
+<p>完成课程后的学员将获得由阿里巴巴商学院和新加坡零售管理学院所颁发的毕业证书。</p>
 
 <h4>Highlights</h4>
 <ul>
