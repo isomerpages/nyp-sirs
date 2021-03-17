@@ -18,8 +18,6 @@ Facebook Pages. Through hands-on practical session, participants will get to lea
 knowledge in real-time. The class is suitable for retailers who already have a Facebook Page and want to
 learn how to maximise it effectively.</p>
 
-<p>Suitable for Marketing, Marcom & PR, Editorial, and Digital Marketing Teams.</p>
-
 <h4>Outline</h4>
 <ul>
 <li>How to set-up a good Facebook Page</li>
@@ -30,6 +28,12 @@ learn how to maximise it effectively.</p>
 <li>What tactics and techniques to use for Facebook Advertising</li>
 <li>How to make sense of Facebook Insights and use it for measurement</li>
 </ul>
+
+<h4>Who Should Attend</h4>
+<p>This masterclass is suitable for Marketing, Marcom & PR, Editorial, and Digital Marketing Teams.</p>
+
+<h4>Duration</h4>
+<p>9am - 6pm (8 hours)</p>
 
 <h4>Trainer Profile</h4>
 <p><b>Joseph Zen</b><br>
