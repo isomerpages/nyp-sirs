@@ -59,12 +59,12 @@ The CDPC programme will equip the consultant with literacy and skills in:
 </tr>
 
 <tr>
-<td>Singapore Citizen 40 years & above<sup>1</sup> (90% funding)</td>
+<td>Singapore Citizen 40 years & above (90% funding)</td>
 <td>$1,597.20</td>
 </tr>
 
 <tr>
-  <td>Singapore Citizen/SPR sponsored by SMEs<sup>2</sup> (90% funding)</td>
+  <td>Singapore Citizen/SPR sponsored by SMEs (90% funding)</td>
 <td>$1,597.20</td>
 </tr>
 
