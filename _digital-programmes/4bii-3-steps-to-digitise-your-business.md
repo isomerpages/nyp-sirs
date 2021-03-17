@@ -8,14 +8,14 @@ second_nav_title: "Masterclasses & Workshops"
 ---
 <img src="images-2021/DigitalProgrammes-Image-Masterclass.png" style="width:100%;">
 
-In this digital world we live in, it is no longer a matter of whether a business should become digitised, it is
+<p>In this digital world we live in, it is no longer a matter of whether a business should become digitised, it is
 a matter of when. It is a journey which aims at leveraging the power of digital technologies to automate
-processes and provide intelligence and actionable insights to enabling business outcome more quickly.
+processes and provide intelligence and actionable insights to enabling business outcome more quickly.</p>
   
-Learn the latest digital trends to start right. Discover why digital commerce is not digital marketing and
+<p>Learn the latest digital trends to start right. Discover why digital commerce is not digital marketing and
 how to apply specific knowledge and skills in developing intuitive online purchase for Click and Collect
 trend. Make sense of the infinite pathways in the digital space. Experience hands-on exercise of creating
-a 5-stage results-focused digital business plan for e-Marketplace ecosystem.
+a 5-stage results-focused digital business plan for e-Marketplace ecosystem.</p>
 
 <h4>Outline</h4>
 
@@ -88,7 +88,7 @@ BenQ SEA, and had held key roles in Hewlett Packard-APJ and Motorola-APJ.</p>
   <li><a href="/services/consultancy/workfare-skills-support-wss">Workfare Skills Support (WSS) Scheme (Absentee Payroll)</a></li>
   </ul>
 
-<p>For <a href="/services/consultancy/skillsfuture-credit">SkillsFuture Credit</a>: For the reference code of all courses, please click <a href="/documents-2021/SIRS-SkillsFuture-CourseRefNumber.pdf">here.</a></p>
+<p>For SkillsFuture course reference, please click <a href="/documents-2021/SIRS-SkillsFuture-CourseRefNumber.pdf">here.</a></p>
 
 <p>For more information about funding and support, click <a href="/services/consultancy">here.</a></p>
 
