@@ -8,21 +8,24 @@ second_nav_title: "Masterclasses & Workshops"
 ---
 <img src="images-2021/DigitalProgrammes-Image-Masterclass.png" style="width:100%;">
 
-Category management is a critical function to determine the success of an overall business strategy, and
+<p>Category management is a critical function to determine the success of an overall business strategy, and
 this is especially true in the rapidly transforming retail space. As more consumers move between offline
 and online platforms, category management helps facilitate consumer experience by optimising store
 layouts and increasing the appeal of visual display. With proper clustering and centralising management
 system in place, retailers can efficiently anticipate consumers’ needs, buy more effectively and save
-significant sums of money in procurement.
+significant sums of money in procurement.</p>
 
-Discover how the 8-step category management process helps you to develop win-win partnerships and
+<p>Discover how the 8-step category management process helps you to develop win-win partnerships and
 build a sustainable business planning framework. Acquire practical techniques to understand consumers’
 purchase decision process, learn to leverage data and assess performance, plan assortment, manage store
 layouts and displays, identify growth opportunities, develop effective strategies and tactics to maximise
-category sales and profitability.
+category sales and profitability.</p>
+
+<h4>Who Should Attend</h4>
+<p>This masterclass is suitable for Category Managers, Merchandising Managers, Buyers, Private Label Managers, Space Management Planners,
+Brand Managers, Trade Marketing Managers, Key Account Managers, and Sales Managers.</p>
 
 <h4>Outline</h4>
-
 <ul>
 <li>Build effective joint business plans with retailers/suppliers to achieve win-win results</li>
 <li>Use 8-step category management process to manage your business strategically</li>
@@ -33,6 +36,9 @@ improvement</li>
 <li>Learn to set strategies and tactics to optimise assortment, price, promotion and space for
 offline and online channels</li>
 </ul>
+
+<h4>Duration</h4>
+<p>2 days (9am - 6pm daily)</p>
 
 <h4>Trainer Profile</h4>
 <p><b>Chen Ing Hui</b><br>
