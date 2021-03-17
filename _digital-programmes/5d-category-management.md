@@ -8,6 +8,14 @@ second_nav_title: "Masterclasses & Workshops"
 ---
 <img src="images-2021/DigitalProgrammes-Image-Masterclass.png" style="width:100%;">
 
+<h4 style="text-align:center;">Next intake:</h4>
+
+<center><table style="width:80%;">
+    <tr style="text-align:center;">
+      <td style="text-align:center;width:50%;">16 to 17 March 2021</td>
+    </tr>
+</table></center>
+
 <p>Category management is a critical function to determine the success of an overall business strategy, and
 this is especially true in the rapidly transforming retail space. As more consumers move between offline
 and online platforms, category management helps facilitate consumer experience by optimising store
