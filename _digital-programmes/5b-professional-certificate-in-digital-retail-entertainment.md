@@ -12,16 +12,14 @@ second_nav_title: "Joint Certification Programmes"
 
 <p>With the increasing popularity of livestreaming and video marketing, the digital retail entertainment industry is now valued at more than S$20 billion, and is a strategy that retailers should not miss out on in growing their customer base, and retaining their customers' brand loyalty.</p>
 
-<h4>Programme Outline</h4>
-
-Participants will have to complete the following programmes to receive the joint certificate:
+<h4>Modules</h4>
+<p>Participants will have to complete the following programmes to receive the joint certificate:</p>
 <ul>
   <li><a href="/digital-programmes/alibaba-business-school/alibaba-content-marketing-programme">SIRS' Alibaba Content Marketing Programme</a></li>
-  <li><a href="https://www.mediaacademy.sg/page/FUNDED-PROGRAMMES/making-online-content" target="_blank">Singapore Media Academy's Making Online Content Programme</a></li>
+  <li><a href="https://pd.mediaacademy.sg/ftv/moc" target="_blank">Singapore Media Academy's Making Online Content Programme</a></li>
 </ul>
 
-<h3>Learning Outcomes</h3>
-
+<h4>Outline</h4>
 <ul>
 <li>Livestreaming and video marketing operations</li>
 <li>Developing engaging content through compelling storytelling</li>
@@ -29,7 +27,7 @@ Participants will have to complete the following programmes to receive the joint
   <li>Growing and managing your fans and community</li>
 </ul>
 
-<h3>Programme Fees</h3>
+<h4>Fees</h4>
 
 <center>
 <table style="width:100%;">
@@ -66,7 +64,7 @@ Participants will have to complete the following programmes to receive the joint
 Self-sponsored participants can utilise their <a href="/services/consultancy/funding-and-support/skillsfuture-credit">SkillsFuture Credit</a> to offset course fees<br>
 Fees include prevailing GST</i></small>
 
-<p>For <a href="/services/consultancy/skillsfuture-credit">SkillsFuture Credit</a>: For the reference code of all courses, please click <a href="/documents-2021/SIRS-SkillsFuture-CourseRefNumber.pdf">here.</a></p>
+<p>For SkillsFuture course reference, please click <a href="/documents-2021/SIRS-SkillsFuture-CourseRefNumber.pdf">here.</a></p>
 
 <p>For more information about funding and support, click <a href="/services/consultancy">here.</a></p>
 
