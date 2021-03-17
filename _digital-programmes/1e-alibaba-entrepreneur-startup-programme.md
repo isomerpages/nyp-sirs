@@ -127,6 +127,9 @@ Open Your Horizons. Apply Proven E-Commerce Strategies</center>
   <li>包装及物流</li>
   </ul>
 
+<h4>Duration</h4>
+<p>6 days (48 hours)</p>
+
 <h4>Fees</h4>
 
 <center>
