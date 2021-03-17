@@ -24,7 +24,7 @@ second_nav_title: "Alibaba Business School"
 <center><table style="width:80%;">
     <tr style="text-align:center;">
       <td style="text-align:center;width:50%;">To be confirmed</td>
-    </tr>
+    </tr> 
 </table></center>
 
 <p>Join us on our New Retail expedition! Alibaba’s certified trainers will guide you to understand latest trends and developments in internet and e-commerce, analyse New Retail, Big Data, New Marketing, Cross-border and transcend Digital Thought Leadership with new retail strategy, operation and branding. Besides a rare opportunity to visit and network at Alibaba HQ, you will also get to experience facial recognition payment and augmented reality shopping guide in Alibaba’s New Retail Shopping Mall.</p>
