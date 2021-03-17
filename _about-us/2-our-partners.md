@@ -12,6 +12,11 @@ collection_name: about-us
 SIRS works with market leaders to develop cutting edge solutions and training programmes to help you reinvent your business to compete in new markets, gain new channels and develop skilled human capital. 
 </p>
 
+<b>99%SME</b>
+<ul>
+<li><a href="/digital-programmes/e-commerce-programmes/singtel-99-sme">99%SME (Onboarding)</a></li>
+</ul>
+
 <b>Alibaba Business School</b>
 <ul>
   <li><a href="/digital-programmes/alibaba-business-school/alibaba-ceo-programme">Alibaba CEO Programme</a></li>
@@ -43,18 +48,13 @@ SIRS works with market leaders to develop cutting edge solutions and training pr
 <li><a href="/digital-programmes/e-commerce-programmes/drive-sales-performance-on-qoo10">Driving Sales Performance on Qoo10 (Marketing)</a></li>
 </ul>
 
-<b>SCash & NETS</b>
-<ul>
-<li><a href="/digital-programmes/e-commerce-programmes/scash-nets-smart-retail-solution">SCash NETS Smart Retail Solution</a></li>
-</ul>
-
 <b>Shopee</b>
 <ul>
 <li><a href="/digital-programmes/e-commerce-programmes/getting-started-on-shopee">Getting Started on Shopee (Onboarding)</a></li>
 <li><a href="/digital-programmes/e-commerce-programmes/driving-sales-performance-on-shopee">Driving Sales Performance on Shopee (Marketing)</a></li>
 </ul>
 
-<b>99%SME</b>
+<b>SCash & NETS</b>
 <ul>
-<li><a href="/digital-programmes/e-commerce-programmes/singtel-99-sme">99%SME (Onboarding)</a></li>
+<li><a href="/digital-programmes/e-commerce-programmes/scash-nets-smart-retail-solution">SCash NETS Smart Retail Solution</a></li>
 </ul>
