@@ -59,14 +59,14 @@ second_nav_title: "Alibaba Business School"
 <h4>Itinerary</h4>
 
 <b>Day 1</b><br>
+<b>Depart Singapore to Hangzhou, China</b>
 <ul>
-<li>Depart Singapore to Hangzhou, China</li>
 <li>Check in Hotel</li>
   </ul>
 
 <b>Day 2</b><br>
+<b>The Alibaba World Economy and The New Retail</b>
 <ul>
-<li>The Alibaba World Economy and The New Retail</li>
 <li>Site visit to Alibaba Global HQ: Alibaba West Stream Campus & “Facial Recognition Payment” Future Retail Mall</li>
 <li>Alibaba Big Data Global Transaction Console: Panoramic view of Alibaba global business strategy and data analytic real-time transactions</li>
 <li>Alibaba Group Organisation and Culture: Alibaba corporate culture and value, organisation development and evolvement</li>
@@ -75,8 +75,8 @@ second_nav_title: "Alibaba Business School"
   </ul>
 
 <b>Day 3</b><br>
+  <b>Digital Commerce Law of Survival - Thought Leadership Breakthrough</b>
 <ul>
-<li>Digital Commerce Law of Survival - Thought Leadership Breakthrough</li>
 <li>China digital commerce milestones and its rapidly developing pathway</li>
 <li>Internet transformation 4.0: from digital commerce to sharing economy</li>
 <li>Understand digital commerce eco-system and its strategy formulation</li>
@@ -85,8 +85,8 @@ second_nav_title: "Alibaba Business School"
   </ul>
 
 <b>Day 4</b><br>
+<b>Digital Commerce Branding and Planning</b>
 <ul>
-<li>Digital Commerce Branding and Planning</li>
 <li>Understand what Digital Precision Marketing is and how it differs from traditional branding</li>
 <li>Deep dive international brand success and bottleneck in China market</li>
 <li>China’s 400 million-strong middle class and consumer trend</li>
@@ -95,8 +95,8 @@ second_nav_title: "Alibaba Business School"
   </ul>
  
 <b>Day 5</b><br>
+<b>Digital Commerce Way of Running Business</b>
 <ul>
-<li>Digital Commerce Way of Running Business</li>
 <li>Understand the value chain of digital commerce way of running business</li>
 <li>Thought leadership in digital commerce which includes re-construction of organisation and identify roles & responsibilities</li>
 <li>Learn to build digital commerce operations and overall framework through digital commerce SOP & techniques</li>                                        
@@ -104,22 +104,22 @@ second_nav_title: "Alibaba Business School"
   </ul>
  
 <b>Day 6</b><br>
+<b>Depart Hangzhou, China to Singapore</b>
 <ul>
-<li>Depart Hangzhou, China to Singapore</li>
 <li>Meals provided: Breakfast</li>
   </ul>
 
 <h4>日程</h4>
 
 <b>第一天</b><br>
+<b>从新加坡飞往杭州，中国</b>
 <ul>
-<li>从新加坡飞往杭州，中国</li>
 <li>入住酒店</li>
   </ul>
  
 <b>第二天</b><br>
+<b>阿里巴巴经济体与新零售体验</b>
 <ul>
-<li>阿里巴巴经济体与新零售体验</li>
 <li>参观阿里巴巴集团全球总部：阿里巴巴西溪园区&“人脸识别支付”未来店</li>
 <li>《阿里巴巴数据大屏》：阿里巴巴全球业务布局与数据详解</li>
 <li>《阿里巴巴集团组织和文化》：阿里巴巴集团企业文化和价值观、组织发展体系等等</li>
@@ -128,8 +128,8 @@ second_nav_title: "Alibaba Business School"
   </ul>
 
 <b>第三天</b><br>
+<b>电子商务生存法则-思维决定出路</b>
 <ul>
-<li>电子商务生存法则-思维决定出路</li>
 <li>中国电子商务的发展历程及电商快速发展的路径</li>
 <li>互联网蜕变：从线上网店到共享经济</li>
 <li>电子商务生态解读及互联网的战略布局</li>
@@ -138,8 +138,8 @@ second_nav_title: "Alibaba Business School"
   </ul>
  
 <b>第四天</b><br>
+<b>互联网品牌规划</b>
 <ul>
-<li>互联网品牌规划</li>
 <li>了解什么是互联网品牌玩法，以及与传统品牌打造的区别</li>
 <li>分析外国品牌在中国经营现状与在中国面临瓶颈的原因</li>
 <li>中国消费者现状分析与趋势解读</li>
@@ -148,8 +148,8 @@ second_nav_title: "Alibaba Business School"
   </ul>
  
 <b>第五天</b><br>
+<b>互联网商业运营</b>
 <ul>
-<li>互联网商业运营</li>
 <li>什么是互联网商业运营；电商运营特点</li>
 <li>线上运营的思路，包含了解电商团队搭建、角色定位与分工等</li>
 <li>线上运营的实操步聚与技巧，学习如何搭建自己企业的电商运营的整体框架</li>
@@ -157,12 +157,12 @@ second_nav_title: "Alibaba Business School"
  </ul>
  
 <b>第六天</b><br>
+<b>从杭州，中国往回新加坡</b>
 <ul>
-<li>从杭州，中国往回新加坡</li>
 <li>提供餐食：早餐</li>
   </ul>
 
-<h4>Programme Fees</h4>
+<h4>Fees</h4>
 
 <center>
 <table style="width:100%;">
