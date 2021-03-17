@@ -19,6 +19,7 @@ pressured to communicate with each other and collaborate to build a co-model. Le
 boost positive emotions that activate the learning centers in the brain and help learners overcome the
 training hindrance.</p>
 
+<h4>Who Should Attend</h4>
 <p>This workshop is ideal for managers, supervisors, service crews and SME owners.</p>
 
 <h4>Outline</h4>
@@ -31,6 +32,9 @@ training hindrance.</p>
 <li>Engaging stakeholders/partners/customers effectively</li>
 <li>Driving fantastic and fabulous outcome for the business</li>
 </ul>
+
+<h4>Duration</h4>
+<p>9am - 6pm (8 hours)</p>
 
 <h4>Fees</h4>
 
