@@ -24,10 +24,6 @@ overlapping touchpoints along the path to purchase.</p>
 decisions are made along their purchase journeys. From now on, companies that stand
 out will be the ones that can provide these solutions – seamlessly and intuitively.</p>
 
-<h4>Who Should Attend</h4>
-<p>This workshop is designed for individuals who are looking to understand the change in consumer behaviour in order to adapt
-their marketing plans and seek clear direction to drive breakthrough in business growth.</p>
-
 <h4>Outline</h4>
 <ul>
 <li>Appreciating why customer data is critically important in driving business results</li>
@@ -36,6 +32,10 @@ their marketing plans and seek clear direction to drive breakthrough in business
 <li>Understanding how to grow your business with upcoming digital trends</li>
 <li>Championing customer-centric data-driven approaches on customer insights & decision-making</li>
 </ul>
+
+<h4>Who Should Attend</h4>
+<p>This workshop is designed for individuals who are looking to understand the change in consumer behaviour in order to adapt
+their marketing plans and seek clear direction to drive breakthrough in business growth.</p>
 
 <h4>Duration</h4>
 <p>9am - 6pm (8 hours)</p>
