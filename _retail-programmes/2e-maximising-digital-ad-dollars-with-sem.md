@@ -20,7 +20,7 @@ second_nav_title: "WSQ Certified Modular Programmes"
   <li>Learn best practice checklist approach to setup, measure and optimise Google Ads Search and display campaigns to improve conversions, traffic or other campaign objectives</li>
 </ul>
 
-<h4>Learning Outcomes</h4>
+<h4>Outline</h4>
 <ul>
 <li>Fundamental concepts and best practices for Google Search and Display Network advertising</li>
 <li>Advertise products and services online effectively through Google Search</li>
