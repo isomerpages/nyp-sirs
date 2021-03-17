@@ -27,13 +27,17 @@ second_nav_title: "Alibaba Business School"
     </tr> 
 </table></center>
 
+<b>This programme will be conducted in Mandarin.</b>
+
 <p>Join us on our New Retail expedition! Alibaba’s certified trainers will guide you to understand latest trends and developments in internet and e-commerce, analyse New Retail, Big Data, New Marketing, Cross-border and transcend Digital Thought Leadership with new retail strategy, operation and branding. Besides a rare opportunity to visit and network at Alibaba HQ, you will also get to experience facial recognition payment and augmented reality shopping guide in Alibaba’s New Retail Shopping Mall.</p>
 
-<p>You are only a trip away to gain useful takeaways for immediate business applications to reinvent your retail for success! Over 400 individuals have benefited from the programme. Each run is limited to 40 pax only and confirmation is upon successful payment. Upon completion of the programme, participants will receive a highly valued Alibaba University graduate certificate jointly awarded by Alibaba Business School and Singapore Institute of Retail Studies. <b>Programme will be conducted in Mandarin.</b></p>
+<p>You are only a trip away to gain useful takeaways for immediate business applications to reinvent your retail for success! Over 400 individuals have benefited from the programme. Each run is limited to 40 pax only and confirmation is upon successful payment. Upon completion of the programme, participants will receive a highly valued Alibaba University graduate certificate jointly awarded by Alibaba Business School and Singapore Institute of Retail Studies.</p>
+
+<b>这课程将由淘宝大学认证讲师以中文授课!</b>
 
 <p>由阿里巴巴商学院主办，SIRS 邀请您参加我们的考察之旅，体验新零售和吸取新知识。阿里巴巴认证讲师将以中文为您解读新零售、大数据、新营销、跨境等电商新思维。您将了解互联网与电商最新发展趋势，以及如何从战略、运营与品牌三个角度，提升您对互联网时代的商业运营思维。您将亲临阿里巴巴新零售地点体验黑科技产品如刷脸付费、AR导购等。您还有难得的机会拜访阿里巴巴总部与阿里巴巴高管团队零距离接触，深入了解最新平台国际业务动态。</p>
 
-<p>千万不要错过这一个难得的机会，重塑您的零售业务，取得成功！该课程已有超过400人获益。每一次的考察之旅只限40位成功付款的学员参加。完成课程后的学员将获得由阿里巴巴商学院和新加坡零售管理学员所颁发的阿里巴巴大学毕业证书。<b>课程将由淘宝大学认证讲师以中文授课!</b></p>
+<p>千万不要错过这一个难得的机会，重塑您的零售业务，取得成功！该课程已有超过400人获益。每一次的考察之旅只限40位成功付款的学员参加。完成课程后的学员将获得由阿里巴巴商学院和新加坡零售管理学员所颁发的阿里巴巴大学毕业证书</p>
 
 
 <h4>Highlights</h4>
