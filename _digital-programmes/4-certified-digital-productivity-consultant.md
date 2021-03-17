@@ -36,6 +36,9 @@ The CDPC programme will equip the consultant with literacy and skills in:
   <li>Manage cross-border e-commerce with access to e-marketplace platforms</li>
 </ul>
 
+<h4>Who Should Attend</h4>
+<p>This programme is suitable for industry practitioners who wish to upskill their capability for career growth, or who aspire to be retail industry consultants.</p>
+
 <h4>Fees</h4>
 
 <center>
