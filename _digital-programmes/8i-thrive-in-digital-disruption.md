@@ -9,6 +9,17 @@ second_nav_title: "SkillsFuture Series"
 
 <img src="images/sf-series-banner.png" style="width:100%;">
 
+<h4 style="text-align:center;">Next intake:</h4>
+
+<center><table style="width:80%;">
+    <tr style="text-align:center;">
+      <th style="text-align:center;width:50%;">Online Training</th>
+    </tr>
+    <tr style="text-align:center;">
+      <td style="text-align:center;width:50%;">24 Feb 2021 (Wed)<br>15 Mar 2021 (Mon)</td>
+    </tr>
+</table></center>
+
 <p>This uncertain and rapidly changing environment brought about by digitalisation poses great challenges and yet offers new opportunities. Ability to learn, unlearn and relearn will position one to quickly identify & seize opportunities.</p>
 
 <h4>Outline</h4>
@@ -17,6 +28,9 @@ second_nav_title: "SkillsFuture Series"
   <li>Profile of customers</li>
   <li>Apply the right media for customer engagement</li>
   </ul>
+  
+<h4>Duration</h4>
+<p>9am -12pm, 2-6pm (1 day)</p>
 
 <h4>Fees</h4>
 
