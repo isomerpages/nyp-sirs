@@ -9,18 +9,13 @@ second_nav_title: "SkillsFuture Series"
 
 <img src="images/sf-series-banner.png" style="width:100%;">
 
-<p>Instagram is a popular social media platform for many businesses to market their brand and sell their products and services. Instagram provide an ideal marketing solution as they are user-searchable and public accessible by search engines.</p>
+<p>With more than 400 millions of Instagram users, it is no wonder that businesses are turning to this platform. Through this programme, participants will learn to leverage Instagram to help boost their online presence and adopt it as part of their marketing strategies.</p>
 
 <h4>Outline</h4>
 <ul>
-  <li>Operating Instagram basic functions </li>
-<li>Reasons for using Instagram to sell </li>
-<li>Creating a Marketing Plan </li>
-<li>Ways to use Instagram to make money </li>
-<li>Using Instagram tools (create images/videos, schedule post etc.) </li>
-<li>Attracting Instagram Followers </li>
-<li>Growing and converting your leads into sales </li>
-<li>Using Instagram tools to measure analytics </li>
+  <li>Use Instagram to grow business</li>
+  <li>Create an Instagram promotion plan</li>
+  <li>Use Instagram tools</li>
   </ul>
 
 <h4>Fees</h4>
@@ -63,6 +58,8 @@ second_nav_title: "SkillsFuture Series"
 <li>SkillsFuture Credit</li>
 <li>UTAP Funding (for NTUC members)</li>
 </ul>
+
+<p>For <a href="/services/consultancy/skillsfuture-credit">SkillsFuture</a> course reference, please click <a href="/documents-2021/SIRS-SkillsFuture-CourseRefNumber.pdf">here.</a></p>
 
 <p>For more information about funding and support, click <a href="/services/consultancy">here.</a></p>
 
