@@ -17,17 +17,21 @@ Open Your Horizons. Apply Proven E-Commerce Strategies</center>
 <center>互联网商业创业班 - 电商创业班<br>
 打开脑洞，学习套路应用在任何平台</center>
 
+<b>This programme will be conducted in Mandarin.</b>
+
 <p>SIRS in partnership with Alibaba Business School, the official training arm of Alibaba Group, offers comprehensive and systematic training programmes to meet a full spectrum of learning needs of government groups, entrepreneurs, SMEs, startups, e-commerce practitioners and students.</p>
 
 <p>The Entrepreneur Startup programme is designed for enterprising business start-ups and individuals seeking to launch an online store as an individual or enterprise. Through this course, participants will learn how efficiently set up, manage and operate an online store, understand China and South East Asia’s business opportunities at each phase of development that businesses can gain from. Mastering the ecommerce modus operandi and techniques with key big data analytics and benchmark. </p>
 
-<p>Upon completion of the programme, participants will receive a certificate jointly awarded by Alibaba Business School and Singapore Institute of Retail Studies. <b>Programme will be conducted in Mandarin.</b></p>
+<p>Upon completion of the programme, participants will receive a certificate jointly awarded by Alibaba Business School and Singapore Institute of Retail Studies.</p>
+
+<b>这课程将由淘宝大学认证讲师以中文授课!</b>
 
 <p>阿里巴巴商学院和新加坡南洋理工学院旗下零售管理学院合作，为新加坡企业带来一系列攸关电子商务实际操作与技能栽培课程，协助企业拓展核心能力并成功运用电子商务拓展营销与业务。</p>
 
 <p>随着互联网及电商的高速发展，电商专业人才短缺已成为行业核心痛点问题。电商创业班着重于培养电商理念、网上开店实操技能为主。力争使学员能够全面掌握开店所需知的跨境物流、跨境支付、店铺基础运营、免费推广、图片获取、页面制作、平台规则、客户工具、交易流程、售前服务等内容。 更加了解中国及东南亚家电商发展的情况及趋势。 掌握通用电商运营关键数据指标和运营技能。</p>
 
-<p>完成课程后的学员将获得由阿里巴巴商学院和新加坡零售管理学院所颁发的毕业证书。<b>课程将由淘宝大学认证讲师以中文授课!</b></p>
+<p>完成课程后的学员将获得由阿里巴巴商学院和新加坡零售管理学院所颁发的毕业证书。</p>
 
 <h4>Highlights</h4>
 
