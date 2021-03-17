@@ -13,11 +13,8 @@ second_nav_title: "SkillsFuture Series"
 
 <h4>Outline</h4>
 <ul>
-  <li>Introduction to social media</li>
-  <li>Understand the need to have social media connectedness</li> 
-  <li>Understand the types of social media platform used in Singapore</li>
-  <li>Know the purpose of social media marketing to businesses</li>
-  <li>Know ways companies can use social media to engage customers</li>
+  <li>Social media landscape</li>
+  <li>Using social media to engage customers</li>
   <li>Tools and resources</li>
   </ul>
 
@@ -62,7 +59,7 @@ second_nav_title: "SkillsFuture Series"
 <li>UTAP Funding (for NTUC members)</li>
 </ul>
 
-<p>For <a href="/services/consultancy/skillsfuture-credit">SkillsFuture Credit</a>: For the reference code of all courses, please click <a href="/documents-2021/SIRS-SkillsFuture-CourseRefNumber.pdf">here.</a></p>
+<p>For <a href="/services/consultancy/skillsfuture-credit">SkillsFuture</a> course reference, please click <a href="/documents-2021/SIRS-SkillsFuture-CourseRefNumber.pdf">here.</a></p>
 
 <p>For more information about funding and support, click <a href="/services/consultancy">here.</a></p>
 
