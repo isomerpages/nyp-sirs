@@ -22,7 +22,7 @@ second_nav_title: "E-Commerce Programmes"
     </tr>
 </table></center>
 
-<p>Get equipped with the essential e-commerce skills and knowledge to on-board Shopee store and bring your Shopee business to the next level with a winning marketing strategy! Enhance your shop's presence, capitalise social media to generate higher sales and create compelling visual content to bring your store to the top in rank. </p>
+<p>Get equipped with the essential e-commerce skills and knowledge to on-board Shopee store and bring your Shopee business to the next level with a winning marketing strategy! Enhance your shop's presence, capitalise social media to generate higher sales and create compelling visual content to bring your store to the top in rank.</p>
 
 <h4>Outline</h4>
 <ul>
@@ -90,7 +90,7 @@ Fees include prevailing GST</i></small>
   <li><a href="/services/consultancy/absentee-payroll-ap">Absentee Payroll</a></li>
 </ul>
 
-<p>For <a href="/services/consultancy/skillsfuture-credit">SkillsFuture Credit</a>: For the reference code of all courses, please click <a href="/documents-2021/SIRS-SkillsFuture-CourseRefNumber.pdf">here.</a></p>
+<p>For <a href="/services/consultancy/skillsfuture-credit">SkillsFuture</a> course reference, please click <a href="/documents-2021/SIRS-SkillsFuture-CourseRefNumber.pdf">here.</a></p>
 
 <p>For more information about funding and support, click <a href="/services/consultancy">here.</a></p>
 
