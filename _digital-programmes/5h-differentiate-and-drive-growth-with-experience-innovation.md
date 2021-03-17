@@ -27,13 +27,6 @@ through a continuous effort in ideation and innovation of providing the ideal ex
 easily. Such data provides insights into their customer journey, to help them analyse gaps and identify
 opportunities to create an excellent customer experience.</p>
 
-<p>This workshop is ideal for anyone involved in creating or managing customer experiences. Marketers looking
-to develop a new skillset or deepen their knowledge in understanding of customer experience principles.</p>
-
-<h4>Who Should Attend</h4>
-<p>This workshop is ideal for anyone involved in creating or managing customer experiences. Marketers looking
-to develop a new skillset or deepen their knowledge in understanding of customer experience principles.</p>
-
 <h4>Outline</h4>
 <ul>
 <li>Understanding factors that impact customer experience</li>
@@ -43,6 +36,10 @@ to develop a new skillset or deepen their knowledge in understanding of customer
 <li>Sharing successful journey mapping involving irresistible customer experiences</li>
 <li>Creating customer experience journey through building relationships and connecting emotionally</li>
 </ul>
+
+<h4>Who Should Attend</h4>
+<p>This workshop is ideal for anyone involved in creating or managing customer experiences. Marketers looking
+to develop a new skillset or deepen their knowledge in understanding of customer experience principles.</p>
 
 <h4>Duration</h4>
 <p>9am - 6pm (8 hours)</p>
