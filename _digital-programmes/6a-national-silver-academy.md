@@ -15,11 +15,11 @@ second_nav_title: National Silver Academy
   
   <ul>
   <li><a href="/digital-programmes/national-silver-academy/carousell-selling-online">Carousell Selling Online</a></li>
-  <li><a href="/digital-programmes/national-silver-academy/e-entertainment">Be a Tech-Savvy Senior: E-Entertainment</a></li>
-  <li><a href="/digital-programmes/national-silver-academy/facebook">Be a Tech-Savvy Senior: Facebook</a></li>
-  <li><a href="/digital-programmes/national-silver-academy/google-photos">Be a Tech-Savvy Senior: Google Photos</a></li>
-  <li><a href="/digital-programmes/national-silver-academy/navigating-around-singapore">Be a Tech-Savvy Senior: Navigating Around Singapore</a></li>
-  <li><a href="/digital-programmes/national-silver-academy/using-whatsapp">Be a Tech-Savvy Senior: Using Whatsapp</a></li>
+  <li><a href="/digital-programmes/national-silver-academy/using-whatsapp">Be a Tech-Savvy Senior Course 1: Using Whatsapp</a></li>
+  <li><a href="/digital-programmes/national-silver-academy/e-entertainment">Be a Tech-Savvy Senior Course 2: E-Entertainment</a></li>
+  <li><a href="/digital-programmes/national-silver-academy/google-photos">Be a Tech-Savvy Senior Course 3: Google Photos</a></li>
+  <li><a href="/digital-programmes/national-silver-academy/navigating-around-singapore">Be a Tech-Savvy Senior Course 4: Navigating Around Singapore</a></li>
+  <li><a href="/digital-programmes/national-silver-academy/facebook">Be a Tech-Savvy Senior Course 5: Facebook</a></li>
   </ul>
 
 <center><a href="https://form.gov.sg/602f3820cdb38800116f8376" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center>
