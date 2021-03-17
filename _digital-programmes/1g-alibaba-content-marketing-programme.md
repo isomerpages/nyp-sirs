@@ -17,17 +17,21 @@ Holistic Hands-on Content Marketing Techniques</center>
 <center>互联网商业营销班 - 内容营销<br>
 内容为王 - 成为新时代的内容营销精英</center>
 
+<b>This programme will be conducted in Mandarin.</b>
+
 <p>SIRS in partnership with Alibaba Business School, the official training arm of Alibaba Group, offers comprehensive and systematic training programmes to meet a full spectrum of learning needs of government groups, entrepreneurs, SMEs, startups, e-commerce practitioners and students.  </p>
 
 <p>The Content Marketing programme is designed for participants to learn the most efficient way to relate a brand story to target audiences, keeping them interested and engaged with meaningful videos that drive the right messages through different platforms. The knowledge and technical skills imparted will enable participants to connect with their online community, generate leads/customers, create brand awareness, establish a positive brand reputation and build customers’ trust and loyalty. </p>
 
-<p>Upon completion of the programme, participants will receive a certificate jointly awarded by Alibaba Business School and Singapore Institute of Retail Studies. <b>Programme will be conducted in Mandarin.</b></p>
+<p>Upon completion of the programme, participants will receive a certificate jointly awarded by Alibaba Business School and Singapore Institute of Retail Studies. </p>
+
+<b>这课程将由淘宝大学认证讲师以中文授课!</b>
 
 <p>阿里巴巴商学院和新加坡南洋理工学院旗下新加坡零售管理学院合作，为新加坡企业带来一系列攸关电子商务实际操作与技能栽培课程，协助企业拓展核心能力并成功运用电子商务拓展营销与业务。</p>
 
 <p>在网络时代迅猛发展的大背景下，内容营销已成为许多企业必备的营销方式来做品牌传播。高质量的内容能使品牌脱颖而出，吸引潜在客户的关注并提高客户转化率。内容营销新策略，新玩法 - 学员将会学习如何创造高质量的内容来吸眼球、与在线社区球建立关系、发掘新客户、创建品牌知名度、建立品牌声誉并建立客户的信任。</p>
 
-<p>完成课程后的学员将获得由阿里巴巴商学院和新加坡零售管理学院所颁发的毕业证书。<b>课程将由淘宝大学认证讲师以中文授课!</b></p>
+<p>完成课程后的学员将获得由阿里巴巴商学院和新加坡零售管理学院所颁发的毕业证书。</p>
 
 <h4>Highlights</h4>
 <ul>
