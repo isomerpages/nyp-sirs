@@ -26,9 +26,6 @@ cloud based technology.</p>
 enough. Moving in the right direction is perhaps more important. Cloud offers convenience, flexibility,
 and scalability. Gain first-mover advantage through our masterclass.</p>
 
-<h4>Who Should Attend</h4>
-<p>This masterclass is suitable for Entrepreneurs, Business Owners, and IT Department.</p>
-
 <h4>Outline</h4>
 <ul>
 <li>Identify the values and benefits of the AWS cloud</li>
@@ -38,6 +35,9 @@ security and data protection</li>
 <li>Articulate the financial impact the AWS cloud can have on an organization’s procurement
 cycle, cost management, and contracts while minimizing risks associated with consumption-based pricing models</li>
 </ul>
+
+<h4>Who Should Attend</h4>
+<p>This masterclass is suitable for Entrepreneurs, Business Owners, and IT Department.</p>
 
 <h4>Duration</h4>
 <p>9am - 6pm (8 hours)</p>
