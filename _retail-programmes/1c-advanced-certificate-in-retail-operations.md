@@ -73,14 +73,14 @@ second_nav_title: "WSQ Full Qualification Programmes"
 <ul>
   <li><a href="/services/consultancy/skillsfuture-credit">SkillsFuture Credit</a></li>
   <li><a href="/services/consultancy/utap">Union Training Assistance Programme (UTAP)</a></li>
-  <li><a href="/services/consultancy/workfare-skills-support-wss">Workfare Skills Support (WSS) Scheme</a></li>
-  <li><a href="https://programmes.myskillsfuture.gov.sg/QualificationAward/ProgrammeDetails.aspx">SkillsFuture Qualification Award $200</a></li>
+  <li><a href="/services/consultancy/wss-individuals">Workfare Skills Support (WSS) Scheme (For Individuals)</a></li>
+  <li><a href="/services/consultancy/skillsfuture-qualification-award">SkillsFuture Qualification Award $200</a></li>
 </ul>
 
 <b>For company-sponsored participants:</b>
 <ul>
   <li><a href="/services/consultancy/absentee-payroll-ap">Absentee Payroll</a></li>
-  <li><a href="/services/consultancy/workfare-skills-support-wss">Workfare Skills Support (WSS) Scheme (Absentee Payroll)</a></li>
+  <li><a href="/services/consultancy/wss-companies">Workfare Skills Support (WSS) Scheme (For Companies)</a></li>
   </ul>
 
 <p>For <a href="/services/consultancy/skillsfuture-credit">SkillsFuture</a> course reference, please click <a href="/documents-2021/SIRS-SkillsFuture-CourseRefNumber.pdf">here.</a></p>
