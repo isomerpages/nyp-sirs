@@ -14,9 +14,8 @@ second_nav_title: "SkillsFuture Series"
 <h4>Outline</h4>
 <ul>
   <li>Understand the importance of content and its role</li>
-  <li>Appreciate the importance of storytelling and in the digital age</li>
-  <li>Learn how to create content for your audience through the use of storytelling techniques</li>
-  <li>Learn how to promote content</li>
+  <li>Content creation</li>
+  <li>Content promotion</li>
   </ul>
 
 <h4>Fees</h4>
@@ -59,7 +58,7 @@ second_nav_title: "SkillsFuture Series"
 <li>UTAP Funding (for NTUC members)</li>
 </ul>
 
-<p>For <a href="/services/consultancy/skillsfuture-credit">SkillsFuture Credit</a>: For the reference code of all courses, please click <a href="/documents-2021/SIRS-SkillsFuture-CourseRefNumber.pdf">here.</a></p>
+<p>For <a href="/services/consultancy/skillsfuture-credit">SkillsFuture</a> course reference, please click <a href="/documents-2021/SIRS-SkillsFuture-CourseRefNumber.pdf">here.</a></p>
 
 <p>For more information about funding and support, click <a href="/services/consultancy">here.</a></p>
 
