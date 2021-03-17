@@ -56,6 +56,7 @@ What you will learn:
     <li>了解数据和信息的基本概念以及如何使用它</li>
     <li>利用科技来提高生活质量和增加工作效率</li>
     <li>制定继续学习计划，为将来做好准备</li>
+    </ul>
 
 <h4>Fees</h4>
 <center>
