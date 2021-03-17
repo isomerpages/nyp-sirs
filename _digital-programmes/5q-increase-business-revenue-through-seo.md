@@ -9,11 +9,27 @@ second_nav_title: "Masterclasses & Workshops"
 
 <img src="images-2021/DigitalProgrammes-Image-Masterclass.png" style="width:100%;">
 
+<h4 style="text-align:center;">Next intake:</h4>
+
+<center><table style="width:80%;">
+    <tr style="text-align:center;">
+      <td style="text-align:center;width:50%;">25 March 2021</td>
+    </tr>
+</table></center>
+
 <p>The rise of digital mediums and innovation in technology have changed the way consumers behave, and thus influencing their purchase decisions. E-commerce platforms, such as e-marketplaces, have also transformed with the increased competition. In this changing landscape, how can businesses leverage the digital mediums to stay competitive and relevant to market needs?</p>
 
 <p>This masterclass is designed to equip individuals with the skills and industry insights to make savvier business decisions when embarking on digital campaigns. </p>
 
 <p>With a good understanding of online marketing demands, it will enable participants to determine the right digital mediums. Participants will also learn to develop content that can influence online customers purchase decisions, apply effective measurements of digital campaigns and formulate actionable review plans.</p>
+
+<h4>Who Should Attend</h4>
+<p>This masterclass is suitable for marketing professionals and web & content developers who would like to:</p>
+<ul>
+  <li>Acquire an overview of existing industry practices in digital marketing and SEO</li>
+  <li>Understand the change in consumer behaviour to adapt their business marketing plans</li>
+  <li>Seek clear direction to drive breakthrough marketing campaigns</li>
+  </ul>
 
 <h4>Outline</h4>
 <ul>
@@ -23,6 +39,9 @@ second_nav_title: "Masterclasses & Workshops"
 <li>Understand the technical workings of SEO and apply them to businesses</li>
   <li>Formulate digital campaigns with measurable outcomes</li>
   </ul>
+  
+<h4>Duration</h4>
+<p>9am - 6pm (8 hours)</p>
   
 <h4>Trainer Profile</h4>
 <p><b>Jayden Ooi</b><br>
