@@ -40,17 +40,16 @@ Participants must bring their own smart devices such as smartphone/iPad/tablets 
 </tr>
 
 <tr>
-  <td>Singapore Citizens 50 years & above<sup>1</sup></td>
+  <td>Singapore Citizens 50 years & above (after 50% subsidy from NSA)</td>
 <td>$53.27</td>
 </tr>
 
 </table>
 </center>
 
-<small><i><sup>1</sup>50% subsidy from National Silver Academy (NSA)<br>
-Fees include prevailing GST</i></small>
+<small><i>Fees include prevailing GST</i></small>
 
-<p>For <a href="/services/consultancy/skillsfuture-credit">SkillsFuture Credit</a>: For the reference code of all courses, please click <a href="/documents-2021/SIRS-SkillsFuture-CourseRefNumber.pdf">here.</a></p>
+<p>For SkillsFuture course reference, please click <a href="/documents-2021/SIRS-SkillsFuture-CourseRefNumber.pdf">here.</a></p>
 
 <p>For more information about funding and support, click <a href="/services/consultancy">here.</a></p>
 
