@@ -17,6 +17,7 @@ in business mindsets and strategies. Participants also got to learn how technolo
 
 <p>At the end of the trip, participants received the highly-valued Alibaba University Graduate Certificate, jointly awarded by Alibaba Business School and SIRS.</p>
 
+<h4>Testimonials</h4>
 <img src="/images-2021/Blog_2019_RetailExperiencewithAlibabaCEOProgramme.jpg" style="width:100%;">
 
 <p>"The programme structure that combine corporate and site visit with classroom engagement was well designed to allow us to understand Ali corporate culture, business model 
