@@ -10,7 +10,8 @@ second_nav_title: Success Stories
 
 <h4>Let Our Clients Speak for Us</h4>
 <p>Read how our clients, after attending our programmes, transform their business successfully to digital platforms, increase sales and achieve greater branding awareness.</p>
-<h4>Activhealth (Singapore)</h4><br>Activhealth attained clarity in crafting digital strategy. Read full story <a href="/success-and-blog/success-stories/activhealth">here.</a>
+
+<b>Activhealth (Singapore)</b><br>Activhealth attained clarity in crafting digital strategy. Read full story <a href="/success-and-blog/success-stories/activhealth">here.</a>
 
 <h4>BEST Denki Singapore</h4><br>BEST Denki increased sales by 100% within 6 months. Read full story <a href="/success-and-blog/success-stories/best-denki">here.</a>
 
