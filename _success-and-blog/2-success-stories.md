@@ -19,7 +19,7 @@ second_nav_title: Success Stories
 
 <li>D’Elegance converts motivated and talented mid-career PMETs to reskill and take on new job roles. Read full story <a href="/success-and-blog/success-stories/d-elegance">here.</a></li>
 
-<li>Fullhouse Furning's sales revenue made a quantum leap from 9 million in 8 months to 7 million in 3 months. Read full story <a href="/success-and-blog/success-stories/fullhouse-home-furnishings">here.</a></li>
+<li>Fullhouse Furnishing's sales revenue made a quantum leap from 9 million in 8 months to 7 million in 3 months. Read full story <a href="/success-and-blog/success-stories/fullhouse-home-furnishings">here.</a></li>
 
 <li>Mighty Velo Singapore gained deeper understanding on online business model and business patterns. Read full story <a href="/success-and-blog/success-stories/mighty-velo">here.</a></li>
 
