@@ -15,8 +15,7 @@ Date:   10-05-2018
 <p>So how did she do it?</p>
 
 <p>In our recent Alibaba Global Course Series: New Marketing in April 2018, we shared about the new trends in marketing and one of the hot topic was live-streaming, which 
-  blends entertainment into e-commerce, giving the buzz word, entertainmerce. According to Chinese Renaissance Securities, in 2016 live-streaming produced revenues of more 
-  than 30 billion yuan ($4.3 billion). This figure is to increase by more than 300% by 2020.</p>
+  blends entertainment into e-commerce, giving the buzz word, entertainmerce. According to <a href="https://www.reuters.com/article/us-china-internet-livestreaming-idUSKBN17E0EV">Chinese Renaissance Securities</a>, in 2016 live-streaming produced revenues of more than 30 billion yuan ($4.3 billion). This figure is to increase by more than 300% by 2020.</p>
 
 <p>What about Singapore? Platforms such as Facebook Live, YouTube Live Streaming, Instagram Live and others are just some avenues you can explore.</p>
 
