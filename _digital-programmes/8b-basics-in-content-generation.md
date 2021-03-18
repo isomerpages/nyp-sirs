@@ -58,6 +58,8 @@ second_nav_title: "SkillsFuture Series"
 </table>
 </center>
 
+<small><i>Fees include prevailing GST</i></small>
+    
 <h4>Additional Support</h4>
 
 <p>This course is also eligible for the following:</p>
