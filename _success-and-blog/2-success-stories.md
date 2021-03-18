@@ -12,7 +12,7 @@ second_nav_title: Success Stories
 <p>Read how our clients, after attending our programmes, transform their business successfully to digital platforms, increase sales and achieve greater branding awareness.</p>
 <h4>Activhealth (Singapore)</h4><br>Activhealth attained clarity in crafting digital strategy. Read full story <a href="/success-and-blog/success-stories/activhealth">here.</a>
 
-<h4>BEST Denki Singapore</b></h4><br>BEST Denki increased sales by 100% within 6 months. Read full story <a href="/success-and-blog/success-stories/best-denki">here.</a>
+<h4>BEST Denki Singapore</h4><br>BEST Denki increased sales by 100% within 6 months. Read full story <a href="/success-and-blog/success-stories/best-denki">here.</a>
 
 <h4>BHG (Singapore)</h4><br>BHG (Singapore) successfully implemented reinvention plan despite COVID-19 constraints. Read full story <a href="/success-and-blog/success-stories/bhg">here.</a>
 
