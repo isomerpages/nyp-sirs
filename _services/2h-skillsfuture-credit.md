@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content 
-title: SkillsFuture Credit
+title: SkillsFuture Credit (SFC)
 permalink: /services/consultancy/skillsfuture-credit
-breadcrumb: SkillsFuture Credit
+breadcrumb: SkillsFuture Credit (SFC)
 collection_name: services
 second_nav_title: "Consultancy"
 ---
