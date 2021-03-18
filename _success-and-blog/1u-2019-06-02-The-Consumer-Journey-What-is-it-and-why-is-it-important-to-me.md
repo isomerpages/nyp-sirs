@@ -11,7 +11,7 @@ Date:   02-06-2019
 
 <p>Think about the last time you bought a new product - was it a cosmetic product that you saw on an advertisement, or perhaps it was bubble tea from the first outlet of the hottest Taiwanese bubble tea chain. Whichever the product you have purchased, or service that you have utilised, you have subconsciously gone through the consumer journey.
 
-<h3>What is the consumer journey?</h3>
+<h4>What is the consumer journey?</h4>
 <p>In short, the consumer journey is the process that every consumer goes through from the discovery, to the consumption of a product or service, whether consciously or otherwise. With the advent of new communication and digital technology, consumer behaviour has also become more sophisticated, altering the consumer journey. This process has also forced businesses to become more consumer-centric; delighting the consumer has never been more important.
 
 <p>What this also means is that marketers need to update their marketing techniques through strategies such as content marketing in order to continually delight consumers, and for consumers to remain loyal to a brand.
