@@ -88,7 +88,7 @@ and organizational skills with proven abilities in people management and trainin
 </table>
 </center>
 
-<small><i><sup>1</sup>Additional funding under the <a href="/services/consultancy/etss">Enhanced Training Support for SMEs (ETSS)</a><br>
+<small><i><sup>1</sup>Fee is under the <a href="/services/consultancy/etss">Enhanced Training Support for SMEs (ETSS)</a><br>
     Fees include prevailing GST</i></small>
 
 <h4>Additional Support</h4>
