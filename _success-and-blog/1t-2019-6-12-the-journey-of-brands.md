@@ -16,6 +16,6 @@ Date:   12-06-2019
 <p>Part of the importance of how branding can lead to the success of your business is in its marketing strategy. Increasingly, there is a need for a strong content marketing 
   strategy for effective communication of the brand to its consumers.</p>
   
-<p>Find out more about how you can strengthen your content marketing game with the 
+<b>Find out more about how you can strengthen your content marketing game with the 
   <a href="/digital-programmes/alibaba-business-school/alibaba-content-marketing-programme">Alibaba Content Marketing Programme</a>, 
-  or sign up to <a href="/subscribe">our mailing list</a> below to stay updated about upcoming events and programmes from SIRS!</p>
+  or sign up to <a href="/subscribe">our mailing list</a> below to stay updated about upcoming events and programmes from SIRS!</b>
