@@ -26,9 +26,6 @@ A leader consistently leads others by supporting staff to grow through collabora
 their skills. The programmes will equip participants with future leadership skills, to cultivate positive team dynamics, establish clear roles and 
 responsibilities, to achieve organisational goals.</p>
 
-<p>Suitable for participants with at least 3 years senior managerial working experience in retail or Professional, Managers, Executives and Technicians (PMETs) 
-position in non-retail sector.</p>
-
 <h4>Outline</h4>
 <ul>
   <li>Engage Customers through Social Media (7 hours)</li>
@@ -51,6 +48,9 @@ position in non-retail sector.</p>
   <li>Drive Productivity and Innovation (24 hours)</li>
   <li>Set Up an Online Business (+ Project Work) (39 hours)</li>
   </ul>
+  
+<h4>Who Should Attend</h4>
+<p>This programme is suitable for participants with at least 3 years senior managerial working experience in retail or Professional, Managers, Executives and Technicians (PMETs) position in non-retail sector.</p>
  
 <h4>Admission Requirements</h4>
 <p>GCE 'O' level Credit (at least C6) in English and Mathematics or Workplace Literacy and Numeracy (WPLN) score: Level 7 for Reading, Listening and Numeracy.</p>
