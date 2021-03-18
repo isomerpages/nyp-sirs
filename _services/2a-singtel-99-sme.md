@@ -40,4 +40,3 @@ Optimisation)</li>
   <ul>
   <li>Participating SMEs are entitled to hire Digital Professionals with a government subsidy of up to 90%* to help them kick start their digital journey</li>
   </ul>
-    </ol>
