@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Category Management The Key to Business Growth
+title: Category Management - The Key to Business Growth
 permalink: /digital-programmes/masterclasses-and-workshops/category-management
-breadcrumb: Category Management The Key to Business Growth
+breadcrumb: Category Management - The Key to Business Growth
 collection_name: digital-programmes
 second_nav_title: "Masterclasses & Workshops"
 ---
@@ -92,14 +92,15 @@ knowledge of the consumer goods ecosystem.</p>
 </tr>
 
 <tr>
-  <td>Singapore Citizen/SPR sponsored by SMEs (90% funding)</td>
+<td>Singapore Citizen/SPR sponsored by SMEs<sup>1</sup> (90% funding)</td>
 <td>$145.20</td>
 </tr>
 
 </table>
 </center>
 
-<small><i>Fees include prevailing GST</i></small>
+<small><i><sup>1</sup>Fee is under the <a href="/services/consultancy/etss">Enhanced Training Support for SMEs (ETSS)</a><br>
+    Fees include prevailing GST</i></small>
 
 <h4>Additional Support</h4>
 
@@ -117,7 +118,7 @@ knowledge of the consumer goods ecosystem.</p>
   <li><a href="/services/consultancy/wss-companies">Workfare Skills Support (WSS) Scheme (For Companies)</a></li>
   </ul>
   
-<p>For <a href="/services/consultancy/skillsfuture-credit">SkillsFuture</a> course reference, please click <a href="/documents-2021/SIRS-SkillsFuture-CourseRefNumber.pdf">here.</a></p>
+<p>For SkillsFuture course reference, please click <a href="/documents-2021/SIRS-SkillsFuture-CourseRefNumber.pdf">here.</a></p>
 
 <p>For more information about funding and support, click <a href="/services/consultancy">here.</a></p>
 
