@@ -55,16 +55,8 @@ second_nav_title: "SkillsFuture Series"
 <td>$31.46</td>
 </tr>
 
-<tr>
-<td>Singapore Citizen/SPR sponsored by SMEs<sup>1</sup> (90% funding)</td>
-<td>$31.46</td>
-</tr>
-
 </table>
 </center>
-
-<small><i><sup>1</sup>Fee is under the <a href="/services/consultancy/etss">Enhanced Training Support for SMEs (ETSS)</a><br>
-    Fees include prevailing GST</i></small>
 
 <h4>Additional Support</h4>
 
