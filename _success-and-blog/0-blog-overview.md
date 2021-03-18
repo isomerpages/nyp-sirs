@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Overview
-permalink: success-and-blog/blog
+permalink: /blog
 breadcrumb: Overview
 collection_name: success-and-blog
 second_nav_title: Blog
