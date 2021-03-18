@@ -35,4 +35,3 @@ Date:   11-11-2020
   Drives realisation of business strategies by developing business opportunities, fostering relationships with stakeholders, and establishing operations and service excellence standards.</p>
   
 <p><em>*Indicative monthly salary range. Source: Skills Framework for Retail</em></p>
-![image](https://user-images.githubusercontent.com/79237763/111557855-78831e80-87c8-11eb-9650-9915bb33368f.png)
