@@ -64,21 +64,20 @@ Jayden is the founding partner of 2 service companies, Ambient (Software Develop
 </tr>
 
 <tr>
-<td>Singapore Citizen 40 years & above<sup>1</sup> (90% funding)</td>
+<td>Singapore Citizen 40 years & above (90% funding)</td>
 <td>$90.75</td>
 </tr>
 
 <tr>
-  <td>Singapore Citizen/SPR sponsored by SMEs<sup>2</sup> (90% funding)</td>
+  <td>Singapore Citizen/SPR sponsored by SMEs<sup>1</sup> (90% funding)</td>
 <td>$90.75</td>
 </tr>
 
 </table>
 </center>
 
-<small><i><sup>1</sup>Singapore Citizens eligible for <a href="/services/consultancy/skillsfuture-midcareer-enhanced-subsidy">SkillsFuture Mid-Career Enhanced Subsidy (MCES)</a><br>
-<sup>2</sup>Fee is after reimbursement of S$150 via SkillsConnect under the <a href="/services/consultancy/etss">Enhanced Training Support for SMEs (ETSS)</a><br>
-Fees include prevailing GST</i></small>
+<small><i><sup>1</sup>Fee is under the <a href="/services/consultancy/etss">Enhanced Training Support for SMEs (ETSS)</a><br>
+    Fees include prevailing GST</i></small>
 
 <h4>Additional Support</h4>
 
@@ -97,7 +96,7 @@ Fees include prevailing GST</i></small>
   <li><a href="/services/consultancy/wss-companies">Workfare Skills Support (WSS) Scheme (For Companies)</a></li>
   </ul>
 
-<p>For <a href="/services/consultancy/skillsfuture-credit">SkillsFuture</a> course reference, please click <a href="/documents-2021/SIRS-SkillsFuture-CourseRefNumber.pdf">here.</a></p>
+<p>For SkillsFuture course reference, please click <a href="/documents-2021/SIRS-SkillsFuture-CourseRefNumber.pdf">here.</a></p>
 
 <p>For more information about funding and support, click <a href="/services/consultancy">here.</a></p>
 
