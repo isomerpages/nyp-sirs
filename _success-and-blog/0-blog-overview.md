@@ -17,6 +17,7 @@ second_nav_title: Blog
 <b>2019</b>
 <ul>
     <li><a href="/success-and-blog/blog/understanding-the-top-3-consumer-categories-for-e-commerce-in-china">Understanding the Top 3 Consumer Categories for E-Commerce in China</a></li>
+    <li><a href="/success-and-blog/blog/3-methods-to-enter-chinese-market">3 Methods to Enter the Chinese Market</a></li>
     <li><a href="/success-and-blog/blog/5-trends-of-chinese-consumers">5 Trends Shaping the Chinese Consumer Demand</a></li>
     <li><a href="/success-and-blog/blog/the-journey-of-brands">Walking into Digital Transformation - The Journey of Brands</a></li>
   <li><a href="/success-and-blog/blog/the-consumer-journey-what-is-it-and-why-is-it-important-to-me">The Consumer Journey - What is it, and why is it important to me?</a></li>
