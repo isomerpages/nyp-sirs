@@ -6,7 +6,7 @@ breadcrumb: Understanding the Top 3 Consumer Categories for E-Commerce in China
 collection_name: success-and-blog
 second_nav_title: Blog
 ---
-Date:   2019-07-29
+Date:   29-07-2019
 
 <p>The growth of e-commerce shoppers in China is expected to continue over the years, with a projected <a href="https://www.statista.com/outlook/243/117/ecommerce/china#market-users" target="_blank">931.8 million shoppers spending an average of US$985 annually</a> 4 years from now. The <a href="https://www.sirsdigitalcommerce.com/blog/5-trends-shaping-the-chinese-consumer-demand" target="_blank">potential for growth in China</a>, and the <a href="https://www.sirsdigitalcommerce.com/blog/3-key-modes-of-china-market-entry" target=_blank>ease that cross border e-commerce accords</a> to businesses interested in entering the Chinese market has led businesses to wonder what the top categories of consumer goods are, and whether their products are suitable for the insatiable Chinese consumer appetite.</p>
 
