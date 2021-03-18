@@ -22,6 +22,8 @@ second_nav_title: "Masterclasses & Workshops"
 
 <p>Join us on this one-day masterclass to gain a deeper understanding and appreciation of WeChat and the Tencent ecosystem, and the marketing strategies that brands have used to achieve success on the platform. In this masterclass, you will understand the various functions of a WeChat Official Account, and how to use the various tools and functions to increase new fans and grow your business.</p>
 
+<b>这课程将由淘宝大学认证讲师以中文授课!</b>
+
 <p>微信不仅仅是一个与朋友聊天及分享照片的社交平台，也是一个强大有效的营销工具。随着微信用户的迅猛增长，越多企业都在使用微信公众号吸引粉丝，并与他们互动及配合线上线下的推广活动。微信在新加坡商业圈逐渐普及化的趋势让许多商家越来越重视这个平台，频频应用微信宣传产品和服务。除了新加坡市场，您也能将品牌扩展到中国市场并从中获取新的粉丝，扩大客户群。</p>
 
 <p>立即参与我们为期一天的高级讲习班，深入认识微信营销方式。您将从中了解微信公众号的功能、最新趋势及政策，学习如何提高微信营销效率以吸引新客户、增加销售。今天就与我们提升您的微信营销知识和技能，将您定位在这个利润丰厚的市场，提高您的销售业绩及品牌影响力！</p>
@@ -63,21 +65,20 @@ Lou Peng has been specialising in WeChat marketing since 2012, helping many busi
 </tr>
 
 <tr>
-<td>Singapore Citizen 40 years & above<sup>1</sup> (90% funding)</td>
+<td>Singapore Citizen 40 years & above (90% funding)</td>
 <td>$90.75</td>
 </tr>
 
 <tr>
-  <td>Singapore Citizen/SPR sponsored by SMEs<sup>2</sup> (90% funding)</td>
+  <td>Singapore Citizen/SPR sponsored by SMEs<sup>1</sup> (90% funding)</td>
 <td>$90.75</td>
 </tr>
 
 </table>
 </center>
 
-<small><i><sup>1</sup>Singapore Citizens eligible for <a href="/services/consultancy/skillsfuture-midcareer-enhanced-subsidy">SkillsFuture Mid-Career Enhanced Subsidy (MCES)</a><br>
-<sup>2</sup>Fee is after reimbursement of S$150 via SkillsConnect under the <a href="/services/consultancy/etss">Enhanced Training Support for SMEs (ETSS)</a><br>
-Fees include prevailing GST</i></small>
+<small><i><sup>1</sup>Fee is under the <a href="/services/consultancy/etss">Enhanced Training Support for SMEs (ETSS)</a><br>
+    Fees include prevailing GST</i></small>
 
 <h4>Additional Support</h4>
 
@@ -88,7 +89,7 @@ Fees include prevailing GST</i></small>
   <li><a href="/services/consultancy/skillsfuture-credit">SkillsFuture Credit</a></li>
 </ul>
 
-<p>For <a href="/services/consultancy/skillsfuture-credit">SkillsFuture</a> course reference, please click <a href="/documents-2021/SIRS-SkillsFuture-CourseRefNumber.pdf">here.</a></p>
+<p>For SkillsFuture course reference, please click <a href="/documents-2021/SIRS-SkillsFuture-CourseRefNumber.pdf">here.</a></p>
 
 <p>For more information about funding and support, click <a href="/services/consultancy">here.</a></p>
 
