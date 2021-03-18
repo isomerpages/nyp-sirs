@@ -24,19 +24,18 @@ Optimisation)</li>
   </ul>
 
 <h4>How does it work?</h4>
-<ol>
-<li>Free Advertising Space
-  <ul>
+<b>1. Free Advertising Space</b>
+<ul>
   <li>Dedicated portal for local SMEs</li>
   <li>Online & offline campaigns to drive traffic to  online platform</li>
   <li>FREE Advertising on 99sme.sg platform and be seen by millions and  drive traffic both to  online shop and physical store</li>
   </ul>
-  <li>Double Exposure for Your Business
-  <ul>
+<b>2. Double Exposure for Your Business</b>
+<ul>
   <li>Double your exposure when you put up your promotions on both 99sme.sg and 99% SME eMarketplace</li>
   <li>Listing on 99% SME e-marketplace is FREE</li>
   </ul>
-  <li>Hire a Digital Professional
-  <ul>
+<b>3. Hire a Digital Professional</b>
+<ul>
   <li>Participating SMEs are entitled to hire Digital Professionals with a government subsidy of up to 90% to help them kick start their digital journey</li>
   </ul>
