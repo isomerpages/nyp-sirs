@@ -31,8 +31,6 @@ them further as they strive towards their 2036 goals.</p>
   with Cainiao, an end-to-end fulfilment service that leverages sophisticated technology such as the Internet of Things (IOT) for automated picking and packing, down to 
   last-mile delivery of orders. Synergising automation and Big Data, Cainiao takes on logistical challenges during the <a href="https://www.alizila.com/cainiao-gears-up-for-2018-11-11/">11.11 Global Shopping Festival</a> with ease, delighting 
   countless end-consumers with the speed, efficiency, and accuracy of order fulfilments.</p>
-    
-<iframe width="560" height="315" src="https://youtu.be/uEbYNJZ9iJ4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
   
 <b>3. Marketing powered by Big Data</b>
 <p>With the plethora of available platforms and services under the Alibaba Group, marketing services has become key in ensuring the success of their partners and merchants. 
