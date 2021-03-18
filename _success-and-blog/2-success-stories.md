@@ -11,7 +11,7 @@ second_nav_title: Success Stories
 <h4>Let Our Clients Speak for Us</h4>
 <p>Read how our clients, after attending our programmes, transform their business successfully to digital platforms, increase sales and achieve greater branding awareness.</p>
 
-<b>Activhealth (Singapore)</b><br>Activhealth attained clarity in crafting digital strategy. Read full story <a href="/success-and-blog/success-stories/activhealth">here.</a>
+<li><br>Activhealth (Singapore) attained clarity in crafting digital strategy. Read full story <a href="/success-and-blog/success-stories/activhealth">here.</a></li>
 
 <b>BEST Denki Singapore</b><br>BEST Denki increased sales by 100% within 6 months. Read full story <a href="/success-and-blog/success-stories/best-denki">here.</a>
 
@@ -21,7 +21,7 @@ second_nav_title: Success Stories
 
 <b>Fullhouse Home Furnishings</b><br>Fullhouse’s sales revenue made a quantum leap from 9 million in 8 months to 7 million in 3 months. Read full story <a href="/success-and-blog/success-stories/fullhouse-home-furnishings">here.</a>
 
-<b>Mighty Velo Singapore</b>><br>Mighty Velo gained deeper understanding on online business model and business patterns. Read full story <a href="/success-and-blog/success-stories/mighty-velo">here.</a>
+<b>Mighty Velo Singapore</b><br>Mighty Velo gained deeper understanding on online business model and business patterns. Read full story <a href="/success-and-blog/success-stories/mighty-velo">here.</a>
 
 <b>Unidbox Hardware</b><br>Heartland SME Unidbox Hardware’s online breakthrough. Read full story <a href="/success-and-blog/success-stories/unidbox-hardware">here.</a>
 
