@@ -2,7 +2,7 @@
 layout: leftnav-page-content
 title:  Endless Opportunities Online: How to make money from shopping?
 permalink: /success-and-blog/blog/how-to-make-money-from-shopping
-breadcrumb: Endless Opportunities Online: How to make money from shopping?
+breadcrumb: Endless Opportunities Online How to make money from shopping?
 collection_name: success-and-blog
 second_nav_title: Blog
 ---
