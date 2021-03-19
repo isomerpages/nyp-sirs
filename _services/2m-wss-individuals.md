@@ -11,7 +11,7 @@ second_nav_title: "Consultancy"
 <p>The WSS scheme encourages and supports low-wage workers to undertake training that leads to more impactful employment outcomes.</p>
 
 <h4>What does WSS Scheme comprise?</h4>
-<p>There are 3 funding components under WSS Scheme: Training Commitment Award (TCA), Training Allowance (TA), and Absentee Payroll (AP). For information on its benefits, click <a href="/documents-2021/WSG-WSS-Infosheet.pdf">here</a>.</p>
+<p>There are 3 funding components under WSS Scheme: Training Commitment Award (TCA), Training Allowance (TA), and Absentee Payroll (AP). For information on its benefits, click <a href="https://www.wsg.gov.sg/content/dam/ssg-wsg/wsg/programmes/wss-scheme-for-individuals/letterhead-and-infosheet-softcopy-mockup-20200615.pdf">here.</a></p>
 
 <h4>Am I eligible for WSS Scheme?</h4>
 <p>To qualify, individual must meet the following criteria:</p>
