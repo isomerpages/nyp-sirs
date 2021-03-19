@@ -8,7 +8,7 @@ second_nav_title: "Consultancy"
 ---
 
 <h4>What is WSS Scheme?</h4>
-<p>The WSS scheme encourages and supports low-wage workers to undertake training that leads to more impactful employment outcomes. There are 3 funding components under WSS Scheme: Training Commitment Award (TCA), Training Allowance (TA), and Absentee Payroll (AP). For information on its benefits, click here.</p>
+<p>The WSS scheme encourages and supports low-wage workers to undertake training that leads to more impactful employment outcomes. There are 3 funding components under WSS Scheme: Training Commitment Award (TCA), Training Allowance (TA), and Absentee Payroll (AP). For information on its benefits, click <a href="[WSG-WSS-Infosheet.pdf](https://github.com/isomerpages/nyp-sirs/files/6168017/WSG-WSS-Infosheet.pdf)">here</a>.</p>
 
 <h4>What does WSS Scheme comprise?</h4>
 <p>For courses eligible for Absentee Payroll (AP), sponsoring employer gets up to 95% of the hourly basic salary.</p>
@@ -26,7 +26,6 @@ second_nav_title: "Consultancy"
     <li>Together with spouse, own less than two properties; or</li>
     <li>Spouse’s assessable income for the preceding Year of Assessment is less than $70,000</li>
     </ul>
-  </ul>
     
 <h4>How do I claim for TCA, TA and/or AP?</h4>
 <p>To check on claim process, please click <a href="https://www.wsg.gov.sg/content/dam/ssg-wsg/wsg/programmes/wss-scheme-for-individuals/letterhead-and-infosheet-softcopy-mockup-20200615.pdf">here.</a></p>
