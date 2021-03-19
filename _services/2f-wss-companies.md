@@ -21,7 +21,7 @@ second_nav_title: "Consultancy"
 - Earns an average gross monthly income of not more than $2,300 for the past 12 months
 - Lives in a property with an annual value of less than $13,000 assessed as at 31 December of the preceding year
 - Owns less than two properties; and if married:
-  > - Together with spouse, own less than two properties; or
+  - Together with spouse, own less than two properties; or
   - Spouse’s assessable income for the preceding Year of Assessment is less than $70,000
     
 <h4>How do I claim for TCA, TA and/or AP?</h4>
