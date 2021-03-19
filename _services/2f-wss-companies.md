@@ -25,7 +25,7 @@ second_nav_title: "Consultancy"
   <ul>
     <li>Together with spouse, own less than two properties; or</li>
     <li>Spouse’s assessable income for the preceding Year of Assessment is less than $70,000</li>
-    </ul>
+    </li>
     
 <h4>How do I claim for TCA, TA and/or AP?</h4>
 <p>To check on claim process, please click <a href="https://www.wsg.gov.sg/content/dam/ssg-wsg/wsg/programmes/wss-scheme-for-individuals/letterhead-and-infosheet-softcopy-mockup-20200615.pdf">here.</a></p>
