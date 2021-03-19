@@ -14,6 +14,8 @@ Date:   08-07-2019
 
 <h4>1. Direct Importation</h4>
 
+<img src="/images-2021/Blog_2019_3MethodstoEnterChineseMarket2.jpg" style="width:80%;">
+
 <p>The traditional method of China market entry is through a direct importation model (aka 一般贸易).  The direct importation model allows for businesses to ship their 
   products directly into the warehouses of appointed distributors, and be sold through retailers online and offline. Traditional importation regulations are strict, and 
   may even include lab-testing for categories such as skincare and beauty, which ensures that approved products are of high reliability and trustworthiness.</p>
@@ -28,6 +30,8 @@ Date:   08-07-2019
   methods of getting foreign goods into China.</p>
   
 <h4>2. Daigou</h4>
+
+<img src="/images-2021/Blog_2019_3MethodstoEnterChineseMarket3.jpg" style="width:80%;">
 
 <p>Daigou (代购) literally translates to "buying on behalf", or "surrogate shopping" in English. Originally started as a means for locals to obtain hard-to-find foreign 
   products through friends and family members who are overseas, Daigou rapidly evolved into a lucrative industry with what is now known as Daigou syndicates. Daigou 
@@ -44,6 +48,8 @@ Date:   08-07-2019
   merchants ease-of-access to the Chinese market.</p>
   
 <h4>3. Cross Border E-Commerce</h4>
+
+<img src="/images-2021/Blog_2019_3MethodstoEnterChineseMarket4.jpg" style="width:80%;">
 
 <p>Unlike the traditional importation method, for brands entering China through cross border e-commerce (CBEC), foreign brands are only allowed to sell their products 
   via <a href="https://www.digitalcrew.com.au/blogs-and-insights/choosing-various-e-commerce-platforms-china/">e-commerce marketplaces in China</a> through platforms such as Taobao, Tmall, or Jingdong (JD).</p>
