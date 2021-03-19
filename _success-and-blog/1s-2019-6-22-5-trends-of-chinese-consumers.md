@@ -7,6 +7,7 @@ collection_name: success-and-blog
 second_nav_title: Blog
 ---
 Date:   22-06-2019
+
 <img src="/images-2021/Blog_2019_5TrendsChineseConsumers.jpg" style="width:80%;">
 
 <p>Over the years, the growth of the Chinese economy has shown signs of cooling. Despite that, China is still adding an equivalent of "an Australia" to it's GDP each year. 
