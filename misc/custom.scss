@@ -220,6 +220,10 @@ $desktop: 960px + (2 * $gap) !default;
 
 
 // Homepage
+.bp-hero-body {
+background: unset;
+}
+
 #key-highlights{
 	background-color: $primary;
 	.col {
