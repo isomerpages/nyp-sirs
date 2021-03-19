@@ -7,12 +7,10 @@ collection_name: success-and-blog
 second_nav_title: Blog
 ---
 Date:   08-07-2019
+
 <img src="/images-2021/Blog_2019_3MethodstoEnterChineseMarket.jpg" style="width:80%;">
 
-<p>As the Chinese population becomes more affluent and consumer preferences become more sophisticated, demand for imported brands and goods have soared. Total import 
-  value of foreign goods hit a record RMB 30,505 billion in 2018, a growth of almost 10% from 2017, and is expected to maintain steady growth over the next few years. 
-  Despite the rapid increase in demand, many foreign brands still find it challenging to enter the Chinese market. In this article, we explore 3 key routes of China 
-  market entry and explore the pros and cons of each method.</p>
+<p>As the <a href="/success-and-blog/blog/5-trends-of-chinese-consumers">Chinese population becomes more affluent and consumer preferences become more sophisticated</a>, demand for imported brands and goods have soared. Total import value of foreign goods hit a record <a href="https://www.statista.com/statistics/257252/import-of-goods-to-china/">RMB 30,505 billion in 2018</a>, a growth of almost 10% from 2017, and is expected to maintain steady growth over the next few years. Despite the rapid increase in demand, many foreign brands still find it challenging to enter the Chinese market. In this article, we explore 3 key routes of China market entry and explore the pros and cons of each method.</p>
 
 <h4>1. Direct Importation</h4>
 
@@ -21,7 +19,7 @@ Date:   08-07-2019
   may even include lab-testing for categories such as skincare and beauty, which ensures that approved products are of high reliability and trustworthiness.</p>
 
 <p>However, few brands have taken this route due to the numerous challenges that they present. One of the key prerequisites for the registration of direct importation is 
-  the need for a China-registered company or office. For SMEs, this presents a huge barrier-to-entry. Furthermore, the cost of registration per SKU is high, with a long 
+  the need for <a href="https://www.dezshira.com/library/qa/which-types-of-licenses-are-required-for-import-and-export-in-china-and-what-is-the-process-of-applying-for-these-licenses-3288.html">a China-registered company or office</a>. For SMEs, this presents a huge barrier-to-entry. Furthermore, the cost of registration per SKU is high, with a long 
   approval process. With the fast-moving consumer trends in China, this poses a challenge for categories such as skincare, beauty, and fashion. At the same time, brands 
   may also be required to not only redesign their packaging, but also reformulate certain products to comply to local regulations, presenting additional costs in R&D and 
   manufacturing to businesses.</p>
@@ -48,12 +46,8 @@ Date:   08-07-2019
 <h4>3. Cross Border E-Commerce</h4>
 
 <p>Unlike the traditional importation method, for brands entering China through cross border e-commerce (CBEC), foreign brands are only allowed to sell their products 
-  via e-commerce marketplaces in China through platforms such as Taobao, Tmall, or Jingdong (JD).</p>
+  via <a href="https://www.digitalcrew.com.au/blogs-and-insights/choosing-various-e-commerce-platforms-china/">e-commerce marketplaces in China</a> through platforms such as Taobao, Tmall, or Jingdong (JD).</p>
 
-<p>One of the key advantages is the lowered cost and reduced time to enter into the market. Through CBEC, businesses do not need register companies in China, significantly 
-  reducing the cost of entry especially for smaller brands and businesses. The lead time for approval of products for listing and selling on e-commerce marketplaces can 
-  also be as quick as 1 to 2 weeks, allowing for merchants to have their goods available to end-consumers in as short a time frame as possible. The lower cost of entry 
-  also means that the risk taken for businesses is minimised, allowing them more time and opportunities to understand their consumers, and their tastes and preferences.</p>
+<p>One of the key advantages is <a href="https://www.forbes.com/sites/franklavin/2018/04/18/selling-to-china-cross-border-or-in-country-solutions/?sh=53fad63316c4">the lowered cost and reduced time to enter</a> into the market. Through CBEC, businesses do not need register companies in China, significantly reducing the cost of entry especially for smaller brands and businesses. The lead time for approval of products for listing and selling on e-commerce marketplaces can also be as quick as 1 to 2 weeks, allowing for merchants to have their goods available to end-consumers in as short a time frame as possible. The lower cost of entry also means that the risk taken for businesses is minimised, allowing them more time and opportunities to understand their consumers, and their tastes and preferences.</p>
 
-<p>With much of the shopping in China being done on e-commerce and m-commerce and the relaxation of policies on cross border e-commerce, this has become one of the key 
-contributors to importation growth of the country.</p>
+<p>With much of the shopping in China being done on e-commerce and m-commerce and <a href="/success-and-blog/blog/5-trends-of-chinese-consumers">the relaxation of policies on cross border e-commerce</a>, this has become one of the key contributors to importation growth of the country.</p>
