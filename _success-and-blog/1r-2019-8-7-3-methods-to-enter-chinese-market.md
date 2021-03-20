@@ -51,7 +51,7 @@ Date:   08-07-2019
   
 <h4>3. Cross Border E-Commerce</h4>
 
-<img src="/images-2021/Blog_2019_3MethodstoEnterChineseMarket4.jpg" style="width:80%;">
+<img src="/images-2021/Blog_2019_3MethodstoEnterChineseMarket4.png" style="width:80%;">
 <center><small><i>Tmall Global - bringing the world to China</i></small></center>
 
 <p>Unlike the traditional importation method, for brands entering China through cross border e-commerce (CBEC), foreign brands are only allowed to sell their products 
