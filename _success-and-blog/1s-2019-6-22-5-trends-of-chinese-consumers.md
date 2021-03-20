@@ -17,7 +17,7 @@ Date:   22-06-2019
 <p>Here are five trends that are shaping the demand of Chinese consumers, and what it means for you as a foreign brand owner.</p>
 
 <h4>1. The Rapidly Growing Middle-Class</h4>
-<img src="/images-2021/Blog_2019_5TrendsChineseConsumers2.jpg" style="width:80%;">
+<img src="/images-2021/Blog_2019_5TrendsChineseConsumers2.png" style="width:80%;">
 <small><i>Source: McKinsey</i></small>
 
 <p>The Chinese middle-class is defined as an urban household that earns between US$9,000 - US$34,000 a year. Based on a McKinsey research, the proportion of poor households 
@@ -28,7 +28,7 @@ Date:   22-06-2019
   discerning taste, consumers are increasingly eschewing cheaper and lower-end products, and looking for higher-quality, and often foreign brands and products.</p>
 
 <h4>2. Increased Spending in Tier 3 and 4 Cities</h4>
-<img src="/images-2021/Blog_2019_5TrendsChineseConsumers3.jpg" style="width:80%;">
+<img src="/images-2021/Blog_2019_5TrendsChineseConsumers3.png" style="width:80%;">
 <small><i>Source: Morgan Stanley</i></small>
 
 <p>While Tier 1 and Tier 2 cities tend to be the common entry points into the Chinese market, a majority of the Chinese population still reside in Tier 3 cities and below. 
