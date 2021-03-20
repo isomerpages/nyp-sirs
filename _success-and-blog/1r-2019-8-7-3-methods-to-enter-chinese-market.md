@@ -15,7 +15,7 @@ Date:   08-07-2019
 <h4>1. Direct Importation</h4>
 
 <img src="/images-2021/Blog_2019_3MethodstoEnterChineseMarket2.jpg" style="width:80%;">
-<i>The inaugural China International Import Expo in 2018</i>
+<center><small><i>The inaugural China International Import Expo in 2018</i></small></center>
 
 <p>The traditional method of China market entry is through a direct importation model (aka 一般贸易).  The direct importation model allows for businesses to ship their 
   products directly into the warehouses of appointed distributors, and be sold through retailers online and offline. Traditional importation regulations are strict, and 
@@ -33,7 +33,7 @@ Date:   08-07-2019
 <h4>2. Daigou</h4>
 
 <img src="/images-2021/Blog_2019_3MethodstoEnterChineseMarket3.jpg" style="width:80%;">
-<i>"928 Daigou Crackdown" at Shanghai Pudong International Airport. Image via China National Radio</i>
+<center><small><i>"928 Daigou Crackdown" at Shanghai Pudong International Airport. Image via China National Radio</i></small></center>
 
 <p>Daigou (代购) literally translates to "buying on behalf", or "surrogate shopping" in English. Originally started as a means for locals to obtain hard-to-find foreign 
   products through friends and family members who are overseas, Daigou rapidly evolved into a lucrative industry with what is now known as Daigou syndicates. Daigou 
@@ -52,7 +52,7 @@ Date:   08-07-2019
 <h4>3. Cross Border E-Commerce</h4>
 
 <img src="/images-2021/Blog_2019_3MethodstoEnterChineseMarket4.jpg" style="width:80%;">
-<i>Tmall Global - bringing the world to China</i>
+<center><small><i>Tmall Global - bringing the world to China</i></small></center>
 
 <p>Unlike the traditional importation method, for brands entering China through cross border e-commerce (CBEC), foreign brands are only allowed to sell their products 
   via <a href="https://www.digitalcrew.com.au/blogs-and-insights/choosing-various-e-commerce-platforms-china/">e-commerce marketplaces in China</a> through platforms such as Taobao, Tmall, or Jingdong (JD).</p>
