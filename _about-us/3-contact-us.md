@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Contact Us
-permalink: /contact-sirs
+permalink: /contact-us
 breadcrumb: Contact SIRS
 collection_name: about-us
 ---
