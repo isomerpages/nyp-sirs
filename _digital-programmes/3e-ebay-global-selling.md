@@ -13,10 +13,10 @@ second_nav_title: "E-Commerce Programmes"
 
 <center><table style="width:80%;">
     <tr style="text-align:center;">
-      <th style="text-align:center;width:50%;">Online Classroom</th>
+      <th style="text-align:center;width:50%;">Online Training</th>
     </tr>
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">3 Feb 2021 (Wed)<br>9 Apr 2021 (Fri)</td>
+      <td style="text-align:center;width:50%;">9 Apr 2021 (Fri)</td>
     </tr>
 </table></center>
 
