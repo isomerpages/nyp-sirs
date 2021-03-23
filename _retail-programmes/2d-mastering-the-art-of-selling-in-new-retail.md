@@ -9,6 +9,13 @@ second_nav_title: "WSQ Certified Modular Programmes"
 
 <img src="/images-2021/WSQ Modular_Master.png" style="width:100%;">
 
+<h4 style="text-align:center;">Next intake:</h4>
+<center><table style="width:80%;">
+    <tr style="text-align:center;">
+      <td style="text-align:center;width:50%;">To be confirmed</td>
+    </tr>
+</table></center>
+
 <p>The rapid transformation of the retail landscape has brought about new challenges for retailers. To meet the shifting demands of increasingly diverse customers, sales professionals need to take a creative and interactive approach to sell in the digital age. Besides being product experts, sales professionals must also cultivate meaningful relationships with customers, while adopting new technologies and sales strategies. Stay ahead of the competition by developing your skills and mastering the art of selling to win more customers in the new retail landscape.</p>
 
 <b>Receive a WSQ Statement of Attainment (SOA) from the SkillsFuture Singapore (SSG) upon completion.</b>
