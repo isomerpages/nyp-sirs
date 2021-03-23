@@ -18,6 +18,8 @@ second_nav_title: "WSQ Certified Modular Programmes"
 
 <p>Today's digitally-savvy consumers go onto search engines to effortlessly source for information, products or services that they need. With so many businesses having an online presence, how can you stand out and draw attention from these potential customers? Search Engine Optimisation (SEO) can help to optimise your website content for the best possible search engine ranking to improve your website traffic, visibility, and engagement. Formulate overarching SEO strategies for your organisation's digital assets and content to expand your customer base and increase sales.</p>
 
+<h4>WSQ Search Engine Optimization</h4>
+    
 <b>Receive a WSQ Statement of Attainment (SOA) from the SkillsFuture Singapore (SSG) upon completion.</b>
 
 <h4>Highlights</h4>
@@ -108,6 +110,6 @@ second_nav_title: "WSQ Certified Modular Programmes"
 
 <p>For more information about funding and support, click <a href="/services/consultancy">here.</a></p>
 
-<div style="width:50%;float:left;"><center><a href="https://form.gov.sg/#!/5e5dc4cd30d0700011b57622" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Register Now</a></center></div>
+<div style="width:50%;float:left;"><center><a href="https://form.gov.sg/#!/5f4532ff7dab380011d9a4c9" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Register Now</a></center></div>
 
 <div style="width:50%;float:left;"><center><a href="https://form.gov.sg/602f27830951350012530bee" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center></div>
