@@ -8,6 +8,13 @@ second_nav_title: "WSQ Certified Modular Programmes"
 ---
 <img src="/images-2021/WSQ Modular_VM.png" style="width:100%;">
 
+<h4 style="text-align:center;">Next intake:</h4>
+<center><table style="width:80%;">
+    <tr style="text-align:center;">
+      <td style="text-align:center;width:50%;">To be confirmed</td>
+    </tr>
+</table></center>
+
 <p>Globally, brick-and-mortar sales is in the decline as consumers are increasingly going online to make their purchases. At the same time, consumers are searching for an exciting offline experience with brands. As a retailer, how can you capitalize on this opportunity?</p>
 
 <p>Join us in this 2-day course to learn how you can revitalize your store to attract and engage shoppers, and provide them with an immersive shopping experience that excites the senses through The Art and Science of Visual Merchandising. Attract visitors through shareable moments, engage your fanbase, and convert them into your loyal customers today!</p>
