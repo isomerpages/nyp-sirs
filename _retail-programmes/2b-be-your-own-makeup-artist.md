@@ -9,6 +9,7 @@ second_nav_title: "WSQ Certified Modular Programmes"
 
 <img src="/images-2021/WSQ Modular_BYOMA.png" style="width:100%;">
 
+<h4 style="text-align:center;">Next intake:</h4>
 <center><table style="width:80%;">
     <tr style="text-align:center;">
       <td style="text-align:center;width:50%;">To be confirmed</td>
