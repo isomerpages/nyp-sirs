@@ -15,7 +15,7 @@ second_nav_title: "WSQ Certified Modular Programmes"
     </tr>
 </table></center>
 
-<p>As social media continues to weave itself into everyone's daily lives, it has become one of the most important and profitable aspects of digital marketing. Social media platforms provide businesses with the opportunity to reach out to billions of consumers worldwide and allow them to engage with their customers regularly. With consistent monitoring and fine-tuning of your social media marketing strategy, you will potentially see an increase in traffic & sales, improve brand awareness and gain more satisfied customers to help you take your business to greater heights.</p>\
+<p>As social media continues to weave itself into everyone's daily lives, it has become one of the most important and profitable aspects of digital marketing. Social media platforms provide businesses with the opportunity to reach out to billions of consumers worldwide and allow them to engage with their customers regularly. With consistent monitoring and fine-tuning of your social media marketing strategy, you will potentially see an increase in traffic & sales, improve brand awareness and gain more satisfied customers to help you take your business to greater heights.</p>
 
 <h4>WSQ Social Media Marketing</h4>
 
