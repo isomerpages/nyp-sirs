@@ -8,6 +8,13 @@ second_nav_title: "WSQ Certified Modular Programmes"
 ---
 <img src="/images-2021/WSQ Modular_SEM.png" style="width:100%;">
 
+<h4 style="text-align:center;">Next intake:</h4>
+<center><table style="width:80%;">
+    <tr style="text-align:center;">
+      <td style="text-align:center;width:50%;">To be confirmed</td>
+    </tr>
+</table></center>
+
 <p>With millions of businesses vying for the same eyeballs online, one of the most effective way to enhance your digital presence and achieve fast results is through Search Engine Marketing (SEM), a form of internet marketing by increasing your website visibility on search engine results through paid advertising. When equipped with SEM skills and knowledge, you will be able to manage, review and implement successful SEM strategies to create immediate brand visibility, increase traffic, and boost lead conversions – a key to your long-term business success.</p>
 
 <b>Receive a WSQ Statement of Attainment (SOA) from the SkillsFuture Singapore (SSG) upon completion.</b>
