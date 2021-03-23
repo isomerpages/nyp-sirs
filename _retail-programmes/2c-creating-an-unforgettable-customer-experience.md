@@ -8,6 +8,13 @@ second_nav_title: "WSQ Certified Modular Programmes"
 ---
 <img src="/images-2021/WSQ Modular_CX.png" style="width:100%;">
 
+<h4 style="text-align:center;">Next intake:</h4>
+<center><table style="width:80%;">
+    <tr style="text-align:center;">
+      <td style="text-align:center;width:50%;">To be confirmed</td>
+    </tr>
+</table></center>
+
 <p>Although more customers are doing their shopping online, the human element remains an integral part of delivering amazing customer experience. This is especially true for physical stores where frontline retail associates are the major touchpoint between your brand and the customers. Therefore, it is important for them to provide a differentiated in-store experience by cultivating greater empathy to deepen connection and acquiring the know-how to project favourable brand perception during customer interactions. Keep your business going strong by attracting and retaining loyal customers to your stores through unforgettable experience curated for them.</p>
 
 <b>Receive a WSQ Statement of Attainment (SOA) from the SkillsFuture Singapore (SSG) upon completion.</b>
