@@ -17,6 +17,8 @@ second_nav_title: "WSQ Certified Modular Programmes"
 
 <p>With millions of businesses vying for the same eyeballs online, one of the most effective way to enhance your digital presence and achieve fast results is through Search Engine Marketing (SEM), a form of internet marketing by increasing your website visibility on search engine results through paid advertising. When equipped with SEM skills and knowledge, you will be able to manage, review and implement successful SEM strategies to create immediate brand visibility, increase traffic, and boost lead conversions – a key to your long-term business success.</p>
 
+<h4>WSQ Paid Search Engine Marketing (SEM)</h4>
+
 <b>Receive a WSQ Statement of Attainment (SOA) from the SkillsFuture Singapore (SSG) upon completion.</b>
 
 <h4>Highlights</h4>
@@ -101,6 +103,6 @@ second_nav_title: "WSQ Certified Modular Programmes"
 
 <p>For more information about funding and support, click <a href="/services/consultancy">here.</a></p>
 
-<div style="width:50%;float:left;"><center><a href="https://form.gov.sg/#!/5e5dc4cd30d0700011b57622" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Register Now</a></center></div>
+<div style="width:50%;float:left;"><center><a href="https://form.gov.sg/#!/5f4532ff7dab380011d9a4c9" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Register Now</a></center></div>
 
 <div style="width:50%;float:left;"><center><a href="https://form.gov.sg/602f27830951350012530bee" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center></div>
