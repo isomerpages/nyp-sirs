@@ -9,6 +9,13 @@ second_nav_title: "WSQ Certified Modular Programmes"
 
 <img src="/images-2021/WSQ_Modular_SEO.png" style="width:100%;">
 
+<h4 style="text-align:center;">Next intake:</h4>
+<center><table style="width:80%;">
+    <tr style="text-align:center;">
+      <td style="text-align:center;width:50%;">To be confirmed</td>
+    </tr>
+</table></center>
+
 <p>Today's digitally-savvy consumers go onto search engines to effortlessly source for information, products or services that they need. With so many businesses having an online presence, how can you stand out and draw attention from these potential customers? Search Engine Optimisation (SEO) can help to optimise your website content for the best possible search engine ranking to improve your website traffic, visibility, and engagement. Formulate overarching SEO strategies for your organisation's digital assets and content to expand your customer base and increase sales.</p>
 
 <b>Receive a WSQ Statement of Attainment (SOA) from the SkillsFuture Singapore (SSG) upon completion.</b>
