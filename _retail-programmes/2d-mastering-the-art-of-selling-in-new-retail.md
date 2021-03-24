@@ -18,7 +18,9 @@ second_nav_title: "WSQ Certified Modular Programmes"
 
 <p>The rapid transformation of the retail landscape has brought about new challenges for retailers. To meet the shifting demands of increasingly diverse customers, sales professionals need to take a creative and interactive approach to sell in the digital age. Besides being product experts, sales professionals must also cultivate meaningful relationships with customers, while adopting new technologies and sales strategies. Stay ahead of the competition by developing your skills and mastering the art of selling to win more customers in the new retail landscape.</p>
 
-<h4>Service Leadership (SF — Associate)</h4>
+<h4>Course Title</h4>
+
+<p>Service Leadership (SF — Associate)</p>
 
 <b>Receive a WSQ Statement of Attainment (SOA) from the SkillsFuture Singapore (SSG) upon completion.</b>
 
