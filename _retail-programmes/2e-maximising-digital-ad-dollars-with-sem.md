@@ -11,7 +11,10 @@ second_nav_title: "WSQ Certified Modular Programmes"
 <h4 style="text-align:center;">Next intake:</h4>
 <center><table style="width:80%;">
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">To be confirmed</td>
+      <th style="text-align:center;width:50%;">Online Training</th>
+    </tr>
+    <tr style="text-align:center;">
+      <td style="text-align:center;width:50%;">14 and 15 Apr 2021<br>3 and 5 May 2021</td>
     </tr>
 </table></center>
 
