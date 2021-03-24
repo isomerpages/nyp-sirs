@@ -19,7 +19,9 @@ second_nav_title: "WSQ Certified Modular Programmes"
 
 <p>Join us in this 2-day course to learn how you can revitalize your store to attract and engage shoppers, and provide them with an immersive shopping experience that excites the senses through The Art and Science of Visual Merchandising. Attract visitors through shareable moments, engage your fanbase, and convert them into your loyal customers today!</p>
 
-<h4>Visual Merchandising Presentation (SF Associate)</h4>
+<h4>Course Title</h4>
+
+<p>Visual Merchandising Presentation (SF Associate)</p>
 
 <b>Receive a WSQ Statement of Attainment (SOA) from the SkillsFuture Singapore (SSG) upon completion.</b>
 
