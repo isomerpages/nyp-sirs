@@ -50,7 +50,7 @@ block; margin: 4px 2px; cursor:pointer;text-decoration:none;">For Employers</a><
 <b>Course Fee Subsidy</b>
 <ol>
 	<li>Non-Small and Medium Enterprises (SMEs): Up to 70% SSG funding*</li>
-	<li>SMEs or trainees eligible for Mid-Caree Enhanced Subsidy (MCES): Up to 90% SSG funding*</li>
+	<li>SMEs or trainees eligible for Mid-Career Enhanced Subsidy (MCES): Up to 90% SSG funding*</li>
 	</ol>
 
 <small><i>*Funding caps vary and apply for respective PCPs</i></small>
