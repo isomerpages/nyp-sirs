@@ -32,6 +32,8 @@ second_nav_title: "Career Services"
 
 <center><a href="/services/career-services/new-media-professional" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Find Out More</a></center>
 
+<center><a href="http://bit.ly/SIRS-PCP-NMP" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Register for NMP Now</a></center>
+
 <h4>PCP - Digital Professional (PCP - DP)</h4>
 
 <img src="images-2021/Services-CareerServices-PCP-DP.jpg" style="width:100%:">
@@ -50,6 +52,8 @@ second_nav_title: "Career Services"
 
 <center><a href="/services/career-services/digital-professional" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Find Out More</a></center>
 
+<center><a href="http://bit.ly/SIRS-PCP-DP" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Register for DP Now</a></center>
+
 <h4>PCP - Retail Professional (PCP - RP)</h4>
 
 <img src="images-2021/Services-CareerServices-PCP-RP.jpg" style="width:100%:">
@@ -67,6 +71,10 @@ second_nav_title: "Career Services"
 	</ol>
 
 <center><a href="/services/career-services/retail-professional" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Find Out More</a></center>
+
+<center><a href="http://bit.ly/SIRS-PCP-RP" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Register for RP Now</a></center>
+
+<center><a href="https://form.gov.sg/602f3c1c08dce8001276454a" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center>
 
 <h4>What are the benefits to your company?</h4>
 <ol>
