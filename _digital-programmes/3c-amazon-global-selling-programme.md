@@ -32,27 +32,19 @@ second_nav_title: "E-Commerce Programmes"
   <li>Identify the 4 components of managing an online business and the magic formulas to succeeding on Amazon</li>
   <li>Learn to choose the right product categories for your goods</li>
   </ul>
+  
 <b>2. Walkthrough Session</b>
-  <ul>
-  <li>Register for an Amazon seller account
-      <ul>
-            <li>Registration process and requirements</li>
-            <li>Seller identity verification</li>
-      </ul>
-      </li>
-  <li>Create product listings
-      <ul>
-            <li>Category approval process</li>
-            <li>Barcode/Global Trade Item Number (GTIN) exemption</li>
-      </ul>
-      </li>
-    </ul>
+- Register for an Amazon seller account
+    - Registration process and requirements
+    - Seller identity verification
+ - Create product listings
+    - Category approval process
+    - Barcode/Global Trade Item Number (GTIN) exemption
+                
 <b>3. Fulfilment by Amazon (FBA)</b>
-      <ul>
-            <li>Discover the benefits of FBA compared to merchant shipping and how much it costs</li>
-            <li>Understand the FBA shipment creation workflow</li>
-            <li>Learn how to optimise packaging and labelling, and FBA product restrictions</li>
-      </ul>
+- Discover the benefits of FBA compared to merchant shipping and how much it costs
+- Understand the FBA shipment creation workflow
+- Learn how to optimise packaging and labelling, and FBA product restrictions
 
 <h4>Duration</h4>
 <p>9am - 6pm (1 day)</p>
