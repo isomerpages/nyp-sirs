@@ -25,22 +25,34 @@ second_nav_title: "E-Commerce Programmes"
 <p>Get equipped with the essential e-commerce skills and knowledge to on-board Shopee store and bring your Shopee business to the next level with a winning marketing strategy! Enhance your shop's presence, capitalise social media to generate higher sales and create compelling visual content to bring your store to the top in rank.</p>
 
 <h4>Outline</h4>
-<ul>
-  <li>Introduction to the Shopee platform and global e-commerce</li>
-  <li>Understand the Shopee logistics system</li>
-  <li>Understand the four key components of an e-commerce store</li>
-  <li>Find out how you can source for products for successful e-commerce business</li>
-  <li>Apply ‘conversion rate formula’, ‘value from paid’ and ‘own and earn traffic’</li>
-  <li>Hands-on session on Shopee Seller Centre
-    <ul>
-      <li>How to set up an account, your shop profile, and upload products</li>
-      <li>Basic functions of Shopee and its benefits to you as a seller</li>
-      <li>Marketing and promotional mechanics to increase traffic and conversion</li>
-      <li>Managing inventory, orders, finances, and customer service</li>
-      <li>Analysing sales data</li>
-    </ul>
-  </li>
-</ul>
+
+<b>1. Introduction to Shopee and the Global e-Commerce</b>
+- Learn what Shopee offers
+- Get an overview of the eco-system of digital commerce
+- How to manage the social commerce, reviews, ranking, and conversion rate
+
+<b>2. Improve Store Performance</b>
+- Understand the pros and cons of e-Marketplace, web store, blog shop & social media shop
+- Learn about the 4 key components of an online store
+- Apply ‘conversion rate formula’, ‘value from paid’ and ‘own and earn traffic’
+- How to source for products
+
+<b>3. Practical Hands-on Session on Shopee</b>
+- Seller Centre
+- Set up an account, create shop profile and uploading of products
+- Shopee guarantee to protect buyers and sellers
+- Shopee’s basic functions and benefits
+- Entice buyers through promotions, pricing, free delivering and good product listing
+- Different ways of product exposure; attract, convince customers and follow up the orders
+- Manage sale orders and buyers return request
+- Manage finances using My Income/My wallet
+- Understand e-commerce jargon and data
+- Extract relevant data using seller performance tab
+- Understand the e-commerce terms to analyse shop performance
+
+<b>4. Understand Shopee Logistic System</b>
+- Ways to protect products
+- Understand the different methods of delivery
 
 <h4>Duration</h4>
 <p>9am - 6pm (1 day)</p>
