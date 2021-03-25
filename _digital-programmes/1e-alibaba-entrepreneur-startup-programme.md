@@ -78,13 +78,11 @@ Open Your Horizons. Apply Proven E-Commerce Strategies</center>
   </ul>
 
 <b>Online Store Operation Techniques to Improve Store Ranking and Increase Sales Conversion</b>
-<ul>
-  <li>Understand management console with real time big data
-  <li>How to prepare for pre-sales 
-  <li>Optimising customer service during sales process
-  <li>How to provide post-sales service
-  <li>How to handle packaging and logistics
-    </ul>
+- Understand management console with real time big data
+- How to prepare for pre-sales 
+- Optimising customer service during sales process
+- How to provide post-sales service
+- How to handle packaging and logistics
     
 <h4>课程内容</h4>
 
