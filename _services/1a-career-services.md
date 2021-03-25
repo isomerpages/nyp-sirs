@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Overview
+title: Career Services Overview
 permalink: /services/career-services
-breadcrumb: Overview
+breadcrumb: Career Services Overview
 collection_name: services
 second_nav_title: "Career Services"
 ---
@@ -45,6 +45,6 @@ second_nav_title: "Career Services"
 <a href="/services/career-services/work-study-cert-dmb" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;" target="_blank">Find Out More</a>
 
 <b>SGUnited Skills (SGUS) Programme</b>
-<p>The SGUS Programme administered by SIRS is open to all mid-career Singapore Citizens and Singapore Permanent Residents who can commit to this 6-month full-time training programme to enhance their skills profile for the new digital-driven industry. Trainees enjoy close to 100% subsidised course fee and up to $7,000 of training allowance during the programme. SIRS also provides career advisory, guidance, and employment placement assistance at no cost.</p>
+<p>The SGUS Programme administered by SIRS is open to all mid-career Singapore Citizens and Singapore Permanent Residents who can commit to this 6-month full-time training programme to enhance their skills profile for the new digital-driven industry. Trainees enjoy close to 100% subsidised course fee and up to $7,200 of training allowance during the programme. SIRS also provides career advisory, guidance, and employment placement assistance at no cost.</p>
 
 <a href="/services/career-services/sgus-programme" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;" target="_blank">Find Out More</a>
