@@ -26,14 +26,31 @@ second_nav_title: "E-Commerce Programmes"
 Enhance your shop's presence, capitalise social media to generate higher sales and create compelling visual content to bring your store to the top in rank. </p>
 
 <h4>Outline</h4>
-<ul>
-  <li>Understand customer shopping and buying behaviour</li>
-  <li>Learn how to conduct social listening using social media data</li>
-  <li>Evaluate different online platforms for marketing and branding</li>
-  <li>Learn how to generate compelling content to maximise conversion</li>
-  <li>Optimise product listing through visuals</li>
-  <li>Learn basics of Facebook and Google advertising to drive traffic to your store</li>
-</ul>
+
+<b>1. Search Engine Marketing (SEM)</b>
+- Understand changing consumer buying behaviour
+- Discover social listening from data (e.g. Facebook Insights)
+- Evaluate online platforms for advertising and branding
+- Apply social pressure selling tactics
+- Craft content to engage viewers or followers and form a community to promote products or branding
+
+<b>2. Create Storytelling using Photography to Drive Sales</b>
+- Understand how to create a voice for your brand
+- Create professional photos that correspond to your brand
+- Edit photos using fundamental photo-editing techniques
+
+<b>3. Digital Commerce and Facebook Marketing</b>
+- Appreciate the complexity of digital marketing landscape
+- Learn about Facebook ads
+- Upload and run a successful Facebook ad
+- Optimize Facebook ads for the right objective
+- Understand how to target a specific audience
+
+<b>4. SEM Campaigns</b>
+- Leverage on Google Adwords for SEM campaigns
+- Gain insights into the success of SEM campaigns
+- Create great SEM ad copy
+- Optimize and to improve click-through rate and impressions
 
 <h4>Duration</h4>
 <p>9am - 6pm (1 day)</p>
