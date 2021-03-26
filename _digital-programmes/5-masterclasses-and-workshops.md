@@ -31,7 +31,6 @@ second_nav_title: "Masterclasses & Workshops"
   <h4>Workshops</h4>
   
   <ul>
-  <li><a href="/digital-programmes/masterclasses-and-workshops/brand-advocacy-through-social-media">Brand Advocacy through Social Media</a></li>
   <li><a href="/digital-programmes/masterclasses-and-workshops/differentiate-and-drive-growth-with-experience-innovation">Differentiate and Drive Growth with Experience Innovation</a></li>
   <li><a href="/digital-programmes/masterclasses-and-workshops/improve-customer-engagement-with-digital-mindset">Improve Customer Engagement with Digital Mindset</a></li>
   <li><a href="/digital-programmes/masterclasses-and-workshops/level-up-customer-engagement-through-live-streaming">Level Up Customer Engagement Through Live Streaming</a></li>
