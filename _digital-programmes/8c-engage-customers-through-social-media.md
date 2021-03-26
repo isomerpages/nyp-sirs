@@ -23,11 +23,11 @@ second_nav_title: "SkillsFuture Series"
 <p>Companies have embraced social media as part of their marketing mix, but with various degrees of success. The programme will address various social media initiatives and techniques that participants can utilise to enhance engagement with their customers.</p>
 
 <h4>Outline</h4>
-<ul>
-  <li>Social media landscape</li>
-  <li>Using social media to engage customers</li>
-  <li>Tools and resources</li>
-  </ul>
+- Introduction to social media 
+- Understand the need to have social media connectedness 
+- Understand the types of social media platform used in Singapore 
+- Know the purpose of social media marketing to businesses
+- Know ways companies can use social media to engage customers 
   
 <h4>Duration</h4>
 <p>9am -12pm, 2-6pm (1 day)</p>
