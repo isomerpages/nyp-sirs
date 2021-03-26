@@ -21,7 +21,7 @@ Singapore 408601<br>
 
 <p>Contact Customer Relations Centre via call: (+65) 6222 7477, WhatsApp (+65) 9223 2979 or email: <a href = "mailto: courses@sirs.edu.sg">courses@sirs.edu.sg</a></p>
 
-<h4>Corporate Trainings & Partnerships</h4>
+<h4>Corporate Trainings, Partnerships & Customised Solutions</h4>
 
 <p>Contact Business Development via email: <a href = "mailto: upskill@sirs.edu.sg">upskill@sirs.edu.sg</a></p>
 
