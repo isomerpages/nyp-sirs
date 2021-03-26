@@ -6,7 +6,7 @@ breadcrumb: SkillsFuture for Digital Workplace (SFDW)
 collection_name: digital-programmes
 ---
 
-<img <img align="left" src="/images-2021/DigitalProgrammes-SFDW (1).png" style="width:100%;">
+<img align="left" src="/images-2021/DigitalProgrammes-SFDW (1).png" style="width:100%;">
 <h4 style="text-align:center;">Next intake:</h4>
 
 <center><table style="width:80%;">
@@ -22,7 +22,15 @@ collection_name: digital-programmes
 
 <b>Increase your employability with digital literacy in the 2-day workshop.</b>
 
-<p align="right">Technology and digitalisation is fast changing the way we live and how we work. Join us in this immersive, technology-rich and fun learning environment to develop your potential to the fullest. Open up to a brand new world of fresh opportunities in your social interaction and career opportunities in the retail industry!</p>
+Technology and digitalisation is fast changing the way we live and how we work. Join us in this immersive, technology-rich and fun learning environment to develop your potential to the fullest. Open up to a brand new world of fresh opportunities in your social interaction and career opportunities in the retail industry!
+
+<center><table style="width:80%;">
+    <tr style="text-align:center;">
+    <tr style="text-align:center;">
+      <td style="text-align:center;width:50%;"><img src="/images-2021/DigitalProgrammes-SFDW (1).png" style="width:20%;"></td>
+      <td style="text-align:center;width:50%;">Technology and digitalisation is fast changing the way we live and how we work. Join us in this immersive, technology-rich and fun learning environment to develop your potential to the fullest. Open up to a brand new world of fresh opportunities in your social interaction and career opportunities in the retail industry!</td>
+    </tr>
+</table></center>
 
 <ul>
     <li>Exclusive tour to SIRS Retail Innovation Centre for Enterprises</li>
