@@ -5,6 +5,14 @@ WHEN COPYING, INCLUDE THE --- DIVIDERS AT THE TOP AND BOTTOM.
 
 ---
 layout: leftnav-page-content
+title: Our Team
+permalink: /about-us/our-team/
+breadcrumb: Our Team
+collection_name: about-us
+---
+
+---
+layout: leftnav-page-content
 title: SCash NETS Smart Retail Solution
 permalink: /digital-programmes/e-commerce-programmes/scash-nets-smart-retail-solution
 breadcrumb: SCash NETS Smart Retail Solution
