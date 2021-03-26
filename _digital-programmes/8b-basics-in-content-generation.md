@@ -23,11 +23,10 @@ second_nav_title: "SkillsFuture Series"
 <p>This programme will enable participants to become a more effective digital storyteller. Participants will learn storytelling techniques that will help them to create interest to heighten the engagement and connectivity with their customers on e-commerce platforms.</p>
 
 <h4>Outline</h4>
-<ul>
-  <li>Understand the importance of content and its role</li>
-  <li>Content creation</li>
-  <li>Content promotion</li>
-  </ul>
+- Understand the importance of content and its role
+- Appreciate the importance of storytelling and in the digital age
+- Learn how to create content for your audience through the use of storytelling techniques
+- Learn how to promote content  
   
 <h4>Duration</h4>
 <p>9am -12pm, 2-6pm (1 day)</p>
