@@ -23,11 +23,14 @@ second_nav_title: "SkillsFuture Series"
 <p>With more than 400 millions of Instagram users, it is no wonder that businesses are turning to this platform. Through this programme, participants will learn to leverage Instagram to help boost their online presence and adopt it as part of their marketing strategies.</p>
 
 <h4>Outline</h4>
-<ul>
-  <li>Use Instagram to grow business</li>
-  <li>Create an Instagram promotion plan</li>
-  <li>Use Instagram tools</li>
-  </ul>
+- Operating Instagram basic functions 
+- Reasons for using Instagram to sell 
+- Creating a Marketing Plan 
+- Ways to use Instagram to make money 
+- Using Instagram tools (create images/videos, schedule post etc.) 
+- Attracting Instagram Followers 
+- Growing and converting your leads into sales 
+- Using Instagram tools to measure analytics 
   
 <h4>Duration</h4>
 <p>9am -5pm (1 day)</p>
