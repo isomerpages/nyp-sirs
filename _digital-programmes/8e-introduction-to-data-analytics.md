@@ -25,11 +25,11 @@ second_nav_title: "SkillsFuture Series"
 <p>This programme will allow participants to understand the applications of data analytics and how they can apply similar approach to derive insights from data. The programme will equip participants with the right level of appreciation in the areas of retail analytics.</p>
 
 <h4>Outline</h4>
-<ul>
-  <li>Understand types of data</li>
-  <li>Collection of data</li>
-  <li>Steps in data analytics</li>
-  </ul>
+- Understand what is digital marketing
+- Understand the benefits and importance of digital marketing 
+- Know the types of digital marketing methods 
+- Learn how to get started on digital marketing    
+- Understand the basics of Search Engine Optimization (SEO) and Search Engine Marketing (SEM) 
 
 <h4>Duration</h4>
 <p>9am -12pm, 2-6pm (1 day)</p>
