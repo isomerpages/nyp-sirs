@@ -23,11 +23,12 @@ second_nav_title: "SkillsFuture Series"
 <p>This programme will help participants to understand the importance of online professional profile. They will learn through hands-on session to develop an effective personal online branding strategy through various social media.</p>
 
 <h4>Outline</h4>
-<ul>
-  <li>Develop online branding</li>
-  <li>Branding on social platforms</li>
-  <li>Privacy and security</li>
-  </ul>
+- Understand the importance of personal online branding
+- Develop an effective Personal Online Branding Strategy
+- Create an effective Linkedin Profile – The 4 Essentials
+- Getting recommendation on Linkedin
+- How to create and/or improve Linkedin Profile
+- How to brand yourself on Facebook and Instagram
   
 <h4>Duration</h4>
 <p>9am -12pm, 2-6pm (1 day)</p>
