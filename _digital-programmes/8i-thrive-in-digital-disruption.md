@@ -23,11 +23,9 @@ second_nav_title: "SkillsFuture Series"
 <p>This uncertain and rapidly changing environment brought about by digitalisation poses great challenges and yet offers new opportunities. Ability to learn, unlearn and relearn will position one to quickly identify & seize opportunities.</p>
 
 <h4>Outline</h4>
-<ul>
-  <li>Understand digital media</li>
-  <li>Profile of customers</li>
-  <li>Apply the right media for customer engagement</li>
-  </ul>
+- Understand digital media
+- Profile of customers
+- Apply the right media for customer engagement
   
 <h4>Duration</h4>
 <p>9am -12pm, 2-6pm (1 day)</p>
