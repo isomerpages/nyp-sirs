@@ -53,6 +53,8 @@ development through guided interactive online exercises
 <h4>Duration</h4>
 <p>2 days (9am - 6pm daily)</p>
 
+<div style="width:50%;float:left;"><center><img src="/images-2021/Masterclass Trainer_Jessica Tang.png" style="width:100%;"></div>
+
 <h4>Fees</h4>
 
 <center>
