@@ -31,6 +31,11 @@ SIRS works with market leaders to develop cutting edge solutions and training pr
 <li><a href="/digital-programmes/e-commerce-programmes/amazon-global-selling-programme">Amazon Global Selling (Onboarding)</a></li>
 </ul>
 
+<b>Dodoca</b>
+<ul>
+<li><a href="/digital-programmes/study-trips/wechat-digital-immersion-programme">WeChat Digital Immersion Programme</a></li>
+</ul>
+
 <b>eBay</b>
 <ul>
 <li><a href="/digital-programmes/e-commerce-programmes/ebay-global-selling">eBay Global Selling (Onboarding)</a></li>
@@ -57,4 +62,14 @@ SIRS works with market leaders to develop cutting edge solutions and training pr
 <b>SCash & NETS</b>
 <ul>
 <li><a href="/digital-programmes/e-commerce-programmes/scash-nets-smart-retail-solution">SCash NETS Smart Retail Solution</a></li>
+</ul>
+
+<b>Singapore Media Academy</b>
+<ul>
+<li><a href="/digital-programmes/professional-certificate-in-digital-retail-entertainment">Professional Certificate in Digital Retail Entertainment</a></li>
+</ul>
+
+<b>Singapore Productivity Centre</b>
+<ul>
+<li><a href="/digital-programmes/certified-digital-productivity-consultant">Certified Digital & Productivity Consultant</a></li>
 </ul>
