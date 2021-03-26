@@ -13,6 +13,7 @@ second_nav_title: Consultancy
 <p>The ETSP is a time-limited scheme to cover course fees and absentee payroll funding for Singapore Citizen and Permanent Resident employees on eligible SSG-supported courses.</p>
 
 <h4>What are the benefits of ETSP?</h4>
+
 <ul>
   <li><b>Higher course fee support at 90%</b><br>Enjoy enhanced course fee at up to 90% of the course fees</li>
   <li><b>Enhanced Absentee Payroll (AP) funding at up to $7.50 per hour*</b><br>Claim an enhanced Absentee Payroll (AP) funding rate at 80% of hourly basic salary, capped at $7.50 per hour</li>
