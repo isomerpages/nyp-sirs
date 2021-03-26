@@ -59,11 +59,6 @@ SIRS works with market leaders to develop cutting edge solutions and training pr
 <li><a href="/digital-programmes/e-commerce-programmes/driving-sales-performance-on-shopee">Driving Sales Performance on Shopee (Marketing)</a></li>
 </ul>
 
-<b>SCash & NETS</b>
-<ul>
-<li><a href="/digital-programmes/e-commerce-programmes/scash-nets-smart-retail-solution">SCash NETS Smart Retail Solution</a></li>
-</ul>
-
 <b>Singapore Media Academy</b>
 <ul>
 <li><a href="/digital-programmes/professional-certificate-in-digital-retail-entertainment">Professional Certificate in Digital Retail Entertainment</a></li>
