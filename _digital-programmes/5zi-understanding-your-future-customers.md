@@ -53,15 +53,19 @@ development through guided interactive online exercises
 <h4>Duration</h4>
 <p>2 days (9am - 6pm daily)</p>
 
-<div style="width:30%;float:left;"><img src="/images-2021/Masterclass Trainer_Jessica Tang.png" style="width:50%;"></div>
-<div style="width:70%;float:left;"><b>Jessica Tang</b><br><i>Senior Consultant
+<br>
+
+<div style="width:20%;float:left;"><img src="/images-2021/Masterclass Trainer_Jessica Tang.png" style="width:1000%;"></div>
+<div style="width:80%;float:left;"><b>Jessica Tang</b><br><i>Senior Consultant
     WGSN, APAC</i><br>Jessica is a seasoned creative strategist with extensive design research and innovation
 project experience in APAC. Coming from a hybrid background in Psychology and
 Design, Jessica adopts a hybrid qualitative mix quantitative approach to gather
 and translate human-centered insights into strategic product design and brand
 directions for consumer-centric businesses in the region. Her portfolio includes
     work for multinational Fortune500 businesses and emerging local players.</div>
+
 <br>
+
 <h4>Fees</h4>
 
 <center>
