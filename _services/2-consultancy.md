@@ -33,3 +33,20 @@ second_nav_title: "Consultancy"
 <li><a href="/services/consultancy/utap">Union Training Assistance Programme (UTAP)</a></li>
 <li><a href="/services/consultancy/wss-individuals">Workfare Skills Support (WSS) Scheme (For Individuals)</a></li>
 </ul>
+
+<p>Contact our Business Development (BD) team if you require customised solutions for your business.</p>
+
+<table>
+  <tr>
+    <td>Celeste YL Tan<br>Email: <a href="celeste_yl_tan@sirs.edu.sg">celeste_yl_tan@sirs.edu.sg</a><br>Tel: 6417-3029</td>
+    <td>Low Lee Keng<br>Email: <a href="low_lee_keng@sirs.edu.sg">low_lee_keng@sirs.edu.sg</a><br>Tel: 6417-30217</td>
+  </tr>
+  <tr>
+    <td>Lai Jiawen<br>Email: <a href="lai_jiawen@sirs.edu.sg">lai_jiawen@sirs.edu.sg</a><br>Tel: 6417-3012</td>
+    <td>Joanne Low<br>Email: <a href="joanne_low@sirs.edu.sg">joanne_low@sirs.edu.sg</a><br>Tel: 6417-3033</td>
+  </tr>
+  <tr>
+    <td>Celeste Tan<br>Email: <a href="celeste_tan@sirs.edu.sg">celeste_tan@sirs.edu.sg</a><br>Tel: 6417-3034</td>
+    <td>Lynda Cheong<br>Email: <a href="lynda_cheong@sirs.edu.sg">lynda_cheong@sirs.edu.sg</a><br>Tel: 6417-3009</td>
+  </tr>
+</table>
