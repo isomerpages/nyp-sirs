@@ -1,7 +1,7 @@
 THIS FILE CONTAINS INFORMATION FOR THE BASE OF HIDDEN PAGES.
 IF A PAGE NEEDS TO BE VISIBLE AGAIN, CUT THE RESPECTIVE INFORMATION FROM THIS FILE AND PASTE IT AT THE TOP OF THE PAGE.
 REMEMBER TO ADD .MD TO TURN THE FILE BACK INTO A READ.ME FILE AFTER ADDING THE CODE FROM BELOW.
-WHEN COPYING, INCLUDE THE --- DIVIDERS.
+WHEN COPYING, INCLUDE THE --- DIVIDERS AT THE TOP AND BOTTOM.
 
 ---
 layout: leftnav-page-content
@@ -26,6 +26,15 @@ layout: leftnav-page-content
 title: Developing Social Media Advocacy
 permalink: /digital-programmes/masterclasses-and-workshops/developing-social-media-advocacy
 breadcrumb: Developing Social Media Advocacy
+collection_name: digital-programmes
+second_nav_title: "Masterclasses & Workshops"
+---
+
+---
+layout: leftnav-page-content
+title: Returns on Social Media Marketing Investments
+permalink: /digital-programmes/masterclasses-and-workshops/returns-on-social-media-marketing-investments
+breadcrumb: Returns on Social Media Marketing Investments
 collection_name: digital-programmes
 second_nav_title: "Masterclasses & Workshops"
 ---
