@@ -23,12 +23,13 @@ second_nav_title: "SkillsFuture Series"
 <p>This hands-on, practical session will guide participants in understanding and navigating the complexities of a digital business. Participants will learn the types of platforms available and understand the benefits, factors & resources required in an online business.</p>
 
 <h4>Outline</h4>
-<ul>
-  <li>Overview of an online business</li>
-  <li>Online sales operations</li>
-  <li>Online marketing activities</li>
-  <li>Online security issues</li>
-  </ul>
+- Why people shop online 
+- Types of online business 
+- Advantages of challenges of online business 
+- What are the E-commerce trends (Selling and Marketing)
+- Components of an online business (store, payment, logistics, customer service)
+- How to select the right mode of e-commerce for your business 
+- Where to get started​
 
 <h4>Duration</h4>
 <p>9am -12pm, 2-6pm (1 day)</p>
