@@ -23,11 +23,11 @@ second_nav_title: "SkillsFuture Series"
 <p>With increasing traffic in social media space, successful engagement through digital content marketing is a great booster for business. This programme provides participants the knowledge and applications to understand digital engagement that is superseding traditional marketing channels.</p>
 
 <h4>Outline</h4>
-<ul>
-  <li>Understand digital marketing</li>
-  <li>Search engine marketing</li>
-  <li>Social media marketing</li>
-  </ul>
+- Understand what is digital marketing
+- Understand the benefits and importance of digital marketing 
+- Know the types of digital marketing methods 
+- Learn how to get started on digital marketing    
+- Understand the basics of Search Engine Optimization (SEO) and Search Engine Marketing (SEM)
 
 <h4>Duration</h4>
 <p>9am -12pm, 2-6pm (1 day)</p>
