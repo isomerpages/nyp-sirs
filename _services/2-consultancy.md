@@ -34,7 +34,9 @@ second_nav_title: "Consultancy"
 <li><a href="/services/consultancy/wss-individuals">Workfare Skills Support (WSS) Scheme (For Individuals)</a></li>
 </ul>
 
-<p>Contact our Business Development (BD) team if you require customised solutions for your business.</p>
+<h4>Business Development</h4>
+
+<p>Contact our Business Development team if you require customised solutions for your business.</p>
 
 <table>
   <tr>
