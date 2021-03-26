@@ -53,8 +53,8 @@ development through guided interactive online exercises
 <h4>Duration</h4>
 <p>2 days (9am - 6pm daily)</p>
 
-<div style="width:50%;float:left;"><img src="/images-2021/Masterclass Trainer_Jessica Tang.png" style="width:50%;"></div>
-<div style="width:50%;float:left;">Jessica is a seasoned creative strategist with extensive design research and innovation
+<div style="width:20%;float:left;"><img src="/images-2021/Masterclass Trainer_Jessica Tang.png" style="width:50%;"></div>
+<div style="width:80%;float:left;">Jessica is a seasoned creative strategist with extensive design research and innovation
 project experience in APAC. Coming from a hybrid background in Psychology and
 Design, Jessica adopts a hybrid qualitative mix quantitative approach to gather
 and translate human-centered insights into strategic product design and brand
