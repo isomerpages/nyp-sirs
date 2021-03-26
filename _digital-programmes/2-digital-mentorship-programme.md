@@ -13,7 +13,7 @@ second_nav_title: Digital Mentorship Programme (DMP)
 
 <p>Recognising that SMEs require personalised guidance to embark on their digital commerce journey, SIRS is proud to introduce the Digital Mentorship Programme (DMP), a first of its kind where a mentor will be assigned to work alongside the company to help them go digital.</p>
 
-<p>The programmes under DMP feature 56 hours guided practicum and 16 hours of classroom training. A personal mentor will be attached to the trainee for three months, working closely together to create a customised action plan for the trainee's company to obtain digital readiness and elevate their online presence.</p>
+<p>The programmes under DMP feature 56 hours of on-the-job training (OJT) and 16 hours of classroom training. A personal mentor will be attached to the trainee for three months, working closely together to create a customised action plan for the trainee's company to obtain digital readiness and elevate their online presence.</p>
 
 <h4>Digital Mentorship Programme (DMP) Courses</h4>
 <ul>
