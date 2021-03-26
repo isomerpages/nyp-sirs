@@ -23,7 +23,7 @@ collection_name: about-us
   </tr>
   <tr>
     <td>Ms Ong Li Ping</td>
-    <td>Asst Admin Executive (Director's Office & Business Development)</td>
+    <td>Admin Executive (Director's Office & Business Development)</td>
   </tr>
 </table>
 
