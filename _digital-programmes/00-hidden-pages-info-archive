@@ -1,12 +1,22 @@
 THIS FILE CONTAINS INFORMATION FOR THE BASE OF HIDDEN PAGES.
 IF A PAGE NEEDS TO BE VISIBLE AGAIN, CUT THE RESPECTIVE INFORMATION FROM THIS FILE AND PASTE IT AT THE TOP OF THE PAGE.
 REMEMBER TO ADD .MD TO TURN THE FILE BACK INTO A READ.ME FILE AFTER ADDING THE CODE FROM BELOW.
+WHEN COPYING, INCLUDE THE --- DIVIDERS.
 
 ---
 layout: leftnav-page-content
 title: SCash NETS Smart Retail Solution
 permalink: /digital-programmes/e-commerce-programmes/scash-nets-smart-retail-solution
 breadcrumb: SCash NETS Smart Retail Solution
+collection_name: digital-programmes
+second_nav_title: "E-Commerce Programmes"
+---
+
+---
+layout: leftnav-page-content
+title: Set up an Online Business
+permalink: /digital-programmes/e-commerce-programmes/setup-an-online-business
+breadcrumb: Set up an Online Business
 collection_name: digital-programmes
 second_nav_title: "E-Commerce Programmes"
 ---
