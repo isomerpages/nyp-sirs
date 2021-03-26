@@ -17,6 +17,16 @@ Holistic Hands-on Content Marketing Techniques</center>
 <center>互联网商业营销班 - 内容营销<br>
 内容为王 - 成为新时代的内容营销精英</center>
 
+<h4 style="text-align:center;">Next intake:</h4>
+
+<center><table style="width:80%;">
+    <tr style="text-align:center;">
+      <td style="text-align:center;width:50%;"> 16 to 17 June 2021<br>23 to 25 June 2021</td>
+      <td style="text-align:center;width:50%;">To be confirmed</td>
+    </tr>
+</table></center>
+
+
 <b>This programme will be conducted in Mandarin.</b>
 
 <p>SIRS in partnership with Alibaba Business School, the official training arm of Alibaba Group, offers comprehensive and systematic training programmes to meet a full spectrum of learning needs of government groups, entrepreneurs, SMEs, startups, e-commerce practitioners and students.  </p>
