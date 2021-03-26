@@ -13,6 +13,15 @@ collection_name: about-us
 
 ---
 layout: leftnav-page-content
+title: Be Your Own Makeup Artist
+permalink: /wsq-programmes/wsq-modular-programmes/be-your-own-makeup-artist
+breadcrumb: Be Your Own Makeup Artist
+collection_name: retail-programmes
+second_nav_title: "WSQ Certified Modular Programmes"
+---
+
+---
+layout: leftnav-page-content
 title: SCash NETS Smart Retail Solution
 permalink: /digital-programmes/e-commerce-programmes/scash-nets-smart-retail-solution
 breadcrumb: SCash NETS Smart Retail Solution
