@@ -28,19 +28,19 @@ marketing campaigns are some of the considerations in developing an effective Om
 <h4>Outline</h4>
 
 - Developing an effective Omni-commerce strategy
-<p>Identify the 5 key future trends, 7 key technology enablements and cross border trade</p>
+    - Identify the 5 key future trends, 7 key technology enablements and cross border trade</p>
 - Applying key success tools in the new Omni-commerce business
-<p>Use real time analytic of management consoles, streamline platforms mechanism and KPI to lead your Omni-commerce team intelligently</p>
+    - Use real time analytic of management consoles, streamline platforms mechanism and KPI to lead your Omni-commerce team intelligently</p>
 - Re-designing your organization structure
-<p>Adopt the blue and red ocean middle game strategy to build a highly competent team in the new digital environment</p>
+    - Adopt the blue and red ocean middle game strategy to build a highly competent team in the new digital environment</p>
 - Building an integrated supply chain for new retail & value chain
-<p>Create a seamless customer experience from in-store sales personnel to backend logistics with an integrated supply chain strategy</p>
+    - Create a seamless customer experience from in-store sales personnel to backend logistics with an integrated supply chain strategy</p>
 - Big data driven market sizing, product & pricing driven traffic and conversion
-<p>Understand how to leverage an AI system to execute creative marketing, product development and pricing strategy effectively</p>
+    - Understand how to leverage an AI system to execute creative marketing, product development and pricing strategy effectively</p>
 - Creating effective Omni-commerce marketing campaigns and understand new millennial mobile marketing
-<p>Attract new millennials who are savvy to buy online and offline via rhythm promotional activities</p>
+    - Attract new millennials who are savvy to buy online and offline via rhythm promotional activities</p>
 - Developing social media strategy and KPI
-<p>Create winning social commerce strategy to drive traffic and sales</p>
+    - Create winning social commerce strategy to drive traffic and sales</p>
 
 
 <h4>Who Should Attend</h4>
