@@ -47,16 +47,11 @@ call centre, click and collect set ups, big and micro data analysis, etc</li>
 <p>9am - 6pm (8 hours)</p>
 
 <h4>Trainer Profile</h4>
-<p><b>David Lee</b><br>
-  <em>Digital Commerce Lead</em><br>
 
-
-<p>David has over 20 years of experience in digitizing the retail industry, covering all
-aspects of sales, marketing and business development. As Electrolux’s Head of
-e-commerce APAC, corporate facilitator and curriculum developer for leadership, he
-has accumulated vast experience in coaching C-suite and VP level learners. Previously
+<div style="width:30%;float:left;"><img src="/images-2021/Masterclass Trainer_DavidLee.png" style="width:60%;"></div>
+<div style="width:70%;float:left;"><b>David Lee</b><br><i>Digital Commerce Lead</i><br>David has over 20 years of experience in digitizing the retail industry, covering all aspects of sales, marketing and business development. As Electrolux’s Head of e-Commerce APAC, corporate facilitator and curriculum developer for leadership, he has accumulated vast experience in coaching C-suite and VP level learners. Previously
 as Head of eTailer & Social Commerce for Dell APAC, David successfully grew Dell.com eTailing revenue 100% in the region year on year. Prior to Dell, he was the GM of
-BenQ SEA, and had held key roles in Hewlett Packard-APJ and Motorola-APJ.</p>
+BenQ SEA, and had held key roles in Hewlett Packard-APJ and Motorola-APJ.</div><br>
 
 <h4>Fees</h4>
 
