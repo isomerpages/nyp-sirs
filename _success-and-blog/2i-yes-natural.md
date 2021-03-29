@@ -13,7 +13,5 @@ second_nav_title: Success Stories
 
 <p>Under the DMP, a mentor will be assigned to work alongside the company to help them go digital. More than 30 businesses have signed up since its recent launch. Watch the clip below to find out more about this programme.</p>
 
-<br>
-
 <a href="https://www.facebook.com/SIRSNYP/videos/436848684173235/"><img src="/images-2021/SuccessStories_YesNatural_VideoThumbnail.png" style="width:60%;"></a>
 <center><small><i>Video credit to Mediacorp Ch8 World News</i></small></center>
