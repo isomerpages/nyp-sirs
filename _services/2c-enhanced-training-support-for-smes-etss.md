@@ -6,7 +6,7 @@ breadcrumb: Enhanced Training Support for SMEs
 collection_name: services
 second_nav_title: "Consultancy"
 ---
-<b>Enterprises may now apply for the<a href="/services/consultancy/enhanced-training-support-package-etsp">Enhanced Training Support Package (ETSP)</a> for added support for sectors which were directly and severely affected by the COVID-19 pandemic.</b>
+<b>Enterprises may now apply for the <a href="/services/consultancy/enhanced-training-support-package-etsp">Enhanced Training Support Package (ETSP)</a> for added support for sectors which were directly and severely affected by the COVID-19 pandemic.</b>
 
 <h4>What is Enhanced Training Support For SMEs (ETSS)?</h4>
 <p>Skills upgrading remains a key mechanism for companies to raise productivity. Compared to larger companies with more resources, Small and Medium Enterprises (SMEs) are less able to send their employees for training.  The Government has thus enhanced training support for SMEs by providing higher course fee funding and enhanced absentee payroll cap.</p>
