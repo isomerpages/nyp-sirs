@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Drive Sales Performance on Qoo10 (Marketing)
+title: Driving Sales Performance on Qoo10 (Marketing)
 permalink: /digital-programmes/e-commerce-programmes/drive-sales-performance-on-qoo10
-breadcrumb: Drive Sales Performance on Qoo10 (Marketing)
+breadcrumb: Driving Sales Performance on Qoo10 (Marketing)
 collection_name: digital-programmes
 second_nav_title: "E-Commerce Programmes"
 ---
