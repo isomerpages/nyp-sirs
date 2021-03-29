@@ -50,11 +50,9 @@ Brand Managers, Trade Marketing Managers, Key Account Managers, and Sales Manage
 <p>2 days (9am - 6pm daily)</p>
 
 <h4>Trainer Profile</h4>
-<p><b>Chen Ing Hui</b><br>
-  <em>Director, IngSights Consulting Services</em><br>
 
-<p>Ing Hui is the founder and director of IngSights Consulting Services Pte Ltd. She has
-more than 25 years of experience working alongside some of the top global retailers,
+<div style="width:30%;float:left;"><img src="/images-2021/Masterclass Trainer_Jayden Ooi.png" style="width:70%;"></div>
+<div style="width:70%;float:left;"><b>Chen Ing Hui</b><br><i>Director, IngSights Consulting Services</i><br>Ing Hui is the founder and director of IngSights Consulting Services Pte Ltd. She has more than 25 years of experience working alongside some of the top global retailers,
 distributors and brand owners including Dairy Farm, Mars, Unilever, and was most
 recently the Head of Merchandising at NTUC Health. Ing Hui believes evolution is
 key to success and this motivation has led her to create new market opportunities for
@@ -65,7 +63,7 @@ Hui has accumulated extensive knowledge in Category Management, Merchandising,
 Marketing, Sales and Key Accounts. Her work covered multiple channels including
 supermarkets, convenience stores, pharmacies, pet shops, and F&B. With robust work
 experience at both supplier and retailer companies, Ing Hui holds strong industry
-knowledge of the consumer goods ecosystem.</p>
+knowledge of the consumer goods ecosystem.</div><br>
 
 <h4>Fees</h4>
 
