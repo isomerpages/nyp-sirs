@@ -37,13 +37,9 @@ second_nav_title: "Masterclasses & Workshops"
   </ul>
   
 <h4>Trainer Profile</h4>
-<p><b>Lou Peng 娄鹏</b><br>
-  <em>Singapore Marketing Specialist/新加坡新媒体专家</em><br>
-Lou Peng has been specialising in WeChat marketing since 2012, helping many businesses in growing their brands and presence on WeChat. He has a wealth of experience conducting WeChat marketing training in Singapore for SMEs, and has been invited to numerous MNCs such as AIA, PropNex, CDL, and Sim Lim Square to provide training in WeChat marketing.</p>
 
-<p>从2012年开始专注于微信营销和品牌推广，拥有大量在新加坡使用微信的实战经验，也在新加坡拥有大量使用微信做营销和品牌推广的实战案例，帮助新加坡本地的企业利用微信做市场营销和品牌推广，达到非常好的效果。</p>
-
-<p>关于培训，成功在新加坡授课数百场，大量新加坡企业家在微信课程中受益，拥有众多SME客户，并得到大家的认可并从客户自发的转介绍中获取大量新客户。同时也多次受邀到新加坡最大的保险公司AIA友邦保险公司、新加坡最大的上市房地产经纪公司PropNex博纳公司、新加坡CDL城市发展集团、Sim Lim Square 等知名品牌和机构授课，并得到大家认可，持续多次前去授课。</p>
+<div style="width:30%;float:left;"><img src="/images-2021/Masterclass Trainer_Lou Peng.png" style="width:60%;"></div>
+<div style="width:70%;float:left;"><b>Lou Peng 娄鹏</b><br><i>Singapore Marketing Specialist/新加坡新媒体专家</i><br>Lou Peng has been specialising in WeChat marketing since 2012, helping many businesses in growing their brands and presence on WeChat. He has a wealth of experience conducting WeChat marketing training in Singapore for SMEs, and has been invited to numerous MNCs such as AIA, PropNex, CDL, and Sim Lim Square to provide training in WeChat marketing.<br>从2012年开始专注于微信营销和品牌推广，拥有大量在新加坡使用微信的实战经验，也在新加坡拥有大量使用微信做营销和品牌推广的实战案例，帮助新加坡本地的企业利用微信做市场营销和品牌推广，达到非常好的效果。关于培训，成功在新加坡授课数百场，大量新加坡企业家在微信课程中受益，拥有众多SME客户，并得到大家的认可并从客户自发的转介绍中获取大量新客户。同时也多次受邀到新加坡最大的保险公司AIA友邦保险公司、新加坡最大的上市房地产经纪公司PropNex博纳公司、新加坡CDL城市发展集团、Sim Lim Square 等知名品牌和机构授课，并得到大家认可，持续多次前去授课。</div><br>
 
 <h4>Fees</h4>
 
