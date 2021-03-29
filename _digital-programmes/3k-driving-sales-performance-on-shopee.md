@@ -22,8 +22,9 @@ second_nav_title: "E-Commerce Programmes"
     </tr>
 </table></center>
 
-<p>	Get equipped with the essential e-commerce skills and knowledge to on-board Shopee store and bring your Shopee business to the next level with a winning marketing strategy! 
-Enhance your shop's presence, capitalise social media to generate higher sales and create compelling visual content to bring your store to the top in rank. </p>
+<p>Build your winning marketing strategy and bring your Shopee business to the next level! Enhance your shop's presence, captialise social media to generate higher sales and create compelling visual content to bring your store to the top in rank.</p>
+
+<i>Not onboard with Shopee yet? Our 1-day workshop in <a href="/digital-programmes/e-commerce-programmes/getting-started-on-shopee">Getting Started on Shopee (Onboarding)</a> can help you get equipped to be a power seller on Shopee.</i>
 
 <h4>Outline</h4>
 
