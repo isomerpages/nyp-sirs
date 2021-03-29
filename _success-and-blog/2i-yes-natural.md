@@ -15,3 +15,5 @@ second_nav_title: Success Stories
 
 <a href="https://www.facebook.com/SIRSNYP/videos/436848684173235/"><img src="/images-2021/SuccessStories_YesNatural_VideoThumbnail.png" style="width:60%;"></a>
 <center><small><i>Video credit to Mediacorp Ch8 World News</i></small></center>
+
+<iframe src="https://player.vimeo.com/video/530191988" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe> 
