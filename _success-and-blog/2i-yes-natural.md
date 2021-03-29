@@ -7,13 +7,11 @@ collection_name: success-and-blog
 second_nav_title: Success Stories
 ---
 
+<iframe src="https://player.vimeo.com/video/530226500?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="SIRSxYes Natural.wmv"></iframe> 
+<small><i>Video credit to Mediacorp Ch8 World News</i></small>
+
 <p>With COVID-19 measures still largely in place, retailers have relooked their sales methods for this upcoming Lunar New Year. While some retailers have gone digital, others, such as Yes Natural Singapore, have signed up for training programmes and learnt to improve their social media strategy to attract customers. Watch the interview to see how they have benefited from attending <a href="/digital-programmes/digital-mentorship-programme">SIRS' Digital Mentorship Programme (DMP)</a>.</p>
 
 <p>Director of SIRS, Megan Ong, also shared in the interview how DMP comes in useful as it trains participants in e-commerce and teaches businesses how to leverage social media to draw customers to their physical stores, closing the gap between online and offline channels.</p>
 
-<p>Under the DMP, a mentor will be assigned to work alongside the company to help them go digital. More than 30 businesses have signed up since its recent launch. Watch the clip below to find out more about this programme.</p>
-
-<center><iframe src="https://player.vimeo.com/video/530191988" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></center>
-<center><small><i>Video credit to Mediacorp Ch8 World News</i></small></center>
-
-<center><iframe src="https://github.com/isomerpages/nyp-sirs/blob/fe9cc2afa73e2597c62054caa7944272fca7d78f/20210318-C8-HelloSG-7.10pm-4m_How%20to%20adopt%20new%20retail%20tech%20solutions_InterviewCelesteYL.mp4" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></center>
+<p>Under the DMP, a mentor will be assigned to work alongside the company to help them go digital. More than 30 businesses have signed up since its recent launch.</p>
