@@ -22,7 +22,9 @@ second_nav_title: "E-Commerce Programmes"
     </tr>
 </table></center>
 
-<p>Get equipped with the essential e-commerce skills and knowledge to on-board Shopee store and bring your Shopee business to the next level with a winning marketing strategy! Enhance your shop's presence, capitalise social media to generate higher sales and create compelling visual content to bring your store to the top in rank.</p>
+<p>Get equipped with the essential e-commerce skills and knowledge to onboard Shopee store today!</p>
+
+<i>If you have already onboarded Shopee, learn how you can begin <a href="/digital-programmes/e-commerce-programmes/driving-sales-performance-on-shopee">Driving Sales Performance on Shopee (Marketing)</a> to optimise your store presence with Shopee marketing strategies to bring your business to the next level.</i>
 
 <h4>Outline</h4>
 
