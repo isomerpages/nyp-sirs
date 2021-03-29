@@ -5,6 +5,11 @@ permalink: /about-us/our-partners
 breadcrumb: Strategic Partners
 collection_name: about-us
 ---
+<html>
+<head>
+<script src="https://assets.wogaa.sg/scripts/wogaa.js"></script>
+</head>
+</html>
 
 <img src="/images-2021/AboutUs_SIRS_StrategicPartners.png" style="width:100%;">
 
