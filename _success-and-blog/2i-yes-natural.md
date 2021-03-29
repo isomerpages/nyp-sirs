@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Yes Natural Singapore connects with consumers with new social media strategy
-permalink: /success-and-blog/success-stories/activhealth
+permalink: /success-and-blog/success-stories/yes-natural
 breadcrumb: Yes Natural Singapore connects with consumers with new social media strategy
 collection_name: success-and-blog
 second_nav_title: Success Stories
