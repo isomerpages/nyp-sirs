@@ -25,4 +25,4 @@ second_nav_title: Success Stories
 
 <li><b>Unidbox Hardware</b><br>Heartland SME's online breakthrough. Read full story <a href="/success-and-blog/success-stories/unidbox-hardware">here.</a></li>
 
-<li><b>Mr Kwan Kah Huei</b><br>An entrepreneur’s journey to become one of the top sellers on Lazada. Read full story <a href="/success-and-blog/success-stories/mr-kwan-kah-huei">here.</a></li>
+<li><b>Yes Natural</b><br>Learning to improve their social media strategy to attract customers, even with COVID-19 measures. Read full story <a href="/success-and-blog/success-stories/yes-natural">here.</a></li>
