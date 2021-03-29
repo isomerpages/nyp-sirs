@@ -1,12 +1,14 @@
 ---
 layout: leftnav-page-content
-title: Activhealth attained clarity in crafting digital strategy
+title: Activhealth
 permalink: /success-and-blog/success-stories/activhealth
-breadcrumb: Activhealth attained clarity in crafting digital strategy
+breadcrumb: Activhealth
 collection_name: success-and-blog
 second_nav_title: Success Stories
 ---
 <img src="/images-2021/SuccessStories-Activhealth.jpg" style="width:60%;">
+
+<h4>Activhealth attained clarity in crafting digital strategy</h4>
 
 <p>The Alibaba Business School - SIRS CEO Programme is timely, as our company realised the importance of e-commerce and social media, but do not have big resources nor 
 in-depth know-how to incorporate and implement it well as part of our business strategy. The programme provided us with perspectives, taught us to think differently 
