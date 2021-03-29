@@ -9,10 +9,10 @@ second_nav_title: "Masterclasses & Workshops"
 
 <img src="images-2021/DigitalProgrammes-Masterclasses_Workshops.png" style="width:100%;">
 
-<p>Designed for intermediate to advanced learners, SIRS' masterclass & workshop series equips learners with the required skillsets and knowledge to boost and optimise their sales and marketing efforts to enhance business revenue. Our masterclasses are conducted by leading experts and practitioners in the respective fields, transferring actionable knowledge to learners.</p>
+<p>Designed for intermediate to advanced learners, SIRS' Masterclasses & Workshops series equips learners with the required skillsets and knowledge to boost and optimise their sales and marketing efforts to enhance business revenue. Our masterclasses are conducted by leading experts and practitioners in the respective fields, transferring actionable knowledge to learners.</p>
 
 <h4>Masterclasses</h4>
-
+<p>Learn how to advance your business performance from industry experts with our range of Masterclasses:
 <ul>
   <li><a href="/digital-programmes/masterclasses-and-workshops/3-steps-to-digitise-your-business">3 Steps to Digitise Your Business</a></li>
   <li><a href="/digital-programmes/masterclasses-and-workshops/amazon-web-services-business-essentials">Amazon Web Services Business Essentials</a></li>
@@ -29,8 +29,8 @@ second_nav_title: "Masterclasses & Workshops"
   <li><a href="https://nyp-sirs-staging.netlify.app/digital-programmes/masterclasses-and-workshops/understanding-your-future-customers">Understanding Your Future Customers</a></li>
   </ul>
   
-  <h4>Workshops</h4>
-  
+<h4>Workshops</h4>
+<p>Engage in hands-on activity and hone your skillsets with our range of Workshops:
   <ul>
   <li><a href="/digital-programmes/masterclasses-and-workshops/differentiate-and-drive-growth-with-experience-innovation">Differentiate and Drive Growth with Experience Innovation</a></li>
   <li><a href="/digital-programmes/masterclasses-and-workshops/improve-customer-engagement-with-digital-mindset">Improve Customer Engagement with Digital Mindset</a></li>
