@@ -4,6 +4,12 @@
 #                                #
 ##################################
 
+<html>
+<head>
+<script src="https://assets.wogaa.sg/scripts/wogaa.js"></script>
+</head>
+</html>
+    
 # Favicon
 favicon: /images/sirs-favicon.ico
 
