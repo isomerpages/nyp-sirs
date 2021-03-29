@@ -25,4 +25,6 @@ second_nav_title: Success Stories
 
 <li><b>Unidbox Hardware</b><br>Heartland SME's online breakthrough. Read full story <a href="/success-and-blog/success-stories/unidbox-hardware">here.</a></li>
 
+<li><b>VINCiTORE Shoes</b><br>Adopting new retail tech solutions to provide an integrated retail experience and help your business stand out from the competition. Read full story <a href="/success-and-blog/success-stories/vincitore-shoes">here.</a></li>
+
 <li><b>Yes Natural</b><br>Learning to improve their social media strategy to attract customers, even with COVID-19 measures. Read full story <a href="/success-and-blog/success-stories/yes-natural">here.</a></li>
