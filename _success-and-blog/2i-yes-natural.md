@@ -15,3 +15,5 @@ second_nav_title: Success Stories
 
 <center><iframe src="https://player.vimeo.com/video/530191988" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></center>
 <center><small><i>Video credit to Mediacorp Ch8 World News</i></small></center>
+
+<center><iframe src="/20210318-C8-HelloSG-7.10pm-4m_How to adopt new retail tech solutions_InterviewCelesteYL.mp4" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></center>
