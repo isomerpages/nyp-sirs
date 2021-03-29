@@ -16,4 +16,4 @@ second_nav_title: Success Stories
 <center><iframe src="https://player.vimeo.com/video/530191988" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></center>
 <center><small><i>Video credit to Mediacorp Ch8 World News</i></small></center>
 
-<center><iframe src="/20210318-C8-HelloSG-7.10pm-4m_How to adopt new retail tech solutions_InterviewCelesteYL.mp4" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe src="https://github.com/isomerpages/nyp-sirs/blob/fe9cc2afa73e2597c62054caa7944272fca7d78f/20210318-C8-HelloSG-7.10pm-4m_How%20to%20adopt%20new%20retail%20tech%20solutions_InterviewCelesteYL.mp4" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></center>
