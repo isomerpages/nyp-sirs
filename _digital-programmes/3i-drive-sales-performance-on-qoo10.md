@@ -22,7 +22,9 @@ second_nav_title: "E-Commerce Programmes"
     </tr>
 </table></center>
 
-<p>Ready to bring your business online in Singapore and beyond? Learn how to drive sales to your business with Qoo10 marketing tools!</p>
+<p>Are you ready to have products flying off your page? Discover the ways to multiply your sales in Singapore and beyond using Qoo10 marketing tools!</p>
+
+<i>Not onboard with Qoo10 yet? Our 1-day workshop in <a href="/digital-programmes/e-commerce-programmes/getting-started-on-qoo10">Getting Started on Qoo10 (Onboarding)</a> can help you to learn the ropes of using Qoo10 Sales Manager to start your own e-store.</i>
 
 <h4>Outline</h4>
 <b>1. Understanding Qoo10</b>
