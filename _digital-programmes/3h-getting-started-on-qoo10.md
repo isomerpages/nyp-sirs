@@ -20,8 +20,9 @@ second_nav_title: "E-Commerce Programmes"
     </tr>
 </table></center>
 
-<p>Ready to bring your business online in Singapore and beyond? Learn the ropes of using Qoo10 Sales Manager
-to start your own e-store today and find out how you can sell across the borders with QuuBe!</p>
+<p>Ready to bring your business online in Singapore and beyond? Learn the ropes of using Qoo10 Sales Manager to start your own e-store today and find out how you can sell across the borders with QuuBe!</p>
+
+<i>If you have already started selling with Qoo10 and QuuBe, discover how you can begin <a href="/digital-programmes/e-commerce-programmes/drive-sales-performance-on-qoo10">Driving Sales Performance on Qoo10 (Marketing)</a> to multiply your sales with Qoo10 marketing tools.</i>
 
 <h4>Outline</h4>
   <b>1. Introduction to Qoo10</b>
