@@ -1,12 +1,14 @@
 ---
 layout: leftnav-page-content
-title: Mighty Velo gained deeper understanding on online business model and business patterns
+title: Mighty Velo
 permalink: /success-and-blog/success-stories/mighty-velo
-breadcrumb: Mighty Velo gained deeper understanding on online business model and business patterns
+breadcrumb: Mighty Velo
 collection_name: success-and-blog
 second_nav_title: Success Stories
 ---
-<img src="/images-2021/SuccessStories-MightyVelo.png" style="width:70%;">
+<img src="/images-2021/SuccessStories-MightyVelo.png" style="width:65%;">
+
+<h4>Mighty Velo gained deeper understanding on online business model and business patterns</h4>
 
 <p>Before attending the Alibaba Business School - SIRS CEO Programme, we had lacked the knowledge and confidence and suffered from inertia. This information-packed 
 programme has helped to provide a deeper understanding of the online business model and ever-changing consumer patterns. It seeks to prepare us to have an open mind 
