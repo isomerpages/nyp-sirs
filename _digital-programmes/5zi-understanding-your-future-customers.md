@@ -54,7 +54,7 @@ development through guided interactive online exercises
 <p>2 days (9am - 6pm daily)</p>
 
 <h4>Trainer Profile</h4>
-<div style="width:30%;float:left;"><img src="/images-2021/Masterclass Trainer_Jessica Tang.png" style="width:75%;"></div>
+<div style="width:30%;float:left;"><img src="/images-2021/Masterclass Trainer_Jessica Tang.png" style="width:40%;"></div>
 <div style="width:70%;float:left;"><b>Jessica Tang</b><br><i>Senior Consultant
     WGSN, APAC</i><br>Jessica is a seasoned creative strategist with extensive design research and innovation
 project experience in APAC. Coming from a hybrid background in Psychology and
