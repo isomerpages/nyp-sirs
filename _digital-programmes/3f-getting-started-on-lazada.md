@@ -24,7 +24,7 @@ second_nav_title: "E-Commerce Programmes"
 
 <p>Selling your products on Lazada has never been easier with SIRS 1-day workshop. Get started with the top e-marketplace platform in Southeast Asia to get more customers!</p>
 
-<p>Ready to amplify traffic on Lazada? Learn to <a href="/digital-programmes/e-commerce-programmes/drive-sales-performance-on-lazada">Drive Sales Performance on Lazada (Marketing)</a> to boost your sales by learning the marketing strategies you can deploy with Lazada's Marketing tools.</p>
+<i>Ready to amplify traffic on Lazada? Learn to <a href="/digital-programmes/e-commerce-programmes/drive-sales-performance-on-lazada">Drive Sales Performance on Lazada (Marketing)</a> to boost your sales by learning the marketing strategies you can deploy with Lazada's Marketing tools.</i>
 
 <h4>Outline</h4>
 <ol>
