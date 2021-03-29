@@ -1,12 +1,14 @@
 ---
 layout: leftnav-page-content
-title: BEST Denki increased sales by 100% within 6 months
+title: BEST Denki
 permalink: /success-and-blog/success-stories/best-denki
-breadcrumb: BEST Denki increased sales by 100% within 6 months
+breadcrumb: BEST Denki
 collection_name: success-and-blog
 second_nav_title: Success Stories
 ---
 <img src="images-2021/SuccessStories-BestDenki.jpg" style="width:40%;">
+
+<h4>BEST Denki increased sales by 100% within 6 months</h4>
 
 <p>The journey to digital commerce was a challenging one for us. Being a new domain, we did not have the prior knowledge nor resource and are moving into unchartered territory. 
 It took some time for us to set up the e-commerce operations in place and digital marketing was also a new area for us. At the start, consumer awareness was low and online 
