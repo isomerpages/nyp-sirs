@@ -6,11 +6,11 @@ breadcrumb: Unidbox Hardware
 collection_name: success-and-blog
 second_nav_title: Success Stories
 ---
-<img src="images-2021/SuccessStories-Unidbox.jpeg" style="width:100%;">
-<small><i>Newspaper article from The Straits Times, published on 30 March 2020.<br>
-This article was also featured on <a href="https://www.straitstimes.com/business/companies-markets/training-vital-to-stores-online-breakthrough">The Straits Times Online</a>.</i></small>
-
 <h4>Training vital to heartland SME Unidbox Hardware’s online breakthrough</h4>
+
+<img src="images-2021/SuccessStories-Unidbox.jpeg" style="width:100%;">
+<center><small><i>Newspaper article from The Straits Times, published on 30 March 2020.<br>
+This article was also featured on <a href="https://www.straitstimes.com/business/companies-markets/training-vital-to-stores-online-breakthrough">The Straits Times Online</a>.</i></small></center>
 
 <p>Even before the outbreak of COVID-19, heartland business Unidbox Hardware was already suffering from slow sales. Unidbox recognised the need to explore new areas such 
 as e-commerce and despite having an online presence, it was not generating sales and they did not have additional knowledge on how to operate their online business. This 
