@@ -6,7 +6,7 @@ breadcrumb: Yes Natural
 collection_name: success-and-blog
 second_nav_title: Success Stories
 ---
-<h4>Yes Natural Singapore connects with consumers with new social media strategy</h4>
+<h4>Yes Natural Singapore improved its social media strategy to attract customers amidst COVID-19 measures</h4>
 
 <center><iframe src="https://player.vimeo.com/video/530226500?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="SIRSxYes Natural.wmv"></iframe></center>
 <center><small><i>Video credit to Mediacorp Ch8 World News, aired on 4 February 2021</i></small></center>
