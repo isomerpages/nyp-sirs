@@ -6,7 +6,9 @@ breadcrumb: Unidbox Hardware
 collection_name: success-and-blog
 second_nav_title: Success Stories
 ---
-<img src="images-2021/SuccessStories-Unidbox.jpg" style="width:100%;">
+<img src="images-2021/SuccessStories-Unidbox.jpeg" style="width:100%;">
+<small><i>Newspaper article from The Straits Times, published on 30 March 2020. 
+This article was also featured on <a href="https://www.straitstimes.com/business/companies-markets/training-vital-to-stores-online-breakthrough">The Straits Times Online</a>.</i></small>
 
 <h4>Training vital to heartland SME Unidbox Hardware’s online breakthrough</h4>
 
@@ -20,5 +22,3 @@ up interesting opportunities,” said Mr Wong. Training has helped Unidbox bette
 in-platform campaigns and events to increase sales. Mr Wong added that he will continue to send his staff for training so that they can serve customers seamlessly online 
 and offline.</p>
 
-<b>Mr Wong Hing Kong</b><br>
-<em>Director, Unidbox Hardware</em>
