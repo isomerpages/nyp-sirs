@@ -64,7 +64,7 @@ and translate human-centered insights into strategic product design and brand
 directions for consumer-centric businesses in the region. Her portfolio includes
     work for multinational Fortune500 businesses and emerging local players.</div>
     
-<br>
+<br><br>
     
 <h4>Fees</h4>
 
