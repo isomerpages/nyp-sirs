@@ -11,20 +11,14 @@ second_nav_title: Success Stories
 <h4>Let Our Clients Speak for Us</h4>
 <p>Read how our clients, after attending our programmes, transform their business successfully to digital platforms, increase sales and achieve greater branding awareness.</p>
 
-<li><b>Activhealth (Singapore)</b><br>Attained clarity in crafting digital strategy. Read full story <a href="/success-and-blog/success-stories/activhealth">here.</a></li>
+- Activhealth attained clarity in crafting digital strategy. Read the full story <a href="/success-and-blog/success-stories/activhealth">here</a>.
+- BEST Denki increased sales by 100% within 6 months. Read the full story <a href="/success-and-blog/success-stories/best-denki">here</a>.
+- BHG (Singapore) successfully implemented reinvention plan despite COVID-19 constraints. Read the full story <a href="/success-and-blog/success-stories/bhg">here</a>.
+- D’Elegance converts motivated and talented mid-career PMETs to reskill and take on new job roles. Read the full story <a href="/success-and-blog/success-stories/d-elegance">here</a>.
+- Fruit Paradise applied lessons learnt from e-Commerce courses to its business during the pandemic. Read the full story <a href="/success-and-blog/success-stories/fruit-paradise">here</a>.
+- Fullhouse’s sales revenue made a quantum leap from 9 million in 8 months to 7 million in 3 months. Read the full story <a href="/success-and-blog/success-stories/fullhouse-home-furnishings">here</a>.
+- Mighty Velo gained deeper understanding on online business model and business patterns. Read the full story <a href="/success-and-blog/success-stories/mighty-velo">here</a>.
+- Unidbox Hardware’s online breakthrough. Read the full story <a href="/success-and-blog/success-stories/unidbox-hardware">here</a>.
+- VINCiTORE Shoes adopted digital solutions to enhance physical retail experience. Read the full story <a href="/success-and-blog/success-stories/vincitore-shoes">here</a>.
+- Yes Natural Singapore improved its social media strategy to attract customers. Read the full story <a href="/success-and-blog/success-stories/yes-natural">here</a>.
 
-<li><b>BEST Denki Singapore</b><br>Increased sales by 100% within 6 months. Read full story <a href="/success-and-blog/success-stories/best-denki">here.</a></li>
-
-<li><b>BHG (Singapore)</b><br>Successfully implemented reinvention plan despite COVID-19 constraints. Read full story <a href="/success-and-blog/success-stories/bhg">here.</a></li>
-
-<li><b>D’Elegance</b><br>Converts motivated and talented mid-career PMETs to reskill and take on new job roles. Read full story <a href="/success-and-blog/success-stories/d-elegance">here.</a></li>
-
-<li><b>Fullhouse Home Furnishings</b><br>Sales revenue made a quantum leap from 9 million in 8 months to 7 million in 3 months. Read full story <a href="/success-and-blog/success-stories/fullhouse-home-furnishings">here.</a></li>
-
-<li><b>Mighty Velo Singapore</b><br>Gained deeper understanding on online business model and business patterns. Read full story <a href="/success-and-blog/success-stories/mighty-velo">here.</a></li>
-
-<li><b>Unidbox Hardware</b><br>Heartland SME's online breakthrough. Read full story <a href="/success-and-blog/success-stories/unidbox-hardware">here.</a></li>
-
-<li><b>VINCiTORE Shoes</b><br>Adopting new retail tech solutions to provide an integrated retail experience and help your business stand out from the competition. Read full story <a href="/success-and-blog/success-stories/vincitore-shoes">here.</a></li>
-
-<li><b>Yes Natural</b><br>Learning to improve their social media strategy to attract customers, even with COVID-19 measures. Read full story <a href="/success-and-blog/success-stories/yes-natural">here.</a></li>
