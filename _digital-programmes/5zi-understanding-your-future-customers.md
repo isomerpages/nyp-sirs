@@ -42,7 +42,7 @@ research, identify qualitative and quantitative data, how to extract meaning fro
 develop a rationale that supports creative curation
 - <b>Collection Planning:</b> explore frameworks for curating product collections based on market best
 practices and consumer preferences, including how risk is managed throughout the merchandising process
-- <b>Seasonal Forecast:</b> discover latest seasonal forecasts for fashion or interior to provide context to
+- <b>Seasonal Forecast:</b> discover latest seasonal forecasts for retail to provide context to
 market trends and how they relate to emerging consumer lifestyles
 - <b>Collection Planning Application:</b> apply product trends and curation frameworks into collection
 development through guided interactive online exercises
