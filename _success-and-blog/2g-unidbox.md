@@ -8,7 +8,7 @@ second_nav_title: Success Stories
 ---
 <h4>Training vital to heartland SME Unidbox Hardware’s online breakthrough</h4>
 
-<img src="images-2021/SuccessStories-Unidbox.jpeg" style="width:75%;">
+<img src="images-2021/SuccessStories-Unidbox.jpeg" style="width:85%;">
 <center><small><i>Newspaper article from The Straits Times, published on 30 March 2020.<br>
 This article was also featured on <a href="https://www.straitstimes.com/business/companies-markets/training-vital-to-stores-online-breakthrough">The Straits Times Online</a>.</i></small></center>
 
