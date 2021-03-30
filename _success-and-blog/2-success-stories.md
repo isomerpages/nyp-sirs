@@ -15,19 +15,19 @@ second_nav_title: Success Stories
 
 - BEST Denki increased sales by 100% within 6 months. Read the full story <a href="/success-and-blog/success-stories/best-denki">here</a>.<br>
 
-- BHG (Singapore) successfully implemented reinvention plan despite COVID-19 constraints. Read the full story <a href="/success-and-blog/success-stories/bhg">here</a>.
+- BHG (Singapore) successfully implemented reinvention plan despite COVID-19 constraints. Read the full story <a href="/success-and-blog/success-stories/bhg">here</a>.<br>
 
-- D’Elegance converts motivated and talented mid-career PMETs to reskill and take on new job roles. Read the full story <a href="/success-and-blog/success-stories/d-elegance">here</a>.
+- D’Elegance converts motivated and talented mid-career PMETs to reskill and take on new job roles. Read the full story <a href="/success-and-blog/success-stories/d-elegance">here</a>.<br>
 
-- Fruit Paradise applied lessons learnt from e-Commerce courses to its business during the pandemic. Read the full story <a href="/success-and-blog/success-stories/fruit-paradise">here</a>.
+- Fruit Paradise applied lessons learnt from e-Commerce courses to its business during the pandemic. Read the full story <a href="/success-and-blog/success-stories/fruit-paradise">here</a>.<br>
 
-- Fullhouse’s sales revenue made a quantum leap from 9 million in 8 months to 7 million in 3 months. Read the full story <a href="/success-and-blog/success-stories/fullhouse-home-furnishings">here</a>.
+- Fullhouse’s sales revenue made a quantum leap from 9 million in 8 months to 7 million in 3 months. Read the full story <a href="/success-and-blog/success-stories/fullhouse-home-furnishings">here</a>.<br>
 
-- Mighty Velo gained deeper understanding on online business model and business patterns. Read the full story <a href="/success-and-blog/success-stories/mighty-velo">here</a>.
+- Mighty Velo gained deeper understanding on online business model and business patterns. Read the full story <a href="/success-and-blog/success-stories/mighty-velo">here</a>.<br>
 
-- Unidbox Hardware’s online breakthrough. Read the full story <a href="/success-and-blog/success-stories/unidbox-hardware">here</a>.
+- Unidbox Hardware’s online breakthrough. Read the full story <a href="/success-and-blog/success-stories/unidbox-hardware">here</a>.<br>
 
-- VINCiTORE Shoes adopted digital solutions to enhance physical retail experience. Read the full story <a href="/success-and-blog/success-stories/vincitore-shoes">here</a>.
+- VINCiTORE Shoes adopted digital solutions to enhance physical retail experience. Read the full story <a href="/success-and-blog/success-stories/vincitore-shoes">here</a>.<br>
 
-- Yes Natural Singapore improved its social media strategy to attract customers. Read the full story <a href="/success-and-blog/success-stories/yes-natural">here</a>.
+- Yes Natural Singapore improved its social media strategy to attract customers. Read the full story <a href="/success-and-blog/success-stories/yes-natural">here</a>.<br>
 
