@@ -11,7 +11,7 @@ second_nav_title: Success Stories
 <h4>Let Our Clients Speak for Us</h4>
 <p>Read how our clients, after attending our programmes, transform their business successfully to digital platforms, increase sales and achieve greater branding awareness.</p>
 
-- Activhealth attained clarity in crafting digital strategy. Read the full story <a href="/success-and-blog/success-stories/activhealth">here</a>.
+- Activhealth attained clarity in crafting digital strategy. Read the full story <a href="/success-and-blog/success-stories/activhealth">here</a>.<br>
 - BEST Denki increased sales by 100% within 6 months. Read the full story <a href="/success-and-blog/success-stories/best-denki">here</a>.
 - BHG (Singapore) successfully implemented reinvention plan despite COVID-19 constraints. Read the full story <a href="/success-and-blog/success-stories/bhg">here</a>.
 - D’Elegance converts motivated and talented mid-career PMETs to reskill and take on new job roles. Read the full story <a href="/success-and-blog/success-stories/d-elegance">here</a>.
