@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Fruits Paradise
-permalink: /success-and-blog/success-stories/fruits-paradise
-breadcrumb: Fruits Paradise
+title: Fruit Paradise
+permalink: /success-and-blog/success-stories/fruit-paradise
+breadcrumb: Fruit Paradise
 collection_name: success-and-blog
 second_nav_title: Success Stories
 ---
