@@ -7,7 +7,7 @@ collection_name: success-and-blog
 second_nav_title: Success Stories
 ---
 <img src="/images-2021/SuccessStories-FruitsParadise.png" style="width:80%;">
-<small><i>Newspaper article from Lianhe WanBao, published on 24 Nov 2020.
+<small><i>Newspaper article from Lianhe WanBao, published on 24 Nov 2020.<br>
 This article was also featured on <a href="https://www.zaobao.com.sg/zfinance/sme/story20201124-1103583?fbclid=IwAR1hgrHRJM1Ac0KLUc4W0HB2o0Uzi55DvbKYgt80jW4BTGISHaQH2vNpc0o">Lianhe ZaoBao Online</a></i></small>
   
 <h4>Fruit Paradise applied lessons learnt from e-Commerce courses to its business during the pandemic</h4>
