@@ -6,9 +6,8 @@ breadcrumb: Mighty Velo
 collection_name: success-and-blog
 second_nav_title: Success Stories
 ---
-<img src="/images-2021/SuccessStories-MightyVelo.png" style="width:65%;">
-
 <h4>Mighty Velo gained deeper understanding on online business model and business patterns</h4>
+<img src="/images-2021/SuccessStories-MightyVelo.png" style="width:65%;">
 
 <p>Before attending the Alibaba Business School - SIRS CEO Programme, we had lacked the knowledge and confidence and suffered from inertia. This information-packed 
 programme has helped to provide a deeper understanding of the online business model and ever-changing consumer patterns. It seeks to prepare us to have an open mind 
@@ -17,4 +16,4 @@ with other SME owners who are in other industries. We recommend SME owners who h
 embarking on your e-commerce journey and make new friends.</p>
 
 <b>Vivian Yuan</b><br>
-<em>Director, Mighty Velo Singapore</em>
+<i>Director, Mighty Velo Singapore</i>
