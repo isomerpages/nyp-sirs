@@ -62,9 +62,10 @@ project experience in APAC. Coming from a hybrid background in Psychology and
 Design, Jessica adopts a hybrid qualitative mix quantitative approach to gather
 and translate human-centered insights into strategic product design and brand
 directions for consumer-centric businesses in the region. Her portfolio includes
-    work for multinational Fortune500 businesses and emerging local players.</div><br>
+    work for multinational Fortune500 businesses and emerging local players.</div>
+    <br>
     
-<br><br>
+<br>
     
 <h4>Fees</h4>
 
@@ -77,7 +78,7 @@ directions for consumer-centric businesses in the region. Her portfolio includes
 
 <tr>
 <td>Full fees</td>
-<td>$3,049</td>
+<td>$3,049.50</td>
 </tr>
 
 <tr>
