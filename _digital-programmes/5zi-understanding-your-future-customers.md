@@ -64,7 +64,7 @@ development through guided interactive online exercises
 		</figure>
 	</div>
 	<div class="col is-8">
-        <b>Jessica Tang</b><br><i>Senior Consultant<br>WGSN, APAC</i><br><br>Jessica is a seasoned creative strategist with extensive design research and innovation project experience in APAC.<br>Coming from a hybrid background in Psychology and
+        <b>Jessica Tang</b><br><i>Senior Consultant<br>WGSN, APAC</i><br><br>Jessica is a seasoned creative strategist with extensive design research and innovation project experience in APAC. Coming from a hybrid background in Psychology and
 Design, Jessica adopts a hybrid qualitative mix quantitative approach to gather
 and translate human-centered insights into strategic product design and brand
 directions for consumer-centric businesses in the region. Her portfolio includes
