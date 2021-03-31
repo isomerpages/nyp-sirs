@@ -63,13 +63,13 @@ directions for consumer-centric businesses in the region. Her portfolio includes
     work for multinational Fortune500 businesses and emerging local players.</div>
     
 <div class="row">
-    <div class="col is-6">
+    <div class="col is-4">
 		<figure style="margin:0;">
 			<img src="/images-2021/Masterclass Trainer_Jessica Tang.png" style="width:60%;">
 			<figcaption class="has-text-weight-bold" style="color:#0AD25A"> </figcaption>
 		</figure>
 	</div>
-	<div class="col is-6">
+	<div class="col is-8">
         <b>Jessica Tang</b><br><i>Senior Consultant<br>WGSN, APAC</i><br><p>Jessica is a seasoned creative strategist with extensive design research and innovation project experience in APAC.<br>Coming from a hybrid background in Psychology and
 Design, Jessica adopts a hybrid qualitative mix quantitative approach to gather
 and translate human-centered insights into strategic product design and brand
