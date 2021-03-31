@@ -44,15 +44,25 @@ cycle, cost management, and contracts while minimizing risks associated with con
 
 <h4>Trainer Profile</h4>
 
-<div style="width:30%;float:left;"><img src="/images-2021/Masterclass Trainer_Roney Joseph P.png" style="width:60%;"></div>
-<div style="width:70%;float:left;"><b>Roney Joseph P.</b><br><i>Senior Technical Trainer, Amazon Web Services</i><br>Roney has over 20 years of experience in the field of Information Technology and over 10 years of technical training experience globally for both corporate and
+
+<div class="row">
+    <div class="col is-4">
+		<figure style="margin:0;">
+			<img src="/images-2021/Masterclass Trainer_Roney Joseph P.png" style="width:60%;">
+			<figcaption class="has-text-weight-bold" style="color:#0AD25A"> </figcaption>
+		</figure>
+	</div>
+	<div class="col is-8">
+        <b>Roney Joseph P.</b><br><i>Senior Technical Trainer<br>Amazon Web Services</i><br><br>Roney has over 20 years of experience in the field of Information Technology and over 10 years of technical training experience globally for both corporate and
 public domain. He also has over 3 years of experience as Technical Consultant,
 Trainer & Mentor on the big data platform and is responsible for delivering AWS
 certification courses in APAC & ASEA region for having specialization on Big Data &
 Data Warehousing. He has successfully delivered several trainings on AWS for large
 organizations in Singapore, Malaysia, Vietnam and Thailand and has past experience
 of Mainframes & Siebel CRM. Roney possess excellent interpersonal, communication
-and organizational skills with proven abilities in people management and training.</div><br>
+and organizational skills with proven abilities in people management and training.
+	</div>
+</div>
 
 <h4>Fees</h4>
 
