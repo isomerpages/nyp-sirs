@@ -56,9 +56,9 @@ Brand Managers, Trade Marketing Managers, Key Account Managers, and Sales Manage
 distributors and brand owners including Dairy Farm, Mars, Unilever, and was most
 recently the Head of Merchandising at NTUC Health. Ing Hui believes evolution is
 key to success and this motivation has led her to create new market opportunities for
-sustainable business growth at various organisations.<br>She is also certified in Advanced
+sustainable business growth at various organisations.She is also certified in Advanced
 Search Engine Marketing and Top SEO Placement by the Search Engine Academy since
-2014. Armed with a positive outlook and “can-do” attitude throughout her career, Ing
+2014.<br>Armed with a positive outlook and “can-do” attitude throughout her career, Ing
 Hui has accumulated extensive knowledge in Category Management, Merchandising,
 Marketing, Sales and Key Accounts. Her work covered multiple channels including
 supermarkets, convenience stores, pharmacies, pet shops, and F&B. With robust work
