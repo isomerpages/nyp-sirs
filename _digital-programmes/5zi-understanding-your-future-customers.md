@@ -54,7 +54,8 @@ development through guided interactive online exercises
 <p>2 days (9am - 6pm daily)</p>
 
 <h4>Trainer Profile</h4>
-    <br>
+    
+    
 <div class="row">
     <div class="col is-4">
 		<figure style="margin:0;">
