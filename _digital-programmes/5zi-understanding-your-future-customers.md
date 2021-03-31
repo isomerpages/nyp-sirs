@@ -13,7 +13,7 @@ second_nav_title: "Masterclasses & Workshops"
 
 <center><table style="width:80%;">
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">18 and 19 May 2021</td>
+      <td style="text-align:center;width:50%;">20 and 21 May 2021</td>
     </tr>
 </table></center>
 
