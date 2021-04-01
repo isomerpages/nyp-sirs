@@ -20,8 +20,9 @@ relevant working experience in such sectors.</p>
 
 <h4>How does it work?</h4>
 <p>You will enjoy additional support in your journey of acquiring and advancing your skills, an enhanced level of employability in an evolving economy and 
-greater opportunities to maximise your potential.<br>You will receive a monetary award of S$5,000, which you can use to defray out-of-pocket expenses associated 
-with the course that you will be taking. It can also be used on top of existing Government course fee subsidies. You do not need to serve a bond.</p>
+greater opportunities to maximise your potential.</p>
+
+<p>You will receive a monetary award of S$5,000, which you can use to defray out-of-pocket expenses associated with the course that you will be taking. It can also be used on top of existing Government course fee subsidies. You do not need to serve a bond.</p>
 
 <h4>How do I sign up?</h4>
-<p>Click <a href="https://www.myskillsfuture.sg/content/portal/en/header/faqs/SkillsFutureStudyAward.html">here</a> to view details and apply for the SkillsFuture Study Award.
+<p>Click <a href="https://www.skillsfuture.gov.sg/studyawards">here</a> to view details and apply for the SkillsFuture Study Award.
