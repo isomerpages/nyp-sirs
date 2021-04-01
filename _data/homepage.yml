@@ -3,7 +3,7 @@
 # Feel free to edit this file :) #
 #                                #
 ##################################
-
+    
 # Favicon
 favicon: /images/sirs-favicon.ico
 
@@ -11,35 +11,33 @@ favicon: /images/sirs-favicon.ico
 agency-logo: /images/sirs-logo.png
 
 # Hero Banner
-hero-title: Singapore Institute of Retail Studies
-hero-subtitle: 
-hero-banner: /images/hero-banner.png
-
-#Call to Action Button
-button:
-  - text: Learn More
-    url: /alibaba-business-school/alibaba-ceo-master-programme/
+hero-banner: /images-2021/Homepage_Banner.png
 
 # Google analytics
-google-analytics: 
+google-analytics: UA-118644499-7
 
-key-highlights:
-  - title: Highlight A
-    description: Important highlight A is important
-    url: https://google.com
-    external: true
-  - title: Highlight B
-    description: Important highlight B is equally important
-    url: https://yahoo.com
-    external: true
-  - title: Page A
-    description: Page A is important too
-    url: /alibaba-business-school/alibaba-ceo-master-programme/
-  - title: Page C
-    description: Page A is important too
-    url: /alibaba-business-school/alibaba-ceo-master-programme/
-
-resources-title: Blog
-resources-subtitle: Be in the know
-resources-more-button: More Blog Posts
-resources-more-button-url: blog/
+# Info Section
+info-sections:  
+  - section-subtitle: SGUnited Skills (SGUS) Programme administered by SIRS
+    section-description: The SGUnited Skills (SGUS) Programme is open to all mid-career Singapore Citizens and Singapore Permanent Residents who can commit to this 6 months full-time training programme. Trainees enjoy close to 100% subsidised course fee and up to $7,200 of training allowance during the programme. SIRS will also provide career advisory, guidance and employment placement assistance at no cost! 
+    section-more-button: More about SGUS
+    section-image-path: /images-2021/Services-CareerServices-SGUS-Overview.png
+    section-more-button-url: /services/career-services/sgus-programme
+    
+  - section-subtitle: Digital Mentorship Programme (DMP)
+    section-description: Fast track your e-commerce and social commerce journey with SIRS' Digital Mentorship Programme, a personalised and mentor guided programme with up to 90% funding from SkillsFuture Singapore (SSG). The programme comprises classroom and on-the-job training where a mentor will be assigned to guide you in the setup and managing of your e-commerce and social media platforms. 
+    section-more-button: More about DMP
+    section-more-button-url: /digital-programmes/digital-mentorship-programme
+    section-image-path: /images-2021/DigitalProgrammes-DMP-Overview.jpg
+    
+  - section-subtitle: Level Up Customer Engagement through Live Streaming
+    section-image-path: /images-2021/Home-Highlights-Livestreaming.png
+    section-description: Pick up hosting skills from professional host, Cyrus Talks, one of Singapore's well-known online hosts and influencers. Learn to plan, organise and manage your live streams on social media platforms to gain more customers & expand your business.  
+    section-more-button: More about this workshop
+    section-more-button-url: /digital-programmes/masterclasses-and-workshops/level-up-customer-engagement-through-live-streaming
+    
+  - section-subtitle: Be the First to Know
+    section-description: Join the SIRS mailing list and receive first-hand news and updates on our courses, services, and events. 
+    section-more-button: More about SIRS Mailing List
+    section-image-path: /images-2021/Home-Highlights-SIRSMailingList.png
+    section-more-button-url: /subscribe

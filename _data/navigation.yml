@@ -4,70 +4,64 @@
 #                                #
 ##################################
 
-- title: About SIRS
-  url: /about-us/who-we-are/
+- title: About Us
+  url: /about-us/
   sub-links:
   - title: Who We Are
-    url: /about-us/who-we-are/
+    url: /about-us
+  - title: Strategic Partners
+    url: /about-us/our-partners
+  - title: Contact Us
+    url: /contact-us
+  - title: Mailing List
+    url: /subscribe
+    
 - title: Services
-  url: /masterclass-and-workshop/digital-marketing/work-learn-bootcamp/
+  url: /services/career-services
   sub-links:
-  - title: Courses
-    url: /masterclass-and-workshop/digital-marketing/work-learn-bootcamp/
   - title: Career Services
-    url: /masterclass-and-workshop/skillsfuture-series/
-  - title: Consultancy Services
-    url: /masterclass-and-workshop/skillsfuture-for-digital-workplace/
-- title: Funding Schemes
-  url: /become-an-entrepreneur/set-up-an-online-business/
+    url: /services/career-services
+  - title: Consultancy
+    url: /services/consultancy
+  - title: Education & Training
+    url: /services/education-and-training
+
+- title: WSQ Programmes
+  url: /wsq-programmes/
   sub-links:
-  - title: Set Up An Online Business
-    url: /become-an-entrepreneur/set-up-an-online-business/
-  - title: For 99 Sme Sellers
-    url: /become-an-entrepreneur/for-99-sme-sellers/
-  - title: For Amazon Sellers
-    url: /become-an-entrepreneur/for-amazon-sellers/
-  - title: For Carousell Sellers
-    url: /become-an-entrepreneur/for-carousell-sellers/
-  - title: For Ebay Sellers
-    url: /become-an-entrepreneur/for-ebay-sellers/
-  - title: For Lazada Sellers
-    url: /become-an-entrepreneur/for-lazada-sellers/
-  - title: For Qoo10 Sellers
-    url: /become-an-entrepreneur/for-qoo10-sellers/
-  - title: For Shopee Sellers
-    url: /become-an-entrepreneur/for-shopee-sellers/
-  - title: Alibaba Business School Sirs Entrepreneur Startup
-    url: /become-an-entrepreneur/alibaba-business-school-sirs-entrepreneur-startup/
-- title: Media
-  url: /funding-and-advisory/singtel-99-sme/
+  - title: WSQ Full Qualification Programmes
+    url: /wsq-programmes/wsq-full-qualification-programmes/
+  - title: WSQ Certified Modular Programmes
+    url: /wsq-programmes/wsq-modular-programmes/
+    
+
+- title: Digital Programmes
+  url: /digital-programmes/
   sub-links:
-  - title: Singtel 99 Sme
-    url: /funding-and-advisory/singtel-99-sme/
-  - title: Skillsfuture Credit
-    url: /funding-and-advisory/skillsfuture-credit/
-  - title: Skillsfuture Mid Career Enhanced Subsidy
-    url: /funding-and-advisory/skillsfuture-mid-career-enhanced-subsidy/
-  - title: Enhanced Training Support For Smes
-    url: /funding-and-advisory/enhanced-training-support-for-smes/
-  - title: Workfare Training Support Scheme
-    url: /funding-and-advisory/workfare-training-support-scheme/
-  - title: Absentee Payroll
-    url: /funding-and-advisory/absentee-payroll/
-  - title: Productivity And Innovation Credit
-    url: /funding-and-advisory/productivity-and-innovation-credit/
-  - title: Digital Professional
-    url: /funding-and-advisory/digital-professional/
-- title: Blog
-  url: /success-stories/activhealth-pte-ltd/
+  - title: Alibaba Business School
+    url: /digital-programmes/alibaba-business-school
+  - title: Digital Mentorship Programme (DMP)
+    url: /digital-programmes/digital-mentorship-programme
+  - title: E-Commerce Programmes
+    url: /digital-programmes/e-commerce-programmes
+  - title: Joint Certification Programmes
+    url: /digital-programmes/certified-digital-productivity-consultant
+  - title: Masterclasses & Workshops
+    url: /digital-programmes/masterclasses-and-workshops
+  - title: National Silver Academy
+    url: /digital-programmes/national-silver-academy
+  - title: SkillsFuture for Digital Workplace (SFDW)
+    url: /digital-programmes/skillsfuture-for-digital-workplace
+  - title: SkillsFuture Series
+    url: /digital-programmes/skillsfuture-series
+  - title: Study Trips
+    url: /digital-programmes/study-trips
+
+ 
+- title: Success Stories & Blog
+  url: /success-and-blog/success-stories
   sub-links:
-  - title: Activhealth Pte Ltd
-    url: /success-stories/activhealth-pte-ltd/
-  - title: Best Denki Pte Ltd
-    url: /success-stories/best-denki-pte-ltd/
-  - title: Fullhouse Home Furnishing
-    url: /success-stories/fullhouse-home-furnishing/
-  - title: Mighty Velo
-    url: /success-stories/mighty-velo/
   - title: Blog
-    url: /blog/
+    url: /blog
+  - title: Success Stories
+    url: /success-and-blog/success-stories
