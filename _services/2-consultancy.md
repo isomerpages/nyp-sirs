@@ -24,9 +24,7 @@ second_nav_title: "Consultancy"
 
 <h4>For Individuals</h4>
 <ul>
-<li><a href="/services/consultancy/ntuc-training-fund">NTUC Training Fund (SEPs)</a></li>
 <li><a href="/services/consultancy/skillsfuture-credit">SkillsFuture Credit (SFC)</a></li>
-<li><a href="/services/consultancy/sfc2">One-Off SkillsFuture Credit Top-Up (SFC2)</a></li>
 <li><a href="/services/consultancy/skillsfuture-midcareer-enhanced-subsidy">SkillsFuture Mid-Career Enhanced Subsidy (MCES)</a></li>
 <li><a href="/services/consultancy/skillsfuture-qualification-award">SkillsFuture Qualification Award</a></li>
 <li><a href="/services/consultancy/skillsfuture-study-awards">SkillsFuture Study Awards</a></li>

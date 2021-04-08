@@ -30,4 +30,4 @@ second_nav_title: "Consultancy"
 <p>Your company may apply through the <a href="https://sfec.enterprisejobskills.gov.sg/Callbackhandler/Prelogin.aspx">Entreprise Portal</a> for the programme you attended. The Government will reimburse the absentee payroll.</p>
 
 <h4>Where can I get more information on AP?</h4>
-<p>You may visit <a href="https://www.skillsfuture.gov.sg/sfec">SkillsConnect</a> for more information on AP.</p>
+<p>You may visit <a href="https://www.skillsconnect.gov.sg/sop/portal/e-Services/For%20Employers/AbsenteePayroll.jsp">SkillsConnect</a> for more information on AP.</p>
