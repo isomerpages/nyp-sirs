@@ -17,5 +17,5 @@ Feb 2019, he turned out to become one of the top sellers on Lazada. Mr Kwan attr
 Since his success, he has already asked his friends to join the programme and has also attended "Driving Sales Performance on Lazada (Marketing)" and "Driving Sales Performance on 
 Qoo10 (Marketing)".</p>
 
-<b>Mr Kwan Kah Huei</b>
+<b>Mr Kwan Kah Huei</b><br>
 <i>E-commerce Business Owner, Greenenlight.com Pte Ltd</i>
