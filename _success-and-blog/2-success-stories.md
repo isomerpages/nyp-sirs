@@ -23,7 +23,7 @@ second_nav_title: Success Stories
 
 <li>Fullhouse’s sales revenue made a quantum leap from 9 million in 8 months to 7 million in 3 months. Read the full story <a href="/success-and-blog/success-stories/fullhouse-home-furnishings">here</a>.</li>
 
-<li>An e-commerce business owner’s journey to become one of the top sellers on Lazada. Read the full story <a href="/success-and-blog/success-stories/greenenlight">here</a>.</li>
+<li>Greenenlight: An e-Commerce business owner’s journey to become one of the top sellers on Lazada. Read the full story <a href="/success-and-blog/success-stories/greenenlight">here</a>.</li>
 
 <li>Mighty Velo gained deeper understanding on online business model and business patterns. Read the full story <a href="/success-and-blog/success-stories/mighty-velo">here</a>.</li>
 
