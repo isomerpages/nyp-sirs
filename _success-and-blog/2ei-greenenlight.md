@@ -18,4 +18,4 @@ Since his success, he has already asked his friends to join the programme and ha
 Qoo10 (Marketing)".</p>
 
 <b>Mr Kwan Kah Huei</b><br>
-<i>E-commerce Business Owner, Greenenlight.com Pte Ltd</i>
+<i>e-Commerce Business Owner, Greenenlight.com Pte Ltd</i>
