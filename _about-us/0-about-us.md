@@ -5,20 +5,16 @@ permalink: /about-us
 breadcrumb: About SIRS
 collection_name: about-us
 ---
-<html>
-<head>
-<script src="https://assets.wogaa.sg/scripts/wogaa.js"></script>
-</head>
-</html>
 
 <img src="/images-2021/AboutUs_SIRS_OurMission.png" style="width:100%;">
 
 <p>The Singapore Institute of Retail Studies (SIRS) is a Continuing Education & Training (CET) institute of Nanyang Polytechnic. Established in January 2006 as the first CET Institute in Singapore, SIRS’ excellent performance and track record has since won the conferment of the National CET Institute status, the pinnacle status for CET centres.</p>
-<p>Since April 2016, SIRS has been the Anchor Provider for the Retail Industry by SkillsFuture Singapore, as well as the Programme Manager for various national programmes, including Professional Conversion Programmes (PCPs), Work-Study Programmes, Work-Study Certificate (Bootcamp for Digital Marketing & Branding), Redeployment PCP, as well as the SGUnited Skills (SGUS) Programme.</p>
+
+<p>Since being appointed by SkillsFuture Singapore in April 2016, SIRS has been the Anchor Provider for the Retail Industry, as well as the Programme Manager for various national programmes, including Professional Conversion Programmes (PCPs), Work-Study Programmes, Work-Study Certificate (Bootcamp in Digital Marketing & Branding), Redeployment PCP, as well as the SGUnited Skills (SGUS) Programme.</p>
 
 <p>SIRS provides a quality, market-driven and comprehensive spectrum of Retail programmes and solutions to support and prepare enterprises and the workforce alike for the evolving challenges in the marketplace. These programmes include the Workforce Skills Qualifications suite, Executive Programmes, Masterclasses, Workshops, Seminars and Conferences. SIRS aligns its solutions to the Retail Sectoral Manpower Plan and the Retail Industry Transformation Map to best aid companies to drive growth through innovation & internationalisation, improve productivity with technology, and build a future-ready and productive workforce.</p>
 
-<p>To lead the Retail industry into digitalisation and e-Commerce, SIRS has established strategic partnerships with notable market leaders. Our continued partnerships with leaders such as Alibaba, Amazon, eBay, Lazada, NETS, Qoo10, SCash, Shopee, 99% SME, Singapore Media Academy (SMA), Singapore Productivity Centre (SGPC), and Cgangs work to co-create a suite of cutting edge digital programmes, helping retailers navigate the changing retail landscape and execute successful omnichannel strategies.</p>
+<p>To lead the Retail industry into digitalisation and e-Commerce, SIRS has established strategic partnerships with notable market leaders, such as Alibaba, Amazon, eBay, Lazada, NETS, Qoo10, SCash, Shopee, 99% SME, Singapore Media Academy (SMA), Singapore Productivity Centre (SGPC), and Cgangs, to co-create a suite of cutting edge digital programmes, helping retailers navigate the changing retail landscape and execute successful omnichannel strategies.</p>
 
 <p>SIRS also works closely with e-Commerce aggregators under the Enterprise Singapore’s Multichannel E-commerce Platform (MEP) Programme as the designated training partner to develop and deliver quality training to Small and Medium Enterprises (SMEs) who are keen to kick-start their cross-border online businesses. To promote lifelong learning and upskilling, SIRS, in collaboration with the Singapore University of Social Sciences (SUSS), also offers an articulation pathway for graduates of the Work-Study Post-Diploma - WSQ Specialist Diploma (Operations) with advanced standing.</p>
 
