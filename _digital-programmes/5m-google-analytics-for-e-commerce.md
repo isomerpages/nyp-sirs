@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Google Analytics for E-Commerce with GAIQ Certification
+title: Google Analytics (GA) for E-Commerce with GAIQ Certification
 permalink: /digital-programmes/masterclasses-and-workshops/google-analytics-for-e-commerce
-breadcrumb: Google Analytics for E-Commerce with GAIQ Certification
+breadcrumb: Google Analytics (GA) for E-Commerce with GAIQ Certification
 collection_name: digital-programmes
 second_nav_title: "Masterclasses & Workshops"
 ---
