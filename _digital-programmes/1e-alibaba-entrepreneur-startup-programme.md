@@ -17,6 +17,14 @@ Open Your Horizons. Apply Proven E-Commerce Strategies</center>
 <center>互联网商业创业班 - 电商创业班<br>
 打开脑洞，学习套路应用在任何平台</center>
 
+<h3 style="text-align:center;">Next intake:</h3>
+
+<center><table style="width:80%;">
+    <tr style="text-align:center;">
+      <td style="text-align:center;width:50%;">11 to 13, 16 to 18 August 2021 (6 days)</td>
+    </tr>
+</table></center>
+
 <b>This programme will be conducted in Mandarin.</b>
 
 <p>SIRS in partnership with Alibaba Business School, the official training arm of Alibaba Group, offers comprehensive and systematic training programmes to meet a full spectrum of learning needs of government groups, entrepreneurs, SMEs, startups, e-commerce practitioners and students.</p>
