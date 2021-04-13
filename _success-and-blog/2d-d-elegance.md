@@ -12,5 +12,5 @@ second_nav_title: Success Stories
 
 <p>We wanted to build a strong Singaporean team that would help take our brand to greater heights. However, we do not believe in hiring only candidates who have relevant job experience. At D’Elegance, we hire for attitude and train for skills. This allowed us to widen our pool of talent and candidates to hire from. So, we embarked on the PCP (Professional Conversion Programme) which allowed us to convert candidates from other fields to their new positions more efficiently and effectively.</p>
 
-<b>Peh Zhenyang</b><br>
+<b>Peh Zhengyang</b><br>
 <i>Director, D’Elegance</i>
