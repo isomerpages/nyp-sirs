@@ -2,7 +2,7 @@
 layout: leftnav-page-content
 title: Who We Are
 permalink: /about-us
-breadcrumb: About SIRS
+breadcrumb: Who We Are
 collection_name: about-us
 ---
 
