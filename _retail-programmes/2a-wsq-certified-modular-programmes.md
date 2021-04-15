@@ -13,7 +13,6 @@ second_nav_title: "WSQ Certified Modular Programmes"
 <h4>WSQ Certified Modular Programmes</h4>
 
 <ul>
-    <li><a href="/wsq-programmes/wsq-modular-programmes/be-your-own-makeup-artist">Be Your Own Makeup Artist</a></li>
     <li><a href="/wsq-programmes/wsq-modular-programmes/creating-an-unforgettable-customer-experience">Creating an Unforgettable Customer Experience</a></li>
     <li><a href="/wsq-programmes/wsq-modular-programmes/mastering-the-art-of-selling-in-new-retail">Mastering the Art of Selling in New Retail</a></li>
     <li><a href="/wsq-programmes/wsq-modular-programmes/maximising-digital-ad-dollars-with-sem">Maximise Digital Advertising Dollars with Search Engine Marketing (SEM)</a></li>
