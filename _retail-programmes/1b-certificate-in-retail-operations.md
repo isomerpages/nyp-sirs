@@ -25,7 +25,7 @@ second_nav_title: "WSQ Full Qualification Programmes"
 
 <b>Service Challenges (15 hours)</b><br>Recognise the challenges brought about by evolving technology and customer behaviour in the service environment. Understand the importance of addressing these service challenges with the aim to deliver great customer experience.
 
-<b>Service Leadership (15 hours)</b><br>Recognise the role that one plays in contributing to the customer interactions and experience with the brand while aligning with the company's service vision, mission, and values. Understand the customer journey and seek opportunity to explore, innovate, nurture, and improve the customer experience.</p>
+<b>Service Leadership (15 hours)</b><br>Recognise the role that one plays in contributing to the customer interactions and experience with the brand while aligning with the company's service vision, mission, and values. Understand the customer journey and seek opportunity to explore, innovate, nurture, and improve the customer experience.
 
 <b>Workplace Communications (15 hours)</b><br>Establish a culture of good communication is essential in the evolving workplace. Understand the process of exchanging information and ideas, both verbal and non-verbal, is critical in enhancing team effectiveness in a diverse workplace.
 
