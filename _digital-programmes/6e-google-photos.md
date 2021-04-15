@@ -8,7 +8,15 @@ second_nav_title: National Silver Academy
 ---
 
 <img src="images-2021/DigitalProgrammes_NSA_TechSavvy-GooglePhotos.png" style="width:100%;">
-                                                                               
+
+<h4 style="text-align:center;">Next intake:</h4>
+
+<center><table style="width:80%;">
+    <tr style="text-align:center;">
+      <td style="text-align:center;width:50%;">To be confirmed</td>
+    </tr> 
+</table></center>
+
 <p>Enhance and edit the photos you have taken using the Google Photos app. Learn how to store, manage, and share these beautiful photos with your loved ones!</p>
 
 <h4>Outline</h4>
