@@ -13,7 +13,12 @@ second_nav_title: "Masterclasses & Workshops"
 
 <center><table style="width:80%;">
     <tr style="text-align:center;">
+      <th style="text-align:center;width:50%;">Online Training</th>
+      <th style="text-align:center;width:50%;">Face-to-Face</th>
+    </tr>
+    <tr style="text-align:center;">
       <td style="text-align:center;width:50%;">20 and 21 May 2021</td>
+      <td style="text-align:center;width:50%;">To be confirmed</td>
     </tr>
 </table></center>
 
