@@ -11,7 +11,10 @@ second_nav_title: "WSQ Certified Modular Programmes"
 <h4 style="text-align:center;">Next intake:</h4>
 <center><table style="width:80%;">
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">13 and 15 April 2021</td>
+      <th style="text-align:center;width:50%;">Face-to-Face</th>
+    </tr>
+    <tr style="text-align:center;">
+      <td style="text-align:center;width:50%;">7 and 9 June 2021</td>
     </tr>
 </table></center>
 
