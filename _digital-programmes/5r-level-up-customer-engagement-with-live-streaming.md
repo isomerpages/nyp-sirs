@@ -12,7 +12,10 @@ second_nav_title: "Masterclasses & Workshops"
 
 <center><table style="width:80%;">
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">To be confirmed</td>
+      <th style="text-align:center;width:50%;">Face-to-Face (English)</th>
+    </tr>
+    <tr style="text-align:center;">
+      <td style="text-align:center;width:50%;">19 to 20 April 2021 (Mon-Tue)<br>24 to 25 May 2021(Mon-Tue)</td>
     </tr>
 </table></center>
 
