@@ -30,7 +30,7 @@ second_nav_title: "Career Services"
 	<li>Singapore Media Academy's Making Online Content Programme</li>
 	</ol>
 
-<div style="width:50%;float:left;"><center><a href="/services/career-services/new-media-professional" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Find Out More</a></center></div>
+<center><a href="/services/career-services/new-media-professional" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Find Out More</a></center>
 
 <h4>PCP - Digital Professional (PCP - DP)</h4>
 
@@ -48,7 +48,7 @@ second_nav_title: "Career Services"
 	<li>Content Management</li>
 	</ol>
 
-<div style="width:50%;float:left;"><center><a href="/services/career-services/digital-professional" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Find Out More</a></center></div>
+<center><a href="/services/career-services/digital-professional" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Find Out More</a></center>
 
 <h4>PCP - Retail Professional (PCP - RP)</h4>
 
@@ -66,7 +66,7 @@ second_nav_title: "Career Services"
 	<li>Workplace Communication</li>
 	</ol>
 
-<div style="width:50%;float:left;"><center><a href="/services/career-services/retail-professional" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Find Out More</a></center></div>
+<center><a href="/services/career-services/retail-professional" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Find Out More</a></center>
 
 <h4>What are the benefits to your company?</h4>
 <ol>
