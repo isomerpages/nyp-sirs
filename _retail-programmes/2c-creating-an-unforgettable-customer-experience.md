@@ -11,7 +11,7 @@ second_nav_title: "WSQ Certified Modular Programmes"
 <h4 style="text-align:center;">Next intake:</h4>
 <center><table style="width:80%;">
     <tr style="text-align:center;">
-      <th  colspan="3" scope="colgroup">Face-to-Face</th>
+      <th style="text-align:center;width:50%;" colspan="2" scope="colgroup">Face-to-Face</th>
     </tr>
     <tr style="text-align:center;">
       <td style="text-align:center;width:50%;">English Intake</td>
