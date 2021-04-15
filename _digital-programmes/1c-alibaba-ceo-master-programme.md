@@ -19,7 +19,7 @@ CEO Master Programme<br>
 高级总裁班 — 升级版<br>
 (6天5夜考察之旅 — 杭州)</center>
 
-<h4 style="text-align:center;">Next intake:</h3>
+<h4 style="text-align:center;">Next intake:</h4>
 
 <center><table style="width:80%;">
     <tr style="text-align:center;">
