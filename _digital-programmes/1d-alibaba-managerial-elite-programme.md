@@ -17,7 +17,7 @@ second_nav_title: "Alibaba Business School"
 <center>互联网商业销量破局班 - 管理层提升班<br>
 互联网策略：电商突围战术</center>
 
-<h4 style="text-align:center;">Next intake:</h3>
+<h4 style="text-align:center;">Next intake:</h4>
 
 <center><table style="width:80%;">
     <tr style="text-align:center;">
