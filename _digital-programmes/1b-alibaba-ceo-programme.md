@@ -13,7 +13,7 @@ second_nav_title: "Alibaba Business School"
   
 <center>6-day Immersive Exploration into Alibaba's 'New Retail'<br>
   Alibaba CEO Programme<br>
-  6D5N Study Trip — Hangzhou</center>
+  (6D5N Study Trip — Hangzhou)</center>
   
 <center>沉浸式探索阿里巴巴集团新零售<br>
   定制总裁班<br>
