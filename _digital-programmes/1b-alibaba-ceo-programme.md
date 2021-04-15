@@ -19,7 +19,7 @@ second_nav_title: "Alibaba Business School"
   定制总裁班<br>
   (6天5夜考察之旅 — 杭州)</center>
 
-<h3 style="text-align:center;">Next intake:</h3>
+<h4 style="text-align:center;">Next intake:</h3>
 
 <center><table style="width:80%;">
     <tr style="text-align:center;">
