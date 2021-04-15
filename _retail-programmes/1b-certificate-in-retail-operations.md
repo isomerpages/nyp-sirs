@@ -32,7 +32,8 @@ second_nav_title: "WSQ Full Qualification Programmes"
 <b>Productivity Improvement (15 hours)</b><br>Understand the importance of productivity at workplace and how it can turn the workplace into a more healthy and happy working environment and bring about positive impact to service delivery and customer experience.
 
 <h4>Duration</h4>
-<p>Duration is 2 months for day class (twice a week) or 4 months for night class (twice a week)</p>
+- Day Class: 2 months (twice a week)
+- Night Class: 4 months (twice a week)
 
 <h4>Entry Requirements</h4>
 <ul>
