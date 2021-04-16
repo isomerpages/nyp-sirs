@@ -23,8 +23,6 @@ competitive edge through developing your leadership skills to manage change, eng
 drive growth. Participants will also gain skills and knowledge to manage business operations, heighten customer engagement, drive innovation in achieving desired 
 outcomes for the business.</p>
 
-<p>Suitable for participants with at least 3 years supervisory/managerial experience in retail or Professional/Managerial/Management Executive (PME) position in non-retail sector.</p>
-
 <h4>Outline</h4>
 <ul>
   <li>Adapt to Change (24 hours)</li>
