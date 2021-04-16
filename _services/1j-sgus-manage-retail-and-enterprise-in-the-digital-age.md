@@ -23,8 +23,7 @@ competitive edge through developing your leadership skills to manage change, eng
 drive growth. Participants will also gain skills and knowledge to manage business operations, heighten customer engagement, drive innovation in achieving desired 
 outcomes for the business.</p>
 
-<p>Suitable for participants with at least 3 years senior managerial working experience in retail or Professional, Managers, Executives and Technicians (PMETs) 
-position in non-retail sector.</p>
+<p>Suitable for participants with at least 3 years supervisory/managerial experience in retail or Professional/Managerial/Management Executive (PME) position in non-retail sector.</p>
 
 <h4>Outline</h4>
 <ul>
@@ -47,6 +46,10 @@ position in non-retail sector.</p>
   <li>Delivering the Value Proposition (8 hours)</li>
   <li>Category Management: The Key to Business Growth (16 hours)</li>
   </ul>
+
+<h4>Who Should Attend</h4>
+<p>Suitable for participants with at least 3 years senior managerial working experience in retail or Professional, Managers, Executives and Technicians (PMETs) 
+position in non-retail sector.</p>
 
 <h4>Admission Requirements</h4>
 <p>GCE 'O' level Credit (at least C6) in English and Mathematics or Workplace Literacy and Numeracy (WPLN) score: Level 6 for Reading, Listening and Numeracy.</p>
