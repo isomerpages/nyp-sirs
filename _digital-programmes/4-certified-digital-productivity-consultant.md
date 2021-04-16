@@ -21,7 +21,7 @@ CDPC participants will have to complete the following programmes to receive the 
 <ul>
   <li><a href="/digital-programmes/masterclasses-and-workshops/omni-commerce-retail">SIRS' Omni-Commerce Retail</a></li>
   <li><a href="/digital-programmes/masterclasses-and-workshops/digital-commerce-visual">SIRS'  Digital Commerce Visual</a></li>
-  <li><a href="https://www.sgpc.sg/services/training-certification/cps/rdps/" target="_blank">SGPC's Retail Digital Productivity Specialist Course</a></li>
+  <li><a href="https://www.sgpc.sg/services/training-certification/rdps/" target="_blank">SGPC's Retail Digital Productivity Specialist Course</a></li>
 </ul>
 
 <h4>Outline</h4>

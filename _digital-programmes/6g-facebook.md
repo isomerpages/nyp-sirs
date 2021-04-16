@@ -62,6 +62,6 @@ and protect your account while you socialise!</p>
 
 <p>For more information about funding and support, click <a href="/services/consultancy">here.</a></p>
 
-<div style="width:50%;float:left;"><center><a href="https://form.gov.sg/#!/5e5871e4f64a66001169c693" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Register Now</a></center></div>
+<div style="width:50%;float:left;"><center><a href="https://form.gov.sg/#!/5e5871e4f64a66001169c693" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Register for Interest</a></center></div>
 
 <div style="width:50%;float:left;"><center><a href="https://form.gov.sg/602f3820cdb38800116f8376" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center></div>
