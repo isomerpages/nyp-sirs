@@ -18,8 +18,8 @@ second_nav_title: "WSQ Certified Modular Programmes"
       <td style="text-align:center;width:50%;">Mandarin Intake</td>
     </tr>
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">26 to 27 April 2021</td>
-      <td style="text-align:center;width:50%;">13 to 14 April 2021</td>
+      <td style="text-align:center;width:50%;">20 to 21 May 2021 (Thu - Fri)<br>12 to 13 July 2021 (Mon - Tue)</td>
+      <td style="text-align:center;width:50%;">17 to 18 June 2021 (Thu - Fri)</td>
     </tr>
 </table></center>
 
