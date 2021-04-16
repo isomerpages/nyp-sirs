@@ -9,7 +9,7 @@ second_nav_title: "E-Commerce Programmes"
 
 <img src="images-2021/DigitalProgrammes-E-Commerce-Qoo10-Marketing.png" style="width:100%;">
 
-<h3 style="text-align:center;">Next intake:</h3>
+<h4 style="text-align:center;">Next intake:</h4>
 
 <center><table style="width:80%;">
     <tr style="text-align:center;">
@@ -17,7 +17,7 @@ second_nav_title: "E-Commerce Programmes"
       <th style="text-align:center;width:50%;">Face-to-Face</th>
     </tr>
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">19 Feb 2021 (Fri)<br>18 Mar 2021 (Thu)</td>
+      <td style="text-align:center;width:50%;">To be confirmed</td>
       <td style="text-align:center;width:50%;">To be confirmed</td>
     </tr>
 </table></center>

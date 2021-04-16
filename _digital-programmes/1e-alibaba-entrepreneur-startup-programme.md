@@ -17,7 +17,7 @@ Open Your Horizons. Apply Proven E-Commerce Strategies</center>
 <center>互联网商业创业班 - 电商创业班<br>
 打开脑洞，学习套路应用在任何平台</center>
 
-<h3 style="text-align:center;">Next intake:</h3>
+<h4 style="text-align:center;">Next intake:</h4>
 
 <center><table style="width:80%;">
     <tr style="text-align:center;">

@@ -25,14 +25,15 @@ second_nav_title: "WSQ Full Qualification Programmes"
 
 <b>Service Challenges (15 hours)</b><br>Recognise the challenges brought about by evolving technology and customer behaviour in the service environment. Understand the importance of addressing these service challenges with the aim to deliver great customer experience.
 
-<b>Service Leadership (15 hours)</b><br>Recognise the role that one plays in contributing to the customer interactions and experience with the brand while aligning with the company's service vision, mission, and values. Understand the customer journey and seek opportunity to explore, innovate, nurture, and improve the customer experience.</p>
+<b>Service Leadership (15 hours)</b><br>Recognise the role that one plays in contributing to the customer interactions and experience with the brand while aligning with the company's service vision, mission, and values. Understand the customer journey and seek opportunity to explore, innovate, nurture, and improve the customer experience.
 
 <b>Workplace Communications (15 hours)</b><br>Establish a culture of good communication is essential in the evolving workplace. Understand the process of exchanging information and ideas, both verbal and non-verbal, is critical in enhancing team effectiveness in a diverse workplace.
 
 <b>Productivity Improvement (15 hours)</b><br>Understand the importance of productivity at workplace and how it can turn the workplace into a more healthy and happy working environment and bring about positive impact to service delivery and customer experience.
 
 <h4>Duration</h4>
-<p>Duration is 2 months for day class (twice a week) or 4 months for night class (twice a week)</p>
+- Day Class: 2 months (twice a week)
+- Night Class: 4 months (twice a week)
 
 <h4>Entry Requirements</h4>
 <ul>

@@ -8,6 +8,14 @@ second_nav_title: National Silver Academy
 ---
 <img src="images-2021/DigitalProgrammes-NSA-CarousellTechSavvy.png" style="width:100%;">
 
+<h4 style="text-align:center;">Next intake:</h4>
+
+<center><table style="width:80%;">
+    <tr style="text-align:center;">
+      <td style="text-align:center;width:50%;">To be confirmed</td>
+    </tr> 
+</table></center>
+
 <p>Do you have many unwanted yet usable products at home or handmade products that you want to sell? Be an online seller in just half a day! Learn to use the Carousell app to sell old or new items.</p>
 
 <h4>Outline</h4>

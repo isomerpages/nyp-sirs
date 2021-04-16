@@ -17,6 +17,14 @@ second_nav_title: "Alibaba Business School"
 <center>互联网商业销量破局班 - 管理层提升班<br>
 互联网策略：电商突围战术</center>
 
+<h4 style="text-align:center;">Next intake:</h4>
+
+<center><table style="width:80%;">
+    <tr style="text-align:center;">
+      <td style="text-align:center;width:50%;">To be confirmed</td>
+    </tr> 
+</table></center>
+
 <b>This programme will be conducted in English or Mandarin.</b>
 
 <p>SIRS in partnership with Alibaba Business School, the official training arm of Alibaba Group, offers comprehensive and systematic training programmes to meet a full spectrum of learning needs of government groups, entrepreneurs, SMEs, startups, e-commerce practitioners and students.</p>

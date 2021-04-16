@@ -32,7 +32,8 @@ second_nav_title: "WSQ Full Qualification Programmes"
 <b>Drive Productivity and Innovation (SF-Operations Manager) (24 hours)</b><br>Learn to build an organizational culture for innovation and productivity to have long term business growth and sustainability of any organization. Understand the critical role to champion creativity, ideas-sharing, collaboration, value building and exploring new areas of growth or ways to enhance efficiency.
  
 <h4>Duration</h4>
-<p>Duration is 6 months for day class (once a week) or 6 months for night class (twice a week).</p>
+- Day Class: 6 months (once a week)
+- Night Class: 6 months (twice a week)
 
 <h4>Entry Requirements</h4>
 <ul>

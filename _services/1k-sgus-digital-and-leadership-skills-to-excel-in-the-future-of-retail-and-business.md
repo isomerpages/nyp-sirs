@@ -14,7 +14,7 @@ second_nav_title: "Career Services"
 
 <center><table style="width:80%;">
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">To be confirmed</td>
+      <td style="text-align:center;width:50%;">5 May 2021</td>
     </tr>
 </table></center>
 

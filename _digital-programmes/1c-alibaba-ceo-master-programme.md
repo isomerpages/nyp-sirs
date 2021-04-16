@@ -19,6 +19,14 @@ CEO Master Programme<br>
 高级总裁班 — 升级版<br>
 (6天5夜考察之旅 — 杭州)</center>
 
+<h4 style="text-align:center;">Next intake:</h4>
+
+<center><table style="width:80%;">
+    <tr style="text-align:center;">
+      <td style="text-align:center;width:50%;">To be confirmed</td>
+    </tr> 
+</table></center>
+
 <b>This programme will be conducted in Mandarin.</b>
 
 <p>Presented by Alibaba Business School, SIRS invites you to join us on a journey to the birthplace of 'New Retail', envisioned by Jack Ma, which has remodelled traditional retail into successful businesses such as the renowned Hema Fresh. Experts from Alibaba will walk you through the journey of 'New Retail' from understanding the origin and ecosystem to learning how you too can apply and transform your business.</p>

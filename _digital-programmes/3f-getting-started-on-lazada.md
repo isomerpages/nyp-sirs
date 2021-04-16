@@ -17,8 +17,8 @@ second_nav_title: "E-Commerce Programmes"
       <th style="text-align:center;width:50%;">Face-to-Face</th>
     </tr>
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">8 Mar 2021</td>
-      <td style="text-align:center;width:50%;">8 Apr 2021</td>
+      <td style="text-align:center;width:50%;">8 March 2021</td>
+      <td style="text-align:center;width:50%;">8 April 2021</td>
     </tr>
 </table></center>
 

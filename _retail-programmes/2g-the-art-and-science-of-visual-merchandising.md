@@ -11,7 +11,10 @@ second_nav_title: "WSQ Certified Modular Programmes"
 <h4 style="text-align:center;">Next intake:</h4>
 <center><table style="width:80%;">
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">13 and 15 April 2021</td>
+      <th style="text-align:center;width:50%;">Face-to-Face</th>
+    </tr>
+    <tr style="text-align:center;">
+      <td style="text-align:center;width:50%;">7 and 9 June 2021</td>
     </tr>
 </table></center>
 
@@ -107,6 +110,6 @@ second_nav_title: "WSQ Certified Modular Programmes"
 
 <p>For more information about funding and support, click <a href="/services/consultancy">here.</a></p>
 
-<div style="width:50%;float:left;"><center><a href="https://form.gov.sg/#!/5f4532ff7dab380011d9a4c9" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Register Now</a></center></div>
+<div style="width:50%;float:left;"><center><a href="https://form.gov.sg/#!/5e5dc4cd30d0700011b57622" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Register Now</a></center></div>
 
 <div style="width:50%;float:left;"><center><a href="https://form.gov.sg/602f27830951350012530bee" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center></div>

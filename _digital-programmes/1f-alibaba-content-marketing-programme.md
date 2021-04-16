@@ -21,10 +21,9 @@ Holistic Hands-on Content Marketing Techniques</center>
 
 <center><table style="width:80%;">
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;"> 16 to 17 June 2021<br>23 to 25 June 2021</td>
+      <td style="text-align:center;width:50%;"> 16 to 17, 23 to 25 June 2021 (5 days)</td>
     </tr>
 </table></center>
-
 
 <b>This programme will be conducted in Mandarin.</b>
 

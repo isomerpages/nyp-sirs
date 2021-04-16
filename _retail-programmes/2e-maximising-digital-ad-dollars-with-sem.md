@@ -14,7 +14,7 @@ second_nav_title: "WSQ Certified Modular Programmes"
       <th style="text-align:center;width:50%;">Online Training</th>
     </tr>
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">14 and 15 Apr 2021<br>3 and 5 May 2021</td>
+      <td style="text-align:center;width:50%;">3 and 5 May 2021<br>1 and 2 June 2021</td>
     </tr>
 </table></center>
 

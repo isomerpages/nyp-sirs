@@ -36,7 +36,8 @@ second_nav_title: "WSQ Full Qualification Programmes"
 <b>Financial Analysis (30 hours)</b><br>Evaluate financial ratios, perform cost-benefits analysis and analyse the short and long term financial implications for the business to facilitate decision-making by management including the proper presentation of financial analysis to the management.
  
 <h4>Duration</h4>
-<p>Duration is 5 months for day class (twice a week) or 9 months for night class (twice a week).</p>
+- Day Class: 5 months (twice a week)
+- Night Class: 9 months (twice a week)
 
 <h4>Entry Requirements</h4>
 <ul>

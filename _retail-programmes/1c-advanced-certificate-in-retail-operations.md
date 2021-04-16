@@ -33,7 +33,8 @@ second_nav_title: "WSQ Full Qualification Programmes"
 <b>Workplace Communication (18 hours)</b><br>Develop and apply appropriate communication styles and techniques to build trust within workplace and ultimately elevate customer experience and boost morale, commitment, and efficiency among employees.
  
 <h4>Duration</h4>
-<p>Duration is 6 months for day class (once a week) or 6 months for night class (twice a week).</p>
+- Day Class: 6 months (once a week)
+- Night Class: 6 months (twice a week)
 
 <h4>Entry Requirements</h4>
 <ul>

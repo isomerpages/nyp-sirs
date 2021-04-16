@@ -9,6 +9,14 @@ second_nav_title: National Silver Academy
 
 <img src="images-2021/DigitalProgrammes_NSA_TechSavvy-NavigatingArdSG.png" style="width:100%;">
 
+<h4 style="text-align:center;">Next intake:</h4>
+
+<center><table style="width:80%;">
+    <tr style="text-align:center;">
+      <td style="text-align:center;width:50%;">To be confirmed</td>
+    </tr> 
+</table></center>
+
 <p>Make your commuting journey around Singapore more efficient and less time-consuming by planning your journey ahead of time and get to your
 destination using public transport in the shortest time possible.</p>
 

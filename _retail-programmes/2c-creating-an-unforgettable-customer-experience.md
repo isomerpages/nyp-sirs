@@ -11,12 +11,15 @@ second_nav_title: "WSQ Certified Modular Programmes"
 <h4 style="text-align:center;">Next intake:</h4>
 <center><table style="width:80%;">
     <tr style="text-align:center;">
-      <th style="text-align:center;width:50%;">English Intake</th>
-      <th style="text-align:center;width:50%;">Mandarin Intake</th>
+      <th style="text-align:center;width:50%;" colspan="2" scope="colgroup">Face-to-Face</th>
     </tr>
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">26 to 27 April 2021</td>
-      <td style="text-align:center;width:50%;">13 to 14 April 2021</td>
+      <td style="text-align:center;width:50%;">English Intake</td>
+      <td style="text-align:center;width:50%;">Mandarin Intake</td>
+    </tr>
+    <tr style="text-align:center;">
+      <td style="text-align:center;width:50%;">20 to 21 May 2021 (Thu - Fri)<br>12 to 13 July 2021 (Mon - Tue)</td>
+      <td style="text-align:center;width:50%;">17 to 18 June 2021 (Thu - Fri)</td>
     </tr>
 </table></center>
 

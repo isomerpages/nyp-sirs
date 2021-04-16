@@ -9,6 +9,14 @@ second_nav_title: National Silver Academy
 
 <img src="images-2021/DigitalProgrammes_NSA_TechSavvy-WhatsApp.png" style="width:100%;">
 
+<h4 style="text-align:center;">Next intake:</h4>
+
+<center><table style="width:80%;">
+    <tr style="text-align:center;">
+      <td style="text-align:center;width:50%;">To be confirmed</td>
+    </tr> 
+</table></center>
+
 <p>Stay connected with your family and friends at anytime, anywhere. Learn how to create your account, manage chats, and send messages
 to multiple people at the same time.</p>
 
