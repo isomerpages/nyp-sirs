@@ -8,8 +8,6 @@ second_nav_title: "Career Services"
 ---
 <img src="images-2021/Services_SGUS_Overview.png" style="width:100%;">
 
-<h4>Digital & Leadership Skills to Excel in the Future of Retail & Business</h4>
-
 <h4 style="text-align:center;">Next intake:</h4>
 
 <center><table style="width:80%;">
@@ -50,7 +48,7 @@ responsibilities, to achieve organisational goals.</p>
   </ul>
   
 <h4>Who Should Attend</h4>
-<p>This programme is suitable for participants with at least 3 years senior managerial working experience in retail or Professional, Managers, Executives and Technicians (PMETs) position in non-retail sector.</p>
+<p>Suitable for participants with at least 3 years senior managerial working experience in retail or Professional, Managers, Executives and Technicians (PMETs) position in non-retail sector.</p>
  
 <h4>Admission Requirements</h4>
 <p>GCE 'O' level Credit (at least C6) in English and Mathematics or Workplace Literacy and Numeracy (WPLN) score: Level 7 for Reading, Listening and Numeracy.</p>
