@@ -8,8 +8,6 @@ second_nav_title: "Career Services"
 ---
 <img src="images-2021/Services_SGUS_Overview.png" style="width:100%;">
 
-<h4>SGUS Programme in Digital & Leadership Skills to Excel in the Future of Retail & Business</h4>
-
 <h4 style="text-align:center;">Next intake:</h4>
 
 <center><table style="width:80%;">
