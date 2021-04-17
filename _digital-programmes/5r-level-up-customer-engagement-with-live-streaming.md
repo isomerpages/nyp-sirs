@@ -17,7 +17,7 @@ second_nav_title: "Masterclasses & Workshops"
     </tr>
     <tr style="text-align:center;">
       <td style="text-align:center;width:50%;">To be confirmed</td>
-      <td style="text-align:center;width:50%;">19 to 20 April 2021 (Mon-Tue)<br>24 to 25 May 2021 (Mon-Tue)</td>
+      <td style="text-align:center;width:50%;">19 to 20 April 2021 (Mon-Tue)<br>16-17 Jun 2021(Wed-Thu)</td>
     </tr>
 </table></center>
 
