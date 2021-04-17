@@ -9,6 +9,13 @@ second_nav_title: "WSQ Full Qualification Programmes"
 
 <img src="/images-2021/WSQ_FullQual_DRO.png" style="width:100%;">
 
+<h4 style="text-align:center;">Next intake:</h4>
+<center><table style="width:80%;">
+    <tr style="text-align:center;">
+      <td style="text-align:center;width:50%;">To be confirmed</td>
+    </tr>
+</table></center>
+
 <p>Retail industry has seen significant changes in the past few years with digitalisation taking place in the everyday life of today's connected consumer. While online shopping continues to increase, the demand for the physical store will remain relevant especially for goods that require touch and feel. This derived the concept of ‘New Retail’, the integration of offline and online platforms with the use of data technology to deliver experience-focused service standards to meet the needs of consumers today.  Store Managers are highly valued for their ability to optimise technology advancement to drive day-to-day operations and make data-based decisions.</p> 
 
 <p>Whether you are interested in honing yourself with 21st century leadership skills to lead your staff or upskilling yourself to manage today’s Online Merge Offline world of retailing, the latest WSQ DRO will be the best investment you can offer to yourself.</p>
