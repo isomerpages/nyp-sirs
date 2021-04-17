@@ -9,6 +9,14 @@ second_nav_title: "WSQ Full Qualification Programmes"
 
 <img src="/images-2021/WSQ_FullQual_CRO.png" style="width:100%;">
 
+<h4 style="text-align:center;">Next intake:</h4>
+<center><table style="width:80%;">
+    <tr style="text-align:center;">
+      <td style="text-align:center;width:50%;">To be confirmed</td>
+    </tr>
+</table></center>
+
+
 <p>No doubt disruptive technologies have brought about necessary transformations for businesses to thrive in this digital age, the human element will remain to be an integral part of the retail landscape. This has given rise to 'New Retail' - an integration part of the retail landscape. This has given rise to 'New Retail' - an integration of offline and online platforms by leveraging on data technology to help retailers detect consumer behaviour and preferences to provide a more meaningful customer experience. This means that today's Retail Associates are no longer just a service personnel but one who needs to engage, communicate, connect, and provide solutions to customers. Associates need to be resilient and adaptable to new challenges and expectations in the digital environment while enhancing and delivering exceptional customer experience.</p>
 
 <p>In the new retail era, one requires a fresh mindset and knowledge to cope with new expectations in this evolving retail workplace. Our latest WSQ Certificate in Retail (Operations) (CRO) will help you to acquire these essential skills to becoming more efficient, productive, and ready in today's omni-channel world of retailing.</p>
