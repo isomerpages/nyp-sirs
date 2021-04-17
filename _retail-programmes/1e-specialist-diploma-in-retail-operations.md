@@ -9,6 +9,13 @@ second_nav_title: "WSQ Full Qualification Programmes"
 
 <img src="/images-2021/WSQ_FullQual_SDRO.png" style="width:100%;">
 
+<h4 style="text-align:center;">Next intake:</h4>
+<center><table style="width:80%;">
+    <tr style="text-align:center;">
+      <td style="text-align:center;width:50%;">To be confirmed</td>
+    </tr>
+</table></center>
+
 <p>As technology advances, savvier consumers demand for more curated shopping experiences as they touch on multiple channels during their purchasing journey, triggering a new trend in the retail landscape. Retailers now need to embrace ‘New Retail’ - an integration of offline and online platforms by leveraging data technology to provide a more well-rounded retail experience. With data driving the day-to-day operations and decision-makings, Retail/Operations/Area Managers need to analyse, strategise and execute omni-channel plans to drive sales and performance. Managers must also possess the ability to drive unique customer experience to stand out from the competition for sustainability and profitability.</p>
 
 <p>Develop the skills you need to lead your staff effectively in today’s Online Merge Offline world of retailing with our latest WSQ SDRO. Gain competitive edge and deliver greater experience-focused engagement to your customers to win more businesses.</p>
