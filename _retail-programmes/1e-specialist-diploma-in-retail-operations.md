@@ -12,10 +12,12 @@ second_nav_title: "WSQ Full Qualification Programmes"
 <h4 style="text-align:center;">Next intake:</h4>
 <center><table style="width:80%;">
     <tr style="text-align:center;">
-      <th style="text-align:center;width:50%;">Online Training</th>
+      <th style="text-align:center;width:50%;">Day Training</th>
+      <th style="text-align:center;width:50%;">Night Training</th>
     </tr>
     <tr style="text-align:center;">
       <td style="text-align:center;width:50%;">To be confirmed</td>
+      <td style="text-align:center;width:50%;">20 April 2021 (Every Tue & Thur)</td>
     </tr>
 </table></center>
 
