@@ -8,6 +8,18 @@ second_nav_title: "WSQ Full Qualification Programmes"
 ---
 <img src="/images-2021/WSQ_FullQual_ACRO.png" style="width:100%;">
 
+<h4 style="text-align:center;">Next intake:</h4>
+<center><table style="width:80%;">
+    <tr style="text-align:center;">
+      <th style="text-align:center;width:50%;">Day Training</th>
+      <th style="text-align:center;width:50%;">Night Training</th>
+    </tr>
+    <tr style="text-align:center;">
+      <td style="text-align:center;width:50%;">18 Apr 2021(Every Wed<br>7 July 2021(Every Wed))</td>
+      <td style="text-align:center;width:50%;">20 April 2021 (Every Tue & Thur) <br> 13 July 2021 (Every Tue & Thur) </td>
+    </tr>
+</table></center>
+
 <p>Many people recognised that retailing has digitalised, but how many people realised that physical stores are still relevant for retailers who strive to create a holistic shopping experience? The retail landscape has evolved beyond being just offline or online, but both. ‘New Retail’ is the integration of both offline and online platforms with the use of data technology. While the retail landscape continues to grow, Retail Supervisors need to oversee and drive their team in a highly demanding and fast-paced environment. Supervisors need to be agile and responsive to emerging trends to lead and manage resources effectively.</p>
 
 <p>Sharpen your skills with our latest WSQ ACRO as you walk the new retail journey along with your team as their role model to achieve organisational goals and deliver excellent customer experience.</p>
