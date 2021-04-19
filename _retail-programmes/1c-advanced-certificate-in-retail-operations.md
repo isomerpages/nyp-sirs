@@ -9,6 +9,9 @@ second_nav_title: "WSQ Full Qualification Programmes"
 <img src="/images-2021/WSQ_FullQual_ACRO.png" style="width:100%;">
 
 <h4 style="text-align:center;">Next intake:</h4>
+    <tr style="text-align:center;">
+      <th style="text-align:center;width:50%;">Online Training</th>
+    </tr>
 <center><table style="width:80%;">
     <tr style="text-align:center;">
       <td style="text-align:center;width:50%;">To be confirmed</td>
