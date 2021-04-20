@@ -24,7 +24,7 @@ second_nav_title: "E-Commerce Programmes"
       <li><a href="/digital-programmes/e-commerce-programmes/drive-sales-performance-on-qoo10">Driving Sales Performance on Qoo10 (Marketing)</a></li>
       <li><a href="/digital-programmes/e-commerce-programmes/getting-started-on-shopee">Getting Started on Shopee (Onboarding)</a></li>
       <li><a href="/digital-programmes/e-commerce-programmes/driving-sales-performance-on-shopee">Driving Sales Performance on Shopee (Marketing)</a></li>
-      <li><a href="/digital-programmes/e-commerce-programmes/driving-sales-performance-on-shopee">Set Up an Online Business</a></li>
+      <li><a href="/digital-programmes/e-commerce-programmes/setup-an-online-business">Set Up an Online Business</a></li>
     </ul>
 
 <center><a href="https://form.gov.sg/602f30a8cdb38800116f60a6" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center>
