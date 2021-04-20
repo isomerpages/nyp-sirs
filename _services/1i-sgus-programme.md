@@ -27,6 +27,6 @@ second_nav_title: "Career Services"
   <li><a href="/services/sgus-programme/digital-and-leadership-skills-to-excel-in-the-future-of-retail-and-business">Digital & Leadership Skills to Excel in the Future of Retail & Business</a></li>
   </ul>
 
-<div style="width:50%;float:left;"><center><a href="https://form.gov.sg/#!/5f7c08ce956eff0011c11fcf" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Register for Interest</a></center></div>
+<div style="width:50%;float:left;"><center><a href="https://form.gov.sg/#!/5f7c08ce956eff0011c11fcf" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Register Now</a></center></div>
 
 <div style="width:50%;float:left;"><center><a href="https://form.gov.sg/602f3cfc8593b40011c817d5" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center></div>
