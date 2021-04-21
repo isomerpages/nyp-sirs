@@ -7,7 +7,7 @@ collection_name: digital-programmes
 second_nav_title: "E-Commerce Programmes"
 ---
 
-<img src="/images-2021/E-Commerce-Programmes-MEPP.jpg" style="width:100%;">
+<img src="/images-2021/E-Commerce-Programmes-MEPP.jpg" style="width:80%;">
 
 <h4 style="text-align:center;">Next intake:</h4>
 
