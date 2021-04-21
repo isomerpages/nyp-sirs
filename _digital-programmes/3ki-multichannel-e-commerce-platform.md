@@ -9,19 +9,6 @@ second_nav_title: "E-Commerce Programmes"
 
 <center><img src="/images-2021/E-Commerce-Programmes-MEPP.jpg" style="width:90%;"></center>
 
-<h4 style="text-align:center;">Next intake:</h4>
-
-<center><table style="width:80%;">
-    <tr style="text-align:center;">
-      <th style="text-align:center;width:50%;">Online Training</th>
-      <th style="text-align:center;width:50%;">Face-to-Face</th>
-    </tr>
-    <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">To be confirmed</td>
-      <td style="text-align:center;width:50%;">To be confirmed</td>
-    </tr>
-</table></center>
-
 <p>Singapore companies who are keen to kick-start their cross-border online businesses can tap on the Multichannel E-commerce Platform (MEP) Programme to adopt multichannel 
 cross-border e-commerce solution.</p>
 
@@ -32,7 +19,7 @@ SMEs can expand their digital sales channels and access to new customers.</p>
 Singapore Institute of Retail Studies (SIRS) is the designated training partner to develop the training programme with MEP providers to help SMEs onboard the providers' 
 platforms, gain insights into the e-commerce ecosystem and succeed in their online business.</p>
 
-<p>The MEP Programme comprises three main components:</p>
+<b><p>The MEP Programme comprises three main components:</p></b>
 - End-to-end package by appointed MEP providers to gain rapid entry to new markets via multiple overseas e-marketplaces
 - Digital marketing support to help SMEs increase brand value and drive traffic on e-commerce platforms
 - Relevant training programmes to operate an e-commerce business (working with SIRS as a designated training partner)
