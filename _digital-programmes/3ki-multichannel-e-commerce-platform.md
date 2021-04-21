@@ -7,6 +7,8 @@ collection_name: digital-programmes
 second_nav_title: "E-Commerce Programmes"
 ---
 
+<img src="/images-2021/E-Commerce-Programmes-MEPP.jpg" style="width:100%;">
+
 <h4 style="text-align:center;">Next intake:</h4>
 
 <center><table style="width:80%;">
@@ -35,8 +37,8 @@ platforms, gain insights into the e-commerce ecosystem and succeed in their onli
 
 <ol>
   <li>Appointed MEP Provider's Onboarding Programme (1 Day)</li>
-  <li>SIRS Omni-Commerce Visual (2 Days)</li>
-  <li>SIRS Omni-Commerce Retail (3 Days)</li>
+  <li><a href="/digital-programmes/masterclasses-and-workshops/digital-commerce-visual">SIRS Digital Commerce Visual (2 Days)</a></li>
+  <li><a href="/digital-programmes/masterclasses-and-workshops/omni-commerce-retail">SIRS Omni-Commerce Retail (3 Days)</a></li>
   </ol>
 
 <h4>Highlights</h4>
