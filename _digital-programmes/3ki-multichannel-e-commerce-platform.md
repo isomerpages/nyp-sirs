@@ -19,7 +19,7 @@ SMEs can expand their digital sales channels and access to new customers.</p>
 Singapore Institute of Retail Studies (SIRS) is the designated training partner to develop the training programme with MEP providers to help SMEs onboard the providers' 
 platforms, gain insights into the e-commerce ecosystem and succeed in their online business.</p>
 
-<b><p>The MEP Programme comprises three main components:</p></b>
+<p><b>The MEP Programme comprises three main components:</b></p>
 - End-to-end package by appointed MEP providers to gain rapid entry to new markets via multiple overseas e-marketplaces
 - Digital marketing support to help SMEs increase brand value and drive traffic on e-commerce platforms
 - Relevant training programmes to operate an e-commerce business (working with SIRS as a designated training partner)
