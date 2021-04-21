@@ -23,7 +23,7 @@ second_nav_title: "E-Commerce Programmes"
 <p>Singapore companies who are keen to kick-start their cross-border online businesses can tap on the Multichannel E-commerce Platform (MEP) Programme to adopt multichannel 
 cross-border e-commerce solution.</p>
 
-<p>Through appointed MEP providers, SM Es can manage their cross-border multichannel e-commerce selling with ease. Leveraging on their expertise and strong in-market network, 
+<p>Through appointed MEP providers, SMEs can manage their cross-border multichannel e-commerce selling with ease. Leveraging on their expertise and strong in-market network, 
 SMEs can expand their digital sales channels and access to new customers.</p>
 
 <p>Under this programme, SMEs not only will benefit from tapping on MEP solutions, they will also be equipped with essential skills to operate a successful online business. 
@@ -40,6 +40,7 @@ platforms, gain insights into the e-commerce ecosystem and succeed in their onli
   </ol>
 
 <h4>Highlights</h4>
+
 <ul>
     <li>End-to-end package by appointed MEP providers to gain rapid entry to new markets via multiple overseas e-marketplaces</li>
     <li>Digital marketing support to help SMEs increase brand value and drive traffic on e-commerce platforms</li>
