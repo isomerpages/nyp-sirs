@@ -54,7 +54,7 @@ platforms, gain insights into the e-commerce ecosystem and succeed in their onli
 - Business entity is registered/incorporated in Singapore
 - At least 30% local shareholding
 - Group annual turnover not exceeding S$100 million per annum based on the most recent audited report, or group employment not exceeding 200 employees
-- 
+
 <i>*Eligible SMEs who signed up for the MEP Programme from 1 April 2020 to 30 September 2020 will receive a one-time support at 90% (from 70%) of eligible programme costs 
   for a year.</i>
   
