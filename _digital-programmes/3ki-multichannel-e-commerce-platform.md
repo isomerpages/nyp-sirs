@@ -49,8 +49,6 @@ platforms, gain insights into the e-commerce ecosystem and succeed in their onli
 Companies interested in applying for the MEP Programme should <b>directly email</b> any of the appointed MEP solution providers for more information on their packages.
 Click <a href="http://bit.ly/ESG-SIRS-MEPP">here</a> for contact information of the appointed MEP solution providers.
 
-<p>For more information about funding and support, click <a href="/services/consultancy">here.</a></p>
-
 <center><a href="https://form.gov.sg/602f30a8cdb38800116f60a6" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center>
  
 
