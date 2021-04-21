@@ -24,6 +24,7 @@ second_nav_title: "E-Commerce Programmes"
       <li><a href="/digital-programmes/e-commerce-programmes/drive-sales-performance-on-qoo10">Driving Sales Performance on Qoo10 (Marketing)</a></li>
       <li><a href="/digital-programmes/e-commerce-programmes/getting-started-on-shopee">Getting Started on Shopee (Onboarding)</a></li>
       <li><a href="/digital-programmes/e-commerce-programmes/driving-sales-performance-on-shopee">Driving Sales Performance on Shopee (Marketing)</a></li>
+      <li><a href="/digital-programmes/e-commerce-programmes/mepp">Multichannel E-Commerce Platform (MEP) Programme</a></li>
       <li><a href="/digital-programmes/e-commerce-programmes/setup-an-online-business">Set Up an Online Business</a></li>
     </ul>
 
