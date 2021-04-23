@@ -17,11 +17,11 @@ collection_name: services
   <li>Understanding the required skillsets for businesses to remain competitive</li>
 </ul>
 
-<p>As the anchor provider in the retail industry, SIRS keeps Singapore retailers abreast through various programmes and events. This includes strategic partnerships with top global industry leaders such as <a href="/digital-programmes/alibaba-business-school">Alibaba Business School</a> in the development of high-level programmes. The Alibaba CEO Programme brings business owners and leaders on an immersive trip to Alibaba Business School to experience first-hand what the phenomenon of New Retail looks and feels like, and in the process, develop strategies in the transformation of their own businesses.</p>
+<p>As the anchor provider in the retail industry, SIRS keeps Singapore retailers up-to-date through various programmes and events. This includes strategic partnerships with top global industry leaders such as <a href="/digital-programmes/alibaba-business-school">Alibaba Business School</a> in the development of high-level programmes. The Alibaba CEO Programme brings business owners and leaders on an immersive trip to the Alibaba Business School to experience first-hand what the phenomenon of New Retail looks and feels like, and in the process, develop strategies in the transformation of their own businesses.</p>
 
 <img src="images-2021/Services-EduTrain-Edu2-IPS.jpg" style="width:100%;">
   
-<p>SIRS is also the organiser of the Industry Practitioner Seminar (IPS), its annual flagship event that brings together industry thought leaders and business owners to exchange ideas and network, while being updated of the latest trends in the retail sector. The annual IPS is also an avenue for SIRS to announce new initiatives to spearhead transformation in the retail sector. In 2019, SIRS was proud to announce its partnership with Singapore Media Academy in the launch of the first joint <a href="/digital-programmes/professional-certificate-in-digital-retail-entertainment">Professional Certificate in Digital Retail Entertainment</a>.</p>
+<p>SIRS is also the organiser of the Industry Practitioner Seminar (IPS) – an annual flagship event that brings together industry thought leaders and business owners to exchange ideas, network and get updated on the latest trends in the retail sector. The annual IPS is also an avenue for SIRS to announce new initiatives to spearhead transformation in the retail sector. In 2019, SIRS to announced its partnership with Singapore Media Academy – with the launch of the first joint <a href="/digital-programmes/professional-certificate-in-digital-retail-entertainment">Professional Certificate in Digital Retail Entertainment</a>.</p>
 
 <h4>Training</h4>
 
