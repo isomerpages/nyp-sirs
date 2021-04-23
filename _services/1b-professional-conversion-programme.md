@@ -12,13 +12,13 @@ second_nav_title: "Career Services"
 
 <p>Singapore Institute of Retail Studies (SIRS) is the appointed programme manager for PCP in the retail sector, assisting and supporting employers with manpower challenges in the face of the ever-changing retail landscape. Through structured classroom and on-the-job training (OJT), retailers are better able to align their training according to their specific business needs.</p>
 
-<p>SIRS offers a range of Professional Conversion Programmes (PCPs) for the Retail Professional, Digital Professional and New Media Professional, to equip Professionals, Managers, Executives, and Technicians (PMETs) transiting into these new careers with the right skillsets and support employers to attract talents for enterprise capability building.</p>
+<p>SIRS offers a range of Professional Conversion Programmes (PCPs) for the Retail Professional, Digital Professional and New Media Professional, to equip Professionals, Managers, Executives, and Technicians (PMETs) transiting into these new careers with the right skillsets, and support employers in attracting talents for enterprise capability building.</p>
 
 <h4>PCP - New Media Professional (PCP - NMP)</h4>
 
 <img src="images-2021/Services-CareerServices-PCP-NMP.jpg" style="width:100%:">
 
-<p>Live broadcast is gaining traction as it becomes a popular and effective way to engage customers. To keep abreast of the new trend and support employers to develop their media communication for digital commerce, the new PCP track aims to groom new media enthusiasts into professionals with the relevant skills, such as storytelling and video production, to help employers engage with their fan communities in their marketing and promotional campaigns.</p>
+<p>Live broadcast is gaining traction as it becomes a popular and effective way to engage customers. To support employers in keeping abreast of the new trend, and in developing their media communication for digital commerce, the new PCP track aims to train new media enthusiasts as professionals. With relevant skills, such as storytelling and video production, employers can better engage their fan communities in their marketing and promotional campaigns.</p>
 
 <p>Under the PCP - NMP, participants will have to complete the following programmes:</p>
 
@@ -36,7 +36,7 @@ second_nav_title: "Career Services"
 
 <img src="images-2021/Services-CareerServices-PCP-DP.jpg" style="width:100%:">
 
-<p>PMET mid-career switchers will be reskilled with the necessary competencies to move into new occupations in retail such as Online Business or E-commerce Business Development job roles, to assist retailers to digitalise their business and to provide seamless O2O integration.</p>
+<p>PMET mid-career switchers will be reskilled with the necessary competencies to move into new job roles in retail such as Online Business or E-commerce Business Development. They will assist retailers in digitalising their businesses, and provide seamless O2O integration.</p>
 
 <p>Under the PCP - DP, participants will have to complete the following programmes:</p>
 
@@ -54,7 +54,7 @@ second_nav_title: "Career Services"
 
 <img src="images-2021/Services-CareerServices-PCP-RP.jpg" style="width:100%:">
 
-<p>PMET mid-career switchers will undergo skills conversion to embark on a career in  retail such as Operations, Customer Service or Supply Chain job roles, to assist retailers to meet growing consumers’ expectations and to deliver a memorable customer journey.</p>
+<p>PMET mid-career switchers will undergo skills conversion to embark on retail careers such as Operations, Customer Service or Supply Chain. They will assist retailers in meeting growing consumer expectations and delivering memorable customer journeys.</p>
 
 <p>Under the PCP - RP, participants will complete the following modules from the Workforce Skills Qualification (WSQ) Diploma in Retail (Operations):</p>
 
@@ -68,7 +68,7 @@ second_nav_title: "Career Services"
 
 <center><a href="/services/career-services/retail-professional" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Find Out More</a></center>
 
-<h4>What are the benefits to your company?</h4>
+<h4>Benefits to your company</h4>
 <ol>
 	<li>Facilitate recruitment of career switchers to meet employers' manpower needs</li>
 	<li>Leverage structured industry-recognised training</li>
@@ -81,13 +81,14 @@ second_nav_title: "Career Services"
 
 <h4>Funding and Support</h4>
 
-<p>To encourage employers to take on mid-career switchers without the requisite experience or skills, funding support will be provided during a PCP conversion programme, consists of PCP training duration (classroom training delivered by SIRS, with structured OJT at the hiring company) and an additional period of retention equivalent to the training duration.</p>
+<p>To encourage employers in taking on mid-career switchers without the requisite experience or skills, funding support will be provided during a PCP; comprising PCP training duration (classroom training delivered by SIRS, with structured OJT at the hiring company) and an additional period of retention equivalent to the training duration.</p>
 
-<p>For individuals newly hires on Place-and-Train PCPs for the period between 1 September 2020 to 28 February 2021, the Salary Support funding will now be disbursed to participating employers over a longer period, comprising the PCP training duration and an additional period of retention equivalent to the training duration.</p>
+<p>For individual new hires on Place-and-Train PCPs (from 1 September 2020 to 28 February 2021), the Salary Support funding will now be disbursed to participating employers over a longer period; comprising PCP training duration and an additional period of retention equivalent to the training duration.
+</p>
 
 <b>Salary Support</b>
 <ol>
-	<li>Up to 70% of trainee's monthly basic salary (capped at $4,000 per month) for Singapore Citizens/PRs age of 40</li>
+	<li>Up to 70% of trainee's monthly basic salary (capped at $4,000 per month) for Singapore Citizens/PRs aged 40 and above</li>
 	<li>Up to 90% of monthly salary for PCP training duration (capped at $6,000 per month) for Long-term Unemployed<sup>1</sup> Singapore Citizen (SC) trainees or Mature<sup>2</sup> SC trainees</li>
 	</ol>
 

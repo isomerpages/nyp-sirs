@@ -19,7 +19,7 @@ second_nav_title: "Alibaba Business School"
 
 <img src="images/alibaba-business-school/alibaba-global-course-series.jpg" style="width:100%;">
 
-<p>The third Alibaba Global Course series brings together top Taobao University trainers and practitioners to give insights on the state of cross border e-commerce in Southeast Asia and China, and allows you the opportunity to formulate your business strategy for global success.</p>
+<p>The third Alibaba Global Course series brings together top Taobao University trainers and practitioners to give insights into the state of cross border e-commerce in Southeast Asia and China, and allows you the opportunity to formulate your business strategy for global success.</p>
 
 <center><a href="/digital-programmes/alibaba-business-school/alibaba-global-course-series" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Find Out More</a></center>
 
@@ -51,7 +51,7 @@ second_nav_title: "Alibaba Business School"
 
 <img src="images/alibaba-business-school/alibaba-esp.jpg" style="width:100%;">
 
-<p>Start and grow your online business through e-commerce, and gain deeper insights of China's and Southeast Asia's eCommerce landscape to tighten your digital strategies.</p>
+<p>Start and grow your online business through e-commerce, and gain deeper insights into China and Southeast Asia's eCommerce landscape to enhance your digital strategies.</p>
 
 <center><a href="/digital-programmes/alibaba-business-school/alibaba-entrepreneur-startup-programme" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Find Out More</a></center>
 
@@ -59,7 +59,7 @@ second_nav_title: "Alibaba Business School"
 
 <img src="images/alibaba-business-school/aliaba-content-marketing-programme.jpg" style="width:100%;">
 
-<p>Learn strategies and techniques on how you can strengthen your marketing game with content marketing strategies such as short videos and livestreaming.</p>
+<p>Learn strategies and techniques, such as short videos and livestreaming, to strengthen your marketing content.</p>
 
 <center><a href="/digital-programmes/alibaba-business-school/alibaba-content-marketing-programme" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Find Out More</a></center>
 

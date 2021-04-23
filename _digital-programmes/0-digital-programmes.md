@@ -15,7 +15,7 @@ collection_name: digital-programmes
 <p>SIRS offers the following groups of digital programmes:</p>
  
  <h4>Alibaba Business School</h4>
-<p> Be inspired and learn from Alibaba, one of the world’s largest retail and e-commerce companies, on business digitalisation and build a stronger foothold in the digital retail landscape. </p>
+<p>Be inspired by, and learn from Alibaba, one of the world’s largest retail and e-commerce companies, how business digitalisation can let you build a stronger foothold in the digital retail landscape.</p>
 <a href="/digital-programmes/alibaba-business-school" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;" target="_blank">Find Out More</a>
 
 <h4>Digital Mentorship Programme (DMP)</h4>
@@ -23,13 +23,13 @@ collection_name: digital-programmes
 <a href="/digital-programmes/digital-mentorship-programme" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;" target="_blank">Find Out More</a>
 
 <h4>E-Commerce Programmes</h4>
-<p>Kickstart your online business and increase revenue with our onboarding and marketing programmes with top e-commerce and e-marketplace platforms.</p>
+<p>Kickstart your online business with our onboarding and marketing programmes. Learn how you can increase revenue on top e-commerce and e-marketplace platforms.</p>
 <a href="/digital-programmes/e-commerce-programmes" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;" target="_blank">Find Out More</a>
 
 <h4>Joint Certification Programmes</h4>
 
 <b>Certified Digital & Professional Consultant (CDPC) Programme</b>
-<p>SIRS with Singapore Productivity Centre (SGPC) and Heartland Enterprise Centre Singapore (HECS) launched this programme to train and upskill digital and productivity consultants in digital commerce, to support and accelerate the digitalisation journey of heartland enterprises.</p>
+<p>SIRS, together with Singapore Productivity Centre (SGPC) and Heartland Enterprise Centre Singapore (HECS), launched this programme to train and upskill digital and productivity consultants in digital commerce – with the aim to support and accelerate the digitalisation journey of heartland enterprises.</p>
 <a href="/digital-programmes/certified-digital-productivity-consultant" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;" target="_blank">Find Out More</a>
 
 <b>Professional Certificate in Digital Retail Entertainment</b>
@@ -43,10 +43,6 @@ collection_name: digital-programmes
 <h4>National Silver Academy</h4>
 <p>When the ever-evolving technology meets Singapore’s aging population, it is especially important for our silver generation to pick up basic digital literacy skills to be a tech-savvy senior. </p>
 <a href="/digital-programmes/national-silver-academy" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;" target="_blank">Find Out More</a>
-
-<h4>SkillsFuture for Digital Workplace (SFDW)</h4>
-<p>A foundational course to equip you with digital literacy skills and to adopt a proactive and adaptive mindset for emerging technologies in the workplace. </p>
-<a href="/digital-programmes/skillsfuture-for-digital-workplace" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;" target="_blank">Find Out More</a>
 
 <h4>SkillsFuture Series</h4>
 <p>Bite-sized and quality industry-focused training programmes on emerging and critical skills areas. Catered to Singaporeans at all stages of learning – from beginner to intermediate to advance levels. </p>

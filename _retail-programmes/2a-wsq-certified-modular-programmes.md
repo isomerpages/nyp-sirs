@@ -8,7 +8,7 @@ second_nav_title: "WSQ Certified Modular Programmes"
 ---
 <img src="images-2021/WSQ_Modular_Overview.jpg" style="width:100%;">
 
-<p>SIRS provides a range of WSQ certified modular programmes that are geared towards the updating of mindsets of retail professionals, and equipping them with the latest skills and know-hows to succeed in their retail career.</p>
+<p>SIRS provides a range of WSQ certified modular programmes that are geared towards shifting the mindsets of retail professionals, and equipping them with the latest skills and know-hows to succeed in their retail career.</p>
 
 <h4>WSQ Certified Modular Programmes</h4>
 

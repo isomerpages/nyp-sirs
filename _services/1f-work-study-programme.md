@@ -1,15 +1,15 @@
 ---
 layout: leftnav-page-content
-title: SkillsFuture Work-Study Programmes
+title: SkillsFuture Work-Study Programme
 permalink: /services/career-services/skillsfuture-work-study-programmes
-breadcrumb: SkillsFuture Work-Study Programmes
+breadcrumb: SkillsFuture Work-Study Programme
 collection_name: services
 second_nav_title: "Career Services"
 ---
 
 <img src="/images-2021/Services_CareerServices_SkillsFuture Work-Study Programme.png" style="width:100%;">
 
-<p>The SkillsFuture Work-Study Programmes give fresh graduates from polytechnics and the Institute of Technical Education (ITE) a head-start in careers related to their discipline of study. It provides them with more opportunities, after graduation, to build on the skills and knowledge they acquired in school, and better supports their transition into the workforce.</p>
+<p>The SkillsFuture Work-Study Programme gives fresh graduates from polytechnics and the Institute of Technical Education (ITE) a head-start in careers related to their discipline of study. It provides them with more opportunities, after graduation, to build on the skills and knowledge they acquired in school, and better supports their transition into the workforce.</p>
 
 <h4>For Poly Graduates</h4>
 <b>Work-Study Post-Diploma – WSQ Specialist Diploma in Retail (Operations)</b>
