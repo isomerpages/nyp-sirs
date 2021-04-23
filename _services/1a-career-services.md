@@ -10,7 +10,7 @@ second_nav_title: "Career Services"
 
 <p>SIRS provides career guidance for individuals seeking a career in retail and those considering a career move from another industry or within the retail industry. This includes facilitating placements for individuals trained by SIRS, so that they can gain employment in the retail industry after training.</p>
 
-<p>Individuals can obtain information and advice on issues like the current retail employment situation, job opportunities within specific professional specialisations and alternative job opportunities. We have a team of professional career consultants who will advise and guide potential jobseekers, even plan a training programme and work together to bring these trained jobseekers and potential employers together. SIRS' career guidance is a free service.</p>
+<p>Individuals can obtain information and advice on matters like the current retail employment situation, job opportunities within specific professional specialisations and alternative job opportunities. We have a team of professional career consultants who will advise and guide potential jobseekers, even plan a training programme and work together to bring these trained jobseekers and potential employers together. SIRS' career guidance is a free service.</p>
 
 <p>SIRS is the appointed programme manager for the following Place-and-Train and Train-and-Place Programmes for the retail industry:</p>
 
@@ -27,8 +27,8 @@ second_nav_title: "Career Services"
 
 <a href="/services/career-services/professional-conversion-programme" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;" target="_blank">Find Out More</a>
 
-<b>SkillsFuture Work-Study Programmes</b>
-<p>SkillsFuture Work-Study Programme gives fresh graduates from polytechnics and the Institute of Technical Education (ITE) a head-start in careers related to their discipline of study. It provides them with more opportunities after graduation, to build on the skills and knowledge they acquired in school, and better supports their transition into the workforce.</p>
+<b>SkillsFuture Work-Study Programme</b>
+<p>The SkillsFuture Work-Study Programme gives fresh graduates from polytechnics and the Institute of Technical Education (ITE) a head-start in careers related to their discipline of study. It provides them with more opportunities, after graduation, to build on the skills and knowledge they have acquired in school, and better supports their transition into the workforce.</p>
 
 <a href="/services/career-services/skillsfuture-work-study-programmes" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;" target="_blank">Find Out More</a>
  
