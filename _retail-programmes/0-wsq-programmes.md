@@ -8,7 +8,7 @@ collection_name: retail-programmes
 
 <img src="images/wsq/wsq-introduction-page.jpg" style="width:100%;">
 
-<p>The rapid introduction of new technologies has resulted in a shift of consumers' shopping behaviour. This has, in turn, resulted in a shift of the role of the traditional, brick-and-mortar store, transforming it from just a sales channel into one that makes up part of the customer experience. This also means that the role of retail professionals has also changed: from one that is focused on sales, to one that is focused on experiential marketing and customer satisfaction, to ensure customer loyalty.</p>
+<p>The rapid introduction of new technologies has resulted in a shift of consumers' shopping behaviour. This has, in turn, resulted in a shift of the role of the traditional brick-and-mortar store, transforming it from just a sales channel into one that makes up part of the customer experience. This also means that the role of retail professionals has also changed: from one that is focused on sales, to one that is focused on experiential marketing and customer satisfaction, to ensure customer loyalty.</p>
 
 <p>As the anchor provider for the retail sector, SIRS provides a full suite of programmes including <a href="/wsq-programmes/wsq-full-qualification-programmes">WSQ Full Qualification Programmes</a> and <a href="wsq-programmes/wsq-modular-programmes">WSQ Certified Modular Programmes</a>, catered to equip retail professionals at different stages of their careers – from the retail associate to the retail manager – with the latest skillsets required to continually delight today’s customers.</p>
 
