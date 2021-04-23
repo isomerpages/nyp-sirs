@@ -13,9 +13,7 @@ collection_name: about-us
 
 <img src="/images-2021/AboutUs_SIRS_StrategicPartners.png" style="width:100%;">
 
-<p>
-SIRS works with market leaders to develop cutting edge solutions and training programmes to help you reinvent your business to compete in new markets, gain new channels and develop skilled human capital. 
-</p>
+<p>SIRS works with market leaders to develop cutting edge solutions and training programmes to help you reinvent your business and compete in new markets, gain new channels and develop skilled human capital.</p>
 
 <b>99%SME</b>
 <ul>
