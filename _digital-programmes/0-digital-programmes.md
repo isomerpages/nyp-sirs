@@ -15,7 +15,7 @@ collection_name: digital-programmes
 <p>SIRS offers the following groups of digital programmes:</p>
  
  <h4>Alibaba Business School</h4>
-<p> Be inspired and learn from Alibaba, one of the world’s largest retail and e-commerce companies, on business digitalisation and build a stronger foothold in the digital retail landscape. </p>
+<p>Be inspired by, and learn from Alibaba, one of the world’s largest retail and e-commerce companies, how business digitalisation can let you build a stronger foothold in the digital retail landscape.</p>
 <a href="/digital-programmes/alibaba-business-school" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;" target="_blank">Find Out More</a>
 
 <h4>Digital Mentorship Programme (DMP)</h4>
