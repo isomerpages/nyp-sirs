@@ -59,7 +59,7 @@ second_nav_title: "Alibaba Business School"
 
 <img src="images/alibaba-business-school/aliaba-content-marketing-programme.jpg" style="width:100%;">
 
-<p>Learn strategies and techniques on how you can strengthen your marketing game with content marketing strategies such as short videos and livestreaming.</p>
+<p>Learn strategies and techniques, such as short videos and livestreaming, to strengthen your marketing content.</p>
 
 <center><a href="/digital-programmes/alibaba-business-school/alibaba-content-marketing-programme" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Find Out More</a></center>
 
