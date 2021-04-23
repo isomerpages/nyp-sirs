@@ -27,4 +27,6 @@ collection_name: services
 
 <img src="images-2021/Services_Training2.jpg" style="width:100%;">
 
-<p>Aside from education, SIRS also provides a whole suite of training programmes to equip retailers in the latest skillsets both in offline and online retail. This includes the inculcation of service leadership through our <a href="/wsq-programmes">WSQ programmes</a>, and digital marketing and commerce skills to enable businesses to grow their online revenue through our <a href="/digital-programmes">digital programmes</a>. For maximum effectiveness, SIRS programmes offer a combination of classroom lessons and hands-on sessions, allowing learners to put their learnings into practice.</p> <b>All our training programmes are SkillsFuture Credit eligible!</b>
+<p>Aside from education, SIRS also provides a whole suite of training programmes to equip retailers with the latest skillsets in both offline and online retail. This includes inculcating service leadership through our <a href="/wsq-programmes">WSQ programmes</a>, and providing digital marketing and commerce skills to grow their online revenue through our <a href="/digital-programmes">digital programmes</a>. For maximum effectiveness, SIRS programmes offer a combination of classroom lessons and hands-on sessions, allowing learners to put their training into practice.</p>
+
+<b>All our training programmes are SkillsFuture Credit eligible!</b>
