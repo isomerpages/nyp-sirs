@@ -45,7 +45,7 @@ collection_name: digital-programmes
 <a href="/digital-programmes/national-silver-academy" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;" target="_blank">Find Out More</a>
 
 <h4>SkillsFuture for Digital Workplace (SFDW)</h4>
-<p>A foundational course to equip you with digital literacy skills and to adopt a proactive and adaptive mindset for emerging technologies in the workplace. </p>
+<p>A foundational course that equips you with digital literacy skills, and lets you adopt a proactive and adaptive mindset for emerging technologies in the workplace.</p>
 <a href="/digital-programmes/skillsfuture-for-digital-workplace" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;" target="_blank">Find Out More</a>
 
 <h4>SkillsFuture Series</h4>
