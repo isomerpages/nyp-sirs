@@ -8,15 +8,13 @@ second_nav_title: "Career Services"
 ---
 <img src="images-2021/Services_CareerServices.jpg" style="width:100%;">
 
-<small>## Job test
-
 <details><summary>read more</summary>
 <p>
 
 Job description
 
 </p>
-</details></small>
+</details>
 
 <p>SIRS provides career guidance for individuals seeking a career in retail and those considering a career move from another industry or within the retail industry. This includes facilitating placements for individuals trained by SIRS, so that they can gain employment in the retail industry after training.</p>
 
