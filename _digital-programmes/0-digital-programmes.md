@@ -23,13 +23,13 @@ collection_name: digital-programmes
 <a href="/digital-programmes/digital-mentorship-programme" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;" target="_blank">Find Out More</a>
 
 <h4>E-Commerce Programmes</h4>
-<p>Kickstart your online business and increase revenue with our onboarding and marketing programmes with top e-commerce and e-marketplace platforms.</p>
+<p>Kickstart your online business with our onboarding and marketing programmes. Learn how you can increase revenue on top e-commerce and e-marketplace platforms.</p>
 <a href="/digital-programmes/e-commerce-programmes" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;" target="_blank">Find Out More</a>
 
 <h4>Joint Certification Programmes</h4>
 
 <b>Certified Digital & Professional Consultant (CDPC) Programme</b>
-<p>SIRS with Singapore Productivity Centre (SGPC) and Heartland Enterprise Centre Singapore (HECS) launched this programme to train and upskill digital and productivity consultants in digital commerce, to support and accelerate the digitalisation journey of heartland enterprises.</p>
+<p>SIRS, together with Singapore Productivity Centre (SGPC) and Heartland Enterprise Centre Singapore (HECS), launched this programme to train and upskill digital and productivity consultants in digital commerce – with the aim to support and accelerate the digitalisation journey of heartland enterprises.</p>
 <a href="/digital-programmes/certified-digital-productivity-consultant" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;" target="_blank">Find Out More</a>
 
 <b>Professional Certificate in Digital Retail Entertainment</b>
