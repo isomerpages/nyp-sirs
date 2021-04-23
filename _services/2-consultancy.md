@@ -8,9 +8,9 @@ second_nav_title: "Consultancy"
 ---
 
 <p><img src="images-2021/Services_Consultancy.png" style="width:100%;"></p>
-<p>SIRS has enabled many retailers to successfully implement training & capability development initiatives through our highly-tailored and enterprise-centric solutions. Our team of consultants work closely with retailers to diagnose and develop speed-to-market business solutions, collaborations, and recommendations to help them in their business transformation. Besides helping companies become more successful in people development and business excellence, we also work with individuals who are interested in upskilling themselves for a career in retail.</p>
+<p>SIRS has enabled many retailers to successfully implement training & capability development initiatives through our well-tailored and enterprise-centric solutions. Our team of consultants work closely with retailers to diagnose and develop speed-to-market business solutions, collaborations, and recommendations to help them in their business transformation. Besides helping companies become more successful in people development and business excellence, we also work with individuals who are interested in upskilling themselves for a career in retail.</p>
 
-<p>We provide advice on the vast arrays of government assistance such as:</p>
+<p>We provide advice on the vast array of government assistance such as:</p>
 
 <h4>For Companies</h4>
 <ul>
