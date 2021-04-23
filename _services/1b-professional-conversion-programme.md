@@ -81,13 +81,14 @@ second_nav_title: "Career Services"
 
 <h4>Funding and Support</h4>
 
-<p>To encourage employers to take on mid-career switchers without the requisite experience or skills, funding support will be provided during a PCP conversion programme, consists of PCP training duration (classroom training delivered by SIRS, with structured OJT at the hiring company) and an additional period of retention equivalent to the training duration.</p>
+<p>To encourage employers in taking on mid-career switchers without the requisite experience or skills, funding support will be provided during a PCP; comprising PCP training duration (classroom training delivered by SIRS, with structured OJT at the hiring company) and an additional period of retention equivalent to the training duration.</p>
 
-<p>For individuals newly hires on Place-and-Train PCPs for the period between 1 September 2020 to 28 February 2021, the Salary Support funding will now be disbursed to participating employers over a longer period, comprising the PCP training duration and an additional period of retention equivalent to the training duration.</p>
+<p>For individual new hires on Place-and-Train PCPs (from 1 September 2020 to 28 February 2021), the Salary Support funding will now be disbursed to participating employers over a longer period; comprising PCP training duration and an additional period of retention equivalent to the training duration.
+</p>
 
 <b>Salary Support</b>
 <ol>
-	<li>Up to 70% of trainee's monthly basic salary (capped at $4,000 per month) for Singapore Citizens/PRs age of 40</li>
+	<li>Up to 70% of trainee's monthly basic salary (capped at $4,000 per month) for Singapore Citizens/PRs aged 40 and above</li>
 	<li>Up to 90% of monthly salary for PCP training duration (capped at $6,000 per month) for Long-term Unemployed<sup>1</sup> Singapore Citizen (SC) trainees or Mature<sup>2</sup> SC trainees</li>
 	</ol>
 
