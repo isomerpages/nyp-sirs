@@ -9,7 +9,7 @@ second_nav_title: Success Stories
 <img src="/images-2021/SuccessStories-Overview.jpg" style="width:100%;">
 
 <h4>Let Our Clients Speak for Us</h4>
-<p>Read how our clients, after attending our programmes, transform their business successfully to digital platforms, increase sales and achieve greater branding awareness.</p>
+<p>Read how our clients – after attending our programmes – transform their business successfully via digital platforms to increase sales and achieve greater branding awareness.</p>
 
 <li>Activhealth attained clarity in crafting digital strategy. Read the full story <a href="/success-and-blog/success-stories/activhealth">here</a>.</li>
 
