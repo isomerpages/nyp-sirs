@@ -10,7 +10,7 @@ second_nav_title: "Career Services"
 
 
 <h4>Example Job Title</h4>
-<p>Basic job description</h4>
+<p>Basic job description</p>
 
 <details><summary>Read more</summary>
 <p>
