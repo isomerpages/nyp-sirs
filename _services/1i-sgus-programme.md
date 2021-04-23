@@ -9,17 +9,17 @@ second_nav_title: "Career Services"
 
 <img src="images-2021/Services-CareerServices-SGUS-Overview.png" style="width:100%;">
 
-<p>The SGUS Programme administered by the Singapore Institute of Retail Studies (SIRS) is a 6 months full-time training programme designed to help Singapore Citizens and Singapore Permanent Residents (PRs) to upskill and reskill themselves with industry-relevant skills and knowledge, to boost their employability to take on new or enhanced job opportunities in the retail and new sectors as the economy recovers. The programme operates on a Train-and-Place model, where trainees receive career advisory, guidance and employment placement assistance from SIRS at no cost.</p>
+<p>The SGUS Programme, administered by the Singapore Institute of Retail Studies (SIRS), is a six-month full-time training programme designed to help Singapore Citizens and Singapore Permanent Residents (PRs) upskill and reskill with industry-relevant skills and knowledge. The programme aims to boost their employability, and help them take on new or enhanced job roles in retail and new sectors as the economy recovers. The programme operates on a Train-and-Place model, where trainees receive career advisory, guidance and employment placement assistance from SIRS at no cost.</p>
 
-<p>Besides strengthening skills portfolio for enhanced competitiveness and employability, trainees can also establish a strong support network among peers and industry professionals.</p>
+<p>Besides strengthening their skills portfolio for enhanced competitiveness and employability, trainees can also establish a strong support network among peers and industry professionals.</p>
 
 <h4>How Can Trainees Benefit?</h4>
 
 <b>Close to 100% Subsidised Course Fee</b>
-<p>Course fees are extremely affordable with close to 100% subsidised fee at only $500 nett for a 6-month programme. Trainees can use their SkillsFuture Credit, including the top-ups announced in 2020 Unity Budget, to offset the nett course fee.</p>
+<p>Course fees are extremely affordable with close to 100% subsidised fee at only $500 nett for a six-month programme. Trainees can use their SkillsFuture Credit, including the top-ups announced in 2020 Unity Budget, to offset the nett course fee.</p>
 
 <b>Up to $7,200 of Training Allowance</b>
-<p>Trainees can receive a training allowance of $1,200 per month throughout the 6 months programme, for up to $7,200 for the full duration. This is subject to minimum attendance requirement and successful completion.</p>
+<p>Trainees can receive a training allowance of $1,200 per month throughout the six-month programme, capped at $7,200 for the full duration. This is subject to minimum attendance requirement and successful completion.</p>
 
 <h4>SGUnited Skills (SGUS) Programmes:</h4>
 <ul>
