@@ -21,7 +21,7 @@ collection_name: services
 
 <img src="images-2021/Services-EduTrain-Edu2-IPS.jpg" style="width:100%;">
   
-<p>SIRS is also the organiser of the Industry Practitioner Seminar (IPS) – an annual flagship event that brings together industry thought leaders and business owners to exchange ideas, network and get updated on the latest trends in the retail sector. The annual IPS is also an avenue for SIRS to announce new initiatives to spearhead transformation in the retail sector. In 2019, SIRS to announced its partnership with Singapore Media Academy – with the launch of the first joint <a href="/digital-programmes/professional-certificate-in-digital-retail-entertainment">Professional Certificate in Digital Retail Entertainment</a>.</p>
+<p>SIRS is also the organiser of the Industry Practitioner Seminar (IPS) – an annual flagship event that brings together industry thought leaders and business owners to exchange ideas, network, and get updated on the latest trends in the retail sector. The annual IPS is also an avenue for SIRS to announce new initiatives to spearhead transformation in the retail sector. In 2019, SIRS to announced its partnership with Singapore Media Academy – with the launch of the first joint <a href="/digital-programmes/professional-certificate-in-digital-retail-entertainment">Professional Certificate in Digital Retail Entertainment</a>.</p>
 
 <h4>Training</h4>
 
