@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Our Facilities
-permalink: /facilities
+permalink: /our-facilities
 breadcrumb: Our Facilities
 collection_name: our-facilities
 ---
