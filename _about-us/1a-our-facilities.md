@@ -3,7 +3,7 @@ layout: leftnav-page-content
 title: Our Facilities
 permalink: /our-facilities
 breadcrumb: Our Facilities
-collection_name: our-facilities
+collection_name: about-us
 ---
 
 <img src="/images-2021/About-Facilities-Main.png" style="width:100%;">
