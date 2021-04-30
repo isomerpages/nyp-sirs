@@ -31,7 +31,9 @@ practical technologies. Through our training, we educate retailers and assist th
 business performance and enhance capability building.</p>
 
 <img src="/images-2021/About-Facilities-RICE1.png" style="width:70%;">
+
 <img src="/images-2021/About-Facilities-RICE2.png" style="width:70%;">
+
 <img src="/images-2021/About-Facilities-RICE3.png" style="width:70%;">
 
 <h4>Creative Studio</h4>
@@ -40,7 +42,9 @@ business performance and enhance capability building.</p>
 production technologies to conduct professional live streaming for effective customer engagement on digital platforms.</p>
 
 <img src="/images-2021/About-Facilities-CreativeStudio1.png" style="width:70%;">
+
 <img src="/images-2021/About-Facilities-CreativeStudio2.png" style="width:70%;">
+
 <img src="/images-2021/About-Facilities-CreativeStudio3.png" style="width:70%;">
 
 <h4>Simulated Training Rooms</h4>
@@ -49,7 +53,9 @@ production technologies to conduct professional live streaming for effective cus
 environment to facilitate effective training and skills application.</p>
 
 <img src="/images-2021/About-Facilities-STR1.png" style="width:70%;">
+
 <img src="/images-2021/About-Facilities-STR2.png" style="width:70%;">
+
 <img src="/images-2021/About-Facilities-STR3.png" style="width:70%;">
 
 <h4>Digital Lab</h4>
@@ -59,5 +65,7 @@ participants in electronic and hybrid modes of learning. These laptops come with
 providing learners with an immersive classroom learning experience.</p>
 
 <img src="/images-2021/About-Facilities-DigitalLab1.png" style="width:70%;">
+
 <img src="/images-2021/About-Facilities-DigitalLab2.png" style="width:70%;">
+
 <img src="/images-2021/About-Facilities-DigitalLab3.png" style="width:70%;">
