@@ -6,7 +6,7 @@ breadcrumb: Our Facilities
 collection_name: our-facilities
 ---
 
-<img src="/images-2021/About-Facilities-Main.png" style="width:80%;">
+<img src="/images-2021/About-Facilities-Main.png" style="width:100%;">
 
 <p>Located conveniently at the Lifelong Learning Institute next to Paya Lebar MRT, our campus is equipped with training labs, 
 simulated rooms, and well-furnished classrooms to provide you with practical training in a conducive learning environment. 
@@ -19,7 +19,9 @@ simulated retail formats. It provides a realistic and dynamic retail store envir
 explores VM solutions, and experiment with integrated technologies.</p>
 
 <img src="/images-2021/About-Facilities-VM1.png" style="width:70%;">
+
 <img src="/images-2021/About-Facilities-VM2.png" style="width:70%;">
+
 <img src="/images-2021/About-Facilities-VM3.png" style="width:70%;">
 
 <h4>Retail Innovation Centre for Enterprises (RICE)</h4>
