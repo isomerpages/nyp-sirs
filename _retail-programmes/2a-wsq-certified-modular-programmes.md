@@ -18,7 +18,7 @@ second_nav_title: "WSQ Certified Modular Programmes"
     <li><a href="/wsq-programmes/wsq-modular-programmes/maximising-digital-ad-dollars-with-sem">Maximise Digital Advertising Dollars with Search Engine Marketing (SEM)</a></li>
     <li><a href="/wsq-programmes/wsq-modular-programmes/seo-game-plan/">Search Engine Optimisation (SEO) Game Plan</a></li>
     <li><a href="/wsq-programmes/wsq-modular-programmes/the-art-and-science-of-visual-merchandising">The Art and Science of Visual Merchandising</a></li>
-    <li><a href="/wsq-programmes/wsq-modular-programmes/unleash-the-power-of-social-media-marketing">Unleash the Power of Social Media Merchandising</a></li>
+    <li><a href="/wsq-programmes/wsq-modular-programmes/unleash-the-power-of-social-media-marketing">Unleash the Power of Social Media Marketing</a></li>
      </ul>
 
 <center><a href="https://form.gov.sg/602f27830951350012530bee" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center>
