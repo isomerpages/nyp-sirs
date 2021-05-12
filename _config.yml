@@ -43,3 +43,6 @@ collections:
     output: true
   success-and-blog:
     output: true
+    
+  #  Facebook Pixel
+  facebook-pixel: <777239046035563>
