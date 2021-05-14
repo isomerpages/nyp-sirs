@@ -32,7 +32,7 @@ business. This two-day masterclass will take you from the fundamentals of Facebo
 to the entire Facebook Marketing process to help you grow your customer base and boost your brand to
 the next level.</p>
 
-<small>Sources:
+<small>Sources:<br>
 	<sup>1</sup>https://www.statista.com/statistics/264810/number-of-monthly-active-facebook-users-worldwide/<br>
 	<sup>2</sup>https://www.statista.com/statistics/490492/number-of-singapore-facebook-users/</small>
 
