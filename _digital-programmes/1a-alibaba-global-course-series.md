@@ -14,7 +14,7 @@ second_nav_title: "Alibaba Business School"
 
 <p>Through the AGCs, participants stand to gain firsthand knowledge from current practitioners of the Alibaba ecosystem and platforms, as well as top trainers from the esteemed Taobao University.</p>
 
-<h4>Highlights</h4>
+<h4>Past Highlights</h4>
 
 <b>Alibaba Global Course series - Expand Your Global Footprint with Cross-Border E-Commerce</b><br>
 <em>19 September 2019</em>

@@ -25,6 +25,8 @@ second_nav_title: "Masterclasses & Workshops"
   <li><a href="/digital-programmes/masterclasses-and-workshops/google-shopping-with-adwords-professional-certification">Google Shopping with AdWords Certified Professional Course</a></li>
   <li><a href="/digital-programmes/masterclasses-and-workshops/growing-your-brand-presence-with-wechat-marketing">Grow Your Brand Presence with WeChat Marketing</a></li>
   <li><a href="/digital-programmes/masterclasses-and-workshops/increase-business-revenue-through-seo">Increase Business Revenue through Search Engine Optimisation (SEO)</a></li>
+  <li><a href="/digital-programmes/masterclasses-and-workshops/master-facebook-marketing-for-business">Master Facebook Marketing for Business</a></li>
+  <li><a href="/digital-programmes/masterclasses-and-workshops/master-linkedin-for-sales-and-marketing">Master LinkedIn for Sales & Marketing</a></li>
   <li><a href="/digital-programmes/masterclasses-and-workshops/omni-commerce-retail">Omni-Commerce Retail</a></li>
   <li><a href="/digital-programmes/masterclasses-and-workshops/understanding-your-future-customers">Understanding Your Future Customers</a></li>
   </ul>
