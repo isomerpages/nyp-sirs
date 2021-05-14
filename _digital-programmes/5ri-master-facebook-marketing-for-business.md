@@ -26,8 +26,9 @@ second_nav_title: "Masterclasses & Workshops"
 platforms and has evolved from being just a social network to a marketplace for businesses to sell directly
 to customers. In Singapore, there are over 4.8 million<sup>2</sup> Facebook users, which accounts for 73% of our
 entire population. With its extensive network locally & globally, ability to target new customers, and access
-to audience & page insights, Facebook has become an essential marketing platform for all businesses.
-Acquire practical Facebook marketing and advertising strategies that you can apply to your work or
+to audience & page insights, Facebook has become an essential marketing platform for all businesses.</p>
+
+<p>Acquire practical Facebook marketing and advertising strategies that you can apply to your work or
 business. This two-day masterclass will take you from the fundamentals of Facebook page management
 to the entire Facebook Marketing process to help you grow your customer base and boost your brand to
 the next level.</p>
