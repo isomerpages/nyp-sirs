@@ -31,7 +31,7 @@ in Singapore through this masterclass. From learning LinkedIn basics to using or
 accelerate your results, you will discover why LinkedIn is by far the best platform for building your brand,
 attracting quality leads, and driving B2B sales.</p>
 
-<small>Sources:
+<small>Sources:<br>
 	<sup>1</sup>https://news.linkedin.com/2021/january/linkedin-business-highlights-from-microsoft-s-fy21-q2-earnings<br>
 	<sup>2</sup>https://www.statista.com/statistics/1123883/linkedin-users-singapore/</small>
 
