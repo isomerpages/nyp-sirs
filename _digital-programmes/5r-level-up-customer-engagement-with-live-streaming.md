@@ -45,7 +45,7 @@ customers!</p>
 <li>Monitor effectiveness of your live streaming</li>
 </ul>
 
-<h4>Who Should Attend*</h4>
+<h4>Who Should Attend</h4>
 <p>This workshop is suitable for entrepreneurs and aspiring entrepreneurs, managers/leaders communication functions in an organisation, marketing/corporate communication
 professionals/executives, social media specialists who are looking for new channels to engage customers.</p>
 
