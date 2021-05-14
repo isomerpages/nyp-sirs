@@ -25,7 +25,7 @@ second_nav_title: Success Stories
 
 <li>Greenenlight: An e-Commerce business owner’s journey to become one of the top sellers on Lazada. Read the full story <a href="/success-and-blog/success-stories/greenenlight">here</a>.</li>
 
-<li>Merlin Goldsmith: Improved Customer Engagement and Sales through Live Streaming. Read the full story <a href="/success-and-blog/success-stories/merlin-goldsmith">here</a>.</li>
+<li>Merlin Goldsmith improved customer engagement and sales through live streaming. Read the full story <a href="/success-and-blog/success-stories/merlin-goldsmith">here</a>.</li>
 
 <li>Mighty Velo gained deeper understanding on online business model and business patterns. Read the full story <a href="/success-and-blog/success-stories/mighty-velo">here</a>.</li>
 
