@@ -25,8 +25,9 @@ second_nav_title: "Masterclasses & Workshops"
 <p>The world’s largest networking platform for professionals, LinkedIn, has 740 million<sup>1</sup> active users globally,
 including decision-makers, senior-level influencers & C-suite executives. The benefits of using LinkedIn as
 a marketing platform go beyond just its sheer audience size, but also its extensive targeting options such
-as profession, industry, seniority, interests, and more.
-Discover the strategies & mechanics on how you can market to over 2.7 million<sup>2</sup> registered LinkedIn users
+as profession, industry, seniority, interests, and more.</p>
+
+<p>Discover the strategies & mechanics on how you can market to over 2.7 million<sup>2</sup> registered LinkedIn users
 in Singapore through this masterclass. From learning LinkedIn basics to using organic and paid tools to
 accelerate your results, you will discover why LinkedIn is by far the best platform for building your brand,
 attracting quality leads, and driving B2B sales.</p>
