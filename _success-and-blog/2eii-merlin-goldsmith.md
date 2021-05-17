@@ -8,7 +8,7 @@ second_nav_title: Success Stories
 ---
 <h4>Merlin Goldsmith Improved Customer Engagement and Sales through Live Streaming</h4>
 
-<center><div style="padding:75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/549193265?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="SIRSxMerlinGoldsmith.mp4"></iframe></center>
+<center><div style="padding:75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/549193265?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="SIRSxMerlinGoldsmith.mp4"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script></center>
 <center><small><i>Video credit to Mediacorp Ch8 World News, aired on 13 May 2021</i></small></center>
 
 <p>Live streaming has grown from a novelty to a necessity, especially since the onset of COVID-19 where many businesses had to act fast in altering their marketing strategies amidst the pandemic.</p>
