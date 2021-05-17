@@ -18,11 +18,17 @@ google-analytics: UA-118644499-7
 
 # Info Section
 info-sections:  
-  - section-subtitle: Understanding Your Future Customers
-    section-image-path: /images-2021/Home-Highlights-Understanding Your Future Customers.png
-    section-description: Preparing your business for unprecedented challenges ahead involves understanding the needs of your future customers through trend forecasting. Stay ahead of the game with insights & practical knowledge derived from WGSN's proprietary methodologies in this two-day masterclass.  
+  - section-subtitle: Master Facebook Marketing for Business
+    section-image-path: /images-2021/Home_Highlights_Facebook Masterclass.png
+    section-description: With its sizable network both locally & globally and access to comprehensive data insights, Facebook has become an essential marketing platform for all businesses. Learn how to enhance your business performance with Facebook marketing and advertising strategies in this two-day masterclass.
     section-more-button: More about this masterclass
-    section-more-button-url: /digital-programmes/masterclasses-and-workshops/understanding-your-future-customers
+    section-more-button-url: /digital-programmes/masterclasses-and-workshops/master-facebook-marketing-for-business
+
+  - section-subtitle: Master LinkedIn for Sales & Marketing
+    section-image-path: /images-2021/Home_Highlights_LinkedIn Masterclass.png
+    section-description: Master the strategies and mechanics of LinkedIn, the world's largest networking platform for professionals, in this one-day masterclass to help you build your brand, attract quality leads, and drive sales to your business.
+    section-more-button: More about this masterclass
+    section-more-button-url: /digital-programmes/masterclasses-and-workshops/master-linkedin-for-sales-and-marketing
     
   - section-subtitle: SGUnited Skills (SGUS) Programme administered by SIRS
     section-description: The SGUnited Skills (SGUS) Programme is open to all mid-career Singapore Citizens and Singapore Permanent Residents who can commit to this six-month full-time training programme. Trainees enjoy close to 100% subsidised course fee and up to $7,200 of training allowance during the programme. SIRS will also provide career advisory, guidance and employment placement assistance at no cost! 
