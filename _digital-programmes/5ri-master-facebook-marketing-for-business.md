@@ -34,8 +34,8 @@ to the entire Facebook Marketing process to help you grow your customer base and
 the next level.</p>
 
 <small>Sources:<br>
-	<sup>1</sup>https://www.statista.com/statistics/264810/number-of-monthly-active-facebook-users-worldwide/<br>
-	<sup>2</sup>https://www.statista.com/statistics/490492/number-of-singapore-facebook-users/</small>
+	<sup>1</sup><a href="https://www.statista.com/statistics/264810/number-of-monthly-active-facebook-users-worldwide">https://www.statista.com/statistics/264810/number-of-monthly-active-facebook-users-worldwide</a>/<br>
+	<sup>2</sup><a href="https://www.statista.com/statistics/490492/number-of-singapore-facebook-users/">https://www.statista.com/statistics/490492/number-of-singapore-facebook-users/</a></small>
 
 <h4>Outline</h4>
 - Create and promote their Facebook page
