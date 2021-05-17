@@ -33,8 +33,8 @@ accelerate your results, you will discover why LinkedIn is by far the best platf
 attracting quality leads, and driving B2B sales.</p>
 
 <small>Sources:<br>
-	<sup>1</sup>https://news.linkedin.com/2021/january/linkedin-business-highlights-from-microsoft-s-fy21-q2-earnings<br>
-	<sup>2</sup>https://www.statista.com/statistics/1123883/linkedin-users-singapore/</small>
+	<sup>1</sup><a href="https://news.linkedin.com/2021/january/linkedin-business-highlights-from-microsoft-s-fy21-q2-earnings">https://news.linkedin.com/2021/january/linkedin-business-highlights-from-microsoft-s-fy21-q2-earnings</a><br>
+	<sup>2</sup><a href="https://www.statista.com/statistics/1123883/linkedin-users-singapore/">https://www.statista.com/statistics/1123883/linkedin-users-singapore/</a></small>
 
 <h4>Outline</h4>
 
