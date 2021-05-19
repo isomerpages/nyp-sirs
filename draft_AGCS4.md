@@ -44,3 +44,16 @@
 <li>熟悉智慧供应链的核心特征并实现各个阶段的创新和优化
 </ul>
 
+<b>Digitalise and Optimise CX with Intelligent Marketing 通过智能营销数字化和优化客户体验</b>
+
+<ul>
+<li>Determine how consumer-centricity improves customer experience (CX) 
+<li>Learn to make digitalisation a core competitive advantage for your company 
+<li>Gain insights in data-driven decision making and develop strategies in digitalised marketing
+</ul>
+<ul>
+<li>掌握如何以消费者为中心，实现改善客户体验 
+<li>利用互联网技术手段结合实体，让数字化形成企业核心竞争能力 
+<li>及时洞察数字化转型趋势，拟定企业智慧零售下发展战略方向和目标
+</ul>
+
