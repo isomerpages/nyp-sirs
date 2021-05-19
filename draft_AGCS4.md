@@ -57,3 +57,16 @@
 <li>及时洞察数字化转型趋势，拟定企业智慧零售下发展战略方向和目标
 </ul>
 
+<b>Manage and Grow Customer Base with Intelligent Consumer Management 通过智慧消费者管理扩大客户群</b>
+
+<ul>
+<li>Learn to analyse and understand customers’ behaviour and buying patterns 
+<li>Ways to use data-driven models to manage & evaluate customers and your brand 
+<li>Distinguish customers efficiently with digitalised tag management
+</ul>
+<ul>
+<li>利用数据化消费者管理及运营方式，分析客户行为和采购形态 
+<li>使用数据驱动分析工具，合理评估客户及品牌定位 
+<li>学会如何借助数字化标签管理，高效区分客户
+</ul>
+
