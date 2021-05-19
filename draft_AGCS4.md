@@ -15,5 +15,6 @@
 
 <img src="images-2021/AGCS4/AGCs4_Intelligent Business_Website_Speakers.png" style="width:100%;">
 
-<h4>Alibaba's Top Practitioners and Speakers</h4>
-<h4>《智慧商业》专业讲师团队</h4>
+<h4>Alibaba's Top Practitioners and Speakers《智慧商业》专业讲师团队</h4>
+
+<b>Intelligent Business 5.0 Strategy and Transformation 智慧商务5.0智能战略与转型</b>
