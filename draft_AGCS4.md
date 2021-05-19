@@ -30,3 +30,17 @@
 <li>了解智能战略的创新方向来推动业务 
 <li>全面了解数智化重构11商业要素及五部曲加速全链路数智转型 
 </ul> 
+
+<b>On-Demand Intelligent Supply Chain in Intelligent Retail 实践智慧零售下的智慧供应链管理</b>
+
+<ul>
+<li>Discover how retail has evolved from demand-driven to new demand and new supply-driven 
+<li>Acquire useful methodologies to improve supply chain management efficiency and effectiveness
+<li>Identify the key features of an intelligent supply chain and learn to innovate and improve at the different stages
+</ul>
+<ul>
+<li>深度了解零售从需求单轮驱动到新需求和新供给的双轮驱动 
+<li>通过学习最佳实践和方法论，了解供应链管理效率和有效性提升的核心技巧 
+<li>熟悉智慧供应链的核心特征并实现各个阶段的创新和优化
+</ul>
+
