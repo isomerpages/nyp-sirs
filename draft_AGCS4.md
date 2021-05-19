@@ -16,8 +16,3 @@
 <img src="images-2021/AGCS4/AGCs4_Intelligent Business_Website_Speakers.png" style="width:100%;">
 
 <h4>Alibaba's Top Practitioners and Speakers 《智慧商业》专业讲师团队</h4>
-
-<ul>
-<li>Understand what Intelligent Business is <li>Learn how to innovate and drive business through intelligent strategy <li>Explore the eleven elements in digitalised transformation and ways to accelerate the process
-<li>什么是创新时代下的智慧商务 <li>了解智能战略的创新方向来推动业务 <li>全面了解数智化重构11商业要素及五部曲加速全链路数智转型 
-</ul> 
