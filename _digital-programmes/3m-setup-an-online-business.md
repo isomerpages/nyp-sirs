@@ -32,38 +32,28 @@ second_nav_title: "E-Commerce Programmes"
 
 <h4>Outline</h4>
 
-<ol>  
-  <li>Introduction to Online Business
+
+<b>1. Introduction to Online Business</b>
     - Understand the types of online business
     - Identify the factors to consider before starting an online business
     - Discover the resources required to start an online business
     - Identify the key functions of an online business
     - Appreciate the online sales process
   
-  <li>Different Platforms for Online Business
-    <ul>
-    <li>Understand various types of online marketplaces and e-commerce site builders</li>
-    <li>Learn about different kinds of social commerce</li>
-    </ul>
-    </li>
+<b>2. Different Platforms for Online Business</b>
+    - Understand various types of online marketplaces and e-commerce site builders
+    - Learn about different kinds of social commerce
     
-  <li>Managing and Handling Customers
-    <ul>
-    <li>Learn to handle logistics and fulfilment</li>
-    <li>Identify customer service best practices</li>
-    <li>How to provide after-sales services</li>
-    </ul>
-    </li>
+<b>3. Managing and Handling Customers</b>
+    - Learn to handle logistics and fulfilment
+    - Identify customer service best practices
+    - How to provide after-sales services
     
-  <li>Practical Hands-on Session on Shopmatic
-    <ul>
-    <li>Set up your Shopmatic account</li>
-    <li>Build your e-commerce website</li>
-    <li>Listing your products</li>
-    <li>Learn about fulfilment and payment options</li>
-    </ul>
-    </li>
-</ol>
+<b>4. Practical Hands-on Session on Shopmatic</b>
+    - Set up your Shopmatic account
+    - Build your e-commerce website
+    - Listing your products</li>
+    - Learn about fulfilment and payment options
 
 <h4>Duration</h4>
 <p>2 Days (15 hours)</p>
