@@ -14,7 +14,7 @@ second_nav_title: "WSQ Certified Modular Programmes"
       <th style="text-align:center;width:50%;">Face-to-Face</th>
     </tr>
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">7 and 9 June 2021</td>
+      <td style="text-align:center;width:50%;">21 & 24 Jun 2021 (Mon & Thu) </td>
     </tr>
 </table></center>
 
