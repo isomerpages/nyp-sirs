@@ -49,17 +49,19 @@ second_nav_title: "E-Commerce Programmes"
     </ul>
     
 <b>3. Managing and Handling Customers</b>
-
-    - Learn to handle logistics and fulfilment
-    - Identify customer service best practices
-    - How to provide after-sales services
+<ul>
+    <li>Learn to handle logistics and fulfilment</li>
+    <li>Identify customer service best practices</li>
+    <li>How to provide after-sales services</li>
+    </ul>
     
 <b>4. Practical Hands-on Session on Shopmatic</b>
-
-    - Set up your Shopmatic account
-    - Build your e-commerce website
-    - Listing your products</li>
-    - Learn about fulfilment and payment options
+<ul>
+    <li>Set up your Shopmatic account</li>
+    <li>Build your e-commerce website</li>
+    <li>Listing your products</li>
+    <li>Learn about fulfilment and payment options</li>
+    </ul>
 
 <h4>Duration</h4>
 <p>2 Days (15 hours)</p>
