@@ -17,8 +17,8 @@ second_nav_title: "E-Commerce Programmes"
       <th style="text-align:center;width:50%;">Face-to-Face</th>
     </tr>
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">To be confirmed</td>
-      <td style="text-align:center;width:50%;">20-21 May 2021 (Thu-Fri)<br>14-15 Jun 2021 (Mon-Tue)</td>
+      <td style="text-align:center;width:50%;">14-15 Jun 2021 (Mon-Tue)<br>26-27 Jul 2021 (Mon-Tue)</td>
+      <td style="text-align:center;width:50%;">17-18 Aug 2021 (Tue-Wed)</td>    
     </tr>
 </table></center>
 
