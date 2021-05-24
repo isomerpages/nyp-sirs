@@ -34,6 +34,7 @@ second_nav_title: "E-Commerce Programmes"
 
 
 <b>1. Introduction to Online Business</b>
+
     - Understand the types of online business
     - Identify the factors to consider before starting an online business
     - Discover the resources required to start an online business
@@ -41,15 +42,18 @@ second_nav_title: "E-Commerce Programmes"
     - Appreciate the online sales process
   
 <b>2. Different Platforms for Online Business</b>
+
     - Understand various types of online marketplaces and e-commerce site builders
     - Learn about different kinds of social commerce
     
 <b>3. Managing and Handling Customers</b>
+
     - Learn to handle logistics and fulfilment
     - Identify customer service best practices
     - How to provide after-sales services
     
 <b>4. Practical Hands-on Session on Shopmatic</b>
+
     - Set up your Shopmatic account
     - Build your e-commerce website
     - Listing your products</li>
