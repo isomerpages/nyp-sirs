@@ -34,17 +34,19 @@ second_nav_title: "E-Commerce Programmes"
 
 
 <b>1. Introduction to Online Business</b>
-
-    - Understand the types of online business
-    - Identify the factors to consider before starting an online business
-    - Discover the resources required to start an online business
-    - Identify the key functions of an online business
-    - Appreciate the online sales process
+<ul>
+    <li>Understand the types of online business</li>
+    <li>Identify the factors to consider before starting an online business</li>
+    <li>Discover the resources required to start an online business</li>
+    <li>Identify the key functions of an online business</li>
+    <li>Appreciate the online sales process</li>
+    </ul>
   
 <b>2. Different Platforms for Online Business</b>
-
-    - Understand various types of online marketplaces and e-commerce site builders
-    - Learn about different kinds of social commerce
+<ul>
+    <li>Understand various types of online marketplaces and e-commerce site builders</li>
+    <li>Learn about different kinds of social commerce</li>
+    </ul>
     
 <b>3. Managing and Handling Customers</b>
 
