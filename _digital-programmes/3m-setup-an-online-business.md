@@ -54,12 +54,11 @@ second_nav_title: "E-Commerce Programmes"
     - Identify customer service best practices
     - How to provide after-sales services
     
-<b>4. Practical Hands-on Session on Shopmatic</b>
-
-    - Set up your Shopmatic account
-    - Build your e-commerce website
-    - Listing your products</li>
-    - Learn about fulfilment and payment options
+4. Practical Hands-on Session on Shopmatic
+    1. Set up your Shopmatic account
+    2. Build your e-commerce website
+    3. Listing your products
+    4. Learn about fulfilment and payment options
 
 <h4>Duration</h4>
 <p>2 Days (15 hours)</p>
