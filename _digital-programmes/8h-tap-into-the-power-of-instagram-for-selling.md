@@ -16,7 +16,7 @@ second_nav_title: "SkillsFuture Series"
       <th style="text-align:center;width:50%;">Online Training</th>
     </tr>
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">28 Apr 2021 (Wed)<br>22 Jun 2021 (Tue)</td>
+      <td style="text-align:center;width:50%;">11 Jun 2021 (Tue)<br>5 Jul 2021 (Mon) <br> 4 Aug 2021 (Wed) </td>
     </tr>
 </table></center>
 

@@ -8,18 +8,17 @@ second_nav_title: "WSQ Certified Modular Programmes"
 ---
 <img src="/images-2021/WSQ Modular_CX.png" style="width:100%;">
 
+
 <h4 style="text-align:center;">Next intake:</h4>
+
 <center><table style="width:80%;">
     <tr style="text-align:center;">
-      <th style="text-align:center;width:50%;" colspan="2" scope="colgroup">Face-to-Face</th>
+      <th style="text-align:center;width:50%;">Online Training</th>
+      <th style="text-align:center;width:50%;">Face-to-Face</th>
     </tr>
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">English Intake</td>
-      <td style="text-align:center;width:50%;">Mandarin Intake</td>
-    </tr>
-    <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">26-27 Apr 2021 (Mon-Tue)<br>20-21 May 2021 (Thu - Fri)<br>12-13 July 2021 (Mon - Tue)</td>
-      <td style="text-align:center;width:50%;">17-18 June 2021 (Thu - Fri)</td>
+      <td style="text-align:center;width:50%;">17-18 Jun 2021 (Thu-Fri) - 中文</td>
+      <td style="text-align:center;width:50%;">12-13 Jul 2021 (Mon-Tue) -Eng <br> 4-5 Aug 2021 (Wed-Thu) -中文</td>
     </tr>
 </table></center>
 

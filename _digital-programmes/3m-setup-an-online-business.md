@@ -17,8 +17,8 @@ second_nav_title: "E-Commerce Programmes"
       <th style="text-align:center;width:50%;">Face-to-Face</th>
     </tr>
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">To be confirmed</td>
-      <td style="text-align:center;width:50%;">20-21 May 2021 (Thu-Fri)<br>14-15 Jun 2021 (Mon-Tue)</td>
+      <td style="text-align:center;width:50%;">14-15 Jun 2021 (Mon-Tue)<br>26-27 Jul 2021 (Mon-Tue)</td>
+      <td style="text-align:center;width:50%;">17-18 Aug 2021 (Tue-Wed)</td>    
     </tr>
 </table></center>
 
@@ -32,38 +32,34 @@ second_nav_title: "E-Commerce Programmes"
 
 <h4>Outline</h4>
 
-<ol>  
-  <li>Introduction to Online Business
-    - Understand the types of online business
-    - Identify the factors to consider before starting an online business
-    - Discover the resources required to start an online business
-    - Identify the key functions of an online business
-    - Appreciate the online sales process
+
+<b>1. Introduction to Online Business</b>
+<ul>
+    <li>Understand the types of online business</li>
+    <li>Identify the factors to consider before starting an online business</li>
+    <li>Discover the resources required to start an online business</li>
+    <li>Identify the key functions of an online business</li>
+    <li>Appreciate the online sales process</li>
+    </ul>
   
-  <li>Different Platforms for Online Business
-    <ul>
+<b>2. Different Platforms for Online Business</b>
+<ul>
     <li>Understand various types of online marketplaces and e-commerce site builders</li>
     <li>Learn about different kinds of social commerce</li>
     </ul>
-    </li>
     
-  <li>Managing and Handling Customers
-    <ul>
-    <li>Learn to handle logistics and fulfilment</li>
-    <li>Identify customer service best practices</li>
-    <li>How to provide after-sales services</li>
-    </ul>
-    </li>
+<b>3. Managing and Handling Customers</b>
+
+    - Learn to handle logistics and fulfilment
+    - Identify customer service best practices
+    - How to provide after-sales services
     
-  <li>Practical Hands-on Session on Shopmatic
-    <ul>
-    <li>Set up your Shopmatic account</li>
-    <li>Build your e-commerce website</li>
-    <li>Listing your products</li>
-    <li>Learn about fulfilment and payment options</li>
-    </ul>
-    </li>
-</ol>
+<b>4. Practical Hands-on Session on Shopmatic</b>
+
+    - Set up your Shopmatic account
+    - Build your e-commerce website
+    - Listing your products</li>
+    - Learn about fulfilment and payment options
 
 <h4>Duration</h4>
 <p>2 Days (15 hours)</p>
