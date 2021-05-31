@@ -18,6 +18,12 @@ google-analytics: UA-118644499-7
 
 # Info Section
 info-sections:  
+  - section-subtitle: Temporarily Closure During P2HA 
+    section-image-path: /images-2021/Home-Highlights-P2HA.png
+    section-description: In line with the implementation of Phase 2 (Heightened Alert) (P2HA), our Customer Relations Centre is temporarily closed till further notice. For any enquries, please email us at courses@sirs.edu.sg or WhatsApp 9223 2979
+    section-more-button: Contact SIRS
+    section-more-button-url: /about-us/contact-us
+  
   - section-subtitle: Master Facebook Marketing for Business
     section-image-path: /images-2021/Home_Highlights_Facebook Masterclass.png
     section-description: With its sizable network both locally & globally and access to comprehensive data insights, Facebook has become an essential marketing platform for all businesses. Learn how to enhance your business performance with Facebook marketing and advertising strategies in this two-day masterclass.
