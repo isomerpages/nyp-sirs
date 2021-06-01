@@ -13,7 +13,7 @@ second_nav_title: "Career Services"
 
 <center><table style="width:80%;">
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">7 June to 2 August 2021</td>
+      <td style="text-align:center;width:50%;">6 September to 30 October 2021</td>
     </tr>
 </table></center>
 
