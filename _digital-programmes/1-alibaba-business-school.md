@@ -7,17 +7,19 @@ collection_name: digital-programmes
 second_nav_title: "Alibaba Business School"
 ---
 
-<img src="images-2021/AGCS4/AGCs4_Intelligent Business_Website.png" style="width:100%;">
+<img src="images/agcs-abs-sirs-atu-combined-logos.png" style="width:100%:">
 
-<p>The Alibaba Global Course series (AGCs) was launched in April 2018 with the Alibaba Global Conference, a partnership between the renowned Taobao University and Singapore Institute of Retail Studies (SIRS). The fourth edition of the Alibaba Global Course series brings together top Taobao University trainers and practitioners to share their experiences and impart actionable strategies and tips for you to future-proof your business in the digital world of the cognitive AI era. <b style="color:#02917b">This webinar will be conducted in Mandarin.</b></p>
+<img src="images/alibaba-business-school/alibaba-business-school.jpg" style="width:100%:">
+
+<p>The signing of the Training Cooperation Agreement between Alibaba Group’s Taobao University and SIRS in Nov 2016 has brought about a suite of cutting edge programmes on digital excellence made available for the first time to Singapore retailers. The programmes are customised to Singapore’s context by SIRS’ strong practitioner team with many years of retail & service experience and strong understanding of the local & international retail scene.  With this cooperation, retailers can look forward to learning from the world leader on business digitalisation and building a stronger foothold in the digital retail landscape.</p>
 
 <h3>SIRS - Alibaba Business School Programmes</h3>
 
 <h4>Alibaba Global Course series</h4>
 
-<img src="images/alibaba-business-school/alibaba-global-course-series.jpg" style="width:100%;">
+<img src="images-2021/AGCS4/AGCs4_Intelligent Business_Website.png" style="width:100%;">
 
-<p>The third Alibaba Global Course series brings together top Taobao University trainers and practitioners to give insights into the state of cross border e-commerce in Southeast Asia and China, and allows you the opportunity to formulate your business strategy for global success.</p>
+<p>The Alibaba Global Course series (AGCs) was launched in April 2018 with the Alibaba Global Conference, a partnership between the renowned Taobao University and Singapore Institute of Retail Studies (SIRS). The fourth edition of the Alibaba Global Course series brings together top Taobao University trainers and practitioners to share their experiences and impart actionable strategies and tips for you to future-proof your business in the digital world of the cognitive AI era. <b style="color:#02917b">This webinar will be conducted in Mandarin.</b></p>
 
 <center><a href="/digital-programmes/alibaba-business-school/alibaba-global-course-series" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Find Out More</a></center>
 
