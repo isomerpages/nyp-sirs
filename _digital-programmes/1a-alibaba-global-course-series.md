@@ -29,6 +29,36 @@ second_nav_title: "Alibaba Business School"
   <li>了解智能战略的创新方向来推动业务</li>  
   <li>全面了解数智化重构11商业要素及五部曲加速全链路数智转型</li>
   </ul>
+  
+<b>On-Demand Intelligent Supply Chain in Intelligent Retail 实践智慧零售下的智慧供应链管理</b>
+<ul>
+  <li>Discover how retail has evolved from demand-driven to new demand and new supply-driven</li>  
+  <li>Acquire useful methodologies to improve supply chain management efficiency and effectiveness</li> 
+  <li>Identify the key features of an intelligent supply chain and learn to innovate and improve at the different stages</li> 
+  <li>深度了解零售从需求单轮驱动到新需求和新供给的双轮驱动</li>  
+  <li>通过学习最佳实践和方法论，了解供应链管理效率和有效性提升的核心技巧</li>  
+  <li>熟悉智慧供应链的核心特征并实现各个阶段的创新和优化</li> 
+  </ul>
+
+<b>Digitalise and Optimise CX with Intelligent Marketing 通过智能营销数字化和优化客户体验</b>
+<ul>
+  <li>Determine how consumer-centricity improves customer experience (CX)</li>  
+  <li>Learn to make digitalisation a core competitive advantage for your company</li>  
+  <li>Gain insights in data-driven decision making and develop strategies in digitalised marketing</li> 
+  <li>掌握如何以消费者为中心，实现改善客户体验</li>  
+  <li>利用互联网技术手段结合实体，让数字化形成企业核心竞争能力</li>  
+  <li>及时洞察数字化转型趋势，拟定企业智慧零售下发展战略方向和目标</li> 
+  </ul>
+
+<b>Manage and Grow Customer Base with Intelligent Consumer Management 通过智慧消费者管理扩大客户群</b>
+<ul>
+  <li>Learn to analyse and understand customers’ behaviour and buying patterns</li>  
+  <li>Ways to use data-driven models to manage & evaluate customers and your brand</li>  
+  <li>Distinguish customers efficiently with digitalised tag management</li> 
+  <li>利用数据化消费者管理及运营方式，分析客户行为和采购形态</li>  
+  <li>使用数据驱动分析工具，合理评估客户及品牌定位</li>  
+  <li>学会如何借助数字化标签管理，高效区分客户</li> 
+  </ul>
 
 <center><a href="https://gems.gevme.com/2021-alibaba-global-series" style="background-color:#eb540d; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">REGISTER NOW!</a></center>
 
