@@ -22,16 +22,16 @@ second_nav_title: "Alibaba Business School"
 
 <b>Intelligent Business 5.0 Strategy and Transformation 智慧商务5.0智能战略与转型</b>
 
-<ul>
+<p><ul>
 <li>Understand what Intelligent Business is 
 <li>Learn how to innovate and drive business through intelligent strategy 
 <li>Explore the eleven elements in digitalised transformation and ways to accelerate the process
 <li>什么是创新时代下的智慧商务 
 <li>了解智能战略的创新方向来推动业务 
 <li>全面了解数智化重构11商业要素及五部曲加速全链路数智转型 
-</ul> 
+</p></ul> 
 
-<b>On-Demand Intelligent Supply Chain in Intelligent Retail 实践智慧零售下的智慧供应链管理</b>
+On-Demand Intelligent Supply Chain in Intelligent Retail 实践智慧零售下的智慧供应链管理
 
 <ul>
 <li>Discover how retail has evolved from demand-driven to new demand and new supply-driven 
