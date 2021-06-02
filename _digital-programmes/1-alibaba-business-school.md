@@ -7,11 +7,9 @@ collection_name: digital-programmes
 second_nav_title: "Alibaba Business School"
 ---
 
-<img src="images/agcs-abs-sirs-atu-combined-logos.png" style="width:100%:">
+<img src="images-2021/AGCS4/AGCs4_Intelligent Business_Website.png" style="width:100%;">
 
-<img src="images/alibaba-business-school/alibaba-business-school.jpg" style="width:100%;">
-
-<p>The signing of the Training Cooperation Agreement between Alibaba Group’s Taobao University and SIRS in Nov 2016 has brought about a suite of cutting edge programmes on digital excellence made available for the first time to Singapore retailers. The programmes are customised to Singapore’s context by SIRS’ strong practitioner team with many years of retail & service experience and strong understanding of the local & international retail scene.  With this cooperation, retailers can look forward to learning from the world leader on business digitalisation and building a stronger foothold in the digital retail landscape.</p>
+<p>The Alibaba Global Course series (AGCs) was launched in April 2018 with the Alibaba Global Conference, a partnership between the renowned Taobao University and Singapore Institute of Retail Studies (SIRS). The fourth edition of the Alibaba Global Course series brings together top Taobao University trainers and practitioners to share their experiences and impart actionable strategies and tips for you to future-proof your business in the digital world of the cognitive AI era. <b style="color:#02917b">This webinar will be conducted in Mandarin.</b></p>
 
 <h3>SIRS - Alibaba Business School Programmes</h3>
 
