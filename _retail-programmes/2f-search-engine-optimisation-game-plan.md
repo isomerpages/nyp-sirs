@@ -29,7 +29,7 @@ second_nav_title: "WSQ Certified Modular Programmes"
 
 <h4>Highlights</h4>
 <ul>
-<li>Perform internet marketing strategy quick audits using advanced Google Search Operators and Screening Frog</li>
+<li>Perform internet marketing strategy quick audits using advanced Google Search Operators and Screaming Frog</li>
 <li>Craft customer journey using SEO and content marketing</li>
 <li>Proven methods and templates to build links and online reputation</li>
 <li>Deploy ready-to-go SEO dashboards and reports</li>
