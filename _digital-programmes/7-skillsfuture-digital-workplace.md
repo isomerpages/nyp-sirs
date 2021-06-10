@@ -22,8 +22,8 @@ collection_name: digital-programmes
 </table></center>
 
 <p>The rapid adoption of digital technologies spurred by COVID-19 has become more apparent now than before. Online shopping, video conferencing, and remote working are now a daily part of our lives as we continue to rethink and readapt the way we live, work, and socialise in the new normal. 
-
-Join us in this two-day workshop with refreshed and up-to-date content to improve your digital engagement with your family, friends, colleagues or customers. Pick up the essential skills to stay connected, boost productivity and gain the confidence to enhance your new digital lifestyle!</p>
+	
+	Join us in this two-day workshop with refreshed and up-to-date content to improve your digital engagement with your family, friends, colleagues or customers. Pick up the essential skills to stay connected, boost productivity and gain the confidence to enhance your new digital lifestyle!</p>
 
 <h4>Outline</h4>
 - Develop a growth mindset to thrive in the digital landscape
