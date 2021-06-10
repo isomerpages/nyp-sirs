@@ -64,7 +64,7 @@ Join us in this two-day workshop with refreshed and up-to-date content to improv
 </center>
 
 <small><i><sup>1</sup>Supported by SkillsFuture Credit<br>
-	<sup>2</sup>Terms & Conditions Apply<br>
+	<sup>2</sup>Terms & conditions apply<br>
 Fees include prevailing GST</i></small>
 
     
