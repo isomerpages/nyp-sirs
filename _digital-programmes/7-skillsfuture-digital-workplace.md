@@ -34,7 +34,7 @@ collection_name: digital-programmes
 - Understand the guidelines and types of home-based business, and how you can start your own
   
 <h4>Duration</h4>
-<p>9am - 6pm (2 days)</p>
+<p>2 days (9am - 6pm daily)</p>
 
 <h4>Fees</h4>
 
