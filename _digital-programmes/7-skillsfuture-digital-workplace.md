@@ -51,7 +51,7 @@ Join us in this two-day workshop with refreshed and up-to-date content to improv
 </tr>
 
 <tr>
-<td>Singapore Citizen/Singapore PR (SPR)<sup>1</sup> (after SkillsFuture Funding)</td>
+<td>Singapore Citizen/Singapore PR<sup>1</sup> (after SkillsFuture Funding)</td>
 <td>$50</td>
 </tr>
 
