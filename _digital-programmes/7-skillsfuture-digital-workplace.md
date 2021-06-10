@@ -75,7 +75,6 @@ Fees include prevailing GST</i></small>
 <b>For self-sponsored participants:</b>
 <ul>
   <li><a href="/services/consultancy/skillsfuture-credit">SkillsFuture Credit</a></li>
-  <li><a href="/services/consultancy/utap">Union Training Assistance Programme (UTAP)</a></li>
     </ul>
 
 <p>For SkillsFuture course reference, please click <a href="/documents-2021/SIRS-SkillsFuture-CourseRefNumber.pdf">here.</a></p>
