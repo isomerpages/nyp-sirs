@@ -27,10 +27,10 @@ Under the PCP - DP, participants will have to complete the following programmes:
 <h4>Fact Sheets</h4>
 To view more details, refer to the factsheets below:
 
-<div style="width:50%;float:left;"><center><a href="/documents-2021/Services_PCP_DP_Employers_Factsheet_ v1 Jan 21.pdf" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-
+<div style="width:50%;float:left;"><center><a href="/documents-2021/Services_PCP_DP_Factsheet_Employer.pdf" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-
 block; margin: 4px 2px; cursor:pointer;text-decoration:none;">For Employers</a></center></div>
 
-<div style="width:50%;float:left;"><center><a href="/documents-2021/Services_PCP_DP_Applicants_Factsheet_v1_ Jan 21.pdf" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">For Applicants</a></center></div>
+<div style="width:50%;float:left;"><center><a href="/documents-2021/Services_PCP_DP_Factsheet_Applicant.pdf" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">For Applicants</a></center></div>
 
 <h4>Funding and Support</h4>
 
