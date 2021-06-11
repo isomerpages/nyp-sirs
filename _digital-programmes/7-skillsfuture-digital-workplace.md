@@ -17,7 +17,7 @@ collection_name: digital-programmes
     </tr>
     <tr style="text-align:center;">
       <td style="text-align:center;width:50%;">To be confirmed </td>
-      <td style="text-align:center;width:50%;">To be confirmed</td>
+      <td style="text-align:center;width:50%;">28-29 Jul (Wed-Thu)</td>
     </tr>
 </table></center>
 
