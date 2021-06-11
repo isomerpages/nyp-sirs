@@ -17,7 +17,7 @@ second_nav_title: "Masterclasses & Workshops"
       <th style="text-align:center;width:50%;">Face-to-Face</th>
     </tr>
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">3 & 4 June 2021</td>
+      <td style="text-align:center;width:50%;">5 & 6 July 2021</td>
       <td style="text-align:center;width:50%;">To be confirmed</td>
     </tr>
 </table></center>
