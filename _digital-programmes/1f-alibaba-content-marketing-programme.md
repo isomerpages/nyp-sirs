@@ -21,7 +21,7 @@ Holistic Hands-on Content Marketing Techniques</center>
 
 <center><table style="width:80%;">
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;"> 16 to 17, 23 to 25 June 2021 (5 days)</td>
+      <td style="text-align:center;width:50%;"> 22 & 23, 28 - 30 Sep 2021 (5 days)</td>
     </tr>
 </table></center>
 
