@@ -4,6 +4,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Description
 url: "https://www.sirs.edu.sg" # the base hostname & protocol for your site, e.g. http://example.com
 facebook-pixel: 777239046035563
+facebook-meta-tag: <meta name="facebook-domain-verification" content="inc7xfovpckgig53a2dt94x4y52put" />
 
 # Build settings
 markdown: kramdown
