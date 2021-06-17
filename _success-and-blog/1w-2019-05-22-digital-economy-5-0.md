@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title:  Digital Economy 5.0 — Breaking Down Geographical Borders
+title: 'Digital Economy 5.0 — Breaking Down Geographical Borders'
 permalink: /success-and-blog/blog/digital-economy-5-0
-breadcrumb: Digital Economy 5.0 — Breaking Down Geographical Borders
-collection_name: success-and-blog
-second_nav_title: Blog
+breadcrumb: 'Digital Economy 5.0 — Breaking Down Geographical Borders'
+third_nav_title: Blog
+
 ---
+
 Date:   22-05-2019
 <img src="/images-2021/Blog_2019BreakingDownBorders.jpeg" style="width:80%;max-width:1000px;">
 <center><small><i>David Lee, Digital Commerce Lead, SIRS</i></small></center>

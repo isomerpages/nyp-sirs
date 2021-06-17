@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Enhancing Learning through Immersive China Study Tours
+title: 'Enhancing Learning through Immersive China Study Tours'
 permalink: /success-and-blog/blog/immersive-china-study-tours
-breadcrumb: Enhancing Learning through Immersive China Study Tours
-collection_name: success-and-blog
-second_nav_title: Blog
+breadcrumb: 'Enhancing Learning through Immersive China Study Tours'
+third_nav_title: Blog
+
 ---
+
 Date:  21-05-2019 
 
 <img src="/images-2021/Blog_2019_ImmersiveChinaStudyTours.jpg" style="width:80%;max-width:1000px;">

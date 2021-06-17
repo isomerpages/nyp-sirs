@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content 
-title: SkillsFuture Credit (SFC)
+title: 'SkillsFuture Credit (SFC)'
 permalink: /services/consultancy/skillsfuture-credit
-breadcrumb: SkillsFuture Credit (SFC)
-collection_name: services
-second_nav_title: "Consultancy"
+breadcrumb: 'SkillsFuture Credit (SFC)'
+third_nav_title: Consultancy
+
 ---
+
 
 <h4>What is SkillsFuture Credit? (SFC)</h4>
 

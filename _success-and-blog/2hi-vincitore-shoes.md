@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: VINCiTORE Shoes
+title: 'VINCiTORE Shoes'
 permalink: /success-and-blog/success-stories/vincitore-shoes
-breadcrumb: VINCiTORE Shoes
-collection_name: success-and-blog
-second_nav_title: Success Stories
+breadcrumb: 'VINCiTORE Shoes'
+third_nav_title: 'Success Stories'
+
 ---
+
 
 <h4>VINCiTORE Shoes adopted digital solutions to enhance physical retail experience</h4>
 

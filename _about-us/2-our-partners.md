@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Strategic Partners
+title: 'Strategic Partners'
 permalink: /about-us/our-partners
-breadcrumb: Strategic Partners
-collection_name: about-us
+breadcrumb: 'Strategic Partners'
+
 ---
+
 <img src="/images-2021/AboutUs_SIRS_StrategicPartners.png" style="width:100%;">
 
 <p>SIRS works with market leaders to develop cutting edge solutions and training programmes to help you reinvent your business and compete in new markets, gain new channels and develop skilled human capital.</p>

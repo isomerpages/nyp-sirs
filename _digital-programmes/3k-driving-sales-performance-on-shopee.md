@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Driving Sales Performance on Shopee (Marketing)
+title: 'Driving Sales Performance on Shopee (Marketing)'
 permalink: /digital-programmes/e-commerce-programmes/driving-sales-performance-on-shopee
-breadcrumb: Driving Sales Performance on Shopee (Marketing)
-collection_name: digital-programmes
-second_nav_title: "E-Commerce Programmes"
+breadcrumb: 'Driving Sales Performance on Shopee (Marketing)'
+third_nav_title: 'E-Commerce Programmes'
+
 ---
+
 
 <img src="/images-2021/DigitalProgrammes-E-Commerce-Shopee-Marketing.PNG" style="width:100%;">
 

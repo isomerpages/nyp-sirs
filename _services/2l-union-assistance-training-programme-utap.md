@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content 
-title: Union Training Assistance Programme (UTAP)
+title: 'Union Training Assistance Programme (UTAP)'
 permalink: /services/consultancy/utap
-breadcrumb: Union Training Assistance Programme
-collection_name: services
-second_nav_title: "Consultancy"
+breadcrumb: 'Union Training Assistance Programme'
+third_nav_title: Consultancy
+
 ---
+
 <h4>What is Union Training Assistance Programme (UTAP)?</h4>
 
 <p>UTAP is a training benefit for NTUC members to defray their cost of training. This benefit is to encourage more NTUC members to go for skills upgrading.</p>

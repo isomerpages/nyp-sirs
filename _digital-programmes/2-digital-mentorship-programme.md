@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
 title: Overview
 permalink: /digital-programmes/digital-mentorship-programme
 breadcrumb: Overview
-collection_name: digital-programmes
-second_nav_title: Digital Mentorship Programme (DMP)
+third_nav_title: 'Digital Mentorship Programme (DMP)'
+
 ---
+
 
 <img src="images-2021/DigitalProgrammes-DMP-Overview.jpg" style="width:100%;">
 

@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
 title: Overview
 permalink: /success-and-blog/success-stories
 breadcrumb: Overview
-collection_name: success-and-blog
-second_nav_title: Success Stories
+third_nav_title: 'Success Stories'
+
 ---
+
 <img src="/images-2021/SuccessStories-Overview.jpg" style="width:100%;">
 
 <h4>Let Our Clients Speak for Us</h4>

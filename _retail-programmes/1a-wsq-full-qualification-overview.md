@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
 title: Overview
 permalink: /wsq-programmes/wsq-full-qualification-programmes/
 breadcrumb: Overview
-collection_name: retail-programmes
-second_nav_title: "WSQ Full Qualification Programmes"
+third_nav_title: 'WSQ Full Qualification Programmes'
+
 ---
+
 <img src="/images-2021/WSQ Full Qual.jpg" style="width:100%;">
 
 <p>SIRS offers retail professionals, who are at different stages of their career, the following WSQ Full Qualification Programmes to acquire essential skills and knowledge of New Retail.</p>

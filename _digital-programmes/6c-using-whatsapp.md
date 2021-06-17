@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Using WhatsApp
+title: 'Using WhatsApp'
 permalink: /digital-programmes/national-silver-academy/using-whatsapp
-breadcrumb: Using WhatsApp
-collection_name: digital-programmes
-second_nav_title: National Silver Academy
+breadcrumb: 'Using WhatsApp'
+third_nav_title: 'National Silver Academy'
+
 ---
+
 
 <img src="images-2021/DigitalProgrammes_NSA_TechSavvy-WhatsApp.png" style="width:100%;">
 

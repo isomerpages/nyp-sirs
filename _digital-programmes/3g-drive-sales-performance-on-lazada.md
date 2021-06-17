@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Drive Sales Performance on Lazada (Marketing)
+title: 'Drive Sales Performance on Lazada (Marketing)'
 permalink: /digital-programmes/e-commerce-programmes/drive-sales-performance-on-lazada
-breadcrumb: Drive Sales Performance on Lazada (Marketing)
-collection_name: digital-programmes
-second_nav_title: "E-Commerce Programmes"
+breadcrumb: 'Drive Sales Performance on Lazada (Marketing)'
+third_nav_title: 'E-Commerce Programmes'
+
 ---
+
 
 <img src="images-2021/DigitalProgrammes-E-Commerce-Lazada-Marketing.png" style="width:100%;">
 

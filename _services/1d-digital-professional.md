@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: PCP Digital Professional
+title: 'PCP Digital Professional'
 permalink: /services/career-services/digital-professional
-breadcrumb: PCP Digital Professional
-collection_name: services
-second_nav_title: "Career Services"
+breadcrumb: 'PCP Digital Professional'
+third_nav_title: 'Career Services'
+
 ---
+
 
 <img src="images-2021/Services-CareerServices-PCP-DP.jpg" style="width:100%;">
 

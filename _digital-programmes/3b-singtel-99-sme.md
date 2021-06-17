@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: 99%SME Onboarding Programme
+title: '99%SME Onboarding Programme'
 permalink: /digital-programmes/e-commerce-programmes/singtel-99-sme
-breadcrumb: 99%SME Onboarding Programme
-collection_name: digital-programmes
-second_nav_title: "E-Commerce Programmes"
+breadcrumb: '99%SME Onboarding Programme'
+third_nav_title: 'E-Commerce Programmes'
+
 ---
+
 
 <img src="images-2021/DigitalProgrammes-E-Commerce-99SME.png" style="width:100%;">
 

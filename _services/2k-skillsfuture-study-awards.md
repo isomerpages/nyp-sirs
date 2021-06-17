@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content 
-title: SkillsFuture Study Awards
+title: 'SkillsFuture Study Awards'
 permalink: /services/consultancy/skillsfuture-study-awards
-breadcrumb: SkillsFuture Study Awards 
-collection_name: services
-second_nav_title: "Consultancy"
+breadcrumb: 'SkillsFuture Study Awards'
+third_nav_title: Consultancy
+
 ---
+
 
 <h4>What are the SkillsFuture Study Awards?</h4>
 <p>The SkillsFuture Study Awards equip Singaporeans with the skills needed to benefit from quality jobs created by our economy. As Singapore continues our 

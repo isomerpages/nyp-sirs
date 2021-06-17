@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Mastering the Art of Selling in New Retail
+title: 'Mastering the Art of Selling in New Retail'
 permalink: /wsq-programmes/wsq-modular-programmes/mastering-the-art-of-selling-in-new-retail
-breadcrumb: Mastering the Art of Selling in New Retail
-collection_name: retail-programmes
-second_nav_title: "WSQ Certified Modular Programmes"
+breadcrumb: 'Mastering the Art of Selling in New Retail'
+third_nav_title: 'WSQ Certified Modular Programmes'
+
 ---
+
 
 <img src="/images-2021/WSQ Modular_Master.png" style="width:100%;">
 

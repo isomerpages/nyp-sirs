@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Thrive in Digital Disruption
+title: 'Thrive in Digital Disruption'
 permalink: /digital-programmes/skillsfuture-series/thrive-in-digital-disruption
-breadcrumb: Thrive in Digital Disruption
-collection_name: digital-programmes
-second_nav_title: "SkillsFuture Series"
+breadcrumb: 'Thrive in Digital Disruption'
+third_nav_title: 'SkillsFuture Series'
+
 ---
+
 
 <img src="images/sf-series-banner.png" style="width:100%;">
 

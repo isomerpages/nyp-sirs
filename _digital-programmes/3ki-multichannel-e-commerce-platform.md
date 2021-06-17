@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Multichannel E-Commerce Platform (MEP) Programme
+title: 'Multichannel E-Commerce Platform (MEP) Programme'
 permalink: /digital-programmes/e-commerce-programmes/mepp
-breadcrumb: Multichannel E-Commerce Platform (MEP) Programme
-collection_name: digital-programmes
-second_nav_title: "E-Commerce Programmes"
+breadcrumb: 'Multichannel E-Commerce Platform (MEP) Programme'
+third_nav_title: 'E-Commerce Programmes'
+
 ---
+
 
 <center><img src="/images-2021/E-Commerce-Programmes-MEPP.jpg" style="width:90%;"></center>
 

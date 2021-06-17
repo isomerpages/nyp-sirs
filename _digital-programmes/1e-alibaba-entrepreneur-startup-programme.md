@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Alibaba Entrepreneur Startup Programme
+title: 'Alibaba Entrepreneur Startup Programme'
 permalink: /digital-programmes/alibaba-business-school/alibaba-entrepreneur-startup-programme
-breadcrumb: Alibaba Entrepreneur Startup Programme
-collection_name: digital-programmes
-second_nav_title: "Alibaba Business School"
+breadcrumb: 'Alibaba Entrepreneur Startup Programme'
+third_nav_title: 'Alibaba Business School'
+
 ---
+
 
 <img src="images/agcs-abs-sirs-atu-combined-logos.png" style="width:100%:">
 

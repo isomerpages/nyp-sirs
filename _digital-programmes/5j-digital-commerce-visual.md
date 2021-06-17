@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Digital Commerce Visual
+title: 'Digital Commerce Visual'
 permalink: /digital-programmes/masterclasses-and-workshops/digital-commerce-visual
-breadcrumb: Digital Commerce Visual
-collection_name: digital-programmes
-second_nav_title: "Masterclasses & Workshops"
+breadcrumb: 'Digital Commerce Visual'
+third_nav_title: 'Masterclasses & Workshops'
+
 ---
+
 
 <img src="images-2021/DigitalProgrammes-Image-Masterclass.png" style="width:100%;">
 

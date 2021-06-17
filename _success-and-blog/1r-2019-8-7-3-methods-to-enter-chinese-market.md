@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title:  3 Methods to Enter the Chinese Market
+title: '3 Methods to Enter the Chinese Market'
 permalink: /success-and-blog/blog/3-methods-to-enter-chinese-market
-breadcrumb: 3 Methods to Enter the Chinese Market
-collection_name: success-and-blog
-second_nav_title: Blog
+breadcrumb: '3 Methods to Enter the Chinese Market'
+third_nav_title: Blog
+
 ---
+
 Date:   08-07-2019
 
 <img src="/images-2021/Blog_2019_3MethodstoEnterChineseMarket.jpg" style="width:80%;">

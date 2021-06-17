@@ -1,47 +1,49 @@
-title: Singapore Institute of Retail Studies
+title: 'Singapore Institute of Retail Studies'
 title-abbreviated: NYP-SIRS
-description: >- # this means to ignore newlines until "baseurl:"
-  Description
-url: "https://www.sirs.edu.sg" # the base hostname & protocol for your site, e.g. http://example.com
+description: Description
+url: 'https://www.sirs.edu.sg'
 facebook-pixel: 777239046035563
-facebook-meta-tag: <meta name="facebook-domain-verification" content="inc7xfovpckgig53a2dt94x4y52put" />
-
-# Build settings
-markdown: kramdown
-remote_theme: isomerpages/isomerpages-template
+facebook-meta-tag: '<meta name="facebook-domain-verification" content="inc7xfovpckgig53a2dt94x4y52put" />'
+remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
-
 plugins:
-  - jekyll-feed
-  - jekyll-assets
-  - jekyll-sitemap
-
-# Breadcrumbs
-breadcrumbs:
-  root:
-    hide: false  # show breadcrumbs on root/home page
-    image: false # Show image or title text
-
-# Resource Room and Pagination
+    - jekyll-feed
+    - jekyll-assets
+    - jekyll-paginate
+    - jekyll-sitemap
 paginate: 12
-
-# Homepage sections
-homepage_hero_i_want_to: false
-
-# Custom CSS file path
-custom_css_path: "/misc/custom.css"
-custom_print_css_path: "/assets/css/print.css"
-
-exclude: [travis-script.js, .travis.yml, README.md, package.json, package-lock.json, node_modules, vendor/bundle/, vendor/cache/, vendor/gems/, vendor/ruby/, Gemfile, Gemfile.lock]
-
+custom_css_path: /misc/custom.css
+custom_print_css_path: /assets/css/print.css
+exclude:
+    - travis-script.js
+    - .travis.yml
+    - README.md
+    - package.json
+    - package-lock.json
+    - node_modules
+    - vendor/bundle/
+    - vendor/cache/
+    - vendor/gems/
+    - vendor/ruby/
+    - Gemfile
+    - Gemfile.lock
 collections:
-  about-us:
-    output: true
-  services:
-    output: true
-  retail-programmes:
-    output: true
-  digital-programmes:
-    output: true
-  success-and-blog:
-    output: true
+    about-us:
+        output: true
+    services:
+        output: true
+    retail-programmes:
+        output: true
+    digital-programmes:
+        output: true
+    success-and-blog:
+        output: true
+favicon: /images/sirs-favicon.ico
+google_analytics: UA-118644499-7
+permalink: none
+baseurl: ""
+defaults:
+    - scope:
+          path: ""
+      values:
+          layout: page

@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Who We Are
+title: 'Who We Are'
 permalink: /about-us
-breadcrumb: Who We Are
-collection_name: about-us
+breadcrumb: 'Who We Are'
+
 ---
+
 
 <img src="/images-2021/AboutUs_SIRS_OurMission.png" style="width:100%;"> 
 

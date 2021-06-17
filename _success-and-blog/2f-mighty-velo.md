@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Mighty Velo
+title: 'Mighty Velo'
 permalink: /success-and-blog/success-stories/mighty-velo
-breadcrumb: Mighty Velo
-collection_name: success-and-blog
-second_nav_title: Success Stories
+breadcrumb: 'Mighty Velo'
+third_nav_title: 'Success Stories'
+
 ---
+
 <h4>Mighty Velo gained deeper understanding on online business model and business patterns</h4>
 <img src="/images-2021/SuccessStories-MightyVelo.png" style="width:65%;">
 

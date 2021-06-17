@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Master Facebook Marketing for Business
+title: 'Master Facebook Marketing for Business'
 permalink: /digital-programmes/masterclasses-and-workshops/master-facebook-marketing-for-business
-breadcrumb: Master Facebook Marketing for Business
-collection_name: digital-programmes
-second_nav_title: "Masterclasses & Workshops"
+breadcrumb: 'Master Facebook Marketing for Business'
+third_nav_title: 'Masterclasses & Workshops'
+
 ---
+
 
 <img src="images-2021/DigitalProgrammes-Image-Masterclass.png" style="width:100%;">
 

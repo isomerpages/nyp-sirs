@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
 title: Overview
 permalink: /services/consultancy
 breadcrumb: Overview
-collection_name: services
-second_nav_title: "Consultancy"
+third_nav_title: Consultancy
+
 ---
+
 
 <p><img src="images-2021/Services_Consultancy.png" style="width:100%;"></p>
 <p>SIRS has enabled many retailers to successfully implement training & capability development initiatives through our well-tailored and enterprise-centric solutions. Our team of consultants work closely with retailers to diagnose and develop speed-to-market business solutions, collaborations, and recommendations to help them in their business transformation. Besides helping companies become more successful in people development and business excellence, we also work with individuals who are interested in upskilling themselves for a career in retail.</p>

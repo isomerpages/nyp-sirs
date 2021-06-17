@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Basics in Content Generation
+title: 'Basics in Content Generation'
 permalink: /digital-programmes/skillsfuture-series/basics-in-content-generation
-breadcrumb: Basics in Content Generation
-collection_name: digital-programmes
-second_nav_title: "SkillsFuture Series"
+breadcrumb: 'Basics in Content Generation'
+third_nav_title: 'SkillsFuture Series'
+
 ---
+
 
 <img src="images/sf-series-banner.png" style="width:100%;">
 

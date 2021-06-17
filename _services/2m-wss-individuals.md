@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content 
-title: Workfare Skills Support (WSS) Scheme (For Individuals)
+title: 'Workfare Skills Support (WSS) Scheme (For Individuals)'
 permalink: /services/consultancy/wss-individuals
-breadcrumb: Workfare Skills Support (WSS) Scheme (For Individuals)
-collection_name: services
-second_nav_title: "Consultancy"
+breadcrumb: 'Workfare Skills Support (WSS) Scheme (For Individuals)'
+third_nav_title: Consultancy
+
 ---
+
 
 <h4>What is WSS Scheme?</h4>
 <p>The WSS scheme encourages and supports low-wage workers to undertake training that leads to more impactful employment outcomes.</p>

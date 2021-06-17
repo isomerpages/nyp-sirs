@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content 
-title: 99% SME Campaign
+title: '99% SME Campaign'
 permalink: /services/consultancy/singtel-99sme
 breadcrumb: 99SME
-collection_name: services
-second_nav_title: "Consultancy"
+third_nav_title: Consultancy
+
 ---
+
 
 <h4>What is 99%SME?</h4>
 <p>SMEs make up 99% of the businesses in Singapore, forming the backbone of Singapore’s economy.  99%SME is a nationwide movement to rally all of Singapore to discover and support small and medium businesses. By being part of 99% SME, businesses like yours can grow strong, together.</p>

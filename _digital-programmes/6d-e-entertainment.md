@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
 title: E-Entertainment
 permalink: /digital-programmes/national-silver-academy/e-entertainment
 breadcrumb: E-Entertainment
-collection_name: digital-programmes
-second_nav_title: National Silver Academy
+third_nav_title: 'National Silver Academy'
+
 ---
+
 <img src="images-2021/DigitalProgrammes_NSA_TechSavvy-E-Entertainment.png" style="width:100%;">
 
 <h4 style="text-align:center;">Next intake:</h4>

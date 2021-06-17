@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Level Up Customer Engagement Through Live Streaming
+title: 'Level Up Customer Engagement Through Live Streaming'
 permalink: /digital-programmes/masterclasses-and-workshops/level-up-customer-engagement-through-live-streaming
-breadcrumb: Level Up Customer Engagement Through Live Streaming
-collection_name: digital-programmes
-second_nav_title: "Masterclasses & Workshops"
+breadcrumb: 'Level Up Customer Engagement Through Live Streaming'
+third_nav_title: 'Masterclasses & Workshops'
+
 ---
+
 <img src="images-2021/DigitalProgrammes-HImage-Workshop.png" style="width:100%;">
 
 <h4 style="text-align:center;">Next intake:</h4>

@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title:  How to ’S-hook’ your customers through live-streaming?
+title: 'How to ’S-hook’ your customers through live-streaming?'
 permalink: /success-and-blog/blog/shook-customers-through-live-streaming
-breadcrumb: How to ’S-hook’ your customers through live-streaming?
-collection_name: success-and-blog
-second_nav_title: Blog
+breadcrumb: 'How to ’S-hook’ your customers through live-streaming?'
+third_nav_title: Blog
+
 ---
+
 Date:   10-05-2018
 <img src="/images-2021/Blog_2018_SHook_LiveStreaming.png" alt-text="Photo Credits: Screengrab from Misshopper Boutique Facebook page" style="width:80%;max-width:1000px;">
 

@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Fullhouse Home Furnishings
+title: 'Fullhouse Home Furnishings'
 permalink: /success-and-blog/success-stories/fullhouse-home-furnishings
-breadcrumb: Fullhouse Home Furnishings
-collection_name: success-and-blog
-second_nav_title: Success Stories
+breadcrumb: 'Fullhouse Home Furnishings'
+third_nav_title: 'Success Stories'
+
 ---
+
 <h4>Fullhouse’s sales revenue made a quantum leap from 9 million in 8 months to 7 million in 3 months</h4>
 <img src="/images-2021/SuccessStories-Fullhouse.jpg" style="width:50%;">
 

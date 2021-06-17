@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Grow Your Brand Presence with WeChat Marketing
+title: 'Grow Your Brand Presence with WeChat Marketing'
 permalink: /digital-programmes/masterclasses-and-workshops/growing-your-brand-presence-with-wechat-marketing
-breadcrumb: Grow Your Brand Presence with WeChat Marketing
-collection_name: digital-programmes
-second_nav_title: "Masterclasses & Workshops"
+breadcrumb: 'Grow Your Brand Presence with WeChat Marketing'
+third_nav_title: 'Masterclasses & Workshops'
+
 ---
+
 <img src="images-2021/DigitalProgrammes-Image-Masterclass.png" style="width:100%;">
 
 <h4 style="text-align:center;">Next intake:</h4>

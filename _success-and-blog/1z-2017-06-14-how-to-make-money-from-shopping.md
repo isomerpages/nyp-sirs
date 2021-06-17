@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title:  Endless Opportunities Online — How to make money from shopping?
+title: 'Endless Opportunities Online — How to make money from shopping?'
 permalink: /success-and-blog/blog/how-to-make-money-from-shopping
-breadcrumb: Endless Opportunities Online — How to make money from shopping?
-collection_name: success-and-blog
-second_nav_title: Blog
+breadcrumb: 'Endless Opportunities Online — How to make money from shopping?'
+third_nav_title: Blog
+
 ---
+
 Date:   14-06-2017
 <img src="/images-2021/Blog_2017EndlessOpportunities.png" style="width:100%;">
 

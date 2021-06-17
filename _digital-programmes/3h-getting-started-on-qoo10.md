@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Getting Started on Qoo10 (Onboarding)
+title: 'Getting Started on Qoo10 (Onboarding)'
 permalink: /digital-programmes/e-commerce-programmes/getting-started-on-qoo10
-breadcrumb: Getting Started on Qoo10 (Onboarding)
-collection_name: digital-programmes
-second_nav_title: "E-Commerce Programmes"
+breadcrumb: 'Getting Started on Qoo10 (Onboarding)'
+third_nav_title: 'E-Commerce Programmes'
+
 ---
+
 
 <img src="/images-2021/DigitalProgrammes-E-Commerce-Qoo10-Onboarding.png" style="width:100%;">
 

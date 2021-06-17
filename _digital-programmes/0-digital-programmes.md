@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
 title: Overview
 permalink: /digital-programmes
 breadcrumb: Overview
-collection_name: digital-programmes
+
 ---
+
 
 <img src="images-2021/DigitalProgrammes_Overview.png" style="width:100%;">
 

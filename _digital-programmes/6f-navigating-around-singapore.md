@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Navigating Around Singapore
+title: 'Navigating Around Singapore'
 permalink: /digital-programmes/national-silver-academy/navigating-around-singapore
-breadcrumb: Navigating Around Singapore
-collection_name: digital-programmes
-second_nav_title: National Silver Academy
+breadcrumb: 'Navigating Around Singapore'
+third_nav_title: 'National Silver Academy'
+
 ---
+
 
 <img src="images-2021/DigitalProgrammes_NSA_TechSavvy-NavigatingArdSG.png" style="width:100%;">
 

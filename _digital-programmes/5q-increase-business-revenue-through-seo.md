@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Increase Business Revenue through Search Engine Optimisation (SEO)
+title: 'Increase Business Revenue through Search Engine Optimisation (SEO)'
 permalink: /digital-programmes/masterclasses-and-workshops/increase-business-revenue-through-seo
-breadcrumb: Increase Business Revenue through Search Engine Optimisation (SEO)
-collection_name: digital-programmes
-second_nav_title: "Masterclasses & Workshops"
+breadcrumb: 'Increase Business Revenue through Search Engine Optimisation (SEO)'
+third_nav_title: 'Masterclasses & Workshops'
+
 ---
+
 
 <img src="images-2021/DigitalProgrammes-Image-Masterclass.png" style="width:100%;">
 

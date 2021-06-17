@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: BEST Denki
+title: 'BEST Denki'
 permalink: /success-and-blog/success-stories/best-denki
-breadcrumb: BEST Denki
-collection_name: success-and-blog
-second_nav_title: Success Stories
+breadcrumb: 'BEST Denki'
+third_nav_title: 'Success Stories'
+
 ---
+
 <h4>BEST Denki increased sales by 100% within 6 months</h4>
 
 <img src="images-2021/SuccessStories-BestDenki.jpg" style="width:40%;">

@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Differentiate and Drive Growth with Experience Innovation
+title: 'Differentiate and Drive Growth with Experience Innovation'
 permalink: /digital-programmes/masterclasses-and-workshops/differentiate-and-drive-growth-with-experience-innovation
-breadcrumb: Differentiate and Drive Growth with Experience Innovation
-collection_name: digital-programmes
-second_nav_title: "Masterclasses & Workshops"
+breadcrumb: 'Differentiate and Drive Growth with Experience Innovation'
+third_nav_title: 'Masterclasses & Workshops'
+
 ---
+
 <img src="images-2021/DigitalProgrammes-HImage-Workshop.png" style="width:100%;">
 
 <h4 style="text-align:center;">Next intake:</h4>

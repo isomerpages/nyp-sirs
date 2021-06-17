@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
 title: Activhealth
 permalink: /success-and-blog/success-stories/activhealth
 breadcrumb: Activhealth
-collection_name: success-and-blog
-second_nav_title: Success Stories
+third_nav_title: 'Success Stories'
+
 ---
+
 <h4>Activhealth attained clarity in crafting digital strategy</h4>
 
 <img src="/images-2021/SuccessStories-Activhealth.jpg" style="width:60%;">

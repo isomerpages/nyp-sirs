@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content 
-title: Absentee Payroll (AP)
+title: 'Absentee Payroll (AP)'
 permalink: /services/consultancy/absentee-payroll-ap
-breadcrumb: Absentee Payroll
-collection_name: services
-second_nav_title: "Consultancy"
+breadcrumb: 'Absentee Payroll'
+third_nav_title: Consultancy
+
 ---
+
 <h4>What is AP?</h4>
 <p>AP funding is a grant to help employers defray the manpower costs incurred when they send their employees for certifiable skills training.</p>
 

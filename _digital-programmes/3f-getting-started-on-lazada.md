@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Getting Started on Lazada (Onboarding)
+title: 'Getting Started on Lazada (Onboarding)'
 permalink: /digital-programmes/e-commerce-programmes/getting-started-on-lazada
-breadcrumb: Getting Started on Lazada (Onboarding)
-collection_name: digital-programmes
-second_nav_title: "E-Commerce Programmes"
+breadcrumb: 'Getting Started on Lazada (Onboarding)'
+third_nav_title: 'E-Commerce Programmes'
+
 ---
+
 
 <img src="images-2021/DigitalProgrammes-E-Commerce-Lazada-Onboard.png" style="width:100%;">
 

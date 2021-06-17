@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
 title: Overview
 permalink: /blog
 breadcrumb: Overview
-collection_name: success-and-blog
-second_nav_title: Blog
+third_nav_title: Blog
+
 ---
+
 
 <h4>Blog Archive</h4>
 
