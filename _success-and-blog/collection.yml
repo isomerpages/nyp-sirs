@@ -1,0 +1,31 @@
+collections:
+  success-and-blog:
+    output: true
+    order:
+      - blog/.keep
+      - blog/overview.md
+      - blog/your-retail-career-pathway.md
+      - blog/understanding-the-top-3-consumer-categories-for-e-commerce-in-china.md
+      - blog/3-methods-to-enter-the-chinese-market.md
+      - blog/5-trends-shaping-the-chinese-consumer-demand.md
+      - blog/walking-into-digital-transformation-the-journey-of-brands.md
+      - blog/the-consumer-journey-what-is-it-and-why-is-it-important-to-me.md
+      - blog/an-immersive-new-retail-experience-with-alibaba-ceo-programme.md
+      - blog/digital-economy-5-0-breaking-down-geographical-borders.md
+      - blog/enhancing-learning-through-immersive-china-study-tours.md
+      - blog/how-to-s-hook-your-customers-through-live-streaming.md
+      - blog/endless-opportunities-online-how-to-make-money-from-shopping.md
+      - success-stories/.keep
+      - success-stories/overview.md
+      - success-stories/activhealth.md
+      - success-stories/best-denki.md
+      - success-stories/bhg-singapore.md
+      - success-stories/d-elegance.md
+      - success-stories/fruit-paradise.md
+      - success-stories/fullhouse-home-furnishings.md
+      - success-stories/greenenlight.md
+      - success-stories/merlin-goldsmith.md
+      - success-stories/mighty-velo.md
+      - success-stories/unidbox-hardware.md
+      - success-stories/vincitore-shoes.md
+      - success-stories/yes-natural.md

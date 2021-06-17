@@ -1,0 +1,31 @@
+collections:
+  services:
+    output: true
+    order:
+      - career-services/.keep
+      - career-services/career-services-overview.md
+      - career-services/professional-conversion-programme-pcp-overview.md
+      - career-services/pcp-new-media-professional.md
+      - career-services/pcp-digital-professional.md
+      - career-services/pcp-retail-professional.md
+      - career-services/skillsfuture-work-study-programme.md
+      - career-services/redeployment-pcp.md
+      - career-services/skillsfuture-work-study-certificate-bootcamp-in-digital-marketing-branding.md
+      - career-services/sgunited-skills-sgus-programme-overview.md
+      - career-services/sgus-manage-retail-enterprise-in-the-digital-age.md
+      - career-services/sgus-digital-leadership-skills-to-excel-in-the-future-of-retail-business.md
+      - consultancy/.keep
+      - consultancy/overview.md
+      - consultancy/99-sme-campaign.md
+      - consultancy/absentee-payroll-ap.md
+      - consultancy/enhanced-training-support-for-smes-etss.md
+      - consultancy/enhanced-training-support-package-etsp-enhanced-absentee-payroll-covid-19.md
+      - consultancy/enterprise-development-grant-edg.md
+      - consultancy/workfare-skills-support-wss-scheme-for-companies.md
+      - consultancy/skillsfuture-credit-sfc.md
+      - consultancy/skillsfuture-mid-career-enhanced-subsidy-mces.md
+      - consultancy/skillsfuture-qualification-award.md
+      - consultancy/skillsfuture-study-awards.md
+      - consultancy/union-training-assistance-programme-utap.md
+      - consultancy/workfare-skills-support-wss-scheme-for-individuals.md
+      - education-and-training.md
