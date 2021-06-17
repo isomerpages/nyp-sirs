@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: SGUS Manage Retail & Enterprise in the Digital Age
+title: 'SGUS Manage Retail & Enterprise in the Digital Age'
 permalink: /services/sgus-programme/manage-retail-and-enterprise-in-the-digital-age
-breadcrumb: SGUS Manage Retail & Enterprise in the Digital Age
-collection_name: services
-second_nav_title: "Career Services"
+breadcrumb: 'SGUS Manage Retail & Enterprise in the Digital Age'
+third_nav_title: 'Career Services'
+
 ---
+
 <img src="images-2021/Services_SGUS_Overview.png" style="width:100%;">
 
 <h4 style="text-align:center;">Next intake:</h4>
