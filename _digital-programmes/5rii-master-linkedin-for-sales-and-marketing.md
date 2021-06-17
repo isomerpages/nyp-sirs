@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Master LinkedIn for Sales & Marketing
+title: 'Master LinkedIn for Sales & Marketing'
 permalink: /digital-programmes/masterclasses-and-workshops/master-linkedin-for-sales-and-marketing
-breadcrumb: Master LinkedIn for Sales & Marketing
-collection_name: digital-programmes
-second_nav_title: "Masterclasses & Workshops"
+breadcrumb: 'Master LinkedIn for Sales & Marketing'
+third_nav_title: 'Masterclasses & Workshops'
+
 ---
+
 
 <img src="images-2021/DigitalProgrammes-Image-Masterclass.png" style="width:100%;">
 
