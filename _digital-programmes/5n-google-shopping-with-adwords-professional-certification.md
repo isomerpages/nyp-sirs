@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Google Shopping with AdWords Certified Professional Course
+title: 'Google Shopping with AdWords Certified Professional Course'
 permalink: /digital-programmes/masterclasses-and-workshops/google-shopping-with-adwords-professional-certification
-breadcrumb: Google Shopping with AdWords Certified Professional Course
-collection_name: digital-programmes
-second_nav_title: "Masterclasses & Workshops"
+breadcrumb: 'Google Shopping with AdWords Certified Professional Course'
+third_nav_title: 'Masterclasses & Workshops'
+
 ---
+
 <img src="/images-2021/DigitalProgrammes-Image-Masterclass.png" style="width:100%;">
 
 <h4 style="text-align:center;">Next intake:</h4>
