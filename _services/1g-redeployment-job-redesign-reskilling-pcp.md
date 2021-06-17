@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Redeployment PCP
+title: 'Redeployment PCP'
 permalink: /digital-programmes/redeployment-job-redesign-reskilling-pcp
-breadcrumb: Redeployment PCP
-collection_name: services
-second_nav_title: "Career Services"
+breadcrumb: 'Redeployment PCP'
+third_nav_title: 'Career Services'
+
 ---
+
 <img src="/images-2021/Services_Career Services_Job Redeployment PCP.jpg" style="width:100%;">
 
 <p>The Redeployment PCP for the retail industry aims to reskill at-risk employees into new roles arising from the on-going 
