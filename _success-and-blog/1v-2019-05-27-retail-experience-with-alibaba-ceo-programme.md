@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title:  An Immersive New Retail Experience with Alibaba CEO Programme
+title: 'An Immersive New Retail Experience with Alibaba CEO Programme'
 permalink: /success-and-blog/blog/retail-experience-with-alibaba-ceo-programme
-breadcrumb: An Immersive New Retail Experience with Alibaba CEO Programme
-collection_name: success-and-blog
-second_nav_title: Blog
+breadcrumb: 'An Immersive New Retail Experience with Alibaba CEO Programme'
+third_nav_title: Blog
+
 ---
+
 Date:   27-05-2019
 
 <p>The Alibaba CEO Programme is a 6-day 5-night immersive study trip, organised in partnership with Alibaba. Held in Hangzhou, home to Alibaba, the recently concluded trip 
