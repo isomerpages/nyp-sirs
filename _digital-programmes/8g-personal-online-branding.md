@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Personal Online Branding
+title: 'Personal Online Branding'
 permalink: /digital-programmes/skillsfuture-series/personal-online-branding
-breadcrumb: Personal Online Branding
-collection_name: digital-programmes
-second_nav_title: "SkillsFuture Series"
+breadcrumb: 'Personal Online Branding'
+third_nav_title: 'SkillsFuture Series'
+
 ---
+
 
 <img src="images/sf-series-banner.png" style="width:100%;">
 
