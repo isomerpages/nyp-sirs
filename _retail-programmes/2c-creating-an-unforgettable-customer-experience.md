@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Creating an Unforgettable Customer Experience
+title: 'Creating an Unforgettable Customer Experience'
 permalink: /wsq-programmes/wsq-modular-programmes/creating-an-unforgettable-customer-experience
-breadcrumb: Creating an Unforgettable Customer Experience
-collection_name: retail-programmes
-second_nav_title: "WSQ Certified Modular Programmes"
+breadcrumb: 'Creating an Unforgettable Customer Experience'
+third_nav_title: 'WSQ Certified Modular Programmes'
+
 ---
+
 <img src="/images-2021/WSQ Modular_CX.png" style="width:100%;">
 
 
