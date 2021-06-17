@@ -1,5 +1,5 @@
 collections:
-  retail-programmes:
+  wsq-programmes:
     output: true
     order:
       - overview.md
