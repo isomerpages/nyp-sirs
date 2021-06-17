@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Merlin Goldsmith
+title: 'Merlin Goldsmith'
 permalink: /success-and-blog/success-stories/merlin-goldsmith
-breadcrumb: Merlin Goldsmith
-collection_name: success-and-blog
-second_nav_title: Success Stories
+breadcrumb: 'Merlin Goldsmith'
+third_nav_title: 'Success Stories'
+
 ---
+
 <h4>Merlin Goldsmith Improved Customer Engagement and Sales through Live Streaming</h4>
 
 <center><iframe src="https://player.vimeo.com/video/549193265?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="640" height="340" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="SIRSxVINCiTORE Shoes.mp4"></iframe></center>
