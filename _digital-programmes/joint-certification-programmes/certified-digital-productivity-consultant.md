@@ -74,7 +74,7 @@ The CDPC programme will equip the consultant with literacy and skills in:
 <small><i><sup>1</sup>Fee is under the <a href="/services/consultancy/etss">Enhanced Training Support for SMEs (ETSS)</a><br>
     Fees include prevailing GST</i></small>
 
-<p>For SkillsFuture course reference, please click <a href="/documents-2021/SIRS-SkillsFuture-CourseRefNumber.pdf">here.</a></p>
+<p>For SkillsFuture course reference, please click <a href="/files/documents-2021/SIRS-SkillsFuture-CourseRefNumber.pdf">here.</a></p>
 
 <p>For more information about funding and support, click <a href="/services/consultancy">here.</a></p>
 
