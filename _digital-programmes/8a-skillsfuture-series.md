@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
 title: Overview
 permalink: /digital-programmes/skillsfuture-series
 breadcrumb: Overview
-collection_name: digital-programmes
-second_nav_title: "SkillsFuture Series"
+third_nav_title: 'SkillsFuture Series'
+
 ---
+
 
 <img src="images-2021/DigitalProgrammes-Image-SFS-Overview.jpg" style="width:100%;">
 
