@@ -1,12 +1,24 @@
 logo: /images/sirs-logo.png
 links:
-    - title: 'About Us'
-      collection: about-us
-    - title: Services
-      collection: services
-    - title: 'WSQ Programmes'
-      collection: wsq-programmes
-    - title: 'Digital Programmes'
-      collection: digital-programmes
-    - title: 'Success Stories & Blog'
-      collection: success-stories-blog
+  - title: About Us
+    false_collection: true
+    url: /about-us/
+    sublinks:
+      - title: Who We Are
+        url: /about-us
+      - title: Our Facilities
+        url: /our-facilities
+      - title: Strategic Partners
+        url: /about-us/our-partners
+      - title: Contact Us
+        url: /contact-us
+      - title: Mailing List
+        url: /subscribe
+  - title: Services
+    collection: services
+  - title: Services
+    collection: retail-programmes
+  - title: 'Digital Programmes'
+    collection: digital-programmes
+  - title: 'Success Stories & Blog'
+    collection: success-and-blog
