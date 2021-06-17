@@ -1,69 +1,12 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-- title: About Us
-  url: /about-us/
-  sub-links:
-  - title: Who We Are
-    url: /about-us
-  - title: Our Facilities
-    url: /our-facilities
-  - title: Strategic Partners
-    url: /about-us/our-partners
-  - title: Contact Us
-    url: /contact-us
-  - title: Mailing List
-    url: /subscribe
-    
-- title: Services
-  url: /services/career-services
-  sub-links:
-  - title: Career Services
-    url: /services/career-services
-  - title: Consultancy
-    url: /services/consultancy
-  - title: Education & Training
-    url: /services/education-and-training
-
-- title: WSQ Programmes
-  url: /wsq-programmes/
-  sub-links:
-  - title: WSQ Full Qualification Programmes
-    url: /wsq-programmes/wsq-full-qualification-programmes/
-  - title: WSQ Certified Modular Programmes
-    url: /wsq-programmes/wsq-modular-programmes/
-    
-
-- title: Digital Programmes
-  url: /digital-programmes/
-  sub-links:
-  - title: Alibaba Business School
-    url: /digital-programmes/alibaba-business-school
-  - title: Digital Mentorship Programme (DMP)
-    url: /digital-programmes/digital-mentorship-programme
-  - title: E-Commerce Programmes
-    url: /digital-programmes/e-commerce-programmes
-  - title: Joint Certification Programmes
-    url: /digital-programmes/certified-digital-productivity-consultant
-  - title: Masterclasses & Workshops
-    url: /digital-programmes/masterclasses-and-workshops
-  - title: National Silver Academy
-    url: /digital-programmes/national-silver-academy
-  - title: SkillsFuture for Digital Workplace (SFDW)
-    url: /digital-programmes/skillsfuture-digital-workplace
-  - title: SkillsFuture Series
-    url: /digital-programmes/skillsfuture-series
-  - title: Study Trips
-    url: /digital-programmes/study-trips
-
- 
-- title: Success Stories & Blog
-  url: /success-and-blog/success-stories
-  sub-links:
-  - title: Blog
-    url: /blog
-  - title: Success Stories
-    url: /success-and-blog/success-stories
+logo: /images/sirs-logo.png
+links:
+    - title: 'About Us'
+      collection: about-us
+    - title: Services
+      collection: services
+    - title: 'WSQ Programmes'
+      collection: wsq-programmes
+    - title: 'Digital Programmes'
+      collection: digital-programmes
+    - title: 'Success Stories & Blog'
+      collection: success-stories-blog
