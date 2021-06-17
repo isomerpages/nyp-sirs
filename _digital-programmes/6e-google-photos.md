@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Google Photos
+title: 'Google Photos'
 permalink: /digital-programmes/national-silver-academy/google-photos
-breadcrumb: Google Photos
-collection_name: digital-programmes
-second_nav_title: National Silver Academy
+breadcrumb: 'Google Photos'
+third_nav_title: 'National Silver Academy'
+
 ---
+
 
 <img src="images-2021/DigitalProgrammes_NSA_TechSavvy-GooglePhotos.png" style="width:100%;">
 
