@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Alibaba Global Course series (AGCs)
+title: 'Alibaba Global Course series (AGCs)'
 permalink: /digital-programmes/alibaba-business-school/alibaba-global-course-series
-breadcrumb: Alibaba Global Course series
-collection_name: digital-programmes
-second_nav_title: "Alibaba Business School"
+breadcrumb: 'Alibaba Global Course series'
+third_nav_title: 'Alibaba Business School'
+
 ---
+
 <img src="images-2021/AGCS_IB_Header.png" style="width:100%;">
 
 <center><a href="https://gems.gevme.com/2021-alibaba-global-series" style="background-color:#eb540d; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">REGISTER NOW!</a></center>
