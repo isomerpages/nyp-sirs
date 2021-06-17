@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Introduction to Data Analytics
+title: 'Introduction to Data Analytics'
 permalink: /digital-programmes/skillsfuture-series/introduction-to-data-analytics
-breadcrumb: Introduction to Data Analytics
-collection_name: digital-programmes
-second_nav_title: "SkillsFuture Series"
+breadcrumb: 'Introduction to Data Analytics'
+third_nav_title: 'SkillsFuture Series'
+
 ---
+
 
 <img src="images/sf-series-banner.png" style="width:100%;">
 
