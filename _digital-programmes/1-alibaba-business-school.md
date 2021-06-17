@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
 title: Overview
 permalink: /digital-programmes/alibaba-business-school
 breadcrumb: Overview
-collection_name: digital-programmes
-second_nav_title: "Alibaba Business School"
+third_nav_title: 'Alibaba Business School'
+
 ---
+
 
 <img src="images/agcs-abs-sirs-atu-combined-logos.png" style="width:100%:">
 
