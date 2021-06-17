@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: SkillsFuture Work-Study Programme
+title: 'SkillsFuture Work-Study Programme'
 permalink: /services/career-services/skillsfuture-work-study-programmes
-breadcrumb: SkillsFuture Work-Study Programme
-collection_name: services
-second_nav_title: "Career Services"
+breadcrumb: 'SkillsFuture Work-Study Programme'
+third_nav_title: 'Career Services'
+
 ---
+
 
 <img src="/images-2021/Services_CareerServices_SkillsFuture Work-Study Programme.png" style="width:100%;">
 
