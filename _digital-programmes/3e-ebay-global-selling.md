@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: eBay Global Selling (Onboarding)
+title: 'eBay Global Selling (Onboarding)'
 permalink: /digital-programmes/e-commerce-programmes/ebay-global-selling
-breadcrumb: eBay Global Selling (Onboarding)
-collection_name: digital-programmes
-second_nav_title: "E-Commerce Programmes"
+breadcrumb: 'eBay Global Selling (Onboarding)'
+third_nav_title: 'E-Commerce Programmes'
+
 ---
+
 
 <img src="images-2021/DigitalProgrammes-E-Commerce-eBay.png" style="width:100%;">
 
