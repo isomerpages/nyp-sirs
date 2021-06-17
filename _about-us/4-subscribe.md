@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Mailing List
+title: 'Mailing List'
 permalink: /subscribe
-breadcrumb: Mailing List
-collection_name: about-us
+breadcrumb: 'Mailing List'
+
 ---
+
 
 <img src="/images-2021/About-MailingList-Amended.jpg" style="width:100%;">
 
