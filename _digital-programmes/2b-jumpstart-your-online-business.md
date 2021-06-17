@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Jumpstart Your Online Business
+title: 'Jumpstart Your Online Business'
 permalink: /digital-programmes/digital-mentorship-programme/jumpstart-your-online-business
-breadcrumb: Jumpstart Your Online Business
-collection_name: digital-programmes
-second_nav_title: "Digital Mentorship Programme (DMP)"
+breadcrumb: 'Jumpstart Your Online Business'
+third_nav_title: 'Digital Mentorship Programme (DMP)'
+
 ---
+
 
 <img src="images-2021/DigitalProgrammes-DMP-Jumpstart.png" style="width:100%;">
 
