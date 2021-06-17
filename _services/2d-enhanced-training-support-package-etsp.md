@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Enhanced Training Support Package (ETSP) & Enhanced Absentee Payroll (COVID-19)
+title: 'Enhanced Training Support Package (ETSP) & Enhanced Absentee Payroll (COVID-19)'
 permalink: /services/consultancy/enhanced-training-support-package-etsp
-breadcrumb: Enhanced Training Support Package (ETSP)
-collection_name: services
-second_nav_title: Consultancy
+breadcrumb: 'Enhanced Training Support Package (ETSP)'
+third_nav_title: Consultancy
+
 ---
+
 
 <h4>What is Enhanced Training Support Package (ETSP)</h4>
 <p>The Enhanced Training Support Package (ETSP) is part of the Stabilisation and Support Package and supplementary Resilience Budget to help companies mitigate the economic turbulence caused by the COVID-19 pandemic. As businesses change its modus operandi during this period, employers are encouraged to set up for recovery and develop market competitiveness in the long run by upskilling their workforce.</p>
