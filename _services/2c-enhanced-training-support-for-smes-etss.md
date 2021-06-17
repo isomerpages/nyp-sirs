@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content 
-title: Enhanced Training Support for SMEs (ETSS)
+title: 'Enhanced Training Support for SMEs (ETSS)'
 permalink: /services/consultancy/etss
-breadcrumb: Enhanced Training Support for SMEs
-collection_name: services
-second_nav_title: "Consultancy"
+breadcrumb: 'Enhanced Training Support for SMEs'
+third_nav_title: Consultancy
+
 ---
+
 <b>Enterprises may now apply for the <a href="/services/consultancy/enhanced-training-support-package-etsp">Enhanced Training Support Package (ETSP)</a> for added support for sectors which were directly and severely affected by the COVID-19 pandemic.</b>
 
 <h4>What is Enhanced Training Support For SMEs (ETSS)?</h4>
