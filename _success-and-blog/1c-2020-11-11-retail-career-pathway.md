@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title:  Your Retail Career Pathway
+title: 'Your Retail Career Pathway'
 permalink: /success-and-blog/blog/your-retail-career-pathway
-breadcrumb: Your Retail Career Pathway
-collection_name: success-and-blog
-second_nav_title: Blog
+breadcrumb: 'Your Retail Career Pathway'
+third_nav_title: Blog
+
 ---
+
 Date:   11-11-2020
 
 <h4>Your Retail Career Pathway</h4>
