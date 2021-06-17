@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Unleash the Power of Social Media Marketing
+title: 'Unleash the Power of Social Media Marketing'
 permalink: /wsq-programmes/wsq-modular-programmes/unleash-the-power-of-social-media-marketing
-breadcrumb: Unleash the Power of Social Media Marketing
-collection_name: retail-programmes
-second_nav_title: "WSQ Certified Modular Programmes"
+breadcrumb: 'Unleash the Power of Social Media Marketing'
+third_nav_title: 'WSQ Certified Modular Programmes'
+
 ---
+
 <img src="/images-2021/WSQ Modular_SMM.png" style="width:100%;">
 
 <h4 style="text-align:center;">Next intake:</h4>
