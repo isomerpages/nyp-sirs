@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title:  Walking into Digital Transformation - The Journey of Brands
+title: 'Walking into Digital Transformation - The Journey of Brands'
 permalink: /success-and-blog/blog/the-journey-of-brands
-breadcrumb: Walking into Digital Transformation - The Journey of Brands
-collection_name: success-and-blog
-second_nav_title: Blog
+breadcrumb: 'Walking into Digital Transformation - The Journey of Brands'
+third_nav_title: Blog
+
 ---
+
 Date:   12-06-2019
 <img src="/images-2021/Blog_2019_TheJourneyOfBrands.jpg" style="width:80%;max-width:1000px;">
 
