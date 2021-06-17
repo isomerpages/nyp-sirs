@@ -7,7 +7,7 @@ third_nav_title: 'Digital Mentorship Programme (DMP)'
 ---
 
 
-<img src="images-2021/DigitalProgrammes-DMP-Overview.jpg" style="width:100%;">
+<img src="/images/images-2021/DigitalProgrammes-DMP-Overview.jpg" style="width:100%;">
 
 <p>While most small and medium-sized enterprises (SMEs) are keenly aware of the need to go online, many lack the expertise to do so. Even after attending training, some SME retailers are unable to put their learning into practical actions or create sustainable work plans to achieve their business objectives.</p>
 

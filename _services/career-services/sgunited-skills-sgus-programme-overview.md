@@ -7,7 +7,7 @@ third_nav_title: 'Career Services'
 ---
 
 
-<img src="images-2021/Services-CareerServices-SGUS-Overview.png" style="width:100%;">
+<img src="/images/images-2021/Services-CareerServices-SGUS-Overview.png" style="width:100%;">
 
 <p>The SGUS Programme, administered by the Singapore Institute of Retail Studies (SIRS), is a six-month full-time training programme designed to help Singapore Citizens and Singapore Permanent Residents (PRs) upskill and reskill with industry-relevant skills and knowledge. The programme aims to boost their employability, and help them take on new or enhanced job roles in retail and new sectors as the economy recovers. The programme operates on a Train-and-Place model, where trainees receive career advisory, guidance and employment placement assistance from SIRS at no cost.</p>
 

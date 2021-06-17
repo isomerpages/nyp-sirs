@@ -6,7 +6,7 @@ breadcrumb: 'SkillsFuture for Digital Workplace (SFDW)'
 ---
 
 
-<img src="images-2021/DigitalProgrammes-SFDW.png" style="width:100%;">
+<img src="/images/images-2021/DigitalProgrammes-SFDW.png" style="width:100%;">
 
 <h4 style="text-align:center;">Next intake:</h4>
 

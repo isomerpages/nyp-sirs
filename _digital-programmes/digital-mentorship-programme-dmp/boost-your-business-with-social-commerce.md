@@ -7,7 +7,7 @@ third_nav_title: 'Digital Mentorship Programme (DMP)'
 ---
 
 
-<img src="images-2021/DigitalProgrammes-DMP-SocialCommerce.png" style="width:100%;">
+<img src="/images/images-2021/DigitalProgrammes-DMP-SocialCommerce.png" style="width:100%;">
 
 <p>Social media platforms such as Facebook and Instagram are permanent companions for most Singaporeans these days as we see 76%* of our population being active users. 
 It is a force to be reckoned with and retailers have recognised that and tapping on the potential it brings to their businesses.</p>

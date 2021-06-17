@@ -7,7 +7,7 @@ third_nav_title: 'Digital Mentorship Programme (DMP)'
 ---
 
 
-<img src="images-2021/DigitalProgrammes-DMP-Jumpstart.png" style="width:100%;">
+<img src="/images/images-2021/DigitalProgrammes-DMP-Jumpstart.png" style="width:100%;">
 
 <p>Setting up an online store has become an increasingly popular way of reaching out to more customers as part of digitalisation effort by businesses. Just like 
 traditional retail, you need a sound strategy to create your online presence and stand out among the competition.</p>

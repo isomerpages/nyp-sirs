@@ -6,7 +6,7 @@ third_nav_title: 'Alibaba Business School'
 
 ---
 
-<img src="images-2021/AGCS_IB_Header.png" style="width:100%;">
+<img src="/images/images-2021/AGCS_IB_Header.png" style="width:100%;">
 
 <center><a href="https://gems.gevme.com/2021-alibaba-global-series" style="background-color:#eb540d; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">REGISTER NOW!</a></center>
 
@@ -16,7 +16,7 @@ third_nav_title: 'Alibaba Business School'
 
 <h4>Alibaba's Top Practitioners and Speakers《智慧商业》专业讲师团队</h4>
 
-<img src="images-2021/AGCS_IB_Speakers.png" style="width:100%;">
+<img src="/images/images-2021/AGCS_IB_Speakers.png" style="width:100%;">
 
 <h4>Outline 大纲</h4>
 

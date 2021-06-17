@@ -34,6 +34,6 @@ breadcrumb: Overview
   
 <center><a href="https://form.gov.sg/602f27830951350012530bee" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center>
 
-<img src="images-2021/Logo-WSQ.jpg" style="width:40%;">
+<img src="/images/images-2021/Logo-WSQ.jpg" style="width:40%;">
 
 <p>The Singapore Workforce Skills Qualification (WSQ) is a national credential system that trains, develops, assesses, and certifies skills and competencies for the Singapore workforce. WSQ offers bite-sized training modules, at the end of which, a Statement of Attainment (SOA) is awarded. Trainees can also accumulate relevant SOAs to achieve WSQ full qualification.</p>

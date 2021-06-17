@@ -6,7 +6,7 @@ third_nav_title: 'Career Services'
 
 ---
 
-<img src="images-2021/Services_SGUS_Overview.png" style="width:100%;">
+<img src="/images/images-2021/Services_SGUS_Overview.png" style="width:100%;">
 
 <h4 style="text-align:center;">Next intake:</h4>
 

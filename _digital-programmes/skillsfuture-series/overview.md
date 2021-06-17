@@ -7,7 +7,7 @@ third_nav_title: 'SkillsFuture Series'
 ---
 
 
-<img src="images-2021/DigitalProgrammes-Image-SFS-Overview.jpg" style="width:100%;">
+<img src="/images/images-2021/DigitalProgrammes-Image-SFS-Overview.jpg" style="width:100%;">
 
 <p>The SkillsFuture Series is a curated list of short, industry-relevant training programmes that focus on emerging skillsets. Targeted at Singaporeans who are keen to either gain a basic understanding or deepen their skills, SIRS’ SkillsFuture Series comprises the following bite-sized courses to provide adult learners with skill proficiency and enable them to stay relevant and competitive in the retail sector.</p>
 

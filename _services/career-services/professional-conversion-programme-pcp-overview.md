@@ -16,7 +16,7 @@ third_nav_title: 'Career Services'
 
 <h4>PCP - New Media Professional (PCP - NMP)</h4>
 
-<img src="images-2021/Services-CareerServices-PCP-NMP.jpg" style="width:100%:">
+<img src="/images/images-2021/Services-CareerServices-PCP-NMP.jpg" style="width:100%:">
 
 <p>Live broadcast is gaining traction as it becomes a popular and effective way to engage customers. To support employers in keeping abreast of the new trend, and in developing their media communication for digital commerce, the new PCP track aims to train new media enthusiasts as professionals. With relevant skills, such as storytelling and video production, employers can better engage their fan communities in their marketing and promotional campaigns.</p>
 
@@ -34,7 +34,7 @@ third_nav_title: 'Career Services'
 
 <h4>PCP - Digital Professional (PCP - DP)</h4>
 
-<img src="images-2021/Services-CareerServices-PCP-DP.jpg" style="width:100%:">
+<img src="/images/images-2021/Services-CareerServices-PCP-DP.jpg" style="width:100%:">
 
 <p>PMET mid-career switchers will be reskilled with the necessary competencies to move into new job roles in retail such as Online Business or E-commerce Business Development. They will assist retailers in digitalising their businesses, and provide seamless O2O integration.</p>
 
@@ -52,7 +52,7 @@ third_nav_title: 'Career Services'
 
 <h4>PCP - Retail Professional (PCP - RP)</h4>
 
-<img src="images-2021/Services-CareerServices-PCP-RP.jpg" style="width:100%:">
+<img src="/images/images-2021/Services-CareerServices-PCP-RP.jpg" style="width:100%:">
 
 <p>PMET mid-career switchers will undergo skills conversion to embark on retail careers such as Operations, Customer Service or Supply Chain. They will assist retailers in meeting growing consumer expectations and delivering memorable customer journeys.</p>
 

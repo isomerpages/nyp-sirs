@@ -6,7 +6,7 @@ breadcrumb: Overview
 ---
 
 
-<img src="images-2021/DigitalProgrammes_Overview.png" style="width:100%;">
+<img src="/images/images-2021/DigitalProgrammes_Overview.png" style="width:100%;">
 
 <p>Digital technology is a game-changer. The introduction of innovative retail technologies has created new shopping methods, be it through websites, mobile applications, e-marketplaces, social media platforms or even live streaming. This evolution of the retail landscape has caused a shift in consumer behaviour and expectations, giving rise to new strategies needed for retailers to remain relevant and thrive in competition.</p>
 

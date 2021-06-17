@@ -7,7 +7,7 @@ third_nav_title: 'Career Services'
 ---
 
 
-<img src="images-2021/Services-CareerServices-PCP-NMP.jpg" style="width:100%;">
+<img src="/images/images-2021/Services-CareerServices-PCP-NMP.jpg" style="width:100%;">
 
 The latest track of PCP offered by SIRS, the PCP - New Media Professional (PCP - NMP), trains PMETs and mid-career switchers in New Media marketing, 
 specifically in the areas of video content marketing, and livestreaming.
