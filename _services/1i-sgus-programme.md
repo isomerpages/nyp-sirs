@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: SGUnited Skills (SGUS) Programme Overview
+title: 'SGUnited Skills (SGUS) Programme Overview'
 permalink: /services/career-services/sgus-programme
-breadcrumb: SGUnited Skills Programme
-collection_name: services
-second_nav_title: "Career Services"
+breadcrumb: 'SGUnited Skills Programme'
+third_nav_title: 'Career Services'
+
 ---
+
 
 <img src="images-2021/Services-CareerServices-SGUS-Overview.png" style="width:100%;">
 
