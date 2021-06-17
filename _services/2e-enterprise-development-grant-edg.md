@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content 
-title: Enterprise Development Grant (EDG)
+title: 'Enterprise Development Grant (EDG)'
 permalink: /services/consultancy/edg
-breadcrumb: Enterprise Development Grant
-collection_name: services
-second_nav_title: "Consultancy"
+breadcrumb: 'Enterprise Development Grant'
+third_nav_title: Consultancy
+
 ---
+
 
 <h4>What is the Enterprise Development Grant (EDG)?</h4>
 <p>The EDG helps Singapore companies grow and transform. This grant supports projects that help you upgrade your business, innovate or venture overseas, under three pillars: Core Capabilities, Innovation and Productivity, and Market Access. For more information, click <a href="https://www.enterprisesg.gov.sg/financial-assistance/grants/for-local-companies/enterprise-development-grant/overview">here.</a></p>
