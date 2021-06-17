@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
 title: Greenenlight
 permalink: /success-and-blog/success-stories/greenenlight
 breadcrumb: Greenenlight
-collection_name: success-and-blog
-second_nav_title: Success Stories
+third_nav_title: 'Success Stories'
+
 ---
+
 <h4>An e-Commerce business owner’s journey to become one of the top sellers on Lazada</h4>
 
 <img src="/images-2021/SuccessStories-MrKwan.jpg" style="width:70%;">
