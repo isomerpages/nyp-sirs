@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Education and Training
+title: 'Education and Training'
 permalink: /services/education-and-training
-breadcrumb: Education and Training
-collection_name: services
+breadcrumb: 'Education and Training'
+
 ---
+
 
 <h4>Education</h4>
 
