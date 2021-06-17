@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Fruit Paradise
+title: 'Fruit Paradise'
 permalink: /success-and-blog/success-stories/fruit-paradise
-breadcrumb: Fruit Paradise
-collection_name: success-and-blog
-second_nav_title: Success Stories
+breadcrumb: 'Fruit Paradise'
+third_nav_title: 'Success Stories'
+
 ---
+
 <h4>Fruit Paradise applied lessons learnt from e-Commerce courses to its business during the pandemic</h4>
 
 <img src="/images-2021/SuccessStories-FruitsParadise.png" style="width:80%;">
