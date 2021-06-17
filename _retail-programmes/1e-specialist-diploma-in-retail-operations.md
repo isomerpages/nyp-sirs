@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Specialist Diploma in Retail (Operations)
+title: 'Specialist Diploma in Retail (Operations)'
 permalink: /wsq-programmes/wsq-full-qualification-programmes/specialist-diploma-in-retail-operations
-breadcrumb: Specialist Diploma in Retail (Operations)
-collection_name: retail-programmes
-second_nav_title: "WSQ Full Qualification Programmes"
+breadcrumb: 'Specialist Diploma in Retail (Operations)'
+third_nav_title: 'WSQ Full Qualification Programmes'
+
 ---
+
 
 <img src="/images-2021/WSQ_FullQual_SDRO.png" style="width:100%;">
 
