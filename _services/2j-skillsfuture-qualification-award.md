@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content 
-title: Skillsfuture Qualification Award
+title: 'Skillsfuture Qualification Award'
 permalink: /services/consultancy/skillsfuture-qualification-award
-breadcrumb: Skillsfuture Qualification Award
-collection_name: services
-second_nav_title: "Consultancy"
+breadcrumb: 'Skillsfuture Qualification Award'
+third_nav_title: Consultancy
+
 ---
+
 
 <h4>What is the SkillsFuture Qualification Award?</h4>
 <p>Formerly known as the CET Qualification Award (CQA), this award encourages workers to attain WSQ full qualifications, which equip them with comprehensive 
