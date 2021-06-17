@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
 title: Facebook
 permalink: /digital-programmes/national-silver-academy/facebook
 breadcrumb: Facebook
-collection_name: digital-programmes
-second_nav_title: National Silver Academy
+third_nav_title: 'National Silver Academy'
+
 ---
+
 
 <img src="images-2021/DigitalProgrammes_NSA_TechSavvy-Facebook.png" style="width:100%;">
 
