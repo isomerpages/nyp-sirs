@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Advanced Certificate in Retail (Operations)
+title: 'Advanced Certificate in Retail (Operations)'
 permalink: /wsq-programmes/wsq-full-qualification-programmes/advanced-certificate-in-retail-operations
-breadcrumb: Advanced Certificate in Retail (Operations)
-collection_name: retail-programmes
-second_nav_title: "WSQ Full Qualification Programmes"
+breadcrumb: 'Advanced Certificate in Retail (Operations)'
+third_nav_title: 'WSQ Full Qualification Programmes'
+
 ---
+
 <img src="/images-2021/WSQ_FullQual_ACRO.png" style="width:100%;">
 
 <h4 style="text-align:center;">Next intake:</h4>
