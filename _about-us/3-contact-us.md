@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Contact Us
+title: 'Contact Us'
 permalink: /contact-us
-breadcrumb: Contact SIRS
-collection_name: about-us
+breadcrumb: 'Contact SIRS'
+
 ---
+
 
 <img src="images-2021/About-ContactUs.png" style="width:100%;">
 
