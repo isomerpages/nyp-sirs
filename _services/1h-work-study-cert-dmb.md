@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: SkillsFuture Work-Study Certificate (Bootcamp in Digital Marketing & Branding)
+title: 'SkillsFuture Work-Study Certificate (Bootcamp in Digital Marketing & Branding)'
 permalink: /services/career-services/work-study-cert-dmb
-breadcrumb: SkillsFuture Work-Study Certificate (Bootcamp in Digital Marketing & Branding)
-collection_name: services
-second_nav_title: "Career Services"
+breadcrumb: 'SkillsFuture Work-Study Certificate (Bootcamp in Digital Marketing & Branding)'
+third_nav_title: 'Career Services'
+
 ---
+
 
 <img src="images-2021/CareerServices-Bootcamp.png" style="width:100%;">
 
