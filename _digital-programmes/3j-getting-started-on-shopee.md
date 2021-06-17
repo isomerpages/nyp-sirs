@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Getting Started on Shopee (Onboarding)
+title: 'Getting Started on Shopee (Onboarding)'
 permalink: /digital-programmes/e-commerce-programmes/getting-started-on-shopee
-breadcrumb: Getting Started on Shopee (Onboarding)
-collection_name: digital-programmes
-second_nav_title: "E-Commerce Programmes"
+breadcrumb: 'Getting Started on Shopee (Onboarding)'
+third_nav_title: 'E-Commerce Programmes'
+
 ---
+
 
 <img src="/images-2021/DigitalProgrammes-E-Commerce-Shopee-Onboarding.PNG" style="width:100%;">
 
