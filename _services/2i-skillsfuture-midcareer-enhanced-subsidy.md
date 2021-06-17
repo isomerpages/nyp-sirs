@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content 
-title: SkillsFuture Mid-career Enhanced Subsidy (MCES)
+title: 'SkillsFuture Mid-career Enhanced Subsidy (MCES)'
 permalink: /services/consultancy/skillsfuture-midcareer-enhanced-subsidy
-breadcrumb: SkillsFuture Mid-career Enhanced Subsidy
-collection_name: services
-second_nav_title: "Consultancy"
+breadcrumb: 'SkillsFuture Mid-career Enhanced Subsidy'
+third_nav_title: Consultancy
+
 ---
+
 
 <h4>What is SkillsFuture Mid-Career Enhanced Subsidy (MCES)?</h4>
 
