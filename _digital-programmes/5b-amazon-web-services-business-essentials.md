@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Amazon Web Services Business Essentials
+title: 'Amazon Web Services Business Essentials'
 permalink: /digital-programmes/masterclasses-and-workshops/amazon-web-services-business-essentials
-breadcrumb: Amazon Web Services Business Essentials
-collection_name: digital-programmes
-second_nav_title: "Masterclasses & Workshops"
+breadcrumb: 'Amazon Web Services Business Essentials'
+third_nav_title: 'Masterclasses & Workshops'
+
 ---
+
 <img src="images-2021/DigitalProgrammes-Image-Masterclass.png" style="width:100%;">
 
 <h4 style="text-align:center;">Next intake:</h4>
