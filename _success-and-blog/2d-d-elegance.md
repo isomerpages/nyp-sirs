@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
 title: D’Elegance
 permalink: /success-and-blog/success-stories/d-elegance
 breadcrumb: D’Elegance
-collection_name: success-and-blog
-second_nav_title: Success Stories
+third_nav_title: 'Success Stories'
+
 ---
+
 <h4>D’Elegance converts motivated and talented mid-career PMETs to reskill and take on new job roles</h4>
 
 <img src="/images-2021/SuccessStories-DElegance.jpg" style="width:40%;">
