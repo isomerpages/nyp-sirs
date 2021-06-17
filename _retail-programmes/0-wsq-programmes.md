@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
 title: Overview
 permalink: /wsq-programmes
 breadcrumb: Overview
-collection_name: retail-programmes
+
 ---
+
 
 <img src="images/wsq/wsq-introduction-page.jpg" style="width:100%;">
 
