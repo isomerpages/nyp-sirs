@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Professional Certificate in Digital Retail Entertainment
+title: 'Professional Certificate in Digital Retail Entertainment'
 permalink: /digital-programmes/professional-certificate-in-digital-retail-entertainment
-breadcrumb: Professional Certificate in Digital Retail Entertainment
-collection_name: digital-programmes
-second_nav_title: "Joint Certification Programmes"
+breadcrumb: 'Professional Certificate in Digital Retail Entertainment'
+third_nav_title: 'Joint Certification Programmes'
+
 ---
+
 <img src="images/joint-certification/professional-certificate-in-digital-retail-entertainment.jpg" style="width:100%;">
 
 <p>On 22 October 2019, SIRS and the Singapore Media Academy (SMA) signed a Memorandum of Understanding, and announced the upcoming launch of the joint Professional Certificate in Digital Retail Entertainment.</p>
