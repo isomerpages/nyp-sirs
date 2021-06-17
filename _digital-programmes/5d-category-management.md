@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Category Management - The Key to Business Growth
+title: 'Category Management - The Key to Business Growth'
 permalink: /digital-programmes/masterclasses-and-workshops/category-management
-breadcrumb: Category Management - The Key to Business Growth
-collection_name: digital-programmes
-second_nav_title: "Masterclasses & Workshops"
+breadcrumb: 'Category Management - The Key to Business Growth'
+third_nav_title: 'Masterclasses & Workshops'
+
 ---
+
 
 <img src="images-2021/DigitalProgrammes-Image-Masterclass.png" style="width:100%;">
 
