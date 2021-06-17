@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Unidbox Hardware
+title: 'Unidbox Hardware'
 permalink: /success-and-blog/success-stories/unidbox-hardware
-breadcrumb: Unidbox Hardware
-collection_name: success-and-blog
-second_nav_title: Success Stories
+breadcrumb: 'Unidbox Hardware'
+third_nav_title: 'Success Stories'
+
 ---
+
 <h4>Training vital to heartland SME Unidbox Hardware’s online breakthrough</h4>
 
 <img src="images-2021/SuccessStories-Unidbox.jpeg" style="width:95%;">
