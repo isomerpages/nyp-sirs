@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: BHG (Singapore)
+title: 'BHG (Singapore)'
 permalink: /success-and-blog/success-stories/bhg
-breadcrumb: BHG (Singapore)
-collection_name: success-and-blog
-second_nav_title: Success Stories
+breadcrumb: 'BHG (Singapore)'
+third_nav_title: 'Success Stories'
+
 ---
+
 <h4>BHG (Singapore) successfully implemented reinvention plan despite COVID-19 constraints</h4>
 
 <img src="/images-2021/SuccessStories-BHG.jpg" style="width:30%;">
