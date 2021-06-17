@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: The Art and Science of Visual Merchandising
+title: 'The Art and Science of Visual Merchandising'
 permalink: /wsq-programmes/wsq-modular-programmes/the-art-and-science-of-visual-merchandising
-breadcrumb: The Art and Science of Visual Merchandising
-collection_name: retail-programmes
-second_nav_title: "WSQ Certified Modular Programmes"
+breadcrumb: 'The Art and Science of Visual Merchandising'
+third_nav_title: 'WSQ Certified Modular Programmes'
+
 ---
+
 <img src="/images-2021/WSQ Modular_VM.png" style="width:100%;">
 
 <h4 style="text-align:center;">Next intake:</h4>
