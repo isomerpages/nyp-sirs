@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title:  5 Trends Shaping the Chinese Consumer Demand
+title: '5 Trends Shaping the Chinese Consumer Demand'
 permalink: /success-and-blog/blog/5-trends-of-chinese-consumers
-breadcrumb: 5 Trends Shaping the Chinese Consumer Demand
-collection_name: success-and-blog
-second_nav_title: Blog
+breadcrumb: '5 Trends Shaping the Chinese Consumer Demand'
+third_nav_title: Blog
+
 ---
+
 Date:   22-06-2019
 
 <img src="/images-2021/Blog_2019_5TrendsChineseConsumers.jpg" style="width:80%;">
