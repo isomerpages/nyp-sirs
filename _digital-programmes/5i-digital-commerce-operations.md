@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Digital Commerce Operations
+title: 'Digital Commerce Operations'
 permalink: /digital-programmes/masterclasses-and-workshops/digital-commerce-operations
-breadcrumb: Digital Commerce Operations
-collection_name: digital-programmes
-second_nav_title: "Masterclasses & Workshops"
+breadcrumb: 'Digital Commerce Operations'
+third_nav_title: 'Masterclasses & Workshops'
+
 ---
+
 <img src="images-2021/DigitalProgrammes-Image-Masterclass.png" style="width:100%;">
 
 <h4 style="text-align:center;">Next intake:</h4>
