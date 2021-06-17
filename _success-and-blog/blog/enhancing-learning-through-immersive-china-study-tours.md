@@ -8,7 +8,7 @@ third_nav_title: Blog
 
 Date:  21-05-2019 
 
-<img src="/images-2021/Blog_2019_ImmersiveChinaStudyTours.jpg" style="width:80%;max-width:1000px;">
+<img src="/images/images-2021/Blog_2019_ImmersiveChinaStudyTours.jpg" style="width:80%;max-width:1000px;">
 <small><i>A diner at a Hema restaurant in Shanghai takes her dish after it is delivered by a robot. Photo: Simon Song, South China Morning Post</i></small>
 
 <p>As Singapore’s leading retail training institute, SIRS is constantly enhancing its training programmes to ensure that retailers are kept at the forefront of the rapidly 

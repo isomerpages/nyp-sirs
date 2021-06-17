@@ -6,7 +6,7 @@ third_nav_title: 'Career Services'
 
 ---
 
-<img src="/images-2021/Services_Career Services_Job Redeployment PCP.jpg" style="width:100%;">
+<img src="/images/images-2021/Services_Career Services_Job Redeployment PCP.jpg" style="width:100%;">
 
 <p>The Redeployment PCP for the retail industry aims to reskill at-risk employees into new roles arising from the on-going 
 enterprise transformation or strategic expansion.</p>

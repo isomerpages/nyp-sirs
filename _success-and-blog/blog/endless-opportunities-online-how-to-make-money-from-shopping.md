@@ -7,7 +7,7 @@ third_nav_title: Blog
 ---
 
 Date:   14-06-2017
-<img src="/images-2021/Blog_2017EndlessOpportunities.png" style="width:100%;">
+<img src="/images/images-2021/Blog_2017EndlessOpportunities.png" style="width:100%;">
 
 <p>The retail industry has undergone massive transformation in the last 10 years. The use of social media, flexibility of payment, improved logistics, and the prevalent 
   use of smartphones have contributed to the rapid growth of the online retail scene.</p>

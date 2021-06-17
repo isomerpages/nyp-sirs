@@ -6,7 +6,7 @@ third_nav_title: 'Success Stories'
 
 ---
 
-<img src="/images-2021/SuccessStories-Overview.jpg" style="width:100%;">
+<img src="/images/images-2021/SuccessStories-Overview.jpg" style="width:100%;">
 
 <h4>Let Our Clients Speak for Us</h4>
 <p>Read how our clients – after attending our programmes – transform their business successfully via digital platforms to increase sales and achieve greater branding awareness.</p>

@@ -6,7 +6,7 @@ third_nav_title: 'Study Trips'
 
 ---
 
-<img src="/images-2021/DigitalProgrammes-StudyTrips-WeChat.jpg" style="width:100%;">
+<img src="/images/images-2021/DigitalProgrammes-StudyTrips-WeChat.jpg" style="width:100%;">
 
 <center>WeChat Digital Immersion Programme<br>(5D4N Study Trip - Shanghai)</center>
 

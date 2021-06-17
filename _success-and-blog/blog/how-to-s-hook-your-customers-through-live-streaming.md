@@ -7,7 +7,7 @@ third_nav_title: Blog
 ---
 
 Date:   10-05-2018
-<img src="/images-2021/Blog_2018_SHook_LiveStreaming.png" alt-text="Photo Credits: Screengrab from Misshopper Boutique Facebook page" style="width:80%;max-width:1000px;">
+<img src="/images/images-2021/Blog_2018_SHook_LiveStreaming.png" alt-text="Photo Credits: Screengrab from Misshopper Boutique Facebook page" style="width:80%;max-width:1000px;">
 
 <p>Just last month, Singapore‘s first “网红” (internet celebrity) was borne.  Lerine Yeo, or affectionately known in the online community as the ‘S-hook sales lady” sold 100 
   pieces of “holey” shirts and shot to fame in just a few days, garnering more than 2 million views. She had just demonstrated the huge potential of live streaming.</p>

@@ -6,9 +6,9 @@ breadcrumb: 'Who We Are'
 ---
 
 
-<img src="/images-2021/AboutUs_SIRS_OurMission.png" style="width:100%;"> 
+<img src="/images/images-2021/AboutUs_SIRS_OurMission.png" style="width:100%;"> 
 
-<img src="/images-2021/AboutUs_SIRS-NYP Combined Logos.png" style="width:70%;">
+<img src="/images/images-2021/AboutUs_SIRS-NYP Combined Logos.png" style="width:70%;">
 
 <p>The Singapore Institute of Retail Studies (SIRS) is a Continuing Education & Training (CET) institute of Nanyang Polytechnic. Established in January 2006 as the first CET Institute in Singapore, SIRS’ excellent performance and track record has since won the conferment of the National CET Institute status, the pinnacle status for CET centres.</p>
 

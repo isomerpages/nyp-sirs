@@ -7,7 +7,7 @@ third_nav_title: Blog
 ---
 
 Date:   22-05-2019
-<img src="/images-2021/Blog_2019BreakingDownBorders.jpeg" style="width:80%;max-width:1000px;">
+<img src="/images/images-2021/Blog_2019BreakingDownBorders.jpeg" style="width:80%;max-width:1000px;">
 <center><small><i>David Lee, Digital Commerce Lead, SIRS</i></small></center>
 
 <p>Digital Economy 5.0 denotes the breaking down of geographical borders and different sectors through the introduction of modern technology, marking the need for a shift in 

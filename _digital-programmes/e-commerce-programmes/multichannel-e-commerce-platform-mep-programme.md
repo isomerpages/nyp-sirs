@@ -7,7 +7,7 @@ third_nav_title: 'E-Commerce Programmes'
 ---
 
 
-<center><img src="/images-2021/E-Commerce-Programmes-MEPP.jpg" style="width:90%;"></center>
+<center><img src="/images/images-2021/E-Commerce-Programmes-MEPP.jpg" style="width:90%;"></center>
 
 <p>Singapore companies who are keen to kick-start their cross-border online businesses can tap on the Multichannel E-commerce Platform (MEP) Programme to adopt multichannel 
 cross-border e-commerce solution.</p>

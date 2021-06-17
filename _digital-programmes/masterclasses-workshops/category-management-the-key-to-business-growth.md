@@ -60,7 +60,7 @@ Brand Managers, Trade Marketing Managers, Key Account Managers, and Sales Manage
 <div class="row">
     <div class="col is-4">
 		<figure style="margin:0;">
-			<img src="/images-2021/Masterclass Trainer_Chen Ing Hui.png" style="width:60%;">
+			<img src="/images/images-2021/Masterclass Trainer_Chen Ing Hui.png" style="width:60%;">
 			<figcaption class="has-text-weight-bold" style="color:#0AD25A"> </figcaption>
 		</figure>
 	</div>

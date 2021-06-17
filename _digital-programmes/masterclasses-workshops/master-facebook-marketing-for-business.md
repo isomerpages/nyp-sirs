@@ -58,7 +58,7 @@ the next level.</p>
 <div class="row">
     <div class="col is-4">
 		<figure style="margin:0;">
-			<img src="/images-2021/MC Trainer_Gavin Choo.jpg" style="width:60%;">
+			<img src="/images/images-2021/MC Trainer_Gavin Choo.jpg" style="width:60%;">
 			<figcaption class="has-text-weight-bold" style="color:#0AD25A"> </figcaption>
 		</figure>
 	</div>

@@ -7,7 +7,7 @@ third_nav_title: 'WSQ Certified Modular Programmes'
 ---
 
 
-<img src="/images-2021/WSQ_Modular_SEO.png" style="width:100%;">
+<img src="/images/images-2021/WSQ_Modular_SEO.png" style="width:100%;">
 
 <h4 style="text-align:center;">Next intake:</h4>
 <center><table style="width:80%;">

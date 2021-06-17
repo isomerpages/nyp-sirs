@@ -5,7 +5,7 @@ breadcrumb: 'Strategic Partners'
 
 ---
 
-<img src="/images-2021/AboutUs_SIRS_StrategicPartners.png" style="width:100%;">
+<img src="/images/images-2021/AboutUs_SIRS_StrategicPartners.png" style="width:100%;">
 
 <p>SIRS works with market leaders to develop cutting edge solutions and training programmes to help you reinvent your business and compete in new markets, gain new channels and develop skilled human capital.</p>
 

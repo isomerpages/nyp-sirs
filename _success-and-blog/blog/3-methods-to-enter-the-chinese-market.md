@@ -8,13 +8,13 @@ third_nav_title: Blog
 
 Date:   08-07-2019
 
-<img src="/images-2021/Blog_2019_3MethodstoEnterChineseMarket.jpg" style="width:80%;">
+<img src="/images/images-2021/Blog_2019_3MethodstoEnterChineseMarket.jpg" style="width:80%;">
 
 <p>As the <a href="/success-and-blog/blog/5-trends-of-chinese-consumers">Chinese population becomes more affluent and consumer preferences become more sophisticated</a>, demand for imported brands and goods have soared. Total import value of foreign goods hit a record <a href="https://www.statista.com/statistics/257252/import-of-goods-to-china/">RMB 30,505 billion in 2018</a>, a growth of almost 10% from 2017, and is expected to maintain steady growth over the next few years. Despite the rapid increase in demand, many foreign brands still find it challenging to enter the Chinese market. In this article, we explore 3 key routes of China market entry and explore the pros and cons of each method.</p>
 
 <h4>1. Direct Importation</h4>
 
-<img src="/images-2021/Blog_2019_3MethodstoEnterChineseMarket2.jpg" style="width:80%;">
+<img src="/images/images-2021/Blog_2019_3MethodstoEnterChineseMarket2.jpg" style="width:80%;">
 <center><small><i>The inaugural China International Import Expo in 2018</i></small></center>
 
 <p>The traditional method of China market entry is through a direct importation model (aka 一般贸易).  The direct importation model allows for businesses to ship their 
@@ -32,7 +32,7 @@ Date:   08-07-2019
   
 <h4>2. Daigou</h4>
 
-<img src="/images-2021/Blog_2019_3MethodstoEnterChineseMarket3.jpg" style="width:80%;">
+<img src="/images/images-2021/Blog_2019_3MethodstoEnterChineseMarket3.jpg" style="width:80%;">
 <center><small><i>"928 Daigou Crackdown" at Shanghai Pudong International Airport. Image via China National Radio</i></small></center>
 
 <p>Daigou (代购) literally translates to "buying on behalf", or "surrogate shopping" in English. Originally started as a means for locals to obtain hard-to-find foreign 
@@ -51,7 +51,7 @@ Date:   08-07-2019
   
 <h4>3. Cross Border E-Commerce</h4>
 
-<img src="/images-2021/Blog_2019_3MethodstoEnterChineseMarket4.png" style="width:80%;">
+<img src="/images/images-2021/Blog_2019_3MethodstoEnterChineseMarket4.png" style="width:80%;">
 <center><small><i>Tmall Global - bringing the world to China</i></small></center>
 
 <p>Unlike the traditional importation method, for brands entering China through cross border e-commerce (CBEC), foreign brands are only allowed to sell their products 

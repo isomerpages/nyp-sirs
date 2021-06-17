@@ -8,7 +8,7 @@ third_nav_title: 'Success Stories'
 
 <h4>An e-Commerce business owner’s journey to become one of the top sellers on Lazada</h4>
 
-<img src="/images-2021/SuccessStories-MrKwan.jpg" style="width:70%;">
+<img src="/images/images-2021/SuccessStories-MrKwan.jpg" style="width:70%;">
 
 <p>In Dec 2019, Mr Kwan Kah Huei had to close the educational centre that he had been running since 2006. At 62 years old, he faced difficulties to get a suitable job and decided 
 to learn how to start an online business to earn some income. On 23 Oct 2019, Mr Kwan attended his first training programme with SIRS "Getting Started on Lazada (Onboarding)" 
