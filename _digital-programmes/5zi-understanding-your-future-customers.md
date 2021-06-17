@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Understanding Your Future Customers
+title: 'Understanding Your Future Customers'
 permalink: /digital-programmes/masterclasses-and-workshops/understanding-your-future-customers
-breadcrumb: Understanding Your Future Customers
-collection_name: digital-programmes
-second_nav_title: "Masterclasses & Workshops"
+breadcrumb: 'Understanding Your Future Customers'
+third_nav_title: 'Masterclasses & Workshops'
+
 ---
+
 
 <img src="images-2021/DigitalProgrammes-Image-Masterclass.png" style="width:100%;">
 
