@@ -1,11 +1,11 @@
---- 
-layout: leftnav-page-content
-title: Maximise Digital Advertising Dollars with Search Engine Marketing (SEM)
-permalink: /wsq-programmes/wsq-modular-programmes/maximising-digital-ad-dollars-with-sem
-breadcrumb: Maximising Digital Advertising Dollars with Search Engine Marketing (SEM)
-collection_name: retail-programmes
-second_nav_title: "WSQ Certified Modular Programmes"
 ---
+title: 'Maximise Digital Advertising Dollars with Search Engine Marketing (SEM)'
+permalink: /wsq-programmes/wsq-modular-programmes/maximising-digital-ad-dollars-with-sem
+breadcrumb: 'Maximising Digital Advertising Dollars with Search Engine Marketing (SEM)'
+third_nav_title: 'WSQ Certified Modular Programmes'
+
+---
+
 <img src="/images-2021/WSQ Modular_SEM.png" style="width:100%;">
 
 <h4 style="text-align:center;">Next intake:</h4>
