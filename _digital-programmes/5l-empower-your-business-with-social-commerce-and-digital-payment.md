@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Empower Your Business with Social Commerce & Digital Payment
+title: 'Empower Your Business with Social Commerce & Digital Payment'
 permalink: /digital-programmes/masterclasses-and-workshops/empower-your-business-with-social-commerce-and-digital-payment
-breadcrumb: Empower Your Business with Social Commerce & Digital Payment
-collection_name: digital-programmes
-second_nav_title: "Masterclasses & Workshops"
+breadcrumb: 'Empower Your Business with Social Commerce & Digital Payment'
+third_nav_title: 'Masterclasses & Workshops'
+
 ---
+
 <img src="images-2021/DigitalProgrammes-Image-Masterclass.png" style="width:100%;">
 
 <h4 style="text-align:center;">Next intake:</h4>
