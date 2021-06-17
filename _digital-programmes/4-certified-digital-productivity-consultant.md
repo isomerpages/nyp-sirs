@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Certified Digital & Productivity Consultant
+title: 'Certified Digital & Productivity Consultant'
 permalink: /digital-programmes/certified-digital-productivity-consultant
-breadcrumb: Certified Digital & Productivity Consultant
-collection_name: digital-programmes
-second_nav_title: "Joint Certification Programmes"
+breadcrumb: 'Certified Digital & Productivity Consultant'
+third_nav_title: 'Joint Certification Programmes'
+
 ---
+
 
 <img src="images/joint-certification/cdpc.jpg" style="width:100%;">
 
