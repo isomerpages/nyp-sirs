@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Amazon Global Selling (Onboarding)
+title: 'Amazon Global Selling (Onboarding)'
 permalink: /digital-programmes/e-commerce-programmes/amazon-global-selling-programme
-breadcrumb: Amazon Global Selling (Onboarding)
-collection_name: digital-programmes
-second_nav_title: "E-Commerce Programmes"
+breadcrumb: 'Amazon Global Selling (Onboarding)'
+third_nav_title: 'E-Commerce Programmes'
+
 ---
+
 
 <img src="images-2021/DigitalProgrammes-E-Commerce-AmazonGlobal.png" style="width:100%;">
 
