@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Improve Customer Engagement with Digital Mindset
+title: 'Improve Customer Engagement with Digital Mindset'
 permalink: /digital-programmes/masterclasses-and-workshops/improve-customer-engagement-with-digital-mindset
-breadcrumb: Improve Customer Engagement with Digital Mindset
-collection_name: digital-programmes
-second_nav_title: "Masterclasses & Workshops"
+breadcrumb: 'Improve Customer Engagement with Digital Mindset'
+third_nav_title: 'Masterclasses & Workshops'
+
 ---
+
 <img src="images-2021/DigitalProgrammes-HImage-Workshop.png" style="width:100%;">
 
 <h4 style="text-align:center;">Next intake:</h4>
