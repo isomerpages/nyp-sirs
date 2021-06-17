@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Terms of Use
+title: 'Terms of Use'
 permalink: /terms-of-use/
-breadcrumb: Terms of Use
+breadcrumb: 'Terms of Use'
+
 ---
+
 ### **General Terms and Conditions on the Use of the Isomer Pages Website**
 
 #### **General Legal Information**
