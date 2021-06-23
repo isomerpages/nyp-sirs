@@ -1,12 +1,9 @@
 ---
-title: 'Alibaba Entrepreneur Startup Programme'
+title: Alibaba Entrepreneur Startup Programme
 permalink: /digital-programmes/alibaba-business-school/alibaba-entrepreneur-startup-programme
-breadcrumb: 'Alibaba Entrepreneur Startup Programme'
-third_nav_title: 'Alibaba Business School'
-
+breadcrumb: Alibaba Entrepreneur Startup Programme
+third_nav_title: Alibaba Business School
 ---
-
-
 <img src="images/agcs-abs-sirs-atu-combined-logos.png" style="width:100%:">
 
 <img src="images/alibaba-business-school/alibaba-esp.jpg" style="width:100%;">
@@ -21,7 +18,7 @@ Open Your Horizons. Apply Proven E-Commerce Strategies</center>
 
 <center><table style="width:80%;">
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">11 to 13, 16 to 18 August 2021 (6 days)</td>
+      <td style="text-align:center;width:50%;">8 to 10, 13 to 15 Sep 2021 (6 days)</td>
     </tr>
 </table></center>
 
