@@ -1,11 +1,9 @@
 ---
-title: 'Level Up Customer Engagement Through Live Streaming'
+title: Level Up Customer Engagement Through Live Streaming
 permalink: /digital-programmes/masterclasses-and-workshops/level-up-customer-engagement-through-live-streaming
-breadcrumb: 'Level Up Customer Engagement Through Live Streaming'
-third_nav_title: 'Masterclasses & Workshops'
-
+breadcrumb: Level Up Customer Engagement Through Live Streaming
+third_nav_title: Masterclasses & Workshops
 ---
-
 <img src="/images/images-2021/DigitalProgrammes-HImage-Workshop.png" style="width:100%;">
 
 <h4 style="text-align:center;">Next intake:</h4>
@@ -17,7 +15,7 @@ third_nav_title: 'Masterclasses & Workshops'
     </tr>
     <tr style="text-align:center;">
       <td style="text-align:center;width:50%;">To be confirmed</td>
-      <td style="text-align:center;width:50%;">19-20 April 2021 (Mon-Tue)<br>16-17 Jun 2021(Wed-Thu)</td>
+      <td style="text-align:center;width:50%;">21-22 Jul 2021 (Wed-Thu)<br>25-26 Aug 2021(Wed-Thu)</td>
     </tr>
 </table></center>
 
@@ -121,4 +119,3 @@ encouraged to attend our <a href="/digital-programmes/skillsfuture-series/introd
 <div style="width:50%;float:left;"><center><a href="https://form.gov.sg/#!/5e587a6895e4da0011f0f746" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Register Now</a></center></div>
 
 <div style="width:50%;float:left;"><center><a href="https://form.gov.sg/602f33f172d5100012d6ca8b" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center></div>
-
