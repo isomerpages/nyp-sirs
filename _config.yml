@@ -1,9 +1,10 @@
-title: 'Singapore Institute of Retail Studies'
+title: Singapore Institute of Retail Studies
 title-abbreviated: NYP-SIRS
 description: Description
-url: 'https://www.sirs.edu.sg'
-facebook-pixel: 777239046035563
-facebook-meta-tag: '<meta name="facebook-domain-verification" content="inc7xfovpckgig53a2dt94x4y52put" />'
+url: https://www.sirs.edu.sg
+facebook-pixel: 1900890436905255
+facebook-meta-tag: <meta name="facebook-domain-verification"
+  content="inc7xfovpckgig53a2dt94x4y52put" />
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
 paginate: 12
@@ -40,16 +41,16 @@ plugins:
   - jekyll-sitemap
   - jekyll-remote-theme
 colors:
-  primary-color: '#653d7a'
-  secondary-color: '#a23f7e'
+  primary-color: "#653d7a"
+  secondary-color: "#a23f7e"
   media-colors:
     - title: media-color-one
-      color: '#49759a'
+      color: "#49759a"
     - title: media-color-two
-      color: '#744d9f'
+      color: "#744d9f"
     - title: media-color-three
-      color: '#00838f'
+      color: "#00838f"
     - title: media-color-four
-      color: '#00838f'
+      color: "#00838f"
     - title: media-color-five
-      color: '#00838f'
+      color: "#00838f"
