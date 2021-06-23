@@ -1,0 +1,9 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - who-we-are.md
+      - our-facilities.md
+      - strategic-partners.md
+      - contact-us.md
+      - mailing-list.md
