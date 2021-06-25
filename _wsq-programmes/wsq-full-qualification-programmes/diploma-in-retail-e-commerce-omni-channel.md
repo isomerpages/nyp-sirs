@@ -48,6 +48,8 @@ With emerging technologies and evolving consumer behaviour, the ability to lead 
 <b>Merchandise Performance Analysis (24 hours)</b><br>It is important to optimise inventory in an omni-commerce business. In this module, participants will develop processes to analyse the profit performance of the merchandise, evaluate trends of profitability, identify opportunities to adjust merchandise range for both online/offline businesses and create an O2O product strategy.
  
 <h4>Duration</h4>
+- Day Class: 5 months (twice a week)
+- Night Class: 9 months (twice a week)
 
 
 <h4>Entry Requirements</h4>
