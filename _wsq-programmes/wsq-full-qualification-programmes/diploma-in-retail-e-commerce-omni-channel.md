@@ -12,40 +12,43 @@ third_nav_title: Wsq Full Qualification Programmes
       <th style="text-align:center;width:50%;">Night Training</th>
     </tr>
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">18 May 2021(Every Wed)<br>12 July 2021(Every Wed)</td>
-      <td style="text-align:center;width:50%;">17 June 2021 (Every Tue & Thur)</td>
+      <td style="text-align:center;width:50%;">To be confirmed</td>
+      <td style="text-align:center;width:50%;">To be confirmed</td>
     </tr>
 </table></center>
 
-<p>Retail industry has seen significant changes in the past few years with digitalisation taking place in the everyday life of today's connected consumer. While online shopping continues to increase, the demand for the physical store will remain relevant especially for goods that require touch and feel. This derived the concept of ‘New Retail’, the integration of offline and online platforms with the use of data technology to deliver experience-focused service standards to meet the needs of consumers today.  Store Managers are highly valued for their ability to optimise technology advancement to drive day-to-day operations and make data-based decisions.</p> 
+<p>While a brick-and-mortar store promotes customer experiences with a human touch, the need for digital commerce cannot be overlooked in the 'New Retail' landscape. As consumers move between offline and online platforms, businesses need to recognise the need to shift their business models to effectively engage with their customers and efficiently meet their changing behaviours and expectations.
+	
+Equip yourself with the knowledge and skills to using the internet, mobile networks, and e-commerce infrastructure in the buying and selling of products and services. You will acquire a broad understanding of digital commerce and deep dive into the know-how of digital operations.
 
-<p>Whether you are interested in honing yourself with 21st century leadership skills to lead your staff or upskilling yourself to manage today’s Online Merge Offline world of retailing, the latest WSQ DRO will be the best investment you can offer to yourself.</p>
-
-<p>This programme equips you with the skills and knowledge to implement and manage customer-centric business excellence and drive service innovation. This knowledge will enable you to recognise current and emerging retail trends, and understand which kinds of retail technology will best engage your customer segment, and the leadership knowledge you will gain in this course will develop your effectiveness in handling staff and identifying training opportunities for them.</p>
+If your work or business involves e-commerce, this programme will greatly benefit you in today's omni-channel world of retailing. Discover strategies to build an Omni-commerce business model and to optimise your inventory management in response to the changes in the customer journey. Pick up the skills to create a well-designed website with engaging content to attract and convert visitors to become your customers. You will also strengthen your digital marketing efforts with the use of various tools to drive traffic and enhance the performance of your store’s online presence.</p>
 
 <h4>Modules</h4>
 
 <p>To achieve a full qualification, individuals must successfully attain competency in all the following modules:</p>
 
-<b>Global Mindset (Intermediate) (24 hours)</b><br>Evaluate local & global issues & trends that impact one's employability & job role and to be able to identify competency gaps, determine training and development needs and to establish & evaluate appropriate training & learning opportunities for all including the implementation of a conducive work environment to facilitate transfer of knowledge & skills.
+<b>Customer Experience Innovation (18 hours)</b><br>Develop your skills in enhancing customer experience. Learn the techniques in identifying and mapping the organisation’s current customer journey, followed by analysing for gaps in the journey before seeking, evaluating and implementing proposed improvements.  
  
-<b>Sales Target Management (24 hours)</b><br>Set, communicate, drive and motivate staff to achieve sales target and to review social-economic changes in the local context as well as assess impact of external economic and political events on the local retailing environment and to make changes to target set inability to reflect actual situation.
+<b>Emerging Technology (18 hours)</b><br>
+With emerging technologies and evolving consumer behaviour, the ability to lead analysis and drive the implementation of emerging technologies for organisational effectiveness is an essential skill. Learn to shape organisations' strategies and objectives for process improvement and change management.
  
-<b>Workplace Communication (18 hours)</b><br>Use appropriate methods / equipment / platform to communicate policies and procedure to staff and monitor their compliance including evaluating the effectiveness of such methods / channels.
+<b>Search Engine Optimisation (SEO) (24 hours)</b><br>Formulate overarching SEO strategies for the organisation's digital assets and content, and evaluate the effectiveness of SEO strategies across channels in terms of ROI. Acquire skills to manage, execute, monitor, and conduct analysis on the performance of SEO campaigns across channels. 
  
-<b>Productivity Improvement (30 hours)</b><br>Manage productivity action plans and initiatives that include reviewing potential areas & opportunities as well as evaluating tools and techniques for productivity measurement and improvement.
+<b>Paid Search Engine Marketing (SEM) (24 hours)</b><br>Acquire skills to manage, review and monitor the implementation of SEM strategies, establish targets and conduct analysis on the performance of SEM campaigns and recommend opportunities for improvement to strengthen digital marketing efforts by using various paid search engine digital marketing tools.
  
-<b>Service Leadership (30 hours)</b><br>Recognise the characteristics of a leader and to discharge the roles & responsibilities of a leader in operationalising the organization's service vision, mission and values - entailing ways to promote a customer centric environment as well as analysing the performance of individual member and the team with the intent to identify follow-up actions for improvement.
+<b>Website Design (24 hours)</b>
+<br>Understand how consumers make purchase decisions, and how the design and content of a website plays an important role in converting its visitors will greatly improve an online business. Learn to create a website based on well-established principles of good website design.
  
-<b>Customer Experience Innovation (18 hours)</b><br>Develop insights & methods to enhance customer experience by identifying and mapping the organization's current customer journey. Then after, to analyse for gaps in the journey before seeking, evaluating, and implementing proposed environments.
+<b>Social Media Marketing (24 hours)</b>
+<br>Learn the factors to evaluate potential, suitable and feasible social media marketing opportunities. Draw up a social media marketing strategy best suited to the objectives of the organisation to outreach to new consumers and to continually engage current customers.
  
-<b>Retailing & the Economy (24 hours)</b><br>Understand key considerations and target markets in retailing as well as the application of the following concepts in the context of retailing: scarcity, opportunity costs, demand & supply, elasticity, utility.
+<b>Content Management (24 hours)</b>
+<br> Businesses are constantly seeking opportunities and means to reach, engage and retain consumers in building their presence online. Learn to identify key messages, themes, tone and personality for content; store content and manage information architecture and visual compositions of multimedia sites.
  
-<b>Financial Analysis (30 hours)</b><br>Evaluate financial ratios, perform cost-benefits analysis and analyse the short and long term financial implications for the business to facilitate decision-making by management including the proper presentation of financial analysis to the management.
+<b>Merchandise Performance Analysis (24 hours)</b><br>It is important to optimise inventory in an omni-commerce business. In this module, participants will develop processes to analyse the profit performance of the merchandise, evaluate trends of profitability, identify opportunities to adjust merchandise range for both online/offline businesses and create an O2O product strategy.
  
 <h4>Duration</h4>
-- Day Class: 5 months (twice a week)
-- Night Class: 9 months (twice a week)
+
 
 <h4>Entry Requirements</h4>
 <ul>
@@ -111,4 +114,3 @@ third_nav_title: Wsq Full Qualification Programmes
 <div style="width:50%;float:left;"><center><a href="https://form.gov.sg/602f27830951350012530bee" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center></div>
 
 <p><em>All applications will be evaluated to determine their suitability for admission into the programme. The outcome of all applications will be communicated to applicants before the start of the earliest available intake subjected to submission of the required supporting documents and the minimum enrolment to start a class.</em></p>
-
