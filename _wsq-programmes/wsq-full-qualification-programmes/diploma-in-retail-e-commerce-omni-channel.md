@@ -1,6 +1,6 @@
 ---
 title: Diploma in Retail (E-Commerce / Omni-Channel)
-permalink: /wsq-programmes/wsq-full-qualification-programmes/permalink
+permalink: /wsq-programmes/wsq-full-qualification-programmes/diploma-in-retail-e-commerce-omni-channel
 third_nav_title: Wsq Full Qualification Programmes
 ---
 <img src="/images/images-2021/WSQ_FullQual_DREO.png" style="width:100%;">
