@@ -22,13 +22,13 @@ sections:
           alt: 'alt text'
           button: 'More about AGCs'
     - infopic:
-          title: 'Master LinkedIn for Sales & Marketing'
+          title: 'SkillsFuture for Digital Workplace (SFDW)'
           subtitle: null
-          description: 'Master the strategies and mechanics of LinkedIn, the world''s largest networking platform for professionals, in this one-day masterclass to help you build your brand, attract quality leads, and drive sales to your business.'
-          url: /digital-programmes/masterclasses-and-workshops/master-linkedin-for-sales-and-marketing
-          image: '/images/images-2021/Home_Highlights_LinkedIn Masterclass.png'
+          description: 'With refreshed and updated content, our new SFDW course can help you to improve your digital engagement. Learn essential skills to stay connected, boost productivity and gain the confidence to enhance your new digital lifestyle!'
+          url: /digital-programmes/skillsfuture-digital-workplace
+          image: '/images/images-2021/Home-Highlights-SFDW.png'
           alt: 'alt text'
-          button: 'More about this masterclass'
+          button: 'More about SFDW'
     - infopic:
           title: 'SGUnited Skills (SGUS) Programme administered by SIRS'
           subtitle: null
