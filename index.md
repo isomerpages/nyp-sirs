@@ -6,9 +6,9 @@ sections:
     - hero:
           background: /images/images-2021/Homepage_Banner2.png
     - infopic:
-          title: 'Temporary Closure During P2HA'
+          title: 'Temporary Closure During P3HA'
           subtitle: null
-          description: 'In line with the implementation of Phase 2 (Heightened Alert) (P2HA), our Customer Relations Centre is temporarily closed till further notice. Meanwhile, our website is operating 24/7 for you to view and apply for our courses. We will also be here to help you with your queries via email and WhatsApp.'
+          description: 'In line with the implementation of Phase 3 (Heightened Alert) (P3HA), our Customer Relations Centre is temporarily closed till further notice. Meanwhile, our website is operating 24/7 for you to view and apply for our courses. We will also be here to help you with your queries via email and WhatsApp.'
           url: /contact-us
           image: /images/images-2021/Home-Highlights-P2HA.png
           alt: 'alt text'
