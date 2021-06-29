@@ -2,10 +2,7 @@
 title: Overview
 permalink: /wsq-programmes
 breadcrumb: Overview
-
 ---
-
-
 <img src="images/wsq/wsq-introduction-page.jpg" style="width:100%;">
 
 <p>The rapid introduction of new technologies has resulted in a shift of consumers' shopping behaviour. This has, in turn, resulted in a shift of the role of the traditional brick-and-mortar store, transforming it from just a sales channel into one that makes up part of the customer experience. This also means that the role of retail professionals has also changed: from one that is focused on sales, to one that is focused on experiential marketing and customer satisfaction, to ensure customer loyalty.</p>
@@ -17,6 +14,7 @@ breadcrumb: Overview
   <ul>
     <li><a href="/wsq-programmes/wsq-full-qualification-programmes/certificate-in-retail-operations">Certificate in Retail (Operations)</a></li>
     <li><a href="/wsq-programmes/wsq-full-qualification-programmes/advanced-certificate-in-retail-operations">Advanced Certificate in Retail (Operations)</a></li>
+	    <li><a href="/wsq-programmes/wsq-full-qualification-programmes/diploma-in-retail-e-commerce-omni-channel">Diploma in Retail (E-Commerce / Omni-Channel)</a></li>
     <li><a href="/wsq-programmes/wsq-full-qualification-programmes/diploma-in-retail-operations">Diploma in Retail (Operations)</a></li>
     <li><a href="/wsq-programmes/wsq-full-qualification-programmes/specialist-diploma-in-retail-operations">Specialist Diploma in Retail (Operations)</a></li>
   </ul>

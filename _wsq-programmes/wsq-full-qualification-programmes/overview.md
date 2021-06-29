@@ -2,10 +2,8 @@
 title: Overview
 permalink: /wsq-programmes/wsq-full-qualification-programmes/
 breadcrumb: Overview
-third_nav_title: 'WSQ Full Qualification Programmes'
-
+third_nav_title: WSQ Full Qualification Programmes
 ---
-
 <img src="/images/images-2021/WSQ Full Qual.jpg" style="width:100%;">
 
 <p>SIRS offers retail professionals, who are at different stages of their career, the following WSQ Full Qualification Programmes to acquire essential skills and knowledge of New Retail.</p>
@@ -14,6 +12,7 @@ third_nav_title: 'WSQ Full Qualification Programmes'
 <ul>
     <li><a href="/wsq-programmes/wsq-full-qualification-programmes/certificate-in-retail-operations">Certificate in Retail (Operations)</a></li>
     <li><a href="/wsq-programmes/wsq-full-qualification-programmes/advanced-certificate-in-retail-operations">Advanced Certificate in Retail (Operations)</a></li>
+		    <li><a href="/wsq-programmes/wsq-full-qualification-programmes/diploma-in-retail-e-commerce-omni-channel">Diploma in Retail (E-Commerce / Omni-Channel)</a></li>
     <li><a href="/wsq-programmes/wsq-full-qualification-programmes/diploma-in-retail-operations">Diploma in Retail (Operations)</a></li>
     <li><a href="/wsq-programmes/wsq-full-qualification-programmes/specialist-diploma-in-retail-operations">Specialist Diploma in Retail (Operations)</a></li>
   </ul>
