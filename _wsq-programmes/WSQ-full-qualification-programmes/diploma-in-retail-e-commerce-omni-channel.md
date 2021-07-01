@@ -17,11 +17,11 @@ third_nav_title: WSQ Full Qualification Programmes
     </tr>
 </table></center>
 
-<p>While a brick-and-mortar store promotes customer experiences with a human touch, the need for digital commerce cannot be overlooked in the 'New Retail' landscape. As consumers move between offline and online platforms, businesses need to recognise the need to shift their business models to effectively engage with their customers and efficiently meet their changing behaviours and expectations.
+<p>While a brick-and-mortar store promotes customer experiences with a human touch, the need for digital commerce cannot be overlooked in the 'New Retail' landscape. As consumers move between offline and online platforms, businesses need to recognise the need to shift their business models to effectively engage with their customers and efficiently meet their changing behaviours and expectations.</p>
 	
-Equip yourself with the knowledge and skills to using the internet, mobile networks, and e-commerce infrastructure in the buying and selling of products and services. You will acquire a broad understanding of digital commerce and deep dive into the know-how of digital operations.
+<p>Equip yourself with the knowledge and skills to using the internet, mobile networks, and e-commerce infrastructure in the buying and selling of products and services. You will acquire a broad understanding of digital commerce and deep dive into the know-how of digital operations.</p>
 
-If your work or business involves e-commerce, this programme will greatly benefit you in today's omni-channel world of retailing. Discover strategies to build an Omni-commerce business model and to optimise your inventory management in response to the changes in the customer journey. Pick up the skills to create a well-designed website with engaging content to attract and convert visitors to become your customers. You will also strengthen your digital marketing efforts with the use of various tools to drive traffic and enhance the performance of your store’s online presence.</p>
+<p>If your work or business involves e-commerce, this programme will greatly benefit you in today's omni-channel world of retailing. Discover strategies to build an Omni-commerce business model and to optimise your inventory management in response to the changes in the customer journey. Pick up the skills to create a well-designed website with engaging content to attract and convert visitors to become your customers. You will also strengthen your digital marketing efforts with the use of various tools to drive traffic and enhance the performance of your store’s online presence.</p>
 
 <h4>Modules</h4>
 
