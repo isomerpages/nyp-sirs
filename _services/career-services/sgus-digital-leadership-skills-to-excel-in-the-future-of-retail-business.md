@@ -1,18 +1,16 @@
 ---
-title: 'SGUS Digital & Leadership Skills to Excel in the Future of Retail & Business'
+title: SGUS Digital & Leadership Skills to Excel in the Future of Retail & Business
 permalink: /services/sgus-programme/digital-and-leadership-skills-to-excel-in-the-future-of-retail-and-business
-breadcrumb: 'SGUS Digital & Leadership Skills to Excel in the Future of Retail & Business'
-third_nav_title: 'Career Services'
-
+breadcrumb: SGUS Digital & Leadership Skills to Excel in the Future of Retail & Business
+third_nav_title: Career Services
 ---
-
 <img src="/images/images-2021/Services_SGUS_Overview.png" style="width:100%;">
 
 <h4 style="text-align:center;">Next intake:</h4>
 
 <center><table style="width:80%;">
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">7 Jul 2021</td>
+      <td style="text-align:center;width:50%;">4 Aug 2021</td>
     </tr>
 </table></center>
 

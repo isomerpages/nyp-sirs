@@ -1,18 +1,16 @@
 ---
-title: 'SGUS Manage Retail & Enterprise in the Digital Age'
+title: SGUS Manage Retail & Enterprise in the Digital Age
 permalink: /services/sgus-programme/manage-retail-and-enterprise-in-the-digital-age
-breadcrumb: 'SGUS Manage Retail & Enterprise in the Digital Age'
-third_nav_title: 'Career Services'
-
+breadcrumb: SGUS Manage Retail & Enterprise in the Digital Age
+third_nav_title: Career Services
 ---
-
 <img src="/images/images-2021/Services_SGUS_Overview.png" style="width:100%;">
 
 <h4 style="text-align:center;">Next intake:</h4>
 
 <center><table style="width:80%;">
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">6 July 2021</td>
+      <td style="text-align:center;width:50%;">2 Aug 2021</td>
     </tr>
 </table></center>
 
