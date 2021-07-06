@@ -28,7 +28,7 @@ sections:
       alt: alt text
       button: More about AGCs
   - infopic:
-      title: Diploma in Retail (E-Commerce / Omni-Channel)
+      title: WSQ Diploma in Retail (E-Commerce / Omni-Channel)
       description: If your work or business involves e-commerce, this new WSQ full
         qualification programme will greatly benefit you in today's omni-channel
         world of retailing.
