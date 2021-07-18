@@ -1,15 +1,12 @@
 ---
-title: 'PCP Digital Professional'
+title: PCP Digital Professional
 permalink: /services/career-services/digital-professional
-breadcrumb: 'PCP Digital Professional'
-third_nav_title: 'Career Services'
-
+breadcrumb: PCP Digital Professional
+third_nav_title: Career Services
 ---
-
-
 <img src="/images/images-2021/Services-CareerServices-PCP-DP.jpg" style="width:100%;">
 
-The PCP - Digital Professional (PCP - DP) seeks to help retail companies tap on additional sources of manpower and meet their manpower needs by providing mid-career switchers with an opportunity to enter the retail profession. The PCP - DP will train participants in the operations and management of digital commerce, while equipping them with the necessary skills for digital marketing to aid retailers in their digital transformation, and boost their revenue with digital commerce.
+The PCP - Digital Professional (Retail) (PCP - DP) seeks to help retail companies tap on additional sources of manpower and meet their manpower needs by providing mid-career switchers with an opportunity to enter the retail profession. The PCP - DP will train participants in the operations and management of digital commerce, while equipping them with the necessary skills for digital marketing to aid retailers in their digital transformation, and boost their revenue with digital commerce.
 
 Through structured classroom and OJT, companies are also able to align training according to their specific business needs.
 
