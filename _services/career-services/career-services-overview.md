@@ -1,11 +1,9 @@
 ---
-title: 'Career Services Overview'
+title: Career Services Overview
 permalink: /services/career-services
-breadcrumb: 'Career Services Overview'
-third_nav_title: 'Career Services'
-
+breadcrumb: Career Services Overview
+third_nav_title: Career Services
 ---
-
 <img src="/images/images-2021/Services_CareerServices.jpg" style="width:100%;">
 
 <p>SIRS provides career guidance for individuals seeking a career in retail and those considering a career move from another industry or within the retail industry. This includes facilitating placements for individuals trained by SIRS, so that they can gain employment in the retail industry after training.</p>
@@ -20,9 +18,9 @@ third_nav_title: 'Career Services'
 <p>The Professional Conversion Programme (PCP) seeks to help PMETs mid-career switchers undergo skills conversion to gain relevant competencies and take on new, exciting careers in different industries. SIRS offers the PCP tracks in Retail Professional, Digital Professional and New Media Professional.</p>
 
 <ol>
-  <li><a href="/services/career-services/retail-professional">PCP - Retail Professional</a></li>
-  <li><a href="/services/career-services/digital-professional">PCP - Digital Professional</a></li>
-  <li><a href="/services/career-services/new-media-professional">PCP - New Media Professional</a></li>
+  <li><a href="/services/career-services/retail-professional">PCP  Retail Professional</a></li>
+  <li><a href="/services/career-services/digital-professional">PCP  Digital Professional (Retail)</a></li>
+  <li><a href="/services/career-services/new-media-professional">PCP New Media Professional (Retail)</a></li>
 </ol>
 
 <a href="/services/career-services/professional-conversion-programme" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;" target="_blank">Find Out More</a>
