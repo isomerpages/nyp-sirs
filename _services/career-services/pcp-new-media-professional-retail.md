@@ -1,36 +1,48 @@
 ---
-title: 'PCP Digital Professional'
-permalink: /services/career-services/digital-professional
-breadcrumb: 'PCP Digital Professional'
-third_nav_title: 'Career Services'
-
+title: PCP New Media Professional (Retail)
+permalink: /services/career-services/new-media-professional
+breadcrumb: PCP New Media Professional
+third_nav_title: Career Services
 ---
 
+<img src="/images/images-2021/Services-CareerServices-PCP-NMP.jpg" style="width:100%;">
 
-<img src="/images/images-2021/Services-CareerServices-PCP-DP.jpg" style="width:100%;">
+The latest track of PCP offered by SIRS, the PCP  New Media Professional (Retail) (PCP - NMP), trains PMETs and mid-career switchers in New Media marketing, 
+specifically in the areas of video content marketing, and livestreaming.
 
-The PCP - Digital Professional (PCP - DP) seeks to help retail companies tap on additional sources of manpower and meet their manpower needs by providing mid-career switchers with an opportunity to enter the retail profession. The PCP - DP will train participants in the operations and management of digital commerce, while equipping them with the necessary skills for digital marketing to aid retailers in their digital transformation, and boost their revenue with digital commerce.
+Globally, the retail digital entertainment industry is valued at S$20 billion, with the increasing popularity of livestreaming e-commerce platforms
+such as Lazada, Qoo10, and Shopee. Digitainment, a mashup of digital and entertainment, refers to the content created by livestreamers that entertain
+and interact with their viewers even as they sell their products. 
 
-Through structured classroom and OJT, companies are also able to align training according to their specific business needs.
+By modelling their products in an engaging manner while delivering interesting banter as well as addressing queries and comments, these live streamers 
+have built a unique connection with their audience. The retail digitainment industry is most developed in China, while in Singapore, live streamers have 
+also been building their following. To succeed in this industry, skills in big data analytics, product sales, marketing, live-broadcasting are required.
 
-<h4>Courses</h4>
+The PCP - NMP aims to help businesses meet their talent needs by enabling mid-career Professionals, Managers, Executives and Technicians (PMETs) to equip 
+themselves with the relevant e-commerce and content management skills to take on emerging roles such as account managers and content producers in the retail 
+industry. 
 
-Under the PCP - DP, participants will have to complete the following programmes:
+Under the PCP – New Media Professional programme, individuals will be able to make a switch into the retail sector, receive a stipend while retraining and be 
+placed into jobs in retail companies
+
+<h4>Programmes</h4>
+
+Under the PCP - NMP, participants will have to complete the following programmes:
 <ul>
 <li>Digital Commerce Operations</li>
 <li>Customer Experience Innovation</li>
 <li>Paid Search Engine Marketing (SEM)</li>
 <li>Search Engine Optimization (SEO)</li>
-<li>Content Management</li>
+<li><a href="https://pd.mediaacademy.sg/ftv/moc">Singapore Media Academy’s Making Online Content Programme</a></li>
 </ul>
 
 <h4>Fact Sheets</h4>
 To view more details, refer to the factsheets below:
 
-<div style="width:50%;float:left;"><center><a href="/files/documents-2021/Services_PCP_DP_Factsheet_Employer.pdf" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-
+<div style="width:50%;float:left;"><center><a href="/files/documents-2021/Services_PCP_NMP_Factsheet_Employer.pdf" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-
 block; margin: 4px 2px; cursor:pointer;text-decoration:none;">For Employers</a></center></div>
 
-<div style="width:50%;float:left;"><center><a href="/files/documents-2021/Services_PCP_DP_Factsheet_Applicant.pdf" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">For Applicants</a></center></div>
+<div style="width:50%;float:left;"><center><a href="/files/documents-2021/Services_PCP_NMP_Factsheet_Applicant.pdf" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">For Applicants</a></center></div>
 
 <h4>Funding and Support</h4>
 
@@ -50,12 +62,13 @@ block; margin: 4px 2px; cursor:pointer;text-decoration:none;">For Employers</a><
 <b>Course Fee Subsidy</b>
 <ol>
 	<li>Non-Small and Medium Enterprises (SMEs): Up to 70% SSG funding*</li>
-	<li>SMEs or trainees eligible for Mid-Career Enhanced Subsidy (MCES): Up to 90% SSG funding*</li>
+	<li>SMEs or trainees eligible for Mid-Caree Enhanced Subsidy (MCES): Up to 90% SSG funding*</li>
 	</ol>
 
 <small><i>*Funding caps vary and apply for respective PCPs</i></small>
 
 <h4>Eligibility</h4>
+
 <ul>
 	<li>To facilitate the programme under a Place-and-Train mode, participating employers will hire the participants before they commence training; and be required to provide structured On-the-Job Training (OJT) plans to ensure that participants hired will gain the necessary competencies for their new role.</li>
 	<li>The PCP for RP, DP, and NMP are administered by the Singapore Institute of Retail Studies (SIRS). Participants will undergo a 6-month programme consisting of classroom training delivered by SIRS, paired with structured OJT at the hiring company.</li>
