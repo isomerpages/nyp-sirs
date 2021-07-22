@@ -15,7 +15,7 @@ third_nav_title: Alibaba Business School
 
 <p>Despite the disruption caused by the ongoing COVID-19 pandemic, it did not stop our participants from learning and progressing as we made AGCs accessible for them online.</p>
 
-<img src="images/alibaba-business-school/.jpg" style="width:100%;">
+<img src="images/alibaba-business-school/agcs-july-2021.png" style="width:100%;">
 
 <b>Alibaba Global Course series - Expand Your Global Footprint with Cross-Border E-Commerce</b><br>
 <em>19 September 2019</em>
