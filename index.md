@@ -6,9 +6,9 @@ sections:
   - hero:
       background: /images/images-2021/Homepage_Banner2.png
   - infopic:
-      title: Temporary Closure During P3HA
-      description: In line with the implementation of Phase 3 (Heightened Alert)
-        (P3HA), our Customer Relations Centre is temporarily closed till further
+      title: Temporary Closure During P2HA
+      description: In line with the implementation of Phase 2 (Heightened Alert)
+        (P2HA), our Customer Relations Centre is temporarily closed till further
         notice. Meanwhile, our website is operating 24/7 for you to view and
         apply for our courses. We will also be here to help you with your
         queries via email and WhatsApp.
@@ -16,17 +16,6 @@ sections:
       image: /images/images-2021/Home-Highlights-P2HA.png
       alt: alt text
       button: Contact SIRS
-  - infopic:
-      title: Alibaba Global Course series (AGCs)
-      description: The fourth edition of the AGCs is here! Future-proof your business
-        in the digital world of the cognitive era by picking up actionable
-        strategies and tips from Alibaba’s top practitioners. Gain a deep
-        understanding of the concepts behind Intelligent Business, powered by
-        artificial intelligence (AI).
-      url: /digital-programmes/alibaba-business-school/alibaba-global-course-series
-      image: /images/images-2021/Home-Highlights-AGCs.png
-      alt: alt text
-      button: More about AGCs
   - infopic:
       title: WSQ Diploma in Retail (E-Commerce / Omni-Channel)
       description: If your work or business involves e-commerce, this new WSQ full
