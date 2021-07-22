@@ -26,16 +26,6 @@ sections:
       image: /images/images-2021/Home-Highlights-DREO.png
       alt: Home-Highlights-DREO.png
   - infopic:
-      title: SkillsFuture for Digital Workplace (SFDW)
-      description: With refreshed and updated content, our new SFDW course can help
-        you to improve your digital engagement. Learn essential skills to stay
-        connected, boost productivity and gain the confidence to enhance your
-        new digital lifestyle!
-      url: /digital-programmes/skillsfuture-digital-workplace
-      image: /images/images-2021/Home-Highlights-SFDW.png
-      alt: alt text
-      button: More about SFDW
-  - infopic:
       title: SGUnited Skills (SGUS) Programme administered by SIRS
       description: The SGUnited Skills (SGUS) Programme is open to all mid-career
         Singapore Citizens and Singapore Permanent Residents who can commit to
