@@ -16,7 +16,7 @@ third_nav_title: Alibaba Business School
 
 <img src="images/alibaba-business-school/agcs-generic-2021.png" style="width:100%:">
 
-<p>The Alibaba Global Course series (AGCs) was launched in April 2018 following the hugely successful Alibaba Global Course (AGC) held in Resort World Sentosa Singapore, which benefited 2,300 participants. Together with renowned Taobao Education (previously known as Taobao University), SIRS has organised four editions of AGCs to help retailers achieve e-commerce success. Through the AGCs, participants stand to gain first-hand knowledge from current practitioners of the Alibaba ecosystem and platforms, as well as top trainers from the esteemed Taobao Education.</p>
+<p>The Alibaba Global Course series (AGCs) was launched in April 2018 following the hugely successful Alibaba Global Course (AGC) held in Resorts World Sentosa Singapore, which benefited 2,300 participants. Together with renowned Taobao Education (previously known as Taobao University), SIRS has organised four editions of AGCs to help retailers achieve e-commerce success. Through the AGCs, participants stand to gain first-hand knowledge from current practitioners of the Alibaba ecosystem and platforms, as well as top trainers from the esteemed Taobao Education.</p>
 
 <center><a href="/digital-programmes/alibaba-business-school/alibaba-global-course-series" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Find Out More</a></center>
 
