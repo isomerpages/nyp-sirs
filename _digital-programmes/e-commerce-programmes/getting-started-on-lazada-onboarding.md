@@ -1,12 +1,9 @@
 ---
-title: 'Getting Started on Lazada (Onboarding)'
+title: Getting Started on Lazada (Onboarding)
 permalink: /digital-programmes/e-commerce-programmes/getting-started-on-lazada
-breadcrumb: 'Getting Started on Lazada (Onboarding)'
-third_nav_title: 'E-Commerce Programmes'
-
+breadcrumb: Getting Started on Lazada (Onboarding)
+third_nav_title: E-Commerce Programmes
 ---
-
-
 <img src="/images/images-2021/DigitalProgrammes-E-Commerce-Lazada-Onboard.png" style="width:100%;">
 
 <h4 style="text-align:center;">Next intake:</h4>
@@ -17,8 +14,8 @@ third_nav_title: 'E-Commerce Programmes'
       <th style="text-align:center;width:50%;">Face-to-Face</th>
     </tr>
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">3 Jun 2021 (Thu)<br>12 Jul 2021 (Mon)</td>
-      <td style="text-align:center;width:50%;">3 Aug 2021 (Tue)</td>
+      <td style="text-align:center;width:50%;">8 Sep 2021 (Wed)</td>
+      <td style="text-align:center;width:50%;">3 Aug 2021 (Tue)<br>7 Oct 2021 (Thu)
     </tr>
 </table></center>
 
@@ -120,4 +117,3 @@ third_nav_title: 'E-Commerce Programmes'
 <div style="width:50%;float:left;"><center><a href="https://form.gov.sg/#!/5e5c849930d0700011b48fc5" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Register Now</a></center></div>
 
 <div style="width:50%;float:left;"><center><a href="https://form.gov.sg/602f30a8cdb38800116f60a6" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center></div>
-
