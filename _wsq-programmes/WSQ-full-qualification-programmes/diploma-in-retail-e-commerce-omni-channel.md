@@ -79,7 +79,7 @@ With emerging technologies and evolving consumer behaviour, the ability to lead 
 </tr>
 
 <tr>
-<td>Mid-career Enhanced Subsidy - Singapore Citizen OR <br>Singapore Citizen/SPR sponsored by SMEs<sup>1</sup> (90% funding)</td>
+<td>Mid-career Enhanced Subsidy - Singapore Citizen<sup>2</sup> OR <br>Singapore Citizen/SPR sponsored by SMEs<sup>1</sup> (90% funding)</td>
 <td>$913.55</td>
 </tr>
 
