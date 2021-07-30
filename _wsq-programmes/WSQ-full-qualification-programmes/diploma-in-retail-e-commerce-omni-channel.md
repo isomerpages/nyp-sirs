@@ -79,7 +79,7 @@ With emerging technologies and evolving consumer behaviour, the ability to lead 
 </tr>
 
 <tr>
-<td>Singapore Citizen/SPR sponsored by SMEs<sup>1</sup> (90% funding)</td>
+<td>Mid-career Enhanced Subsidy - Singapore Citizen OR Singapore Citizen/SPR sponsored by SMEs<sup>1</sup> (90% funding)</td>
 <td>$913.55</td>
 </tr>
 
@@ -87,6 +87,7 @@ With emerging technologies and evolving consumer behaviour, the ability to lead 
 </center>
 
 <small><i><sup>1</sup>Fee is under the <a href="/services/consultancy/etss">Enhanced Training Support for SMEs (ETSS)</a><br>
+	<small><i><sup>2</sup>Fee is under the <a href="/services/consultancy/skillsfuture-midcareer-enhanced-subsidy">Mid-career Enhanced Subsidy</a><br>
     Fees include prevailing GST</i></small>
 
 <h4>Additional Support</h4>
