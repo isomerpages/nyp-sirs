@@ -1,12 +1,9 @@
 ---
-title: 'Digital Strategy & the 101 of Search Engine Optimisation (SEO)'
+title: Digital Strategy & the 101 of Search Engine Optimisation (SEO)
 permalink: /digital-programmes/masterclasses-and-workshops/digital-strategy-and-the-101-of-seo
-breadcrumb: 'Digital Strategy & the 101 of Search Engine Optimisation (SEO)'
-third_nav_title: 'Masterclasses & Workshops'
-
+breadcrumb: Digital Strategy & the 101 of Search Engine Optimisation (SEO)
+third_nav_title: Masterclasses & Workshops
 ---
-
-
 <img src="/images/images-2021/DigitalProgrammes-Image-Masterclass.png" style="width:100%;">
 
 <h4 style="text-align:center;">Next intake:</h4>
@@ -17,7 +14,7 @@ third_nav_title: 'Masterclasses & Workshops'
       <th style="text-align:center;width:50%;">Face-to-Face</th>
     </tr>
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">23 Jul 2021 (Fri)</td>
+      <td style="text-align:center;width:50%;">15 Sep 2021 (Wed)</td>
       <td style="text-align:center;width:50%;">To be confirmed</td>
     </tr>
 </table></center>
@@ -118,5 +115,3 @@ third_nav_title: 'Masterclasses & Workshops'
 <div style="width:50%;float:left;"><center><a href="https://form.gov.sg/#!/5e587a6895e4da0011f0f746" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Register Now</a></center></div>
 
 <div style="width:50%;float:left;"><center><a href="https://form.gov.sg/602f33f172d5100012d6ca8b" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center></div>
-
-
