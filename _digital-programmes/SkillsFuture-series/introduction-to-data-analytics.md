@@ -13,7 +13,7 @@ third_nav_title: SkillsFuture Series
       <th style="text-align:center;width:50%;">Online Training</th>
     </tr>
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">21 Oct 2021 (Thurs) </td>
+      <td style="text-align:center;width:50%;">21 Sep 2021 (Thurs) </td>
     </tr>
 </table></center>
 
