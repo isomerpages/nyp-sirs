@@ -1,12 +1,9 @@
 ---
-title: 'Driving Sales Performance on Qoo10 (Marketing)'
+title: Driving Sales Performance on Qoo10 (Marketing)
 permalink: /digital-programmes/e-commerce-programmes/drive-sales-performance-on-qoo10
-breadcrumb: 'Driving Sales Performance on Qoo10 (Marketing)'
-third_nav_title: 'E-Commerce Programmes'
-
+breadcrumb: Driving Sales Performance on Qoo10 (Marketing)
+third_nav_title: E-Commerce Programmes
 ---
-
-
 <img src="/images/images-2021/DigitalProgrammes-E-Commerce-Qoo10-Marketing.png" style="width:100%;">
 
 <h4 style="text-align:center;">Next intake:</h4>
@@ -17,7 +14,7 @@ third_nav_title: 'E-Commerce Programmes'
       <th style="text-align:center;width:50%;">Face-to-Face</th>
     </tr>
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">22 Jul 2021 (Thu)</td>
+      <td style="text-align:center;width:50%;">10 Aug  2021 (Tue) <br> 20 Sep 2021 (Mon)</td>
       <td style="text-align:center;width:50%;">To be confirmed</td>
     </tr>
 </table></center>
@@ -107,4 +104,3 @@ third_nav_title: 'E-Commerce Programmes'
 <div style="width:50%;float:left;"><center><a href="https://form.gov.sg/#!/5e5c849930d0700011b48fc5" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Register Now</a></center></div>
 
 <div style="width:50%;float:left;"><center><a href="https://form.gov.sg/602f30a8cdb38800116f60a6" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center></div>
-
