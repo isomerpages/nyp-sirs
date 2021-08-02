@@ -1,12 +1,9 @@
 ---
-title: 'Getting Started on Qoo10 (Onboarding)'
+title: Getting Started on Qoo10 (Onboarding)
 permalink: /digital-programmes/e-commerce-programmes/getting-started-on-qoo10
-breadcrumb: 'Getting Started on Qoo10 (Onboarding)'
-third_nav_title: 'E-Commerce Programmes'
-
+breadcrumb: Getting Started on Qoo10 (Onboarding)
+third_nav_title: E-Commerce Programmes
 ---
-
-
 <img src="/images/images-2021/DigitalProgrammes-E-Commerce-Qoo10-Onboarding.png" style="width:100%;">
 
 <h4 style="text-align:center;">Next intake:</h4>
@@ -17,8 +14,8 @@ third_nav_title: 'E-Commerce Programmes'
       <th style="text-align:center;width:50%;">Face-to-Face</th>
     </tr>
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;"> To be confirmed </td>
-      <td style="text-align:center;width:50%;">13 Jul 2021 (Tue)</td>
+      <td style="text-align:center;width:50%;"> 6 Sep 2021 (Mon) </td>
+      <td style="text-align:center;width:50%;">To be Confirmed</td>
     </tr>
 </table></center>
 

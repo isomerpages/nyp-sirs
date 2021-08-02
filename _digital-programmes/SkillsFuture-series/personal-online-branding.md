@@ -1,12 +1,9 @@
 ---
-title: 'Personal Online Branding'
+title: Personal Online Branding
 permalink: /digital-programmes/skillsfuture-series/personal-online-branding
-breadcrumb: 'Personal Online Branding'
-third_nav_title: 'SkillsFuture Series'
-
+breadcrumb: Personal Online Branding
+third_nav_title: SkillsFuture Series
 ---
-
-
 <img src="images/sf-series-banner.png" style="width:100%;">
 
 <h4 style="text-align:center;">Next intake:</h4>
@@ -16,7 +13,7 @@ third_nav_title: 'SkillsFuture Series'
       <th style="text-align:center;width:50%;">Online Training</th>
     </tr>
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">27 May 2021 (Thu)<br> 10 Jun 2021 (Thur) <br> 6 Jul 2021 (Tue) <br> 5 Aug 2021 (Thu)</td>
+      <td style="text-align:center;width:50%;">5 Aug 2021 (Thu)<br> 6 Sep 2021 (Mon) <br> 12 Oct 2021 (Tue) </td>
     </tr>
 </table></center>
 
@@ -79,4 +76,3 @@ third_nav_title: 'SkillsFuture Series'
 <div style="width:50%;float:left;"><center><a href="https://form.gov.sg/#!/5e5cbf59130b010011602eaa" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Register Now</a></center></div>
 
 <div style="width:50%;float:left;"><center><a href="https://form.gov.sg/602f39a008dce80012763d62" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center></div>
-

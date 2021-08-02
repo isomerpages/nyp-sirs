@@ -1,11 +1,9 @@
 ---
-title: 'Unleash the Power of Social Media Marketing'
+title: Unleash the Power of Social Media Marketing
 permalink: /wsq-programmes/wsq-modular-programmes/unleash-the-power-of-social-media-marketing
-breadcrumb: 'Unleash the Power of Social Media Marketing'
-third_nav_title: 'WSQ Certified Modular Programmes'
-
+breadcrumb: Unleash the Power of Social Media Marketing
+third_nav_title: WSQ Certified Modular Programmes
 ---
-
 <img src="/images/images-2021/WSQ Modular_SMM.png" style="width:100%;">
 
 <h4 style="text-align:center;">Next intake:</h4>
@@ -14,7 +12,7 @@ third_nav_title: 'WSQ Certified Modular Programmes'
       <th style="text-align:center;width:50%;">Online Training</th>
     </tr>
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">(4 Days)<br>1, 2, 3 & 4 June 2021 (Tue-Fri)<br>7, 8, 9 & 10 June 2021 (Mon-Thur)</td>
+      <td style="text-align:center;width:50%;">(4 Days)<br>1, 2, 3 & 6 Sep 2021<br>1, 4, 5 & 6 Oct 2021</td>
     </tr>
 </table></center>
 

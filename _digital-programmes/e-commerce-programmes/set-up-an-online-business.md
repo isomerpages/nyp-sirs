@@ -1,12 +1,9 @@
 ---
-title: 'Set up an Online Business'
+title: Set up an Online Business
 permalink: /digital-programmes/e-commerce-programmes/setup-an-online-business
-breadcrumb: 'Set up an Online Business'
-third_nav_title: 'E-Commerce Programmes'
-
+breadcrumb: Set up an Online Business
+third_nav_title: E-Commerce Programmes
 ---
-
-
 <img src="/images/images-2021/DigitalProgrammes-E-Commerce-Shopmatic-SetupOnlineBiz.png" style="width:100%;">
 
 <h4 style="text-align:center;">Next intake:</h4>
@@ -17,8 +14,8 @@ third_nav_title: 'E-Commerce Programmes'
       <th style="text-align:center;width:50%;">Face-to-Face</th>
     </tr>
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">14-15 Jun 2021 (Mon-Tue)<br>26-27 Jul 2021 (Mon-Tue)</td>
-      <td style="text-align:center;width:50%;">17-18 Aug 2021 (Tue-Wed)</td>    
+      <td style="text-align:center;width:50%;">9-10 Sep 2021 (Thu-Fri)</td>
+      <td style="text-align:center;width:50%;">17-18 Aug 2021 (Tue-Wed)<br>14-15 Oct 2021 (Thu-Fri)</td>   
     </tr>
 </table></center>
 

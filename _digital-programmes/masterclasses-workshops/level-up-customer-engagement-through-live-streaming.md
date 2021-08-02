@@ -15,7 +15,7 @@ third_nav_title: Masterclasses & Workshops
     </tr>
     <tr style="text-align:center;">
       <td style="text-align:center;width:50%;">To be confirmed</td>
-      <td style="text-align:center;width:50%;">21-22 Jul 2021 (Wed-Thu)<br>25-26 Aug 2021(Wed-Thu)</td>
+      <td style="text-align:center;width:50%;">25-26 Aug 2021(Wed-Thu) <br>16-17 Sep 2021 (Thu-Fri)</td>
     </tr>
 </table></center>
 

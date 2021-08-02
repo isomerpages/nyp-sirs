@@ -1,12 +1,9 @@
 ---
-title: 'Getting Started on Shopee (Onboarding)'
+title: Getting Started on Shopee (Onboarding)
 permalink: /digital-programmes/e-commerce-programmes/getting-started-on-shopee
-breadcrumb: 'Getting Started on Shopee (Onboarding)'
-third_nav_title: 'E-Commerce Programmes'
-
+breadcrumb: Getting Started on Shopee (Onboarding)
+third_nav_title: E-Commerce Programmes
 ---
-
-
 <img src="/images/images-2021/DigitalProgrammes-E-Commerce-Shopee-Onboarding.PNG" style="width:100%;">
 
 <h4 style="text-align:center;">Next intake:</h4>
@@ -17,8 +14,8 @@ third_nav_title: 'E-Commerce Programmes'
       <th style="text-align:center;width:50%;">Face-to-Face</th>
     </tr>
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">2 Jun 2021 (Wed)<br>8 Jul 2021 (Thu)</td>
-      <td style="text-align:center;width:50%;">2 Aug 2021 (Mon)</td>
+      <td style="text-align:center;width:50%;">7 Sep 2021 (Tue) </td>
+      <td style="text-align:center;width:50%;">2 Aug 2021 (Mon)<br>6 Oct 2021 (Wed)</td>
     </tr>
 </table></center>
 

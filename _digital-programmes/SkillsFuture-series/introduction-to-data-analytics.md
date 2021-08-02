@@ -1,12 +1,9 @@
 ---
-title: 'Introduction to Data Analytics'
+title: Introduction to Data Analytics
 permalink: /digital-programmes/skillsfuture-series/introduction-to-data-analytics
-breadcrumb: 'Introduction to Data Analytics'
-third_nav_title: 'SkillsFuture Series'
-
+breadcrumb: Introduction to Data Analytics
+third_nav_title: SkillsFuture Series
 ---
-
-
 <img src="images/sf-series-banner.png" style="width:100%;">
 
 <h4 style="text-align:center;">Next intake:</h4>
@@ -16,7 +13,7 @@ third_nav_title: 'SkillsFuture Series'
       <th style="text-align:center;width:50%;">Online Training</th>
     </tr>
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">23 Jun 2021 (Wed)</td>
+      <td style="text-align:center;width:50%;">21 Sep 2021 (Thurs) </td>
     </tr>
 </table></center>
 

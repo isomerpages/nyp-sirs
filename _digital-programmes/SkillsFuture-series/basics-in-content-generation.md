@@ -1,12 +1,9 @@
 ---
-title: 'Basics in Content Generation'
+title: Basics in Content Generation
 permalink: /digital-programmes/skillsfuture-series/basics-in-content-generation
-breadcrumb: 'Basics in Content Generation'
-third_nav_title: 'SkillsFuture Series'
-
+breadcrumb: Basics in Content Generation
+third_nav_title: SkillsFuture Series
 ---
-
-
 <img src="images/sf-series-banner.png" style="width:100%;">
 
 <h4 style="text-align:center;">Next intake:</h4>
@@ -16,7 +13,7 @@ third_nav_title: 'SkillsFuture Series'
       <th style="text-align:center;width:50%;">Online Training</th>
     </tr>
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">16 Jul 2021 (Fri)</td>
+      <td style="text-align:center;width:50%;">29 Sep 2021 (Wed)</td>
     </tr>
 </table></center>
 

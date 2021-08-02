@@ -1,11 +1,8 @@
 ---
-title: 'SkillsFuture for Digital Workplace (SFDW)'
+title: SkillsFuture for Digital Workplace (SFDW)
 permalink: /digital-programmes/skillsfuture-digital-workplace
-breadcrumb: 'SkillsFuture for Digital Workplace (SFDW)'
-
+breadcrumb: SkillsFuture for Digital Workplace (SFDW)
 ---
-
-
 <img src="/images/images-2021/DigitalProgrammes-SFDW.png" style="width:100%;">
 
 <h4 style="text-align:center;">Next intake:</h4>
@@ -17,7 +14,7 @@ breadcrumb: 'SkillsFuture for Digital Workplace (SFDW)'
     </tr>
     <tr style="text-align:center;">
       <td style="text-align:center;width:50%;">To be confirmed </td>
-      <td style="text-align:center;width:50%;">28-29 Jul (Wed-Thu)</td>
+      <td style="text-align:center;width:50%;">27-28 Sep 2021 (Mon-Tue)</td>
     </tr>
 </table></center>
 

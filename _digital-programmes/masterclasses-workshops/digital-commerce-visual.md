@@ -1,12 +1,9 @@
 ---
-title: 'Digital Commerce Visual'
+title: Digital Commerce Visual
 permalink: /digital-programmes/masterclasses-and-workshops/digital-commerce-visual
-breadcrumb: 'Digital Commerce Visual'
-third_nav_title: 'Masterclasses & Workshops'
-
+breadcrumb: Digital Commerce Visual
+third_nav_title: Masterclasses & Workshops
 ---
-
-
 <img src="/images/images-2021/DigitalProgrammes-Image-Masterclass.png" style="width:100%;">
 
 <h4 style="text-align:center;">Next intake:</h4>
@@ -17,7 +14,7 @@ third_nav_title: 'Masterclasses & Workshops'
       <th style="text-align:center;width:50%;">Face-to-Face</th>
     </tr>
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">21-22 Jul 2021(Wed-Thu)</td>
+      <td style="text-align:center;width:50%;">16-17 Sep 2021 (Thu-Fri)</td>
       <td style="text-align:center;width:50%;">To be confirmed</td>
     </tr>
 </table></center>

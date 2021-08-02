@@ -1,11 +1,9 @@
 ---
-title: 'The Art and Science of Visual Merchandising'
+title: The Art and Science of Visual Merchandising
 permalink: /wsq-programmes/wsq-modular-programmes/the-art-and-science-of-visual-merchandising
-breadcrumb: 'The Art and Science of Visual Merchandising'
-third_nav_title: 'WSQ Certified Modular Programmes'
-
+breadcrumb: The Art and Science of Visual Merchandising
+third_nav_title: WSQ Certified Modular Programmes
 ---
-
 <img src="/images/images-2021/WSQ Modular_VM.png" style="width:100%;">
 
 <h4 style="text-align:center;">Next intake:</h4>
@@ -14,7 +12,7 @@ third_nav_title: 'WSQ Certified Modular Programmes'
       <th style="text-align:center;width:50%;">Face-to-Face</th>
     </tr>
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">21 & 24 Jun 2021 (Mon & Thu) </td>
+      <td style="text-align:center;width:50%;">24 & 26 Aug 2021 (Tue & Thu) <br>25 & 27 Oct 2021 (Mon & Wed)</td>
     </tr>
 </table></center>
 

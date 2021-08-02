@@ -1,12 +1,9 @@
 ---
-title: 'Specialist Diploma in Retail (Operations)'
+title: Specialist Diploma in Retail (Operations)
 permalink: /wsq-programmes/wsq-full-qualification-programmes/specialist-diploma-in-retail-operations
-breadcrumb: 'Specialist Diploma in Retail (Operations)'
-third_nav_title: 'WSQ Full Qualification Programmes'
-
+breadcrumb: Specialist Diploma in Retail (Operations)
+third_nav_title: WSQ Full Qualification Programmes
 ---
-
-
 <img src="/images/images-2021/WSQ_FullQual_SDRO.png" style="width:100%;">
 
 <h4 style="text-align:center;">Next intake:</h4>
@@ -73,7 +70,7 @@ third_nav_title: 'WSQ Full Qualification Programmes'
 </tr>
 
 <tr>
-<td>Singapore Citizen/SPR sponsored by SMEs<sup>1</sup> (90% funding)</td>
+<td>Mid-career Enhanced Subsidy - Singapore Citizen <sup>2</sup>OR <br>Singapore Citizen/SPR sponsored by SMEs<sup>1</sup> (90% funding)</td>
 <td>$1,212.42</td>
 </tr>
 
@@ -81,6 +78,7 @@ third_nav_title: 'WSQ Full Qualification Programmes'
 </center>
 
 <small><i><sup>1</sup>Fee is under the <a href="/services/consultancy/etss">Enhanced Training Support for SMEs (ETSS)</a><br>
+	<small><i><sup>2</sup>Fee is under the <a href="/services/consultancy/skillsfuture-midcareer-enhanced-subsidys">Mid-career Enhanced Subsidy</a><br>
     Fees include prevailing GST</i></small>
 
 <h4>Additional Support</h4>

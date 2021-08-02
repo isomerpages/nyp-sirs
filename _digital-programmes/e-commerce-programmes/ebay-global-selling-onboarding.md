@@ -1,12 +1,9 @@
 ---
-title: 'eBay Global Selling (Onboarding)'
+title: eBay Global Selling (Onboarding)
 permalink: /digital-programmes/e-commerce-programmes/ebay-global-selling
-breadcrumb: 'eBay Global Selling (Onboarding)'
-third_nav_title: 'E-Commerce Programmes'
-
+breadcrumb: eBay Global Selling (Onboarding)
+third_nav_title: E-Commerce Programmes
 ---
-
-
 <img src="/images/images-2021/DigitalProgrammes-E-Commerce-eBay.png" style="width:100%;">
 
 <h4 style="text-align:center;">Next intake:</h4>
@@ -17,7 +14,7 @@ third_nav_title: 'E-Commerce Programmes'
       <th style="text-align:center;width:50%;">Face-to-Face</th>
     </tr>
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">11 Jun 2021 (Fri) <br>  5 Aug 2021 (Thu)</td>
+      <td style="text-align:center;width:50%;">4 Oct 2021 (Mon)</td>
       <td style="text-align:center;width:50%;">To be confirmed</td>
     </tr>
 </table></center>
@@ -117,4 +114,3 @@ third_nav_title: 'E-Commerce Programmes'
 <div style="width:50%;float:left;"><center><a href="https://form.gov.sg/#!/5e5c849930d0700011b48fc5" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Register Now</a></center></div>
 
 <div style="width:50%;float:left;"><center><a href="https://form.gov.sg/602f30a8cdb38800116f60a6" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center></div>
-

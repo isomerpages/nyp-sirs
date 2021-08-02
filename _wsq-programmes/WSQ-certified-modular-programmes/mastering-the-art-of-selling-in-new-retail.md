@@ -1,12 +1,9 @@
 ---
-title: 'Mastering the Art of Selling in New Retail'
+title: Mastering the Art of Selling in New Retail
 permalink: /wsq-programmes/wsq-modular-programmes/mastering-the-art-of-selling-in-new-retail
-breadcrumb: 'Mastering the Art of Selling in New Retail'
-third_nav_title: 'WSQ Certified Modular Programmes'
-
+breadcrumb: Mastering the Art of Selling in New Retail
+third_nav_title: WSQ Certified Modular Programmes
 ---
-
-
 <img src="/images/images-2021/WSQ Modular_Master.png" style="width:100%;">
 
 
@@ -18,8 +15,8 @@ third_nav_title: 'WSQ Certified Modular Programmes'
       <th style="text-align:center;width:50%;">Face-to-Face</th>
     </tr>
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">15-16 Jun 2021 (Tue-Wed) - Eng </td>
-      <td style="text-align:center;width:50%;">7-8 Jul 2021 (Wed-Thu)- 中文 <br> 16-17 Aug 2021 (Mon-Tue) - Eng </td>
+      <td style="text-align:center;width:50%;">To be confirmed</td>
+      <td style="text-align:center;width:50%;"> 16-17 Aug 2021 (Mon-Tue) - Eng<br>  13-14 Sep (Mon-Tue) - 中文 <br>  12 - 13 Oct (Tue - Wed) Eng</td>
     </tr>
 </table></center>
 
