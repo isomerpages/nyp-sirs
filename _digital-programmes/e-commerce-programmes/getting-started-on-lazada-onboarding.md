@@ -15,8 +15,8 @@ third_nav_title: E-Commerce Programmes
     </tr>
     <tr style="text-align:center;">
       <td style="text-align:center;width:50%;">8 Sep 2021 (Wed)</td>
-      <td style="text-align:center;width:50%;">3 Aug 2021 (Tue)<br>7 Oct 2021 (Thu)
-    </tr>
+      <td style="text-align:center;width:50%;">3 Aug 2021 (Tue)<br>7 Oct 2021 (Thu)</td>
+	</tr>
 </table></center>
 
 <p>Selling your products on Lazada has never been easier with SIRS 1-day workshop. Get started with the top e-marketplace platform in Southeast Asia to get more customers!</p>
