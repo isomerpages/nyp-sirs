@@ -17,6 +17,13 @@ sections:
       alt: alt text
       button: Contact SIRS
   - infopic:
+      title: Live Streaming Competition
+      description: We are grooming
+      button: sign up now
+      url: https://form.gov.sg/#!/6107a4cc6802ae00127a1949
+      image: /images/images-2021/Home-Highlights-LSC.png
+      alt: Image alt text
+  - infopic:
       title: WSQ Diploma in Retail (E-Commerce / Omni-Channel)
       description: If your work or business involves e-commerce, this new WSQ full
         qualification programme will greatly benefit you in today's omni-channel
