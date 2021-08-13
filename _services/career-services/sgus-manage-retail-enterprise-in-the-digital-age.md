@@ -4,15 +4,15 @@ permalink: /services/sgus-programme/manage-retail-and-enterprise-in-the-digital-
 breadcrumb: SGUS Manage Retail & Enterprise in the Digital Age
 third_nav_title: Career Services
 ---
-<img src="/images/images-2021/Services_SGUS_Overview.png" style="width:100%;">
+<img style="width:100%;" src="/images/images-2021/Services_SGUS_Overview.png">
 
 <h4 style="text-align:center;">Next intake:</h4>
 
 <center><table style="width:80%;">
-    <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">1 Sep 2021</td>
+    <tbody><tr style="text-align:center;">
+      <td style="text-align:center;width:50%;">4 Oct 2021</td>
     </tr>
-</table></center>
+</tbody></table></center>
 
 <p>Digitisation has impacted the business environment, evolving into one high-tech global environment that is changing every minute. Connectivity amongst people 
 has also reshaped our channels of communication and influenced our perception on what communication encompasses. Adopting mindsets of agility and responsiveness 
@@ -53,7 +53,7 @@ outcomes for the business.</p>
 
 <center>
 <table style="width:100%;">
-<tr>
+<tbody><tr>
 <th style="width:70%;">Category</th>
 <th style="width:30%:">Price</th>
 </tr>
@@ -63,11 +63,11 @@ outcomes for the business.</p>
 <td>$500.00</td>
 </tr>
 
-</table>
+</tbody></table>
 </center>
 
 <p>This programme is also eligible for SkillsFuture Credit. For SkillsFuture course reference, please click <a href="/files/documents-2021/SIRS-SkillsFuture-CourseRefNumber.pdf">here.</a></p>
 
-<div style="width:50%;float:left;"><center><a href="https://form.gov.sg/#!/5f7c08ce956eff0011c11fcf" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Register Now</a></center></div>
+<div style="width:50%;float:left;"><center><a style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;" href="https://form.gov.sg/#!/5f7c08ce956eff0011c11fcf">Register Now</a></center></div>
 
-<div style="width:50%;float:left;"><center><a href="https://form.gov.sg/602f3cfc8593b40011c817d5" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center></div>
+<div style="width:50%;float:left;"><center><a style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;" href="https://form.gov.sg/602f3cfc8593b40011c817d5">Request for Brochure</a></center></div>
