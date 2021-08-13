@@ -4,7 +4,7 @@ permalink: /services/sgus-programme/manage-retail-and-enterprise-in-the-digital-
 breadcrumb: SGUS Manage Retail & Enterprise in the Digital Age
 third_nav_title: Career Services
 ---
-<img style="width:100%;" src="/images/images-2021/Services_SGUS_Overview.png">
+<img src="/images/images-2021/Services_SGUS_Overview.png" style="width:100%;">
 
 <h4 style="text-align:center;">Next intake:</h4>
 
@@ -68,6 +68,6 @@ outcomes for the business.</p>
 
 <p>This programme is also eligible for SkillsFuture Credit. For SkillsFuture course reference, please click <a href="/files/documents-2021/SIRS-SkillsFuture-CourseRefNumber.pdf">here.</a></p>
 
-<div style="width:50%;float:left;"><center><a style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;" href="https://form.gov.sg/#!/5f7c08ce956eff0011c11fcf">Register Now</a></center></div>
+<div style="width:50%;float:left;"><center><a href="https://form.gov.sg/#!/5f7c08ce956eff0011c11fcf" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Register Now</a></center></div>
 
-<div style="width:50%;float:left;"><center><a style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;" href="https://form.gov.sg/602f3cfc8593b40011c817d5">Request for Brochure</a></center></div>
+<div style="width:50%;float:left;"><center><a href="https://form.gov.sg/602f3cfc8593b40011c817d5" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center></div>
