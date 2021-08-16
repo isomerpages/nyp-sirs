@@ -1,25 +1,22 @@
 ---
-title: 'SkillsFuture Work-Study Certificate (Bootcamp in Digital Marketing & Branding)'
+title: SkillsFuture Work-Study Certificate (Bootcamp in Digital Marketing & Branding)
 permalink: /services/career-services/work-study-cert-dmb
-breadcrumb: 'SkillsFuture Work-Study Certificate (Bootcamp in Digital Marketing & Branding)'
-third_nav_title: 'Career Services'
-
+breadcrumb: SkillsFuture Work-Study Certificate (Bootcamp in Digital Marketing & Branding)
+third_nav_title: Career Services
 ---
-
-
 <img src="/images/images-2021/CareerServices-Bootcamp.png" style="width:100%;">
 
 <h4 style="text-align:center;">Next intake:</h4>
 
 <center><table style="width:80%;">
-    <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">6 September to 30 October 2021</td>
+    <tbody><tr style="text-align:center;">
+      <td style="text-align:center;width:50%;">6 September to 29 October 2021</td>
     </tr>
-</table></center>
+</tbody></table></center>
 
-<p>Introducing SkillsFuture Work-Learn Bootcamp, a SkillsFuture initative in collaboration with Nanyang Polytechnic – Singapore Institute of Retail Studies (NYP-SIRS) and Generation (A non-profit organisation founded by McKinsey & Company) to equip fresh graduates and mid-career individuals in becoming a Digital Marketeer.</p>
+<p>Introducing SkillsFuture Work-Learn Bootcamp, a SkillsFuture initative in collaboration with Nanyang Polytechnic – Singapore Institute of Retail Studies (NYP-SIRS) and Generation (A non-profit organisation founded by McKinsey &amp; Company) to equip fresh graduates and mid-career individuals in becoming a Digital Marketeer.</p>
 
-<p>The SkillsFuture Work-Study Certificate (Bootcamp in Digital Marketing & Branding) is a Train-and-Place scheme, where participants will undergo 8 weeks of intensive institutional training before seeking employment. The module is powered by Generation’s innovative delivery methodology, integrating key mindsets and behaviours along with technical know-how necessary to excel in an ever-changing digital industry!</p>
+<p>The SkillsFuture Work-Study Certificate (Bootcamp in Digital Marketing &amp; Branding) is a Train-and-Place scheme, where participants will undergo 8 weeks of intensive institutional training before seeking employment. The module is powered by Generation’s innovative delivery methodology, integrating key mindsets and behaviours along with technical know-how necessary to excel in an ever-changing digital industry!</p>
 
 <h4>What's in it for you?</h4>
 <ol>
@@ -31,7 +28,7 @@ third_nav_title: 'Career Services'
   <li>Mentorship during programme and job placement</li>
   </ol>
 
-<small><i>*Terms & Conditions Apply</i></small>
+<small><i>*Terms &amp; Conditions Apply</i></small>
 
 <h4>Eligibility</h4>
 <ul>
@@ -61,4 +58,3 @@ third_nav_title: 'Career Services'
 <div style="width:50%;float:left;"><center><a href="https://form.gov.sg/#!/609555e30142ca0011975f77" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Register Now</a></center></div>
   
 <div style="width:50%;float:left;"><center><a href="https://form.gov.sg/#!/602f3f7ccdb38800116f9d36" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center></div>
-
