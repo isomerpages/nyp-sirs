@@ -20,9 +20,10 @@ third_nav_title: WSQ Certified Modular Programmes
 
 <p>Join us in this 2-day course to learn how you can revitalize your store to attract and engage shoppers, and provide them with an immersive shopping experience that excites the senses through The Art and Science of Visual Merchandising. Attract visitors through shareable moments, engage your fanbase, and convert them into your loyal customers today!</p>
 
-<h4>Course Title</h4>
+<h4>Course Title | Mode of Training | Course Ref</h4>
 
-<p>Visual Merchandising Presentation (SF Associate)</p>
+<p>Visual Merchandising Presentation (SF Associate)
+<br>Classroom - TGS2017501166</p>
 
 <b>Receive a WSQ Statement of Attainment (SOA) from the SkillsFuture Singapore (SSG) upon completion.</b>
 
@@ -83,8 +84,7 @@ third_nav_title: WSQ Certified Modular Programmes
 </table>
 </center>
 
-<small><i><sup>1</sup>Fee is under the <a href="/services/consultancy/etss">Enhanced Training Support for SMEs (ETSS)</a><br>
-    Fees include prevailing GST</i></small>
+<small><i><sup>1</sup>Fee is under the <a href="/services/consultancy/etss">Enhanced Training Support for SMEs (ETSS)</a><br>Funding Eligiblity Period: 1 April 2016 - 31 March 2022<br>Fees include prevailing GST</i></small>
 
 <h4>Additonal Support</h4>
 
