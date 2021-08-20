@@ -87,8 +87,7 @@ third_nav_title: WSQ Certified Modular Programmes
 </table>
 </center>
 
-<small><i><sup>1</sup>Fee is under the <a href="/services/consultancy/etss">Enhanced Training Support for SMEs (ETSS)</a><br>
-    Fees include prevailing GST<br>Funding Eligiblity Period: 1 April 2016 - 31 March 2022</i></small>
+<small><i><sup>1</sup>Fee is under the <a href="/services/consultancy/etss">Enhanced Training Support for SMEs (ETSS)</a><br>Funding Eligiblity Period: 1 April 2016 - 31 March 2022<br>Fees include prevailing GST</i></small>
 
 <h4>Additional Support</h4>
 
