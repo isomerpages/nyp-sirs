@@ -49,5 +49,7 @@ breadcrumb: 'Who We Are'
 </ul>
 </p>
 
-<i><small style="line-height:0.2">*As an educational institution, NYP is committed to ensuring a safe and supportive campus and environment where there is respect and dignity for everyone. Accordingly, high standards of conduct are expected from all in our community. In case of any alleged offences committed within our premises, SIRS may report the matter to the security and/or relevant government agencies.</small></i>
+<i><small>*As an educational institution, NYP is committed to ensuring a safe and supportive campus and environment where there is respect and dignity for everyone. Accordingly, high standards of conduct are expected from all in our community. In case of any alleged offences committed within our premises, SIRS may report the matter to the security and/or relevant government agencies.</small></i>
+
+<p><i><small>Nanyang Polytechnic-Singapore Institute of Retail Studies (UEN: T08GB0032G) is an appointed CET Centre by SkillsFuture Singapore (SSG) for courses supported by SkillsFuture Credit (SFC) / funded by SSG. The funding support eligibility period is 1 April 2016 – 31 March 2022.</small></i></p>
 
