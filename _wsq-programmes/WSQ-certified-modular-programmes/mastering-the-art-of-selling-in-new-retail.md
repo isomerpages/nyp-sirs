@@ -51,7 +51,6 @@ third_nav_title: WSQ Certified Modular Programmes
 <p>Total of 2 days, 15 hours:</p>
 <li>Day 1: 9am to 5pm</li>
 <li>Day 2: 9am to 6pm</li>
- </ul>
  
 <h4>Entry Requirements</h4>
 <ul>
