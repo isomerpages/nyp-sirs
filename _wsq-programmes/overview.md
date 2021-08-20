@@ -34,5 +34,3 @@ breadcrumb: Overview
 <img src="/images/images-2021/Logo-WSQ.jpg" style="width:40%;">
 
 <p>The Singapore Workforce Skills Qualification (WSQ) is a national credential system that trains, develops, assesses, and certifies skills and competencies for the Singapore workforce. WSQ offers bite-sized training modules, at the end of which, a Statement of Attainment (SOA) is awarded. Trainees can also accumulate relevant SOAs to achieve WSQ full qualification.</p>
-
-<p><i><small>Nanyang Polytechnic-Singapore Institute of Retail Studies (UEN: T08GB0032G) is an appointed CET Centre by SkillsFuture Singapore (SSG) for courses supported by SkillsFuture Credit (SFC) / funded by SSG. The funding support eligibility period is 1 April 2016 – 31 March 2022.</small></i></p>
