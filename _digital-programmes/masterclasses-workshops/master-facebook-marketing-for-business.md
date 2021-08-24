@@ -1,12 +1,9 @@
 ---
-title: 'Master Facebook Marketing for Business'
+title: Master Facebook Marketing for Business
 permalink: /digital-programmes/masterclasses-and-workshops/master-facebook-marketing-for-business
-breadcrumb: 'Master Facebook Marketing for Business'
-third_nav_title: 'Masterclasses & Workshops'
-
+breadcrumb: Master Facebook Marketing for Business
+third_nav_title: Masterclasses & Workshops
 ---
-
-
 <img src="/images/images-2021/DigitalProgrammes-Image-Masterclass.png" style="width:100%;">
 
 <h4 style="text-align:center;">Next intake:</h4>
@@ -17,7 +14,7 @@ third_nav_title: 'Masterclasses & Workshops'
       <th style="text-align:center;width:50%;">Face-to-Face</th>
     </tr>
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">5 & 6 July 2021</td>
+      <td style="text-align:center;width:50%;">7 & 8 Oct 2021</td>
       <td style="text-align:center;width:50%;">To be confirmed</td>
     </tr>
 </table></center>
