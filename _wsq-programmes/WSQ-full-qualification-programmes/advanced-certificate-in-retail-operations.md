@@ -1,11 +1,9 @@
 ---
-title: 'Advanced Certificate in Retail (Operations)'
+title: Advanced Certificate in Retail (Operations)
 permalink: /wsq-programmes/wsq-full-qualification-programmes/advanced-certificate-in-retail-operations
-breadcrumb: 'Advanced Certificate in Retail (Operations)'
-third_nav_title: 'WSQ Full Qualification Programmes'
-
+breadcrumb: Advanced Certificate in Retail (Operations)
+third_nav_title: WSQ Full Qualification Programmes
 ---
-
 <img src="/images/images-2021/WSQ_FullQual_ACRO.png" style="width:100%;">
 
 <h4 style="text-align:center;">Next intake:</h4>
@@ -15,8 +13,8 @@ third_nav_title: 'WSQ Full Qualification Programmes'
       <th style="text-align:center;width:50%;">Night Training</th>
     </tr>
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">18 Apr 2021(Every Wed)<br>7 July 2021(Every Wed)</td>
-      <td style="text-align:center;width:50%;">20 April 2021 (Every Tue & Thur) <br> 13 July 2021 (Every Tue & Thur) </td>
+      <td style="text-align:center;width:50%;">8 Sep 2021 (Every Wed</td>
+      <td style="text-align:center;width:50%;">4 Oct 2021 (Every Mon & Wed </td>
     </tr>
 </table></center>
 
