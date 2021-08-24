@@ -6,32 +6,14 @@ sections:
   - hero:
       background: /images/images-2021/Homepage_Banner2.png
   - infopic:
-      title: Temporary Closure During P2HA
-      description: In line with the implementation of Phase 2 (Heightened Alert)
-        (P2HA), our Customer Relations Centre is temporarily closed till further
-        notice. Meanwhile, our website is operating 24/7 for you to view and
-        apply for our courses. We will also be here to help you with your
-        queries via email and WhatsApp.
+      title: Customer Relations Centre is Open
+      description: Our Customer Relations Centre is now open with safe management
+        measures in place. You can still reach us remotely via email, call or
+        WhatsApp, and we will be happy to assist you with your queries.
       url: /contact-us
-      image: /images/images-2021/Home-Highlights-P2HA.png
+      image: /images/images-2021/Home-Highlights-P2HA-Open.jpg
       alt: alt text
       button: Contact SIRS
-  - infopic:
-      title: Live Streaming Competition
-      description: We are grooming the next generation of new retail professionals who are apt at presenting while engaging with consumers online. Sign up for the competition and you will be trained and equipped with digital marketing and live streaming skills. There will also be job matching and career opportunities into participating retail companies.
-      button: sign up now
-      url: https://form.gov.sg/#!/6107a4cc6802ae00127a1949
-      image: /images/images-2021/Home-Highlights-LSC.png
-      alt: Image alt text
-  - infopic:
-      title: WSQ Diploma in Retail (E-Commerce / Omni-Channel)
-      description: If your work or business involves e-commerce, this new WSQ full
-        qualification programme will greatly benefit you in today's omni-channel
-        world of retailing.
-      button: MORE ABOUT THIS DIPLOMA
-      url: wsq-programmes/wsq-full-qualification-programmes/diploma-in-retail-e-commerce-omni-channel
-      image: /images/images-2021/Home-Highlights-DREO.png
-      alt: Home-Highlights-DREO.png
   - infopic:
       title: SGUnited Skills (SGUS) Programme administered by SIRS
       description: The SGUnited Skills (SGUS) Programme is open to all mid-career
