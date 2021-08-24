@@ -7,18 +7,17 @@ sections:
       background: /images/images-2021/Homepage_Banner2.png
   - infopic:
       title: Temporary Closure During P2HA
-      description: In line with the implementation of Phase 2 (Heightened Alert)
-        (P2HA), our Customer Relations Centre is temporarily closed till further
-        notice. Meanwhile, our website is operating 24/7 for you to view and
-        apply for our courses. We will also be here to help you with your
-        queries via email and WhatsApp.
       url: /contact-us
-      image: /images/images-2021/Home-Highlights-P2HA.png
+      image: /images/images-2021/Home-Highlights-P2HA-Open.jpg
       alt: alt text
       button: Contact SIRS
   - infopic:
       title: Live Streaming Competition
-      description: We are grooming the next generation of new retail professionals who are apt at presenting while engaging with consumers online. Sign up for the competition and you will be trained and equipped with digital marketing and live streaming skills. There will also be job matching and career opportunities into participating retail companies.
+      description: We are grooming the next generation of new retail professionals who
+        are apt at presenting while engaging with consumers online. Sign up for
+        the competition and you will be trained and equipped with digital
+        marketing and live streaming skills. There will also be job matching and
+        career opportunities into participating retail companies.
       button: sign up now
       url: https://form.gov.sg/#!/6107a4cc6802ae00127a1949
       image: /images/images-2021/Home-Highlights-LSC.png
