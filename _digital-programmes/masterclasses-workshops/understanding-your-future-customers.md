@@ -1,12 +1,9 @@
 ---
-title: 'Understanding Your Future Customers'
+title: Understanding Your Future Customers
 permalink: /digital-programmes/masterclasses-and-workshops/understanding-your-future-customers
-breadcrumb: 'Understanding Your Future Customers'
-third_nav_title: 'Masterclasses & Workshops'
-
+breadcrumb: Understanding Your Future Customers
+third_nav_title: Masterclasses & Workshops
 ---
-
-
 <img src="/images/images-2021/DigitalProgrammes-Image-Masterclass.png" style="width:100%;">
 
 <h4 style="text-align:center;">Next intake:</h4>
@@ -17,8 +14,8 @@ third_nav_title: 'Masterclasses & Workshops'
       <th style="text-align:center;width:50%;">Face-to-Face</th>
     </tr>
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">20 and 21 May 2021</td>
-      <td style="text-align:center;width:50%;">To be confirmed</td>
+      <td style="text-align:center;width:50%;">To be Confirmed</td>
+      <td style="text-align:center;width:50%;">To be Confirmed</td>
     </tr>
 </table></center>
 
