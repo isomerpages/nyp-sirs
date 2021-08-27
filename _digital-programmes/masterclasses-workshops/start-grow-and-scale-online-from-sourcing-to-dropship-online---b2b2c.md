@@ -1,5 +1,6 @@
 ---
 title: Start, Grow & Scale Online  (from sourcing to dropship online – B2B2C)
-permalink: /digital-programmes/masterclasses-workshops/permalink
+permalink: /digital-programmes/masterclasses-workshops/sgso
 third_nav_title: Masterclasses Workshops
 ---
+
