@@ -31,7 +31,6 @@ third_nav_title: Masterclasses Workshops
 <br><i>*Participants are required to bring your own laptop.</i>
 
 <h4>Outline</h4>
-
 <b>1. Start an online business</b>
   <ul>
   <li>Learn the types of e-commerce business models</li>
