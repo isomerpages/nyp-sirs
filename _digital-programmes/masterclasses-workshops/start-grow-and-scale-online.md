@@ -26,33 +26,41 @@ third_nav_title: Masterclasses Workshops
 <p>SourceSage simplifies your buying process and reduces long tail spend as you widen your product assortment from various trusted vendors of your choice. You will also be able to adopt a drop shipping model for your business, giving you greater scalability and flexibility while reducing capital investment and inventory management issues.</p>
 
 <h4>Outline</h4>
-<b>1. Introduction to Amazon Global Selling</b>
+<b>1. Start an online business</b>
   <ul>
-  <li>Understand Amazon and the e-Marketplace ecosystem in the USA</li>
-  <li>Appreciate the Fulfilment by Amazon (FBA) process – how your products are shipped and delivered to customers in North America</li>
-  <li>Identify the 4 components of managing an online business and the magic formulas to succeeding on Amazon</li>
-  <li>Learn to choose the right product categories for your goods</li>
+  <li>Learn the types of e-commerce business models</li>
+  <li>Understand the journey of building a digital commerce business</li>
+  <li>Set up a store on the SourceSage platform</li>
   </ul>
   
-<b>2. Walkthrough Session</b>
-- Register for an Amazon seller account
-    - Registration process and requirements
-    - Seller identity verification
- - Create product listings
-    - Category approval process
-    - Barcode/Global Trade Item Number (GTIN) exemption
+<b>2. Apply and analyse how to grow with SourceSage</b>
+  <ul>
+  <li>Learn to create B2B business</li>
+  <li>Identify B2B persona and buying process</li>
+  <li>Understand B2B sales pipeline management</li>
+  </ul>
                 
-<b>3. Fulfilment by Amazon (FBA)</b>
-- Discover the benefits of FBA compared to merchant shipping and how much it costs
-- Understand the FBA shipment creation workflow
-- Learn how to optimise packaging and labelling, and FBA product restrictions
+<b>3. Evaluate and scale business for drop shipping model</b>
+  <ul>
+  <li>Discover what B2B merchandising is </li>
+  <li>Gain insights from drop shipping success stories</li>
+  <li>How to start a drop shipping business</li>
+  <li>Learn about drop shipping with SourceSage</li>
+  </ul>
 
 <h4>Who Should Attend</h4>
-<p>This workshop is suitable for entrepreneurs and aspiring entrepreneurs, managers/leaders communication functions in an organisation, marketing/corporate communication
-professionals/executives, social media specialists who are looking for new channels to engage customers.</p>
+<p>C-suite, Directors, Entrepreneurs, Business Owners, Executives</p>
 
-<i>*Participants with basic knowledge in digital marketing will benefit from this workshop. If not, you are strongly
-encouraged to attend our <a href="/digital-programmes/skillsfuture-series/introduction-to-digital-marketing">Introduction to Digital Marketing</a> course.</i>
+<p>This workshop is suitable for businesses who have an e-marketplace presence and want to run a brand webstore on SourceSage, a B2B2C platform, for the purpose of:</p>
+
+<br>1. selling to MNC/corporate procurement (B2B)</br>
+
+<br>2. selling to multiple online sellers as a distributor/manufacturer (B2B2C) and/or </br>
+
+<br>3. sourcing from multiple distributors/manufacturers for dropship model</br>
+
+<i>*Participants with basic knowledge or experience in setting up a webstore will benefit from this workshop. If not, you are strongly encouraged to attend our <a href="/digital-programmes/skillsfuture-series/introduction-to-digital-marketing">Set Up an Online Business</a> or e-marketplace (<a href="/digital-programmes/skillsfuture-series/introduction-to-digital-marketing">Amazon</a>, <a href="/digital-programmes/skillsfuture-series/introduction-to-digital-marketing">Lazada</a> or <a href="/digital-programmes/skillsfuture-series/introduction-to-digital-marketing">Shopee</a>) onboarding courses.
+</i>
 
 <h4>Requirements</h4>
 <ul>
