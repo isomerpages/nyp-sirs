@@ -57,7 +57,7 @@ third_nav_title: Masterclasses Workshops
 <h4>Who Should Attend</h4>
 <p>C-suite, Directors, Entrepreneurs, Business Owners, Executives</p>
 
-<p>This workshop is suitable for businesses who have an e-marketplace presence and want to run a brand webstore on SourceSage, a B2B2C platform, for the purpose of:
+<p>This workshop is suitable for businesses who have an e-marketplace presence and want to run a brand webstore on SourceSage, a B2B2C platform, for the purpose of:</p>
 
 <br>1. selling to MNC/corporate procurement (B2B)
 <br>2. selling to multiple online sellers as a distributor/manufacturer (B2B2C) and/or 
