@@ -59,7 +59,7 @@ third_nav_title: Masterclasses Workshops
 
 <br>3. sourcing from multiple distributors/manufacturers for dropship model</br>
 
-<i>*Participants with basic knowledge or experience in setting up a webstore will benefit from this workshop. If not, you are strongly encouraged to attend our <a href="/digital-programmes/skillsfuture-series/introduction-to-digital-marketing">Set Up an Online Business</a> or e-marketplace (<a href="/digital-programmes/skillsfuture-series/introduction-to-digital-marketing">Amazon</a>, <a href="/digital-programmes/skillsfuture-series/introduction-to-digital-marketing">Lazada</a> or <a href="/digital-programmes/skillsfuture-series/introduction-to-digital-marketing">Shopee</a>) onboarding courses.
+<i>*Participants with basic knowledge or experience in setting up a webstore will benefit from this workshop. If not, you are strongly encouraged to attend our <a href="/digital-programmes/e-commerce-programmes/setup-an-online-business">Set Up an Online Business</a> or e-marketplace (<a href="/digital-programmes/e-commerce-programmes/amazon-global-selling-programme">Amazon</a>, <a href="/digital-programmes/e-commerce-programmes/getting-started-on-lazada">Lazada</a> or <a href="/digital-programmes/e-commerce-programmes/getting-started-on-shopee">Shopee</a>) onboarding courses.
 </i>
 
 <h4>Requirements</h4>
