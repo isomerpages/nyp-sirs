@@ -59,11 +59,13 @@ third_nav_title: Masterclasses Workshops
 
 <p>This workshop is suitable for businesses who have an e-marketplace presence and want to run a brand webstore on SourceSage, a B2B2C platform, for the purpose of:</p>
 
-<br>1. selling to MNC/corporate procurement (B2B)
-<br>2. selling to multiple online sellers as a distributor/manufacturer (B2B2C) and/or 
-<br>3. sourcing from multiple distributors/manufacturers for dropship model
-
-<br><i>*Participants with basic knowledge or experience in setting up a webstore will benefit from this workshop. If not, you are strongly encouraged to attend our <a href="/digital-programmes/e-commerce-programmes/setup-an-online-business">Set Up an Online Business</a> or e-marketplace (<a href="/digital-programmes/e-commerce-programmes/amazon-global-selling-programme">Amazon</a>, <a href="/digital-programmes/e-commerce-programmes/getting-started-on-lazada">Lazada</a> or <a href="/digital-programmes/e-commerce-programmes/getting-started-on-shopee">Shopee</a>) onboarding courses.
+<p>
+1. selling to MNC/corporate procurement (B2B)
+2. selling to multiple online sellers as a distributor/manufacturer (B2B2C) and/or 
+3. sourcing from multiple distributors/manufacturers for dropship model
+</p>
+	
+<i>*Participants with basic knowledge or experience in setting up a webstore will benefit from this workshop. If not, you are strongly encouraged to attend our <a href="/digital-programmes/e-commerce-programmes/setup-an-online-business">Set Up an Online Business</a> or e-marketplace (<a href="/digital-programmes/e-commerce-programmes/amazon-global-selling-programme">Amazon</a>, <a href="/digital-programmes/e-commerce-programmes/getting-started-on-lazada">Lazada</a> or <a href="/digital-programmes/e-commerce-programmes/getting-started-on-shopee">Shopee</a>) onboarding courses.
 	</i></br>
 
 <h4>Duration</h4>
