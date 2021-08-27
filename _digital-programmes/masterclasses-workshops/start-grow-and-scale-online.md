@@ -28,7 +28,7 @@ third_nav_title: Masterclasses Workshops
 
 <p>Start, Grow & Scale Online (from sourcing to dropship online – B2B2C)
 <br>Classroom - TGS-2021004944</br>
-<i>*Participants are required to bring your own laptop. 
+<i>*Participants are required to bring your own laptop.</i>
 
 <h4>Outline</h4>
 <b>1. Start an online business</b>
