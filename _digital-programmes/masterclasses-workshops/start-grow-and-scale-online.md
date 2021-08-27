@@ -3,7 +3,6 @@ title: "Start, Grow & Scale Online "
 permalink: /digital-programmes/masterclasses-workshops/sgso
 third_nav_title: Masterclasses Workshops
 ---
-
 <img src="/images/images-2021/DigitalProgrammes-HImage-Workshop.png" style="width:100%;">
 
 <h4 style="text-align:center;">Next intake:</h4>
@@ -24,6 +23,12 @@ third_nav_title: Masterclasses Workshops
 <p>With its one-stop solution, you will be able to connect your existing stores on e-marketplaces such as Amazon, Lazada and Shopee, and manage your product listings, marketing campaigns and more from just a single platform. Want to own an e-commerce store? Easily create one using its powerful web tools. If you are a distributor or manufacturer, you can also appoint small and large online sellers to expand your reach. .</p>
 
 <p>SourceSage simplifies your buying process and reduces long tail spend as you widen your product assortment from various trusted vendors of your choice. You will also be able to adopt a drop shipping model for your business, giving you greater scalability and flexibility while reducing capital investment and inventory management issues.</p>
+
+<h4>Course Title | Mode of Training | Course Ref</h4>
+
+<p>Start, Grow & Scale Online (from sourcing to dropship online – B2B2C)
+<br>Classroom - TGS-2021004944</br>
+<i>*Participants are required to bring your own laptop. 
 
 <h4>Outline</h4>
 <b>1. Start an online business</b>
@@ -61,14 +66,6 @@ third_nav_title: Masterclasses Workshops
 
 <i>*Participants with basic knowledge or experience in setting up a webstore will benefit from this workshop. If not, you are strongly encouraged to attend our <a href="/digital-programmes/e-commerce-programmes/setup-an-online-business">Set Up an Online Business</a> or e-marketplace (<a href="/digital-programmes/e-commerce-programmes/amazon-global-selling-programme">Amazon</a>, <a href="/digital-programmes/e-commerce-programmes/getting-started-on-lazada">Lazada</a> or <a href="/digital-programmes/e-commerce-programmes/getting-started-on-shopee">Shopee</a>) onboarding courses.
 </i>
-
-<h4>Requirements</h4>
-<ul>
-<li>Bring along a mobile device (phone/tablet) with camera*</li>
-<li>Ensure the mobile device has at least 10 GB of free space</li>
-<li>Have a Facebook account</li>
-<i>To ensure a better learning experience, laptop with camera is preferred but not required</i>
-</ul>
 
 <h4>Duration</h4>
 <p>2 days (9am - 6pm)</p>
