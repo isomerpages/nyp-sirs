@@ -25,13 +25,26 @@ third_nav_title: Masterclasses Workshops
 <p>SourceSage simplifies your buying process and reduces long tail spend as you widen your product assortment from various trusted vendors of your choice. You will also be able to adopt a drop shipping model for your business, giving you greater scalability and flexibility while reducing capital investment and inventory management issues.</p>
 
 <h4>Outline</h4>
-<ul>
-<li>Plan and create content, script and programme flow for your live streaming</li>
-<li>Prepare and set-up for live streaming</li>
-<li>Leverage on social media and drive traffic to your live streaming</li>
-<li>Manage live streaming as a host</li>
-<li>Monitor effectiveness of your live streaming</li>
-</ul>
+<b>1. Introduction to Amazon Global Selling</b>
+  <ul>
+  <li>Understand Amazon and the e-Marketplace ecosystem in the USA</li>
+  <li>Appreciate the Fulfilment by Amazon (FBA) process – how your products are shipped and delivered to customers in North America</li>
+  <li>Identify the 4 components of managing an online business and the magic formulas to succeeding on Amazon</li>
+  <li>Learn to choose the right product categories for your goods</li>
+  </ul>
+  
+<b>2. Walkthrough Session</b>
+- Register for an Amazon seller account
+    - Registration process and requirements
+    - Seller identity verification
+ - Create product listings
+    - Category approval process
+    - Barcode/Global Trade Item Number (GTIN) exemption
+                
+<b>3. Fulfilment by Amazon (FBA)</b>
+- Discover the benefits of FBA compared to merchant shipping and how much it costs
+- Understand the FBA shipment creation workflow
+- Learn how to optimise packaging and labelling, and FBA product restrictions
 
 <h4>Who Should Attend</h4>
 <p>This workshop is suitable for entrepreneurs and aspiring entrepreneurs, managers/leaders communication functions in an organisation, marketing/corporate communication
