@@ -34,8 +34,7 @@ third_nav_title: Masterclasses & Workshops
   <li><a href="/digital-programmes/masterclasses-and-workshops/differentiate-and-drive-growth-with-experience-innovation">Differentiate and Drive Growth with Experience Innovation</a></li>
   <li><a href="/digital-programmes/masterclasses-and-workshops/improve-customer-engagement-with-digital-mindset">Improve Customer Engagement with Digital Mindset</a></li>
   <li><a href="/digital-programmes/masterclasses-and-workshops/level-up-customer-engagement-through-live-streaming">Level Up Customer Engagement Through Live Streaming</a></li>
-	<li><a href="/digital-programmes/masterclasses-workshops/sgso">Start, Grow & Scale Online (from sourcing to dropship online - B2B2C)
-</li>
+	<li><a href="/digital-programmes/masterclasses-workshops/sgso">Start, Grow & Scale Online (from sourcing to dropship online - B2B2C)</a></li>
 </ul>
 
 <center><a href="https://form.gov.sg/602f33f172d5100012d6ca8b" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center>
