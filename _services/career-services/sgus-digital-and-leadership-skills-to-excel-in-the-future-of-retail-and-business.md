@@ -4,8 +4,6 @@ permalink: /services/sgus-programme/digital-and-leadership-skills-to-excel-in-th
 breadcrumb: SGUS Digital & Leadership Skills to Excel in the Future of Retail & Business
 third_nav_title: Career Services
 ---
-
-
 <img src="/images/images-2021/Services_SGUS_Overview.png" style="width:100%;">
 
 <h4 style="text-align:center;">Next intake:</h4>
@@ -51,7 +49,7 @@ responsibilities, to achieve organisational goals.</p>
 <p>Suitable for participants with at least 3 years senior managerial working experience in retail or Professional, Managers, Executives and Technicians (PMETs) position in non-retail sector.</p>
  
 <h4>Admission Requirements</h4>
-<p>GCE 'O' level Credit (at least C6) in English and Mathematics or Workplace Literacy and Numeracy (WPLN) score: Level 7 for Reading, Listening and Numeracy.</p>
+<p>GCE 'O' level Credit (at least C6) in English and Mathematics or Workplace Literacy and Numeracy (WPLN) score: Level 7 for Reading, Listening, Writing, and Numeracy.</p>
 
 <h4>Fees</h4>
 
