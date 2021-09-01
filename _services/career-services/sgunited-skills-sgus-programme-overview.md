@@ -1,12 +1,9 @@
 ---
-title: 'SGUnited Skills (SGUS) Programme Overview'
+title: SGUnited Skills (SGUS) Programme Overview
 permalink: /services/career-services/sgus-programme
-breadcrumb: 'SGUnited Skills Programme'
-third_nav_title: 'Career Services'
-
+breadcrumb: SGUnited Skills Programme
+third_nav_title: Career Services
 ---
-
-
 <img src="/images/images-2021/Services-CareerServices-SGUS-Overview.png" style="width:100%;">
 
 <p>The SGUS Programme, administered by the Singapore Institute of Retail Studies (SIRS), is a six-month full-time training programme designed to help Singapore Citizens and Singapore Permanent Residents (PRs) upskill and reskill with industry-relevant skills and knowledge. The programme aims to boost their employability, and help them take on new or enhanced job roles in retail and new sectors as the economy recovers. The programme operates on a Train-and-Place model, where trainees receive career advisory, guidance and employment placement assistance from SIRS at no cost.</p>
@@ -25,6 +22,7 @@ third_nav_title: 'Career Services'
 <ul>
   <li><a href="/services/sgus-programme/manage-retail-and-enterprise-in-the-digital-age">Manage Retail & Enterprise in the Digital Age</a></li>
   <li><a href="/services/sgus-programme/digital-and-leadership-skills-to-excel-in-the-future-of-retail-and-business">Digital & Leadership Skills to Excel in the Future of Retail & Business</a></li>
+	  <li><a href="/services/sgus-programme/ocdm">Omni Commerce & Digital Marketing</a></li>
   </ul>
 
 <div style="width:50%;float:left;"><center><a href="https://form.gov.sg/#!/5f7c08ce956eff0011c11fcf" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Register Now</a></center></div>

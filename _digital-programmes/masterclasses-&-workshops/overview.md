@@ -2,11 +2,8 @@
 title: Overview
 permalink: /digital-programmes/masterclasses-and-workshops
 breadcrumb: Overview
-third_nav_title: 'Masterclasses & Workshops'
-
+third_nav_title: Masterclasses & Workshops
 ---
-
-
 <img src="/images/images-2021/DigitalProgrammes-Masterclasses_Workshops.png" style="width:100%;">
 
 <p>Designed for intermediate to advanced learners, SIRS' Masterclasses & Workshops series equips learners with the required skillsets and knowledge to boost and optimise their sales and marketing efforts to enhance business revenue. Our masterclasses are conducted by leading experts and practitioners in the respective fields, transferring actionable knowledge to learners.</p>
@@ -37,6 +34,7 @@ third_nav_title: 'Masterclasses & Workshops'
   <li><a href="/digital-programmes/masterclasses-and-workshops/differentiate-and-drive-growth-with-experience-innovation">Differentiate and Drive Growth with Experience Innovation</a></li>
   <li><a href="/digital-programmes/masterclasses-and-workshops/improve-customer-engagement-with-digital-mindset">Improve Customer Engagement with Digital Mindset</a></li>
   <li><a href="/digital-programmes/masterclasses-and-workshops/level-up-customer-engagement-through-live-streaming">Level Up Customer Engagement Through Live Streaming</a></li>
+	<li><a href="/digital-programmes/masterclasses-workshops/sgso">Start, Grow & Scale Online (from sourcing to dropship online - B2B2C)</a></li>
 </ul>
 
 <center><a href="https://form.gov.sg/602f33f172d5100012d6ca8b" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center>
