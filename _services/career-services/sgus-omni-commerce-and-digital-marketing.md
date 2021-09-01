@@ -13,7 +13,7 @@ third_nav_title: Career Services
     </tr>
 </table></center>
 
-<p>The SGUS Programme in Omni Commerce & Digital Marketing aims to enhance and equip trainees with skillsets and techniques for Omni commerce. As digital becomes increasingly part of consumer lifestyles, their changing buying behaviour, consumption habits and expectations become a challenge for businesses to ensure that their online and offline business channels provide a unified experience for their customers. The ability to deploy the right techniques to heighten customer experience and satisfaction will turn opportunities into sales for the business.</p>
+<p>The SGUS Programme in Omni Commerce & Digital Marketing aims to enhance and equip trainees with skillsets and techniques for omni commerce. As digital becomes increasingly part of consumer lifestyles, their changing buying behaviour, consumption habits and expectations become a challenge for businesses to ensure that their online and offline business channels provide a unified experience for their customers. The ability to deploy the right techniques to heighten customer experience and satisfaction will turn opportunities into sales for the business.</p>
 
 <h4>Outline</h4>
 <ul>
