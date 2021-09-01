@@ -5,6 +5,7 @@ breadcrumb: Professional Conversion Programme (PCP) Overview
 third_nav_title: Career Services
 ---
 
+
 <img src="/images/images-2021/Services-CareerServices-PCP.jpg" style="width:100%;"><br>
 
 <p>As part of the Adapt and Grow Initiative, Workforce Singapore (WSG) and SkillsFuture Singapore (SSG) jointly developed the Career Conversion Programme (CCP) to help Professionals, Managers, Executives, and Technicians (PMETs) mid-career switchers undergo skills conversion to gain relevant competencies and take on new, exciting careers in different industries.</p>
