@@ -4,8 +4,6 @@ permalink: /services/career-services/ccp-overview
 breadcrumb: Professional Conversion Programme (PCP) Overview
 third_nav_title: Career Services
 ---
-
-
 <img src="/images/images-2021/Services-CareerServices-PCP.jpg" style="width:100%;"><br>
 
 <p>As part of the Adapt and Grow Initiative, Workforce Singapore (WSG) and SkillsFuture Singapore (SSG) jointly developed the Career Conversion Programme (CCP) to help Professionals, Managers, Executives, and Technicians (PMETs) mid-career switchers undergo skills conversion to gain relevant competencies and take on new, exciting careers in different industries.</p>
@@ -30,7 +28,7 @@ third_nav_title: Career Services
 	<li>Singapore Media Academy's Making Online Content Programme</li>
 	</ol>
 
-<center><a href="/services/career-services/new-media-professional" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Find Out More</a></center>
+<center><a href="/services/career-services/ccp-nmp" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Find Out More</a></center>
 
 <h4>CCP for Digital Professional (Retail)</h4>
 
@@ -48,7 +46,7 @@ third_nav_title: Career Services
 	<li>Content Management</li>
 	</ol>
 
-<center><a href="/services/career-services/digital-professional" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Find Out More</a></center>
+<center><a href="/services/career-services/ccp-dp" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Find Out More</a></center>
 
 <h4>CCP for Retail Professional</h4>
 
@@ -66,7 +64,7 @@ third_nav_title: Career Services
 	<li>Workplace Communication</li>
 	</ol>
 
-<center><a href="/services/career-services/retail-professional" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Find Out More</a></center>
+<center><a href="/services/career-services/ccp-rp" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Find Out More</a></center>
 
 <h4>Benefits to your company</h4>
 <ol>
