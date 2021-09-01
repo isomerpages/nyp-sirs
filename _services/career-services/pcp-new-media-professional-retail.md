@@ -21,7 +21,7 @@ The CCP-NMP (Retail) aims to help businesses meet their talent needs by enabling
 themselves with the relevant e-commerce and content management skills to take on emerging roles such as account managers and content producers in the retail 
 industry. 
 
-Under the CCP for New Media Professional (Retail) programme, individuals will be able to make a switch into the retail sector, receive a stipend while retraining and be 
+Under the CCP-NMP (Retail) programme, individuals will be able to make a switch into the retail sector, receive a stipend while retraining and be 
 placed into jobs in retail companies
 
 <h4>Programmes</h4>
