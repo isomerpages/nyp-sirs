@@ -1,18 +1,15 @@
 ---
-title: 'Who We Are'
+title: Who We Are
 permalink: /about-us
-breadcrumb: 'Who We Are'
-
+breadcrumb: Who We Are
 ---
-
-
 <img src="/images/images-2021/AboutUs_SIRS_OurMission.png" style="width:100%;"> 
 
 <img src="/images/images-2021/AboutUs_SIRS-NYP Combined Logos.png" style="width:70%;">
 
 <p>The Singapore Institute of Retail Studies (SIRS) is a Continuing Education & Training (CET) institute of Nanyang Polytechnic. Established in January 2006 as the first CET Institute in Singapore, SIRS’ excellent performance and track record has since won the conferment of the National CET Institute status, the pinnacle status for CET centres.</p>
 
-<p>Since April 2016, SkillsFuture Singapore appointed SIRS as the Anchor Provider for the Retail Industry. SIRS is also the Programme Manager for various national programmes, including the Professional Conversion Programmes (PCPs), Work-Study Programmes, Work-Study Certificate (Bootcamp for Digital Marketing & Branding), Redeployment PCP and the SGUnited Skills (SGUS) Programme.</p>
+<p>Since April 2016, SkillsFuture Singapore appointed SIRS as the Anchor Provider for the Retail Industry. SIRS is also the Programme Manager for various national programmes, including the Career Conversion Programmes (CCPs), Work-Study Programmes, Work-Study Certificate (Bootcamp for Digital Marketing & Branding), Redeployment PCP and the SGUnited Skills (SGUS) Programme.</p>
 
 <p>SIRS provides a quality, market-driven and comprehensive spectrum of Retail programmes and solutions to support and prepare both enterprises and the workforce for the evolving challenges in the marketplace. These programmes include the Workforce Skills Qualifications suite, Executive Programmes, Masterclasses, Workshops, Seminars and Conferences. SIRS also aligns its solutions to the Retail Sectoral Manpower Plan and the Retail Industry Transformation Map to best aid companies in their drive to grow via innovation and internationalisation, improve productivity with technology, and build a future-ready and productive workforce.</p>
 
@@ -52,4 +49,3 @@ breadcrumb: 'Who We Are'
 <i><small>*As an educational institution, NYP is committed to ensuring a safe and supportive campus and environment where there is respect and dignity for everyone. Accordingly, high standards of conduct are expected from all in our community. In case of any alleged offences committed within our premises, SIRS may report the matter to the security and/or relevant government agencies.</small></i>
 
 <p><i><small>Nanyang Polytechnic-Singapore Institute of Retail Studies (UEN: T08GB0032G) is an appointed CET Centre by SkillsFuture Singapore (SSG) for courses supported by SkillsFuture Credit (SFC) / funded by SSG. The funding support eligibility period is 1 April 2016 – 31 March 2022.</small></i></p>
-
