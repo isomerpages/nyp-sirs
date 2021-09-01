@@ -18,7 +18,7 @@ third_nav_title: Career Services
 <p>The Career Conversion Programme (CCP) seeks to help PMETs mid-career switchers undergo skills conversion to gain relevant competencies and take on new, exciting careers in different industries. SIRS offers the CCP tracks in Retail Professional, Digital Professional (Retail) and New Media Professional (Retail).</p>
 
 <ol>
-  <li><a href="/services/career-services/ccp-rpl">CCP for  Retail Professional</a></li>
+  <li><a href="/services/career-services/ccp-rp">CCP for  Retail Professional</a></li>
   <li><a href="/services/career-services/ccp-dp">CCP  for Digital Professional (Retail)</a></li>
   <li><a href="/services/career-services/ccp-nmp">CCP for New Media Professional (Retail)</a></li>
 </ol>
