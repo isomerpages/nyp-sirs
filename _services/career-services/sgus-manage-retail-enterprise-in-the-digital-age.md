@@ -47,7 +47,7 @@ outcomes for the business.</p>
 <p>Suitable for participants with at least 3 years supervisory/managerial working experience in retail or Professional/Managerial/Management Executive (PME) position in non-retail sector.</p>
 
 <h4>Admission Requirements</h4>
-<p>GCE 'O' level Credit (at least C6) in English and Mathematics or Workplace Literacy and Numeracy (WPLN) score: Level 6 for Reading, Listening and Numeracy.</p>
+<p>GCE 'O' level Credit (at least C6) in English and Mathematics or Workplace Literacy and Numeracy (WPLN) score: Level 6 for Reading, Listening, Writing, and Numeracy.</p>
 
 <h4>Fees</h4>
 
