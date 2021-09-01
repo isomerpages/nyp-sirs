@@ -87,7 +87,7 @@ third_nav_title: Career Services
 <b>Salary Support</b>
 <ol>
 	<li>Up to 70% of trainee's monthly basic salary (capped at $4,000 per month) for Singapore Citizens/PRs aged 40 and above</li>
-	<li>Up to 90% of monthly salary for PCP training duration (capped at $6,000 per month) for Long-term Unemployed<sup>1</sup> Singapore Citizen (SC) trainees or Mature<sup>2</sup> SC trainees</li>
+	<li>Up to 90% of monthly salary for CCP training duration (capped at $6,000 per month) for Long-term Unemployed<sup>1</sup> Singapore Citizen (SC) trainees or Mature<sup>2</sup> SC trainees</li>
 	</ol>
 
 <small><i><sup>1</sup>Long-term Unemployed (LTU) is defined as being unemployed and actively seeking employment for six months or more<br>
