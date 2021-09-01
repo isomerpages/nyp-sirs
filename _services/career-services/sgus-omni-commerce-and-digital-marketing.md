@@ -1,5 +1,6 @@
 ---
 title: SGUS Omni Commerce & Digital Marketing
-permalink: /services/career-services/permalink
+permalink: /services/sgus-programme/ocdm
 third_nav_title: Career Services
 ---
+
