@@ -14,7 +14,7 @@ third_nav_title: Career Services
 
 <h4>Place-and-Train Programmes</h4>
 
-<b>Career Conversion Programme (PCP)</b>
+<b>Career Conversion Programme (CCP)</b>
 <p>The Career Conversion Programme (CCP) seeks to help PMETs mid-career switchers undergo skills conversion to gain relevant competencies and take on new, exciting careers in different industries. SIRS offers the CCP tracks in Retail Professional, Digital Professional (Retail) and New Media Professional (Retail).</p>
 
 <ol>
