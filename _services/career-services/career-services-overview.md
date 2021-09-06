@@ -30,8 +30,8 @@ third_nav_title: Career Services
 
 <a href="/services/career-services/skillsfuture-work-study-programmes" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;" target="_blank">Find Out More</a>
  
-<b>Redeployment PCP</b>
-<p>The Redeployment PCP aims to help retail companies reskill their employees who are in vulnerable job roles and at risk of redundancy as companies undergo business transformation. This programme allows companies to retain, reskill and redeploy existing workforce to take on new or redesigned job roles.
+<b>Redeployment CCP</b>
+<p>The Redeployment CCP aims to help retail companies reskill their employees who are in vulnerable job roles and at risk of redundancy as companies undergo business transformation. This programme allows companies to retain, reskill and redeploy existing workforce to take on new or redesigned job roles.
 </p>
 
 <a href="/digital-programmes/redeployment-job-redesign-reskilling-pcp" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;" target="_blank">Find Out More</a>
