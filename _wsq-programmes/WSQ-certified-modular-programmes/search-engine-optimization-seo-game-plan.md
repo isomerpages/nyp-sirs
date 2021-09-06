@@ -1,12 +1,9 @@
 ---
-title: 'Search Engine Optimization (SEO) Game Plan'
+title: Search Engine Optimization (SEO) Game Plan
 permalink: /wsq-programmes/wsq-modular-programmes/seo-game-plan/
-breadcrumb: 'Search Engine Optimization (SEO) Game Plan'
-third_nav_title: 'WSQ Certified Modular Programmes'
-
+breadcrumb: Search Engine Optimization (SEO) Game Plan
+third_nav_title: WSQ Certified Modular Programmes
 ---
-
-
 <img src="/images/images-2021/WSQ_Modular_SEO.png" style="width:100%;">
 
 <h4 style="text-align:center;">Next intake:</h4>
@@ -15,7 +12,7 @@ third_nav_title: 'WSQ Certified Modular Programmes'
       <th style="text-align:center;width:50%;">Online Training</th>
     </tr>
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">(4 days)<br>7, 8, 9, 10 June 2021 (Mon-Thur) <br> 7, 8, 9 & 12 July (Wed-Fri, Mon)</td>
+      <td style="text-align:center;width:50%;">(4 days)<br>7, 8, 9, 10 Sep 2021  <br> 7, 8, 11 & 12 Oct 2021</td>
     </tr>
 </table></center>
 
