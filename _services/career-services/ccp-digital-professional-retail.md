@@ -4,7 +4,6 @@ permalink: /services/career-services/ccp-dp
 breadcrumb: PCP Digital Professional
 third_nav_title: Career Services
 ---
-
 <img src="/images/images-2021/Services-CareerServices-PCP-DP.jpg" style="width:100%;">
 
 The CCP for Digital Professional (Retail) seeks to help retail companies tap on additional sources of manpower and meet their manpower needs by providing mid-career switchers with an opportunity to enter the retail profession. The CCP-DP (Retail) will train participants in the operations and management of digital commerce, while equipping them with the necessary skills for digital marketing to aid retailers in their digital transformation, and boost their revenue with digital commerce.
@@ -25,10 +24,10 @@ Under the CCP-DP (Retail), participants will have to complete the following prog
 <h4>Fact Sheets</h4>
 To view more details, refer to the factsheets below:
 
-<div style="width:50%;float:left;"><center><a href="/files/documents-2021/Services_PCP_DP_Factsheet_Employer.pdf" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-
+<div style="width:50%;float:left;"><center><a href="/files/documents-2021/Services_CCP_DP_Factsheet_Employer.pdf" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-
 block; margin: 4px 2px; cursor:pointer;text-decoration:none;">For Employers</a></center></div>
 
-<div style="width:50%;float:left;"><center><a href="/files/documents-2021/Services_PCP_DP_Factsheet_Applicant.pdf" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">For Applicants</a></center></div>
+<div style="width:50%;float:left;"><center><a href="/files/documents-2021/Services_CCP_DP_Factsheet_Applicant.pdf" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">For Applicants</a></center></div>
 
 <h4>Funding and Support</h4>
 
