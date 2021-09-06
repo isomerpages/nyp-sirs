@@ -4,7 +4,6 @@ permalink: /services/career-services/ccp-nmp
 breadcrumb: PCP New Media Professional
 third_nav_title: Career Services
 ---
-
 <img src="/images/images-2021/Services-CareerServices-PCP-NMP.jpg" style="width:100%;">
 
 The latest track of CCP offered by SIRS, the CCP for  New Media Professional (Retail), trains PMETs and mid-career switchers in New Media marketing, 
@@ -39,10 +38,10 @@ Under the CCP-NMP (Retail), participants will have to complete the following pro
 <h4>Fact Sheets</h4>
 To view more details, refer to the factsheets below:
 
-<div style="width:50%;float:left;"><center><a href="/files/documents-2021/Services_PCP_NMP_Factsheet_Employer.pdf" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-
+<div style="width:50%;float:left;"><center><a href="/files/documents-2021/Services_CCP_NMP_Factsheet_Employer.pdf" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-
 block; margin: 4px 2px; cursor:pointer;text-decoration:none;">For Employers</a></center></div>
 
-<div style="width:50%;float:left;"><center><a href="/files/documents-2021/Services_PCP_NMP_Factsheet_Applicant.pdf" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">For Applicants</a></center></div>
+<div style="width:50%;float:left;"><center><a href="/files/documents-2021/Services_CCP_NMP_Factsheet_Applicant.pdf" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">For Applicants</a></center></div>
 
 <h4>Funding and Support</h4>
 
