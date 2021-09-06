@@ -4,8 +4,6 @@ permalink: /services/career-services/ccp-rp
 breadcrumb: PCP Retail Professional
 third_nav_title: Career Services
 ---
-
-
 <img src="/images/images-2021/Services-CareerServices-PCP-RP.jpg" style="width:100%;">
 
 The CCP for Retail Professional seeks to help retailers in their manpower needs by providing mid-career switchers with an opportunity to work in retail operations. 
@@ -51,10 +49,10 @@ of Attainment (SOA), under the Singapore Workforce Skills Qualifications (WSQ) f
 <h4>Fact Sheets</h4>
 To view more details, refer to the factsheets below:
 
-<div style="width:50%;float:left;"><center><a href="/files/documents-2021/Services_PCP_RP_Factsheet Employer.pdf" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-
+<div style="width:50%;float:left;"><center><a href="/files/documents-2021/Services_CCP_RP_Factsheet_Employer.pdf" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-
 block; margin: 4px 2px; cursor:pointer;text-decoration:none;">For Employers</a></center></div>
 
-<div style="width:50%;float:left;"><center><a href="/files/documents-2021/Services_PCP_RP_Factsheet_Applicant.pdf" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">For Applicants</a></center></div>
+<div style="width:50%;float:left;"><center><a href="/files/documents-2021/Services_CCP_RP_Factsheet_Applicant.pdf" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">For Applicants</a></center></div>
 
 <h4>Funding and Support</h4>
 
