@@ -20,7 +20,7 @@ third_nav_title: Masterclasses & Workshops
 
 <p>Now you can start, grow and scale online with SourceSage, a Singapore-based B2B2C platform and marketplace aggregator to help you with your day-to-day business operations. </p>
 
-<p>With its one-stop solution, you will be able to connect your existing stores on e-marketplaces such as Amazon, Lazada and Shopee, and manage your product listings, marketing campaigns and more from just a single platform. Want to own an e-commerce store? Easily create one using its powerful web tools. If you are a distributor or manufacturer, you can also appoint small and large online sellers to expand your reach. .</p>
+<p>With its one-stop solution, you will be able to connect your existing stores on e-marketplaces such as Amazon, Lazada and Shopee, and manage your product listings, marketing campaigns and more from just a single platform. Want to own an e-commerce store? Easily create one using its powerful web tools. If you are a distributor or manufacturer, you can also appoint small and large online sellers to expand your reach.</p>
 
 <p>SourceSage simplifies your buying process and reduces long tail spend as you widen your product assortment from various trusted vendors of your choice. You will also be able to adopt a drop shipping model for your business, giving you greater scalability and flexibility while reducing capital investment and inventory management issues.</p>
 
