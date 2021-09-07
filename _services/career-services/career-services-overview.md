@@ -38,11 +38,6 @@ third_nav_title: Career Services
 
 <h4>Train-and-Place Programmes</h4>
 
-<b>SkillsFuture Work-Study Certificate (Bootcamp in Digital Marketing & Branding)</b>
-<p>The SkillsFuture Work-Study Certificate (Bootcamp in Digital Marketing & Branding) is a SkillsFuture initiative, in collaboration with Generation (a US-based global non-profit organisation founded by McKinsey & Company) and SIRS, to train fresh graduates and mid-career individuals as Digital Marketeers. Participants will undergo a short intensive bootcamp training before seeking employment. Employers are extensively involved throughout the process in this bootcamp: from developing industry-relevant curriculum to identifying suitable participants for the programme and recruitment.</p>
-
-<a href="/services/career-services/work-study-cert-dmb" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;" target="_blank">Find Out More</a>
-
 <b>SGUnited Skills (SGUS) Programme</b>
 <p>The SGUS Programme, administered by SIRS, is open to all mid-career Singapore Citizens and Singapore Permanent Residents who can commit full-time to this six-month training programme. In addition to enhancing their skills profile for the new digital-driven industry, trainees enjoy close to 100% subsidised course fee and up to $7,200 of training allowance during the programme. SIRS also provides career advisory, guidance, and employment placement assistance at no cost.</p>
 
