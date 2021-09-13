@@ -6,10 +6,8 @@ sections:
   - hero:
       background: /images/images-2021/Homepage_Banner2.png
   - infopic:
-      title: Customer Relations Centre is Open
-      description: Our Customer Relations Centre is now open with safe management
-        measures in place. You can still reach us remotely via email, call or
-        WhatsApp, and we will be happy to assist you with your queries.
+      title: Temporary Closure of Customer Relations Centre
+      description: In view of the current COVID-19 situation, our Customer Relations Centre is temporarily closed till further notice. Meanwhile, our website is operating 24/7 for you to view and apply for our courses. We will also be here to help you with your queries via email and WhatsApp.
       url: /contact-us
       image: /images/images-2021/Home-Highlights-P2HA-Open.jpg
       alt: alt text
