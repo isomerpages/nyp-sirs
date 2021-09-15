@@ -16,11 +16,7 @@ Open Your Horizons. Apply Proven E-Commerce Strategies</center>
 
 <h4 style="text-align:center;">Next intake:</h4>
 
-<center><table style="width:80%;">
-    <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">8 to 10, 13 to 15 Sep 2021 (6 days)</td>
-    </tr>
-</table></center>
+<center><p>To be confirmed. <br>To register for interest, click <a href="https://form.gov.sg/#!/5e27ed4593545100111843f7">here.</a></p></center>
 
 <b>This programme will be conducted in Mandarin.</b>
 
@@ -195,6 +191,6 @@ Open Your Horizons. Apply Proven E-Commerce Strategies</center>
 
 <p>For more information about funding and support, click <a href="/services/consultancy">here.</a></p>
 
- <div style="width:50%;float:left;"><center><a href="https://form.gov.sg/#!/5e27ed4593545100111843f7" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Register Now</a></center></div>
+ <div style="width:50%;float:left;"><center><a href="https://form.gov.sg/#!/5e27ed4593545100111843f7" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Register for Interest</a></center></div>
  
  <div style="width:50%;float:left;"><center><a href="https://form.gov.sg/602f2e2609513500125322dd" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center></div>
