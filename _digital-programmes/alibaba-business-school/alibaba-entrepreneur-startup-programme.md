@@ -16,7 +16,7 @@ Open Your Horizons. Apply Proven E-Commerce Strategies</center>
 
 <h4 style="text-align:center;">Next intake:</h4>
 
-<p>To be confirmed. To register for interest, click <a href="https://form.gov.sg/#!/5e27ed4593545100111843f7">here.</a></p>
+<center><p>To be confirmed. To register for interest, click <a href="https://form.gov.sg/#!/5e27ed4593545100111843f7">here.</a></p>
 
 <center><table style="width:80%;">
     <tr style="text-align:center;">
