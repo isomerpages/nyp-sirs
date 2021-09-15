@@ -16,7 +16,7 @@ Open Your Horizons. Apply Proven E-Commerce Strategies</center>
 
 <h4 style="text-align:center;">Next intake:</h4>
 
-<center><p>To be confirmed. <br>To register for interest, click <a href="https://form.gov.sg/#!/5e27ed4593545100111843f7">here.</a></p>
+<center><p>To be confirmed. <br>To register for interest, click <a href="https://form.gov.sg/#!/5e27ed4593545100111843f7">here.</a></center></p>
 
 <b>This programme will be conducted in Mandarin.</b>
 
