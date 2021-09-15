@@ -18,7 +18,8 @@ Open Your Horizons. Apply Proven E-Commerce Strategies</center>
 
 <center><table style="width:80%;">
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">To be confirmed. <br>To register for interest, click  <a href=https://form.gov.sg/#!/5e27ed4593545100111843f7>here </td>
+      <td style="text-align:center;width:50%;">To be confirmed.<br>
+				To register for interest, click <a href=https://form.gov.sg/#!/5e27ed4593545100111843f7>here </td>
     </tr>
 </table></center>
 
