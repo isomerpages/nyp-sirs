@@ -18,14 +18,6 @@ Open Your Horizons. Apply Proven E-Commerce Strategies</center>
 
 <center><p>To be confirmed. <br>To register for interest, click <a href="https://form.gov.sg/#!/5e27ed4593545100111843f7">here.</a></p>
 
-<center><table style="width:80%;">
-    <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">To be confirmed.
-				To register for interest, click <a href=https://form.gov.sg/#!/5e27ed4593545100111843f7>here</a>
-		</td>
-    </tr>
-</table></center>
-
 <b>This programme will be conducted in Mandarin.</b>
 
 <p>SIRS in partnership with Alibaba Business School, the official training arm of Alibaba Group, offers comprehensive and systematic training programmes to meet a full spectrum of learning needs of government groups, entrepreneurs, SMEs, startups, e-commerce practitioners and students.</p>
