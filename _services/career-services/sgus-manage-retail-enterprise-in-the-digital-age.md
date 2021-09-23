@@ -10,7 +10,7 @@ third_nav_title: Career Services
 
 <center><table style="width:80%;">
     <tbody><tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">4 Oct 2021</td>
+      <td style="text-align:center;width:50%;">1 Dec 2021</td>
     </tr>
 </tbody></table></center>
 
