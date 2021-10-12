@@ -16,7 +16,7 @@ third_nav_title: WSQ Certified Modular Programmes
     </tr>
     <tr style="text-align:center;">
       <td style="text-align:center;width:50%;">To be confirmed</td>
-      <td style="text-align:center;width:50%;"> 16-17 Aug 2021 (Mon-Tue) - Eng<br>  13-14 Sep (Mon-Tue) - 中文 <br>  12 - 13 Oct (Tue - Wed) Eng</td>
+      <td style="text-align:center;width:50%;"> 23-24 Nov 2021 (Tue-Wed) - 中文 <br> 1-2 Dec 2021 (Wed-Thu) Eng </td>
     </tr>
 </table></center>
 
