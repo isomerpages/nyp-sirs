@@ -12,7 +12,7 @@ third_nav_title: WSQ Certified Modular Programmes
       <th style="text-align:center;width:50%;">Face-to-Face</th>
     </tr>
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">24 & 26 Aug 2021 (Tue & Thu) <br>25 & 27 Oct 2021 (Mon & Wed)</td>
+      <td style="text-align:center;width:50%;">23  & 25 Nov 2021 (Tue- Wed) </td>
     </tr>
 </table></center>
 
