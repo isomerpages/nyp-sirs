@@ -14,8 +14,8 @@ third_nav_title: E-Commerce Programmes
       <th style="text-align:center;width:50%;">Face-to-Face</th>
     </tr>
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">9-10 Sep 2021 (Thu-Fri)</td>
-      <td style="text-align:center;width:50%;">17-18 Aug 2021 (Tue-Wed)<br>14-15 Oct 2021 (Thu-Fri)</td>   
+      <td style="text-align:center;width:50%;">15-16 Nov 2021 (Mon -Tue</td>
+      <td style="text-align:center;width:50%;">14-15 Oct 2021 (Thu-Fri)<br>2-3 Dec 2021 (Thu-Fri)</td>   
     </tr>
 </table></center>
 

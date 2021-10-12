@@ -14,7 +14,7 @@ breadcrumb: SkillsFuture for Digital Workplace (SFDW)
     </tr>
     <tr style="text-align:center;">
       <td style="text-align:center;width:50%;">To be confirmed </td>
-      <td style="text-align:center;width:50%;">27-28 Sep 2021 (Mon-Tue)</td>
+      <td style="text-align:center;width:50%;">11-12 Nov 2021 (Thurs-Fri)</td>
     </tr>
 </table></center>
 
