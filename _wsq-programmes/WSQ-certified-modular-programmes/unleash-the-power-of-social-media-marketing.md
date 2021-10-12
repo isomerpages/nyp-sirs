@@ -12,7 +12,7 @@ third_nav_title: WSQ Certified Modular Programmes
       <th style="text-align:center;width:50%;">Online Training</th>
     </tr>
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">1, 2, 3 & 6 Sep 2021<br>1, 4, 5 & 6 Oct 2021</td>
+      <td style="text-align:center;width:50%;">1, 5, 8 & 9 Nov 2021</td>
     </tr>
 </table></center>
 
