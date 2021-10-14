@@ -27,7 +27,7 @@ To view more details, refer to the factsheets below:
 <div style="width:50%;float:left;"><center><a href="/files/documents-2021/Services_CCP_DP_Factsheet_Employer.pdf" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-
 block; margin: 4px 2px; cursor:pointer;text-decoration:none;">For Employers</a></center></div>
 
-<div style="width:50%;float:left;"><center><a href="/files/documents-2021/Services_CCP_DP_Factsheet_Applicant_Oct 21.pdf" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">For Applicants</a></center></div>
+<div style="width:50%;float:left;"><center><a href="/files/documents-2021/Services_CCP_DP_Factsheet_Applicant.pdf" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">For Applicants</a></center></div>
 
 <h4>Funding and Support</h4>
 
