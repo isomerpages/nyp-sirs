@@ -1,12 +1,9 @@
 ---
-title: 'Alibaba Managerial Elite Programme'
+title: Alibaba Managerial Elite Programme
 permalink: /digital-programmes/alibaba-business-school/alibaba-managerial-elite-programme
-breadcrumb: 'Alibaba Managerial Elite Programme'
-third_nav_title: 'Alibaba Business School'
-
+breadcrumb: Alibaba Managerial Elite Programme
+third_nav_title: Alibaba Business School
 ---
-
-
 <img src="images/agcs-abs-sirs-atu-combined-logos.png" style="width:100%:">
 
 <img src="images/alibaba-business-school/alibaba-mep.jpg" style="width:100%;">
@@ -21,7 +18,7 @@ third_nav_title: 'Alibaba Business School'
 
 <center><table style="width:80%;">
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">To be confirmed</td>
+      <td style="text-align:center;width:50%;">Feb 2022</td>
     </tr> 
 </table></center>
 
