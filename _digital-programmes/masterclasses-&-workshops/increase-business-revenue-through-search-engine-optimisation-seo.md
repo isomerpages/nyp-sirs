@@ -1,12 +1,9 @@
 ---
-title: 'Increase Business Revenue through Search Engine Optimisation (SEO)'
+title: Increase Business Revenue through Search Engine Optimisation (SEO)
 permalink: /digital-programmes/masterclasses-and-workshops/increase-business-revenue-through-seo
-breadcrumb: 'Increase Business Revenue through Search Engine Optimisation (SEO)'
-third_nav_title: 'Masterclasses & Workshops'
-
+breadcrumb: Increase Business Revenue through Search Engine Optimisation (SEO)
+third_nav_title: Masterclasses & Workshops
 ---
-
-
 <img src="/images/images-2021/DigitalProgrammes-Image-Masterclass.png" style="width:100%;">
 
 <h4 style="text-align:center;">Next intake:</h4>
@@ -17,7 +14,7 @@ third_nav_title: 'Masterclasses & Workshops'
       <th style="text-align:center;width:50%;">Face-to-Face</th>
     </tr>
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">To be confirmed</td>
+      <td style="text-align:center;width:50%;">17 Nov 2021</td>
       <td style="text-align:center;width:50%;">To be confirmed</td>
     </tr>
 </table></center>
@@ -121,4 +118,3 @@ third_nav_title: 'Masterclasses & Workshops'
 <div style="width:50%;float:left;"><center><a href="https://form.gov.sg/#!/5d9d3f30a8b1b30012143f58" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Register Now</a></center></div>
 
 <div style="width:50%;float:left;"><center><a href="https://form.gov.sg/602f33f172d5100012d6ca8b" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center></div>
-
