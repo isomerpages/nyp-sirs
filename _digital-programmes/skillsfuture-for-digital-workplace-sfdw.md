@@ -30,7 +30,12 @@ breadcrumb: SkillsFuture for Digital Workplace (SFDW)
 - Create engaging marketing content with short videos and graphics
 - Leverage virtual conferencing platforms to conduct business functions such as sales meetings, product demonstrations, training classes and more 
 - Identify fake news and common cybersecurity threats, and ways to to safeguard your digital security
-  
+
+<h4>Requirements</h4>
+<p>-	Have basic PC or laptop knowledge <br>- Be proficient in spoken and written English <br>- Have a Facebook account
+<br>-Have a Gmail account <br>*(Laptops will be provided for hands-on practice in class)
+
+</p>
 <h4>Duration</h4>
 <p>2 days (9am - 6pm daily)</p>
 
