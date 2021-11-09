@@ -77,6 +77,7 @@ breadcrumb: SkillsFuture for Digital Workplace (SFDW)
 
 <small><i><sup>1</sup>Supported by SkillsFuture Credit<br>
 	<sup>2</sup>Terms & conditions apply<br>
+Funding Eligbility Period: 1 Oct 2021 to 30 Sep 2024<br>
 Fees include prevailing GST</i></small>
 
     
