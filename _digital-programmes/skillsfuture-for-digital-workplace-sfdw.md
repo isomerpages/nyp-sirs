@@ -32,8 +32,12 @@ breadcrumb: SkillsFuture for Digital Workplace (SFDW)
 - Identify fake news and common cybersecurity threats, and ways to to safeguard your digital security
 
 <h4>Requirements</h4>
-<p>-	Have basic PC or laptop knowledge <br>- Be proficient in spoken and written English <br>- Have a Facebook account
-<br>-Have a Gmail account <br>*(Laptops will be provided for hands-on practice in class)
+- Have basic PC or laptop knowledge
+- Be proficient in spoken and written English
+- Have a Facebook account
+- Have a Gmail account
+
+<i>(Laptops will be provided for hands-on practice in class)</i>
 
 </p>
 <h4>Duration</h4>
