@@ -3,7 +3,7 @@ title: SkillsFuture for Digital Workplace (SFDW)
 permalink: /digital-programmes/skillsfuture-digital-workplace
 breadcrumb: SkillsFuture for Digital Workplace (SFDW)
 ---
-<img src="/images/images-2021/DigitalProgrammes-SFDW.png" style="width:100%;">
+<img src="/images/images-2021/SFDW_Header Image_HBB.png" style="width:100%;">
 
 <h4 style="text-align:center;">Next intake:</h4>
 
@@ -18,17 +18,18 @@ breadcrumb: SkillsFuture for Digital Workplace (SFDW)
     </tr>
 </table></center>
 
-<p>The rapid adoption of digital technologies spurred by COVID-19 has become more apparent now than before. Online shopping, video conferencing, and remote working are now a daily part of our lives as we continue to rethink and readapt the way we live, work, and socialise in the new normal.</p>
+<p>The rapid adoption of digital technologies spurred by COVID-19 has become more apparent now than before. Home-based businesses are popping up as consumers and businesses turn online for buying and selling to cope with the disruptions by the pandemic.</p>
 	
-<p>Join us in this two-day workshop with refreshed and up-to-date content to improve your digital engagement with your family, friends, colleagues or customers. Pick up the essential skills to stay connected, boost productivity and gain the confidence to enhance your new digital lifestyle!</p>
+<p>Aspire to start your own online business? Join us in this two-day workshop to gain the essential knowledge and skills to set up your home-based business and engage your customers online !</p>
 
 <h4>Outline</h4>
-- Develop a growth mindset to thrive in the digital landscape
-- Zoom and Live Streaming 101: How to use video conferencing tool for live streaming and social media
-- Create attractive short videos and graphics for social media using free online tools
-- Identify fake news and common cybersecurity threats, and ways to safeguard your digital security
-- Appreciate the evolution of customer engagement and communication
-- Understand the guidelines and types of home-based business, and how you can start your own
+- Discover home-based business trends
+- Identify essential skills for a home-based business
+- Manage a home-based business
+- Recognise different types of customers and ways to acquire them
+- Create engaging marketing content with short videos and graphics
+- Leverage virtual conferencing platforms to conduct business functions such as sales meetings, product demonstrations, training classes and more 
+- Identify fake news and common cybersecurity threats, and ways to to safeguard your digital security
   
 <h4>Duration</h4>
 <p>2 days (9am - 6pm daily)</p>
