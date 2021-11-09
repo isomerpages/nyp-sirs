@@ -39,7 +39,6 @@ breadcrumb: SkillsFuture for Digital Workplace (SFDW)
 
 <i>(Laptops will be provided for hands-on practice in class)</i>
 
-</p>
 <h4>Duration</h4>
 <p>2 days (9am - 6pm daily)</p>
 
