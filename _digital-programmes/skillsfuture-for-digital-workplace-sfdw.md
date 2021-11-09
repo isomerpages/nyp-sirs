@@ -22,6 +22,11 @@ breadcrumb: SkillsFuture for Digital Workplace (SFDW)
 	
 <p>Aspire to start your own online business? Join us in this two-day workshop to gain the essential knowledge and skills to set up your home-based business and engage your customers online !</p>
 
+<h4>Course Title | Mode of Training | Course Ref</h4>
+
+<p>SkillsFuture for Digital Workplace (Singapore Institute of Retail Studies)
+<br>Classroom - TGS-2021002808
+
 <h4>Outline</h4>
 - Discover home-based business trends
 - Identify essential skills for a home-based business
