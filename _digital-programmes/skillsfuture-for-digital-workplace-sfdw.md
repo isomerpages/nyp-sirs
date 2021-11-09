@@ -26,6 +26,7 @@ breadcrumb: SkillsFuture for Digital Workplace (SFDW)
 
 <p>SkillsFuture for Digital Workplace (Singapore Institute of Retail Studies)
 <br>Classroom - TGS-2021002808
+</p>
 
 <h4>Outline</h4>
 - Discover home-based business trends
