@@ -1,6 +1,6 @@
 ---
-title: "Start, Grow & Scale Online "
-permalink: /digital-programmes/masterclasses-workshops/sgso
+title: "test"
+permalink: /digital-programmes/masterclasses-workshops/test
 third_nav_title: Masterclasses & Workshops
 ---
 <img src="/images/images-2021/DigitalProgrammes-HImage-Workshop.png" style="width:100%;">
