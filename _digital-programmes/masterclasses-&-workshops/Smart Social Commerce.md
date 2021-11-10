@@ -25,7 +25,7 @@ third_nav_title: Masterclasses & Workshops
 
 <p>Want to find out how you too can ride the social commerce wave and grow your business? Join us to learn how you can leverage Shopline, Asia’s biggest provider of omnichannel retail services for online, offline-to-online and cross-border commerce to reinvent your customer engagement and boost sales.</p>
 
-<small>*Data source:<a href="https://techwireasia.com/2021/10/southeast-asia-sees-exhilarating-rise-in-social-commerce/</a>
+<small>*Data source:<a> https://techwireasia.com/2021/10/southeast-asia-sees-exhilarating-rise-in-social-commerce/</a>
 
 <h4>Course Title | Mode of Training | Course Ref</h4>
 
