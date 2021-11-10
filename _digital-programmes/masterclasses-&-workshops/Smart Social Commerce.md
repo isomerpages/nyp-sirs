@@ -56,7 +56,7 @@ third_nav_title: Masterclasses & Workshops
   <li>Five ways to optimise your social sales</li>
   <li>Social media marketing and digital ads (automated marketing and broadcast centre, digital ad tracking)</li>
   <li>Live streaming essentials (storytelling, processes, KPIs and Shopline’s enhancement feature)</li>
-  <li>Social commerce tools (strategy KPIs and measurements)</li>
+  <li>Social commerce tools (strategies, KPIs and measurements)</li>
   </ul>
 
 <h4>Who Should Attend</h4>
