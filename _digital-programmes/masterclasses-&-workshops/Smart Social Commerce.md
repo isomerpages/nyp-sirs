@@ -23,11 +23,11 @@ third_nav_title: Masterclasses & Workshops
 
 <p>In Southeast Asia, as many as 42%* of total shoppers use social media to make purchases one to two times a month, and 35%* use it to shop more than three times a month. Social commerce sales have grown exponentially in the last year, accelerated by the pandemic that drove more customers to shop from brands they have engaged with on social media platforms.</p>
 
-<p>Want to find out how you too can ride the social commerce wave and grow your business? Join us to learn how you can leverage Shopline, Asia’s biggest provider of omnichannel retail services for online, offline-to-online and cross-border commerce to reinvent your customer engagement and boost sales.</p>
+<p>Want to find out how you too can ride the social commerce wave and grow your business? Join us to learn how you can leverage Shopline, Asia’s biggest provider of omnichannel retail services for online, offline-to-online and cross-border commerce to reinvent your customer engagement and boost sales.
 
-<p><small>*Data source:
-<a href="https://techwireasia.com/2021/10/southeast-asia-sees-exhilarating-rise-in-social-commerce/">https://techwireasia.com/2021/10/southeast-asia-sees-exhilarating-rise-in-social-commerce/</a></p>
-
+<small>*Data source:
+<a href="https://techwireasia.com/2021/10/southeast-asia-sees-exhilarating-rise-in-social-commerce/">https://techwireasia.com/2021/10/southeast-asia-sees-exhilarating-rise-in-social-commerce/</a>
+</p>
 
 <h4>Course Title | Mode of Training | Course Ref</h4>
 
