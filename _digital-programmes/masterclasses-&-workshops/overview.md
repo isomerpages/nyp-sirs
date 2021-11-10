@@ -34,7 +34,7 @@ third_nav_title: Masterclasses & Workshops
   <li><a href="/digital-programmes/masterclasses-and-workshops/differentiate-and-drive-growth-with-experience-innovation">Differentiate and Drive Growth with Experience Innovation</a></li>
   <li><a href="/digital-programmes/masterclasses-and-workshops/improve-customer-engagement-with-digital-mindset">Improve Customer Engagement with Digital Mindset</a></li>
   <li><a href="/digital-programmes/masterclasses-and-workshops/level-up-customer-engagement-through-live-streaming">Level Up Customer Engagement Through Live Streaming</a></li>
-		<li><a href="/digital-programmes/masterclasses-workshops/ssc">Smart Social Commerce</a></li>
+		<li><a href="/digital-programmes/mc-ws/ssc">Smart Social Commerce</a></li>
 	<li><a href="/digital-programmes/masterclasses-workshops/sgso">Start, Grow & Scale Online (from sourcing to dropship online - B2B2C)</a></li>
 </ul>
 
