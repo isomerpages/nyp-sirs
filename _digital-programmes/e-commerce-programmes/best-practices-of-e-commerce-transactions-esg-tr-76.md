@@ -1,11 +1,9 @@
 ---
-title: 'Best Practices of E-Commerce Transactions ESG TR 76'
+title: Best Practices of E-Commerce Transactions ESG TR 76
 permalink: /digital-programmes/e-commerce-programmes/best-practices-of-e-commerce-transactions-using-tr76
-breadcrumb: 'Best Practices of E-Commerce ESG TR 76'
-third_nav_title: 'E-Commerce Programmes'
-
+breadcrumb: Best Practices of E-Commerce ESG TR 76
+third_nav_title: E-Commerce Programmes
 ---
-
 <img src="/images/images-2021/DigitalProgrammes-E-Commerce-TR76.png" style="width:100%;">
 
 <h4 style="text-align:center;">Next intake:</h4>
@@ -16,7 +14,7 @@ third_nav_title: 'E-Commerce Programmes'
       <th style="text-align:center;width:50%;">Face-to-Face</th>
     </tr>
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">To be confirmed</td>
+      <td style="text-align:center;width:50%;">25 Nov 2021</td>
       <td style="text-align:center;width:50%;">To be confirmed</td>
     </tr>
 </table></center>
