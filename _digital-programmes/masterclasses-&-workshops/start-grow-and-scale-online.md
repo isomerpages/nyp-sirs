@@ -13,7 +13,7 @@ third_nav_title: Masterclasses & Workshops
       <th style="text-align:center;width:50%;">Face-to-Face</th>
     </tr>
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">To be confirmed</td>
+      <td style="text-align:center;width:50%;">21 Jan 2022(Fri) eLearn</td>
       <td style="text-align:center;width:50%;">To be confirmed</td>
     </tr>
 </table></center>
