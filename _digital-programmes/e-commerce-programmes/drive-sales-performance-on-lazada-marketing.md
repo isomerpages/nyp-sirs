@@ -14,7 +14,7 @@ third_nav_title: E-Commerce Programmes
       <th style="text-align:center;width:50%;">Face-to-Face</th>
     </tr>
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">28 Oct  2021 (Thurs)<br>29  Nov 2021 (Mon) <br> 13 Dec 2021 (Nov)</td>
+      <td style="text-align:center;width:50%;">14 Dec 2021 (Tue)<br>17 Jan 2022 (Mon)<br> 17 Feb 2022 (Thu)</td>
       <td style="text-align:center;width:50%;">To be confirmed</td>
     </tr>
 </table></center>
