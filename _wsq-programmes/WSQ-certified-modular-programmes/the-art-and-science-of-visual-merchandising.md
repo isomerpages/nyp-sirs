@@ -67,7 +67,7 @@ third_nav_title: WSQ Certified Modular Programmes
 </tr>
 
 <tr>
-<td>Full Qualification (7 modules) Full Course Fee (before GST)</td>
+<td>Full Course Fee (before GST)</td>
 <td>$440.00</td>
 </tr>
 
