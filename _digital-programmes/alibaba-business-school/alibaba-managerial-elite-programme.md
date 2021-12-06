@@ -18,7 +18,7 @@ third_nav_title: Alibaba Business School
 
 <center><table style="width:80%;">
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">Feb 2022</td>
+      <td style="text-align:center;width:50%;">To be confirmed</td>
     </tr> 
 </table></center>
 
