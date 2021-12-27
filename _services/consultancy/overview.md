@@ -3,10 +3,7 @@ title: Overview
 permalink: /services/consultancy
 breadcrumb: Overview
 third_nav_title: Consultancy
-
 ---
-
-
 <p><img src="/images/images-2021/Services_Consultancy.png" style="width:100%;"></p>
 <p>SIRS has enabled many retailers to successfully implement training & capability development initiatives through our well-tailored and enterprise-centric solutions. Our team of consultants work closely with retailers to diagnose and develop speed-to-market business solutions, collaborations, and recommendations to help them in their business transformation. Besides helping companies become more successful in people development and business excellence, we also work with individuals who are interested in upskilling themselves for a career in retail.</p>
 
@@ -19,6 +16,7 @@ third_nav_title: Consultancy
 <li><a href="/services/consultancy/etss">Enhanced Training Support for SMEs (ETSS)</a></li>
 <li><a href="/services/consultancy/enhanced-training-support-package-etsp">Enhanced Training Support Package (ETSP) & Enhanced Absentee Payroll (COVID-19)</a></li>
 <li><a href="/services/consultancy/edg">Enterprise Development Grant (EDG)</a></li>
+<li><a href="/services/consultancy/skillsfuture-enterprise-credit">SkillsFuture Enterprise Credit (SFEC)</a></li>
 <li><a href="/services/consultancy/wss-companies">Workfare Skills Support (WSS) Scheme (For Companies)</a></li>
 </ul>
 
