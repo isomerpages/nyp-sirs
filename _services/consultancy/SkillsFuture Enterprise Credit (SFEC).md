@@ -13,8 +13,8 @@ third_nav_title: Consultancy
 <h4>What does the SFEC support?</h4>
 
 <ul>
-  <li><b>Enterprise Transformation</b><br>Programmes that support enterprise transformation</li>
-  <li><b>Workforce Transformation</b><br>Job redesign initiatives, and curated training programmes by SkillsFuture Singapore and Workforce Singapore, such as training courses aligned to the Skills Framework, Professional Conversion Programmes and sector-specific programmes</li>
+  <li><b>Enterprise Transformation</b><br>Programmes that support enterprise transformation</li><br>
+  <li><b>Workforce Transformation</b><br>Job redesign initiatives, and curated training programmes by SkillsFuture Singapore and Workforce Singapore, such as training courses aligned to the Skills Framework, Professional Conversion Programmes and sector-specific programmes</li></br>
   </ul>
 
 <p>The list of SFEC-supportable programmes can be found <a href="https://sfec-microsite.enterprisejobskills.gov.sg/SFEC">here</a>.</p>
