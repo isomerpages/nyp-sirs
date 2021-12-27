@@ -26,4 +26,4 @@ third_nav_title: Consultancy
 <p>For claims guide, please click <a href="https://sfec-microsite.enterprisejobskills.gov.sg/docs/default-source/default-document-library/sfec-claim-guide---final-(171121).pdf">here</a>.</p>
 
 <h4>Where can I get more information on the SFEC?</h4>
-<p>You may visit the <a href="https://sfec-microsite.enterprisejobskills.gov.sg/home/f">SFEC Microsite</a> for more information.</p>
+<p>You may visit the <a href="https://sfec-microsite.enterprisejobskills.gov.sg/home/">SFEC Microsite</a> for more information.</p>
