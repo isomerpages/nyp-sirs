@@ -10,7 +10,7 @@ transition to an innovation-driven economy, new skills and competencies among Si
 existing ones requiring updated skillsets. The SkillsFuture Study Awards encourage Singaporeans to develop and deepen specialist skills needed by future 
 economic growth sectors or in areas of demand. It also supports Singaporeans who already have deep specialist skills to develop other competencies. Over 500 
 study awards will be available from October 2015. At a later stage, we aim to give up to 2,000 study awards annually. 
-	<br><br><b>Update:</b> SSG will discontinue the SkillsFuture Study Awards on 1 April 2022 as part of their broader efforts to review existing schemes and prioritise resources for programmes that deliver stronger manpower development outcomes. For more information, please click here: https://www.skillsfuture.gov.sg/studyawards</p>
+	<br><br><b>Update:</b> SSG will discontinue the SkillsFuture Study Awards on 1 April 2022 as part of their broader efforts to review existing schemes and prioritise resources for programmes that deliver stronger manpower development outcomes. For more information, please click <a href="https://www.skillsfuture.gov.sg/studyawards">here</a>.</p>
 
 <h4>Who is eligible for the SkillsFuture Study Awards?</h4>
 <p>The SkillsFuture Study Awards are for early to mid-career Singaporeans who are committed to developing and deepening their skills in key sectors and have 
