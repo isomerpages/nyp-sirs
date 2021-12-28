@@ -13,8 +13,8 @@ third_nav_title: WSQ Full Qualification Programmes
       <th style="text-align:center;width:50%;">Night Training</th>
     </tr>
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">8 Sep 2021 (Every Wed)</td>
-      <td style="text-align:center;width:50%;">4 Oct 2021 (Every Mon & Wed)</td>
+      <td style="text-align:center;width:50%;">April 2022 (Every Wed)</td>
+      <td style="text-align:center;width:50%;">April 2022 (Every Mon & Wed)</td>
     </tr>
 </table></center>
 
@@ -67,20 +67,26 @@ third_nav_title: WSQ Full Qualification Programmes
 </tr>
 
 <tr>
-<td>Singapore Citizen/Singapore PR (SPR) (90% funding)</td>
-<td>$471.87</td>
+<td>Singapore Citizen/Singapore PR (SPR) (70% funding)</td>
+<td>$1415.61</td>
 </tr>
 
 <tr>
+<td>Singapore Citizens 40 years old and above (90% funding)</td>
+<td>$533.61</td>
+</tr>
+<tr>
 <td>Singapore Citizen/SPR sponsored by SMEs<sup>1</sup> (90% funding)</td>
-<td>$471.87</td>
+<td>$533.61</td>
 </tr>
 
 </table>
 </center>
 
-<small><i><sup>1</sup>Fee is under the <a href="/services/consultancy/etss">Enhanced Training Support for SMEs (ETSS)</a><br>
-    Fees include prevailing GST</i></small>
+<small><i> Fees include prevailing GST 
+	<br>Subsidy Update: From 1 Jan 2022, SkillsFuture course funding will be revised to a baseline of 70% subsidy, with an additional 20% subsidy (up to 90% subsidy in total) for SMEs and Mid-career individuals (Singapore citizens above 40 years old).
+	<br> Funding Eligiblity Period: 1 Oct 2021 to 30 Sep 2024 
+	<br><sup>1</sup>Fee is under the <a href="/services/consultancy/etss">Enhanced Training Support for SMEs (ETSS)</a></i></small>
 
 <h4>Additional Support</h4>
 
