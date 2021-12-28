@@ -12,8 +12,8 @@ third_nav_title: WSQ Full Qualification Programmes
       <th style="text-align:center;width:50%;">Night Training</th>
     </tr>
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">Sep 2021</td>
-      <td style="text-align:center;width:50%;">Sep 2021</td>
+      <td style="text-align:center;width:50%;">Feb 2022</td>
+      <td style="text-align:center;width:50%;">Jan 2022 (Mon & Thu)<br>Apr 2022 (Mon & Thu)</td>
     </tr>
 </table></center>
 
