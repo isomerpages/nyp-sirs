@@ -8,7 +8,7 @@ third_nav_title: Consultancy
 <p>Formerly known as the CET Qualification Award (CQA), this award encourages workers to attain WSQ full qualifications, which equip them with comprehensive 
 and robust sets of skills to perform their jobs competently, pursue career progression and explore new job opportunities.
 
-Update: The SkillsFuture Qualification Award will be discontinued with effect of 1 January 2023. Eligible Singaporeans who wish to apply for the award should complete their WSQ qualifications by 31 December 2022, and submit their claims by 31 March 2023.  For more info: https://www.myskillsfuture.gov.sg/content/portal/en/career-resources/career-resources/education-career-personal-development/skillsfuture-funding-changes.html
+<br><b>Update</b>: The SkillsFuture Qualification Award will be discontinued with effect of 1 January 2023. Eligible Singaporeans who wish to apply for the award should complete their WSQ qualifications by 31 December 2022, and submit their claims by 31 March 2023.  For more info, please click <a href=" https://programmes.myskillsfuture.gov.sg/QualificationAward/ProgrammeDetails.aspx">here</a>.
 </p>
 
 <h4>Who is eligible for the SkillsFuture Qualification Award?</h4>
