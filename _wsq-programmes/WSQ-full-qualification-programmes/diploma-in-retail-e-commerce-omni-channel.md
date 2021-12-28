@@ -86,9 +86,10 @@ With emerging technologies and evolving consumer behaviour, the ability to lead 
 </table>
 </center>
 
-<small><i><sup>1</sup>Fee is under the <a href="/services/consultancy/etss">Enhanced Training Support for SMEs (ETSS)</a><br>
-	<small><i><sup>2</sup>Fee is under the <a href="/services/consultancy/skillsfuture-midcareer-enhanced-subsidy">Mid-career Enhanced Subsidy</a><br>
-    Fees include prevailing GST</i></small>
+<small><i> Fees include prevailing GST
+<br>Subsidy Update: From 1 Jan 2022, SkillsFuture course funding will be revised to a baseline of 70% subsidy, with an additional 20% subsidy (up to 90% subsidy in total) for SMEs and Mid-career individuals (Singapore citizens above 40 years old)
+	<br> Funding Eligiblity Period: 1 Oct 2021 to 30 Sep 2024<br><sup>1</sup>Fee is under the <a href="/services/consultancy/etss">Enhanced Training Support for SMEs (ETSS)</a><br>
+	<small><i><sup>2</sup>Fee is under the <a href="/services/consultancy/skillsfuture-midcareer-enhanced-subsidy">Mid-career Enhanced Subsidy</a></i></small>
 
 <h4>Additional Support</h4>
 
