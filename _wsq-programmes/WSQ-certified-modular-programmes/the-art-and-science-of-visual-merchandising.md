@@ -77,7 +77,12 @@ third_nav_title: WSQ Certified Modular Programmes
 </tr>
 
 <tr>
-<td>Mid-career Enhanced Subsidy - Singapore Citizen<sup>1</sup> OR <br>Singapore Citizen/SPR sponsored by SMEs<sup>2</sup> (90% funding)</td>
+  <td>Singapore Citizen 40 years and above<sup>1</sup> (90% funding)</td>
+<td>$53.24</td>
+</tr>
+
+<tr>
+<td>Singapore Citizen/SPR sponsored by SMEs<sup>2</sup> (90% funding)</td>
 <td>$53.24</td>
 </tr>
 
