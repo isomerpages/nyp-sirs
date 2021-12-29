@@ -18,9 +18,11 @@ third_nav_title: WSQ Certified Modular Programmes
 
 <p>Today's digitally-savvy consumers go onto search engines to effortlessly source for information, products or services that they need. With so many businesses having an online presence, how can you stand out and draw attention from these potential customers? Search Engine Optimisation (SEO) can help to optimise your website content for the best possible search engine ranking to improve your website traffic, visibility, and engagement. Formulate overarching SEO strategies for your organisation's digital assets and content to expand your customer base and increase sales.</p>
 
-<h4>Course Title</h4>
+<h4>Course Title | Mode of Training | Course Ref</h4>
 
-<p>WSQ Search Engine Optimization</p>
+<p>Search Engine Optimization - SEO (SF - Manager)
+<br>Classroom - TGS-2021004127 <br>
+Synchronous E-learning - TGS-2020513487</p>
     
 <b>Receive a WSQ Statement of Attainment (SOA) from the SkillsFuture Singapore (SSG) upon completion.</b>
 
@@ -77,20 +79,23 @@ third_nav_title: WSQ Certified Modular Programmes
 </tr>
 
 <tr>
-  <td>Singapore Citizen 40 years and above (90% funding)</td>
+  <td>Singapore Citizen 40 years and above<sup>1</sup> (90% funding)</td>
 <td>$101.64</td>
 </tr>
 
 <tr>
-<td>Singapore Citizen/SPR sponsored by SMEs<sup>1</sup> (90% funding)</td>
+<td>Singapore Citizen/SPR sponsored by SMEs<sup>2</sup> (90% funding)</td>
 <td>$101.64</td>
 </tr>
 
 </table>
 </center>
 
-<small><i><sup>1</sup>Fee is under the <a href="/services/consultancy/etss">Enhanced Training Support for SMEs (ETSS)</a><br>
-    Fees include prevailing GST</i></small>
+<small><i> Fees include prevailing GST
+<br> Funding Eligiblity Period: 1 Oct 2021 to 30 Sep 2024<br>
+<small><i><sup>1</sup>Fee is under the <a href="/services/consultancy/skillsfuture-midcareer-enhanced-subsidy">Mid-career Enhanced Subsidy</a>
+<br><sup>2</sup>Fee is under the <a href="/services/consultancy/etss">Enhanced Training Support for SMEs (ETSS)</a><br>
+</i></small>
 
 <h4>Additional Support</h4>
 
@@ -105,7 +110,7 @@ third_nav_title: WSQ Certified Modular Programmes
 <b>For company-sponsored participants:</b>
 <ul>
   <li><a href="/services/consultancy/absentee-payroll-ap">Absentee Payroll</a></li>
-  <li><a href="/services/consultancy/wss-companies">Workfare Skills Support (WSS) Scheme (For Companies)</a></li>
+  <li><a href="/services/consultancy/wss-companies">Workfare Skills Support (WSS) Scheme (For Companies)	<li><a href="/services/consultancy/skillsfuture-enterprise-credit">SkillsFuture Enterprise Credit</a></li></a></li>
   </ul>
   
 <p>For SkillsFuture course reference, please click <a href="/files/documents-2021/SIRS-SkillsFuture-CourseRefNumber.pdf">here.</a></p>
