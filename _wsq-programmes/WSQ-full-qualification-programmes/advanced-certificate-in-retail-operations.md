@@ -85,9 +85,9 @@ third_nav_title: WSQ Full Qualification Programmes
 </center>
 
 <small><i> Fees include prevailing GST
-<br>Subsidy Update: From 1 Jan 2022, SkillsFuture course funding will be revised to a baseline of 70% subsidy, with an additional 20% subsidy (up to 90% subsidy in total) for SMEs and Mid-career individuals (Singapore citizens above 40 years old)
-	<br> Funding Eligiblity Period: 1 Oct 2021 to 30 Sep 2024<br>
-		<small><i><sup>1</sup>Fee is under the <a href="/services/consultancy/skillsfuture-midcareer-enhanced-subsidy">Mid-career Enhanced Subsidy</a>
+<br> Funding Eligiblity Period: 1 Oct 2021 to 30 Sep 2024
+<br>Subsidy Update: From 1 Jan 2022, SkillsFuture course funding will be revised to a baseline of 70% subsidy, with an additional 20% subsidy (up to 90% subsidy in total) for SMEs and Mid-career individuals (Singapore citizens above 40 years old).
+<br><small><i><sup>1</sup>Fee is under the <a href="/services/consultancy/skillsfuture-midcareer-enhanced-subsidy">Mid-career Enhanced Subsidy</a>
 			<br><sup>2</sup>Fee is under the <a href="/services/consultancy/etss">Enhanced Training Support for SMEs (ETSS)</a><br>
 </i></small>
 
