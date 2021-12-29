@@ -158,12 +158,12 @@ Open Your Horizons. Apply Proven E-Commerce Strategies</center>
 </tr>
 
 <tr>
-<td>Singapore Citizen 40 years & above (90% funding)</td>
+<td>Singapore Citizen 40 years & above (90% funding)<sup>1</sup> </td>
 <td>$907.50</td>
 </tr>
 
 <tr>
-<td>Singapore Citizen/SPR sponsored by SMEs<sup>1</sup> (90% funding)</td>
+<td>Singapore Citizen/SPR sponsored by SMEs<sup>2</sup> (90% funding)</td>
 <td>$907.50</td>
 </tr>
 
