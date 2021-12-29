@@ -15,8 +15,8 @@ third_nav_title: WSQ Certified Modular Programmes
       <th style="text-align:center;width:50%;">Face-to-Face</th>
     </tr>
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">1-2 Dec 2021 (Wed-Thu) Eng<br>23 - 24 Feb 2022 (Wed - Thu) </td>
-      <td style="text-align:center;width:50%;"> To be confirmed</td>
+      <td style="text-align:center;width:50%;">To be confirmed</td>
+      <td style="text-align:center;width:50%;"> 23 - 24 Feb 2022 (Wed - Thu)<br>23-24 Mar 2022 (Wed-Thu) - 中文</td>
     </tr>
 </table></center>
 
@@ -70,24 +70,34 @@ third_nav_title: WSQ Certified Modular Programmes
 </tr>
 
 <tr>
-<td>Full Fees (before GST)</td>
+<td>Full Course Fee (before GST)</td>
 <td>$440.00</td>
 </tr>
 
 <tr>
-<td>Singapore Citizen/Singapore PR (SPR) (90% funding)</td>
-<td>$47.08</td>
+<td>Singapore Citizen/Singapore PR (SPR) (70% funding)</td>
+<td>$141.24</td>
 </tr>
 
 <tr>
-<td>Singapore Citizen/SPR sponsored by SMEs<sup>1</sup> (90% funding)</td>
-<td>$47.08</td>
+  <td>Singapore Citizen 40 years and above<sup>1</sup> (90% funding)</td>
+<td>$53.24</td>
+</tr>
+
+<tr>
+<td>Singapore Citizen/SPR sponsored by SMEs<sup>2</sup> (90% funding)</td>
+<td>$53.24</td>
 </tr>
 
 </table>
 </center>
 
-<small><i><sup>1</sup>Fee is under the <a href="/services/consultancy/etss">Enhanced Training Support for SMEs (ETSS)</a><br>Funding Eligiblity Period: 1 April 2016 - 31 March 2022<br>Fees include prevailing GST</i></small>
+<small><i> Fees include prevailing GST
+<br>Subsidy Update: From 1 Jan 2022, SkillsFuture course funding will be revised to a baseline of 70% subsidy, with an additional 20% subsidy (up to 90% subsidy in total) for SMEs and Mid-career individuals (Singapore citizens above 40 years old)
+	<br> Funding Eligiblity Period: 1 Oct 2021 to 30 Sep 2024<br>
+		<small><i><sup>1</sup>Fee is under the <a href="/services/consultancy/skillsfuture-midcareer-enhanced-subsidy">Mid-career Enhanced Subsidy</a>
+			<br><sup>2</sup>Fee is under the <a href="/services/consultancy/etss">Enhanced Training Support for SMEs (ETSS)</a><br>
+</i></small>
 
 <h4>Additional Support</h4>
 
@@ -103,7 +113,7 @@ third_nav_title: WSQ Certified Modular Programmes
 <b>For company-sponsored participants:</b>
 <ul>
   <li><a href="/services/consultancy/absentee-payroll-ap">Absentee Payroll</a></li>
-  <li><a href="/services/consultancy/wss-companies">Workfare Skills Support (WSS) Scheme (For Companies)</a></li>
+  <li><a href="/services/consultancy/wss-companies">Workfare Skills Support (WSS) Scheme (For Companies)	<li><a href="/services/consultancy/skillsfuture-enterprise-credit">SkillsFuture Enterprise Credit</a></li></a></li>
   </ul>
   
 <p>For SkillsFuture course reference, please click <a href="/files/documents-2021/SIRS-SkillsFuture-CourseRefNumber.pdf">here.</a></p>
