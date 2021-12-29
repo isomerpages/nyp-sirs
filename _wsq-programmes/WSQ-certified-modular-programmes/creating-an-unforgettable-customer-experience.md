@@ -16,15 +16,17 @@ third_nav_title: WSQ Certified Modular Programmes
     </tr>
     <tr style="text-align:center;">
       <td style="text-align:center;width:50%;">To be confirmed</td>
-      <td style="text-align:center;width:50%;">19 - 20 Jan 2022 (Wed - Thu)- Eng<br> 2-3 Mar 2022 (Tue-Wed) - 中文 </td>
+      <td style="text-align:center;width:50%;">19 - 20 Jan 2022 (Wed-Thu)- Eng<br> 2-3 Mar 2022 (Tue-Wed) - 中文 <br>8 - 9 Mar 2022 (Tue-Wed) - Eng </td>
     </tr>
 </table></center>
 
 <p>Although more customers are doing their shopping online, the human element remains an integral part of delivering amazing customer experience. This is especially true for physical stores where frontline retail associates are the major touchpoint between your brand and the customers. Therefore, it is important for them to provide a differentiated in-store experience by cultivating greater empathy to deepen connection and acquiring the know-how to project favourable brand perception during customer interactions. Keep your business going strong by attracting and retaining loyal customers to your stores through unforgettable experience curated for them.</p>
 
-<h4>Course Title</h4>
+<h4>Course Title | Mode of Training | Course Ref</h4>
 
-<p>Service Excellence (SF — Associate)</p>
+<p>Service Excellence (SF — Associate)
+<br>Classroom - TGS-2020505458</p>
+
 
 <b>Receive a WSQ Statement of Attainment (SOA) from the SkillsFuture Singapore (SSG) upon completion.</b>
 
@@ -76,20 +78,29 @@ third_nav_title: WSQ Certified Modular Programmes
 </tr>
 
 <tr>
-<td>Singapore Citizen/Singapore PR (SPR) (90% funding)</td>
-<td>$47.08</td>
+<td>Singapore Citizen/Singapore PR (SPR) (70% funding)</td>
+<td>$141.24</td>
 </tr>
 
 <tr>
-<td>Singapore Citizen/SPR sponsored by SMEs<sup>1</sup> (90% funding)</td>
-<td>$47.08</td>
+  <td>Singapore Citizen 40 years and above<sup>1</sup> (90% funding)</td>
+<td>$53.24</td>
+</tr>
+
+<tr>
+<td>Singapore Citizen/SPR sponsored by SMEs<sup>2</sup> (90% funding)</td>
+<td>$53.24</td>
 </tr>
 
 </table>
 </center>
 
-<small><i><sup>1</sup>Fee is under the <a href="/services/consultancy/etss">Enhanced Training Support for SMEs (ETSS)</a><br>
-    Fees include prevailing GST</i></small>
+<small><i> Fees include prevailing GST
+<br>Subsidy Update: From 1 Jan 2022, SkillsFuture course funding will be revised to a baseline of 70% subsidy, with an additional 20% subsidy (up to 90% subsidy in total) for SMEs and Mid-career individuals (Singapore citizens above 40 years old)
+	<br> Funding Eligiblity Period: 1 Oct 2021 to 30 Sep 2024<br>
+		<small><i><sup>1</sup>Fee is under the <a href="/services/consultancy/skillsfuture-midcareer-enhanced-subsidy">Mid-career Enhanced Subsidy</a>
+			<br><sup>2</sup>Fee is under the <a href="/services/consultancy/etss">Enhanced Training Support for SMEs (ETSS)</a><br>
+</i></small>
 
 <h4>Additional Support</h4>
 
