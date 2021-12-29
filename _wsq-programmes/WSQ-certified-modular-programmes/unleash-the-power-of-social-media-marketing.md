@@ -12,15 +12,17 @@ third_nav_title: WSQ Certified Modular Programmes
       <th style="text-align:center;width:50%;">Online Training</th>
     </tr>
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">1, 5, 8 & 9 Nov 2021<br>2, 3, 6 & 13 Dec 2021 <br>3, 4, 5 & 6 Jan 2022</td>
+      <td style="text-align:center;width:50%;">7, 8, 9 & 10 Feb 2022<br>1, 2, 3, & 4 Mar 2022 </td>
     </tr>
 </table></center>
 
 <p>As social media continues to weave itself into everyone's daily lives, it has become one of the most important and profitable aspects of digital marketing. Social media platforms provide businesses with the opportunity to reach out to billions of consumers worldwide and allow them to engage with their customers regularly. With consistent monitoring and fine-tuning of your social media marketing strategy, you will potentially see an increase in traffic & sales, improve brand awareness and gain more satisfied customers to help you take your business to greater heights.</p>
 
-<h4>Course Title</h4>
+<h4>Course Title | Mode of Training | Course Ref</h4>
 
-<p>WSQ Social Media Marketing</p>
+<p>Social Media Marketing (SF - Manager)
+<br>Classroom - TGS-2021004119
+<br>Synchronous E-learning - TGS-2020513485</p>
 
 <b>Receive a WSQ Statement of Attainment (SOA) from the SkillsFuture Singapore (SSG) upon completion.</b>
 
