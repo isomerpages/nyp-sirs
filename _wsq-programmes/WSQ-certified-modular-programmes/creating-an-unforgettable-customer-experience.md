@@ -15,8 +15,8 @@ third_nav_title: WSQ Certified Modular Programmes
       <th style="text-align:center;width:50%;">Face-to-Face</th>
     </tr>
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">7-8 Dec 2021 (Tue-Wed) -中文<br> 14 - 15 Dec (Tue-Wed) - Eng <br> 19 - 20 Jan 2022 (Wed - Thu)</td>
       <td style="text-align:center;width:50%;">To be confirmed</td>
+      <td style="text-align:center;width:50%;">19 - 20 Jan 2022 (Wed - Thu)- Eng<br> 2-3 Mar 2022 (Tue-Wed) - 中文 </td>
     </tr>
 </table></center>
 
