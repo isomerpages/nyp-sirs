@@ -1,15 +1,15 @@
 ---
-title: 'Enhanced Training Support for SMEs (ETSS)'
+title: Enhanced Training Support for SMEs (ETSS)
 permalink: /services/consultancy/etss
-breadcrumb: 'Enhanced Training Support for SMEs'
+breadcrumb: Enhanced Training Support for SMEs
 third_nav_title: Consultancy
-
 ---
-
 <b>Enterprises may now apply for the <a href="/services/consultancy/enhanced-training-support-package-etsp">Enhanced Training Support Package (ETSP)</a> for added support for sectors which were directly and severely affected by the COVID-19 pandemic.</b>
 
 <h4>What is Enhanced Training Support For SMEs (ETSS)?</h4>
-<p>Skills upgrading remains a key mechanism for companies to raise productivity. Compared to larger companies with more resources, Small and Medium Enterprises (SMEs) are less able to send their employees for training.  The Government has thus enhanced training support for SMEs by providing higher course fee funding and enhanced absentee payroll cap.</p>
+<p>Skills upgrading remains a key mechanism for companies to raise productivity. Compared to larger companies with more resources, Small and Medium Enterprises (SMEs) are less able to send their employees for training.  The Government has thus enhanced training support for SMEs by providing higher course fee funding and enhanced absentee payroll cap. 
+	<br><br><b>Update: </b>With effect from 1 Jan 2022,  Absentee Payroll (AP) funding will be standardised to $4.50 per trainee-hour, capped at $100,000 per enterprise per calendar year, for eligible SMEs. 
+<br> For more information, please click <a href="https://www.myskillsfuture.gov.sg/content/portal/en/career-resources/career-resources/education-career-personal-development/skillsfuture-funding-changes.html">here</a>.</p>
 
 <h4>What does ETSS comprise?</h4>
 <p>For all eligible SMEs, sponsored staff enjoys 90% course fee subsidy for all approved programmes. The company enjoys higher <a href="/services/consultancy/absentee-payroll-ap">Absentee Payroll (AP)</a> funding at 80% of hourly basic salary (capped at $7.50 per trainee-hour) for each sponsored employee.</p>

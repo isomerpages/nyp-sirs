@@ -12,15 +12,17 @@ third_nav_title: WSQ Certified Modular Programmes
       <th style="text-align:center;width:50%;">Online Training</th>
     </tr>
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">1, 5, 8 & 9 Nov 2021<br>2, 3, 6 & 13 Dec 2021 <br>3, 4, 5 & 6 Jan 2022</td>
+      <td style="text-align:center;width:50%;">7, 8, 9 & 10 Feb 2022<br>1, 2, 3, & 4 Mar 2022 </td>
     </tr>
 </table></center>
 
 <p>As social media continues to weave itself into everyone's daily lives, it has become one of the most important and profitable aspects of digital marketing. Social media platforms provide businesses with the opportunity to reach out to billions of consumers worldwide and allow them to engage with their customers regularly. With consistent monitoring and fine-tuning of your social media marketing strategy, you will potentially see an increase in traffic & sales, improve brand awareness and gain more satisfied customers to help you take your business to greater heights.</p>
 
-<h4>Course Title</h4>
+<h4>Course Title | Mode of Training | Course Ref</h4>
 
-<p>WSQ Social Media Marketing</p>
+<p>Social Media Marketing (SF - Manager)
+<br>Classroom - TGS-2021004119
+<br>Synchronous E-learning - TGS-2020513485</p>
 
 <b>Receive a WSQ Statement of Attainment (SOA) from the SkillsFuture Singapore (SSG) upon completion.</b>
 
@@ -72,20 +74,23 @@ third_nav_title: WSQ Certified Modular Programmes
 </tr>
 
 <tr>
-  <td>Singapore Citizen 40 years and above (90% funding)</td>
+  <td>Singapore Citizen 40 years and above<sup>1</sup> (90% funding)</td>
 <td>$101.64</td>
 </tr>
 
 <tr>
-<td>Singapore Citizen/SPR sponsored by SMEs<sup>1</sup> (90% funding)</td>
+<td>Singapore Citizen/SPR sponsored by SMEs<sup>2</sup> (90% funding)</td>
 <td>$101.64</td>
 </tr>
 
 </table>
 </center>
 
-<small><i><sup>1</sup>Fee is under the <a href="/services/consultancy/etss">Enhanced Training Support for SMEs (ETSS)</a><br>
-    Fees include prevailing GST</i></small>
+<small><i> Fees include prevailing GST
+<br> Funding Eligiblity Period: 1 Oct 2021 to 30 Sep 2024<br>
+<small><i><sup>1</sup>Fee is under the <a href="/services/consultancy/skillsfuture-midcareer-enhanced-subsidy">Mid-career Enhanced Subsidy</a>
+<br><sup>2</sup>Fee is under the <a href="/services/consultancy/etss">Enhanced Training Support for SMEs (ETSS)</a><br>
+</i></small>
 
 <h4>Additional Support</h4>
 
@@ -100,7 +105,7 @@ third_nav_title: WSQ Certified Modular Programmes
 <b>For company-sponsored participants:</b>
 <ul>
   <li><a href="/services/consultancy/absentee-payroll-ap">Absentee Payroll</a></li>
-  <li><a href="/services/consultancy/wss-companies">Workfare Skills Support (WSS) Scheme (For Companies)</a></li>
+  <li><a href="/services/consultancy/wss-companies">Workfare Skills Support (WSS) Scheme (For Companies)	<li><a href="/services/consultancy/skillsfuture-enterprise-credit">SkillsFuture Enterprise Credit</a></li></a></li>
   </ul>
   
 <p>For SkillsFuture course reference, please click <a href="/files/documents-2021/SIRS-SkillsFuture-CourseRefNumber.pdf">here.</a></p>

@@ -1,16 +1,19 @@
 ---
-title: 'Absentee Payroll (AP)'
+title: Absentee Payroll (AP)
 permalink: /services/consultancy/absentee-payroll-ap
-breadcrumb: 'Absentee Payroll'
+breadcrumb: Absentee Payroll
 third_nav_title: Consultancy
-
 ---
-
 <h4>What is AP?</h4>
 <p>AP funding is a grant to help employers defray the manpower costs incurred when they send their employees for certifiable skills training.</p>
 
 <h4>What does AP comprise of?</h4>
-<p>Company will receive 80% of hourly basic salary (capped at $4.50 per trainee-hour) for each sponsored employee. SMEs will receive 80% of hourly basic salary (capped at $7.50 per trainee-hour) for each sponsored employee.</p>
+<p>With effect from 1 January 2022, company will recieve a fixed Absentee Payroll (AP)* rate of $4.50 per hour, capped at $100,000 per enterprise per calendar year. 
+<br><br>
+*AP funding will be computed based on the actual number of training hours attended by the trainee. 
+<br><br> For more information,  please click <a href="https://www.myskillsfuture.gov.sg/content/portal/en/career-resources/career-resources/education-career-personal-development/skillsfuture-funding-changes.htm">here</a>.
+
+</p>
 
 <h4>Am I eligible for AP?</h4>
 <p>Your company is eligible for AP as long as it is registered or incorporated in Singapore.</p>

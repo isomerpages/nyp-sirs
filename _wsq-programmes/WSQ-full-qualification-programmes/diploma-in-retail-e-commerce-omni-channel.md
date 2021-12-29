@@ -12,8 +12,8 @@ third_nav_title: WSQ Full Qualification Programmes
       <th style="text-align:center;width:50%;">Night Training</th>
     </tr>
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">Sep 2021</td>
-      <td style="text-align:center;width:50%;">Sep 2021</td>
+      <td style="text-align:center;width:50%;">Feb 2022</td>
+      <td style="text-align:center;width:50%;">Jan 2022 (Mon & Thu)<br>Apr 2022 (Mon & Thu)</td>
     </tr>
 </table></center>
 
@@ -79,16 +79,23 @@ With emerging technologies and evolving consumer behaviour, the ability to lead 
 </tr>
 
 <tr>
-<td>Mid-career Enhanced Subsidy - Singapore Citizen<sup>2</sup> OR <br>Singapore Citizen/SPR sponsored by SMEs<sup>1</sup> (90% funding)</td>
+  <td>Singapore Citizen 40 years and above<sup>1</sup> (90% funding)</td>
+<td>$913.55</td>
+</tr>
+
+<tr>
+<td>Singapore Citizen/SPR sponsored by SMEs<sup>2</sup> (90% funding)</td>
 <td>$913.55</td>
 </tr>
 
 </table>
 </center>
 
-<small><i><sup>1</sup>Fee is under the <a href="/services/consultancy/etss">Enhanced Training Support for SMEs (ETSS)</a><br>
-	<small><i><sup>2</sup>Fee is under the <a href="/services/consultancy/skillsfuture-midcareer-enhanced-subsidy">Mid-career Enhanced Subsidy</a><br>
-    Fees include prevailing GST</i></small>
+<small><i> Fees include prevailing GST
+<br> Funding Eligiblity Period: 1 Oct 2021 to 30 Sep 2024<br>
+<small><i><sup>1</sup>Fee is under the <a href="/services/consultancy/skillsfuture-midcareer-enhanced-subsidy">Mid-career Enhanced Subsidy</a>
+<br><sup>2</sup>Fee is under the <a href="/services/consultancy/etss">Enhanced Training Support for SMEs (ETSS)</a><br>
+</i></small>
 
 <h4>Additional Support</h4>
 
@@ -97,14 +104,13 @@ With emerging technologies and evolving consumer behaviour, the ability to lead 
 <b>For self-sponsored participants:</b>
 <ul>
   <li><a href="/services/consultancy/skillsfuture-credit">SkillsFuture Credit</a></li>
-  <li><a href="/services/consultancy/utap">Union Training Assistance Programme (UTAP)</a></li>
   <li><a href="/services/consultancy/wss-individuals">Workfare Skills Support (WSS) Scheme (For Individuals)</a></li>
 </ul>
 
 <b>For company-sponsored participants:</b>
 <ul>
   <li><a href="/services/consultancy/absentee-payroll-ap">Absentee Payroll</a></li>
-  <li><a href="/services/consultancy/wss-companies">Workfare Skills Support (WSS) Scheme (For Companies)</a></li>
+  <li><a href="/services/consultancy/wss-companies">Workfare Skills Support (WSS) Scheme (For Companies)	<li><a href="/services/consultancy/skillsfuture-enterprise-credit">SkillsFuture Enterprise Credit</a></li></a></li>
   </ul>
   
 <p>For SkillsFuture course reference, please click <a href="/files/documents-2021/SIRS-SkillsFuture-CourseRefNumber.pdf">here.</a></p>

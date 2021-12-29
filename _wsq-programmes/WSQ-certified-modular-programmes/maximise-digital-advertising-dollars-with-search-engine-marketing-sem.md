@@ -12,15 +12,17 @@ third_nav_title: WSQ Certified Modular Programmes
       <th style="text-align:center;width:50%;">Online Training</th>
     </tr>
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">16, 18 Nov & 2, 6 Dec 2021<br>13, 14 Dec & 3, 4 Jan 2022 <br>13, 14 Jan & 3, 4 Feb 2022</td>
+      <td style="text-align:center;width:50%;">18, 21 Feb & 1, 3 Mar 2022<br>11, 14 Mar & 1, 4 Apr 2022</td>
     </tr>
 </table></center>
 
 <p>With millions of businesses vying for the same eyeballs online, one of the most effective way to enhance your digital presence and achieve fast results is through Search Engine Marketing (SEM), a form of internet marketing by increasing your website visibility on search engine results through paid advertising. When equipped with SEM skills and knowledge, you will be able to manage, review and implement successful SEM strategies to create immediate brand visibility, increase traffic, and boost lead conversions – a key to your long-term business success.</p>
 
-<h4>Course Title</h4>
+<h4>Course Title | Mode of Training | Course Ref</h4>
 
-<p>WSQ Paid Search Engine Marketing (SEM)</p>
+<p>Search Engine Optimization - SEO (SF - Manager)
+<br>Classroom - TGS-2021004127
+<br>Synchronous E-learning - TGS-2020513487</p>
 
 <b>Receive a WSQ Statement of Attainment (SOA) from the SkillsFuture Singapore (SSG) upon completion.</b>
 
@@ -72,20 +74,23 @@ third_nav_title: WSQ Certified Modular Programmes
 </tr>
 
 <tr>
-  <td>Singapore Citizen 40 years and above (90% funding)</td>
+  <td>Singapore Citizen 40 years and above<sup>1</sup> (90% funding)</td>
 <td>$101.64</td>
 </tr>
 
 <tr>
-<td>Singapore Citizen/SPR sponsored by SMEs<sup>1</sup> (90% funding)</td>
+<td>Singapore Citizen/SPR sponsored by SMEs<sup>2</sup> (90% funding)</td>
 <td>$101.64</td>
 </tr>
 
 </table>
 </center>
 
-<small><i><sup>1</sup>Fee is under the <a href="/services/consultancy/etss">Enhanced Training Support for SMEs (ETSS)</a><br>
-    Fees include prevailing GST</i></small>
+<small><i> Fees include prevailing GST
+<br> Funding Eligiblity Period: 1 Oct 2021 to 30 Sep 2024<br>
+<small><i><sup>1</sup>Fee is under the <a href="/services/consultancy/skillsfuture-midcareer-enhanced-subsidy">Mid-career Enhanced Subsidy</a>
+<br><sup>2</sup>Fee is under the <a href="/services/consultancy/etss">Enhanced Training Support for SMEs (ETSS)</a><br>
+</i></small>
 
 <h4>Additional Support</h4>
 <p>This course is also eligible for the following:</p>
@@ -99,7 +104,7 @@ third_nav_title: WSQ Certified Modular Programmes
 <b>For company-sponsored participants:</b>
 <ul>
   <li><a href="/services/consultancy/absentee-payroll-ap">Absentee Payroll</a></li>
-  <li><a href="/services/consultancy/wss-companies">Workfare Skills Support (WSS) Scheme (For Companies)</a></li>
+  <li><a href="/services/consultancy/wss-companies">Workfare Skills Support (WSS) Scheme (For Companies)	<li><a href="/services/consultancy/skillsfuture-enterprise-credit">SkillsFuture Enterprise Credit</a></li></a></li>
   </ul>
   
 <p>For SkillsFuture course reference, please click <a href="/files/documents-2021/SIRS-SkillsFuture-CourseRefNumber.pdf">here.</a></p>
