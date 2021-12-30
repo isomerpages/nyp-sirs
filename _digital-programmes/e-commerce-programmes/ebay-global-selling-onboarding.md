@@ -14,12 +14,17 @@ third_nav_title: E-Commerce Programmes
       <th style="text-align:center;width:50%;">Face-to-Face</th>
     </tr>
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">10 Dec 2021 (Fri)</td>
+      <td style="text-align:center;width:50%;">18 Mar 2022 (Fri)</td>
       <td style="text-align:center;width:50%;">To be confirmed</td>
     </tr>
 </table></center>
 
 <p>With 175 million international customers, eBay is one of the top e-commerce platforms worldwide. Learn how you can take your e-commerce business international with our one-day eBay programme, where you will learn how you can create an eBay account, manage your products, and ensure that your products reach customers anywhere in the world.</p>
+
+<h4>Course Title | Mode of Training | Course Ref</h4>
+
+<p>eBay Global Selling (Onboarding)
+<br>Synchronous E-learning - TGS-2020502171</p>
 
 <h4>Outline</h4>
 
