@@ -33,6 +33,11 @@ the next level.</p>
 <small>Sources:<br>
 	<sup>1</sup><a href="https://www.statista.com/statistics/264810/number-of-monthly-active-facebook-users-worldwide">https://www.statista.com/statistics/264810/number-of-monthly-active-facebook-users-worldwide</a>/<br>
 	<sup>2</sup><a href="https://www.statista.com/statistics/490492/number-of-singapore-facebook-users/">https://www.statista.com/statistics/490492/number-of-singapore-facebook-users/</a></small>
+	
+<h4>Course Title | Mode of Training | Course Ref</h4>
+
+<p>Master Facebook Marketing for Business
+<br>Synchronous E-learning -TGS-2021004117</p>
 
 <h4>Outline</h4>
 - Create and promote their Facebook page
@@ -93,20 +98,23 @@ HubSpot Content Marketing Certification.
 </tr>
 
 <tr>
-<td>Singapore Citizen 40 years & above (90% funding)</td>
+<td>Singapore Citizen 40 years & above<sup>1</sup> (90% funding)</td>
 <td>$145.20</td>
 </tr>
 
 <tr>
-<td>Singapore Citizen/SPR sponsored by SMEs<sup>1</sup> (90% funding)</td>
+<td>Singapore Citizen/SPR sponsored by SMEs<sup>2</sup> (90% funding)</td>
 <td>$145.20</td>
 </tr>
 
 </table>
 </center>
 
-<small><i><sup>1</sup>Fee is under the <a href="/services/consultancy/etss">Enhanced Training Support for SMEs (ETSS)</a><br>
-    Fees include prevailing GST</i></small>
+<small><i> Fees include prevailing GST
+<br> Funding Eligiblity Period: 1 Oct 2021 to 30 Sep 2024<br>
+<small><i><sup>1</sup>Fee is under the <a href="/services/consultancy/skillsfuture-midcareer-enhanced-subsidy">Mid-career Enhanced Subsidy</a>
+<br><sup>2</sup>Fee is under the <a href="/services/consultancy/etss">Enhanced Training Support for SMEs (ETSS)</a><br>
+</i></small>
 
 <h4>Additional Support</h4>
 
