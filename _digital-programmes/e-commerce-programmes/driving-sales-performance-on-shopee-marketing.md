@@ -14,7 +14,7 @@ third_nav_title: E-Commerce Programmes
       <th style="text-align:center;width:50%;">Face-to-Face</th>
     </tr>
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">16 Dec 2021 (Thu)<br>19 Jan 2022 (Wed) <br>17 Feb 2022 (Thu) </td>
+      <td style="text-align:center;width:50%;">19 Jan 2022 (Wed) <br>17 Feb 2022 (Thu) <br>11 Mar 2022 (Fri)</td>
       <td style="text-align:center;width:50%;">To be confirmed</td>
     </tr>
 </table></center>
@@ -22,6 +22,8 @@ third_nav_title: E-Commerce Programmes
 <p>Build your winning marketing strategy and bring your Shopee business to the next level! Enhance your shop's presence, captialise social media to generate higher sales and create compelling visual content to bring your store to the top in rank.</p>
 
 <i>Not onboard with Shopee yet? Our 1-day workshop in <a href="/digital-programmes/e-commerce-programmes/getting-started-on-shopee">Getting Started on Shopee (Onboarding)</a> can help you get equipped to be a power seller on Shopee.</i>
+
+
 
 <h4>Outline</h4>
 
@@ -73,20 +75,23 @@ third_nav_title: E-Commerce Programmes
 </tr>
 
 <tr>
-<td>Singapore Citizen 40 years & above (90% funding)</td>
+<td>Singapore Citizen 40 years & above<sup>1</sup> (90% funding)</td>
 <td>$19.36</td>
 </tr>
 
 <tr>
-  <td>Singapore Citizen/SPR sponsored by SMEs<sup>1</sup> (90% funding)</td>
+  <td>Singapore Citizen/SPR sponsored by SMEs<sup>2</sup> (90% funding)</td>
 <td>$19.36</td>
 </tr>
 
 </table>
 </center>
 
-<small><i><sup>1</sup>Fee is under the <a href="/services/consultancy/etss">Enhanced Training Support for SMEs (ETSS)</a><br>
-    Fees include prevailing GST</i></small>
+<small><i> Fees include prevailing GST
+<br> Funding Eligiblity Period: 1 Oct 2021 to 30 Sep 2024<br>
+<small><i><sup>1</sup>Fee is under the <a href="/services/consultancy/skillsfuture-midcareer-enhanced-subsidy">Mid-career Enhanced Subsidy</a>
+<br><sup>2</sup>Fee is under the <a href="/services/consultancy/etss">Enhanced Training Support for SMEs (ETSS)</a><br>
+</i></small>
 
 <h4>Additional Support</h4>
 
