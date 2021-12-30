@@ -13,13 +13,20 @@ third_nav_title: SkillsFuture Series
       <th style="text-align:center;width:50%;">Online Training</th>
     </tr>
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;"> 6 Dec 2021 (Mon)<br>12 Jan 2022 (Wed)<br> 16 Feb 2022 (Wed)</td>
+      <td style="text-align:center;width:50%;">12 Jan 2022 (Wed)<br> 16 Feb 2022 (Wed)</td>
     </tr>
 </table></center>
 
 <p>This programme will help participants to understand the importance of online professional profile. They will learn through hands-on session to develop an effective personal online branding strategy through various social media.</p>
 
+<h4>Course Title | Mode of Training | Course Ref</h4>
+
+<p>Personal Online Branding
+<br>Classroom - TGS-2017505389
+<br>Synchronous E-learning - TGS-2020502026</p>
+
 <h4>Outline</h4>
+
 - Understand the importance of personal online branding
 - Develop an effective Personal Online Branding Strategy
 - Create an effective Linkedin Profile – The 4 Essentials
@@ -50,14 +57,17 @@ third_nav_title: SkillsFuture Series
 </tr>
 
 <tr>
-  <td>Singapore Citizen 40 years & above (90% funding)</td>
+  <td>Singapore Citizen 40 years and above<sup>1</sup> (90% funding)</td>
 <td>$25.41</td>
-</tr>
+	</tr>
 
 </table>
 </center>
 
-<small><i>Fees include prevailing GST</i></small>
+<small><i> Fees include prevailing GST
+<br> Funding Eligiblity Period: 1 Oct 2021 to 30 Sep 2024<br>
+<small><i><sup>1</sup>Fee is under the <a href="/services/consultancy/skillsfuture-midcareer-enhanced-subsidy">Mid-career Enhanced Subsidy</a>
+</i></small>
 
 <h4>Additional Support</h4>
 
