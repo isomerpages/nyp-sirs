@@ -24,6 +24,11 @@ third_nav_title: Masterclasses & Workshops
 
 <p>This is an introductory program that is suitable for acquiring an overview of existing industry practices in digital marketing and SEO, looking to understand the change in consumer behaviour to adapt their business marketing plans, and seeking clear direction to drive breakthrough marketing campaigns.</p>
 
+<h4>Course Title | Mode of Training | Course Ref</h4>
+
+<p>Digital Strategy & the 101 of Search Engine Optimisation (SEO) 
+<br>Synchronous E-learning -TGS-2020501149</p>
+
 <h4>Outline</h4>
 <ul>
 <li>Introduction to today’s digital space</li>
@@ -77,20 +82,23 @@ third_nav_title: Masterclasses & Workshops
 </tr>
 
 <tr>
-<td>Singapore Citizen 40 years & above (90% funding)</td>
+<td>Singapore Citizen 40 years & above<sup>1</sup> (90% funding)</td>
 <td>$90.75</td>
 </tr>
 
 <tr>
-  <td>Singapore Citizen/SPR sponsored by SMEs<sup>1</sup> (90% funding)</td>
+  <td>Singapore Citizen/SPR sponsored by SMEs<sup>2</sup> (90% funding)</td>
 <td>$90.75</td>
 </tr>
 
 </table>
 </center>
 
-<small><i><sup>1</sup>Fee is under the <a href="/services/consultancy/etss">Enhanced Training Support for SMEs (ETSS)</a><br>
-    Fees include prevailing GST</i></small>
+<small><i> Fees include prevailing GST
+<br> Funding Eligiblity Period: 1 Oct 2021 to 30 Sep 2024<br>
+<small><i><sup>1</sup>Fee is under the <a href="/services/consultancy/skillsfuture-midcareer-enhanced-subsidy">Mid-career Enhanced Subsidy</a>
+<br><sup>2</sup>Fee is under the <a href="/services/consultancy/etss">Enhanced Training Support for SMEs (ETSS)</a><br>
+</i></small>
 
 <h4>Additional Support</h4>
 
