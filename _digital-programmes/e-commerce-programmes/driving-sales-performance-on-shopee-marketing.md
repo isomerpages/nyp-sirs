@@ -23,7 +23,10 @@ third_nav_title: E-Commerce Programmes
 
 <i>Not onboard with Shopee yet? Our 1-day workshop in <a href="/digital-programmes/e-commerce-programmes/getting-started-on-shopee">Getting Started on Shopee (Onboarding)</a> can help you get equipped to be a power seller on Shopee.</i>
 
+<h4>Course Title | Mode of Training | Course Ref</h4>
 
+<p>Driving Sales Performance on Shopee (Marketing)  
+<br>Synchronous E-learning - TGS-2020501789</p>
 
 <h4>Outline</h4>
 
