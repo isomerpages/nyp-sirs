@@ -13,11 +13,17 @@ third_nav_title: SkillsFuture Series
       <th style="text-align:center;width:50%;">Online Training</th>
     </tr>
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">1 Dec 2021 (Wed) <br>5 Jan 2022 (Wed)</td>
+      <td style="text-align:center;width:50%;">5 Jan 2022 (Wed)</td>
     </tr>
 </table></center>
 
 <p>This uncertain and rapidly changing environment brought about by digitalisation poses great challenges and yet offers new opportunities. Ability to learn, unlearn and relearn will position one to quickly identify & seize opportunities.</p>
+
+<h4>Course Title | Mode of Training | Course Ref</h4>
+
+<p>Thrive in Digital Disruption - Learn, Unlearn and Relearn
+<br>Classroom - TGS-2017505390
+<br>Synchronous E-learning - TGS-2020501902</p>
 
 <h4>Outline</h4>
 - Understand digital media
@@ -47,14 +53,17 @@ third_nav_title: SkillsFuture Series
 </tr>
 
 <tr>
-  <td>Singapore Citizen 40 years & above (90% funding)</td>
+  <td>Singapore Citizen 40 years and above<sup>1</sup> (90% funding)</td>
 <td>$25.41</td>
 </tr>
 
 </table>
 </center>
 
-<small><i>Fees include prevailing GST</i></small>
+<small><i> Fees include prevailing GST
+<br> Funding Eligiblity Period: 1 Oct 2021 to 30 Sep 2024<br>
+<small><i><sup>1</sup>Fee is under the <a href="/services/consultancy/skillsfuture-midcareer-enhanced-subsidy">Mid-career Enhanced Subsidy</a>
+</i></small>
 
 <h4>Additional Support</h4>
 
