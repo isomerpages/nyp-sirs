@@ -14,7 +14,7 @@ third_nav_title: E-Commerce Programmes
       <th style="text-align:center;width:50%;">Face-to-Face</th>
     </tr>
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">7 Dec 2021 (Tue) <br>7 Jan 2022 (Fri) </td>
+      <td style="text-align:center;width:50%;">7 Jan 2022 (Fri) <br> 4 Mar 2022 (Fri)</td>
       <td style="text-align:center;width:50%;">11 Feb 2022 (Fri)</td>
     </tr>
 </table></center>
@@ -22,6 +22,12 @@ third_nav_title: E-Commerce Programmes
 <p>Get equipped with the essential e-commerce skills and knowledge to onboard Shopee store today!</p>
 
 <i>If you have already onboarded Shopee, learn how you can begin <a href="/digital-programmes/e-commerce-programmes/driving-sales-performance-on-shopee">Driving Sales Performance on Shopee (Marketing)</a> to optimise your store presence with Shopee marketing strategies to bring your business to the next level.</i>
+
+<h4>Course Title | Mode of Training | Course Ref</h4>
+
+<p>Getting Started on Shopee (Onboarding) 
+<br>Classroom - TGS-2020505590
+<br>Synchronous E-learning - TGS-2020501775</p>
 
 <h4>Outline</h4>
 
@@ -76,20 +82,23 @@ third_nav_title: E-Commerce Programmes
 </tr>
 
 <tr>
-<td>Singapore Citizen 40 years & above (90% funding)</td>
+<td>Singapore Citizen 40 years & above<sup>1</sup>  (90% funding)</td>
 <td>$19.36</td>
 </tr>
 
 <tr>
-  <td>Singapore Citizen/SPR sponsored by SMEs<sup>1</sup> (90% funding)</td>
+  <td>Singapore Citizen/SPR sponsored by SMEs<sup>2</sup> (90% funding)</td>
 <td>$19.36</td>
 </tr>
 
 </table>
 </center>
 
-<small><i><sup>1</sup>Fee is under the <a href="/services/consultancy/etss">Enhanced Training Support for SMEs (ETSS)</a><br>
-    Fees include prevailing GST</i></small>
+<small><i> Fees include prevailing GST
+<br> Funding Eligiblity Period: 1 Oct 2021 to 30 Sep 2024<br>
+<small><i><sup>1</sup>Fee is under the <a href="/services/consultancy/skillsfuture-midcareer-enhanced-subsidy">Mid-career Enhanced Subsidy</a>
+<br><sup>2</sup>Fee is under the <a href="/services/consultancy/etss">Enhanced Training Support for SMEs (ETSS)</a><br>
+</i></small>
 
 <h4>Additional Support</h4>
 
