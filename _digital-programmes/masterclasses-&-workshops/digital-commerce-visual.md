@@ -21,6 +21,10 @@ third_nav_title: Masterclasses & Workshops
 
 <p>Human are visual beings. Visual content enables customers to absorb and remember your brand better. It is more effective than any other form of communication. Marketers who use visual marketing tend to reap higher returns in terms of fans, followers, readers, leads, clients and, of course, revenue. Through this Masterclass, participants will develop a good understanding of visual marketing for Omni-commerce; applicable to both entrepreneurial and marketing operation with practical hands-on applications and case studies.</p>
 
+<h4>Course Title | Mode of Training | Course Ref</h4>
+<p>Digital Commerce Visual 
+<br>Synchronous E-learning -TGS-2020501538</p>
+
 <h4>Outline</h4>
 <ul>
 <li>Understand how to create one click visual marketing to drive Omni-commerce</li>
@@ -59,20 +63,23 @@ third_nav_title: Masterclasses & Workshops
 </tr>
 
 <tr>
-<td>Singapore Citizen 40 years & above (90% funding)</td>
+<td>Singapore Citizen 40 years & above<sup>1</sup> (90% funding)</td>
 <td>$145.20</td>
 </tr>
 
 <tr>
-  <td>Singapore Citizen/SPR sponsored by SMEs<sup>1</sup> (90% funding)</td>
+  <td>Singapore Citizen/SPR sponsored by SMEs<sup>2</sup> (90% funding)</td>
 <td>$145.20</td>
 </tr>
 
 </table>
 </center>
     
-<small><i><sup>1</sup>Fee is under the <a href="/services/consultancy/etss">Enhanced Training Support for SMEs (ETSS)</a><br>
-    Fees include prevailing GST</i></small>
+<small><i> Fees include prevailing GST
+<br> Funding Eligiblity Period: 1 Oct 2021 to 30 Sep 2024<br>
+<small><i><sup>1</sup>Fee is under the <a href="/services/consultancy/skillsfuture-midcareer-enhanced-subsidy">Mid-career Enhanced Subsidy</a>
+<br><sup>2</sup>Fee is under the <a href="/services/consultancy/etss">Enhanced Training Support for SMEs (ETSS)</a><br>
+</i></small>
     
 <h4>Additional Support</h4>
 
