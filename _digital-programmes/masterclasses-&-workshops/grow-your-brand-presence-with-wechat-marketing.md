@@ -31,6 +31,11 @@ third_nav_title: Masterclasses & Workshops
 
 <p>立即参与我们为期一天的高级讲习班，深入认识微信营销方式。您将从中了解微信公众号的功能、最新趋势及政策，学习如何提高微信营销效率以吸引新客户、增加销售。今天就与我们提升您的微信营销知识和技能，将您定位在这个利润丰厚的市场，提高您的销售业绩及品牌影响力！</p>
 
+<h4>Course Title | Mode of Training | Course Ref</h4>
+
+<p>Generate New Customers and Increase Revenue through WeChat Marketing (微信营销)
+<br>Synchronous E-learning -TGS-2020502651</p>
+
 <h4>Outline</h4>
 <ul>
 <li>Understand the WeChat and Tencent ecosystem</li>
@@ -74,20 +79,23 @@ third_nav_title: Masterclasses & Workshops
 </tr>
 
 <tr>
-<td>Singapore Citizen 40 years & above (90% funding)</td>
+<td>Singapore Citizen 40 years & above<sup>1</sup>(90% funding)</td>
 <td>$90.75</td>
 </tr>
 
 <tr>
-  <td>Singapore Citizen/SPR sponsored by SMEs<sup>1</sup> (90% funding)</td>
+  <td>Singapore Citizen/SPR sponsored by SMEs<sup>2</sup> (90% funding)</td>
 <td>$90.75</td>
 </tr>
 
 </table>
 </center>
 
-<small><i><sup>1</sup>Fee is under the <a href="/services/consultancy/etss">Enhanced Training Support for SMEs (ETSS)</a><br>
-    Fees include prevailing GST</i></small>
+<small><i> Fees include prevailing GST
+<br> Funding Eligiblity Period: 1 Oct 2021 to 30 Sep 2024<br>
+<small><i><sup>1</sup>Fee is under the <a href="/services/consultancy/skillsfuture-midcareer-enhanced-subsidy">Mid-career Enhanced Subsidy</a>
+<br><sup>2</sup>Fee is under the <a href="/services/consultancy/etss">Enhanced Training Support for SMEs (ETSS)</a><br>
+</i></small>
 
 <h4>Additional Support</h4>
 
