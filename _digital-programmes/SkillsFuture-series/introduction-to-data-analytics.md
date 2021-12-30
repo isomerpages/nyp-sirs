@@ -13,13 +13,20 @@ third_nav_title: SkillsFuture Series
       <th style="text-align:center;width:50%;">Online Training</th>
     </tr>
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">14 Jan 2022 (Fri)</td>
+      <td style="text-align:center;width:50%;">14 Jan 2022 (Fri)<br>24 Mar 2022 (Thu) </td>
     </tr>
 </table></center>
 
 <p>With the increasing traffic in social media space, successful engagement through digital content marketing is a great booster for business.</p>
 
 <p>This programme will allow participants to understand the applications of data analytics and how they can apply similar approach to derive insights from data. The programme will equip participants with the right level of appreciation in the areas of retail analytics.</p>
+
+<h4>Course Title | Mode of Training | Course Ref</h4>
+
+<p>Introduction to Data Analytics
+<br>Classroom - TGS-2017505385
+<br>Synchronous E-learning - TGS-2021006447</p>
+
 
 <h4>Outline</h4>
 - Understand types of data
@@ -49,14 +56,17 @@ third_nav_title: SkillsFuture Series
 </tr>
 
 <tr>
-  <td>Singapore Citizen 40 years & above (90% funding)</td>
+  <td>Singapore Citizen 40 years and above<sup>1</sup> (90% funding)</td>
 <td>$31.46</td>
 </tr>
 
 </table>
 </center>
 
-<small><i>Fees include prevailing GST</i></small>
+<small><i> Fees include prevailing GST
+<br> Funding Eligiblity Period: 1 Oct 2021 to 30 Sep 2024<br>
+<small><i><sup>1</sup>Fee is under the <a href="/services/consultancy/skillsfuture-midcareer-enhanced-subsidy">Mid-career Enhanced Subsidy</a>
+</i></small>
 
 <h4>Additional Support</h4>
 
