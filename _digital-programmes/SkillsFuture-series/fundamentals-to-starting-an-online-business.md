@@ -13,11 +13,17 @@ third_nav_title: SkillsFuture Series
       <th style="text-align:center;width:50%;">Online Training</th>
     </tr>
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;"> 3 Dec 2021 (Fri)<br>5 Jan 2021 (Wed)</td>
+      <td style="text-align:center;width:50%;">5 Jan 2022 (Wed)<br>4 Mar 2022 (Fri)</td>
     </tr>
 </table></center>
 
 <p>This hands-on, practical session will guide participants in understanding and navigating the complexities of a digital business. Participants will learn the types of platforms available and understand the benefits, factors & resources required in an online business.</p>
+
+<h4>Course Title | Mode of Training | Course Ref</h4>
+
+<p>Fundamentals to Starting an Online Business
+<br>Classroom - TGS-2017505386
+<br>Synchronous E-learning - TGS-2020501900</p>
 
 <h4>Outline</h4>
 - Why people shop online 
@@ -51,14 +57,17 @@ third_nav_title: SkillsFuture Series
 </tr>
 
 <tr>
-  <td>Singapore Citizen 40 years & above (90% funding)</td>
+  <td>Singapore Citizen 40 years and above<sup>1</sup> (90% funding)</td>
 <td>$25.41</td>
 </tr>
 
 </table>
 </center>
 
-<small><i>Fees include prevailing GST</i></small>
+<small><i> Fees include prevailing GST
+<br> Funding Eligiblity Period: 1 Oct 2021 to 30 Sep 2024<br>
+<small><i><sup>1</sup>Fee is under the <a href="/services/consultancy/skillsfuture-midcareer-enhanced-subsidy">Mid-career Enhanced Subsidy</a>
+</i></small>
 
 <h4>Additional Support</h4>
 
