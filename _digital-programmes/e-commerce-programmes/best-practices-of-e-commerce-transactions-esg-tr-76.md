@@ -14,7 +14,7 @@ third_nav_title: E-Commerce Programmes
       <th style="text-align:center;width:50%;">Face-to-Face</th>
     </tr>
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">25 Nov 2021</td>
+      <td style="text-align:center;width:50%;">To be confirmed</td>
       <td style="text-align:center;width:50%;">To be confirmed</td>
     </tr>
 </table></center>
@@ -25,6 +25,11 @@ Singapore Standards Council. TR 76 serves as a practical reference for e-retaile
 <p>SIRS, in collaboration with ESG, presents this one-day workshop which covers the entire e-commerce transaction
 process including browsing, purchasing, payment, delivery, product tracking, returns, and customer support practices.
 Learn to map your e-commerce process with TR 76 to gain customers’ confidence to engage and transact online with you today!</p>
+
+<h4>Course Title | Mode of Training | Course Ref</h4>
+
+<p>Best Practices of E-commerce Transactions ESG TR76
+<br>Classroom - TGS-2020505093</p>
 
 <h4>Outline</h4>
 <ul>
@@ -56,20 +61,23 @@ Learn to map your e-commerce process with TR 76 to gain customers’ confidence 
 <td>$51.36</td>
 </tr>
 <tr>
-  <td>Singapore Citizen 40 years & above (90% funding)</td>
+  <td>Singapore Citizen 40 years and above<sup>1</sup> (90% funding)</td>
 <td>$19.36</td>
 </tr>
 
 <tr>
-  <td>Singapore Citizen/SPR sponsored by SMEs<sup>1</sup> (90% funding)</td>
+  <td>Singapore Citizen/SPR sponsored by SMEs<sup>2</sup> (90% funding)</td>
 <td>$19.36</td>
 </tr>
 
 </table>
 </center>
 
-<small><i><sup>1</sup>Fee is under the <a href="/services/consultancy/etss">Enhanced Training Support for SMEs (ETSS)</a><br>
-    Fees include prevailing GST</i></small>
+<small><i> Fees include prevailing GST
+<br> Funding Eligiblity Period: 1 Oct 2021 to 30 Sep 2024<br>
+<small><i><sup>1</sup>Fee is under the <a href="/services/consultancy/skillsfuture-midcareer-enhanced-subsidy">Mid-career Enhanced Subsidy</a>
+<br><sup>2</sup>Fee is under the <a href="/services/consultancy/etss">Enhanced Training Support for SMEs (ETSS)</a><br>
+</i></small>
 
 <h4>Additional Support</h4>
 
