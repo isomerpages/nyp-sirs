@@ -27,6 +27,11 @@ third_nav_title: E-Commerce Programmes
 
 <p>Join us, and kickstart your digital business today!</p>
 
+<h4>Course Title | Mode of Training | Course Ref</h4>
+
+<p>Set Up An Online Business 
+<br>Synchronous E-learning - TGS-2020502642</p>
+
 <h4>Outline</h4>
 
 
