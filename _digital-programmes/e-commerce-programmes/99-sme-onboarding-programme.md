@@ -1,12 +1,9 @@
 ---
-title: '99%SME Onboarding Programme'
+title: 99%SME Onboarding Programme
 permalink: /digital-programmes/e-commerce-programmes/singtel-99-sme
-breadcrumb: '99%SME Onboarding Programme'
-third_nav_title: 'E-Commerce Programmes'
-
+breadcrumb: 99%SME Onboarding Programme
+third_nav_title: E-Commerce Programmes
 ---
-
-
 <img src="/images/images-2021/DigitalProgrammes-E-Commerce-99SME.png" style="width:100%;">
 
 <h4 style="text-align:center;">Next intake:</h4>
@@ -23,6 +20,11 @@ third_nav_title: 'E-Commerce Programmes'
 </table></center>
 
 <p>Embark on your digital commerce journey by tapping on FREE tools and resources. Develop an online revenue stream while encouraging footfall to your physical store!</p>
+
+<h4>Course Title | Mode of Training | Course Ref</h4>
+
+<p>Singtel 99% SME Onboarding
+<br>Synchronous E-learning - TGS-2020502333</p>
 
 <h4>Outline</h4>
 <b>1. Get Started with Online Sales</b>
@@ -69,20 +71,23 @@ third_nav_title: 'E-Commerce Programmes'
 </tr>
 
 <tr>
-<td>Singapore Citizen 40 years & above (90% funding)</td>
+<td>Singapore Citizen 40 years and above<sup>1</sup> (90% funding)</td>
 <td>$19.36</td>
 </tr>
 
 <tr>
-  <td>Singapore Citizen/SPR sponsored by SMEs<sup>1</sup> (90% funding)</td>
+  <td>Singapore Citizen/SPR sponsored by SMEs<sup>2</sup> (90% funding)</td>
 <td>$19.36</td>
 </tr>
 
 </table>
 </center>
 
-<small><i><sup>1</sup>Fee is under <a href="/services/consultancy/etss">Enhanced Training Support for SMEs (ETSS)</a><br>
-  Fees include prevailing GST</i></small>
+<small><i> Fees include prevailing GST
+<br> Funding Eligiblity Period: 1 Oct 2021 to 30 Sep 2024<br>
+<small><i><sup>1</sup>Fee is under the <a href="/services/consultancy/skillsfuture-midcareer-enhanced-subsidy">Mid-career Enhanced Subsidy</a>
+<br><sup>2</sup>Fee is under the <a href="/services/consultancy/etss">Enhanced Training Support for SMEs (ETSS)</a><br>
+</i></small>
 
 <h4>Additional Support</h4>
 
