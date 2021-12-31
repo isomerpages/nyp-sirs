@@ -14,7 +14,7 @@ third_nav_title: Masterclasses & Workshops
       <th style="text-align:center;width:50%;">Face-to-Face</th>
     </tr>
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">17 Nov 2021</td>
+      <td style="text-align:center;width:50%;">To be confirmed</td>
       <td style="text-align:center;width:50%;">To be confirmed</td>
     </tr>
 </table></center>
@@ -24,6 +24,11 @@ third_nav_title: Masterclasses & Workshops
 <p>This masterclass is designed to equip individuals with the skills and industry insights to make savvier business decisions when embarking on digital campaigns. </p>
 
 <p>With a good understanding of online marketing demands, it will enable participants to determine the right digital mediums. Participants will also learn to develop content that can influence online customers purchase decisions, apply effective measurements of digital campaigns and formulate actionable review plans.</p>
+
+<h4>Course Title | Mode of Training | Course Ref</h4>
+
+<p>Increase Business Revenue Through Search Engine Optimisation
+<br>Synchronous E-learning -TGS-2020501398</p>
 
 <h4>Outline</h4>
 <ul>
@@ -80,20 +85,23 @@ third_nav_title: Masterclasses & Workshops
 </tr>
 
 <tr>
-<td>Singapore Citizen 40 years & above (90% funding)</td>
+<td>Singapore Citizen 40 years & above<sup>1</sup> (90% funding)</td>
 <td>$90.75</td>
 </tr>
 
 <tr>
-  <td>Singapore Citizen/SPR sponsored by SMEs<sup>1</sup> (90% funding)</td>
+  <td>Singapore Citizen/SPR sponsored by SMEs<sup>2</sup> (90% funding)</td>
 <td>$90.75</td>
 </tr>
 
 </table>
 </center>
 
-<small><i><sup>1</sup>Fee is under the <a href="/services/consultancy/etss">Enhanced Training Support for SMEs (ETSS)</a><br>
-    Fees include prevailing GST</i></small>
+<small><i> Fees include prevailing GST
+<br> Funding Eligiblity Period: 1 Oct 2021 to 30 Sep 2024<br>
+<small><i><sup>1</sup>Fee is under the <a href="/services/consultancy/skillsfuture-midcareer-enhanced-subsidy">Mid-career Enhanced Subsidy</a>
+<br><sup>2</sup>Fee is under the <a href="/services/consultancy/etss">Enhanced Training Support for SMEs (ETSS)</a><br>
+</i></small>
 
 <h4>Additional Support</h4>
 

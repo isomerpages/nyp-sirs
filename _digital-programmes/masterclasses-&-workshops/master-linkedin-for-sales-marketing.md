@@ -32,6 +32,11 @@ attracting quality leads, and driving B2B sales.</p>
 <small>Sources:<br>
 	<sup>1</sup><a href="https://news.linkedin.com/2021/january/linkedin-business-highlights-from-microsoft-s-fy21-q2-earnings">https://news.linkedin.com/2021/january/linkedin-business-highlights-from-microsoft-s-fy21-q2-earnings</a><br>
 	<sup>2</sup><a href="https://www.statista.com/statistics/1123883/linkedin-users-singapore/">https://www.statista.com/statistics/1123883/linkedin-users-singapore/</a></small>
+	
+<h4>Course Title | Mode of Training | Course Ref</h4>
+
+<p>Master LinkedIn For Sales and Marketing
+<br>Synchronous E-learning -TGS-2021004120</p>
 
 <h4>Outline</h4>
 
@@ -96,20 +101,23 @@ HubSpot Content Marketing Certification.
 </tr>
 
 <tr>
-<td>Singapore Citizen 40 years & above</td>
+<td>Singapore Citizen 40 years and above<sup>1</sup> (90% funding) </td>
 <td>$90.75</td>
 </tr>
 
 <tr>
-<td>Singapore Citizen/SPR sponsored by SMEs<sup>1</sup></td>
+<td>Singapore Citizen/SPR sponsored by SMEs<sup>2</sup> (90% funding)</td>
 <td>$90.75</td>
 </tr>
 
 </table>
 </center>
 
-<small><i><sup>1</sup>Fee is under the <a href="/services/consultancy/etss">Enhanced Training Support for SMEs (ETSS)</a><br>
-    Fees include prevailing GST</i></small>
+<small><i> Fees include prevailing GST
+<br> Funding Eligiblity Period: 1 Oct 2021 to 30 Sep 2024<br>
+<small><i><sup>1</sup>Fee is under the <a href="/services/consultancy/skillsfuture-midcareer-enhanced-subsidy">Mid-career Enhanced Subsidy</a>
+<br><sup>2</sup>Fee is under the <a href="/services/consultancy/etss">Enhanced Training Support for SMEs (ETSS)</a><br>
+</i></small>
 
 <h4>Additional Support</h4>
 
@@ -124,7 +132,7 @@ HubSpot Content Marketing Certification.
 <b>For company-sponsored participants:</b>
 <ul>
   <li><a href="/services/consultancy/absentee-payroll-ap">Absentee Payroll</a></li>
-  <li><a href="/services/consultancy/wss-companies">Workfare Skills Support (WSS) Scheme (For Companies)</a></li>
+  <li><a href="/services/consultancy/wss-companies">Workfare Skills Support (WSS) Scheme (For Companies)	<li><a href="/services/consultancy/skillsfuture-enterprise-credit">SkillsFuture Enterprise Credit</a></li></a></li>
   </ul>
 
 <p>For SkillsFuture course reference, please click <a href="/files/documents-2021/SIRS-SkillsFuture-CourseRefNumber.pdf">here.</a></p>

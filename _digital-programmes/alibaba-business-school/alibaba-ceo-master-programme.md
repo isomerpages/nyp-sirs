@@ -1,12 +1,9 @@
 ---
-title: 'Alibaba CEO Master Programme'
+title: Alibaba CEO Master Programme
 permalink: /digital-programmes/alibaba-business-school/alibaba-ceo-master-programme
-breadcrumb: 'Alibaba CEO Master Programme'
-third_nav_title: 'Alibaba Business School'
-
+breadcrumb: Alibaba CEO Master Programme
+third_nav_title: Alibaba Business School
 ---
-
-
 <img src="images/agcs-abs-sirs-atu-combined-logos.png" style="width:100%:">
 
 <img src="images/alibaba-business-school/alibaba-ceo-master-programme.JPG" style="width:100%;">
@@ -187,20 +184,23 @@ CEO Master Programme<br>
 </tr>
 
 <tr>
-<td>Singapore Citizen 40 years & above (90% funding)</td>
+<td>Singapore Citizen 40 years & above<sup>1</sup> (90% funding)</td>
 <td>$1,170</td>
 </tr>
 
 <tr>
-<td>Singapore Citizen/SPR sponsored by SMEs<sup>1</sup> (90% funding)</td>
+<td>Singapore Citizen/SPR sponsored by SMEs<sup>2</sup> (90% funding)</td>
 <td>$1,170</td>
 </tr>
 
 </table>
 </center>
 
-<small><i><sup>1</sup>Fee is under the <a href="/services/consultancy/etss">Enhanced Training Support for SMEs (ETSS)</a><br>
-    Fees include prevailing GST</i></small>
+<small><i> Fees include prevailing GST
+<br> Funding Eligiblity Period: 1 Oct 2021 to 30 Sep 2024<br>
+<small><i><sup>1</sup>Fee is under the <a href="/services/consultancy/skillsfuture-midcareer-enhanced-subsidy">Mid-career Enhanced Subsidy</a>
+<br><sup>2</sup>Fee is under the <a href="/services/consultancy/etss">Enhanced Training Support for SMEs (ETSS)</a><br>
+</i></small>
 
 <h4>Additional Support</h4>
 

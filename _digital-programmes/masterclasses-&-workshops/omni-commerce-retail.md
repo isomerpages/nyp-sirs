@@ -14,7 +14,7 @@ third_nav_title: Masterclasses & Workshops
       <th style="text-align:center;width:50%;">Face-to-Face</th>
     </tr>
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">17, 18 & 21 Jan 2022 <br>(Mon-Tue, Fri)</td>
+      <td style="text-align:center;width:50%;">17, 18 & 21 Jan 2022 <br>(Mon-Tue, Fri)<br> 8-10 Mar 2022 (Tue-Thu)</td>
       <td style="text-align:center;width:50%;">To be confirmed</td>
     </tr>
 </table></center>
@@ -27,6 +27,11 @@ business elements across all the platforms.</p>
 
 <p>Applying real-time analytic tools, building a highly integrated supply chain, creating effective Omni-commerce
 marketing campaigns are some of the considerations in developing an effective Omni-commerce strategy.</p>
+
+<h4>Course Title | Mode of Training | Course Ref</h4>
+
+<p>Omni Commerce Retail
+<br>Synchronous E-learning -TGS-2020501547</p>
 
 <h4>Outline</h4>
 
@@ -65,7 +70,7 @@ Delivery, Technologists, and Innovation Managers.</p>
 </tr>
 
 <tr>
-<td>Singapore Citizen 40 years & above (90% funding)</td>
+<td>Singapore Citizen 40 years & above<sup>2</sup> (90% funding)</td>
 <td>$193.60</td>
 </tr>
 
@@ -77,8 +82,11 @@ Delivery, Technologists, and Innovation Managers.</p>
 </table>
 </center>
 
-<small><i><sup>1</sup>Fee is under the <a href="/services/consultancy/etss">Enhanced Training Support for SMEs (ETSS)</a><br>
-    Fees include prevailing GST</i></small>
+<small><i> Fees include prevailing GST
+<br> Funding Eligiblity Period: 1 Oct 2021 to 30 Sep 2024<br>
+<small><i><sup>1</sup>Fee is under the <a href="/services/consultancy/skillsfuture-midcareer-enhanced-subsidy">Mid-career Enhanced Subsidy</a>
+<br><sup>2</sup>Fee is under the <a href="/services/consultancy/etss">Enhanced Training Support for SMEs (ETSS)</a><br>
+</i></small>
 
 <h4>Additional Support</h4>
 
@@ -94,7 +102,7 @@ Delivery, Technologists, and Innovation Managers.</p>
 <b>For company-sponsored participants:</b>
 <ul>
   <li><a href="/services/consultancy/absentee-payroll-ap">Absentee Payroll</a></li>
-  <li><a href="/services/consultancy/wss-companies">Workfare Skills Support (WSS) Scheme (For Companies)</a></li>
+  <li><a href="/services/consultancy/wss-companies">Workfare Skills Support (WSS) Scheme (For Companies)	<li><a href="/services/consultancy/skillsfuture-enterprise-credit">SkillsFuture Enterprise Credit</a></li></a></li>
   </ul>
 
 <p>For SkillsFuture course reference, please click <a href="/files/documents-2021/SIRS-SkillsFuture-CourseRefNumber.pdf">here.</a></p>

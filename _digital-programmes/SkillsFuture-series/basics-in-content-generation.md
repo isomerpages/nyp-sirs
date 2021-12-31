@@ -19,6 +19,12 @@ third_nav_title: SkillsFuture Series
 
 <p>This programme will enable participants to become a more effective digital storyteller. Participants will learn storytelling techniques that will help them to create interest to heighten the engagement and connectivity with their customers on e-commerce platforms.</p>
 
+<h4>Course Title | Mode of Training | Course Ref</h4>
+
+<p>Basics in Content Generation
+<br>Classroom - TGS-2017505387
+<br>Synchronous E-learning - TGS-2020502025</p>
+
 <h4>Outline</h4>
 - Understand the importance of content and its role
 - Appreciate the importance of storytelling and in the digital age
@@ -47,14 +53,18 @@ third_nav_title: SkillsFuture Series
 <td>$83.46</td>
 </tr>
 <tr>
-  <td>Singapore Citizen 40 years & above (90% funding)</td>
+  <td>Singapore Citizen 40 years and above<sup>1</sup> (90% funding)</td>
 <td>$31.46</td>
 </tr>
 
 </table>
 </center>
 
-<small><i>Fees include prevailing GST</i></small>
+<small><i> Fees include prevailing GST
+<br> Funding Eligiblity Period: 1 Oct 2021 to 30 Sep 2024<br>
+<small><i><sup>1</sup>Fee is under the <a href="/services/consultancy/skillsfuture-midcareer-enhanced-subsidy">Mid-career Enhanced Subsidy</a>
+
+</i></small>
     
 <h4>Additional Support</h4>
 

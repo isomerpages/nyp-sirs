@@ -13,13 +13,20 @@ third_nav_title: SkillsFuture Series
       <th style="text-align:center;width:50%;">Online Training</th>
     </tr>
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">8  Dec 2021 (Wed)<br>6 Jan 2022 (Thu)</td>
+      <td style="text-align:center;width:50%;">6 Jan 2022 (Thu)<br>13 Jan 2022 (Thu)<br>15 Mar 2022 (Tue)</td>
     </tr>
 </table></center>
 
 <p>With increasing traffic in social media space, successful engagement through digital content marketing is a great booster for business. This programme provides participants the knowledge and applications to understand digital engagement that is superseding traditional marketing channels.</p>
 
+<h4>Course Title | Mode of Training | Course Ref</h4>
+
+<p>Introduction to Digital Marketing 
+<br>Classroom - TGS-2017505388
+<br>Synchronous E-learning - TGS-2020501899</p>
+
 <h4>Outline</h4>
+
 - Understand what is digital marketing
 - Understand the benefits and importance of digital marketing 
 - Know the types of digital marketing methods 
@@ -49,14 +56,17 @@ third_nav_title: SkillsFuture Series
 </tr>
 
 <tr>
-  <td>Singapore Citizen 40 years & above (90% funding)</td>
+  <td>Singapore Citizen 40 years and above<sup>1</sup> (90% funding)</td>
 <td>$25.41</td>
 </tr>
 
 </table>
 </center>
 
-<small><i>Fees include prevailing GST</i></small>
+<small><i> Fees include prevailing GST
+<br> Funding Eligiblity Period: 1 Oct 2021 to 30 Sep 2024<br><i><sup>1</sup>Fee is under the <a href="/services/consultancy/skillsfuture-midcareer-enhanced-subsidy">Mid-career Enhanced Subsidy</a>
+<small><i>
+</i></small>
 
 <h4>Additional Support</h4>
 

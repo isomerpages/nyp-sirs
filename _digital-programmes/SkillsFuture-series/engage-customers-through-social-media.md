@@ -19,6 +19,12 @@ third_nav_title: SkillsFuture Series
 
 <p>Companies have embraced social media as part of their marketing mix, but with various degrees of success. The programme will address various social media initiatives and techniques that participants can utilise to enhance engagement with their customers.</p>
 
+<h4>Course Title | Mode of Training | Course Ref</h4>
+
+<p>Engage Customers through Social Media
+<br>Classroom - TGS-2017505391
+<br>Synchronous E-learning - TGS-2020501901</p>
+
 <h4>Outline</h4>
 - Introduction to social media 
 - Understand the need to have social media connectedness 
@@ -49,14 +55,17 @@ third_nav_title: SkillsFuture Series
 </tr>
 
 <tr>
-  <td>Singapore Citizen 40 years & above (90% funding)</td>
+  <td>Singapore Citizen 40 years and above<sup>1</sup> (90% funding)</td>
 <td>$25.41</td>
 </tr>
 
 </table>
 </center>
 
-<small><i>Fees include prevailing GST</i></small>
+<small><i> Fees include prevailing GST
+<br> Funding Eligiblity Period: 1 Oct 2021 to 30 Sep 2024<br>
+<small><i><sup>1</sup>Fee is under the <a href="/services/consultancy/skillsfuture-midcareer-enhanced-subsidy">Mid-career Enhanced Subsidy</a>
+</i></small>
 
 <h4>Additional Support</h4>
 

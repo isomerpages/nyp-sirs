@@ -23,6 +23,12 @@ third_nav_title: E-Commerce Programmes
 
 <i>Not onboard with Qoo10 yet? Our 1-day workshop in <a href="/digital-programmes/e-commerce-programmes/getting-started-on-qoo10">Getting Started on Qoo10 (Onboarding)</a> can help you to learn the ropes of using Qoo10 Sales Manager to start your own e-store.</i>
 
+<h4>Course Title | Mode of Training | Course Ref</h4>
+
+<p>Driving Sales Performance on Qoo10 (Marketing)
+<br>Classroom: TGS-2021004947
+<br>Synchronous E-learning - TGS-2020501414</p>
+
 <h4>Outline</h4>
 <b>1. Understanding Qoo10</b>
 <ul>
@@ -66,20 +72,23 @@ third_nav_title: E-Commerce Programmes
 </tr>
 
 <tr>
-<td>Singapore Citizen 40 years & above (90% funding)</td>
+<td>Singapore Citizen 40 years & above<sup>1</sup> (90% funding)</td>
 <td>$19.36</td>
 </tr>
 
 <tr>
-  <td>Singapore Citizen/SPR sponsored by SMEs<sup>1</sup> (90% funding)</td>
+  <td>Singapore Citizen/SPR sponsored by SMEs<sup>2</sup> (90% funding)</td>
 <td>$19.36</td>
 </tr>
 
 </table>
 </center>
 
-<small><i><sup>1</sup>Fee is under the <a href="/services/consultancy/etss">Enhanced Training Support for SMEs (ETSS)</a><br>
-    Fees include prevailing GST</i></small>
+<small><i> Fees include prevailing GST
+<br> Funding Eligiblity Period: 1 Oct 2021 to 30 Sep 2024<br>
+<small><i><sup>1</sup>Fee is under the <a href="/services/consultancy/skillsfuture-midcareer-enhanced-subsidy">Mid-career Enhanced Subsidy</a>
+<br><sup>2</sup>Fee is under the <a href="/services/consultancy/etss">Enhanced Training Support for SMEs (ETSS)</a><br>
+</i></small>
 
 <h4>Additional Support</h4>
 

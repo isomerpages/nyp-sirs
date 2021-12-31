@@ -14,7 +14,7 @@ third_nav_title: E-Commerce Programmes
       <th style="text-align:center;width:50%;">Face-to-Face</th>
     </tr>
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">14 Jan 2022 (Fri)</td>
+      <td style="text-align:center;width:50%;">14 Jan 2022 (Fri)<br>10 Mar 2022 (Thu)</td>
       <td style="text-align:center;width:50%;">To be confirmed</td>
     </tr>
 </table></center>
@@ -22,6 +22,11 @@ third_nav_title: E-Commerce Programmes
 <p>Amazon is one of the largest global e-marketplaces, with more than 310 million monthly active users worldwide. The availability of Amazon in more than 150 countries allows for brands to easily grow their global presence, and get your products to customers all around the world.</p>
 
 <p>Join us on this one-day onboarding programme, where you will learn how you can start selling to your international clientele with ease.</p>
+
+<h4>Course Title | Mode of Training | Course Ref</h4>
+
+<p>Amazon Global Selling (Onboarding)
+<br>Synchronous E-learning - TGS-2020502336</p>
 
 <h4>Outline</h4>
 <b>1. Introduction to Amazon Global Selling</b>
@@ -68,20 +73,23 @@ third_nav_title: E-Commerce Programmes
 </tr>
 
 <tr>
-<td>Singapore Citizen 40 years & above (90% funding)</td>
+<td>Singapore Citizen 40 years & above<sup>1</sup> (90% funding)</td>
 <td>$19.36</td>
 </tr>
 
 <tr>
-<td>Singapore Citizen/SPR sponsored by SMEs<sup>1</sup> (90% funding)</td>
+<td>Singapore Citizen/SPR sponsored by SMEs<sup>2</sup> (90% funding)</td>
 <td>$19.36</td>
 </tr>
 
 </table>
 </center>
 
-<small><i><sup>1</sup>Fee is under the <a href="/services/consultancy/etss">Enhanced Training Support for SMEs (ETSS)</a><br>
-    Fees include prevailing GST</i></small>
+<small><i> Fees include prevailing GST
+<br> Funding Eligiblity Period: 1 Oct 2021 to 30 Sep 2024<br>
+<small><i><sup>1</sup>Fee is under the <a href="/services/consultancy/skillsfuture-midcareer-enhanced-subsidy">Mid-career Enhanced Subsidy</a>
+<br><sup>2</sup>Fee is under the <a href="/services/consultancy/etss">Enhanced Training Support for SMEs (ETSS)</a><br>
+</i></small>
 
 <h4>Additional Support</h4>
 
