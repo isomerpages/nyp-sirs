@@ -1,11 +1,9 @@
 ---
-title: 'Differentiate and Drive Growth with Experience Innovation'
+title: Differentiate and Drive Growth with Experience Innovation
 permalink: /digital-programmes/masterclasses-and-workshops/differentiate-and-drive-growth-with-experience-innovation
-breadcrumb: 'Differentiate and Drive Growth with Experience Innovation'
-third_nav_title: 'Masterclasses & Workshops'
-
+breadcrumb: Differentiate and Drive Growth with Experience Innovation
+third_nav_title: Masterclasses & Workshops
 ---
-
 <img src="/images/images-2021/DigitalProgrammes-HImage-Workshop.png" style="width:100%;">
 
 <h4 style="text-align:center;">Next intake:</h4>
@@ -31,6 +29,11 @@ through a continuous effort in ideation and innovation of providing the ideal ex
 <p>Like their customers, retail businesses can also leverage on digital technology to gain access to information
 easily. Such data provides insights into their customer journey, to help them analyse gaps and identify
 opportunities to create an excellent customer experience.</p>
+
+<h4>Course Title | Mode of Training | Course Ref</h4>
+
+<p>Differentiate and Drive Growth with Experience Innovation
+<br>Classroom - TGS-2018500968</p>
 
 <h4>Outline</h4>
 <ul>
@@ -69,20 +72,23 @@ to develop a new skillset or deepen their knowledge in understanding of customer
 </tr>
 
 <tr>
-<td>Singapore Citizen 40 years & above (90% funding)</td>
+<td>Singapore Citizen 40 years & above<sup>1</sup> (90% funding)</td>
 <td>$90.75</td>
 </tr>
 
 <tr>
-<td>Singapore Citizen/SPR sponsored by SMEs<sup>1</sup> (90% funding)</td>
+<td>Singapore Citizen/SPR sponsored by SMEs<sup>2</sup> (90% funding)</td>
 <td>$90.75</td>
 </tr>
 
 </table>
 </center>
 
-<small><i><sup>1</sup>Fee is under the <a href="/services/consultancy/etss">Enhanced Training Support for SMEs (ETSS)</a><br>
-    Fees include prevailing GST</i></small>
+<small><i> Fees include prevailing GST
+<br> Funding Eligiblity Period: 1 Oct 2021 to 30 Sep 2024<br>
+<small><i><sup>1</sup>Fee is under the <a href="/services/consultancy/skillsfuture-midcareer-enhanced-subsidy">Mid-career Enhanced Subsidy</a>
+<br><sup>2</sup>Fee is under the <a href="/services/consultancy/etss">Enhanced Training Support for SMEs (ETSS)</a><br>
+</i></small>
 
 <h4>Additional Support</h4>
 

@@ -1,12 +1,9 @@
 ---
-title: 'Category Management - The Key to Business Growth'
+title: Category Management - The Key to Business Growth
 permalink: /digital-programmes/masterclasses-and-workshops/category-management
-breadcrumb: 'Category Management - The Key to Business Growth'
-third_nav_title: 'Masterclasses & Workshops'
-
+breadcrumb: Category Management - The Key to Business Growth
+third_nav_title: Masterclasses & Workshops
 ---
-
-
 <img src="/images/images-2021/DigitalProgrammes-Image-Masterclass.png" style="width:100%;">
 
 <h4 style="text-align:center;">Next intake:</h4>
@@ -34,6 +31,12 @@ build a sustainable business planning framework. Acquire practical techniques to
 purchase decision process, learn to leverage data and assess performance, plan assortment, manage store
 layouts and displays, identify growth opportunities, develop effective strategies and tactics to maximise
 category sales and profitability.</p>
+
+<h4>Course Title | Mode of Training | Course Ref</h4>
+
+<p>Category Management: The Key to Business Growth
+<br>Classroom - TGS-2018502662
+<br>Synchronous E-learning - TGS-2020001660</p>
 
 <h4>Outline</h4>
 <ul>
@@ -89,20 +92,23 @@ Brand Managers, Trade Marketing Managers, Key Account Managers, and Sales Manage
 </tr>
 
 <tr>
-<td>Singapore Citizen 40 years & above (90% funding)</td>
+<td>Singapore Citizen 40 years & above (90% funding)<sup>1</sup></td>
 <td>$145.20</td>
 </tr>
 
 <tr>
-<td>Singapore Citizen/SPR sponsored by SMEs<sup>1</sup> (90% funding)</td>
+<td>Singapore Citizen/SPR sponsored by SMEs<sup>2</sup> (90% funding)</td>
 <td>$145.20</td>
 </tr>
 
 </table>
 </center>
 
-<small><i><sup>1</sup>Fee is under the <a href="/services/consultancy/etss">Enhanced Training Support for SMEs (ETSS)</a><br>
-    Fees include prevailing GST</i></small>
+<small><i> Fees include prevailing GST
+<br> Funding Eligiblity Period: 1 Oct 2021 to 30 Sep 2024<br>
+<small><i><sup>1</sup>Fee is under the <a href="/services/consultancy/skillsfuture-midcareer-enhanced-subsidy">Mid-career Enhanced Subsidy</a>
+<br><sup>2</sup>Fee is under the <a href="/services/consultancy/etss">Enhanced Training Support for SMEs (ETSS)</a><br>
+</i></small>
 
 <h4>Additional Support</h4>
 

@@ -1,11 +1,9 @@
 ---
-title: 'Digital Commerce Operations'
+title: Digital Commerce Operations
 permalink: /digital-programmes/masterclasses-and-workshops/digital-commerce-operations
-breadcrumb: 'Digital Commerce Operations'
-third_nav_title: 'Masterclasses & Workshops'
-
+breadcrumb: Digital Commerce Operations
+third_nav_title: Masterclasses & Workshops
 ---
-
 <img src="/images/images-2021/DigitalProgrammes-Image-Masterclass.png" style="width:100%;">
 
 <h4 style="text-align:center;">Next intake:</h4>
@@ -30,6 +28,11 @@ operates.</p>
 <p>To make optimal business and operational plan, business owners and e-commerce teams will require a
 360 view of the e-commerce landscape and learn holistic operational functions critical to a successful
 online business.ands-on exercise of creating a 5-stage results-focused digital business plan for e-Marketplace ecosystem.</p>
+
+<h4>Course Title | Mode of Training | Course Ref</h4>
+
+<p>Digital Commerce Operations
+<br>Classroom - TGS-2020501535</p>
 
 <h4>Outline</h4>
 
@@ -78,20 +81,23 @@ online business.ands-on exercise of creating a 5-stage results-focused digital b
 </tr>
 
 <tr>
-<td>Singapore Citizen 40 years & above (90% funding)</td>
+<td>Singapore Citizen 40 years & aboves<sup>1</sup> (90% funding)</td>
 <td>$193.60</td>
 </tr>
 
 <tr>
-  <td>Singapore Citizen/SPR sponsored by SMEs<sup>1</sup> (90% funding)</td>
+  <td>Singapore Citizen/SPR sponsored by SMEs<sup>2</sup> (90% funding)</td>
 <td>$193.60</td>
 </tr>
 
 </table>
 </center>
 
-<small><i><sup>1</sup>Fee is under the <a href="/services/consultancy/etss">Enhanced Training Support for SMEs (ETSS)</a><br>
-    Fees include prevailing GST</i></small>
+<small><i> Fees include prevailing GST
+<br> Funding Eligiblity Period: 1 Oct 2021 to 30 Sep 2024<br>
+<small><i><sup>1</sup>Fee is under the <a href="/services/consultancy/skillsfuture-midcareer-enhanced-subsidy">Mid-career Enhanced Subsidy</a>
+<br><sup>2</sup>Fee is under the <a href="/services/consultancy/etss">Enhanced Training Support for SMEs (ETSS)</a><br>
+</i></small>
 
 <h4>Additional Support</h4>
 

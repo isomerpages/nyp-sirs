@@ -1,11 +1,9 @@
 ---
-title: 'Improve Customer Engagement with Digital Mindset'
+title: Improve Customer Engagement with Digital Mindset
 permalink: /digital-programmes/masterclasses-and-workshops/improve-customer-engagement-with-digital-mindset
-breadcrumb: 'Improve Customer Engagement with Digital Mindset'
-third_nav_title: 'Masterclasses & Workshops'
-
+breadcrumb: Improve Customer Engagement with Digital Mindset
+third_nav_title: Masterclasses & Workshops
 ---
-
 <img src="/images/images-2021/DigitalProgrammes-HImage-Workshop.png" style="width:100%;">
 
 <h4 style="text-align:center;">Next intake:</h4>
@@ -31,6 +29,11 @@ to spend more time with your brand while establishing a stronger connection. In 
 customers tend to spend more money and be more loyal.</p>
 
 <p>This workshop is designed to equip individuals to generate ideas and opportunities to engage customers in the digital world.</p>
+
+<h4>Course Title | Mode of Training | Course Ref</h4>
+
+<p>Improve Customer Engagement with Digital Mindset
+<br>Classroom - TGS-2018500958</p>
   
 <h4>Outline</h4>
 <ul>
@@ -68,12 +71,12 @@ customers tend to spend more money and be more loyal.</p>
 </tr>
 
 <tr>
-<td>Singapore Citizen 40 years & above (90% funding)</td>
+<td>Singapore Citizen 40 years & above<sup>1</sup> (90% funding)</td>
 <td>$90.75</td>
 </tr>
 
 <tr>
-  <td>Singapore Citizen/SPR sponsored by SMEs<sup>1</sup> (90% funding)</td>
+  <td>Singapore Citizen/SPR sponsored by SMEs<sup>2</sup> (90% funding)</td>
 <td>$90.75</td>
 </tr>
 
@@ -106,4 +109,3 @@ customers tend to spend more money and be more loyal.</p>
 <div style="width:50%;float:left;"><center><a href="https://form.gov.sg/#!/5d9d3f30a8b1b30012143f58" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Register Now</a></center></div>
 
 <div style="width:50%;float:left;"><center><a href="https://form.gov.sg/602f33f172d5100012d6ca8b" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center></div>
-
