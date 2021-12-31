@@ -1,11 +1,9 @@
 ---
-title: '3 Steps to Digitise Your Business'
+title: 3 Steps to Digitise Your Business
 permalink: /digital-programmes/masterclasses-and-workshops/3-steps-to-digitise-your-business
-breadcrumb: '3 Steps to Digitise Your Business'
-third_nav_title: 'Masterclasses & Workshops'
-
+breadcrumb: 3 Steps to Digitise Your Business
+third_nav_title: Masterclasses & Workshops
 ---
-
 <img src="/images/images-2021/DigitalProgrammes-Image-Masterclass.png" style="width:100%;">
 
 <h4 style="text-align:center;">Next intake:</h4>
@@ -29,6 +27,11 @@ processes and provide intelligence and actionable insights to enabling business 
 how to apply specific knowledge and skills in developing intuitive online purchase for Click and Collect
 trend. Make sense of the infinite pathways in the digital space. Experience hands-on exercise of creating
 a 5-stage results-focused digital business plan for e-Marketplace ecosystem.</p>
+
+<h4>Course Title | Mode of Training | Course Ref</h4>
+
+<p>3 Steps to Digitise Your Business
+<br>CClassroom - TGS-2020501008</p>
 
 <h4>Outline</h4>
 <ul>
@@ -88,20 +91,23 @@ BenQ SEA, and had held key roles in Hewlett Packard-APJ and Motorola-APJ.
 </tr>
 
 <tr>
-<td>Singapore Citizen 40 years & above (90% funding)</td>
+<td>Singapore Citizen 40 years & above<sup>1</sup> (90% funding)</td>
 <td>$90.75</td>
 </tr>
 
 <tr>
-<td>Singapore Citizen/SPR sponsored by SMEs<sup>1</sup> (90% funding)</td>
+<td>Singapore Citizen/SPR sponsored by SMEs<sup>2</sup> (90% funding)</td>
 <td>$90.75</td>
 </tr>
 
 </table>
 </center>
 
-<small><i><sup>1</sup>Fee is under the <a href="/services/consultancy/etss">Enhanced Training Support for SMEs (ETSS)</a><br>
-    Fees include prevailing GST</i></small>
+<small><i> Fees include prevailing GST
+<br> Funding Eligiblity Period: 1 Oct 2021 to 30 Sep 2024<br>
+<small><i><sup>1</sup>Fee is under the <a href="/services/consultancy/skillsfuture-midcareer-enhanced-subsidy">Mid-career Enhanced Subsidy</a>
+<br><sup>2</sup>Fee is under the <a href="/services/consultancy/etss">Enhanced Training Support for SMEs (ETSS)</a><br>
+</i></small>
 
 <h4>Additional Support</h4>
 
