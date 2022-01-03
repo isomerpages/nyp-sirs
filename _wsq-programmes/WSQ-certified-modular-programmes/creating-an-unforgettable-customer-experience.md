@@ -25,7 +25,7 @@ third_nav_title: WSQ Certified Modular Programmes
 <h4>Course Title | Mode of Training | Course Ref</h4>
 
 <p>Service Excellence (SF — Associate)
-<br>Classroom - TGS-2020505458</p>
+<br>Classroom - TGS-2020505458 <br>Synchronous E-learning - TGS-2019501375</p>
 
 
 <b>Receive a WSQ Statement of Attainment (SOA) from the SkillsFuture Singapore (SSG) upon completion.</b>
