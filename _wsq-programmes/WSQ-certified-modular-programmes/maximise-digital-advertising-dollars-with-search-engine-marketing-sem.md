@@ -20,9 +20,9 @@ third_nav_title: WSQ Certified Modular Programmes
 
 <h4>Course Title | Mode of Training | Course Ref</h4>
 
-<p>Search Engine Optimization - SEO (SF - Manager)
-<br>Classroom - TGS-2021004127
-<br>Synchronous E-learning - TGS-2020513487</p>
+<p>SPaid Search Engine Marketing - SEM (SF - Manager)
+<br>Classroom - TGS-2021004126
+<br>Synchronous E-learning - TGS-2020513486</p>
 
 <b>Receive a WSQ Statement of Attainment (SOA) from the SkillsFuture Singapore (SSG) upon completion.</b>
 
