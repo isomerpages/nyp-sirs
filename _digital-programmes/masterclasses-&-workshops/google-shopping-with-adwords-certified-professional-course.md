@@ -1,11 +1,9 @@
 ---
-title: 'Google Shopping with AdWords Certified Professional Course'
+title: Google Shopping with AdWords Certified Professional Course
 permalink: /digital-programmes/masterclasses-and-workshops/google-shopping-with-adwords-professional-certification
-breadcrumb: 'Google Shopping with AdWords Certified Professional Course'
-third_nav_title: 'Masterclasses & Workshops'
-
+breadcrumb: Google Shopping with AdWords Certified Professional Course
+third_nav_title: Masterclasses & Workshops
 ---
-
 <img src="/images/images-2021/DigitalProgrammes-Image-Masterclass.png" style="width:100%;">
 
 <h4 style="text-align:center;">Next intake:</h4>
@@ -24,6 +22,11 @@ third_nav_title: 'Masterclasses & Workshops'
 <p>Advertising in Google enables you to expand our online presence. According to StatCounter Global Stats in Jun 2018 report, Google holds almost 90% of search engine market share. Google Shopping, together with the use of AdWords, enables potential customers to see your product image, title, price, store name, and more. These ads give users a strong sense of the product you are selling before they click the ad, which gives you more qualified leads. Many businesses experience significantly higher clickthrough rates (CTR) with Shopping ads compared to text ads.</p>
 
 <p>Understanding Google AdWords and setting up best practices for Google Shopping Campaigns are important in digital marketing. The course aims to help online retailers to reap the benefits of Google Shopping through managing search, display, video and shopping campaigns.</p>
+
+<h4>Course Title | Mode of Training | Course Ref</h4>
+
+<p>Google Shopping with AdWords Certified Professional Course
+<br>Synchronous E-learning - TGS-2020501723</p>
 
 <h4>Outline</h4>
 <ul>
