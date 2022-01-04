@@ -26,7 +26,7 @@ third_nav_title: WSQ Certified Modular Programmes
 
 <p>Service Leadership (SF — Associate)
 <br>Classroom - TGS-2020505460
-<br>Synchronous E-learning - TGS2018500387</p>
+<br>Synchronous E-learning - TGS-2018500387</p>
 
 <b>Receive a WSQ Statement of Attainment (SOA) from the SkillsFuture Singapore (SSG) upon completion.</b>
 
