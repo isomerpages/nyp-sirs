@@ -14,7 +14,7 @@ third_nav_title: Career Services
     </tr>
 </tbody></table></center>
 
-<p>SGUS Programme will end in March 2022.
+<p>The SGUS Programme will end in March 2022.
 Hurry and sign up now! 
 <br><br>Digitisation has impacted the business environment, evolving into one high-tech global environment that is changing every minute. Connectivity amongst people 
 has also reshaped our channels of communication and influenced our perception on what communication encompasses. Adopting mindsets of agility and responsiveness 
