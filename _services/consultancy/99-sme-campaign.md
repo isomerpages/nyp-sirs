@@ -1,19 +1,16 @@
 ---
-title: '99% SME Campaign'
+title: 99% SME Campaign
 permalink: /services/consultancy/singtel-99sme
 breadcrumb: 99SME
 third_nav_title: Consultancy
-
 ---
-
-
 <h4>What is 99%SME?</h4>
 <p>SMEs make up 99% of the businesses in Singapore, forming the backbone of Singapore’s economy.  99%SME is a nationwide movement to rally all of Singapore to discover and support small and medium businesses. By being part of 99% SME, businesses like yours can grow strong, together.</p>
 
 <h4>How can SIRS help?</h4>
 <ul>
   <li>Free registration to 99%SME and enjoy immediate benefits</li>
-  <li>We support SMEs through our Business Advisory Services and Placement under the Professional Conversion Programme (PCP) for Digital Professional (DP).</li>
+  <li>We support SMEs through our Business Advisory Services and Placement under the Career Conversion Programme (CCP) for Digital Professional (DP).</li>
   <li>We help SMEs to tap on additional sources of manpower and meet their manpower needs by matching them with mid-career PMET Digital Professional/s to support the company’s digital journey.</li>
   <li>We train SMEs to transit from offline to online business or operate a seamless omnichannel business through a comprehensive suite of highly subsidised digital commerce enabling programmes.</li>        
   <li>We provide solutions in key areas of digital marketing strategies including maximising social media for retailers, Facebook Digital Marketing and SEO (Search Engine Optimisation).</li>
@@ -39,8 +36,7 @@ third_nav_title: Consultancy
   </ul>
   
 <h4>Who can I speak with for more information and to sign up for 99%SME?</h4>
-<p>Please send an email to either <a href="low_lee_keng@sirs.edu.sg">low_lee_keng@sirs.edu.sg</a> or <a href="mailto:upskill@sirs.edu.sg">upskill@sirs.edu.sg</a></p>
+<p>Please send an email to <a href="mailto:upskill@sirs.edu.sg">upskill@sirs.edu.sg</a></p>
  
 <h4>Where can I get more information on 99%SME?</h4>
 <p>You may visit <a href="https://www.99sme.sg/about-99sme/">99%SME</a> for more information.</p>
-
