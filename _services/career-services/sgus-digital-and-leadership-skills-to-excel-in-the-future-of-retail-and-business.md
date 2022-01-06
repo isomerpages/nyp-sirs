@@ -15,8 +15,7 @@ third_nav_title: Career Services
 </table></center>
 
 <p>
-SGUS Programme will end in March 2022.
-Hurry and sign up now! 
+The SGUS Programmes will end in March 2022. Hurry and sign up now!
 <br><br>The digital age requires the agility of an organisation and its people to accommodate continuous change. It is about careful planning and putting 
 in place initiatives targeting transformational results to bring about benefits of digital transformation, instead of merely adopting systems for 
 optimization. In this pathway, participants will learn to evaluate the landscape and develop strategies to bring about digital transformation for 
