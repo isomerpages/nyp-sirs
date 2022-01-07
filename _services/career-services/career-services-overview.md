@@ -39,6 +39,6 @@ third_nav_title: Career Services
 <h4>Train-and-Place Programmes</h4>
 
 <b>SGUnited Skills (SGUS) Programme</b>
-<p>The SGUS Programme, administered by SIRS, is open to all mid-career Singapore Citizens and Singapore Permanent Residents who can commit full-time to this six-month training programme. In addition to enhancing their skills profile for the new digital-driven industry, trainees enjoy close to 100% subsidised course fee and up to $7,200 of training allowance during the programme. SIRS also provides career advisory, guidance, and employment placement assistance at no cost.</p>
+<p>The SGUS Programmes will end in March 2022. Hurry and sign up now!<br><br>The SGUS Programme, administered by SIRS, is open to all mid-career Singapore Citizens and Singapore Permanent Residents who can commit full-time to this six-month training programme. In addition to enhancing their skills profile for the new digital-driven industry, trainees enjoy close to 100% subsidised course fee and up to $7,200 of training allowance during the programme. SIRS also provides career advisory, guidance, and employment placement assistance at no cost.</p>
 
 <a href="/services/career-services/sgus-programme" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;" target="_blank">Find Out More</a>

@@ -19,6 +19,7 @@ third_nav_title: Career Services
 <p>Trainees can receive a training allowance of $1,200 per month throughout the six-month programme, capped at $7,200 for the full duration. This is subject to minimum attendance requirement and successful completion.</p>
 
 <h4>SGUnited Skills (SGUS) Programmes:</h4>
+<p> The SGUS Programmes will end in March 2022. Hurry and sign up now!</p>
 <ul>
   <li><a href="/services/sgus-programme/manage-retail-and-enterprise-in-the-digital-age">Manage Retail & Enterprise in the Digital Age</a></li>
   <li><a href="/services/sgus-programme/digital-and-leadership-skills-to-excel-in-the-future-of-retail-and-business">Digital & Leadership Skills to Excel in the Future of Retail & Business</a></li>
