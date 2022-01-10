@@ -31,7 +31,7 @@ a 5-stage results-focused digital business plan for e-Marketplace ecosystem.</p>
 <h4>Course Title | Mode of Training | Course Ref</h4>
 
 <p>3 Steps to Digitise Your Business
-<br>CClassroom - TGS-2020501008</p>
+<br>Classroom - TGS-2020501008</p>
 
 <h4>Outline</h4>
 <ul>
