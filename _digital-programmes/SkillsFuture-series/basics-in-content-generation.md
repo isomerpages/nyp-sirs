@@ -62,9 +62,7 @@ third_nav_title: SkillsFuture Series
 
 <small><i> Fees include prevailing GST
 <br> Funding Eligiblity Period: 1 Oct 2021 to 30 Sep 2024<br>
-<small><i><sup>1</sup>Fee is under the <a href="/services/consultancy/skillsfuture-midcareer-enhanced-subsidy">Mid-career Enhanced Subsidy</a>
-
-</i></small>
+<small><i><sup>1</sup>Fee is under the <a href="/services/consultancy/skillsfuture-midcareer-enhanced-subsidy">Mid-career Enhanced Subsidy</a></i></small>
     
 <h4>Additional Support</h4>
 
