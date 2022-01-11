@@ -31,7 +31,7 @@ third_nav_title: Masterclasses & Workshops
 <p><h4>Course Title | Mode of Training | Course Ref</h4></p>
 
 <p>Smart Social Commerce
-<br>Synchronous E-learning - TGS-2021008515
+<br>Classroom - TGS-2021008515
 </p>
 
 <h4>Outline</h4>
