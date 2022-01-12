@@ -18,7 +18,7 @@ Holistic Hands-on Content Marketing Techniques</center>
 
 <center><table style="width:80%;">
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;"> 28 Feb, 7, 14, 15, 21 Mar 2022</td>
+      <td style="text-align:center;width:50%;"> 4, 11, 18, 19, 25 April 2022</td>
     </tr>
 </table></center>
 
