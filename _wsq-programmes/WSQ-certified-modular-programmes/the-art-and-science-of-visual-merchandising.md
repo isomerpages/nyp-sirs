@@ -12,7 +12,7 @@ third_nav_title: WSQ Certified Modular Programmes
       <th style="text-align:center;width:50%;">Face-to-Face</th>
     </tr>
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">15 & 17 Feb 2022 (Tue & Thu)<br> 5 & 7 Apr 2022 (Tue & Thu)</td>
+      <td style="text-align:center;width:50%;">14 & 16 Feb (Mon & Wed)<br> 5 & 7 Apr 2022 (Tue & Thu)</td>
     </tr>
 </table></center>
 
