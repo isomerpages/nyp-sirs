@@ -1,12 +1,9 @@
 ---
-title: 'Boost Your Business with Social Commerce'
+title: Boost Your Business with Social Commerce
 permalink: /digital-programmes/digital-mentorship-programme/boost-your-business-with-social-commerce
-breadcrumb: 'Boost Your Business with Social Commerce'
-third_nav_title: 'Digital Mentorship Programme (DMP)'
-
+breadcrumb: Boost Your Business with Social Commerce
+third_nav_title: Digital Mentorship Programme (DMP)
 ---
-
-
 <img src="/images/images-2021/DigitalProgrammes-DMP-SocialCommerce.png" style="width:100%;">
 
 <p>Social media platforms such as Facebook and Instagram are permanent companions for most Singaporeans these days as we see 76%* of our population being active users. 
@@ -35,22 +32,35 @@ e-commerce website, you will also learn to set up a Carousell store for payment 
 <th style="width:70%;">Category</th>
 <th style="width:30%:">Price</th>
 </tr>
-  
+
 <tr>
 <td>Full fees</td>
 <td>$10,700</td>
 </tr>
 
 <tr>
-<td>Singapore Citizen/Singapore PR (SPR)<sup>1</sup></td>
-<td>$1,070</td>
+<td>Singapore Citizen/Singapore PR (SPR) (70% funding)</td>
+<td>$3,210</td>
+</tr>
+
+<tr>
+<td>Singapore Citizen 40 years & above<sup>1</sup> (90% funding)</td>
+<td>$1,210</td>
+</tr>
+
+<tr>
+<td>Singapore Citizen/SPR sponsored by SMEs<sup>2</sup> (90% funding)</td>
+<td>$1,210</td>
 </tr>
 
 </table>
 </center>
 
-<small><i><sup>1</sup>Fee is under <a href="/services/consultancy/enhanced-training-support-package-etsp">Enhanced Training Support Package (ETSP)</a><br>
-Fees include prevailing GST</i></small>
+<small><i> Fees include prevailing GST
+<br> Funding Eligiblity Period: 1 Oct 2021 to 30 Sep 2024<br>
+<small><i><sup>1</sup>Fee is under the <a href="/services/consultancy/skillsfuture-midcareer-enhanced-subsidy">Mid-career Enhanced Subsidy</a>
+<br><sup>2</sup>Fee is under the <a href="/services/consultancy/etss">Enhanced Training Support for SMEs (ETSS)</a><br>
+</i></small>
 
 <p>For SkillsFuture course reference, please click <a href="/files/documents-2021/SIRS-SkillsFuture-CourseRefNumber.pdf">here.</a></p>
 
@@ -59,4 +69,3 @@ Fees include prevailing GST</i></small>
 <div style="width:50%;float:left;"><center><a href="https://form.gov.sg/#!/5f9fae2e08d25a0011362014" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Register Now</a></center></div>
 
 <div style="width:50%;float:left;"><center><a href="https://form.gov.sg/602f304308dce80012761272" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center></div>
-
