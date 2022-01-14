@@ -98,7 +98,6 @@ third_nav_title: WSQ Full Qualification Programmes
   <li><a href="/services/consultancy/utap">Union Training Assistance Programme (UTAP)</a></li>
   <li><a href="/services/consultancy/wss-individuals">Workfare Skills Support (WSS) Scheme (For Individuals)</a></li>
   <li><a href="/services/consultancy/skillsfuture-qualification-award">SkillsFuture Qualification Award $1,000</a></li>
-  <li><a href="/services/consultancy/skillsfuture-study-awards">SkillsFuture Study Awards</a></li>
 </ul>
 
 <b>For company-sponsored participants:</b>
