@@ -1,12 +1,9 @@
 ---
-title: 'Jumpstart Your Online Business'
+title: Jumpstart Your Online Business
 permalink: /digital-programmes/digital-mentorship-programme/jumpstart-your-online-business
-breadcrumb: 'Jumpstart Your Online Business'
-third_nav_title: 'Digital Mentorship Programme (DMP)'
-
+breadcrumb: Jumpstart Your Online Business
+third_nav_title: Digital Mentorship Programme (DMP)
 ---
-
-
 <img src="/images/images-2021/DigitalProgrammes-DMP-Jumpstart.png" style="width:100%;">
 
 <p>Setting up an online store has become an increasingly popular way of reaching out to more customers as part of digitalisation effort by businesses. Just like 
@@ -37,22 +34,35 @@ content and boost sales</li>
 <th style="width:70%;">Category</th>
 <th style="width:30%:">Price</th>
 </tr>
-  
+
 <tr>
 <td>Full fees</td>
 <td>$10,700</td>
 </tr>
 
 <tr>
-<td>Singapore Citizen/Singapore PR (SPR)<sup>1</sup></td>
-<td>$1,070</td>
+<td>Singapore Citizen/Singapore PR (SPR) (70% funding)</td>
+<td>$3,210</td>
+</tr>
+
+<tr>
+<td>Singapore Citizen 40 years & above<sup>1</sup> (90% funding)</td>
+<td>$1,210</td>
+</tr>
+
+<tr>
+<td>Singapore Citizen/SPR sponsored by SMEs<sup>2</sup> (90% funding)</td>
+<td>$1,210</td>
 </tr>
 
 </table>
 </center>
 
-<small><i><sup>1</sup>Fee is under <a href="/services/consultancy/enhanced-training-support-package-etsp">Enhanced Training Support Package (ETSP)</a><br>
-Fees include prevailing GST</i></small>
+<small><i> Fees include prevailing GST
+<br> Funding Eligiblity Period: 1 Oct 2021 to 30 Sep 2024<br>
+<small><i><sup>1</sup>Fee is under the <a href="/services/consultancy/skillsfuture-midcareer-enhanced-subsidy">Mid-career Enhanced Subsidy</a>
+<br><sup>2</sup>Fee is under the <a href="/services/consultancy/etss">Enhanced Training Support for SMEs (ETSS)</a><br>
+</i></small>
 
 <p>For SkillsFuture course reference, please click <a href="/files/documents-2021/SIRS-SkillsFuture-CourseRefNumber.pdf">here.</a></p>
 
