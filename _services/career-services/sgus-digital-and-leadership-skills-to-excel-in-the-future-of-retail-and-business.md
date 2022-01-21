@@ -10,7 +10,7 @@ third_nav_title: Career Services
 
 <center><table style="width:80%;">
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">7 Feb 2022 </td>
+      <td style="text-align:center;width:50%;">2 Mar 2022 </td>
     </tr>
 </table></center>
 
