@@ -6,10 +6,11 @@ sections:
   - hero:
       background: /images/images-2021/Homepage_Banner2.png
   - infopic:
-      title: Temporary Closure of Customer Relations Centre
-      description: In view of the current COVID-19 situation, our Customer Relations Centre is temporarily closed till further notice. Meanwhile, our website is operating 24/7 for you to view and apply for our courses. We will also be here to help you with your queries via email and WhatsApp.
+      title: Customer Relations Centre is Now Open
+      description: "Our Customer Relations Centre is now open with safe management
+        measures in place. "
       url: /contact-us
-      image: /images/images-2021/Home-Highlights-P2HA.png
+      image: /images/images-2021/Home-Highlights-P2HA-Open.jpg
       alt: alt text
       button: Contact SIRS
   - infopic:
