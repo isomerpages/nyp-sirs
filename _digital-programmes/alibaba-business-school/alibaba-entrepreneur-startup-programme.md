@@ -183,6 +183,7 @@ Open Your Horizons. Apply Proven E-Commerce Strategies</center>
 <b>For self-sponsored participants:</b>
 <ul>
   <li><a href="/services/consultancy/skillsfuture-credit">SkillsFuture Credit</a></li>
+<li><a href="/services/consultancy/utap">Union Training Assistance Programme (UTAP)</a></li>
   </ul>
   
 <b>For company-sponsored participants:</b>
