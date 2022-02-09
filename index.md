@@ -8,7 +8,7 @@ sections:
   - infopic:
       title: Level Up Customer Engagement through Live Streaming
       description: "Pick up hosting skills from professional host, Cryus Talks, one of
-        Singapore’s well-known online host and influencer. Learn to plan, organise, and manage your live stream on social media platforms to gain more customers & expand your business "
+        Singapore’s well-known online host and influencer. Learn to plan, organise, and manage your live stream on social media platforms to gain more customers & expand your business. "
       url: /digital-programmes/masterclasses-and-workshops/level-up-customer-engagement-through-live-streaming
       image: /images/images-2021/Home-Highlights-Livestreaming.png
       alt: alt text
