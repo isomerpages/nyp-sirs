@@ -7,8 +7,9 @@ sections:
       background: /images/images-2021/Homepage_Banner2.png
   - infopic:
       title: Customer Relations Centre is Now Open
-      description: "Our Customer Relations Centre is now open with safe management
-        measures in place. You can still reach us remotely via email, call or WhatsApp, and we will be happy to assist you with your queries."
+      description: Our Customer Relations Centre is now open with safe management
+        measures in place. You can still reach us remotely via email, call or
+        WhatsApp, and we will be happy to assist you with your queries.
       url: /contact-us
       image: /images/images-2021/Home-Highlights-P2HA-Open.jpg
       alt: alt text
@@ -46,3 +47,4 @@ sections:
       alt: alt text
       button: More about SIRS Mailing List
 notification: "\n"
+---
