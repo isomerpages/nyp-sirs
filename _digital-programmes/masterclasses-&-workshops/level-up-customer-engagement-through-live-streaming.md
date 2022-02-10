@@ -15,7 +15,7 @@ third_nav_title: Masterclasses & Workshops
     </tr>
     <tr style="text-align:center;">
       <td style="text-align:center;width:50%;">25 & 28 Feb 2022 (Fri & Mon)</td>
-      <td style="text-align:center;width:50%;">20-21 Jan 2022 (Thu-Fri)<br>22-23 Mar 2022 (Tue-Wed)</td>
+      <td style="text-align:center;width:50%;">22-23 Mar 2022 (Tue-Wed)</td>
     </tr>
 </table></center>
 
