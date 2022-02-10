@@ -8,7 +8,9 @@ sections:
   - infopic:
       title: Level Up Customer Engagement through Live Streaming
       description: "Pick up hosting skills from professional host, Cryus Talks, one of
-        Singapore’s well-known online host and influencer. Learn to plan, organise, and manage your live stream on social media platforms to gain more customers & expand your business. "
+        Singapore’s well-known online host and influencer. Learn to plan,
+        organise, and manage your live stream on social media platforms to gain
+        more customers & expand your business. "
       url: /digital-programmes/masterclasses-and-workshops/level-up-customer-engagement-through-live-streaming
       image: /images/images-2021/Home-Highlights-Livestreaming.png
       alt: alt text
@@ -34,13 +36,13 @@ sections:
       alt: alt text
       button: More about SIRS Mailing List
   - infopic:
-      title: Customer Relations Centre is Now Open
-      description: Our Customer Relations Centre is now open with safe management
-        measures in place. You can still reach us remotely via email, call or
-        WhatsApp, and we will be happy to assist you with your queries.
-      url: /contact-us
-      image: /images/images-2021/Home-Highlights-P2HA-Open.jpg
+      title: SIRS-Alibaba Entrepreneur Startup Programme
+      description: Led by highly experienced trainers, be guided through a
+        comprehensive E-Start Up Canvas that will enable you to start, develop
+        and propel your online business.
+      url: /digital-programmes/alibaba-business-school/alibaba-entrepreneur-startup-programme
+      image: /images/images-2021/Home-Highlights-AliESP.png
       alt: alt text
-      button: Contact SIRS
+      button: More about this programme
 notification: "\n"
 ---
