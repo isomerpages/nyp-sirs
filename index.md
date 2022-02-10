@@ -30,7 +30,7 @@ sections:
         content marketing strategy, running successful live streams, and
         becoming a
       button: More about this programme
-      url: digital-programmes/alibaba-business-school/alibaba-entrepreneur-startup-programme
+      url: digital-programmes/alibaba-business-school/alibaba-content-marketing-programme
       image: /images/images-2021/Home-Highlights-AliCM.png
       alt: Image alt text
   - infopic:
