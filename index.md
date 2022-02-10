@@ -25,6 +25,15 @@ sections:
       alt: alt text
       button: More about this workshop
   - infopic:
+      title: SIRS-Alibaba Content Marketing Programme
+      description: Acquire practical skills and in-depth knowledge in optimising your
+        content marketing strategy, running successful live streams, and
+        becoming a
+      button: More about this programme
+      url: digital-programmes/alibaba-business-school/alibaba-entrepreneur-startup-programme
+      image: /images/images-2021/Home-Highlights-AliCM.png
+      alt: Image alt text
+  - infopic:
       title: Digital Mentorship Programme (DMP)
       description: Fast track your e-commerce and social commerce journey with SIRS'
         Digital Mentorship Programme, a personalised and mentor-guided programme
@@ -44,15 +53,5 @@ sections:
       image: /images/images-2021/About-MailingList-Amended.jpg
       alt: alt text
       button: More about SIRS Mailing List
-  - infopic:
-      title: SIRS-Alibaba Content Marketing Programme
-      subtitle: Infopic Subtitle
-      description: Acquire practical skills and in-depth knowledge in optimising your
-        content marketing strategy, running successful live streams, and
-        becoming a
-      button: More about this programme
-      url: digital-programmes/alibaba-business-school/alibaba-entrepreneur-startup-programme
-      image: /images/images-2021/Home-Highlights-AliCM.png
-      alt: Image alt text
 notification: "\n"
 ---
