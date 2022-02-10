@@ -28,7 +28,7 @@ sections:
       title: SIRS-Alibaba Content Marketing Programme
       description: Acquire practical skills and in-depth knowledge in optimising your
         content marketing strategy, running successful live streams, and
-        becoming a
+        becoming a Key Opinion Leader to grow your fan base. 
       button: More about this programme
       url: digital-programmes/alibaba-business-school/alibaba-content-marketing-programme
       image: /images/images-2021/Home-Highlights-AliCM.png
