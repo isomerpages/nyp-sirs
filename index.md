@@ -36,8 +36,10 @@ sections:
   - infopic:
       title: SGUnited Skills (SGUS) Programmes
       description: Unlock your potential and endless possibilities as an E-Commerce
-        Professional or Omni-Commerce Professional through our SGUS Programmes! Say yes to boosting your employability by expanding your skills and knowledge. 
-        The SGUS Programmes will end in March 2022. Don't miss the last intake and sign up now!
+        Professional or Omni-Commerce Professional through our SGUS Programmes!
+        Say yes to boosting your employability by expanding your skills and
+        knowledge. The SGUS Programmes will end in March 2022. Don't miss the
+        last intake and sign up now!
       button: More about this programme
       url: /services/career-services/sgus-programme
       image: /images/images-2021/Home-Highlights-SGUS-LastIntake.png
@@ -62,7 +64,7 @@ sections:
       url: /digital-programmes/digital-mentorship-programme
       image: /images/images-2021/DigitalProgrammes-DMP-Overview.jpg
       alt: alt text
-      button: More about DMP
+      button: More about this programme
   - infopic:
       title: Be the First to Know
       description: Join the SIRS mailing list and receive first-hand news and updates
