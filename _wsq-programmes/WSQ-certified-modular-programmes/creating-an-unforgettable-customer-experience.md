@@ -16,7 +16,7 @@ third_nav_title: WSQ Certified Modular Programmes
     </tr>
     <tr style="text-align:center;">
       <td style="text-align:center;width:50%;">To be confirmed</td>
-      <td style="text-align:center;width:50%;">19 - 20 Jan 2022 (Wed-Thu)- Eng<br> 2-3 Mar 2022 (Tue-Wed) - 中文 <br>8 - 9 Mar 2022 (Tue-Wed) - Eng </td>
+      <td style="text-align:center;width:50%;">2-3 Mar 2022 (Tue-Wed) - 中文 <br>8 - 9 Mar 2022 (Tue-Wed) - Eng </td>
     </tr>
 </table></center>
 

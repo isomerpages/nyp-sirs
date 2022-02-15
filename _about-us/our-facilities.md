@@ -1,11 +1,8 @@
 ---
-title: 'Our Facilities'
+title: Our Facilities
 permalink: /our-facilities
-breadcrumb: 'Our Facilities'
-
+breadcrumb: Our Facilities
 ---
-
-
 <img src="/images/images-2021/About-Facilities-Main.png" style="width:100%;">
 
 <p>Located conveniently at the Lifelong Learning Institute next to Paya Lebar MRT, our campus is equipped with training labs, 
