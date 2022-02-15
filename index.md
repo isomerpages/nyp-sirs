@@ -15,6 +15,15 @@ sections:
       alt: alt text
       button: More about this programme
   - infopic:
+      title: SkillsFuture for Digital Workplace (SFDW)
+      description: If you aspire to start your own online business, be it a side
+        hustle or a full-time profession, this two-day hands-on workshop is for
+        you!
+      button: MORE ABOUT SFDW
+      url: /digital-programmes/skillsfuture-digital-workplace
+      image: /images/images-2021/Home-Highlights-SFDW-HBB.png
+      alt: Image alt text
+  - infopic:
       title: Level Up Customer Engagement through Live Streaming
       description: "Pick up hosting skills from professional host, Cryus Talks, one of
         Singapore’s well-known online host and influencer. Learn to plan,
@@ -28,7 +37,7 @@ sections:
       title: SIRS-Alibaba Content Marketing Programme
       description: Acquire practical skills and in-depth knowledge in optimising your
         content marketing strategy, running successful live streams, and
-        becoming a Key Opinion Leader to grow your fan base. 
+        becoming a Key Opinion Leader to grow your fan base.
       button: More about this programme
       url: digital-programmes/alibaba-business-school/alibaba-content-marketing-programme
       image: /images/images-2021/Home-Highlights-AliCM.png
