@@ -34,6 +34,14 @@ sections:
       alt: alt text
       button: More about this workshop
   - infopic:
+      title: SGUnited Skills (SGUS) Programmes
+      description: Unlock your potential and endless possibilities as an E-Commerce
+        Professional or Omni-Commerce Professional through our SGUS Programmes!
+      button: More about this programme
+      url: /services/career-services/sgus-programme
+      image: /images/images-2021/Home-Highlights-SGUS-LastIntake.png
+      alt: Image alt text
+  - infopic:
       title: SIRS-Alibaba Content Marketing Programme
       description: Acquire practical skills and in-depth knowledge in optimising your
         content marketing strategy, running successful live streams, and
