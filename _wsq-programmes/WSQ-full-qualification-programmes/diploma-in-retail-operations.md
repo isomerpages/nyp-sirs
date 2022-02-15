@@ -14,7 +14,7 @@ third_nav_title: WSQ Full Qualification Programmes
     </tr>
     <tr style="text-align:center;">
       <td style="text-align:center;width:50%;">Feb 2022 (Every Tue & Fri)</td>
-      <td style="text-align:center;width:50%;">Jan 2022 (Every Tue & Thu)</td>
+      <td style="text-align:center;width:50%;">May 2022 (Every Tue & Thu)</td>
     </tr>
 </table></center>
 
