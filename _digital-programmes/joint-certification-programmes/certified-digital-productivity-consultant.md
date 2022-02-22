@@ -1,12 +1,9 @@
 ---
-title: 'Certified Digital & Productivity Consultant'
+title: Certified Digital & Productivity Consultant
 permalink: /digital-programmes/certified-digital-productivity-consultant
-breadcrumb: 'Certified Digital & Productivity Consultant'
-third_nav_title: 'Joint Certification Programmes'
-
+breadcrumb: Certified Digital & Productivity Consultant
+third_nav_title: Joint Certification Programmes
 ---
-
-
 <img src="images/joint-certification/cdpc.jpg" style="width:100%;">
 
 <p>On 4 June 2019, SIRS, Singapore Productivity Centre (SGPC), and Heartland Enterprises Centre Singapore (HECS) signed a Memorandum of Understanding (MOU), launching the Certified Digital & Productivity Consultant (CDPC) programme.</p>
@@ -50,22 +47,22 @@ The CDPC programme will equip the consultant with literacy and skills in:
 
 <tr>
 <td>Full fees</td>
-<td>$14,124.00</td>
+	<td>$11,021.00</td>
 </tr>
 
 <tr>
 <td>Singapore Citizen/Singapore PR (SPR) (70% funding)</td>
-<td>$4,237.20</td>
+<td>$3,306.30</td>
 </tr>
 
 <tr>
 <td>Singapore Citizen 40 years & above (90% funding)</td>
-<td>$1,597.20</td>
+<td>$1,246.30</td>
 </tr>
 
 <tr>
   <td>Singapore Citizen/SPR sponsored by SMEs<sup>1</sup> (90% funding)</td>
-<td>$1,597.20</td>
+<td>$1,246.30</td>
 </tr>
 
 </table>
