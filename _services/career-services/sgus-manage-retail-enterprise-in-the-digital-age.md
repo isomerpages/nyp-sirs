@@ -10,13 +10,11 @@ third_nav_title: Career Services
 
 <center><table style="width:80%;">
     <tbody><tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">To be confirmed</td>
+      <td style="text-align:center;width:50%;">Intake is now closed.</td>
     </tr>
 </tbody></table></center>
 
-<p>The SGUS Programme will end in March 2022.
-Hurry and sign up now! 
-<br><br>Digitisation has impacted the business environment, evolving into one high-tech global environment that is changing every minute. Connectivity amongst people 
+<p>Digitisation has impacted the business environment, evolving into one high-tech global environment that is changing every minute. Connectivity amongst people 
 has also reshaped our channels of communication and influenced our perception on what communication encompasses. Adopting mindsets of agility and responsiveness 
 to changing needs have become important attributes for businesses and its people.  The programmes in this pathway will broaden your skillset and sharpen your 
 competitive edge through developing your leadership skills to manage change, engage, coach and motivate team to strengthen team cohesion, boost productivity and 
