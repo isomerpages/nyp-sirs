@@ -19,13 +19,12 @@ third_nav_title: Career Services
 <p>Trainees can receive a training allowance of $1,200 per month throughout the six-month programme, capped at $7,200 for the full duration. This is subject to minimum attendance requirement and successful completion.</p>
 
 <h4>SGUnited Skills (SGUS) Programmes:</h4>
-<p> The SGUS Programmes will end in March 2022. Hurry and sign up now!</p>
+<p></p>
 <ul>
   <li><a href="/services/sgus-programme/manage-retail-and-enterprise-in-the-digital-age">Manage Retail & Enterprise in the Digital Age</a></li>
   <li><a href="/services/sgus-programme/digital-and-leadership-skills-to-excel-in-the-future-of-retail-and-business">Digital & Leadership Skills to Excel in the Future of Retail & Business</a></li>
 	  <li><a href="/services/sgus-programme/ocdm">Omni Commerce & Digital Marketing</a></li>
   </ul>
 
-<div style="width:50%;float:left;"><center><a href="https://form.gov.sg/#!/5f7c08ce956eff0011c11fcf" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Register Now</a></center></div>
 
-<div style="width:50%;float:left;"><center><a href="https://form.gov.sg/602f3cfc8593b40011c817d5" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center></div>
+<center><a href="https://form.gov.sg/602f3cfc8593b40011c817d5" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center>

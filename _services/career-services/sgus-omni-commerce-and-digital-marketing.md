@@ -9,13 +9,12 @@ third_nav_title: Career Services
 
 <center><table style="width:80%;">
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">7 Mar 2022</td>
+      <td style="text-align:center;width:50%;">7 Mar 2022 (Intake is now closed)</td>
     </tr>
 </table></center>
 
 <p>
-The SGUS Programme will end in March 2022. Hurry and sign up now! 
-<br><br>The SGUS Programme in Omni Commerce & Digital Marketing aims to enhance and equip trainees with skillsets and techniques for omni commerce. As digital becomes increasingly part of consumer lifestyles, their changing buying behaviour, consumption habits and expectations become a challenge for businesses to ensure that their online and offline business channels provide a unified experience for their customers. The ability to deploy the right techniques to heighten customer experience and satisfaction will turn opportunities into sales for the business.</p>
+The SGUS Programme in Omni Commerce & Digital Marketing aims to enhance and equip trainees with skillsets and techniques for omni commerce. As digital becomes increasingly part of consumer lifestyles, their changing buying behaviour, consumption habits and expectations become a challenge for businesses to ensure that their online and offline business channels provide a unified experience for their customers. The ability to deploy the right techniques to heighten customer experience and satisfaction will turn opportunities into sales for the business.</p>
 
 <h4>Outline</h4>
 <ul>
@@ -66,6 +65,5 @@ The SGUS Programme will end in March 2022. Hurry and sign up now!
 
 <p>This programme is also eligible for SkillsFuture Credit. For SkillsFuture course reference, please click <a href="/files/documents-2021/SIRS-SkillsFuture-CourseRefNumber.pdf">here.</a></p>
 
-<div style="width:50%;float:left;"><center><a href="https://form.gov.sg/#!/5f7c08ce956eff0011c11fcf" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Register Now</a></center></div>
 
-<div style="width:50%;float:left;"><center><a href="https://form.gov.sg/#!/61adb3bafb55fa00122427cd" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Register for Interest</a></center></div>
+<center><a href="https://form.gov.sg/#!/61adb3bafb55fa00122427cd" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Register for Interest</a></center>

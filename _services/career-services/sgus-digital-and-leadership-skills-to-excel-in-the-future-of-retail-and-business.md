@@ -10,13 +10,12 @@ third_nav_title: Career Services
 
 <center><table style="width:80%;">
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">7 Mar 2022 </td>
+      <td style="text-align:center;width:50%;">7 Mar 2022 (Intake is now closed)</td>
     </tr>
 </table></center>
 
 <p>
-The SGUS Programme will end in March 2022. Hurry and sign up now!
-<br><br>The digital age requires the agility of an organisation and its people to accommodate continuous change. It is about careful planning and putting 
+The digital age requires the agility of an organisation and its people to accommodate continuous change. It is about careful planning and putting 
 in place initiatives targeting transformational results to bring about benefits of digital transformation, instead of merely adopting systems for 
 optimization. In this pathway, participants will learn to evaluate the landscape and develop strategies to bring about digital transformation for 
 the business. It is imperative also for leaders to understand the changing social dynamics and behaviours of the workplace in today’s digital age. 
@@ -72,6 +71,5 @@ responsibilities, to achieve organisational goals.</p>
 
 <p>This programme is also eligible for SkillsFuture Credit. For SkillsFuture course reference, please click <a href="/files/documents-2021/SIRS-SkillsFuture-CourseRefNumber.pdf">here.</a></p>
 
-<div style="width:50%;float:left;"><center><a href="https://form.gov.sg/#!/5f7c08ce956eff0011c11fcf" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Register Now</a></center></div>
 
-<div style="width:50%;float:left;"><center><a href="https://form.gov.sg/#!/61adb3bafb55fa00122427cd" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Register for Interest</a></center></div>
+<center><a href="https://form.gov.sg/#!/61adb3bafb55fa00122427cd" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Register for Interest</a></center>

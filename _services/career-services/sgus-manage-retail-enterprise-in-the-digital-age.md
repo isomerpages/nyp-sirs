@@ -10,13 +10,11 @@ third_nav_title: Career Services
 
 <center><table style="width:80%;">
     <tbody><tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">To be confirmed</td>
+      <td style="text-align:center;width:50%;">The last intake has ended.</td>
     </tr>
 </tbody></table></center>
 
-<p>The SGUS Programme will end in March 2022.
-Hurry and sign up now! 
-<br><br>Digitisation has impacted the business environment, evolving into one high-tech global environment that is changing every minute. Connectivity amongst people 
+<p>Digitisation has impacted the business environment, evolving into one high-tech global environment that is changing every minute. Connectivity amongst people 
 has also reshaped our channels of communication and influenced our perception on what communication encompasses. Adopting mindsets of agility and responsiveness 
 to changing needs have become important attributes for businesses and its people.  The programmes in this pathway will broaden your skillset and sharpen your 
 competitive edge through developing your leadership skills to manage change, engage, coach and motivate team to strengthen team cohesion, boost productivity and 
@@ -70,6 +68,5 @@ outcomes for the business.</p>
 
 <p>This programme is also eligible for SkillsFuture Credit. For SkillsFuture course reference, please click <a href="/files/documents-2021/SIRS-SkillsFuture-CourseRefNumber.pdf">here.</a></p>
 
-<div style="width:50%;float:left;"><center><a href="https://form.gov.sg/#!/5f7c08ce956eff0011c11fcf" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Register Now</a></center></div>
 
-<div style="width:50%;float:left;"><center><a href="https://form.gov.sg/#!/61adb3bafb55fa00122427cd" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Register for Interest</a></center></div>
+<center><a href="https://form.gov.sg/#!/61adb3bafb55fa00122427cd" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Register for Interest</a></center>

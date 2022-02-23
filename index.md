@@ -34,17 +34,6 @@ sections:
       alt: alt text
       button: More about this workshop
   - infopic:
-      title: SGUnited Skills (SGUS) Programmes
-      description: Unlock your potential and endless possibilities as an E-Commerce
-        Professional or Omni-Commerce Professional through our SGUS Programmes!
-        Say yes to boosting your employability by expanding your skills and
-        knowledge. The SGUS Programmes will end in March 2022. Don't miss the
-        last intake and sign up now!
-      button: More about this programme
-      url: /services/career-services/sgus-programme
-      image: /images/images-2021/Home-Highlights-SGUS-LastIntake.png
-      alt: Image alt text
-  - infopic:
       title: SIRS-Alibaba Content Marketing Programme
       description: Acquire practical skills and in-depth knowledge in optimising your
         content marketing strategy, running successful live streams, and
