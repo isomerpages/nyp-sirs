@@ -69,4 +69,4 @@ outcomes for the business.</p>
 <p>This programme is also eligible for SkillsFuture Credit. For SkillsFuture course reference, please click <a href="/files/documents-2021/SIRS-SkillsFuture-CourseRefNumber.pdf">here.</a></p>
 
 
-<center><a href="https://form.gov.sg/#!/61adb3bafb55fa00122427cd" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Register for Interest</a></center></div>
+<center><a href="https://form.gov.sg/#!/61adb3bafb55fa00122427cd" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Register for Interest</a></center>
