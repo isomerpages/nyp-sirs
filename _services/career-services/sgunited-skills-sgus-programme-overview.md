@@ -27,4 +27,4 @@ third_nav_title: Career Services
   </ul>
 
 
-<center><a href="https://form.gov.sg/602f3cfc8593b40011c817d5" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center></div>
+<center><a href="https://form.gov.sg/602f3cfc8593b40011c817d5" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center>
