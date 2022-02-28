@@ -27,7 +27,7 @@ operates.</p>
 
 <p>To make optimal business and operational plan, business owners and e-commerce teams will require a
 360 view of the e-commerce landscape and learn holistic operational functions critical to a successful
-online business.ands-on exercise of creating a 5-stage results-focused digital business plan for e-Marketplace ecosystem.</p>
+online business.</p>
 
 <h4>Course Title | Mode of Training | Course Ref</h4>
 
