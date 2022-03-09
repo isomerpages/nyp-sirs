@@ -76,7 +76,7 @@ Jien’s background in design & innovation informs her approach. She has partner
 Jien has helped shape the future of brands across sectors spanning fashion, beauty, consumer tech and food & drink. Some of her clients include LVMH, Loewe, Inditex Group, Cotton On Group, Coty Paris, Hyundai, Samsung, Kelloggs, Diageo and Beam Suntory. She has also taken the (virtual) stage at conferences for the likes of Singapore Design Centre, Singapore International Retail Association and Singapore Management University.
 Outside of work, Jien finds beauty in the less quantifiable worlds of yoga and art. She is currently obsessed with #tablescaping and is starting a passion project centred around the eco-conscious curation of thrifted vintage & artisanal dinnerware
 
-	</div>
+
 </div>
     
 <h4>Fees</h4>
