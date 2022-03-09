@@ -66,16 +66,15 @@ development through guided interactive online exercises
 <div class="row">
     <div class="col is-4">
 		<figure style="margin:0;">
-			<img src="/images/images-2021/Masterclass Trainer_Jessica Tang.png" style="width:60%;">
+			<img src="/images/jien-goh.jpeg" style="width:60%;">
 			<figcaption class="has-text-weight-bold" style="color:#0AD25A"> </figcaption>
 		</figure>
 	</div>
 	<div class="col is-8">
-        <b>Jessica Tang</b><br><i>Senior Consultant<br>WGSN, APAC</i><br><br>Jessica is a seasoned creative strategist with extensive design research and innovation project experience in APAC. Coming from a hybrid background in Psychology and
-Design, Jessica adopts a hybrid qualitative mix quantitative approach to gather
-and translate human-centered insights into strategic product design and brand
-directions for consumer-centric businesses in the region. Her portfolio includes
-    work for multinational Fortune500 businesses and emerging local players.
+        <b>Jien Goh</b><br><i>Futures Consultant<br>WGSN</i><br><br>A culturally-engaged strategist, Jien is driven to help clients connect the dots between current societal shifts and future growth opportunities. 
+Jien’s background in design & innovation informs her approach. She has partnered with iconic brands to deliver actionable growth strategies that bridge the gap between data-robust insight and creative thinking. 
+Jien has helped shape the future of brands across sectors spanning fashion, beauty, consumer tech and food & drink. Some of her clients include LVMH, Loewe, Inditex Group, Cotton On Group, Coty Paris, Hyundai, Samsung, Kelloggs, Diageo and Beam Suntory. She has also taken the (virtual) stage at conferences for the likes of Singapore Design Centre, Singapore International Retail Association and Singapore Management University.
+Outside of work, Jien finds beauty in the less quantifiable worlds of yoga and art. She is currently obsessed with #tablescaping and is starting a passion project centred around the eco-conscious curation of thrifted vintage & artisanal dinnerware
 	</div>
 </div>
     
