@@ -22,7 +22,7 @@ Open Your Horizons. Apply Proven E-Commerce Strategies</center>
 
 <p>SIRS in partnership with Alibaba Business School, the official training arm of Alibaba Group, offers comprehensive and systematic training programmes to meet a full spectrum of learning needs of government groups, entrepreneurs, SMEs, startups, e-commerce practitioners and students.</p>
 
-<p>The Entrepreneur Startup programme is designed for enterprising business start-ups and individuals seeking to launch an online store as an individual or enterprise. Through this course, participants will learn how efficiently set up, manage and operate an online store, understand China and South East Asia’s business opportunities at each phase of development that businesses can gain from. Mastering the ecommerce modus operandi and techniques with key big data analytics and benchmark. </p>
+<p>The Entrepreneur Startup programme is designed for enterprising business start-ups and individuals seeking to launch an online store as an individual or enterprise. Through this course, participants will learn how to efficiently set up, manage and operate an online store on Lazada platform and understand China & South East Asia’s opportunities that businesses can explore. Mastering the ecommerce modus operandi and techniques with key big data analytics and benchmark. </p>
 
 <p>Upon completion of the programme, participants will receive a certificate jointly awarded by Alibaba Business School and Singapore Institute of Retail Studies.</p>
 
