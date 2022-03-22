@@ -6,34 +6,6 @@ sections:
   - hero:
       background: /images/images-2021/Homepage_Banner2.png
   - infopic:
-      title: SIRS-Alibaba Entrepreneur Startup Programme
-      description: Led by highly experienced trainers, be guided through a
-        comprehensive E-Start Up Canvas that will enable you to start, develop
-        and propel your online business.
-      url: /digital-programmes/alibaba-business-school/alibaba-entrepreneur-startup-programme
-      image: /images/images-2021/Home-Highlights-AliESP.png
-      alt: alt text
-      button: More about this programme
-  - infopic:
-      title: SkillsFuture for Digital Workplace (SFDW)
-      description: If you aspire to start your own online business, be it a side
-        hustle or a full-time profession, this two-day hands-on workshop is for
-        you!
-      button: MORE ABOUT SFDW
-      url: /digital-programmes/skillsfuture-digital-workplace
-      image: /images/images-2021/Home-Highlights-SFDW-HBB.png
-      alt: Image alt text
-  - infopic:
-      title: Level Up Customer Engagement through Live Streaming
-      description: "Pick up hosting skills from professional host, Cryus Talks, one of
-        Singapore’s well-known online host and influencer. Learn to plan,
-        organise, and manage your live stream on social media platforms to gain
-        more customers & expand your business. "
-      url: /digital-programmes/masterclasses-and-workshops/level-up-customer-engagement-through-live-streaming
-      image: /images/images-2021/Home-Highlights-Livestreaming.png
-      alt: alt text
-      button: More about this workshop
-  - infopic:
       title: SIRS-Alibaba Content Marketing Programme
       description: Acquire practical skills and in-depth knowledge in optimising your
         content marketing strategy, running successful live streams, and
