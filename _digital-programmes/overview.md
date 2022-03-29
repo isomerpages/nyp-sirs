@@ -2,10 +2,7 @@
 title: Overview
 permalink: /digital-programmes
 breadcrumb: Overview
-
 ---
-
-
 <img src="/images/images-2021/DigitalProgrammes_Overview.png" style="width:100%;">
 
 <p>Digital technology is a game-changer. The introduction of innovative retail technologies has created new shopping methods, be it through websites, mobile applications, e-marketplaces, social media platforms or even live streaming. This evolution of the retail landscape has caused a shift in consumer behaviour and expectations, giving rise to new strategies needed for retailers to remain relevant and thrive in competition.</p>
@@ -43,10 +40,6 @@ breadcrumb: Overview
 <h4>National Silver Academy</h4>
 <p>When the ever-evolving technology meets Singapore’s aging population, it is especially important for our silver generation to pick up basic digital literacy skills to be a tech-savvy senior. </p>
 <a href="/digital-programmes/national-silver-academy" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;" target="_blank">Find Out More</a>
-
-<h4>SkillsFuture for Digital Workplace (SFDW)</h4>
-<p>A foundational two-day workshop to equip you with digital literacy skills and to adopt a proactive and adaptive mindset for emerging technologies.</p>
-<a href="/digital-programmes/skillsfuture-digital-workplace" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;" target="_blank">Find Out More</a>
 
 <h4>SkillsFuture Series</h4>
 <p>Bite-sized and quality industry-focused training programmes on emerging and critical skills areas. Catered to Singaporeans at all stages of learning – from beginner to intermediate to advance levels. </p>
