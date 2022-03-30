@@ -25,7 +25,7 @@ breadcrumb: Who We Are
 <h4>Solutions and Services</h4>
 <p>SIRS is a holistic solutions provider with capability development & training at our core.</p> 
  
-<img src="/images/images-2021/AboutUs_SIRS_Solutions&Services2022.png" style="width:80%;">
+<img src="/images/images-2021/AboutUs_SIRS_Solutions&Services2022.png" style="width:70%;">
 
 <p>
 <ul>
