@@ -25,24 +25,38 @@ breadcrumb: Who We Are
 <h4>Solutions and Services</h4>
 <p>SIRS is a holistic solutions provider with capability development & training at our core.</p> 
  
-<img src="/images/images-2021/AboutUs_SIRS_Solutions&Services.png" style="width:80%;">
+<img src="/images/images-2021/AboutUs_SIRS_Solutions&Services2022.png" style="width:55%;">
 
 <p>
 <ul>
  <li><b><a href="/services/education-and-training">Educate</a></b><br>
-  Raise awareness and offer access to leading edge knowledge, skills, and industry trends</li>
+  Raise awareness and offer accessibility to leading edge knowledge and skills through various outreaches of different forms
+</li>
 
  
  <li><b><a href="/services/education-and-training">Train</a></b><br>
-  Provide quality and industry-relevant training to the retail workforce, and enhance enterprise human capital</li>
+  Provide a comprehensive suite of quality and industry relevant training to the retail enterprise workforce & jobseekers
+</li>
  
  
  <li><b><a href="/services/career-services">Place</a></b><br>
-  Offer career services such as advisory and placement assistance to job seekers, and redesign jobs to create value for enterprises</li>
+  Provide career advisory and placement assistance to job seekers & redesign jobs to help enterprise attract talents
+</li>
   
  
  <li><b><a href="/services/consultancy">Consult</a></b><br>
-  Provide consultancy services and solutions to retailers who need assistance in business transformation and digitalisation</li>
+  Provide consultancy services, business advisory, and highly-tailored solutions to enterprises. Deploy by NYP 360
+</li>
+	
+ <li><b><a href="/services/consultancy">Transform</a></b><br>
+  Assist retailers in business transformation through targeted solutioning, business innovation process & job redesign
+</li>
+
+ <li><b><a href="/digital-programmes">Digitalise</a></b><br>
+  Collaborate with digital commerce market leaders & aggregators to help businesses go online & adopt technology to drive growth
+</li>
+	
+	
 </ul>
 </p>
 
