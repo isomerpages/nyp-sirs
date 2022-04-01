@@ -13,7 +13,7 @@ third_nav_title: SkillsFuture Series
       <th style="text-align:center;width:50%;">Online Training</th>
     </tr>
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">24 Mar 2022 (Thu) </td>
+      <td style="text-align:center;width:50%;">25 May 2022 (Wed) <br>25 Jul 2022 (Mon) </td>
     </tr>
 </table></center>
 
