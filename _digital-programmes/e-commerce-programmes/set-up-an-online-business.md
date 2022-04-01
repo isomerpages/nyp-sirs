@@ -117,7 +117,7 @@ third_nav_title: E-Commerce Programmes
 <b>For self-sponsored participants:</b>
 <ul>
   <li><a href="/services/consultancy/skillsfuture-credit">SkillsFuture Credit</a></li>
-  <li><a href="/services/consultancy/utap">Union Training Assistance Programme (UTAP)</a></li>
+
   <li><a href="/services/consultancy/wss-individuals">Workfare Skills Support (WSS) Scheme (For Individuals)</a></li>
 </ul>
 
