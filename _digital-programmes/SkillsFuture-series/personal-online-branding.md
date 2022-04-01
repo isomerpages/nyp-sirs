@@ -75,9 +75,7 @@ third_nav_title: SkillsFuture Series
 
 <b>For self-sponsored participants:</b>
 <ul>
-  <li><a href="/services/consultancy/skillsfuture-credit">SkillsFuture Credit</a></li>
-  <li><a href="/services/consultancy/utap">Union Training Assistance Programme (UTAP)</a></li>
-    </ul>
+	<li><a href="/services/consultancy/skillsfuture-credit">SkillsFuture Credit</a></li> </ul>
 
 <p>For SkillsFuture course reference, please click <a href="/files/documents-2021/SIRS-SkillsFuture-CourseRefNumber.pdf">here.</a></p>
 

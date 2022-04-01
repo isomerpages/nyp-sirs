@@ -13,7 +13,7 @@ third_nav_title: SkillsFuture Series
       <th style="text-align:center;width:50%;">Online Training</th>
     </tr>
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">17 Feb 2022 (Thu)<br>12 Apr 2022 (Tue)</td>
+      <td style="text-align:center;width:50%;">12 Apr 2022 (Tue) <br> 24 May 2022 (Tue)</td>
     </tr>
 </table></center>
 
@@ -77,8 +77,7 @@ third_nav_title: SkillsFuture Series
 <b>For self-sponsored participants:</b>
 <ul>
   <li><a href="/services/consultancy/skillsfuture-credit">SkillsFuture Credit</a></li>
-  <li><a href="/services/consultancy/utap">Union Training Assistance Programme (UTAP)</a></li>
-    </ul>
+</ul>
 
 <p>For SkillsFuture course reference, please click <a href="/files/documents-2021/SIRS-SkillsFuture-CourseRefNumber.pdf">here.</a></p>
 

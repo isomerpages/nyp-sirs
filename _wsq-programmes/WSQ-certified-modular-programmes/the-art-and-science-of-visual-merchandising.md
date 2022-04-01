@@ -12,7 +12,7 @@ third_nav_title: WSQ Certified Modular Programmes
       <th style="text-align:center;width:50%;">Face-to-Face</th>
     </tr>
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">14 & 16 Feb (Mon & Wed)<br> 5 & 7 Apr 2022 (Tue & Thu)</td>
+      <td style="text-align:center;width:50%;"> 5 & 7 Apr 2022 (Tue & Thu) <br>24 & 26 May 2022 (Tue & Thu) </td>
     </tr>
 </table></center>
 
@@ -104,8 +104,7 @@ third_nav_title: WSQ Certified Modular Programmes
 <b>For self-sponsored participants:</b>
 <ul>
   <li><a href="/services/consultancy/skillsfuture-credit">SkillsFuture Credit</a></li>
-  <li><a href="/services/consultancy/utap">Union Training Assistance Programme (UTAP)</a></li>
-  <li><a href="/services/consultancy/wss-individuals">Workfare Skills Support (WSS) Scheme (For Individuals)</a></li>
+   <li><a href="/services/consultancy/wss-individuals">Workfare Skills Support (WSS) Scheme (For Individuals)</a></li>
 </ul>
 
 <b>For company-sponsored participants:</b>

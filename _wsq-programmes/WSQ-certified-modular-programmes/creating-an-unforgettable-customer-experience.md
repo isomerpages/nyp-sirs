@@ -16,7 +16,7 @@ third_nav_title: WSQ Certified Modular Programmes
     </tr>
     <tr style="text-align:center;">
       <td style="text-align:center;width:50%;">To be confirmed</td>
-      <td style="text-align:center;width:50%;">2-3 Mar 2022 (Tue-Wed) - 中文 <br>8 - 9 Mar 2022 (Tue-Wed) - Eng </td>
+      <td style="text-align:center;width:50%;">5 - 6 May 2022 (Thu - Fri) - Eng <br> 10 - 11 May 2022 (Tue - Wed) - 中文</td>
     </tr>
 </table></center>
 
@@ -109,7 +109,7 @@ third_nav_title: WSQ Certified Modular Programmes
 <b>For self-sponsored participants:</b>
 <ul>
   <li><a href="/services/consultancy/skillsfuture-credit">SkillsFuture Credit</a></li>
-  <li><a href="/services/consultancy/utap">Union Training Assistance Programme (UTAP)</a></li>
+
   <li><a href="/services/consultancy/wss-individuals">Workfare Skills Support (WSS) Scheme (For Individuals)</a></li>
 </ul>
 
