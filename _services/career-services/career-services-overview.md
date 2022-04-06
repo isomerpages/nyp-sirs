@@ -10,7 +10,7 @@ third_nav_title: Career Services
 
 <p>Individuals can obtain information and advice on matters like the current retail employment situation, job opportunities within specific professional specialisations and alternative job opportunities. We have a team of professional career consultants who will advise and guide potential jobseekers, even plan a training programme and work together to bring these trained jobseekers and potential employers together. SIRS' career guidance is a free service.</p>
 
-<p>SIRS is the appointed programme manager for the following Place-and-Train and Train-and-Place Programmes for the retail industry:</p>
+<p>SIRS is the appointed programme manager for the following Place-and-Train Programmes for the retail industry:</p>
 
 <h4>Place-and-Train Programmes</h4>
 
@@ -35,10 +35,3 @@ third_nav_title: Career Services
 </p>
 
 <a href="/digital-programmes/redeployment-job-redesign-reskilling-pcp" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;" target="_blank">Find Out More</a>
-
-<h4>Train-and-Place Programmes</h4>
-
-<b>SGUnited Skills (SGUS) Programme</b>
-<p>The SGUS Programme, administered by SIRS, is open to all mid-career Singapore Citizens and Singapore Permanent Residents who can commit full-time to this six-month training programme. In addition to enhancing their skills profile for the new digital-driven industry, trainees enjoy close to 100% subsidised course fee and up to $7,200 of training allowance during the programme. SIRS also provides career advisory, guidance, and employment placement assistance at no cost.</p>
-
-<a href="/services/career-services/sgus-programme" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;" target="_blank">Find Out More</a>
