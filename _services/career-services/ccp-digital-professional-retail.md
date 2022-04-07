@@ -24,10 +24,10 @@ Under the CCP-DP (Retail), participants will have to complete the following prog
 <h4>Fact Sheets</h4>
 To view more details, refer to the factsheets below:
 
-<div style="width:50%;float:left;"><center><a href="/files/documents-2021/Services_CCP_DP_Factsheet_Employer_Feb22.pdf" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-
-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">For Employers</a></center></div>
+<div style="width:50%;float:left;"><center><a href="/files/documents-2021/Services_CCP_DP_Factsheet_Applicant_Feb 22.pdf" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-
+block; margin: 4px 2px; cursor:pointer;text-decoration:none;">For Applicants</a></center></div>
 
-<div style="width:50%;float:left;"><center><a href="/files/documents-2021/Services_CCP_DP_Factsheet_Applicant_Feb 22.pdf" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">For Applicants</a></center></div>
+<div style="width:50%;float:left;"><center><a href="/files/documents-2021/Services_CCP_DP_Factsheet_Employer_Feb22.pdf" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">For Company</a></center></div>
 
 <h4>Funding and Support</h4>
 
@@ -74,6 +74,6 @@ block; margin: 4px 2px; cursor:pointer;text-decoration:none;">For Employers</a><
 	</li>
 </ul>
 
-<div style="width:50%;float:left;"><center><a href="https://form.gov.sg/#!/605c28be7cd864001190a8f8" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Register Interest</a></center></div>
+<div style="width:50%;float:left;"><center><a href="https://conversion.mycareersfuture.gov.sg/Portal/ProgramDetails.aspx?ProgID=P00000125" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Applicant Registration</a></center></div>
 
-<div style="width:50%;float:left;"><center><a href="https://form.gov.sg/602f3c1c08dce8001276454a" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center></div>
+<div style="width:50%;float:left;"><center><a href="https://www.form.gov.sg/#!/6189cfb22487c60012d85a93" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Company Registration</a></center></div>
