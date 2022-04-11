@@ -20,7 +20,7 @@ Date:   08-07-2019
   may even include lab-testing for categories such as skincare and beauty, which ensures that approved products are of high reliability and trustworthiness.</p>
 
 <p>However, few brands have taken this route due to the numerous challenges that they present. One of the key prerequisites for the registration of direct importation is 
-  the need for <a href="https://www.dezshira.com/library/qa/which-types-of-licenses-are-required-for-import-and-export-in-china-and-what-is-the-process-of-applying-for-these-licenses-3288.html">a China-registered company or office</a>. For SMEs, this presents a huge barrier-to-entry. Furthermore, the cost of registration per SKU is high, with a long 
+  the need for <a href="https://www.dezshira.com/library/qa/which-types-of-licenses-are-required-for-import-and-export-in-china-and-what-is-the-process-of-applying-for-these-licenses-3288.html">a China-registered company or office</a>. For SMEs, this presents a huge barrier-to-entry. Furthermore, the cost of registration per <a href="https://sell.amazon.com.sg/blog/sku">SKU</a> is high, with a long 
   approval process. With the fast-moving consumer trends in China, this poses a challenge for categories such as skincare, beauty, and fashion. At the same time, brands 
   may also be required to not only redesign their packaging, but also reformulate certain products to comply to local regulations, presenting additional costs in R&D and 
   manufacturing to businesses.</p>
