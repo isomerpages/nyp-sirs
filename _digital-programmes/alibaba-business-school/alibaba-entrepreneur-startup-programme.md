@@ -16,7 +16,7 @@ Open Your Horizons. Apply Proven E-Commerce Strategies</center>
 
 <h4 style="text-align:center;">Next intake:</h4>
 
-<center><p>23-25 & 28-30 Mar 2022 <br>(Wed-Fri, Mon-Wed)</p></center>
+<center><p> 31 Aug- 2 Sep & 5-7 Sep 2022 <br>(Wed-Fri, Mon-Wed)</p></center>
 
 <b>This programme will be conducted in Mandarin.</b>
 
