@@ -14,8 +14,8 @@ third_nav_title: Masterclasses & Workshops
       <th style="text-align:center;width:50%;">Face-to-Face</th>
     </tr>
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">22 & 25 Apr 2022 (Fri & Mon)</td>
-      <td style="text-align:center;width:50%;">26-27 May 2022 (Thu-Fri)</td>
+      <td style="text-align:center;width:50%;">TBC</td>
+      <td style="text-align:center;width:50%;">25-29 Apr 2022 (Mon & Fri)<br>26-27 May 2022 (Thu-Fri)</td>
     </tr>
 </table></center>
 
