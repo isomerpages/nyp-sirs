@@ -2,17 +2,13 @@
 title: Overview
 permalink: /digital-programmes/e-commerce-programmes
 breadcrumb: Overview
-third_nav_title: 'E-Commerce Programmes'
-
+third_nav_title: E-Commerce Programmes
 ---
-
-
 <img src="/images/images-2021/DigitalProgrammes-E-Commerce.png" style="width:100%;">
 
 <p>Starting your own business has never been easier. Technological and digital advancement has given easy access to consumers worldwide, reducing barriers-to-entry for entrepreneurs and companies. Our range of programmes will support you in onboarding major e-commerce and e-marketplace platforms with ease, and impart strategies for digital commerce success. Get started now to expand your customer reach and increase your business revenue.</p>
 
 <ul>
-      <li><a href="/digital-programmes/e-commerce-programmes/singtel-99-sme">99%SME (Onboarding)</a></li>
       <li><a href="/digital-programmes/alibaba-business-school/alibaba-entrepreneur-startup-programme">Alibaba Entrepreneurship Startup Programme</a></li>
       <li><a href="/digital-programmes/alibaba-business-school/alibaba-managerial-elite-programme">Alibaba Managerial Elite Programme</a></li>
       <li><a href="/digital-programmes/e-commerce-programmes/amazon-global-selling-programme">Amazon Global Selling (Onboarding)</a></li>
