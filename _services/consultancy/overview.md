@@ -11,7 +11,6 @@ third_nav_title: Consultancy
 
 <h4>For Companies</h4>
 <ul>
-<li><a href="/services/consultancy/singtel-99sme">99%SME</a></li>
 <li><a href="/services/consultancy/absentee-payroll-ap">Absentee Payroll (AP)</a></li>
 <li><a href="/services/consultancy/etss">Enhanced Training Support for SMEs (ETSS)</a></li>
 <li><a href="/services/consultancy/enhanced-training-support-package-etsp">Enhanced Training Support Package (ETSP) & Enhanced Absentee Payroll (COVID-19)</a></li>
