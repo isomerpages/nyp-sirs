@@ -17,7 +17,7 @@ through the intricacies of selling online. At the end of three months, you will 
 
 <h4>Outline</h4>
 <ul>
-<li>Set up your online store on 99%SME, Lazada, Qoo10 or Shopee and start selling on the platform of your choice</li>
+<li>Set up your online store on Lazada, Qoo10 or Shopee and start selling on the platform of your choice</li>
 <li>Receive customised consulting in designing a business process and Standard Operating Procedures (SOP) for your online business. Plan out SOP on fulfilling orders, 
 answering customers enquiries and aligning business practices to support online sales</li>
 <li>Discover what product catalogue management is - learn to curate products that can be effectively sold online, review and refine product selection over time</li>
