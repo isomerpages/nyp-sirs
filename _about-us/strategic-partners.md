@@ -1,18 +1,11 @@
 ---
-title: 'Strategic Partners'
+title: Strategic Partners
 permalink: /about-us/our-partners
-breadcrumb: 'Strategic Partners'
-
+breadcrumb: Strategic Partners
 ---
-
-<img src="/images/images-2021/AboutUs_SIRS_StrategicPartners.png" style="width:100%;">
+<img src="/images/images-2021/AboutUs_SIRS_StrategicPartners2022.png" style="width:100%;">
 
 <p>SIRS works with market leaders to develop cutting edge solutions and training programmes to help you reinvent your business and compete in new markets, gain new channels and develop skilled human capital.</p>
-
-<b>99%SME</b>
-<ul>
-<li><a href="/digital-programmes/e-commerce-programmes/singtel-99-sme">99%SME (Onboarding)</a></li>
-</ul>
 
 <b>Alibaba Business School</b>
 <ul>
@@ -38,6 +31,12 @@ breadcrumb: 'Strategic Partners'
 <li><a href="/digital-programmes/e-commerce-programmes/ebay-global-selling">eBay Global Selling (Onboarding)</a></li>
 </ul>
 
+<b>Enterprise Singapore</b>
+<ul>
+<li><a href="/digital-programmes/e-commerce-programmes/best-practices-of-e-commerce-transactions-using-tr76">Best Practices of E-Commerce Transactions ESG TR 76</a></li>
+	<li><a href="/digital-programmes/e-commerce-programmes/mepp">Multichannel E-Commerce Platform (MEP) Programme</a></li>
+</ul>
+
 <b>Lazada</b>
 <ul>
 <li><a href="/digital-programmes/e-commerce-programmes/getting-started-on-lazada">Getting Started on Lazada (Onboarding)</a></li>
@@ -54,6 +53,11 @@ breadcrumb: 'Strategic Partners'
 <ul>
 <li><a href="/digital-programmes/e-commerce-programmes/getting-started-on-shopee">Getting Started on Shopee (Onboarding)</a></li>
 <li><a href="/digital-programmes/e-commerce-programmes/driving-sales-performance-on-shopee">Driving Sales Performance on Shopee (Marketing)</a></li>
+</ul>
+
+<b>Shopmatic</b>
+<ul>
+<li><a href="/digital-programmes/e-commerce-programmes/setup-an-online-business">Set up an Online Business</a></li>
 </ul>
 
 <b>Singapore Media Academy</b>
