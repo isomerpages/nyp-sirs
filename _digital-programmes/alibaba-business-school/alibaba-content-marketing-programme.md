@@ -18,11 +18,11 @@ Holistic Hands-on Content Marketing Techniques</center>
 
 <center><table style="width:80%;">
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;"> 27 June, 4, 12, 13, 18 July 2022</td>
+      <td style="text-align:center;width:50%;"> 27 June, 4, 12, 13, 18 July 2022 (Conducted in English)</td>
     </tr>
 </table></center>
 
-<b>This programme will be conducted in Mandarin.</b>
+<b>This programme will be conducted in English or Mandarin.</b>
 
 <p>SIRS in partnership with Alibaba Business School, the official training arm of Alibaba Group, offers comprehensive and systematic training programmes to meet a full spectrum of learning needs of government groups, entrepreneurs, SMEs, startups, e-commerce practitioners and students.  </p>
 
@@ -30,7 +30,7 @@ Holistic Hands-on Content Marketing Techniques</center>
 
 <p>Upon completion of the programme, participants will receive a certificate jointly awarded by Alibaba Business School and Singapore Institute of Retail Studies. </p>
 
-<b>这课程将由淘宝大学认证讲师以中文授课!</b>
+<b>这课程将由淘宝大学认证讲师以中文或英文授课!</b>
 
 <p>阿里巴巴商学院和新加坡南洋理工学院旗下新加坡零售管理学院合作，为新加坡企业带来一系列攸关电子商务实际操作与技能栽培课程，协助企业拓展核心能力并成功运用电子商务拓展营销与业务。</p>
 
