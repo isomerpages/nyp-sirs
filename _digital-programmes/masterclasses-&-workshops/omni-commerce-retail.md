@@ -14,7 +14,7 @@ third_nav_title: Masterclasses & Workshops
       <th style="text-align:center;width:50%;">Face-to-Face</th>
     </tr>
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">11-13 Apr 2022 (Mon-Wed)<br>12, 13 & 17 May 2022 (Thu, Fri & Tue)<br> 9, 10 & 13 Jun 2022 (Thu-Fri & Mon) </td>
+      <td style="text-align:center;width:50%;">12, 13 & 17 May 2022 (Thu, Fri & Tue)<br> 9, 10 & 13 Jun 2022 (Thu-Fri & Mon) <br> 19-21 Jul 2022 (Tue-Thu)</td>
       <td style="text-align:center;width:50%;">To be confirmed</td>
     </tr>
 </table></center>

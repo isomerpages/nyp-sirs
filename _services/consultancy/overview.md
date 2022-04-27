@@ -36,7 +36,7 @@ third_nav_title: Consultancy
 <table>
   <tr>
     <td>Celeste YL Tan<br>Email: <a href="celeste_yl_tan@sirs.edu.sg">celeste_yl_tan@sirs.edu.sg</a><br>Tel: 6417-3029</td>
-    <td>Low Lee Keng<br>Email: <a href="low_lee_keng@sirs.edu.sg">low_lee_keng@sirs.edu.sg</a><br>Tel: 6417-30217</td>
+    <td>Alvin Chiang<br>Email: <a href="alvin_chiang@sirs.edu.sg">alvin_chiang@sirs.edu.sg</a><br>Tel: 6417-30217</td>
   </tr>
   <tr>
     <td>Lai Jiawen<br>Email: <a href="lai_jiawen@sirs.edu.sg">lai_jiawen@sirs.edu.sg</a><br>Tel: 6417-3012</td>
