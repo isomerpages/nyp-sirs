@@ -4,8 +4,7 @@ permalink: /blog
 breadcrumb: Overview
 third_nav_title: Articles
 ---
-
-<h4>Blog Archive</h4>
+<h4>Articles</h4>
 
 
 
