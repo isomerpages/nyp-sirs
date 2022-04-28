@@ -5,7 +5,7 @@ breadcrumb: Strategic Partners
 ---
 <img src="/images/images-2021/AboutUs_SIRS_StrategicPartners2022.png" style="width:100%;">
 
-<p>SIRS works with market leaders to develop cutting edge solutions and training programmes to help you reinvent your business and compete in new markets, gain new channels and develop skilled human capital.</p>
+<p>SIRS has a significant imperative to support organisations in driving their business growth, digitalisation agendas and talent development. To this end, we work with a stable of leading global and local partners including Amazon, eBay, Lazada, Qoo10 and Shopee to deliver E-Commerce and Digital Marketing solutions, Leadership and Development Programmes, and more.</p>
 
 <b>Alibaba Business School</b>
 <ul>
