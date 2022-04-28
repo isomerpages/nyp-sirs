@@ -7,6 +7,8 @@ third_nav_title: Articles
 ---
 Date:   25-03-2022
 
+[The Straits Times article: 40 courses in new scheme for mid-career workers; aims to help 15K jobseekers a year](https://www.straitstimes.com/singapore/jobs/40-courses-in-new-scheme-for-mid-career-workers-aims-to-help-15k-jobseekers-a-year)
+
 ![The Straits Times MOS Gan Photo SkillsFuture Roadshow TPY Hub 25 March](/images/blog/20220325_roadshow.jpg)
 
 <center><small><i>MOS Gan with SIRS ambassadors at the SkillsFuture Roadshow.<br>Photo extracted from MOS Gan Facebook post 25 March 2022.</br></i></small></center>
