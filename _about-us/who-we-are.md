@@ -13,19 +13,16 @@ Established as the first Continuing Education & Training (CET) Institute in Sing
 
 Much more than just a Training Provider, SIRS works with both individuals and organisations in several key areas that enable them to progress towards significant digital competency and transformation, innovating with the digital revolution and consumer evolution.
 
-As the appointed anchor training provider by SkillsFuture Singapore for the Retail industry, and programme manager of various National Programmes including the Career Conversion Programme (CCP), Work-Study Programme, Redeployment CCP and the SGUnited Skills (SGUS) Programme, our training solutions encompass the critical key areas that are highly demanded in both the Retail and broader industries:
+As the appointed anchor training provider by SkillsFuture Singapore for the Retail industry, and programme manager of various National Programmes including the [Career Conversion Programme (CCP)](https://www.sirs.edu.sg/services/career-services/ccp-overview), [Work-Study Programme](https://www.sirs.edu.sg/services/career-services/skillsfuture-work-study-programmes), [Redeployment CCP](https://www.sirs.edu.sg/digital-programmes/redeployment-job-redesign-reskilling-pcp) and the SGUnited Skills (SGUS) Programme, our training solutions encompass the critical key areas that are highly demanded in both the Retail and broader industries:
 
 * Digital Marketing
 * E-Commerce
-* Customer Experience 
-* Leadership Excellence
-* Business Digital Transformation
-* Brand Management & Strategy
-* Data Intelligence and Analytics
-* Leadership Excellence
-* Business Digital Transformation
-* Brand Management & Strategy
-* Data Intelligence and Analytics
+* Customer Experience
+* Business Leadership & Transformation
+* Business Operations & Management
+* Communication & team Building
+* Personal Development
+
 
 Recognising that every individual and organisation would have different training needs, our programmes: 
 
