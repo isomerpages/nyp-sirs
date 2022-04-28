@@ -2,10 +2,10 @@ collections:
   success-and-articles:
     output: true
     order:
-      - "Articles/The Straits Times: Skills training must evolve to keep
-        workforce resilient.md"
       - Articles/.keep
       - Articles/overview.md
+      - "Articles/The Straits Times: Skills training must evolve to keep
+        workforce resilient.md"
       - "Articles/The Straits Times: Create shopping experiences that stands out
         to draw customers back.md"
       - "Articles/The Straits Times: SkillsFuture Career Transition Programme to
