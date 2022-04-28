@@ -1,5 +1,5 @@
 collections:
-  success-and-blog:
+  success-and-articles:
     output: true
     order:
       - Articles/.keep
