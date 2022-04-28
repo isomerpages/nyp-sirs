@@ -1,10 +1,10 @@
 ---
-title: '5 Trends Shaping the Chinese Consumer Demand'
+title: 5 Trends Shaping the Chinese Consumer Demand
 permalink: /success-and-blog/blog/5-trends-of-chinese-consumers
-breadcrumb: '5 Trends Shaping the Chinese Consumer Demand'
-third_nav_title: Blog
-
+breadcrumb: 5 Trends Shaping the Chinese Consumer Demand
+third_nav_title: Articles
 ---
+
 
 Date:   22-06-2019
 

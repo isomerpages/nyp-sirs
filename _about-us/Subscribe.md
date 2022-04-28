@@ -1,9 +1,10 @@
 ---
-title: 'Mailing List'
+title: Subscribe
 permalink: /subscribe
-breadcrumb: 'Mailing List'
-
+breadcrumb: Mailing List
+description: ""
 ---
+
 
 
 <img src="/images/images-2021/About-MailingList-Amended.jpg" style="width:100%;">

@@ -1,13 +1,12 @@
 ---
-title: 'The Consumer Journey - What is it, and why is it important to me?'
+title: The Consumer Journey - What is it, and why is it important to me?
 permalink: /success-and-blog/blog/The-Consumer-Journey-What-is-it-and-why-is-it-important-to-me
-breadcrumb: 'The Consumer Journey - What is it, and why is it important to me?'
-third_nav_title: Blog
-
+breadcrumb: The Consumer Journey - What is it, and why is it important to me?
+third_nav_title: Articles
 ---
 
 Date:   02-06-2019
-<img src="/images/blog/Consumer-Journey-Map.jpg" alt-text="consumer image map" style="width:80%;max-width:1000px;">
+![consumer image map](/images/blog/Consumer-Journey-Map.jpg)
 
 <p>Think about the last time you bought a new product - was it a cosmetic product that you saw on an advertisement, or perhaps it was bubble tea from the first outlet of the hottest Taiwanese bubble tea chain. Whichever the product you have purchased, or service that you have utilised, you have subconsciously gone through the consumer journey.
 
@@ -48,7 +47,7 @@ Date:   02-06-2019
 <p>Assuming you have already done your research, but you still have burning questions that aren't answered. Social and digital avenues such as Facebook, Twitter, or even your brand's website, have made it easier than before for brands to connect directly with consumers. This removes the need for consumers to have their questions answered through a proxy (such as a distributor of the brand), and allows the chance for brands to interact with their consumers more intimately, and vice versa. The close interaction with the consumers would now also allow brands the opportunity to create and maintain brand loyalty, ensuring a lasting relationship between the brand and the consumer.
 
 <h3>Phase 4: Purchase</h3>
-<p>Now that all questions that the consumer has have been answered, the purchase experience has to remain equally seamless to prevent a break in the consumer journey. The purchase phase is simply the stage where the consumer decides to make the purchase, whether it is through a brick-and-mortar store, an online e-commerce store, or more recently through social selling platforms such as Carousell or Shopee.
+<p>Now that all questions that the consumer has have been answered, the purchase experience has to remain equally seamless to prevent a break in the consumer journey. The purchase phase is simply the stage where the consumer decides to make the purchase, whether it is through a brick-and-mortar store, an online <a href="https://sell.amazon.com.sg/blog/e-commerce">e-commerce</a> store, or more recently through social selling platforms such as Carousell or Shopee.
 
 <h3>Phase 5: Delivery</h3>
 <p>Upon the completion of the transaction, the next phase in the consumer journey is the delivery phase. In a brick-and-mortar setup, this is simply the process of handing over the goods over to the customer, while simultaneously engaging the consumer through encouraging the signup for a loyalty or membership programme. On a marketplace, this could mean the delivery experience by a third party logistics provider such a Qxpress or NinjaVan, from the availability of delivery tracking, to the actual delivery experience at your front door. And often, this is the phase that is the most challenging for businesses that are moving online due to the lack of control over their third-party vendors.

@@ -7,18 +7,45 @@ breadcrumb: Who We Are
 
 <img src="/images/images-2021/AboutUs_SIRS-NYP Combined Logos.png" style="width:70%;">
 
-<p>The Singapore Institute of Retail Studies (SIRS) is a Continuing Education & Training (CET) institute of Nanyang Polytechnic. Established in January 2006 as the first CET Institute in Singapore, SIRS’ excellent performance and track record has since won the conferment of the National CET Institute status, the pinnacle status for CET centres.</p>
+At Singapore Institute of Retail Studies, our goal is to empower people and organisations to find their greatest, and hidden, potential that will enable them to thrive and succeed in today’s world of accelerated and continual change.
 
-<p>Since April 2016, SkillsFuture Singapore appointed SIRS as the Anchor Provider for the Retail Industry. SIRS is also the Programme Manager for various national programmes, including the Career Conversion Programmes (CCPs), Work-Study Programmes, Redeployment CCP and the SGUnited Skills (SGUS) Programme.</p>
+Established as the first Continuing Education & Training (CET) Institute in Singapore, we are fondly known as SIRS by many of our learners and corporate clients who have fast-forwarded their professional and organisational growth with us over the last 16 years, since 2006.
 
-<p>SIRS provides a quality, market-driven and comprehensive spectrum of Retail programmes and solutions to support and prepare both enterprises and the workforce for the evolving challenges in the marketplace. These programmes include the Workforce Skills Qualifications suite, Executive Programmes, Masterclasses, Workshops, Seminars and Conferences. SIRS also aligns its solutions to the Retail Sectoral Manpower Plan and the Retail Industry Transformation Map to best aid companies in their drive to grow via innovation and internationalisation, improve productivity with technology, and build a future-ready and productive workforce.</p>
+Much more than just a Training Provider, SIRS works with both individuals and organisations in several key areas that enable them to progress towards significant digital competency and transformation, innovating with the digital revolution and consumer evolution.
 
-<p>To lead the Retail industry into digitalisation and e-Commerce, SIRS has established strategic partnerships with notable market leaders, such as Alibaba, Amazon, eBay, Lazada, NETS, Qoo10, SCash, Shopee, 99% SME, Singapore Media Academy (SMA), Singapore Productivity Centre (SGPC) and Cgangs, to co-create a suite of cutting edge digital programmes, helping retailers navigate the changing retail landscape, and execute successful omnichannel strategies.</p>
+As the appointed anchor training provider by SkillsFuture Singapore for the Retail industry, and programme manager of various National Programmes including the Career Conversion Programme (CCP), Work-Study Programme, Redeployment CCP and the SGUnited Skills (SGUS) Programme, our training solutions encompass the critical key areas that are highly demanded in both the Retail and broader industries:
 
-<p>SIRS also works closely with e-Commerce aggregators under the Enterprise Singapore’s Multichannel E-commerce Platform (MEP) Programme as the designated training partner to develop and deliver quality training to Small and Medium Enterprises (SMEs) who are keen to kick-start their cross-border online businesses. To promote lifelong learning and upskilling, SIRS, in collaboration with the Singapore University of Social Sciences (SUSS), also offers an articulation pathway for graduates of the Work-Study Post-Diploma - WSQ Specialist Diploma (Operations) with advanced standing.</p>
+* Digital Marketing
+* E-Commerce
+* Customer Experience 
+* Leadership Excellence
+* Business Digital Transformation
+* Brand Management & Strategy
+* Data Intelligence and Analytics
+* Leadership Excellence
+* Business Digital Transformation
+* Brand Management & Strategy
+* Data Intelligence and Analytics
+
+Recognising that every individual and organisation would have different training needs, our programmes: 
+
+* cover a broad Training spectrum that is also customisable to specific organisational training needs
+* include Total Learning Solutions that encompass both training and consultancy that guide businesses to develop the most critical digital skills and transformation
+* extend career advisory and placement assistance to individual learners
+* encompass training schedules that accommodate personal and professional flexibility
+
+[Get in touch](https://www.sirs.edu.sg/contact-us) with us for any questions or assistance you may need on our Programmes and your Training needs. 
+
+As a key proponent of the extensive value of continuing education and learning, especially in our world today of unceasing & accelerated change and evolution, our Trainers are carefully curated to include industry practitioners who are not just of the highest calibre in their field of expertise, but also in tuned with the most current global and local trends across a broad spectrum of knowledge and know-how.  
+
+Submit your Training Registration and we will get back to you to discuss your registration and related information.
+
+If you require assistance immediately, please contact:
+* Individual Training: [courses@sirs.edu.sg](mailto:courses@sirs.edu.sg) or call 6222 7477
+* Business Training: [upskill@sirs.edu.sg ](mailto:upskill@sirs.edu.sg )
 
 <h4>Achievements</h4>
-<p>As a leader in retail training with more than 15 years of experience, SIRS has trained more than 170,000 retail professionals and job seekers. With a proven track record, SIRS has become a trusted partner and educator for many companies. We are an enabler and aggregator of solutions that help enterprises improve business performance through training, consultancy, applied research, study missions and placement services - all at one stop.</p>
+<p>As a leader in retail training with more than 16 years of experience, SIRS has trained more than 200,000 retail professionals and job seekers. With a proven track record, SIRS has become a trusted partner and educator for many companies. We are an enabler and aggregator of solutions that help enterprises improve business performance through training, consultancy, applied research, study missions and placement services - all at one stop.</p>
 
 <p>We count among our clientele a wide range of enterprises comprising MNCs and SMEs. Some of our long time partners include Aldo, Amore Pacific, AsiaMalls, BHG, CapitaLand, Changi Airport Group, Charles and Keith, Club 21, Courts, Dairy Farm Singapore, Eu Yan Sang, Full House Home Furnishing, H&M, Koufu, L'Oreal, Pet Lovers Centre, Robinsons, Starhub, Sentosa Development Corporation, Sephora, Shangri La Group, Shell, Sheng Siong, Shilla, Singapore Petroleum Company, Singtel, Sony Electronics Singapore, Takashimaya and many more.</p>
  

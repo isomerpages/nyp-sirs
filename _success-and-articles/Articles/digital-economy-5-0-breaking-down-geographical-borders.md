@@ -1,10 +1,10 @@
 ---
-title: 'Digital Economy 5.0 — Breaking Down Geographical Borders'
+title: Digital Economy 5.0 — Breaking Down Geographical Borders
 permalink: /success-and-blog/blog/digital-economy-5-0
-breadcrumb: 'Digital Economy 5.0 — Breaking Down Geographical Borders'
-third_nav_title: Blog
-
+breadcrumb: Digital Economy 5.0 — Breaking Down Geographical Borders
+third_nav_title: Articles
 ---
+
 
 Date:   22-05-2019
 <img src="/images/images-2021/Blog_2019BreakingDownBorders.jpeg" style="width:80%;max-width:1000px;">

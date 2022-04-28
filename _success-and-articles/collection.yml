@@ -1,0 +1,37 @@
+collections:
+  success-and-articles:
+    output: true
+    order:
+      - Articles/.keep
+      - Articles/overview.md
+      - "Articles/The Straits Times: Skills training must evolve to keep
+        workforce resilient.md"
+      - "Articles/The Straits Times: Create shopping experiences that stands out
+        to draw customers back.md"
+      - "Articles/The Straits Times: SkillsFuture Career Transition Programme to
+        help mid career workers.md"
+      - Articles/your-retail-career-pathway.md
+      - Articles/understanding-the-top-3-consumer-categories-for-e-commerce-in-china.md
+      - Articles/3-methods-to-enter-the-chinese-market.md
+      - Articles/5-trends-shaping-the-chinese-consumer-demand.md
+      - Articles/walking-into-digital-transformation-the-journey-of-brands.md
+      - Articles/the-consumer-journey-what-is-it-and-why-is-it-important-to-me.md
+      - Articles/an-immersive-new-retail-experience-with-alibaba-ceo-programme.md
+      - Articles/digital-economy-5-0-breaking-down-geographical-borders.md
+      - Articles/enhancing-learning-through-immersive-china-study-tours.md
+      - Articles/how-to-s-hook-your-customers-through-live-streaming.md
+      - Articles/endless-opportunities-online-how-to-make-money-from-shopping.md
+      - success-stories/.keep
+      - success-stories/overview.md
+      - success-stories/activhealth.md
+      - success-stories/best-denki.md
+      - success-stories/bhg-singapore.md
+      - success-stories/d-elegance.md
+      - success-stories/fruit-paradise.md
+      - success-stories/fullhouse-home-furnishings.md
+      - success-stories/greenenlight.md
+      - success-stories/merlin-goldsmith.md
+      - success-stories/mighty-velo.md
+      - success-stories/unidbox-hardware.md
+      - success-stories/vincitore-shoes.md
+      - success-stories/yes-natural.md

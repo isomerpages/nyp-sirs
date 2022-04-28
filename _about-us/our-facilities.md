@@ -27,8 +27,6 @@ explores VM solutions, and experiment with integrated technologies.</p>
 practical technologies. Through our training, we educate retailers and assist them in the adaptation and implementation of these solutions to improve 
 business performance and enhance capability building.</p>
 
-<img src="/images/images-2021/About-Facilities-RICE1.png" style="width:70%;">
-
 <img src="/images/images-2021/About-Facilities-RICE2.png" style="width:70%;">
 
 <img src="/images/images-2021/About-Facilities-RICE3.png" style="width:70%;">

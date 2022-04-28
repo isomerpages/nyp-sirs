@@ -1,10 +1,10 @@
 ---
-title: 'Understanding the Top 3 Consumer Categories for E-Commerce in China'
+title: Understanding the Top 3 Consumer Categories for E-Commerce in China
 permalink: /success-and-blog/blog/understanding-the-top-3-consumer-categories-for-e-commerce-in-china
-breadcrumb: 'Understanding the Top 3 Consumer Categories for E-Commerce in China'
-third_nav_title: Blog
-
+breadcrumb: Understanding the Top 3 Consumer Categories for E-Commerce in China
+third_nav_title: Articles
 ---
+
 
 Date:   29-07-2019
 
