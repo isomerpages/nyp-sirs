@@ -2,6 +2,7 @@ collections:
   success-and-articles:
     output: true
     order:
+      - Articles/ST 40 courses in new scheme for mid career workers.md
       - Articles/.keep
       - Articles/overview.md
       - Articles/your-retail-career-pathway.md
