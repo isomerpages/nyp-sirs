@@ -6,7 +6,8 @@ third_nav_title: Articles
 ---
 Date:   28-04-2022
 
-# Skills training must improve on 4 fronts for S’pore workforce to stay competitive: Chan Chun Sing
+<h4>Skills training must improve on 4 fronts for S’pore workforce to stay competitive: Chan Chun Sing</h4>
+
 *Click [here](https://www.straitstimes.com/singapore/parenting-education/skills-training-must-improve-on-4-fronts-for-spore-workforce-to-stay-competitive-chan-chun-sing) to read the full story from The Straits Times*
 
 ![Image of The Straits Times newspaper article on Chan Chun Sing at Workplace Learning Conference](/images/blog/20220428_news.png)
