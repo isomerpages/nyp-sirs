@@ -7,7 +7,8 @@ third_nav_title: Articles
 ---
 Date:   14-04-2022
 
-# Forum: Create shopping experiences that stands out to draw customers back
+<h4>Forum: Create shopping experiences that stands out to draw customers back</h4>
+
 *Click [here](https://www.straitstimes.com/opinion/forum/forum-create-shopping-experiences-that-stand-out-to-draw-customers-back) to read the full story from The Straits Times*
 
 ![Create shopping experiences that stands out to draw customers back to retail malls](/images/blog/20220414_mall.jpg)
