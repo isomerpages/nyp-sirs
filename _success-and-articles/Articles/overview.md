@@ -6,7 +6,20 @@ third_nav_title: Articles
 ---
 <h4>Articles</h4>
 
-
+* The Straits Times: Skills training must evolve to keep workforce resilient
+* The Straits Times: Create shopping experiences that stands out to draw customers back
+* The Straits Times: SkillsFuture Career Transition Programme to help mid-career workers 
+* Your Retail Career Pathway
+* Understanding the Top 3 Consumer Categories for E-Commerce in China
+* 3 Methods to Enter the Chinese Market
+* 5 Trends Shaping the Chinese Consumer Demand
+* Walking into Digital Transformation - The Journey of Brands
+* The Consumer Journey - What is it, and why is it important to me?
+* An Immersive New Retail Experience with Alibaba CEO Programme
+* Digital Economy 5.0 — Breaking Down Geographical Borders
+* Enhancing Learning through Immersive China Study Tours
+* How to ’S-hook’ your customers through live-streaming?
+* Endless Opportunities Online — How to make money from shopping?
 
 <ul>
     <li><a href="/success-and-blog/blog/your-retail-career-pathway">Your Retail Career Pathway</a></li>  
