@@ -41,8 +41,8 @@ As a key proponent of the extensive value of continuing education and learning, 
 Submit your Training Registration and we will get back to you to discuss your registration and related information.
 
 If you require assistance immediately, please contact:
-* Individual Training: [courses@sirs.edu.sg](courses@sirs.edu.sg) or call 6222 7477
-* Business Training: [upskill@sirs.edu.sg ](upskill@sirs.edu.sg )
+* Individual Training: [courses@sirs.edu.sg](mailto:courses@sirs.edu.sg) or call 6222 7477
+* Business Training: [upskill@sirs.edu.sg ](mailto:upskill@sirs.edu.sg )
 
 <h4>Achievements</h4>
 <p>As a leader in retail training with more than 16 years of experience, SIRS has trained more than 200,000 retail professionals and job seekers. With a proven track record, SIRS has become a trusted partner and educator for many companies. We are an enabler and aggregator of solutions that help enterprises improve business performance through training, consultancy, applied research, study missions and placement services - all at one stop.</p>
