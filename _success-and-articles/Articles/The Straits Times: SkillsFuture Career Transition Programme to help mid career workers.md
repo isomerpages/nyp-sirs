@@ -7,7 +7,7 @@ third_nav_title: Articles
 ---
 Date:   25-03-2022
 
-# 40 courses in new scheme for mid-career workers; aims to help 15K jobseekers a year 
+## 40 courses in new scheme for mid-career workers; aims to help 15K jobseekers a year 
 *Click [here](https://www.straitstimes.com/singapore/jobs/40-courses-in-new-scheme-for-mid-career-workers-aims-to-help-15k-jobseekers-a-year) to read the full story from The Straits Times*
 
 ![The Straits Times MOS Gan Photo SkillsFuture Roadshow TPY Hub 25 March](/images/blog/20220325_roadshow.jpg)
