@@ -2,7 +2,8 @@ collections:
   success-and-articles:
     output: true
     order:
-      - "Articles/The Straits Times: SkillsFuture Career Transition Programme.md"
+      - "Articles/The Straits Times: 40 courses in new scheme for mid career
+        workers.md"
       - Articles/.keep
       - Articles/overview.md
       - Articles/your-retail-career-pathway.md
