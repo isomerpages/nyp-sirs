@@ -2,6 +2,8 @@ collections:
   success-and-articles:
     output: true
     order:
+      - "Articles/The Straits Times: Create shopping experiences that stands out
+        to draw customers back.md"
       - Articles/.keep
       - Articles/overview.md
       - "Articles/The Straits Times: SkillsFuture Career Transition Programme to
