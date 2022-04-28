@@ -1,13 +1,11 @@
 ---
-title: 'The Consumer Journey - What is it, and why is it important to me?'
+title: The Consumer Journey - What is it, and why is it important to me?
 permalink: /success-and-blog/blog/The-Consumer-Journey-What-is-it-and-why-is-it-important-to-me
-breadcrumb: 'The Consumer Journey - What is it, and why is it important to me?'
+breadcrumb: The Consumer Journey - What is it, and why is it important to me?
 third_nav_title: Blog
-
 ---
-
 Date:   02-06-2019
-<img src="/images/blog/Consumer-Journey-Map.jpg" alt-text="consumer image map" style="width:80%;max-width:1000px;">
+![consumer image map](/images/blog/Consumer-Journey-Map.jpg)
 
 <p>Think about the last time you bought a new product - was it a cosmetic product that you saw on an advertisement, or perhaps it was bubble tea from the first outlet of the hottest Taiwanese bubble tea chain. Whichever the product you have purchased, or service that you have utilised, you have subconsciously gone through the consumer journey.
 
