@@ -34,7 +34,7 @@ Recognising that every individual and organisation would have different training
 * extend career advisory and placement assistance to individual learners
 * encompass training schedules that accommodate personal and professional flexibility
 
-Get in touch with us for any questions or assistance you may need on our Programmes and your Training needs. 
+[Get in touch](https://www.sirs.edu.sg/contact-us) with us for any questions or assistance you may need on our Programmes and your Training needs. 
 
 As a key proponent of the extensive value of continuing education and learning, especially in our world today of unceasing & accelerated change and evolution, our Trainers are carefully curated to include industry practitioners who are not just of the highest calibre in their field of expertise, but also in tuned with the most current global and local trends across a broad spectrum of knowledge and know-how.  
 
