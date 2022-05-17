@@ -2,6 +2,8 @@ collections:
   success-and-articles:
     output: true
     order:
+      - Articles/CASE and SIRS signed MOU for a new CaseTrust accreditation
+        scheme for online retailers.md
       - Articles/.keep
       - Articles/overview.md
       - "Articles/The Straits Times: Skills training must evolve to keep
