@@ -6,6 +6,7 @@ third_nav_title: Articles
 ---
 <h4>Articles</h4>
 
+* [CASE and SIRS signed MOU for a new CaseTrust accreditation scheme for online retailers](/success-and-articles/articles/mou-case)
 * [The Straits Times: Skills training must evolve to keep workforce resilient](/success-and-articles/Articles/st-workplacelearning)
 * [The Straits Times: Create shopping experiences that stands out to draw customers back](/success-and-articles/Articles/st-shopping-experiences)
 * [The Straits Times: SkillsFuture Career Transition Programme to help mid-career workers ](/success-and-articles/Articles/st-sctp)
