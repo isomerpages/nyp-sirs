@@ -8,7 +8,9 @@ third_nav_title: Articles
 ---
 Date: 29-04-2022
 
-CASE and SIRS signed MOU for a new CaseTrust accreditation scheme for online retailers
+<h4>CASE and SIRS signed MOU for a new CaseTrust accreditation scheme for online retailers</h4>
+
+
 
 The Consumers Association of Singapore (CASE) and NYP-SIRS signed a MOU on 29 Apr for the development of a new CaseTrust accreditation scheme for e-businesses.  The scheme, which will be launched in the second half of 2022, will help customers find reliable online merchants. It will cover the entire range of e-commerce practices from pre-sales to post-sales and address common consumer pain points when shopping online.
 
@@ -16,6 +18,4 @@ Both parties will jointly develop the scheme for e-businesses and its correspond
 
 NYP-SIRS will assist to develop a one-day workshop to give e-businesses an overview of what the accreditation scheme entails and the corresponding assessment criteria. It will also curate a one-on-one mentorship programme for e-businesses to help them identify and address gaps in the consumer experience they are offering online, before guiding them through the accreditation application process.
 
-For more: CNA Online, ZB, ZB Online, SMDN, ZB Online, Berita Mediacorp 
-
-
+For more: [CNA Online](https://www.channelnewsasia.com/singapore/case-nanyang-polytechnic-mou-e-commerce-accreditation-2654961),[ Lianhe Zaobao](https://media.truescope.com/20220429085321_7edf93e0-8779-4ebb-bd14-8237d0220aa3.pdf), [Zaobao Online](https://www.zaobao.com.sg/realtime/singapore/story20220429-1267626), [Shin Min Daily News](https://media.truescope.com/20220430091751_9bc60e42-cb35-43ff-bfc8-063198b065c1.pdf), [Berita Mediacorp](https://berita.mediacorp.sg/singapura/case-nyp-sirs-meterai-mou-tubuh-skim-baru-tauliah-e-niaga-656186)
