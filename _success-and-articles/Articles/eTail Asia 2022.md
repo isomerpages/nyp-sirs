@@ -16,7 +16,7 @@ Futuristic retail topics are hot on the agenda at [eTail Asia 2022](https://etai
 
 This annual must-not-miss event aims to share new industry innovations, provide tips to help businesses increase their profits, and help professionals develop new connections within the retail industry. [Download the early agenda](https://etailasia.wbresearch.com/agenda-mc?utm_source=SIRS&utm_medium=Media%20Partner&utm_campaign=21897.010%20-%20SIRS%20event%20listing&utm_term=&utm_content=&disc=&extTreatId=7560571) and discover a riveting lineup of interactive panels, case studies, fireside chats, all-star panels, shark tanks and VIP networking functions. Get ready for an awesome time, guaranteed.
 
-[**Book now and get an exclusive 15% off!***](https://etailasia.wbresearch.com/srspricing?utm_source=SIRS&utm_medium=Media%20Partner&utm_campaign=21897.010%20-%20SIRS%20event%20listing&utm_term=&utm_content=&disc=SIRS15off&extTreatId=7560572)
+**[Book now and get an exclusive 15% off!](https://etailasia.wbresearch.com/srspricing?utm_source=SIRS&utm_medium=Media%20Partner&utm_campaign=21897.010%20-%20SIRS%20event%20listing&utm_term=&utm_content=&disc=SIRS15off&extTreatId=7560572)***
 <br>*(Quote 'SIRS15off' at checkout to redeem, discount applies to primary tickets only)*</br>
 
 
@@ -55,5 +55,3 @@ eTail Asia Summit 2022, Main Conference Day 2, Track A: Main Conference Session,
 
 **Sponsoring & Partnership:**
 <br>There are a limited number of opportunities left to exhibit at eTail Asia 2022, for more information on sponsorship and media partnerships, please contact [sgwbrinfo@wbresearch.com](mailto:sgwbrinfo@wbresearch.com).</br>
-
-
