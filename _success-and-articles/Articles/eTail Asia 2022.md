@@ -41,7 +41,7 @@ This annual must-not-miss event aims to share new industry innovations, provide 
 <br>eTail Asia Summit 2022, Main Conference Day 2, 10.00am
 
 **Isabel Kum**, SIRS Lecturer will be a panelist for the session: ***It's now or never; The marketplace imperative - With 91% of consumers starting their shopping journey on a marketplace, how can you unlock the full growth potential of marketplaces?***
-eTail Asia Summit 2022, Main Conference Day 2, Track A: Main Conference Session, 3.30pm.
+<br>eTail Asia Summit 2022, Main Conference Day 2, Track A: Main Conference Session, 3.30pm.
 
 
 **Key Challenges & Themes That Will be Discussed:**
