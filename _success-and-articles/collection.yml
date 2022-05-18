@@ -2,6 +2,7 @@ collections:
   success-and-articles:
     output: true
     order:
+      - Articles/eTail Asia 2022.md
       - Articles/.keep
       - Articles/overview.md
       - Articles/CASE and SIRS signed MOU for a new CaseTrust accreditation
