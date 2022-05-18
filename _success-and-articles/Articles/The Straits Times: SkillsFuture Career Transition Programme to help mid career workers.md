@@ -13,7 +13,7 @@ Date:   25-03-2022
 
 ![The Straits Times MOS Gan Photo SkillsFuture Roadshow TPY Hub 25 March](/images/blog/20220325_roadshow.jpg)
 
-<center><small><i>MOS Gan with SIRS ambassadors at the SkillsFuture Roadshow.<br>Photo extracted from MOS Gan Facebook post 25 March 2022.</br></i></small></center>
+<center><small><i>MOS Gan with SIRS ambassadors at the SkillsFuture Roadshow.<br>Photo extracted from MOS Gan Facebook post 25 March 2022.</i></small></center>
 
 With rapid advances in technology and industry and economic changes, it is crucial to embrace lifelong learning to stay competitive. Updating your skills can help advance your career and allows you to remain employable in the changing job market. 
 
