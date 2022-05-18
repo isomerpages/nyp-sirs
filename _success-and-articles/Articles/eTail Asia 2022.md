@@ -54,4 +54,4 @@ eTail Asia Summit 2022, Main Conference Day 2, Track A: Main Conference Session,
 **[Get the full agenda](https://etailasia.wbresearch.com/agenda-mc?utm_source=SIRS&utm_medium=Media%20Partner&utm_campaign=21897.010%20-%20SIRS%20event%20listing&utm_term=&utm_content=&disc=&extTreatId=7560571) to discover the most interactive conference, ever!**
 
 **Sponsoring & Partnership:**
-<br>There are a limited number of opportunities left to exhibit at eTail Asia 2022, for more information on sponsorship and media partnerships, please contact [sgwbrinfo@wbresearch.com](mailto:sgwbrinfo@wbresearch.com).</br>
+<br>There are a limited number of opportunities left to exhibit at eTail Asia 2022, for more information on sponsorship and media partnerships, please contact [sgwbrinfo@wbresearch.com](mailto:sgwbrinfo@wbresearch.com).
