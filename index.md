@@ -6,6 +6,19 @@ sections:
   - hero:
       background: /images/images-2021/Homepage_Banner2.png
   - infopic:
+      title: eTail Asia 2022
+      description: Futuristic retail topics are hot on the agenda at eTail Asia 2022.
+        Get the inside scoop from the industry's very best as eTail Asia brings
+        together 70+ speakers, 300+ attendees and 10+ hours of networking from
+        the top international and home-grown retailers and eCommerce brands in
+        Asia. Learn about new industry innovations, gain tips on how businesses
+        can increase their profits, and develop new connections within the
+        retail industry.
+      button: more about the event
+      url: success-and-articles/articles/etailasia2022
+      image: /images/eTail Asia 2022 Event Listing Banner.png
+      alt: Image alt text
+  - infopic:
       title: SIRS-Alibaba Content Marketing Programme
       description: Acquire practical skills and in-depth knowledge in optimising your
         content marketing strategy, running successful live streams, and
