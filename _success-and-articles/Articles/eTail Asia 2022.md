@@ -35,7 +35,7 @@ This annual must-not-miss event aims to share new industry innovations, provide 
 * Juliana Chu, Vice President of Digital & eCommerce, Asia Pacific, **Shiseido**
 * Nidhi Prakash, Global Director, Digital Marketing, **Razer Inc.**
 
-SIRS' very own:<br>
+**SIRS' very own:**<br>
 
 **Cindy Koh**, SIRS Senior Lecturer will be moderating the ***Rapid-Fire Panel: Confessions of Rockstar Digital Marketers - Revealing the good, the bad and the ugly in digital marketing.***</br> eTail Asia Summit 2022, Main Conference Day 2, 10.00am
 
