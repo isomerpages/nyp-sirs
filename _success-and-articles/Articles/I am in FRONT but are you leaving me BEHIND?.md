@@ -127,3 +127,5 @@ Training Programmes<sup>^</sup> such as Service Excellence and Service Leadershi
 
 > Mrs Josephine Teo, Manpower Minister: …Equipping the staff with technological skills has helped to change the face of retail jobs… It is no longer just about standing in the store and “just selling things”.<small><sup>15 CNA, Dec 2019</sup></small>
 
+![Illustration from Skillsfuture Retail Sectoral Manpower Plan](/images/blog/Whitepaper_Picture5.png)
+<i><small>@SkillsFuture Retail Sectoral Manpower Plan<sup>14</sup></small></i>
