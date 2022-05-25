@@ -29,7 +29,7 @@ And does answering this call to digitalise spell the end of brick-and-mortar Ret
 
 According to the study and report by Business Times: *“…as Singapore opened up in phases from June 2020…Shopper spending at brick-and-mortar stores resulted in the proportion of online sales falling from above 25 per cent of total retail sales at the peak of the circuit breaker to 12.6 per cent in July.”* <small><sup>2</sup></small>
 	
-<h4>Statistics Singapore February 2022: Key Indicators of Retail Trade<small><sup>3</sup></small></h4>
+<h4>Statistics Singapore February 2022: Key Indicators of Retail Trade<sup>3</sup></h4>
 
 ![Image of key indicators of Retail Trade](/images/blog/Whitepaper_Picture1.png)
 
