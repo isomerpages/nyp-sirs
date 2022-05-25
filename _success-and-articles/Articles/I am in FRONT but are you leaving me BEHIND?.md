@@ -29,4 +29,15 @@ And does answering this call to digitalise spell the end of brick-and-mortar Ret
 
 According to the study and report by Business Times: *“…as Singapore opened up in phases from June 2020…Shopper spending at brick-and-mortar stores resulted in the proportion of online sales falling from above 25 per cent of total retail sales at the peak of the circuit breaker to 12.6 per cent in July.”* <small><i><sup>2 Business Times, 21 April 2021</sup></i></small>
 	
-<h4>Statistics Singapore February 2022: Key Indicators of Retail Trade</h4>
+<h4>Statistics Singapore February 2022: Key Indicators of Retail Trade<small><sup>3</sup></small></h4>
+
+![Image of key indicators of Retail Trade](/images/blog/Whitepaper_Picture1.png)
+
+While taking the business online is, without a doubt, a necessary and critical growth channel for Retailers in the digital age, the numbers clearly show that physical stores are still very well entrenched in the shopping habits of Singapore consumers -  physical store sales are still capturing well over 80% of Total Sales as at February 2022, cutting across the broad spectrum of Retail categories.
+
+<h4>New Retail: The Future</h4>
+
+Even as the Retail industry is now hurtling into the digital age, ready or not, many challenges seem to remain ahead of it. How well they are surmounted remains as an outcome of how well Retailers are able and willing to identify, leverage and drive their businesses through the key value pillars of the “New Retail” <small><i><sup>4</sup></i></small>, a term coined by Jack Ma, Alibaba in 2016 who envisioned *“combining online, offline, logistics and data across a single value chain to give consumers more personalised shopping experiences”.*
+
+
+
