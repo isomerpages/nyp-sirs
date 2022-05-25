@@ -65,7 +65,7 @@ In the US, it is reported that *“Many companies, large and small, are struggli
 
 The values of Retail frontliners around the “Work Experience” have changed as they seek to gain a firm foothold into the “Future of Work” (FoW) – that requires Retail employers to reimagine the role that Retail frontliners play, and accord them with the support, inclusion and advancement that address their unique challenges, and recognize their unique contributions.
 
-<h4>Retail Frontliners: Why They Leave*</h4>
+<h4>Retail Frontliners: Why They Leave<sup>*</sup></h4>
 
 Across many reports from around the world including in Singapore – and which all Retailers can learn from – the story remains consistently the same on why Retail frontliners are leaving their jobs, or at the very least weighed down by heavy pessimism about their roles and their futures:
 
@@ -126,5 +126,4 @@ Externally, formal training plays a critical role in not only providing Retail f
 Training Programmes<sup>^</sup> such as Service Excellence and Service Leadership are but some of the most useful and relevant courses that let Retail frontliners take stock of and reflect on their service attitudes and dispositions, while upgrading themselves to the ever-evolving Retail landscape and escalating customer expectations, ultimately value-adding to the business growth.
 
 > Mrs Josephine Teo, Manpower Minister: …Equipping the staff with technological skills has helped to change the face of retail jobs… It is no longer just about standing in the store and “just selling things”.<small><sup>15 CNA, Dec 2019</sup></small>
-
 
