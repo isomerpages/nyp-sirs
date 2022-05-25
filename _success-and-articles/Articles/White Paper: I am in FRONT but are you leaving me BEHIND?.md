@@ -101,7 +101,7 @@ A failure to recognize this critical impact that frontliners have on the busines
 	
 ![Image of an unhappy customer and an apologetic staff](/images/blog/Whitepaper_Picture3.png)
 
-<center><a href="/files/documents-2021/ETAIL2022_WHITEPAPER_FINAL_25MAY22.pdf" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 50px 50px; cursor:pointer;text-decoration:none;">View or Download as PDF </a></center>
+<center><a href="/files/documents-2021/ETAIL2022_WHITEPAPER_FINAL_25MAY22.pdf" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 40px 40px; cursor:pointer;text-decoration:none;">View or Download as PDF </a></center>
 
 <h4>Retail Frontliners: Don’t Leave Them Behind</h4>
 
