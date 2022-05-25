@@ -23,12 +23,11 @@ Among these was the hugely accelerated digitalisation of businesses on many fron
 
 However, almost by default, the Covid-19 pandemic has also been attributed with many of the ills facing the Retail industry today: but is the pandemic really the root cause, or has it in reality given the resounding wake-up call that the Retail industry has probably long needed?
 
-> …digitalisation was never a first priority for many traditional retailers. Covid-19 threw a harsh spotlight on the importance of integrating digital sales avenues into retail operations, and creating multiple points of sale...<small><i><sup>2 Business Times, 21 April 2021</sup></i></small>
+> …digitalisation was never a first priority for many traditional retailers. Covid-19 threw a harsh spotlight on the importance of integrating digital sales avenues into retail operations, and creating multiple points of sale...
+> <small><i><sup>2 Business Times, 21 April 2021</sup></i></small>
 	
 And does answering this call to digitalise spell the end of brick-and-mortar Retail – and for Retail frontline workers – as we know it? 
 
 According to the study and report by Business Times: *“…as Singapore opened up in phases from June 2020…Shopper spending at brick-and-mortar stores resulted in the proportion of online sales falling from above 25 per cent of total retail sales at the peak of the circuit breaker to 12.6 per cent in July.”* <small><i><sup>2 Business Times, 21 April 2021</sup></i></small>
 	
 <h4>Statistics Singapore February 2022: Key Indicators of Retail Trade</h4>
-	
-
