@@ -142,7 +142,7 @@ As the “next normal” continues to take shape for businesses, customer expect
 
 But it is clear that the imperative is to create a seamless Omnichannel<sup>^</sup> strategy that focuses on the Customer Experience<sup>^</sup>, and shaping the way forward with agility and innovation.
 
-> …physical stores remain a very important platform for major brands, allowing shoppers to experience the brands in a multi-dimensional platform and building brand equity and loyalty along the way. .<small><sup>9 Business Times, 31 March 2022</sup></small>
+> …physical stores remain a very important platform for major brands, allowing shoppers to experience the brands in a multi-dimensional platform and building brand equity and loyalty along the way. .<small><sup>17 Business Times, 31 March 2022</sup></small>
 
 To that end, Retailers need to reimagine the Retail experience, and to reimagine the role of physical stores and their Retail frontliners if they are to navigate the future of Retail successfully. They need to move past the traditional view that physical stores are primarily for in-store customer engagement, but instead reformulate and integrate the physical and online Customer Experience and:
 
