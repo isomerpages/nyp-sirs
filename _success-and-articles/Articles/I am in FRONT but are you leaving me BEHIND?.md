@@ -100,3 +100,31 @@ A failure to recognize this critical impact that frontliners have on the busines
 <center><h5>ONE Unhappy Customer<br>=<br>MANY Unhappy Customers</h5></center>
 	
 ![Image of an unhappy customer and an apologetic staff](/images/blog/Whitepaper_Picture3.png)
+
+<h4>Retail Frontliners: Don’t Leave Them Behind</h4>
+
+In the face of the challenges to hire and retain frontliners, Retail businesses have an urgent imperative first and foremost to acknowledge, and to address the plethora of challenges that frontliners face – and not leave them behind from the broader organization’s human resourcing and talent management initiatives.  
+
+> ….retail staff selling or cashiering, or both, can be trained in other retail functions like visual merchandising<sup>^</sup>, e-commerce<sup>^</sup> fulfilling and delivery, as well as marketing<sup>^</sup> and promotions.<small><sup>7</sup></small> 
+
+There are various employee recruitment and retention strategies that businesses employ, but referencing the challenges unique to Retail frontliners* the world over, including in Singapore, leads to some key areas that require particular attention, and which can potentially help to drive and sustain the motivation of Retail frontline workers and the value they bring – and ultimately benefiting the Retail businesses: 
+
+![Circle diagrams on training, career development, digital enablement and connection & communication](/images/blog/Whitepaper_Picture4.png)
+
+<h4>Retailers: Is Your Workforce Future-Ready?</h4>
+
+In the rapidly evolving digital age of fast-emerging technologies that leaves no industry un-impacted, and customer expectations palpably changing and rising, Retailers must be armoured with future-readiness. 
+
+What does this entail? In an industry that is highly labour-intensive (80% of workers are in Rank and File jobs and 79% in Front of-House operations<small><sup>14</sup></small>), building a deep-skilled pool of talents that is enabled to support business sustainability and accelerating growth opportunities is vital to the continual success of Retail businesses. 
+
+Inspiring, motivating and developing Retail frontliners – who play a key role in the “New Retail” Omnichannel Brick-and-Click customer experience – requires both internal and external interventions. 
+
+<h4>Retail Frontliners: Critical in the Retail Omnichannel Brick-and-Click Strategy</h4>
+
+Externally, formal training plays a critical role in not only providing Retail frontliners with a chance to refresh and upgrade their skills for both their current roles and career development opportunities within the organization but can also accord them with a strongly positive sense of being valued by their employers. The outcome can only be beneficial to businesses who understand the importance of taking care of their most important assets – people.
+
+Training Programmes<sup>^</sup> such as Service Excellence and Service Leadership are but some of the most useful and relevant courses that let Retail frontliners take stock of and reflect on their service attitudes and dispositions, while upgrading themselves to the ever-evolving Retail landscape and escalating customer expectations, ultimately value-adding to the business growth.
+
+> Mrs Josephine Teo, Manpower Minister: …Equipping the staff with technological skills has helped to change the face of retail jobs… It is no longer just about standing in the store and “just selling things”.<small><sup>15 CNA, Dec 2019</sup></small>
+
+
