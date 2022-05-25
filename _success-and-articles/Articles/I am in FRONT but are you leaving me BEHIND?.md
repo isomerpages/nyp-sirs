@@ -128,4 +128,28 @@ Training Programmes<sup>^</sup> such as Service Excellence and Service Leadershi
 > Mrs Josephine Teo, Manpower Minister: …Equipping the staff with technological skills has helped to change the face of retail jobs… It is no longer just about standing in the store and “just selling things”.<small><sup>15 CNA, Dec 2019</sup></small>
 
 ![Illustration from Skillsfuture Retail Sectoral Manpower Plan](/images/blog/Whitepaper_Picture5.png)
-<i><small>@SkillsFuture Retail Sectoral Manpower Plan<sup>14</sup></small></i>
+<i><small>SkillsFuture Retail Sectoral Manpower Plan<sup>14</sup></small></i>
+
+As Retailers evaluate their workforce development strategies, simply upskilling on the current role should not be the sole consideration.
+
+Providing frontliners with training on innovation and related areas, exposing them to a broader outlook - especially the Retail Omnichannel Brick-and-Click framework – can only yield win-win outcomes for both Retail frontliners and their employers. 
+
+A 360<small><sup>o</sup></small> view and understanding of the customer experience across the Brick-and-Click channels means a comprehensive insight to a customer’s relationship with the business, and which can in turn result in a greater level of service relevance and excellence, especially as businesses strive to keep up with the evolving landscape.
+
+<h4>Experiential Omnichannel Retail: The Path to Value</h4>
+
+As the “next normal” continues to take shape for businesses, customer expectations will continue to shift in response.
+
+But it is clear that the imperative is to create a seamless Omnichannel<sup>^</sup> strategy that focuses on the Customer Experience<sup>^</sup>, and shaping the way forward with agility and innovation.
+
+> …physical stores remain a very important platform for major brands, allowing shoppers to experience the brands in a multi-dimensional platform and building brand equity and loyalty along the way. .<small><sup>9 Business Times, 31 March 2022</sup></small>
+
+To that end, Retailers need to reimagine the Retail experience, and to reimagine the role of physical stores and their Retail frontliners if they are to navigate the future of Retail successfully. They need to move past the traditional view that physical stores are primarily for in-store customer engagement, but instead reformulate and integrate the physical and online Customer Experience and:
+
+* create immersive, multi-sensory experiences to drive foot traffic, and which complement, enhance and interface with online channels 
+* leverage new technology solutions to create tech-enabled stores
+* use data insights to create dynamic engagements that optimise the total shopper experience
+
+Retail frontliners are critical to these immersive in-store experiences but would play more of an advocate role as the Customer Experience champion.
+
+In the era of another wave in the digital revolution - in the shape of the Metaverse - Retailers need to continually reassess their strategies, adopting an agile and future-ready mindset, operating model and workforce.
