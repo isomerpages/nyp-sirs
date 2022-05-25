@@ -173,3 +173,25 @@ In the era of another wave in the digital revolution - in the shape of the Metav
 15. [https://www.channelnewsasia.com/singapore/new-initiative-rolled-out-help-retail-sector-stay-relevant-amid-changing-consumer-habits-844426](https://www.channelnewsasia.com/singapore/new-initiative-rolled-out-help-retail-sector-stay-relevant-amid-changing-consumer-habits-844426)
 16. [https://www.beekeeper.io/blog/what-leaders-can-learn-from-frontline-workers/](https://www.beekeeper.io/blog/what-leaders-can-learn-from-frontline-workers/)
 17. [https://www.businesstimes.com.sg/hub-projects/property-2022-march-issue/retail-is-here-to-stay-virtually-and-physically-0](https://www.businesstimes.com.sg/hub-projects/property-2022-march-issue/retail-is-here-to-stay-virtually-and-physically-0)
+
+
+**Image Attribution:** Photo by [Will H McMahan](https://unsplash.com/@whmii?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+
+**^About the Singapore Institute of Retail Studies (SIRS)**
+
+The [Singapore Institute of Retail Studies](www.sirs.edu.sg) was established as the first Continuing Education & Training (CET) Institute in Singapore in 2006. Fondly known as SIRS by many of our learners and corporate clients who have fast-forwarded their professional and organisational growth with us, we have had well over 200,000 professionals and organisations training with us over the years.
+
+Our goal is to empower people and organisations to find their greatest, and hidden, potential that will enable them to thrive and succeed in today’s world of accelerated and continual change.
+
+As the appointed anchor training provider by SkillsFuture Singapore for the Retail industry, and programme manager of various National Programmes including the [Career Conversion Programme (CCP)](https://www.sirs.edu.sg/services/career-services/ccp-overview), [Work-Study Programme](https://www.sirs.edu.sg/services/career-services/skillsfuture-work-study-programmes), [Redeployment CCP](https://www.sirs.edu.sg/digital-programmes/redeployment-job-redesign-reskilling-pcp) and the SGUnited Skills (SGUS) Programme, SIRS’ training solutions encompass the critical key areas that are highly demanded, and needed, in both the Retail and broader industries: 
+* Business Leadership & Transformation
+* Business Operations & Management
+* Communication & team Building
+* Customer Experience
+* Digital Marketing
+* E-Commerce
+* Personal Development
+
+<p>
+<small>The information provided here has been obtained or derived from sources believed to be reliable. Neither the author nor the Singapore Institute of Retail Studies (SIRS) makes any representations or warranties as to the information’s accuracy or completeness. The information contained herein has been provided solely for informational purposes and should not be relied on as advice, and the recipient of this publication must make its own independent decisions regarding the information mentioned herein. All expressions of opinion are subject to change without notice and reflect the judgment of the authors as of the date of publication.</small>
+</p>
