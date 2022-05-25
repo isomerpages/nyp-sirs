@@ -156,20 +156,20 @@ In the era of another wave in the digital revolution - in the shape of the Metav
 
 <h4>Source Citations</h4>
 
-1. https://www.mckinsey.com/business-functions/strategy-and-corporate-finance/our-insights/how-covid-19-has-pushed-companies-over-the-technology-tipping-point-and-transformed-business-forever
-2. https://www.businesstimes.com.sg/hub-projects/property-2021-april-issue/the-retail-scene-in-post-pandemic-Singapore
-3. https://www.singstat.gov.sg/-/media/files/news/mrsfeb2022.ashx
-4. https://www.enterprisesg.gov.sg/industries/type/retail/industry-profile -* “Embracing China's New Retail”, report by Bain & Company, 13 March 2018*
-5. https://www.mckinsey.com/industries/retail/our-insights/reimagining-the-role-of-physical-stores-in-an-omnichannel-distribution-network#
-6. https://www.statista.com/statistics/1270938/singapore-frequency-of-shopping-in-physical-stores/
-7. https://www.straitstimes.com/singapore/retailers-face-intensified-manpower-crunch-amid-post-pandemic-recovery
-8. https://www2.deloitte.com/us/en/insights/focus/human-capital-trends.html?id=us:2di:3em:4di7302:5awa::MMDDYY:&pkid=1007732
-9. https://blog.workday.com/en-us/2020/investing-in-first-impressions-retail-and-hospitality-frontline-workers.html
-10. https://www.microsoft.com/en-us/worklab/work-trend-index/technology-unlocks-a-new-future-for-frontline
-11. https://www.mytotalretail.com/article/how-retailers-can-benefit-from-digitally-empowering-frontline-workers/
-12. https://news.microsoft.com/apac/2022/01/13/new-microsoft-data-reveals-the-state-of-frontline-workers-in-asia/
-13. https://retailwire.com/discussion/frontline-workers-say-management-isnt-listening-to-them/
-14. https://www.ial.edu.sg/content/dam/projects/tms/ial/Learn-at-IAL/Getting-started/FINAL_WDA%20Retail%20SMP%20Publication%20(high-res).pdf
-15. https://www.channelnewsasia.com/singapore/new-initiative-rolled-out-help-retail-sector-stay-relevant-amid-changing-consumer-habits-844426
-16. https://www.beekeeper.io/blog/what-leaders-can-learn-from-frontline-workers/
-17. https://www.businesstimes.com.sg/hub-projects/property-2022-march-issue/retail-is-here-to-stay-virtually-and-physically-0
+1. [https://www.mckinsey.com/business-functions/strategy-and-corporate-finance/our-insights/how-covid-19-has-pushed-companies-over-the-technology-tipping-point-and-transformed-business-forever](https://www.mckinsey.com/business-functions/strategy-and-corporate-finance/our-insights/how-covid-19-has-pushed-companies-over-the-technology-tipping-point-and-transformed-business-forever)
+2. [https://www.businesstimes.com.sg/hub-projects/property-2021-april-issue/the-retail-scene-in-post-pandemic-Singapore](https://www.businesstimes.com.sg/hub-projects/property-2021-april-issue/the-retail-scene-in-post-pandemic-Singapore)
+3. [https://www.singstat.gov.sg/-/media/files/news/mrsfeb2022.ashx](https://www.singstat.gov.sg/-/media/files/news/mrsfeb2022.ashx)
+4. [https://www.enterprisesg.gov.sg/industries/type/retail/industry-profile -* “Embracing China's New Retail”, report by Bain & Company, 13 March 2018*](https://www.enterprisesg.gov.sg/industries/type/retail/industry-profile )
+5. [https://www.mckinsey.com/industries/retail/our-insights/reimagining-the-role-of-physical-stores-in-an-omnichannel-distribution-network#](https://www.mckinsey.com/industries/retail/our-insights/reimagining-the-role-of-physical-stores-in-an-omnichannel-distribution-network#)
+6. [https://www.statista.com/statistics/1270938/singapore-frequency-of-shopping-in-physical-stores/](https://www.statista.com/statistics/1270938/singapore-frequency-of-shopping-in-physical-stores/)
+7. [https://www.straitstimes.com/singapore/retailers-face-intensified-manpower-crunch-amid-post-pandemic-recovery](https://www.straitstimes.com/singapore/retailers-face-intensified-manpower-crunch-amid-post-pandemic-recovery)
+8.[https://www2.deloitte.com/us/en/insights/focus/human-capital-trends.html?id=us:2di:3em:4di7302:5awa::MMDDYY:&pkid=1007732](https://www2.deloitte.com/us/en/insights/focus/human-capital-trends.html?id=us:2di:3em:4di7302:5awa::MMDDYY:&pkid=1007732)
+9. [https://blog.workday.com/en-us/2020/investing-in-first-impressions-retail-and-hospitality-frontline-workers.html](https://blog.workday.com/en-us/2020/investing-in-first-impressions-retail-and-hospitality-frontline-workers.html)
+10. [https://www.microsoft.com/en-us/worklab/work-trend-index/technology-unlocks-a-new-future-for-frontline](https://www.microsoft.com/en-us/worklab/work-trend-index/technology-unlocks-a-new-future-for-frontline)
+11. [https://www.mytotalretail.com/article/how-retailers-can-benefit-from-digitally-empowering-frontline-workers/](https://www.mytotalretail.com/article/how-retailers-can-benefit-from-digitally-empowering-frontline-workers/)
+12. [https://news.microsoft.com/apac/2022/01/13/new-microsoft-data-reveals-the-state-of-frontline-workers-in-asia/](https://news.microsoft.com/apac/2022/01/13/new-microsoft-data-reveals-the-state-of-frontline-workers-in-asia/)
+13. [https://retailwire.com/discussion/frontline-workers-say-management-isnt-listening-to-them/](https://retailwire.com/discussion/frontline-workers-say-management-isnt-listening-to-them/)
+14. [https://www.ial.edu.sg/content/dam/projects/tms/ial/Learn-at-IAL/Getting-started/FINAL_WDA%20Retail%20SMP%20Publication%20(high-res).pdf](https://www.ial.edu.sg/content/dam/projects/tms/ial/Learn-at-IAL/Getting-started/FINAL_WDA%20Retail%20SMP%20Publication%20(high-res).pdf)
+15. [https://www.channelnewsasia.com/singapore/new-initiative-rolled-out-help-retail-sector-stay-relevant-amid-changing-consumer-habits-844426](https://www.channelnewsasia.com/singapore/new-initiative-rolled-out-help-retail-sector-stay-relevant-amid-changing-consumer-habits-844426)
+16. [https://www.beekeeper.io/blog/what-leaders-can-learn-from-frontline-workers/](https://www.beekeeper.io/blog/what-leaders-can-learn-from-frontline-workers/)
+17. [https://www.businesstimes.com.sg/hub-projects/property-2022-march-issue/retail-is-here-to-stay-virtually-and-physically-0](https://www.businesstimes.com.sg/hub-projects/property-2022-march-issue/retail-is-here-to-stay-virtually-and-physically-0)
