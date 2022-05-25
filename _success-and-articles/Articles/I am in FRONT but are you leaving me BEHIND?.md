@@ -89,7 +89,7 @@ Across many reports from around the world including in Singapore – and which a
 
 * 60% are unsatisfied with the technology they've been provided with to do their work<small><sup>12</sup></small>
 
-> One of the key leadership lessons from these frontline stories is recognizing that people at all levels are integral parts in the success of an organization.<small><sup>16 bekeeper.io</sup></small> 
+> One of the key leadership lessons from these frontline stories is recognizing that people at all levels are integral parts in the success of an organization.<br><small><sup>16 bekeeper.io</sup></small><br> 
 
 <h4>Don’t let Your Customers’ 1st Impressions of Your Business become the Last Experience they have with you.</h4>
 
