@@ -102,7 +102,7 @@ A failure to recognize this critical impact that frontliners have on the busines
 ![Image of an unhappy customer and an apologetic staff](/images/blog/Whitepaper_Picture3.png)
 
 <p>
-<center><a href="/files/documents-2021/ETAIL2022_WHITEPAPER_FINAL_25MAY22.pdf" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">View & Download as PDF </a></center>
+<center><a href="/files/documents-2021/ETAIL2022_WHITEPAPER_FINAL_25MAY22.pdf" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">View or Download as PDF </a></center>
 </p>
 
 <h4>Retail Frontliners: Don’t Leave Them Behind</h4>
@@ -195,7 +195,7 @@ As the appointed anchor training provider by SkillsFuture Singapore for the Reta
 * E-Commerce
 * Personal Development
 
-<center><a href="/files/documents-2021/ETAIL2022_WHITEPAPER_FINAL_25MAY22.pdf" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">View & Download as PDF </a></center>
+<center><a href="/files/documents-2021/ETAIL2022_WHITEPAPER_FINAL_25MAY22.pdf" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">View or Download as PDF </a></center>
 
 <p>
 <small>The information provided here has been obtained or derived from sources believed to be reliable. Neither the author nor the Singapore Institute of Retail Studies (SIRS) makes any representations or warranties as to the information’s accuracy or completeness. The information contained herein has been provided solely for informational purposes and should not be relied on as advice, and the recipient of this publication must make its own independent decisions regarding the information mentioned herein. All expressions of opinion are subject to change without notice and reflect the judgment of the authors as of the date of publication.</small>
