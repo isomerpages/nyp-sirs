@@ -101,6 +101,10 @@ A failure to recognize this critical impact that frontliners have on the busines
 	
 ![Image of an unhappy customer and an apologetic staff](/images/blog/Whitepaper_Picture3.png)
 
+<p>
+<center><a href="/files/documents-2021/ETAIL2022_WHITEPAPER_FINAL_25MAY22.pdf" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">View & Download as PDF </a></center>
+</p>
+
 <h4>Retail Frontliners: Don’t Leave Them Behind</h4>
 
 In the face of the challenges to hire and retain frontliners, Retail businesses have an urgent imperative first and foremost to acknowledge, and to address the plethora of challenges that frontliners face – and not leave them behind from the broader organization’s human resourcing and talent management initiatives.  
