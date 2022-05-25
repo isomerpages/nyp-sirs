@@ -193,8 +193,6 @@ As the appointed anchor training provider by SkillsFuture Singapore for the Reta
 
 <center><a href="/files/documents-2021/ETAIL2022_WHITEPAPER_FINAL_25MAY22.pdf" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Download PDF Version</a></center>
 
-https://nyp-sirs-staging.netlify.app/files/documents-2021/Services_CCP_RP_Factsheet_Applicant_Apr22.pdf
-
 <p>
 <small>The information provided here has been obtained or derived from sources believed to be reliable. Neither the author nor the Singapore Institute of Retail Studies (SIRS) makes any representations or warranties as to the information’s accuracy or completeness. The information contained herein has been provided solely for informational purposes and should not be relied on as advice, and the recipient of this publication must make its own independent decisions regarding the information mentioned herein. All expressions of opinion are subject to change without notice and reflect the judgment of the authors as of the date of publication.</small>
 </p>
