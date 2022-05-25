@@ -5,7 +5,6 @@ description: SIRS White Paper - I am in front but are you leaving me behind?
 image: /images/blog/Highlights_SIRS Homepage_Whitepaper_eTail.png
 third_nav_title: Articles
 ---
-
 Date: 25-05-2022
 
 ![Image of a mannequin with title I am in front but you are leaving me behind?](/images/blog/Highlights_SIRS%20Homepage_Whitepaper_eTail.png)
@@ -179,8 +178,7 @@ In the era of another wave in the digital revolution - in the shape of the Metav
 **Image Attribution:** Photo by [Will H McMahan](https://unsplash.com/@whmii?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
 **^About the Singapore Institute of Retail Studies (SIRS)**
-
-The [Singapore Institute of Retail Studies](www.sirs.edu.sg) was established as the first Continuing Education & Training (CET) Institute in Singapore in 2006. Fondly known as SIRS by many of our learners and corporate clients who have fast-forwarded their professional and organisational growth with us, we have had well over 200,000 professionals and organisations training with us over the years.
+<br>The [Singapore Institute of Retail Studies](www.sirs.edu.sg) was established as the first Continuing Education & Training (CET) Institute in Singapore in 2006. Fondly known as SIRS by many of our learners and corporate clients who have fast-forwarded their professional and organisational growth with us, we have had well over 200,000 professionals and organisations training with us over the years.
 
 Our goal is to empower people and organisations to find their greatest, and hidden, potential that will enable them to thrive and succeed in today’s world of accelerated and continual change.
 
