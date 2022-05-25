@@ -5,3 +5,6 @@ description: SIRS White Paper - I am in front but are you leaving me behind?
 image: /images/blog/Highlights_SIRS Homepage_Whitepaper_eTail.png
 third_nav_title: Articles
 ---
+Date: 25-05-2022
+
+<H4></H4>
