@@ -7,4 +7,7 @@ third_nav_title: Articles
 ---
 Date: 25-05-2022
 
-<H4></H4>
+<h4>"I am in FRONT but you are leaving me BEHIND?"</h4>
+
+![Image of a mannequin with title I am in front but you are leaving me behind?](/images/blog/Highlights_SIRS%20Homepage_Whitepaper_eTail.png)
+
