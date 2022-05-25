@@ -55,7 +55,7 @@ Notably, this further supports the idea that brick-and-mortar Retail is still al
 
 Amidst this positive outlook, however, just when the pandemic appears to be releasing its stranglehold on the world, the various challenges of the Retail industry to keep up with the “New Retail” Omnichannel Brick-and-Click expectations of shoppers are being compounded with a different problem of “intensified manpower crunch amid post-pandemic recovery”<small><sup>7</small></sup> according to a Straits Times report on 09 April 2022. 
 
-> …local workers continue to shun its front-line jobs due to the long hours and shift work, even as other sectors compete for the same pool of workers…<small><sup>7 Straits Times, 09 April 2022</small></sup>
+> …local workers continue to shun its front-line jobs due to the long hours and shift work, even as other sectors compete for the same pool of workers…<br><small><sup>7 Straits Times, 09 April 2022</sup></small></br>
 
 And this situation is not unique to Singapore alone. 
 
