@@ -6,6 +6,15 @@ sections:
   - hero:
       background: /images/images-2021/Homepage_Banner2.png
   - infopic:
+      title: "“Are You Leaving Me Behind?” "
+      description: Find out why retail frontline workers are leaving their jobs and
+        insights into the solutions retailers want to adopt to ensure a place in
+        the future of retail.
+      button: more about the white paper
+      url: /success-and-articles/articles/whitepaper-may2022
+      image: /images/blog/Highlights_SIRS Homepage_Whitepaper_eTail.png
+      alt: Mannequin Image for Whitepaper
+  - infopic:
       title: eTail Asia 2022
       description: Futuristic retail topics are hot on the agenda at eTail Asia 2022.
         Get the inside scoop from the industry's very best as eTail Asia brings
