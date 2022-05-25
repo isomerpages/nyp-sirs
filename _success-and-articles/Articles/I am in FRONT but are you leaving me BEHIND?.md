@@ -15,7 +15,7 @@ Having borne a big brunt of the Covid-19 pandemic impact, Retailers have seen th
 
 Today, as the world opens up moving towards an endemic state, adapting our lives to what many term the “new world”, what is in store for the Retail industry – and what has changed with Retail Frontline workers, who have shouldered the burden of keeping our essentials supplied in the face of unrelenting disruptions and risks? 
 
-> The COVID-19 crisis has led to dramatic shifts in consumer behavior. Retailers will have to work hard to meet ever-evolving customer experience requirements...<small><i><sup>1 McKinsey 24 Dec 2021</sup></i></small>
+> The COVID-19 crisis has led to dramatic shifts in consumer behavior. Retailers will have to work hard to meet ever-evolving customer experience requirements...<small><sup>1 McKinsey 24 Dec 2021</sup></small>
 	
 It is in fact actually a fascinating time for the Retail industry. Despite the massive damage that the pandemic has wreaked on businesses and individuals, it has also forced the world into a level of consciousness in many aspects and at various levels. 
 	
@@ -23,11 +23,11 @@ Among these was the hugely accelerated digitalisation of businesses on many fron
 
 However, almost by default, the Covid-19 pandemic has also been attributed with many of the ills facing the Retail industry today: but is the pandemic really the root cause, or has it in reality given the resounding wake-up call that the Retail industry has probably long needed?
 
-> …digitalisation was never a first priority for many traditional retailers. Covid-19 threw a harsh spotlight on the importance of integrating digital sales avenues into retail operations, and creating multiple points of sale...<br><small><i><sup>2 Business Times, 21 April 2021</sup></i></small><br>
+> …digitalisation was never a first priority for many traditional retailers. Covid-19 threw a harsh spotlight on the importance of integrating digital sales avenues into retail operations, and creating multiple points of sale...<br><small><sup>2 Business Times, 21 April 2021</sup></small><br>
 	
 And does answering this call to digitalise spell the end of brick-and-mortar Retail – and for Retail frontline workers – as we know it? 
 
-According to the study and report by Business Times: *“…as Singapore opened up in phases from June 2020…Shopper spending at brick-and-mortar stores resulted in the proportion of online sales falling from above 25 per cent of total retail sales at the peak of the circuit breaker to 12.6 per cent in July.”* <small><i><sup>2 Business Times, 21 April 2021</sup></i></small>
+According to the study and report by Business Times: *“…as Singapore opened up in phases from June 2020…Shopper spending at brick-and-mortar stores resulted in the proportion of online sales falling from above 25 per cent of total retail sales at the peak of the circuit breaker to 12.6 per cent in July.”* <small><sup>2 Business Times, 21 April 2021</sup></small>
 	
 <h4>Statistics Singapore February 2022: Key Indicators of Retail Trade<small><sup>3</sup></small></h4>
 
@@ -37,7 +37,4 @@ While taking the business online is, without a doubt, a necessary and critical g
 
 <h4>New Retail: The Future</h4>
 
-Even as the Retail industry is now hurtling into the digital age, ready or not, many challenges seem to remain ahead of it. How well they are surmounted remains as an outcome of how well Retailers are able and willing to identify, leverage and drive their businesses through the key value pillars of the “New Retail” <small><i><sup>4</sup></i></small>, a term coined by Jack Ma, Alibaba in 2016 who envisioned *“combining online, offline, logistics and data across a single value chain to give consumers more personalised shopping experiences”.*
-
-
-
+Even as the Retail industry is now hurtling into the digital age, ready or not, many challenges seem to remain ahead of it. How well they are surmounted remains as an outcome of how well Retailers are able and willing to identify, leverage and drive their businesses through the key value pillars of the “New Retail” <small><sup>4</sup></small>, a term coined by Jack Ma, Alibaba in 2016 who envisioned *“combining online, offline, logistics and data across a single value chain to give consumers more personalised shopping experiences”.*
