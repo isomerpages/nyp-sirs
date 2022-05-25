@@ -97,6 +97,6 @@ Retail frontline workers are often the first – and sometimes the only, and of 
 
 A failure to recognize this critical impact that frontliners have on the business is a failure to connect the dots vital to the expectations of today’s customers, and making a sure headway to irrelevance and eventual elimination  in the aggressively competitive Retail environment.
 
-<h5>ONE Unhappy Customer = MANY Unhappy Customers</h5>
+<center><h5>ONE Unhappy Customer = MANY Unhappy Customers</h5></center>
 	
 ![Image of an unhappy customer and an apologetic staff](/images/blog/Whitepaper_Picture3.png)
