@@ -39,7 +39,7 @@ While taking the business online is, without a doubt, a necessary and critical g
 
 Even as the Retail industry is now hurtling into the digital age, ready or not, many challenges seem to remain ahead of it. How well they are surmounted remains as an outcome of how well Retailers are able and willing to identify, leverage and drive their businesses through the key value pillars of the “New Retail”<small><sup>4</sup></small>, a term coined by Jack Ma, Alibaba in 2016 who envisioned *“combining online, offline, logistics and data across a single value chain to give consumers more personalised shopping experiences”.*
 
-> Clearly, physical stores still have a crucial role to play in omnichannel networks. However, the optimal configuration will be unique to each player and environment.<small><sup>5 Mckinsey, 24 Dec 2021</sup></small>
+> Clearly, physical stores still have a crucial role to play in [omnichannel](/digital-programmes/masterclasses-and-workshops/omni-commerce-retail) networks. However, the optimal configuration will be unique to each player and environment.<small><sup>5 Mckinsey, 24 Dec 2021</sup></small>
 
 But the simple fact is also this: most people enjoy shopping – the type of shopping that comes with physical interactions, and human engagements. 
 
