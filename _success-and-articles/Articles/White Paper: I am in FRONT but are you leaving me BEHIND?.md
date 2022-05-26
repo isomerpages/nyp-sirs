@@ -119,7 +119,7 @@ In the rapidly evolving digital age of fast-emerging technologies that leaves no
 
 What does this entail? In an industry that is highly labour-intensive (80% of workers are in Rank and File jobs and 79% in Front of-House operations<small><sup>14</sup></small>), building a deep-skilled pool of talents that is enabled to support business sustainability and accelerating growth opportunities is vital to the continual success of Retail businesses. 
 
-Inspiring, motivating and developing Retail frontliners – who play a key role in the “[New Retail](/wsq-programmes/wsq-modular-programmes/mastering-the-art-of-selling-in-new-retail)” [Omnichannel](digital-programmes/masterclasses-and-workshops/omni-commerce-retail) Brick-and-Click customer experience – requires both internal and external interventions. 
+Inspiring, motivating and developing Retail frontliners – who play a key role in the “[New Retail](/wsq-programmes/wsq-modular-programmes/mastering-the-art-of-selling-in-new-retail)” [Omnichannel](/digital-programmes/masterclasses-and-workshops/omni-commerce-retail) Brick-and-Click customer experience – requires both internal and external interventions. 
 
 <h4>Retail Frontliners: Critical in the Retail Omnichannel Brick-and-Click Strategy</h4>
 
