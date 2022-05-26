@@ -6,7 +6,7 @@ third_nav_title: Articles
 ---
 <h4>Articles</h4>
 
-* [ White Paper: I am in FRONT but are you leaving me BEHIND?](/success-and-articles/Articles/whitepaper-may2022)
+* [ Is Your Retail Business Ready to Thrive in the New Retail Omnichannel Economy?](/success-and-articles/Articles/whitepaper-may2022)
 * [ eTail Asia 2022: Learn and Network with Asia's Most Progressive Retailers](/success-and-articles/articles/etailasia2022)
 * [CASE and SIRS signed MOU for a new CaseTrust accreditation scheme for online retailers](/success-and-articles/articles/mou-case)
 * [The Straits Times: Skills training must evolve to keep workforce resilient](/success-and-articles/Articles/st-workplacelearning)
