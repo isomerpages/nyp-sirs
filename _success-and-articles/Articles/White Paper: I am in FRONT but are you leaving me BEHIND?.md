@@ -181,7 +181,7 @@ In the “New Retail” environment - which is a direct reflection of how consum
 <br>Email: [courses@sirs.edu.sg](mailto:courses@sirs.edu.sg)
 
 **Corporate Trainings, Partnerships & Customised Solutions**
-<br>Email: [upskill@sirs.edu.sg](upskill@sirs.edu.sg)
+<br>Email: [upskill@sirs.edu.sg](mailto:upskill@sirs.edu.sg)
 
 <h4>Source Citations</h4>
 
