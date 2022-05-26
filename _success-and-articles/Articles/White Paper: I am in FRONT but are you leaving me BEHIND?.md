@@ -156,6 +156,32 @@ Retail frontliners are critical to these immersive in-store experiences but woul
 
 In the era of another wave in the digital revolution - in the shape of the Metaverse - Retailers need to continually reassess their strategies, adopting an agile and future-ready mindset, operating model and workforce.
 
+**^About the Singapore Institute of Retail Studies (SIRS)**
+<br>The [Singapore Institute of Retail Studies](https://www.sirs.edu.sg/about-us) was established as the first Continuing Education & Training (CET) Institute in Singapore in 2006. Fondly known as SIRS by many of our learners and corporate clients who have fast-forwarded their professional and organisational growth with us, we have had well over 200,000 professionals and organisations training with us over the years.
+
+Our goal is to empower people and organisations to find their greatest, and hidden, potential that will enable them to thrive and succeed in today’s world of accelerated and continual change.
+
+As the appointed anchor training provider by SkillsFuture Singapore for the Retail industry, and programme manager of various National Programmes including the [Career Conversion Programme (CCP)](https://www.sirs.edu.sg/services/career-services/ccp-overview), [Work-Study Programme](https://www.sirs.edu.sg/services/career-services/skillsfuture-work-study-programmes), [Redeployment CCP](https://www.sirs.edu.sg/digital-programmes/redeployment-job-redesign-reskilling-pcp) and the SGUnited Skills (SGUS) Programme, SIRS’ training solutions encompass the critical key areas that are highly demanded, and needed, in both the Retail and broader industries: 
+* Business Leadership & Transformation
+* Business Operations & Management
+* Communication & team Building
+* Customer Experience
+* Digital Marketing
+* E-Commerce
+* Personal Development
+
+In the “New Retail” environment - which is a direct reflection of how consumers today discover, research, decide and make their purchases, the Omnichannel Brick-and-Click strategy - with Retail Frontliners being an integral part of it – is an imperative for businesses to implement. Retailers will need to innovate and integrate the customer experience seamlessly across both brick and click shopper touchpoints, delivering most importantly value realisation for both retailer and shopper. 
+
+**Get insights to how your business and employees can thrive in this ever-evolving retail landscape – reach out to [Singapore Retail Institute of Studies](https://www.sirs.edu.sg/) for information:**
+
+**Customer Relations Centre** 
+<br>Call (+65) 6222 7477
+<br>WhatsApp (+65) 9223 2979
+<br>Email: [courses@sirs.edu.sg](mailto:courses@sirs.edu.sg)
+
+**Corporate Trainings, Partnerships & Customised Solutions**
+<br>Email: [upskill@sirs.edu.sg](upskill@sirs.edu.sg)
+
 <h4>Source Citations</h4>
 
 1. [https://www.mckinsey.com/business-functions/strategy-and-corporate-finance/our-insights/how-covid-19-has-pushed-companies-over-the-technology-tipping-point-and-transformed-business-forever](https://www.mckinsey.com/business-functions/strategy-and-corporate-finance/our-insights/how-covid-19-has-pushed-companies-over-the-technology-tipping-point-and-transformed-business-forever)
@@ -178,20 +204,6 @@ In the era of another wave in the digital revolution - in the shape of the Metav
 
 
 **Image Attribution:** Photo by [Will H McMahan](https://unsplash.com/@whmii?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
-
-**^About the Singapore Institute of Retail Studies (SIRS)**
-<br>The [Singapore Institute of Retail Studies](https://www.sirs.edu.sg/about-us) was established as the first Continuing Education & Training (CET) Institute in Singapore in 2006. Fondly known as SIRS by many of our learners and corporate clients who have fast-forwarded their professional and organisational growth with us, we have had well over 200,000 professionals and organisations training with us over the years.
-
-Our goal is to empower people and organisations to find their greatest, and hidden, potential that will enable them to thrive and succeed in today’s world of accelerated and continual change.
-
-As the appointed anchor training provider by SkillsFuture Singapore for the Retail industry, and programme manager of various National Programmes including the [Career Conversion Programme (CCP)](https://www.sirs.edu.sg/services/career-services/ccp-overview), [Work-Study Programme](https://www.sirs.edu.sg/services/career-services/skillsfuture-work-study-programmes), [Redeployment CCP](https://www.sirs.edu.sg/digital-programmes/redeployment-job-redesign-reskilling-pcp) and the SGUnited Skills (SGUS) Programme, SIRS’ training solutions encompass the critical key areas that are highly demanded, and needed, in both the Retail and broader industries: 
-* Business Leadership & Transformation
-* Business Operations & Management
-* Communication & team Building
-* Customer Experience
-* Digital Marketing
-* E-Commerce
-* Personal Development
 
 <center><a href="/files/documents-2021/ETAIL2022_WHITEPAPER_FINAL_25MAY22.pdf" target="_blank" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 40px 20px; cursor:pointer;text-decoration:none;">View or Download as PDF </a></center>
 
