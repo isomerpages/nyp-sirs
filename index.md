@@ -6,11 +6,11 @@ sections:
   - hero:
       background: /images/images-2021/Homepage_Banner2.png
   - infopic:
-      title: "“Are You Leaving Me Behind?” "
+      title: Ready to Thrive in the New Retail Omnichannel Economy?
       description: Find out why retail frontline workers are leaving their jobs and
         insights into the solutions retailers want to adopt to ensure a place in
         the future of retail.
-      button: more about the white paper
+      button: more about this article
       url: /success-and-articles/articles/whitepaper-may2022
       image: /images/blog/Highlights_SIRS Homepage_Whitepaper_eTail.png
       alt: Mannequin Image for Whitepaper
@@ -23,7 +23,7 @@ sections:
         Asia. Learn about new industry innovations, gain tips on how businesses
         can increase their profits, and develop new connections within the
         retail industry.
-      button: more about the event
+      button: more about this event
       url: success-and-articles/articles/etailasia2022
       image: /images/eTail Asia 2022 Event Listing Banner.png
       alt: Image alt text
