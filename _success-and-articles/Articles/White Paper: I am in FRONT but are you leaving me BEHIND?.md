@@ -53,7 +53,7 @@ Notably, this further supports the idea that brick-and-mortar Retail is still al
 
 <h4>Retail Frontliners: A Turning Point for Sea Change</h4>
 
-Amidst this positive outlook, however, just when the pandemic appears to be releasing its stranglehold on the world, the various challenges of the Retail industry to keep up with the “New Retail” Omnichannel Brick-and-Click expectations of shoppers are being compounded with a different problem of “intensified manpower crunch amid post-pandemic recovery”<small><sup>7</sup></small> according to a Straits Times report on 09 April 2022. 
+Amidst this positive outlook, however, just when the pandemic appears to be releasing its stranglehold on the world, the various challenges of the Retail industry to keep up with the “New Retail” [Omnichannel](/digital-programmes/masterclasses-and-workshops/omni-commerce-retail) Brick-and-Click expectations of shoppers are being compounded with a different problem of “intensified manpower crunch amid post-pandemic recovery”<small><sup>7</sup></small> according to a Straits Times report on 09 April 2022. 
 
 > …local workers continue to shun its front-line jobs due to the long hours and shift work, even as other sectors compete for the same pool of workers…<br><small><sup>7 Straits Times, 09 April 2022</sup></small><br>
 
@@ -115,17 +115,17 @@ There are various employee recruitment and retention strategies that businesses 
 
 <h4>Retailers: Is Your Workforce Future-Ready?</h4>
 
-In the rapidly evolving digital age of fast-emerging technologies that leaves no industry un-impacted, and customer expectations palpably changing and rising, Retailers must be armoured with future-readiness. 
+In the rapidly evolving digital age of fast-emerging technologies that leaves no industry un-impacted, and customer expectations palpably changing and rising, Retailers must be armoured with [future-readiness](/wsq-programmes/wsq-modular-programmes/mastering-the-art-of-selling-in-new-retail). 
 
 What does this entail? In an industry that is highly labour-intensive (80% of workers are in Rank and File jobs and 79% in Front of-House operations<small><sup>14</sup></small>), building a deep-skilled pool of talents that is enabled to support business sustainability and accelerating growth opportunities is vital to the continual success of Retail businesses. 
 
-Inspiring, motivating and developing Retail frontliners – who play a key role in the “New Retail” Omnichannel Brick-and-Click customer experience – requires both internal and external interventions. 
+Inspiring, motivating and developing Retail frontliners – who play a key role in the “[New Retail](/wsq-programmes/wsq-modular-programmes/mastering-the-art-of-selling-in-new-retail)” [Omnichannel](digital-programmes/masterclasses-and-workshops/omni-commerce-retail) Brick-and-Click customer experience – requires both internal and external interventions. 
 
 <h4>Retail Frontliners: Critical in the Retail Omnichannel Brick-and-Click Strategy</h4>
 
-Externally, formal training plays a critical role in not only providing Retail frontliners with a chance to refresh and upgrade their skills for both their current roles and career development opportunities within the organization but can also accord them with a strongly positive sense of being valued by their employers. The outcome can only be beneficial to businesses who understand the importance of taking care of their most important assets – people.
+Externally, formal training plays a critical role in not only providing Retail frontliners with a chance to refresh and upgrade their [skills](/wsq-programmes/wsq-modular-programmes/mastering-the-art-of-selling-in-new-retail) for both their current roles and [career development](/services/career-services) opportunities within the organization but can also accord them with a strongly positive sense of being valued by their employers. The outcome can only be beneficial to businesses who understand the importance of taking care of their most important assets – people.
 
-Training Programmes<sup>^</sup> such as Service Excellence and Service Leadership are but some of the most useful and relevant courses that let Retail frontliners take stock of and reflect on their service attitudes and dispositions, while upgrading themselves to the ever-evolving Retail landscape and escalating customer expectations, ultimately value-adding to the business growth.
+[Training Programmes](/wsq-programmes/wsq-full-qualification-programmes/specialist-diploma-in-retail-operations)<sup>^</sup> such as Service Excellence and Service Leadership are but some of the most useful and relevant courses that let Retail frontliners take stock of and reflect on their service attitudes and dispositions, while upgrading themselves to the ever-evolving Retail landscape and escalating customer expectations, ultimately value-adding to the [business growth](/digital-programmes/masterclasses-and-workshops/increase-business-revenue-through-seo).
 
 > Mrs Josephine Teo, Manpower Minister: …Equipping the staff with technological skills has helped to change the face of retail jobs… It is no longer just about standing in the store and “just selling things”.<small><sup>15 CNA, Dec 2019</sup></small>
 
@@ -134,19 +134,19 @@ Training Programmes<sup>^</sup> such as Service Excellence and Service Leadershi
 
 As Retailers evaluate their workforce development strategies, simply upskilling on the current role should not be the sole consideration.
 
-Providing frontliners with training on innovation and related areas, exposing them to a broader outlook - especially the Retail Omnichannel Brick-and-Click framework – can only yield win-win outcomes for both Retail frontliners and their employers. 
+Providing frontliners with training on innovation and related areas, exposing them to a broader outlook - especially the Retail [Omnichannel](/digital-programmes/masterclasses-and-workshops/omni-commerce-retail) Brick-and-Click framework – can only yield win-win outcomes for both Retail frontliners and their employers. 
 
 A 360<small><sup>o</sup></small> view and understanding of the customer experience across the Brick-and-Click channels means a comprehensive insight to a customer’s relationship with the business, and which can in turn result in a greater level of service relevance and excellence, especially as businesses strive to keep up with the evolving landscape.
 
 <h4>Experiential Omnichannel Retail: The Path to Value</h4>
 
-As the “next normal” continues to take shape for businesses, customer expectations will continue to shift in response.
+As the “next normal” continues to take shape for businesses, [customer expectations](/wsq-programmes/wsq-modular-programmes/creating-an-unforgettable-customer-experience) will continue to shift in response.
 
-But it is clear that the imperative is to create a seamless Omnichannel<sup>^</sup> strategy that focuses on the Customer Experience<sup>^</sup>, and shaping the way forward with agility and innovation.
+But it is clear that the imperative is to create a seamless [Omnichannel](/digital-programmes/masterclasses-and-workshops/omni-commerce-retail)<sup>^</sup> strategy that focuses on the[ Customer Experience](/wsq-programmes/wsq-modular-programmes/creating-an-unforgettable-customer-experience)<sup>^</sup>, and shaping the way forward with agility and innovation.
 
 > …physical stores remain a very important platform for major brands, allowing shoppers to experience the brands in a multi-dimensional platform and building brand equity and loyalty along the way. .<small><sup>17 Business Times, 31 March 2022</sup></small>
 
-To that end, Retailers need to reimagine the Retail experience, and to reimagine the role of physical stores and their Retail frontliners if they are to navigate the future of Retail successfully. They need to move past the traditional view that physical stores are primarily for in-store customer engagement, but instead reformulate and integrate the physical and online Customer Experience and:
+To that end, Retailers need to[ reimagine the Retail experience](/digital-programmes/masterclasses-and-workshops/digital-strategy-and-the-101-of-seo), and to reimagine the role of physical stores and their Retail frontliners if they are to navigate the future of Retail successfully. They need to move past the traditional view that physical stores are primarily for in-store customer engagement, but instead reformulate and integrate the physical and online Customer Experience and:
 
 * create immersive, multi-sensory experiences to drive foot traffic, and which complement, enhance and interface with online channels 
 * leverage new technology solutions to create tech-enabled stores
@@ -162,7 +162,7 @@ The [Singapore Institute of Retail Studies](https://www.sirs.edu.sg/about-us) wa
 
 Our goal is to empower people and organisations to find their greatest, and hidden, potential that will enable them to thrive and succeed in today’s world of accelerated and continual change.
 
-As the appointed anchor training provider by SkillsFuture Singapore for the Retail industry, and programme manager of various National Programmes including the [Career Conversion Programme (CCP)](https://www.sirs.edu.sg/services/career-services/ccp-overview), [Work-Study Programme](https://www.sirs.edu.sg/services/career-services/skillsfuture-work-study-programmes), [Redeployment CCP](https://www.sirs.edu.sg/digital-programmes/redeployment-job-redesign-reskilling-pcp) and the SGUnited Skills (SGUS) Programme, SIRS’ training solutions encompass the critical key areas that are highly demanded, and needed, in both the Retail and broader industries: 
+As the appointed anchor training provider by SkillsFuture Singapore for the Retail industry, and programme manager of various National Programmes including the [Career Conversion Programme (CCP)](https://www.sirs.edu.sg/services/career-services/ccp-overview), [Work-Study Programme](https://www.sirs.edu.sg/services/career-services/skillsfuture-work-study-programmes), [Redeployment CCP](https://www.sirs.edu.sg/digital-programmes/redeployment-job-redesign-reskilling-pcp) and the SGUnited Skills (SGUS) Programme, [SIRS’ training solutions](/digital-programmes/masterclasses-and-workshops/digital-strategy-and-the-101-of-seo) encompass the critical key areas that are highly demanded, and needed, in both the Retail and broader industries: 
 * Business Leadership & Transformation
 * Business Operations & Management
 * Communication & team Building
@@ -171,7 +171,7 @@ As the appointed anchor training provider by SkillsFuture Singapore for the Reta
 * E-Commerce
 * Personal Development
 
-In the “New Retail” environment - which is a direct reflection of how consumers today discover, research, decide and make their purchases, the Omnichannel Brick-and-Click strategy - with Retail Frontliners being an integral part of it – is an imperative for businesses to implement. Retailers will need to innovate and integrate the customer experience seamlessly across both brick and click shopper touchpoints, delivering most importantly value realisation for both retailer and shopper. 
+In the “[New Retail](/wsq-programmes/wsq-modular-programmes/mastering-the-art-of-selling-in-new-retail)” environment - which is a direct reflection of how consumers today discover, research, decide and make their purchases, the [Omnichannel](/digital-programmes/masterclasses-and-workshops/digital-strategy-and-the-101-of-seo) Brick-and-Click strategy - with Retail Frontliners being an integral part of it – is an imperative for businesses to implement. Retailers will need to innovate and integrate the customer experience seamlessly across both brick and click shopper touchpoints, delivering most importantly value realisation for both retailer and shopper. 
 
 **Get insights to how your business and employees can thrive in this ever-evolving retail landscape – reach out to [Singapore Retail Institute of Studies](https://www.sirs.edu.sg/) for information:**
 
