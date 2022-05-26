@@ -176,11 +176,13 @@ In the “New Retail” environment - which is a direct reflection of how consum
 **Get insights to how your business and employees can thrive in this ever-evolving retail landscape – reach out to [Singapore Retail Institute of Studies](https://www.sirs.edu.sg/) for information:**
 
 **Customer Relations Centre** 
-<br>Call (+65) 6222 7477
-<br>WhatsApp (+65) 9223 2979
+<br>Call: (+65) 6222 7477
+<br>WhatsApp: (+65) 9223 2979
 <br>Email: [courses@sirs.edu.sg](mailto:courses@sirs.edu.sg)
 
 **Corporate Trainings, Partnerships & Customised Solutions**
+<br>Contact: Lai Jiawen
+<br>WhatsApp: (+65) 64173012
 <br>Email: [upskill@sirs.edu.sg](mailto:upskill@sirs.edu.sg)
 
 <h4>Source Citations</h4>
