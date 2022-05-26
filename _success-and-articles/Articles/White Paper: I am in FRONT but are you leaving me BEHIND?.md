@@ -101,7 +101,7 @@ A failure to recognize this critical impact that frontliners have on the busines
 	
 ![Image of an unhappy customer and an apologetic staff](/images/blog/Whitepaper_Picture3.png)
 
-<center><a href="/files/documents-2021/ETAIL2022_WHITEPAPER_FINAL_25MAY22.pdf" target="_blank" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 40px 20px; cursor:pointer;text-decoration:none;">View or Download as PDF </a></center>
+<center><a href="/files/documents-2021/ETAIL2022_WHITEPAPER_FINAL_26MAY22.pdf" target="_blank" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 40px 20px; cursor:pointer;text-decoration:none;">View or Download as PDF </a></center>
 
 <h4>Retail Frontliners: Don’t Leave Them Behind</h4>
 
@@ -208,7 +208,7 @@ In the “New Retail” environment - which is a direct reflection of how consum
 
 **Image Attribution:** Photo by [Will H McMahan](https://unsplash.com/@whmii?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
-<center><a href="/files/documents-2021/ETAIL2022_WHITEPAPER_FINAL_25MAY22.pdf" target="_blank" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 40px 20px; cursor:pointer;text-decoration:none;">View or Download as PDF </a></center>
+<center><a href="/files/documents-2021/ETAIL2022_WHITEPAPER_FINAL_26MAY22.pdf" target="_blank" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 40px 20px; cursor:pointer;text-decoration:none;">View or Download as PDF </a></center>
 
 <p>
 <small>The information provided here has been obtained or derived from sources believed to be reliable. Neither the author nor the Singapore Institute of Retail Studies (SIRS) makes any representations or warranties as to the information’s accuracy or completeness. The information contained herein has been provided solely for informational purposes and should not be relied on as advice, and the recipient of this publication must make its own independent decisions regarding the information mentioned herein. All expressions of opinion are subject to change without notice and reflect the judgment of the authors as of the date of publication.</small>
