@@ -156,8 +156,9 @@ Retail frontliners are critical to these immersive in-store experiences but woul
 
 In the era of another wave in the digital revolution - in the shape of the Metaverse - Retailers need to continually reassess their strategies, adopting an agile and future-ready mindset, operating model and workforce.
 
-**^About the Singapore Institute of Retail Studies (SIRS)**
-<br>The [Singapore Institute of Retail Studies](https://www.sirs.edu.sg/about-us) was established as the first Continuing Education & Training (CET) Institute in Singapore in 2006. Fondly known as SIRS by many of our learners and corporate clients who have fast-forwarded their professional and organisational growth with us, we have had well over 200,000 professionals and organisations training with us over the years.
+<h4><sup>^</sup>About the Singapore Institute of Retail Studies (SIRS)</h4>
+
+The [Singapore Institute of Retail Studies](https://www.sirs.edu.sg/about-us) was established as the first Continuing Education & Training (CET) Institute in Singapore in 2006. Fondly known as SIRS by many of our learners and corporate clients who have fast-forwarded their professional and organisational growth with us, we have had well over 200,000 professionals and organisations training with us over the years.
 
 Our goal is to empower people and organisations to find their greatest, and hidden, potential that will enable them to thrive and succeed in today’s world of accelerated and continual change.
 
