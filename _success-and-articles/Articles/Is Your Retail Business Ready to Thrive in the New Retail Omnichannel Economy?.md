@@ -7,7 +7,7 @@ third_nav_title: Articles
 ---
 Date: 25-05-2022
 
-<h4>Don’t let your customers’ first impressions of your business become the last experience they have with you</h4>
+<h4>Don’t Let Your Customers’ First Impressions of Your Business Become the Last Experience They Have With You</h4>
 	
 ![Image of a mannequin with title I am in front but you are leaving me behind?](/images/blog/Highlights_SIRS%20Homepage_Whitepaper_eTail.png)
 
