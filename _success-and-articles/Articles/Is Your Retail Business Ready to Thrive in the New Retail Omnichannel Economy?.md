@@ -99,7 +99,7 @@ Retail frontline workers are often the first – and sometimes the only, and of 
 
 A failure to recognize this critical impact that frontliners have on the business is a failure to connect the dots vital to the expectations of today’s customers, and making a sure headway to irrelevance and eventual elimination  in the aggressively competitive Retail environment.
 
-<center><h5>ONE Unhappy Customer<br>=<br>MANY Unhappy Customers</h5></center>
+<center><h5>ONE Unhappy Worker<br>=<br>MANY Unhappy Customers</h5></center>
 	
 ![Image of an unhappy customer and an apologetic staff](/images/blog/Whitepaper_Picture3.png)
 
@@ -175,7 +175,7 @@ As the appointed anchor training provider by SkillsFuture Singapore for the Reta
 
 In the “[New Retail](/wsq-programmes/wsq-modular-programmes/mastering-the-art-of-selling-in-new-retail)” environment - which is a direct reflection of how consumers today discover, research, decide and make their purchases, the [Omnichannel](/digital-programmes/masterclasses-and-workshops/digital-strategy-and-the-101-of-seo) Brick-and-Click strategy - with Retail Frontliners being an integral part of it – is an imperative for businesses to implement. Retailers will need to innovate and integrate the customer experience seamlessly across both brick and click shopper touchpoints, delivering most importantly value realisation for both retailer and shopper. 
 
-**Get insights to how your business and employees can thrive in this ever-evolving retail landscape – reach out to [Singapore Retail Institute of Studies](https://www.sirs.edu.sg/) for information:**
+**Get insights to how your business and employees can thrive in this ever-evolving retail landscape – reach out to [Singapore Institute of Retail Studies](https://www.sirs.edu.sg/) for information:**
 
 **Customer Relations Centre** 
 <br>Call: (+65) 6222 7477
