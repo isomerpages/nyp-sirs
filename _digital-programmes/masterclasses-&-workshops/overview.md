@@ -31,6 +31,8 @@ third_nav_title: Masterclasses & Workshops
 <h4>Workshops</h4>
 <p>Engage in hands-on activity to hone your skillsets with our range of Workshops:</p>
   <ul>
+	  <li><a href="/digital-programmes/masterclasses-and-workshops/demystify-ai">Demystify Emerging Digital Technologies 
+in the New Retail Revolution</a></li>
   <li><a href="/digital-programmes/masterclasses-and-workshops/differentiate-and-drive-growth-with-experience-innovation">Differentiate and Drive Growth with Experience Innovation</a></li>
   <li><a href="/digital-programmes/masterclasses-and-workshops/improve-customer-engagement-with-digital-mindset">Improve Customer Engagement with Digital Mindset</a></li>
   <li><a href="/digital-programmes/masterclasses-and-workshops/level-up-customer-engagement-through-live-streaming">Level Up Customer Engagement Through Live Streaming</a></li>
