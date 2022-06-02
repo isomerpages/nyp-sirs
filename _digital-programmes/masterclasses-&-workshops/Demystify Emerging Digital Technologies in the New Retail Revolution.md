@@ -27,7 +27,7 @@ third_nav_title: Masterclasses & Workshops
 
 <p>Demystify Emerging Digital Technologies 
 in the New Retail Revolution
-<br>Classroom - TPG-2022025325 | Synchronous E-learning - TPG-2022025328)
+<br>Classroom - TPG-2022025325 | Synchronous E-learning - TPG-2022025328
 </p>
 
 <h4>Outline</h4>
