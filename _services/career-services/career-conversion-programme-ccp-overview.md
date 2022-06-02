@@ -10,25 +10,7 @@ third_nav_title: Career Services
 
 <p>Singapore Institute of Retail Studies (SIRS) is the appointed programme manager for CCP in the retail sector, assisting and supporting employers with manpower challenges in the face of the ever-changing retail landscape. Through structured classroom and on-the-job training (OJT), retailers are better able to align their training according to their specific business needs.</p>
 
-<p>SIRS offers a range of Career Conversion Programmes (CCPs) for the Retail Professional, Digital Professional (Retail) and New Media Professional (Retail), to equip Professionals, Managers, Executives, and Technicians (PMETs) transiting into these new careers with the right skillsets, and support employers in attracting talents for enterprise capability building.</p>
-
-<h4>CCP for New Media Professional (Retail)</h4>
-
-<img src="/images/images-2021/Services-CareerServices-PCP-NMP.jpg" style="width:100%:">
-
-<p>Live broadcast is gaining traction as it becomes a popular and effective way to engage customers. To support employers in keeping abreast of the new trend, and in developing their media communication for digital commerce, the new CCP track aims to train new media enthusiasts as professionals. With relevant skills, such as storytelling and video production, employers can better engage their fan communities in their marketing and promotional campaigns.</p>
-
-<p>Under the CCP-NMP (Retail), participants will have to complete the following programmes:</p>
-
-<ol>
-	<li>Digital Commerce Operations</li>
-	<li>Customer Experience Innovation</li>
-	<li>Paid Search Engine Marketing (SEM)</li>
-	<li>Search Engine Optimization (SEO)</li>
-	<li>Singapore Media Academy's Making Online Content Programme</li>
-	</ol>
-
-<center><a href="/services/career-services/ccp-nmp" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Find Out More</a></center>
+<p>SIRS offers Career Conversion Programmes (CCPs) for the Retail Professional and Digital Professional (Retail) to equip Professionals, Managers, Executives, and Technicians (PMETs) transiting into these new careers with the right skillsets, and support employers in attracting talents for enterprise capability building.</p>
 
 <h4>CCP for Digital Professional (Retail)</h4>
 
