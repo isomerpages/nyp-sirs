@@ -4,7 +4,7 @@ permalink: /digital-programmes/e-commerce-programmes/best-practices-of-e-commerc
 breadcrumb: Best Practices of E-Commerce ESG TR 76
 third_nav_title: E-Commerce Programmes
 ---
-<img src="/images/images-2021/DigitalProgrammes-E-Commerce-TR76.png" style="width:100%;">
+<img src="/images/images-2021/DigitalProgrammes-E-Commerce-TR76_2022.png" style="width:100%;">
 
 <h4 style="text-align:center;">Next intake:</h4>
 
@@ -29,7 +29,7 @@ Learn to map your e-commerce process with TR 76 to gain customers’ confidence 
 <h4>Course Title | Mode of Training | Course Ref</h4>
 
 <p>Best Practices of E-commerce Transactions ESG TR76
-<br>Classroom - TGS-2020505093</p>
+<br>Classroom/Synchronous E-learning - TGS-2020505093</p>
 
 <h4>Outline</h4>
 <ul>
