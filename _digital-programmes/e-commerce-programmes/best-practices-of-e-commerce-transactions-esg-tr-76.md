@@ -29,7 +29,7 @@ Learn to map your e-commerce process with TR 76 to gain customers’ confidence 
 <h4>Course Title | Mode of Training | Course Ref</h4>
 
 <p>Best Practices of E-commerce Transactions ESG TR76
-<br>Classroom - TGS-2020505093</p>
+<br>Classroom/Synchronous E-learning - TGS-2020505093</p>
 
 <h4>Outline</h4>
 <ul>
