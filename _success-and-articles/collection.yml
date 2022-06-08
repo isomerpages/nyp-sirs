@@ -2,6 +2,8 @@ collections:
   success-and-articles:
     output: true
     order:
+      - "Articles/Transacting Safely with Standards: Anti Scam Updates to TR
+        76.md"
       - Articles/.keep
       - Articles/overview.md
       - Articles/Is Your Retail Business Ready to Thrive in the New Retail
