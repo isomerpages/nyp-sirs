@@ -23,6 +23,12 @@ This amendment introduces **scam prevention measures that e-retailers and e-mark
 * maintain transaction records and improve transaction security (e.g. with the use of escrow payments); and
 * improve the e-commerce scam victims’ loss remediation experience by encouraging the e-marketplaces and e-retailers to implement a dispute resolution mechanism.
 
+![TR76 Pre-Purchase](/images/blog/20220606_TR76_2.jpg)
 
+![TR76 Purchase](/images/blog/20220606_TR76_3.jpg)
 
+![TR76 Post-Purchase](/images/blog/20220606_TR76_4.jpg)
 
+![TR76 Customer Support](/images/blog/20220606_TR76_5.jpg)
+
+![TR76 Merchant Verification](/images/blog/20220606_TR76_6.jpg)
