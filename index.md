@@ -6,7 +6,7 @@ sections:
   - hero:
       background: /images/images-2021/Homepage_Banner2.png
   - infopic:
-      title: "Anti-scam Updates to TR 76 "
+      title: "Transacting Safely with Standards: Anti-scam Updates to TR 76 "
       description: Enterprise Singapore has announced the revision to TR 76 to help
         e-retailers & e-marketplaces improve their online transaction processes
         and policies.
