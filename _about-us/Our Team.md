@@ -37,3 +37,26 @@ When you are strategic but detailed, speedy but careful, energetic but chilled, 
 
 **Megan ❤ SIRS**
 ><i> “Being in SIRS is being in the 2 industries that I love! Straddling public duty that also supports the retail industry is meaningful and stimulating work, and the positive impact that we are able to make is what drives me and what I find most satisfying.”</i>
+
+
+<h5> Angie Ng, Head of Customer Relations Centre</h5>
+	
+<div class="row">
+    <div class="col is-4">
+		<figure style="margin:0">
+			<img src="/images/images-2021/OurTeam/HOD_CRC_Angie.png" style="width:100%;">
+			<figcaption class="has-text-weight-bold" style="color:#0AD25A"> </figcaption>
+		</figure>
+	</div>
+	<div class="col is-8">
+<p>Angie is our retail operations expert, and co-author of several books focusing on excellence in retail operations. Combining this with her extensive experience in retail marketing from the Luxury, Food Service and FMCG sectors, Angie and her team support our learners in identifying their most pressing upskilling needs to excel in or progress from their roles, and even starting their very own business enterprises.
+</p>
+</div>
+</div>
+
+**Getting to know Angie**
+
+Beneath a dimpled smile, and a picture of zen and quiet confidence is an energetic industry veteran unfazed by market turbulence and zealous in helping learners. Always raring to make a difference, Angie keeps up her vitality stepping up in her workouts (and probably never even breaking out in a bead of sweat). 
+
+**Angie ❤ SIRS**
+><i>“I enjoy working with every colleague and team at SIRS. Although each comes with a diverse personality and background, we just have this magical tacit agreement when we work together.”</i>
