@@ -17,7 +17,7 @@ Contact us for information on grant-supported solutions that can support your bu
 
 ![Photo of HODs](/images/images-2021/OurTeam/HOD_SIRS.jpg)
 	
-<big>**Megan Ong, Director of SIRS**</big>
+<h5>Megan Ong, Director of SIRS</h5>
 	
 <div class="row">
     <div class="col is-4">
@@ -36,11 +36,10 @@ Contact us for information on grant-supported solutions that can support your bu
 When you are strategic but detailed, speedy but careful, energetic but chilled, optimistic but measured, it’s no wonder that Megan is likened to Harry Potter’s Dumbledore by the SIRS’ team – it takes some powerful “magical” ability to juggle and balance all that, be as fiercely loyal & deeply protective of everyone around her as she is, and then running off to beat her friends at a game of netball. Whew!
 
 **Megan ❤ SIRS**
-><i> “Being in SIRS is being in the 2 industries that I love! Straddling public duty that also supports the retail industry is meaningful and stimulating work, and the positive impact that we are able to make is what drives me and what I find most satisfying.”</i>
 
-<spacer type="horizontal" width="100" height="100"></spacer>
+<i> “Being in SIRS is being in the 2 industries that I love! Straddling public duty that also supports the retail industry is meaningful and stimulating work, and the positive impact that we are able to make is what drives me and what I find most satisfying.”</i>
 
-**<big>Angie Ng, Head of Customer Relations Centre</big>**
+<h5>Angie Ng, Head of Customer Relations Centre</h5>
 	
 <div class="row">
     <div class="col is-4">
