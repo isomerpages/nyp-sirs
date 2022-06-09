@@ -11,7 +11,7 @@ Welcome to the SIRS family – we are a team of passionate, dynamic, and fun pro
 
 We believe that people are the greatest assets of any organisation, and it is not just the knowledge and depth of experience that each of our team brings, but also the bond all of us share through our common goal: **to inspire and transform the retail industry, individuals and businesses towards their greatest potential in excellence.**
 
-Contact us for information on grant-supported solutions that can support your business and workforce capability development.
+[Contact us](/contact-us) for information on grant-supported solutions that can support your business and workforce capability development.
 
 <h4> Heads of the SIRS Family</h4>
 
