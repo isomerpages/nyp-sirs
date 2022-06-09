@@ -31,11 +31,11 @@ We believe that people are the greatest assets of any organisation, and it is no
 </div>
 </div>
 
-**Getting to know Megan**
-When you are strategic but detailed, speedy but careful, energetic but chilled, optimistic but measured, it’s no wonder that Megan is likened to Harry Potter’s Dumbledore by the SIRS’ team – it takes some powerful “magical” ability to juggle and balance all that, be as fiercely loyal & deeply protective of everyone around her as she is, and then running off to beat her friends at a game of netball. Whew!
+**Getting to know Megan**<br>When you are strategic but detailed, speedy but careful, energetic but chilled, optimistic but measured, it’s no wonder that Megan is likened to Harry Potter’s Dumbledore by the SIRS’ team – it takes some powerful “magical” ability to juggle and balance all that, be as fiercely loyal & deeply protective of everyone around her as she is, and then running off to beat her friends at a game of netball. Whew!
+</br>
 
 **Megan ❤ SIRS**
-<i>“Being in SIRS is being in the 2 industries that I love! Straddling public duty that also supports the retail industry is meaningful and stimulating work, and the positive impact that we are able to make is what drives me and what I find most satisfying.”</i>
+<br><i>“Being in SIRS is being in the 2 industries that I love! Straddling public duty that also supports the retail industry is meaningful and stimulating work, and the positive impact that we are able to make is what drives me and what I find most satisfying.”</i></br>
 
 <h5>Angie Ng, Head of Customer Relations Centre</h5>
 	
