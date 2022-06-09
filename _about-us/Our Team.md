@@ -64,7 +64,7 @@ We believe that people are the greatest assets of any organisation, and it is no
 <div class="row">
     <div class="col is-4">
 		<figure style="margin:0">
-			<img src="/images/images-2021/OurTeam/HOD_BD_Celeste.png" style="width:100%;">
+			<img src="/images/images-2021/OurTeam/HOD_BD_Celeste2.png" style="width:100%;">
 			<figcaption class="has-text-weight-bold" style="color:#0AD25A"> </figcaption>
 		</figure>
 	</div>
