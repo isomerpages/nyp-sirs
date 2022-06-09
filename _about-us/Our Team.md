@@ -81,3 +81,25 @@ Beneath a dimpled smile, and a picture of zen and quiet confidence is an energet
 
 **Celeste ❤ SIRS**
 ><i>“Love that SIRS is very practical and down-to-earth in our approach, where all of us work together amazingly with companies and individuals helping them attain their goals and ambitions.”</i>
+
+<h5>James Fong, Head of Programmes</h5>
+	
+<div class="row">
+    <div class="col is-4">
+		<figure style="margin:0">
+			<img src="/images/images-2021/OurTeam/HOD_Prog_James.png" style="width:100%;">
+			<figcaption class="has-text-weight-bold" style="color:#0AD25A"> </figcaption>
+		</figure>
+	</div>
+	<div class="col is-8">
+<p>James is the man behind the extensive range of training programmes at SIRS where he has spent the last 15 years. His expertise and passion are in adult learning and curriculum development with first-hand experience as a trainer of various programmes. In his Programmes management capacity, James also has oversight of quality assurance as a priority, curating both content and resources to meet the exacting needs of today’s challenging environment for our learners. Prior to SIRS, James’s extensive experience was acquired from key retail management roles in merchandising, marketing and business development.</p>
+</div>
+</div>
+
+**Getting to know James**
+
+A good book and a good meal – what more can one ask for. James is an avid cook who whips up meals with as much gusto as he whips up learning programmes; and loves nothing more than settling down with any book that catches his whim…which includes an eclectic range, from armchair travel to his secret stash of TinTin comics. And if you are lucky, you may just get an invite to share an inspired, spur-of the-moment meal, and conversation about his many varied interests!
+
+
+**James ❤ SIRS**
+><i>“The greatest satisfaction is my ability to impact lives in positive ways where at SIRS we are constantly working to enable opportunities for individuals and companies to remain relevant and valuable through acquiring needed skills and capabilities.”</i>
