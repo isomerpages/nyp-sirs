@@ -3,7 +3,8 @@ collections:
     output: true
     order:
       - who-we-are.md
-      - our-facilities.md
+      - Our Team.md
       - strategic-partners.md
-      - contact-us.md
+      - our-facilities.md
       - Subscribe.md
+      - contact-us.md

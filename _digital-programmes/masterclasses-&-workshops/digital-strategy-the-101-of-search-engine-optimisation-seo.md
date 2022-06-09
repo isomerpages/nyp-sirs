@@ -15,7 +15,7 @@ third_nav_title: Masterclasses & Workshops
     </tr>
     <tr style="text-align:center;">
       <td style="text-align:center;width:50%;">
-		15 Jun 2022 (Wed)</td>
+		15 Jun 2022 (Wed) <br> 16 Sep 2022 (Fri) </td>
       <td style="text-align:center;width:50%;">To be confirmed</td>
     </tr>
 </table></center>
