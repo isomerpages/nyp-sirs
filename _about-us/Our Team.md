@@ -27,15 +27,10 @@ Contact us for information on grant-supported solutions that can support your bu
 		</figure>
 	</div>
 	<div class="col is-8">
-        <b>Megan Ong, Director of SIRS</b><br>Gavin is an experienced Digital Marketing practitioner, with over 12 years of experience
-working in the Marketing & Advertising industry in various roles such as Sales,
-Marketing, and Business Development, plus 4 years of experience in Professional
-Training and Coaching. He is also a Singapore WSQ ACTA certified trainer. He is
-passionate about showing business owners and brand marketers how to get results
-when it comes to search and digital marketing campaigns. He has earned certifications
-across Google and HubSpot topics, namely Google Ads Search Certification, Google
-Ads – Measurement Certification, Google Analytics Individual Qualification, HubSpot
-Inbound Marketing Certification, HubSpot Social Media Marketing Certification, and
-HubSpot Content Marketing Certification.
-	</div>
+        <b>Megan Ong, Director of SIRS</b><br>Megan has been in the education and training industry since 2006, and with over 25 years of Public and Private sector experience under her belt. 
+
+Under her strategic leadership, SIRS propelled to being a key training partner with some of the most established global and local companies including Alibaba, Amazon, Lazada, Qoo10 and Shopee. These are collaborations which have played a significant role in contributing to the fast-forwarded digitalisation and transformation of the retail industry, particularly in the ecommerce space.
+
+Megan is also keenly focused on supporting SMEs to succeed and thrive, working unceasingly within SIRS, and externally with other key bodies including Heartland Enterprise Centre Singapore and the Federation of Merchants’ Association but to name a few, to deliver training and consultancy solutions as well as career development and mentoring support to both companies and individuals alike. 
+</div>
 </div>
