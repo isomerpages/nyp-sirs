@@ -3,6 +3,8 @@ title: Our Team
 permalink: /about-us/ourteam
 description: Meet the SIRS Team
 ---
+![Image of vector people](/images/images-2021/Our%20Team/OurTeam_Header.png)
+
 <h4> The SIRS Family </h4>
 
 Welcome to the SIRS family – we are a team of passionate, dynamic, and fun professionals from diverse backgrounds rich in Retail, Digital Marketing and Digitalisation,  E-Commerce, and Service. 
