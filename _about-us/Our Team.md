@@ -36,6 +36,8 @@ We believe that people are the greatest assets of any organisation, and it is no
 **Megan ❤ SIRS**
 <br><i>“Being in SIRS is being in the 2 industries that I love! Straddling public duty that also supports the retail industry is meaningful and stimulating work, and the positive impact that we are able to make is what drives me and what I find most satisfying.”</i>
 
+<hr>
+
 <h5>Angie Ng, Head of Customer Relations Centre</h5>
 	
 <div class="row">
