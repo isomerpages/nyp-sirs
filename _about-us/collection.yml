@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our Team.md
       - who-we-are.md
       - strategic-partners.md
       - our-facilities.md
