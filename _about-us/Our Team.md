@@ -57,6 +57,8 @@ We believe that people are the greatest assets of any organisation, and it is no
 **Angie ❤ SIRS**
 <br><i>“I enjoy working with every colleague and team at SIRS. Although each comes with a diverse personality and background, we just have this magical tacit agreement when we work together.”</i>
 
+<hr>
+
 <h5>Celeste Tan, Head of Business Development</h5>
 	
 <div class="row">
@@ -77,6 +79,8 @@ We believe that people are the greatest assets of any organisation, and it is no
 **Celeste ❤ SIRS**
 <br><i>“Love that SIRS is very practical and down-to-earth in our approach, where all of us work together amazingly with companies and individuals helping them attain their goals and ambitions.”</i>
 
+<hr>
+
 <h5>James Fong, Head of Programmes</h5>
 	
 <div class="row">
@@ -96,6 +100,8 @@ We believe that people are the greatest assets of any organisation, and it is no
 
 **James ❤ SIRS**
 <br><i>“The greatest satisfaction is my ability to impact lives in positive ways where at SIRS we are constantly working to enable opportunities for individuals and companies to remain relevant and valuable through acquiring needed skills and capabilities.”</i>
+
+<hr>
 
 <h5>Karen Tan, Head of Administration</h5>
 	
