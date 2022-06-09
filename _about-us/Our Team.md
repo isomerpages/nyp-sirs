@@ -30,7 +30,6 @@ Contact us for information on grant-supported solutions that can support your bu
 <p>Megan has been in the education and training industry since 2006, and with over 25 years of Public and Private sector experience under her belt. Under her strategic leadership, SIRS propelled to being a key training partner with some of the most established global and local companies including Alibaba, Amazon, Lazada, Qoo10 and Shopee. These are collaborations which have played a significant role in contributing to the fast-forwarded digitalisation and transformation of the retail industry, particularly in the e-commerce space. Megan is also keenly focused on supporting SMEs to succeed and thrive, working unceasingly within SIRS, and externally with other key</p>
 </div>
 </div>
-
 bodies including Heartland Enterprise Centre Singapore and the Federation of Merchants’ Association but to name a few, to deliver training and consultancy solutions as well as career development and mentoring support to both companies and individuals alike.
 
 **Getting to know Megan**
