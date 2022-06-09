@@ -16,8 +16,3 @@ Contact us for information on grant-supported solutions that can support your bu
 ![Photo of SIRS HODs](/images/images-2021/Our%20Team/HOD_SIRS_All.jpg)
 	
 <h5> Megan Ong<br>Director of SIRS
-
-
-
-
-
