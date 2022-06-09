@@ -38,8 +38,7 @@ When you are strategic but detailed, speedy but careful, energetic but chilled, 
 **Megan ❤ SIRS**
 ><i> “Being in SIRS is being in the 2 industries that I love! Straddling public duty that also supports the retail industry is meaningful and stimulating work, and the positive impact that we are able to make is what drives me and what I find most satisfying.”</i>
 
-
-<h5>Angie, Head of Customer Relations Centre</h5>
+**<big>Angie Ng, Head of Customer Relations Centre</big>**
 	
 <div class="row">
     <div class="col is-4">
