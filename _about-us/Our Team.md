@@ -69,7 +69,7 @@ We believe that people are the greatest assets of any organisation, and it is no
 </div>
 </div>
 
-**Getting to know Celeste**<br>“Good things come in small packages.” never rings more true when you meet Celeste. She is tiny but she is the fiery spicy chilli padi that makes you sit up straighter, eyes opened wider, ears stretched longer (ok, we are stretching this a little) – where she really adds that special kind of spice to any conversation and peppered with a good dose of humour.
+**Getting to know Celeste**<br>“Good things come in small packages” never rings more true when you meet Celeste. She is tiny but she is the fiery spicy chilli padi that makes you sit up straighter, eyes opened wider, ears stretched longer (ok, we are stretching this a little) – where she really adds that special kind of spice to any conversation and peppered with a good dose of humour.
 
 
 **Celeste ❤ SIRS**
