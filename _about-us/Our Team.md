@@ -65,7 +65,7 @@ We believe that people are the greatest assets of any organisation, and it is no
 		</figure>
 	</div>
 	<div class="col is-8">
-<p>Celeste is a true blue business development professional whose vast experience in start-ups, ecommerce and retail in Asia has lent her a deep understanding of both the goals and challenges of the companies she works with on their strategic training and consultancy needs. An ex-entrepreneur, Celeste also has the added advantage of possessing a broader perspective of the overall organisational structure. This contributes significantly to the value that she brings to businesses in helping them to identify the key needs in strategic areas especially critical in the New Retail Omnichannel environment,  and that also supports extensively the reskilling and upskilling of employees.</p>
+<p>Celeste is a true blue business development professional whose vast experience in start-ups, e-commerce and retail in Asia has lent her a deep understanding of both the goals and challenges of the companies she works with on their strategic training and consultancy needs. An ex-entrepreneur, Celeste also has the added advantage of possessing a broader perspective of the overall organisational structure. This contributes significantly to the value that she brings to businesses in helping them to identify the key needs in strategic areas especially critical in the New Retail Omnichannel environment,  and that also supports extensively the reskilling and upskilling of employees.</p>
 </div>
 </div>
 
