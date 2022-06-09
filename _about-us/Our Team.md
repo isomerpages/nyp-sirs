@@ -117,7 +117,7 @@ We believe that people are the greatest assets of any organisation, and it is no
 </div>
 </div>
 
-**Getting to know Karen**<br>A gentle and demure disposition belies a steely focus and confident  gatekeeping. Karen is a true disciplinarian at work and a free spirit at play. Catch her at the right time to experience of the best of both worlds! 
+**Getting to know Karen**<br>A gentle and demure disposition belies a steely focus and confident  gatekeeping. Karen is a true disciplinarian at work and a free spirit at play. Catch her at the right time to experience the best of both worlds! 
 
 **Karen ❤ SIRS**
 <br><i>“While SIRS is a stat board, we work like a corporate entity with agility and dynamism.”</i>
