@@ -5,7 +5,7 @@ description: Meet the SIRS Team
 ---
 ![vector image of people](/images/images-2021/OurTeam/OurTeam_Header.png)
 
-<h4> The SIRS Family </h4>
+<h4>The SIRS Family </h4>
 
 Welcome to the SIRS family – we are a team of passionate, dynamic, and fun professionals from diverse backgrounds rich in Retail, Digital Marketing and Digitalisation,  E-Commerce, and Service. 
 
