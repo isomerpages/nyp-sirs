@@ -14,5 +14,8 @@ We believe that people are the greatest assets of any organisation, and it is no
 Contact us for information on grant-supported solutions that can support your business and workforce capability development.
 
 <h4> Heads of the SIRS Family
+
+![Photo of HODs](/images/images-2021/Our%20Team/HOD_SIRS.jpg)
+	
 	
 <h5> Megan Ong, Director of SIRS
