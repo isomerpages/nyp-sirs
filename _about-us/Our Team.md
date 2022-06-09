@@ -50,13 +50,10 @@ We believe that people are the greatest assets of any organisation, and it is no
 </div>
 </div>
 
-**Getting to know Angie**
-
-Beneath a dimpled smile, and a picture of zen and quiet confidence is an energetic industry veteran unfazed by market turbulence and zealous in helping learners. Always raring to make a difference, Angie keeps up her vitality stepping up in her workouts (and probably never even breaking out in a bead of sweat). 
+**Getting to know Angie**<br>Beneath a dimpled smile, and a picture of zen and quiet confidence is an energetic industry veteran unfazed by market turbulence and zealous in helping learners. Always raring to make a difference, Angie keeps up her vitality stepping up in her workouts (and probably never even breaking out in a bead of sweat). 
 
 **Angie ❤ SIRS**
-
-<i>“I enjoy working with every colleague and team at SIRS. Although each comes with a diverse personality and background, we just have this magical tacit agreement when we work together.”</i>
+<br><i>“I enjoy working with every colleague and team at SIRS. Although each comes with a diverse personality and background, we just have this magical tacit agreement when we work together.”</i>
 
 <h5>Celeste Tan, Head of Business Development</h5>
 	
@@ -72,14 +69,11 @@ Beneath a dimpled smile, and a picture of zen and quiet confidence is an energet
 </div>
 </div>
 
-**Getting to know Celeste**
-
-“Good things come in small packages.” never rings more true when you meet Celeste. She is tiny but she is the fiery spicy chilli padi that makes you sit up straighter, eyes opened wider, ears stretched longer (ok, we are stretching this a little) – where she really adds that special kind of spice to any conversation and peppered with a good dose of humour.
+**Getting to know Celeste**<br>“Good things come in small packages.” never rings more true when you meet Celeste. She is tiny but she is the fiery spicy chilli padi that makes you sit up straighter, eyes opened wider, ears stretched longer (ok, we are stretching this a little) – where she really adds that special kind of spice to any conversation and peppered with a good dose of humour.
 
 
 **Celeste ❤ SIRS**
-
-<i>“Love that SIRS is very practical and down-to-earth in our approach, where all of us work together amazingly with companies and individuals helping them attain their goals and ambitions.”</i>
+<br><i>“Love that SIRS is very practical and down-to-earth in our approach, where all of us work together amazingly with companies and individuals helping them attain their goals and ambitions.”</i>
 
 <h5>James Fong, Head of Programmes</h5>
 	
@@ -95,14 +89,11 @@ Beneath a dimpled smile, and a picture of zen and quiet confidence is an energet
 </div>
 </div>
 
-**Getting to know James**
-
-A good book and a good meal – what more can one ask for. James is an avid cook who whips up meals with as much gusto as he whips up learning programmes; and loves nothing more than settling down with any book that catches his whim…which includes an eclectic range, from armchair travel to his secret stash of TinTin comics. And if you are lucky, you may just get an invite to share an inspired, spur-of the-moment meal, and conversation about his many varied interests!
+**Getting to know James**<br>A good book and a good meal – what more can one ask for. James is an avid cook who whips up meals with as much gusto as he whips up learning programmes; and loves nothing more than settling down with any book that catches his whim…which includes an eclectic range, from armchair travel to his secret stash of TinTin comics. And if you are lucky, you may just get an invite to share an inspired, spur-of the-moment meal, and conversation about his many varied interests!
 
 
 **James ❤ SIRS**
-
-<i>“The greatest satisfaction is my ability to impact lives in positive ways where at SIRS we are constantly working to enable opportunities for individuals and companies to remain relevant and valuable through acquiring needed skills and capabilities.”</i>
+<br><i>“The greatest satisfaction is my ability to impact lives in positive ways where at SIRS we are constantly working to enable opportunities for individuals and companies to remain relevant and valuable through acquiring needed skills and capabilities.”</i>
 
 <h5>Karen Tan, Head of Administration</h5>
 	
@@ -118,10 +109,7 @@ A good book and a good meal – what more can one ask for. James is an avid cook
 </div>
 </div>
 
-**Getting to know Karen**
-
-A gentle and demure disposition belies a steely focus and confident  gatekeeping. Karen is a true disciplinarian at work and a free spirit at play. Catch her at the right time to experience of the best of both worlds! 
+**Getting to know Karen**<br>A gentle and demure disposition belies a steely focus and confident  gatekeeping. Karen is a true disciplinarian at work and a free spirit at play. Catch her at the right time to experience of the best of both worlds! 
 
 **Karen ❤ SIRS**
-
-<i>“While SIRS is a stat board, we work like a corporate entity with agility and dynamism.”</i>
+<br><i>“While SIRS is a stat board, we work like a corporate entity with agility and dynamism.”</i>
