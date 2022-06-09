@@ -16,7 +16,7 @@ third_nav_title: WSQ Certified Modular Programmes
     </tr>
     <tr style="text-align:center;">
       <td style="text-align:center;width:50%;">To be confirmed</td>
-      <td style="text-align:center;width:50%;"> 5 - 6 Jul 2022 (Tue - Wed)- (Eng & Chi) </td>
+      <td style="text-align:center;width:50%;"> 5 - 6 Jul 2022 (Tue - Wed) <br> (Eng & Chi) </td>
     </tr>
 </table></center>
 
