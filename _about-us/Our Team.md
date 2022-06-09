@@ -17,7 +17,7 @@ Contact us for information on grant-supported solutions that can support your bu
 
 ![Photo of HODs](/images/images-2021/OurTeam/HOD_SIRS.jpg)
 	
-<h5> Megan Ong, Director of SIRS</h5>
+<h5>Megan Ong, Director of SIRS</h5>
 	
 <div class="row">
     <div class="col is-4">
@@ -103,3 +103,24 @@ A good book and a good meal – what more can one ask for. James is an avid cook
 
 **James ❤ SIRS**
 ><i>“The greatest satisfaction is my ability to impact lives in positive ways where at SIRS we are constantly working to enable opportunities for individuals and companies to remain relevant and valuable through acquiring needed skills and capabilities.”</i>
+
+<h5>Karen Tan, Head of Administration</h5>
+	
+<div class="row">
+    <div class="col is-4">
+		<figure style="margin:0">
+			<img src="/images/images-2021/OurTeam/HOD_GAO_Karen.png" style="width:100%;">
+			<figcaption class="has-text-weight-bold" style="color:#0AD25A"> </figcaption>
+		</figure>
+	</div>
+	<div class="col is-8">
+<p>Karen is our whiz at SIRS when it comes to getting things organised and running full steam ahead. With over 20 years in both the Public and Private sectors, she brings a wealth of experience managing a broad scope of operations and administrative initiatives. At SIRS, Karen’s primary focus is to ensure a well-oiled process of efficiency and effectiveness for our learners and corporate partners in reaping the value of their interactions with us. Working with our Business Development, Customer Relations and Programmes teams, Karen oversees SIRS’ office administration & operations including facilities & IT, as well as adult learners’ administration and finance related matters.</p>
+</div>
+</div>
+
+**Getting to know Karen**
+
+A gentle and demure disposition belies a steely focus and confident  gatekeeping. Karen is a true disciplinarian at work and a free spirit at play. Catch her at the right time to experience of the best of both worlds! 
+
+**Karen ❤ SIRS**
+><i>“While SIRS is a stat board, we work like a corporate entity with agility and dynamism.”</i>
