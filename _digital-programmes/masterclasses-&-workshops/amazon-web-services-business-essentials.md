@@ -1,11 +1,9 @@
 ---
-title: 'Amazon Web Services Business Essentials'
+title: Amazon Web Services Business Essentials
 permalink: /digital-programmes/masterclasses-and-workshops/amazon-web-services-business-essentials
-breadcrumb: 'Amazon Web Services Business Essentials'
-third_nav_title: 'Masterclasses & Workshops'
-
+breadcrumb: Amazon Web Services Business Essentials
+third_nav_title: Masterclasses & Workshops
 ---
-
 <img src="/images/images-2021/DigitalProgrammes-Image-Masterclass.png" style="width:100%;">
 
 <h4 style="text-align:center;">Next intake:</h4>
@@ -16,7 +14,7 @@ third_nav_title: 'Masterclasses & Workshops'
       <th style="text-align:center;width:50%;">Face-to-Face</th>
     </tr>
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">To be confirmed</td>
+      <td style="text-align:center;width:50%;">18 Jul 2022 (Mon) </td>
       <td style="text-align:center;width:50%;">To be confirmed</td>
     </tr>
 </table></center>
