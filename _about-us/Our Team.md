@@ -27,6 +27,11 @@ Contact us for information on grant-supported solutions that can support your bu
 		</figure>
 	</div>
 	<div class="col is-8">
-<p>Megan has been in the education and training industry since 2006, and with over 25 years of Public and Private sector experience under her belt. Under her strategic leadership, SIRS propelled to being a key training partner with some of the most established global and local companies including Alibaba, Amazon, Lazada, Qoo10 and Shopee. These are collaborations which have played a significant role in contributing to the fast-forwarded digitalisation and transformation of the retail industry, particularly in the ecommerce space. Megan is also keenly focused on supporting SMEs to succeed and thrive, working unceasingly within SIRS, and externally with other key bodies including Heartland Enterprise Centre Singapore and the Federation of Merchants’ Association but to name a few, to deliver training and consultancy solutions as well as career development and mentoring support to both companies and individuals alike.</p>
+<p>Megan has been in the education and training industry since 2006, and with over 25 years of Public and Private sector experience under her belt. Under her strategic leadership, SIRS propelled to being a key training partner with some of the most established global and local companies including Alibaba, Amazon, Lazada, Qoo10 and Shopee. These are collaborations which have played a significant role in contributing to the fast-forwarded digitalisation and transformation of the retail industry, particularly in the e-commerce space. Megan is also keenly focused on supporting SMEs to succeed and thrive, working unceasingly within SIRS, and externally with other key</p>
 </div>
 </div>
+
+bodies including Heartland Enterprise Centre Singapore and the Federation of Merchants’ Association but to name a few, to deliver training and consultancy solutions as well as career development and mentoring support to both companies and individuals alike.
+
+**Getting to know Megan**
+<br>When you are strategic but detailed, speedy but careful, energetic but chilled, optimistic but measured, it’s no wonder that Megan is likened to Harry Potter’s Dumbledore by the SIRS’ team – it takes some powerful “magical” ability to juggle and balance all that, be as fiercely loyal & deeply protective of everyone around her as she is, and then running off to beat her friends at a game of netball. Whew!</br>
