@@ -18,7 +18,7 @@ Holistic Hands-on Content Marketing Techniques</center>
 
 <center><table style="width:80%;">
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;"> 27 June, 4, 12, 13, 18 July 2022 (Conducted in English)</td>
+      <td style="text-align:center;width:50%;"> 12, 13, 18, 19, 25 July 2022 (Conducted in English)</td>
     </tr>
 </table></center>
 
