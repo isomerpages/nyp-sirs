@@ -3,7 +3,7 @@ title: Our Team
 permalink: /about-us/ourteam
 description: Meet the SIRS Team
 ---
-![Image of vector people](/images/images-2021/Our%20Team/OurTeam_Header.png)
+![Vector image of people](/images/images-2021/Our%20Team/OurTeam_Header.png)
 
 <h4> The SIRS Family </h4>
 
