@@ -2,7 +2,6 @@ collections:
   digital-programmes:
     output: true
     order:
-      - Visual Merchandising Mentorship Programme (VMMP).md
       - overview.md
       - alibaba-business-school/.keep
       - alibaba-business-school/overview.md
@@ -77,3 +76,4 @@ collections:
       - study-trips/.keep
       - study-trips/overview.md
       - study-trips/wechat-digital-immersion-programme.md
+      - Visual Merchandising Mentorship Programme (VMMP).md
