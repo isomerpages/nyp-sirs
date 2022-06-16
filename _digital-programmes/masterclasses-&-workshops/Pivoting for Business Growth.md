@@ -44,10 +44,10 @@ third_nav_title: Masterclasses & Workshops
 
 
 <h4>Who Should Attend</h4>
-<p>Retailers and business owners who are keen to set up their e-commerce and social commerce store or interested to find out more about social commerce.</p>
+<p>Business Owners, Entrepreneurs, General Managers, Head of Departments</p>
 
 <h4>Duration</h4>
-<p>9am - 6pm (8 hours)</p>
+<p>24 hours (16 hours classroom, 8 hours on-the-job coaching)</p>
 
 <h4>Fees</h4>
 
@@ -60,22 +60,22 @@ third_nav_title: Masterclasses & Workshops
 
 <tr>
 <td>Full fees</td>
-<td>$535.00</td>
+<td>$3,850</td>
 </tr>
 
 <tr>
 <td>Singapore Citizen/Singapore PR (SPR) (70% funding)</td>
-<td>$160.50</td>
+<td>$1,235.85</td>
 </tr>
 
 <tr>
 <td>Singapore Citizen 40 years & above<sup>1</sup> (90% funding)</td>
-<td>$60.50</td>
+<td>$465.85</td>
 </tr>
 
 <tr>
   <td>Singapore Citizen/SPR sponsored by SMEs<sup>2</sup> (90% funding)</td>
-<td>$60.50</td>
+<td>$465.85</td>
 </tr>
 
 </table>
