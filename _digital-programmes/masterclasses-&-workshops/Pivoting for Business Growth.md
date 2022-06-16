@@ -18,45 +18,30 @@ third_nav_title: Masterclasses & Workshops
     </tr>
 </table></center>
 
-<p>As e-commerce and social media continue to grow and evolve rapidly, the lines between them are increasingly blurred, giving rise to Social Commerce, an exciting evolution in retail. With social commerce, businesses can create seamless omnichannel shopping experiences for consumers to purchase on social media, engage and communicate directly with customers, as well as reach out to their network.</p>
+<p>The rapid advancement of technologies and the spread of e-commerce have hastened the pace of consumption. In today’s time-poor society and digital overload, consumers spend less than 15 seconds on a website before moving on to another. Creating a personalised shopping experience that addresses diversified consumers’ needs and wants helps businesses stand out amongst competitors in this dynamic market. By clearly communicating value propositions and understanding the different stages of the customer buying journey, you can engage with customers at the right place, at the right time, with the right message.</p>
 
-<p>In Southeast Asia, as many as 42%* of total shoppers use social media to make purchases one to two times a month, and 35%* use it to shop more than three times a month. Social commerce sales have grown exponentially in the last year, accelerated by the pandemic that drove more customers to shop from brands they have engaged with on social media platforms.</p>
+<p>Some businesses fail because their customers are unsure of what they are selling – are you making the same mistake? According to Bain’s Elements of Value1, customers today have 30 values they highly regard - How many of them do you use in your marketing communication? </p>
 
-<p>Want to find out how you too can ride the social commerce wave and grow your business? Join us to learn how you can leverage Shopline, Asia’s biggest provider of omnichannel retail services for online, offline-to-online and cross-border commerce to reinvent your customer engagement and boost sales.</p>
+<p>Through a combination of facilitated classroom learning and one-to-one mentorship, this workshop will guide you in crafting your business’s value propositions and aligning them to your business model, communicating clearly to your target audience on your products and services.</p>
 
-<small>*Data source:
-<a href="https://techwireasia.com/2021/10/southeast-asia-sees-exhilarating-rise-in-social-commerce/">https://techwireasia.com/2021/10/southeast-asia-sees-exhilarating-rise-in-social-commerce/</a>
+
+<small>*Source:
+<a href="https://www.bain.com/insights/the-elements-of-value-hbr/">https://www.bain.com/insights/the-elements-of-value-hbr/</a>
 
 <p><h4>Course Title | Mode of Training | Course Ref</h4></p>
 
-<p>Smart Social Commerce
-<br>Classroom - TGS-2021008515
+<p>Pivoting for Business Growth
+<br>Classroom, Practical - TGS-2022013201
 </p>
 
 <h4>Outline</h4>
-<b>1. Introduction to Social Commerce </b>
-  <ul>
-  <li>Understand the social commerce landscape in Singapore</li>
-  <li>Unconventional social commerce marketing techniques</li>
-  <li>Social commerce strategy and tools</li>
-	<li>Platforms to optimise your social commerce online sales</li>
-  </ul>
-  
-<b>2. How to Apply and Create Shopline Social Commerce Store</b>
-  <ul>
-  <li>Set up Shopline social commerce store</li>
-  <li>Running customer relationship management</li>
-  <li>Order management and inventory management</li>
-	<li>Store management (delivery, payment, upload products, domain and shop design)</li>
-  </ul>
-                
-<b>3. Ways to Evaluate and Scale Business Using Social Marketing with AI enablement</b>
-  <ul>
-  <li>Five ways to optimise your social sales</li>
-  <li>Social media marketing and digital ads (automated marketing and broadcast centre, digital ad tracking)</li>
-  <li>Live streaming essentials (storytelling, processes, KPIs and Shopline’s enhancement feature)</li>
-  <li>Social commerce tools (strategies, KPIs and measurements)</li>
-  </ul>
+* Perform a Business Model Review
+* Understand your business's current strengths, weakness, and value propositions
+* Develop "Get, Keep and Grow" customer strategies
+* Conduct a Customer Journey Analysis
+* Identify your target audience and the interventions to engage them at different points of the customer journey
+* Use social media as a tool to reach out and engage the targeted audience
+
 
 <h4>Who Should Attend</h4>
 <p>Retailers and business owners who are keen to set up their e-commerce and social commerce store or interested to find out more about social commerce.</p>
