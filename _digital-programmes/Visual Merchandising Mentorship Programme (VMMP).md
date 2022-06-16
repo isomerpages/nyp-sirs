@@ -26,6 +26,10 @@ image: /images/images-2021/DigitalProgrammes-VMMP-Overview.png
 * Techniques to take good product photos and write a compelling story
 * Various tools to help you develop marketing materials
 
+<h4>Who Should Attend</h4>
+<p>SME Business Owners, Entrepreneurs, Visual Merchandising Professionals
+
+
 <h4>Fees</h4>
 
 <center>
