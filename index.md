@@ -6,6 +6,23 @@ sections:
   - hero:
       background: /images/images-2021/Homepage_Banner2.png
   - infopic:
+      title: Visual Merchandising Mentorship Programme
+      description: Give customers a reason to patronise your store again by
+        transforming and optimising your retail store's presentation through
+        this 1-on-1 mentoring programme.
+      button: more about this programme
+      url: /digital-programmes/vmmp
+      image: /images/images-2021/Home-Highlights-VMMP.png
+      alt: VMMP
+  - infopic:
+      title: Pivoting for Business Growth
+      description: Let us help review your business model and develop winning
+        strategies to get, keep and grow your customer base.
+      button: more about this workshop
+      url: /digital-programmes/mc-ws/pbg
+      image: /images/images-2021/Home-Highlights-WS-PBG.jpg
+      alt: Pivoting for Business Growth
+  - infopic:
       title: "Transacting Safely with Standards: Anti-scam Updates to TR 76 "
       description: Enterprise Singapore has announced the revision to TR 76 to help
         e-retailers & e-marketplaces improve their online transaction processes
