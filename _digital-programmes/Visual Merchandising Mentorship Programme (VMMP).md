@@ -27,7 +27,7 @@ image: /images/images-2021/DigitalProgrammes-VMMP-Overview.png
 * Various tools to help you develop marketing materials
 
 <h4>Who Should Attend</h4>
-<p>SME Business Owners, Entrepreneurs, Visual Merchandising Professionals
+<p>SME Business Owners, Entrepreneurs, Visual Merchandising Professionals</p>
 
 
 <h4>Fees</h4>
