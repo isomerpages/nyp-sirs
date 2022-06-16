@@ -20,7 +20,7 @@ third_nav_title: Masterclasses & Workshops
 
 <p>The rapid advancement of technologies and the spread of e-commerce have hastened the pace of consumption. In today’s time-poor society and digital overload, consumers spend less than 15 seconds on a website before moving on to another. Creating a personalised shopping experience that addresses diversified consumers’ needs and wants helps businesses stand out amongst competitors in this dynamic market. By clearly communicating value propositions and understanding the different stages of the customer buying journey, you can engage with customers at the right place, at the right time, with the right message.</p>
 
-<p>Some businesses fail because their customers are unsure of what they are selling – are you making the same mistake? According to Bain’s Elements of Value1, customers today have 30 values they highly regard - How many of them do you use in your marketing communication? </p>
+<p>Some businesses fail because their customers are unsure of what they are selling – are you making the same mistake? According to Bain’s Elements of Value<sup>1</sup>, customers today have 30 values they highly regard - How many of them do you use in your marketing communication? </p>
 
 <p>Through a combination of facilitated classroom learning and one-to-one mentorship, this workshop will guide you in crafting your business’s value propositions and aligning them to your business model, communicating clearly to your target audience on your products and services.</p>
 
