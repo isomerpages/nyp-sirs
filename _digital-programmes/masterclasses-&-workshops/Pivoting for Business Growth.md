@@ -5,7 +5,6 @@ description: SIRS Workshop Series - Pivoting for Business Growth
 image: /images/images-2021/DigitalProgrammes-HImage-Workshop.png
 third_nav_title: Masterclasses & Workshops
 ---
-
 <img src="/images/images-2021/DigitalProgrammes-HImage-Workshop.png" style="width:100%;">
 
 <h4 style="text-align:center;">Next intake:</h4>
@@ -61,7 +60,7 @@ third_nav_title: Masterclasses & Workshops
 
 <tr>
 <td>Full fees</td>
-<td>$3,850</td>
+<td>$3,850.00</td>
 </tr>
 
 <tr>
