@@ -10,6 +10,12 @@ image: /images/images-2021/DigitalProgrammes-VMMP-Overview.png
 
 <p>In this 16 hours mentorship programme, learn about visual merchandising techniques to rejuvenate your shop premises, enhance customer experience, and improve online-to-offline integration. A unique feature of this programme is that it will be conducted through a 1-on-1 mentoring with a Visual Merchandising Consultant, delivering learning with hands-on sessions to support you in transforming and optimising your retail store's presentation.</p>
 
+<p><h4>Course Title | Mode of Training | Course Ref</h4></p>
+
+<p>Heartland Visual Merchandising Programme
+<br> Practical - TGS-2022013201
+</p>
+
 <h4>Outline</h4>
 * Improve storefront marketing (layout and space optimisation)
 * Build proficiency in content development and VM strategy
