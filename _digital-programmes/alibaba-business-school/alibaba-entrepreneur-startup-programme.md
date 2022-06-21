@@ -18,7 +18,7 @@ Open Your Horizons. Apply Proven E-Commerce Strategies</center>
 
 <center><p> 31 Aug- 2 Sep & 5-7 Sep 2022 <br>(Wed-Fri, Mon-Wed)</p></center>
 
-<b>This programme will be conducted in Mandarin.</b>
+<b>This programme will be conducted in English.</b>
 
 <p>SIRS in partnership with Alibaba Business School, the official training arm of Alibaba Group, offers comprehensive and systematic training programmes to meet a full spectrum of learning needs of government groups, entrepreneurs, SMEs, startups, e-commerce practitioners and students.</p>
 
