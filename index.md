@@ -23,6 +23,15 @@ sections:
       image: /images/images-2021/Home-Highlights-WS-PBG.jpg
       alt: Pivoting for Business Growth
   - infopic:
+      title: Holistic Wellness for a Resilient You
+      description: Become more productive and inject positive vibes into your
+        workplace to foster better relationships with colleagues, business
+        partners and customers.
+      button: More about this workshop
+      url: digital-programmes/mc-ws/wellness
+      image: /images/images-2021/Home-Highlights-WS-Wellness.png
+      alt: Image alt text
+  - infopic:
       title: "Transacting Safely with Standards: Anti-scam Updates to TR 76 "
       description: Enterprise Singapore has announced the revision to TR 76 to help
         e-retailers & e-marketplaces improve their online transaction processes
@@ -40,15 +49,6 @@ sections:
       url: /success-and-articles/articles/whitepaper-may2022
       image: /images/blog/Highlights_SIRS Homepage_Whitepaper_eTail.png
       alt: Mannequin Image for Whitepaper
-  - infopic:
-      title: Holistic Wellness for a Resilient You
-      description: Become more productive and inject positive vibes into your
-        workplace to foster better relationships with colleagues, business
-        partners and customers.
-      button: More about this workshop
-      url: digital-programmes/mc-ws/wellness
-      image: /images/images-2021/Home-Highlights-AliCM.png
-      alt: Image alt text
   - infopic:
       title: Digital Mentorship Programme (DMP)
       description: Fast track your e-commerce and social commerce journey with this
