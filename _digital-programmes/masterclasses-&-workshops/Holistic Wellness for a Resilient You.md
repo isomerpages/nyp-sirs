@@ -80,7 +80,7 @@ third_nav_title: Masterclasses & Workshops
 </table>
 </center>
 
-<small><i> Fees include prevailing GST
+<small><i>Fees include prevailing GST
 <br> Funding Eligiblity Period: 1 Oct 2021 to 30 Sep 2024<br>
 <small><i><sup>1</sup>Fee is under the <a href="/services/consultancy/skillsfuture-midcareer-enhanced-subsidy">Mid-career Enhanced Subsidy</a>
 <br><sup>2</sup>Fee is under the <a href="/services/consultancy/etss">Enhanced Training Support for SMEs (ETSS)</a><br>
