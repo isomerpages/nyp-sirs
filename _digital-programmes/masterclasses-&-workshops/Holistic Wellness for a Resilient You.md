@@ -18,35 +18,36 @@ third_nav_title: Masterclasses & Workshops
     </tr>
 </table></center>
 
-<p>Stress and fatigue are a common experience among the working population with the modern lifestyle and more so during and after the pandemic; An average person will spend at least 90,000 hours<sup>*</sup> working over a lifetime - that is one-third of our lives! While technology enables us to work anytime and anywhere, the lines between our career and personal lives are gradually blurring. More people are finding it difficult to ‘unplug’ and inevitably bring their underlying state of wellness to work, affecting job performances. </p>
+<p>The rapid advancement of technologies and the spread of e-commerce have hastened the pace of consumption. In today’s time-poor society and digital overload, consumers spend less than 15 seconds on a website before moving on to another. Creating a personalised shopping experience that addresses diversified consumers’ needs and wants helps businesses stand out amongst competitors in this dynamic market. By clearly communicating value propositions and understanding the different stages of the customer buying journey, you can engage with customers at the right place, at the right time, with the right message.</p>
 
-<p>Improving physical and mental wellness can help us become more productive and inject positive vibes into our workplace to foster better relationships with colleagues, business partners, and customers. Learn to be the best version of yourself through this workshop guided by Lionel Lim, a multiple award-winning Personal Branding Speaker and a Master Trainer and Sports Nutritionist featured extensively on international and local media platforms. Discover practical hands-on activities and holistic wellness strategies you can adopt to look and feel good inside and out, boost self-confidence and develop a positive mindset for a resilient you!
+<p>Some businesses fail because their customers are unsure of what they are selling – are you making the same mistake? According to Bain’s Elements of Value<sup>*</sup>, customers today have 30 values they highly regard - How many of them do you use in your marketing communication? </p>
+
+<p>Through a combination of facilitated classroom learning and one-to-one mentorship, this workshop will guide you in crafting your business’s value propositions and aligning them to your business model, communicating clearly to your target audience on your products and services.</p>
+
+
+<small>*Source:
+<a href="https://www.bain.com/insights/the-elements-of-value-hbr/">https://www.bain.com/insights/the-elements-of-value-hbr/</a>
+
+<p><h4>Course Title | Mode of Training | Course Ref</h4></p>
+
+<p>Pivoting for Business Growth
+<br>Classroom, Practical - TGS-2022013201
 </p>
 
-<p><sup>*</sup>Source: <a href="https://bit.ly/3ymJuR5">https://www.gettysburg.edu/news</a>
-
-<h4>Course Title | Mode of Training | Course Ref</h4>
-
-<p>Holistic Wellness for a Resilient You
-<br>Classroom - TBC
-
 <h4>Outline</h4>
-<ul>
-<li>Recognise the stressors in your life and how to handle them</li>
-<li>Manage fatigue or what is commonly called burnout</li>
-<li>Kickstart a quality lifestyle by taking stock and making tweaks to your current routine</li>
-<li>Eat well with proper food and nutrition</li>
-<li>Care for your skin with DIY tips and understand skincare labels</li>
-<li>Choose styles that flatter your body shape</li>
-<li>Wear the right colours to project confidence, youthfulness, and professionalism</li>
-<li>Activate your body to achieve tip-top condition with different types of exercises such as 		stretching, bodyweight, and chair yoga</li>
-</ul>
+* Perform a Business Model Review
+* Understand your business's current strengths, weakness, and value propositions
+* Develop "Get, Keep and Grow" customer strategies
+* Conduct a Customer Journey Analysis
+* Identify your target audience and the interventions to engage them at different points of the customer journey
+* Use social media as a tool to reach out and engage the targeted audience
+
 
 <h4>Who Should Attend</h4>
-<p>This workshop is suitable for all working professionals and individuals who are interested to enhance their well-being and develop the resilience to better manage personal and work life.</p>
+<p>Business Owners, Entrepreneurs, General Managers, Head of Departments</p>
 
 <h4>Duration</h4>
-<p>2 days (9am - 6pm)</p>
+<p>24 hours (16 hours classroom, 8 hours on-the-job coaching)</p>
 
 <h4>Fees</h4>
 
@@ -59,22 +60,22 @@ third_nav_title: Masterclasses & Workshops
 
 <tr>
 <td>Full fees</td>
-<td>$802.50</td>
+<td>$3,850.00</td>
 </tr>
 
 <tr>
 <td>Singapore Citizen/Singapore PR (SPR) (70% funding)</td>
-<td>$240.75</td>
+<td>$1,235.85</td>
 </tr>
 
 <tr>
 <td>Singapore Citizen 40 years & above<sup>1</sup> (90% funding)</td>
-<td>$90.75</td>
+<td>$465.85</td>
 </tr>
 
 <tr>
   <td>Singapore Citizen/SPR sponsored by SMEs<sup>2</sup> (90% funding)</td>
-<td>$90.75</td>
+<td>$465.85</td>
 </tr>
 
 </table>
