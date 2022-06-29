@@ -34,7 +34,7 @@ third_nav_title: Masterclasses & Workshops
 	  <li><a href="/digital-programmes/masterclasses-and-workshops/demystify-ai">Demystify Emerging Digital Technologies 
 in the New Retail Revolution</a></li>
   <li><a href="/digital-programmes/masterclasses-and-workshops/differentiate-and-drive-growth-with-experience-innovation">Differentiate and Drive Growth with Experience Innovation</a></li>
-	  <li><a href="/digital-programmes/mc-ws/pbg">Holistic Wellness for a Resilient You</a></li>
+	  <li><a href="/digital-programmes/mc-ws/wellness">Holistic Wellness for a Resilient You</a></li>
   <li><a href="/digital-programmes/masterclasses-and-workshops/improve-customer-engagement-with-digital-mindset">Improve Customer Engagement with Digital Mindset</a></li>
   <li><a href="/digital-programmes/masterclasses-and-workshops/level-up-customer-engagement-through-live-streaming">Level Up Customer Engagement Through Live Streaming</a></li>
 		<li><a href="/digital-programmes/mc-ws/pbg">Pivoting for Business Growth</a></li>
