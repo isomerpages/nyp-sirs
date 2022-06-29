@@ -23,7 +23,7 @@ third_nav_title: Masterclasses & Workshops
 <p>Improving physical and mental wellness can help us become more productive and inject positive vibes into our workplace to foster better relationships with colleagues, business partners, and customers. Learn to be the best version of yourself through this workshop guided by Lionel Lim, a multiple award-winning Personal Branding Speaker and a Master Trainer and Sports Nutritionist featured extensively on international and local media platforms. Discover practical hands-on activities and holistic wellness strategies you can adopt to look and feel good inside and out, boost self-confidence and develop a positive mindset for a resilient you!
 </p>
 
-<p><sup>*</sup>Source: <a href="[One third of your life is spent at work - Gettysburg College](https://www.gettysburg.edu/news/stories?id=79db7b34-630c-4f49-ad32-4ab9ea48e72b#:~:text=The%20average%20person%20will%20spend%2090%2C000%20hours%20at%20work%20over%20a%20lifetime)">https://www.gettysburg.edu/news</a>
+<p><sup>*</sup>Source: <a href="https://bit.ly/3ymJuR5">https://www.gettysburg.edu/news</a>
 
 <h4>Course Title | Mode of Training | Course Ref</h4>
 
