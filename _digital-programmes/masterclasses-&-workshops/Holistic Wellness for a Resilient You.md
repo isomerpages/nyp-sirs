@@ -44,19 +44,7 @@ third_nav_title: Masterclasses & Workshops
 </ul>
 
 <h4>Who Should Attend</h4>
-<p>This workshop is suitable for entrepreneurs and aspiring entrepreneurs, managers/leaders communication functions in an organisation, marketing/corporate communication
-professionals/executives, social media specialists who are looking for new channels to engage customers.</p>
-
-<i>*Participants with basic knowledge in digital marketing will benefit from this workshop. If not, you are strongly
-encouraged to attend our <a href="/digital-programmes/skillsfuture-series/introduction-to-digital-marketing">Introduction to Digital Marketing</a> course.</i>
-
-<h4>Requirements</h4>
-<ul>
-<li>Bring along a mobile device (phone/tablet) with camera*</li>
-<li>Ensure the mobile device has at least 10 GB of free space</li>
-<li>Have a Facebook account</li>
-<i>To ensure a better learning experience, laptop with camera is preferred but not required</i>
-</ul>
+<p>This workshop is suitable for all working professionals and individuals who are interested to enhance their well-being and develop the resilience to better manage personal and work life.</p>
 
 <h4>Duration</h4>
 <p>2 days (9am - 6pm)</p>
