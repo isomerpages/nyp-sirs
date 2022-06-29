@@ -15,7 +15,6 @@ third_nav_title: Masterclasses & Workshops
     </tr>
     <tr style="text-align:center;">
       <td style="text-align:center;width:50%;">16-17 Aug (Tue-Wed)</td>
-</td>
     </tr>
 </table></center>
 
