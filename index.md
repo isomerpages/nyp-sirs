@@ -41,17 +41,19 @@ sections:
       image: /images/blog/Highlights_SIRS Homepage_Whitepaper_eTail.png
       alt: Mannequin Image for Whitepaper
   - infopic:
-      title: SIRS-Alibaba Content Marketing Programme
-      description: Acquire practical skills and in-depth knowledge in optimising your
-        content marketing strategy, running successful live streams, and
-        becoming a Key Opinion Leader to grow your fan base.
-      button: More about this programme
-      url: digital-programmes/alibaba-business-school/alibaba-content-marketing-programme
+      title: Holistic Wellness for a Resilient You
+      description: Become more productive and inject positive vibes into your
+        workplace to foster better relationships with colleagues, business
+        partners and customers.
+      button: More about this workshop
+      url: digital-programmes/mc-ws/wellness
       image: /images/images-2021/Home-Highlights-AliCM.png
       alt: Image alt text
   - infopic:
       title: Digital Mentorship Programme (DMP)
-      description: Fast track your e-commerce and social commerce journey with this personalised mentor-guided programme to help you with the setup and management of your e-commerce and social media platforms.
+      description: Fast track your e-commerce and social commerce journey with this
+        personalised mentor-guided programme to help you with the setup and
+        management of your e-commerce and social media platforms.
       url: /digital-programmes/digital-mentorship-programme
       image: /images/images-2021/DigitalProgrammes-DMP-Overview.jpg
       alt: alt text
