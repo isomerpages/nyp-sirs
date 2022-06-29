@@ -28,17 +28,19 @@ third_nav_title: Masterclasses & Workshops
 
 <h4>Course Title | Mode of Training | Course Ref</h4>
 
-<p>Level Up Customer Engagement Through Live Streaming
-<br>Classroom - TGS-2020513201
-<br>Synchronous E-learning - TGS-2021005211</p>
+<p>Holistic Wellness for a Resilient You
+<br>Classroom - TBC
 
 <h4>Outline</h4>
 <ul>
-<li>Plan and create content, script and programme flow for your live streaming</li>
-<li>Prepare and set-up for live streaming</li>
-<li>Leverage on social media and drive traffic to your live streaming</li>
-<li>Manage live streaming as a host</li>
-<li>Monitor effectiveness of your live streaming</li>
+<li>Recognise the stressors in your life and how to handle them</li>
+<li>Manage fatigue or what is commonly called burnout</li>
+<li>Kickstart a quality lifestyle by taking stock and making tweaks to your current routine</li>
+<li>Eat well with proper food and nutrition</li>
+<li>Care for your skin with DIY tips and understand skincare labels</li>
+<li>Choose styles that flatter your body shape</li>
+<li>Wear the right colours to project confidence, youthfulness, and professionalism</li>
+<li>Activate your body to achieve tip-top condition with different types of exercises such as 		stretching, bodyweight, and chair yoga</li>
 </ul>
 
 <h4>Who Should Attend</h4>
