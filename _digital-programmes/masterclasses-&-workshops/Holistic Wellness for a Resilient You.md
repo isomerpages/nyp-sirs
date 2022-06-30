@@ -28,7 +28,7 @@ third_nav_title: Masterclasses & Workshops
 <p><h4>Course Title | Mode of Training | Course Ref</h4></p>
 
 <p>Holistic Wellness for a Resilient You
-<br>Classroom - TBC
+<br>Classroom - To be confirmed
 </p>
 
 <h4>Outline</h4>
