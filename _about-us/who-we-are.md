@@ -42,7 +42,7 @@ If you require assistance immediately, please contact:
 * Business Training: [upskill@sirs.edu.sg ](mailto:upskill@sirs.edu.sg )
 
 <h4>Achievements</h4>
-<p>As a leader in retail training with more than 16 years of experience, SIRS has trained more than 200,000 retail professionals and job seekers. With a proven track record, SIRS has become a trusted partner and educator for many companies. We are an enabler and aggregator of solutions that help enterprises improve business performance through training, consultancy, applied research, study missions and placement services - all at one stop.</p>
+<p>As a leader in retail training with more than 16 years of experience, SIRS has trained more than 200,000 retail professionals and job seekers. With a proven track record, SIRS has become a trusted partner and educator for many companies. We are an enabler and aggregator of solutions that help enterprises improve business performance through training, consultancy, study missions, career advisory and placement services - all at one stop.</p>
 
 <p>We count among our clientele a wide range of enterprises comprising MNCs and SMEs. Some of our long time partners include Aldo, Amore Pacific, AsiaMalls, BHG, CapitaLand, Changi Airport Group, Charles and Keith, Club 21, Courts, Dairy Farm Singapore, Eu Yan Sang, Full House Home Furnishing, H&M, Koufu, L'Oreal, Pet Lovers Centre, Robinsons, Starhub, Sentosa Development Corporation, Sephora, Shangri La Group, Shell, Sheng Siong, Shilla, Singapore Petroleum Company, Singtel, Sony Electronics Singapore, Takashimaya and many more.</p>
  
