@@ -7,7 +7,7 @@ breadcrumb: Who We Are
 
 <img src="/images/images-2021/AboutUs_SIRS-NYP Combined Logos.png" style="width:70%;">
 
-At Singapore Institute of Retail Studies, our goal is to empower people and organisations to find their greatest, and hidden, potential that will enable them to thrive and succeed in today’s world of accelerated and continual change.
+At Singapore Institute of Retail Studies, our goal is to empower people and organisations to find their greatest, and hidden potential that will enable them to thrive and succeed in today’s world of accelerated and continual change.
 
 Established as the first Continuing Education & Training (CET) Institute in Singapore, we are fondly known as SIRS by many of our learners and corporate clients who have fast-forwarded their professional and organisational growth with us over the last 16 years, since 2006.
 
@@ -26,7 +26,7 @@ As the appointed anchor training provider by SkillsFuture Singapore for the Reta
 
 Recognising that every individual and organisation would have different training needs, our programmes: 
 
-* cover a broad Training spectrum that is also customisable to specific organisational training needs
+* cover a broad Training spectrum that is also customisable to specific organisational needs
 * include Total Learning Solutions that encompass both training and consultancy that guide businesses to develop the most critical digital skills and transformation
 * extend career advisory and placement assistance to individual learners
 * encompass training schedules that accommodate personal and professional flexibility
