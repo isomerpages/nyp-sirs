@@ -44,7 +44,7 @@ If you require assistance immediately, please contact:
 <h4>Achievements</h4>
 <p>As a leader in retail training with more than 16 years of experience, SIRS has trained more than 200,000 retail professionals and job seekers. With a proven track record, SIRS has become a trusted partner and educator for many companies. We are an enabler and aggregator of solutions that help enterprises improve business performance through training, consultancy, study missions, career advisory and placement services - all at one stop.</p>
 
-<p>We count among our clientele a wide range of enterprises comprising MNCs and SMEs. Some of our long time partners include Aldo, Amore Pacific, AsiaMalls, BHG, CapitaLand, Changi Airport Group, Charles and Keith, Club 21, Courts, Dairy Farm Singapore, Eu Yan Sang, Full House Home Furnishing, H&M, Koufu, L'Oreal, Pet Lovers Centre, Robinsons, Starhub, Sentosa Development Corporation, Sephora, Shangri La Group, Shell, Sheng Siong, Shilla, Singapore Petroleum Company, Singtel, Sony Electronics Singapore, Takashimaya and many more.</p>
+<p>We count among our clientele a wide range of enterprises comprising MNCs and SMEs. Some of our long time partners include Aldo, Amore Pacific, BHG, CapitaLand, Changi Airport Group, Charles and Keith, Clarks, Club 21, Commune, Courts, Dairy Farm Singapore, Eu Yan Sang, Love Bonito, M1, Pet Lovers Centre, Polar Puffs, 6ixty8ight, Starhub, Sentosa Development Corporation, Sephora, Shangri La Group, Sheng Siong, Shilla, Singapore Petroleum Company, Singtel, Sony Electronics Singapore, OCBC, The Body Shop, UOB, Wing Tai Group and many more.</p>
  
 <h4>Solutions and Services</h4>
 <p>SIRS is a holistic solutions provider with capability development & training at our core.</p> 
