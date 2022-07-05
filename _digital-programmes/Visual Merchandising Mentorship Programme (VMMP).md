@@ -41,22 +41,22 @@ image: /images/images-2021/DigitalProgrammes-VMMP-Overview.png
 
 <tr>
 <td>Full fees</td>
-<td>$535.00</td>
+<td>$2,850.00</td>
 </tr>
 
 <tr>
 <td>Singapore Citizen/Singapore PR (SPR) (70% funding)</td>
-<td>$160.50</td>
+<td>$914.85</td>
 </tr>
 
 <tr>
 <td>Singapore Citizen 40 years & above<sup>1</sup> (90% funding)</td>
-<td>$60.50</td>
+<td>$344.85</td>
 </tr>
 
 <tr>
 <td>Singapore Citizen/SPR sponsored by SMEs<sup>2</sup> (90% funding)</td>
-<td>$60.50</td>
+<td>$344.85</td>
 </tr>
 
 </table>
