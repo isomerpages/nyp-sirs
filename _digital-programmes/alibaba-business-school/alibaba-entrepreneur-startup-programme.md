@@ -26,7 +26,7 @@ Open Your Horizons. Apply Proven E-Commerce Strategies</center>
 
 <p>Upon completion of the programme, participants will receive a certificate jointly awarded by Alibaba Business School and Singapore Institute of Retail Studies.</p>
 
-<b>这课程将由淘宝大学认证讲师以中文授课!</b>
+<b>这课程将由淘宝大学认证讲师以英文授课!</b>
 
 <p>阿里巴巴商学院和新加坡南洋理工学院旗下零售管理学院合作，为新加坡企业带来一系列攸关电子商务实际操作与技能栽培课程，协助企业拓展核心能力并成功运用电子商务拓展营销与业务。</p>
 
