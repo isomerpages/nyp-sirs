@@ -129,10 +129,10 @@ Holistic Hands-on Content Marketing Techniques</center>
   </ul>
   
 <h4>Duration</h4>
-<p>5 days (40 hours)</p>
+<p>3 days (24 hours)</p>
 
 <h4>课程时间</h4>
-<p>5天 (40小时)</p>
+<p>3天 (24小时)</p>
 
 <h4>Fees</h4>
 
@@ -145,22 +145,24 @@ Holistic Hands-on Content Marketing Techniques</center>
 
 <tr>
 <td>Full fees</td>
-<td>$6,099</td>
+<td>   
+
+$4,119.50</td>
 </tr>
 
 <tr>
 <td>Singapore Citizen/Singapore PR (SPR) (70% funding)</td>
-<td>$1,829.70</td>
+<td>$1,235.85</td>
 </tr>
 
 <tr>
 <td>Singapore Citizen 40 years & above<sup>1</sup> (90% funding)</td>
-<td>$689.70</td>
+<td>$465.85</td>
 </tr>
 
 <tr>
 <td>Singapore Citizen/SPR sponsored by SMEs<sup>2</sup> (90% funding)</td>
-<td>$689.70</td>
+<td>$465.85</td>
 </tr>
 
 </table>
