@@ -64,11 +64,13 @@ Holistic Hands-on Content Marketing Techniques</center>
   <li>Uncover the secrets to maximising an anchor’s advantage – ways to position yourself for the win</li>
   </ul>
 
-<b>Fans Economy: Grow and Manage Your Fan Base</b>
+<b>Scale up on your Social Media Platform Operations & grow your Fans Economy</b>
 <ul>
   <li>Learn ways to grow your fan base</li>
   <li>Establish an effective mechanism to protect your fan base</li>
   <li>How to manage and maintain your fan base</li>
+	 <li>Social Media Platform Matrix Operation</li>
+	<li>Learn tips on Paid Social Media Advertising</li>
   </ul>
   
 <h4>课程内容</h4>
