@@ -46,13 +46,14 @@ Holistic Hands-on Content Marketing Techniques</center>
 
 <h4>Outline</h4>
 
-<b>Optimise Content Marketing Strategy and Learn Creative Image-text and Video Skills</b>
+<b>Optimise Content Marketing Strategy and Master Short Video Creation Skills</b>
 <ul>
-  <li>Recognise the trends in content marketing</li>
-  <li>Introduction to new content marketing methods – live-streaming, image-text, short videos, etc</li>
-  <li>Understand the new strategy of content marketing</li>
-  <li>Learn to optimise the positioning of image-text</li>
-  <li>Pick up image-text creative skills</li>
+	<li>Perform Social Media platform analysis & account planning</li>
+  <li>Understand the definition, trends and significance of video marketing through case studies</li>
+  <li>Plan the content for scripts of brand videos, product videos, and promotional videos</li>
+  <li>Develop a creative video structure through copywriting and advertising techniques</li>
+  <li>Learn the before, during and after processes of making a video - preparations, techniques & editing</li>
+  <li>Understand the rules and procedures to publish a completed video</li>
   </ul>
 
 <b>Successful Live-streaming Operations</b>
@@ -63,27 +64,13 @@ Holistic Hands-on Content Marketing Techniques</center>
   <li>Uncover the secrets to maximising an anchor’s advantage – ways to position yourself for the win</li>
   </ul>
 
-<b>Become a Key Opinion Leader (KOL) to Attract, Engage, and Convert Your Audience</b>
-<ul>
-  <li>Learn key skills of a Key Opinion Leader (KOL) and the interaction skills necessary for live-streaming</li>
-  <li>Acquire advanced skills of a KOL - Product selection, promotion, improvement of influence and more</li>
-  <li>Data review: The preparation for your next live-streaming</li>
-  </ul>
-
-<b>Art and Science of Video Production</b>
-<ul>
-  <li>Understand the definition, trends and significance of video marketing through case studies</li>
-  <li>Plan the content for scripts of brand videos, product videos, and promotional videos</li>
-  <li>Develop a creative video structure through copywriting and advertising techniques</li>
-  <li>Learn the before, during and after processes of making a video - preparations, techniques & editing</li>
-  <li>Understand the rules and procedures to publish a completed video</li>
-  </ul>
-
-<b>Fans Economy: Grow and Manage Your Fan Base</b>
+<b>Scale up on your Social Media Platform Operations & grow your Fans Economy</b>
 <ul>
   <li>Learn ways to grow your fan base</li>
   <li>Establish an effective mechanism to protect your fan base</li>
   <li>How to manage and maintain your fan base</li>
+	 <li>Social Media Platform Matrix Operation</li>
+	<li>Learn tips on Paid Social Media Advertising</li>
   </ul>
   
 <h4>课程内容</h4>
