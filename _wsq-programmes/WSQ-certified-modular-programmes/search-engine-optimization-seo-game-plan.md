@@ -12,7 +12,7 @@ third_nav_title: WSQ Certified Modular Programmes
       <th style="text-align:center;width:50%;">Online Training</th>
     </tr>
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">4, 5, 15  & 16 Aug 2022 </td>
+      <td style="text-align:center;width:50%;">4, 5, 15  & 16 Aug 2022</td>
     </tr>
 </table></center>
 
