@@ -15,7 +15,7 @@ third_nav_title: Masterclasses & Workshops
     </tr>
     <tr style="text-align:center;">
       <td style="text-align:center;width:50%;">16-17 Aug (Tue-Wed)</td>
-      <td style="text-align:center;width:50%;">13-14 Jun 2022 (Mon-Tue) <br>18-19 Jul 2022 (Mon-Tue) </td>
+      <td style="text-align:center;width:50%;">To be confirmed</td>
     </tr>
 </table></center>
 
