@@ -6,6 +6,15 @@ sections:
   - hero:
       background: /images/images-2021/Homepage_Banner2.png
   - infopic:
+      title: Springboard eCommerce Opportunities in European Market
+      description: SIRS & Synagie to co-develop and roll out a digital commerce talent
+        training and placement programme to boost European-focused eCommerce
+        career opportunities.
+      button: MORE ABOUT THIS ARTICLE
+      url: /success-and-articles/articles/mou-synagie
+      image: /images/blog/20220811_mou_synagie_1.png
+      alt: SIRS x Synagie MoU 5 Aug 2022
+  - infopic:
       title: Visual Merchandising Mentorship Programme
       description: Give customers a reason to patronise your store again by
         transforming and optimising your retail store's presentation through
@@ -22,24 +31,6 @@ sections:
       url: /digital-programmes/mc-ws/pbg
       image: /images/images-2021/Home-Highlights-WS-PBG.jpg
       alt: Pivoting for Business Growth
-  - infopic:
-      title: Holistic Wellness for a Resilient You
-      description: Become more productive and inject positive vibes into your
-        workplace to foster better relationships with colleagues, business
-        partners and customers.
-      button: More about this workshop
-      url: digital-programmes/mc-ws/wellness
-      image: /images/images-2021/Home-Highlights-WS-Wellness.png
-      alt: Image alt text
-  - infopic:
-      title: "Transacting Safely with Standards: Anti-scam Updates to TR 76 "
-      description: Enterprise Singapore has announced the revision to TR 76 to help
-        e-retailers & e-marketplaces improve their online transaction processes
-        and policies.
-      button: MORE ABOUT THIS ARTICLE
-      url: /success-and-articles/articles/tr76
-      image: /images/images-2021/Home-Highlights-TR76_Amendments.png
-      alt: TR76 Anti-Scam Updates 2022
   - infopic:
       title: Digital Mentorship Programme (DMP)
       description: Fast track your e-commerce and social commerce journey with this

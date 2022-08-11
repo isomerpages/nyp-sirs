@@ -13,8 +13,8 @@ third_nav_title: WSQ Full Qualification Programmes
       <th style="text-align:center;width:50%;">Night Training</th>
     </tr>
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">To be confirmed</td>
-      <td style="text-align:center;width:50%;">To be confirmed</td>
+      <td style="text-align:center;width:50%;">October 2022<br>(Every Tue & Wed, Online)</td>
+      <td style="text-align:center;width:50%;">September 2022<br>(Every Mon & Tue, Online)</td>
     </tr>
 </table></center>
 

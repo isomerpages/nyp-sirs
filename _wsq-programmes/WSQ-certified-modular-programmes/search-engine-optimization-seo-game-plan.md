@@ -12,7 +12,7 @@ third_nav_title: WSQ Certified Modular Programmes
       <th style="text-align:center;width:50%;">Online Training</th>
     </tr>
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">4, 5, 15  & 16 Aug 2022</td>
+      <td style="text-align:center;width:50%;">4, 5, 15  & 16 Aug (Day Class)<br>23, 28, 29, 30 Sep & 5, 6, 7, 12 Oct (Night Class) <br>9, 10, 11 & 14 Nov (Day Class)</td>
     </tr>
 </table></center>
 
@@ -48,10 +48,9 @@ Synchronous E-learning - TGS-2020513487</p>
   </ul>
 
 <h4>Duration</h4>
-<p>Total of 4 days, 24 hours:</p>
-<ul>
-<li>Day 1 - 4: 9am to 4pm</li>
-</ul>
+
+- Day Class: Total of 4 days (24 hours) from 9am to 5pm
+- Night Class: Total of 8 nights (24 hours) from 7pm to 10pm
 
 <h4>Entry Requirements</h4>
 <ul>
