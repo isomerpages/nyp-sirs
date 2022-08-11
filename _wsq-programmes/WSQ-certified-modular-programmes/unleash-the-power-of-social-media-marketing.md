@@ -45,8 +45,9 @@ third_nav_title: WSQ Certified Modular Programmes
  </ul>
  
 <h4>Duration</h4>
-<p>Total of 4 days, 24 hours:</p>
-<li>Day 1 - 4: 9am to 5pm</li>
+
+<li>Day Class: Total 4 days (24 hours) from 9am to 5pm</li>
+<li>Night Class: Total 8 nights (24 hours) from 7pm to 10pm</li>
 
 <h4>Entry Requirements</h4>
 <ul>
