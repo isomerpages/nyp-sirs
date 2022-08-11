@@ -8,7 +8,7 @@ third_nav_title: Articles
 ---
 Date: 11-08-2022
 
-<h4>Synagie and SIRS partner to springboard eCommerce Opportunities for Europe Market</h4>
+<h4>Synagie and SIRS partner to springboard eCommerce opportunities for Europe market</h4>
 
 ![MOU signed by Jeanne Liew PCEO NYP and Olive Tai MD Synagie, witnessed by MOS Low Yen Ling](/images/blog/20220811_mou_synagie_1.png)
 
