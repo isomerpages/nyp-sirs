@@ -12,7 +12,7 @@ third_nav_title: WSQ Certified Modular Programmes
       <th style="text-align:center;width:50%;">Online Training</th>
     </tr>
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">3, 4, 5 & 15 Aug 2022<br>12, 13, 14 & 17 October</td>
+      <td style="text-align:center;width:50%;">12, 13, 14 & 17 October (Day Class)<br>5, 6, 7, 8, 12, 13, 14 & 15 December (Night Class)</td>
     </tr>
 </table></center>
 
