@@ -14,8 +14,8 @@ third_nav_title: Masterclasses & Workshops
       <th style="text-align:center;width:50%;">Face-to-Face</th>
     </tr>
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">16-17 Aug (Tue-Wed)</td>
-      <td style="text-align:center;width:50%;">To be confirmed</td>
+      <td style="text-align:center;width:50%;">16-17 Aug (Tue-Wed)<br>19-20 Sep (Mon-Tue)<br>12-13 Oct (Wed-Thu)</td>
+      <td style="text-align:center;width:50%;">14-15 Nov (Mon-Tue)<br>8-9 Dec (Thu-Fri)</td>
     </tr>
 </table></center>
 
