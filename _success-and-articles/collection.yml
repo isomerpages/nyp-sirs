@@ -2,10 +2,10 @@ collections:
   success-and-articles:
     output: true
     order:
-      - Articles/Chinese tech companies stake their flags in Southeast Asia
-        battleground.md
       - Articles/.keep
       - Articles/overview.md
+      - Articles/Chinese tech companies stake their flags in Southeast Asia
+        battleground.md
       - "Articles/Transacting Safely with Standards: Anti Scam Updates to TR
         76.md"
       - Articles/Is Your Retail Business Ready to Thrive in the New Retail
