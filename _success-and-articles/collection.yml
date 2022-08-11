@@ -2,6 +2,8 @@ collections:
   success-and-articles:
     output: true
     order:
+      - Articles/Synagie and SIRS partner to springboard eCommerce Opportunities
+        for Europe Market.md
       - Articles/.keep
       - Articles/overview.md
       - Articles/Chinese tech companies stake their flags in Southeast Asia
