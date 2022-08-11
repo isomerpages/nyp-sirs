@@ -12,7 +12,7 @@ third_nav_title: WSQ Certified Modular Programmes
       <th style="text-align:center;width:50%;">Online Training</th>
     </tr>
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">19, 22, 23 & 24 Aug 2022 </td>
+      <td style="text-align:center;width:50%;">18, 22, 23 & 24 Aug<br>13, 14, 20 & 21 September</td>
     </tr>
 </table></center>
 
@@ -46,7 +46,7 @@ third_nav_title: WSQ Certified Modular Programmes
 
 <h4>Duration</h4> 
 <p>Total of 4 days, 24 hours:</p>
-<li>Day 1 - 4: 9am to 4pm</li>
+<li>Day 1 - 4: 9am to 5pm</li>
 
 <h4>Entry Requirements</h4>
 <ul>
