@@ -6,7 +6,7 @@ third_nav_title: Articles
 ---
 <h4>Articles</h4>
 
-* [Synagie and SIRS partner to springboard eCommerce Opportunities for Europe Market](/success-and-articles/Articles/mou-synagie)
+* [Synagie and SIRS partner to springboard eCommerce opportunities for Europe market](/success-and-articles/Articles/mou-synagie)
 * [Chinese tech companies stake their flags in Southeast Asia battleground](/success-and-articles/Articles/bt-chinesetech)
 * [Transacting Safely with Standards: Anti-scam Updates to TR 76](/success-and-articles/Articles/tr76)
 * [ Is Your Retail Business Ready to Thrive in the New Retail Omnichannel Economy?](/success-and-articles/Articles/whitepaper-may2022)
