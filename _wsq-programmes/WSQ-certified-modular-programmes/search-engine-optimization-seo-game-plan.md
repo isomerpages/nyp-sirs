@@ -49,8 +49,8 @@ Synchronous E-learning - TGS-2020513487</p>
 
 <h4>Duration</h4>
 
-- Day Class: Total 4 days (24 hours) from 9am to 5pm
-- Night Class: 8 nights (24 hours) from 7pm to 10pm
+- Day Class: Total of 4 days (24 hours) from 9am to 5pm
+- Night Class: Total of 8 nights (24 hours) from 7pm to 10pm
 
 <h4>Entry Requirements</h4>
 <ul>
