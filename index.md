@@ -6,6 +6,15 @@ sections:
   - hero:
       background: /images/images-2021/Homepage_Banner2.png
   - infopic:
+      title: SIRS-Alibaba Entrepreneur Startup Programme
+      description: Led by highly experienced trainers, be guided through a
+        comprehensive E-Start Up Canvas that will enable you to start, develop
+        and propel your online business.
+      button: More about this programme
+      url: /digital-programmes/alibaba-business-school/alibaba-entrepreneur-startup-programme
+      image: /images/images-2021/Home-Highlights-AliESP.png
+      alt: Image alt text
+  - infopic:
       title: Springboard eCommerce Opportunities in European Market
       description: SIRS & Synagie to co-develop and roll out a digital commerce talent
         training and placement programme to boost European-focused eCommerce
