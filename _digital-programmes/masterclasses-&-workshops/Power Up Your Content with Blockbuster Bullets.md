@@ -25,29 +25,25 @@ third_nav_title: Masterclasses & Workshops
 <p>Including Blockbuster Bullets in your copywriting can help you break up long blocks of text into easily scannable content and effectively captivate readers, turning them into engaged audiences who will respond to your call to action and maximise your conversion. Join this workshop and learn to write persuasive copy bullets that that attract, inspire and compel action!</p>
 
 <small>*Data source:
-<a href="https://www.wyzowl.com/human-attention-span/">https://www.wyzowl.com/human-attention-span/</a>
+<a href="https://www.wyzowl.com/human-attention-span/">https://www.wyzowl.com/human-attention-span/</a></small>
 
 <h4>Course Title | Mode of Training | Course Ref</h4>
-
-<p>Home Based Business
-	<br>Classroom - TGS-2022013324
+<p>Power Up Your Content with Blockbuster Bullets
+<br>Classroom - To be confirmed
 </p>
 
 <h4>Outline</h4>
-* Start a home-based business
-* Understand legal requirements for a home-based business
-* Design and create engaging social media content to promote your business
-* Leverage virtual conferencing platforms such as Zoom to conduct business functions such as sales meetings, product demonstrations, training classes and more
+* Appreciate writing bullets
+* Understand what Blockbuster Bullets are and why you should include them in your copywriting
+* Discover the 8 Powerful Blockbuster Frameworks, perfect for any copy
+* Generate unlimited Blockbuster Bullets quickly without fear of writer’s block
+* Recognise the types of services that work best with Blockbuster Bullets
 
 <h4>Who Should Attend</h4>
-<p>This workshop is suitable for anyone interested in starting a home-based or a simple online business and using social media to drive traffic and engage customers.</p>
+<p>Marketing Professionals, Business Owners, Entrepreneurs, and individuals who are interested in copywriting.</p>
 	
-<h4>Requirements</h4>
-<ul>
-<li>Have a Facebook account</li>
-<li>Have a Gmail account</li>
-</ul>
-<p><i>(Laptops will be provided for hands-on practice in class)</i></p>
+<h4>Entry Requirements</h4>
+<p>GCE ‘O’ level Credit (at least C6) in English or Workplace Literacy (WPLN) score: Level 6 for Reading and Listening</p>
 
 <h4>Duration</h4>
 <p>1 day (9am - 6pm)</p>
