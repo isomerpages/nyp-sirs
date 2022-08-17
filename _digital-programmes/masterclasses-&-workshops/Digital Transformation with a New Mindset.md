@@ -49,7 +49,7 @@ third_nav_title: Masterclasses & Workshops
 </ul>
 
 <h4>Duration</h4>
-<p>9am - 6pm (8 hours)</p>
+	<p>1 day (9am - 6pm)</p>
 
 <h4>Fees</h4>
 
