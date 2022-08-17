@@ -34,27 +34,10 @@ third_nav_title: Masterclasses & Workshops
 </p>
 
 <h4>Outline</h4>
-<b>1.  Start an online business</b>
-  <ul>
-  <li>Learn the types of e-commerce business models</li>
-  <li>Understand the journey of building a digital commerce business</li>
-  <li>Set up a store on the SourceSage platform</li>
-  </ul>
-  
-<b>2.  Apply and analyse how to grow with SourceSage</b>
-  <ul>
-  <li>Learn to create B2B business</li>
-  <li>Identify B2B persona and buying process</li>
-  <li>Understand B2B sales pipeline management</li>
-  </ul>
-                
-<b>3.  Evaluate and scale business for drop shipping model</b>
-  <ul>
-  <li>Discover what B2B merchandising is </li>
-  <li>Gain insights from drop shipping success stories</li>
-  <li>How to start a drop shipping business</li>
-  <li>Learn about drop shipping with SourceSage</li>
-  </ul>
+* Develop a digital mindset to improve your agility for digital transformation
+* Understand the six critical mindset dispositions for a successful digital transformation of your business
+* Recognise the new customer shopping journey and leverage emerging trends to improve customer experience
+* Adopt emerging technology and content to engage digitally savvy customers
 
 <h4>Who Should Attend</h4>
 <p>C-suite, Directors, Entrepreneurs, Business Owners, Executives</p>
