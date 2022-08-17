@@ -30,7 +30,6 @@ third_nav_title: Masterclasses & Workshops
 
 <p>Digital Transformation with a New Mindset
 <br>Classroom - TGS-2022014050
-<br><i>*Participants are required to bring your own laptop.</i>
 </p>
 
 <h4>Outline</h4>
