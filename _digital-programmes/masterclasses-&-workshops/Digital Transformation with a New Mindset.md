@@ -45,8 +45,8 @@ third_nav_title: Masterclasses & Workshops
 <ul>
 <li>Have a Facebook account</li>
 <li>Have a Gmail account</li>
-<i>*Laptops will be provided for hands-on practice in class</i>
 </ul>
+<br><i>(Laptops will be provided for hands-on practice in class)</i></br>
 
 <h4>Duration</h4>
 <p>1 day (9am - 6pm)</p>
