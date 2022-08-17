@@ -12,7 +12,7 @@ third_nav_title: WSQ Certified Modular Programmes
       <th style="text-align:center;width:50%;">Online Training</th>
     </tr>
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">4, 5, 15  & 16 Aug (Day Class)<br>23, 28, 29, 30 Sep & 5, 6, 7, 12 Oct (Night Class) <br>9, 10, 11 & 14 Nov (Day Class)</td>
+      <td style="text-align:center;width:50%;">23, 28, 29, 30 Sep & 5, 6, 7, 12 Oct (Night Class) <br>9, 10, 11 & 14 Nov (Day Class)</td>
     </tr>
 </table></center>
 
