@@ -65,11 +65,11 @@ third_nav_title: Masterclasses & Workshops
 
 <tr>
 <td>Singapore Citizen/Singapore PR (SPR) (70% funding)</td>
-<td>$240.75
+<td>$240.75</td>
 </tr>
 
 <tr>
-<td>Singapore Citizen 40 years & above<sup>1</sup>(90% funding)</td>
+<td>Singapore Citizen 40 years & above<sup>1</sup> (90% funding)</td>
 <td>$90.75</td>
 </tr>
 
