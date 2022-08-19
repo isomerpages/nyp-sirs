@@ -38,7 +38,7 @@ third_nav_title: Masterclasses & Workshops
 * Start your own YouTube channel and first live video
 
 <h4>Who Should Attend</h4>
-<p>Marketing Professionals, Business Owners, Entrepreneurs, and individuals who create marketing copy.</p>
+<p>This workshop is suitable for all working professionals, undergraduates, and individuals who are interested to boost their personal brand online.</p>
 	
 <h4>Requirements</h4>
 <ul>
