@@ -40,6 +40,7 @@ in the New Retail Revolution</a></li>
   <li><a href="/digital-programmes/masterclasses-and-workshops/improve-customer-engagement-with-digital-mindset">Improve Customer Engagement with Digital Mindset</a></li>
 	<li><a href="/digital-programmes/mc-ws/hbb">Jumpstart and Grow Your Home-Based Business</a></li>
   <li><a href="/digital-programmes/masterclasses-and-workshops/level-up-customer-engagement-through-live-streaming">Level Up Customer Engagement Through Live Streaming</a></li>
+		<li><a href="/digital-programmes/mc-ws/nft">Mint Your First Non-Fungible Token (NFT) in Top Marketplaces</a></li>
 		<li><a href="/digital-programmes/mc-ws/pbg">Pivoting for Business Growth</a></li>
 		<li><a href="/digital-programmes/mc-ws/bullets">Power Up Your Content with Blockbuster Bullets</a></li>
 		<li><a href="/digital-programmes/mc-ws/ssc">Smart Social Commerce</a></li>
