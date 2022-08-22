@@ -12,10 +12,8 @@ third_nav_title: Masterclasses & Workshops
 <center><table style="width:80%;">
     <tr style="text-align:center;">
       <th style="text-align:center;width:50%;">Online Training</th>
-      <th style="text-align:center;width:50%;">Face-to-Face</th>
     </tr>
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">To be confirmed</td>
       <td style="text-align:center;width:50%;">To be confirmed</td>
     </tr>
 </table></center>
@@ -29,7 +27,7 @@ third_nav_title: Masterclasses & Workshops
 
 <h4>Course Title | Mode of Training | Course Ref</h4>
 <p>Power Up Your Content with Blockbuster Bullets
-<br>Classroom - To be confirmed
+<br>Synchronous E-Learning - To be confirmed
 </p>
 
 <h4>Outline</h4>
