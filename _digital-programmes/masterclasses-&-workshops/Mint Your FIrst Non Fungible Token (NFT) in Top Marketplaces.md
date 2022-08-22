@@ -29,6 +29,7 @@ third_nav_title: Masterclasses & Workshops
 
 <p>Mint Your First Non-Fungible Token (NFT) in Top Marketplaces
 <br>Classroom - To be confirmed
+<br><i>*Participants are required to bring your own laptop.</i>
 </p>
 
 <h4>Outline</h4>
