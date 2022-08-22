@@ -22,7 +22,8 @@ third_nav_title: Masterclasses & Workshops
 
 <p>Join us in this workshop to uncover the mysteries of NFTs and gain the first mover advantage before it becomes a staple in the future of retail. Understand the value and possibilities brought about by the NFT technology and try your hands at buying NFTs, creating crypto wallets, and minting your first NFT on a popular marketplace through our step-by-step process. Who knows, your NFT may make you the next millionaire!</p>
 
-*Source: https://www.cnbc.com/2021/03/30/vignesh-sundaresan-known-as-metakovan-on-paying-69-million-for-beeple-nft.html
+<small>*Data source:
+<a href="https://www.cnbc.com/2021/03/30/vignesh-sundaresan-known-as-metakovan-on-paying-69-million-for-beeple-nft.html">https://www.cnbc.com/2021/03/30/vignesh-sundaresan-known-as-metakovan-on-paying-69-million-for-beeple-nft.html</a></small>
 
 <h4>Course Title | Mode of Training | Course Ref</h4>
 
