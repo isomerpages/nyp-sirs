@@ -27,7 +27,7 @@ third_nav_title: Masterclasses & Workshops
 <h4>Course Title | Mode of Training | Course Ref</h4>
 
 <p>Building an Effective Digital Personal Brand
-<br>Classroom - To be confirmed | Synchronous E-Learning - To be confirmed
+<br>Classroom - TGS-2022015217 | Synchronous E-Learning - To be confirmed
 </p>
 
 <h4>Outline</h4>
