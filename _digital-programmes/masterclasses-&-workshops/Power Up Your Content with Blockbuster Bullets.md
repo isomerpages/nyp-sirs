@@ -27,7 +27,7 @@ third_nav_title: Masterclasses & Workshops
 
 <h4>Course Title | Mode of Training | Course Ref</h4>
 <p>Power Up Your Content with Blockbuster Bullets
-<br>Synchronous E-Learning - To be confirmed
+<br>Synchronous E-Learning - TGS-2022015214
 </p>
 
 <h4>Outline</h4>
