@@ -15,20 +15,20 @@ sections:
       image: /images/images-2021/Home-Highlights-NFT.jpg
       alt: Image alt text
   - infopic:
-      title: SkillsFuture Series
-      description: Our curated list of bite-sized and industry-focused training
-        programmes to develop emerging and critical skills in the retail sector.
-      button: More about skillsfuture series
-      url: /digital-programmes/skillsfuture-series
-      image: /images/images-2021/DigitalProgrammes-Image-SFS-Overview.jpg
-      alt: Image alt text
-  - infopic:
       title: Mentorship Programmes
       description: Shorten your learning curve and accelerate growth with a mentor
         through our mentorship programmes.
       button: more about this programme
       url: /digital-programmes/mentorship-programmes/overview/
       image: /images/images-2021/DigitalProgrammes-MentorshipProgrammes.png
+      alt: Image alt text
+  - infopic:
+      title: SkillsFuture Series
+      description: Our curated list of bite-sized and industry-focused training
+        programmes to develop emerging and critical skills in the retail sector.
+      button: More about skillsfuture series
+      url: /digital-programmes/skillsfuture-series
+      image: /images/images-2021/DigitalProgrammes-Image-SFS-Overview.jpg
       alt: Image alt text
   - infopic:
       title: Be the First to Know
