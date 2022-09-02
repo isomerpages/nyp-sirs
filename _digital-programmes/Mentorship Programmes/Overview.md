@@ -11,8 +11,9 @@ We all need someone who inspires us to do better than we know, and mentors do th
 
 With our mentorship programmes, you will be in good hands with our trainers, who are also industry practitioners in their fields of expertise. Receive personalised guidance and put learning into actionable and sustainable strategies to achieve your business pursuits. 
 
-<h4>SkillsFuture Series Courses</h4>
-* [Digital Mentorship Programme](/digital-programmes/digital-mentorship-programme)
+<h4>Mentorship Programmes</h4>
+* Digital Mentorship Programme - Boost Your Business with Social Commerce
+* Digital Mentorship Programme - Jumpstart Your Online Business
 * Kickstart Conversational Commerce through WhatsApp Mentorship Programme
 * [Visual Merchandising Mentorship Programme](/digital-programmes/vmmp)
     
