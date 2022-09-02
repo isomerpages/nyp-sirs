@@ -31,15 +31,6 @@ sections:
       image: /images/images-2021/DigitalProgrammes-MentorshipProgrammes.png
       alt: Image alt text
   - infopic:
-      title: Visual Merchandising Mentorship Programme
-      description: Give customers a reason to patronise your store again by
-        transforming and optimising your retail store's presentation through
-        this 1-on-1 mentoring programme.
-      button: more about this programme
-      url: /digital-programmes/vmmp
-      image: /images/images-2021/Home-Highlights-VMMP.png
-      alt: VMMP
-  - infopic:
       title: Pivoting for Business Growth
       description: Let us help review your business model and develop winning
         strategies to get, keep and grow your customer base.
