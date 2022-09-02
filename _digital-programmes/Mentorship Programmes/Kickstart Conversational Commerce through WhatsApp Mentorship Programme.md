@@ -10,6 +10,11 @@ third_nav_title: Mentorship Programmes
 
 <p>This 36-hour mentorship programme comprises two 6-hour classroom training and six 4-hour on-the-job mentoring sessions to help you design different marketing campaigns to garner interest, generate leads, and convert them into sales. We will guide you in planning and executing your marketing campaigns through a complete system - WhatsApp Form to capture leads, MiniChat to automate communications and engage consumers, and MiniShop to sell anytime and anywhere with its integrated secured payment system. What’s more, participants will enjoy free 12-month subscriptions<sup>#</sup> to WhatsApp Form and MiniChat and a 6-month subscription to MiniShop!</p>
 
+<small>*Data source:
+<a href="https://www.statista.com/statistics/258749/most-popular-global-mobile-messenger-apps/l">Statista - Most popular global mobile messenger apps</a></small>
+
+<br><small><sup>#</sup>12-month subscriptions to WhatsApp Form and MiniChat and 6-month subscription to Minishop. Terms and conditions apply.</small>
+
 <p><h4>Course Title | Mode of Training | Course Ref</h4></p>
 
 <p>Kickstart Conversational Commerce through WhatsApp Marketing Campaign
