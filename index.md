@@ -6,13 +6,13 @@ sections:
   - hero:
       background: /images/images-2021/Homepage_Banner2.png
   - infopic:
-      title: SIRS-Alibaba Entrepreneur Startup Programme
-      description: Led by highly experienced trainers, be guided through a
-        comprehensive E-Start Up Canvas that will enable you to start, develop
-        and propel your online business.
+      title: Mint Your First Non-Fungible Token (NFT) in Top Marketplaces
+      description: You could be the next Beeple who sold his NFT creation for $69
+        million. Step-by-step, we will guide you to mint your first NFT on a
+        popular marketplace!
       button: More about this programme
-      url: /digital-programmes/alibaba-business-school/alibaba-entrepreneur-startup-programme
-      image: /images/images-2021/Home-Highlights-AliESP.png
+      url: /digital-programmes/mc-ws/nft
+      image: /images/images-2021/Home-Highlights-NFT.jpg
       alt: Image alt text
   - infopic:
       title: Springboard eCommerce Opportunities in European Market
