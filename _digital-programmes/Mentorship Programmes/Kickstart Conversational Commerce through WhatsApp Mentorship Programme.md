@@ -12,7 +12,6 @@ third_nav_title: Mentorship Programmes
 
 <small>*Data source:
 <a href="https://www.statista.com/statistics/258749/most-popular-global-mobile-messenger-apps/l">Statista - Most popular global mobile messenger apps</a></small>
-
 <br><small><sup>#</sup>12-month subscriptions to WhatsApp Form and MiniChat and 6-month subscription to Minishop. Terms and conditions apply.</small>
 
 <p><h4>Course Title | Mode of Training | Course Ref</h4></p>
