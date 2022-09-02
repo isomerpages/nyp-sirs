@@ -2,8 +2,6 @@ collections:
   digital-programmes:
     output: true
     order:
-      - Mentorship Programmes/Overview.md
-      - Mentorship Programmes/.keep
       - overview.md
       - alibaba-business-school/.keep
       - alibaba-business-school/overview.md
@@ -66,6 +64,8 @@ collections:
       - masterclasses-&-workshops/Smart Social Commerce.md
       - masterclasses-&-workshops/start-grow-and-scale-online.md
       - masterclasses-&-workshops/understanding-your-future-customers.md
+      - Mentorship Programmes/.keep
+      - Mentorship Programmes/Overview.md
       - national-silver-academy/.keep
       - national-silver-academy/overview.md
       - national-silver-academy/using-whatsapp.md
