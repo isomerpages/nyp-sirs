@@ -23,6 +23,14 @@ sections:
       image: /images/images-2021/DigitalProgrammes-Image-SFS-Overview.jpg
       alt: Image alt text
   - infopic:
+      title: Mentorship Programmes
+      description: Shorten your learning curve and accelerate growth with a mentor
+        through our mentorship programmes.
+      button: more about this programme
+      url: /digital-programmes/mentorship-programmes/overview/
+      image: /images/images-2021/DigitalProgrammes-MentorshipProgrammes.png
+      alt: Image alt text
+  - infopic:
       title: Visual Merchandising Mentorship Programme
       description: Give customers a reason to patronise your store again by
         transforming and optimising your retail store's presentation through
