@@ -15,15 +15,6 @@ sections:
       image: /images/images-2021/Home-Highlights-NFT.jpg
       alt: Image alt text
   - infopic:
-      title: Springboard eCommerce Opportunities in European Market
-      description: SIRS & Synagie to co-develop and roll out a digital commerce talent
-        training and placement programme to boost European-focused eCommerce
-        career opportunities.
-      button: MORE ABOUT THIS ARTICLE
-      url: /success-and-articles/articles/mou-synagie
-      image: /images/blog/20220811_mou_synagie_1.png
-      alt: SIRS x Synagie MoU 5 Aug 2022
-  - infopic:
       title: Visual Merchandising Mentorship Programme
       description: Give customers a reason to patronise your store again by
         transforming and optimising your retail store's presentation through
