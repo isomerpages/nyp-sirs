@@ -31,15 +31,6 @@ sections:
       image: /images/images-2021/DigitalProgrammes-MentorshipProgrammes.png
       alt: Image alt text
   - infopic:
-      title: Digital Mentorship Programme (DMP)
-      description: Fast track your e-commerce and social commerce journey with this
-        personalised mentor-guided programme to help you with the setup and
-        management of your e-commerce and social media platforms.
-      url: /digital-programmes/digital-mentorship-programme
-      image: /images/images-2021/DigitalProgrammes-DMP-Overview.jpg
-      alt: alt text
-      button: More about this programme
-  - infopic:
       title: Be the First to Know
       description: Join the SIRS mailing list and receive first-hand news and updates
         on our courses, services, and events.
