@@ -12,9 +12,6 @@ collections:
       - alibaba-business-school/alibaba-entrepreneur-startup-programme.md
       - alibaba-business-school/alibaba-content-marketing-programme.md
       - digital-mentorship-programme-dmp/.keep
-      - digital-mentorship-programme-dmp/overview.md
-      - digital-mentorship-programme-dmp/boost-your-business-with-social-commerce.md
-      - digital-mentorship-programme-dmp/jumpstart-your-online-business.md
       - e-commerce-programmes/.keep
       - e-commerce-programmes/overview.md
       - e-commerce-programmes/amazon-global-selling-onboarding.md
@@ -55,7 +52,7 @@ collections:
       - masterclasses-&-workshops/level-up-customer-engagement-through-live-streaming.md
       - masterclasses-&-workshops/master-facebook-marketing-for-business.md
       - masterclasses-&-workshops/master-linkedin-for-sales-marketing.md
-      - masterclasses-&-workshops/Mint Your FIrst Non Fungible Token (NFT) in
+      - masterclasses-&-workshops/Mint Your First Non Fungible Token (NFT) in
         Top Marketplaces.md
       - masterclasses-&-workshops/omni-commerce-retail.md
       - masterclasses-&-workshops/Pivoting for Business Growth.md
@@ -64,6 +61,14 @@ collections:
       - masterclasses-&-workshops/Smart Social Commerce.md
       - masterclasses-&-workshops/start-grow-and-scale-online.md
       - masterclasses-&-workshops/understanding-your-future-customers.md
+      - Mentorship Programmes/.keep
+      - Mentorship Programmes/Overview.md
+      - Mentorship Programmes/Digital Mentorship Programme (DMP) Overview.md
+      - Mentorship Programmes/DMP Boost Your Business with Social Commerce.md
+      - Mentorship Programmes/DMP Jumpstart Your Online Business.md
+      - Mentorship Programmes/Kickstart Conversational Commerce through WhatsApp
+        Mentorship Programme.md
+      - Mentorship Programmes/Visual Merchandising Mentorship Programme.md
       - national-silver-academy/.keep
       - national-silver-academy/overview.md
       - national-silver-academy/using-whatsapp.md
@@ -84,4 +89,3 @@ collections:
       - study-trips/.keep
       - study-trips/overview.md
       - study-trips/wechat-digital-immersion-programme.md
-      - Visual Merchandising Mentorship Programme (VMMP).md

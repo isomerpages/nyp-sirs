@@ -6,49 +6,38 @@ sections:
   - hero:
       background: /images/images-2021/Homepage_Banner2.png
   - infopic:
-      title: SIRS-Alibaba Entrepreneur Startup Programme
-      description: Led by highly experienced trainers, be guided through a
-        comprehensive E-Start Up Canvas that will enable you to start, develop
-        and propel your online business.
+      title: Mint Your First Non-Fungible Token (NFT) in Top Marketplaces
+      description: You could be the next Beeple who sold his NFT creation for $69
+        million! Step-by-step, we will guide you to mint your first NFT on a
+        popular marketplace.
       button: More about this programme
-      url: /digital-programmes/alibaba-business-school/alibaba-entrepreneur-startup-programme
-      image: /images/images-2021/Home-Highlights-AliESP.png
+      url: /digital-programmes/mc-ws/nft
+      image: /images/images-2021/Home-Highlights-NFT.jpg
       alt: Image alt text
   - infopic:
-      title: Springboard eCommerce Opportunities in European Market
-      description: SIRS & Synagie to co-develop and roll out a digital commerce talent
-        training and placement programme to boost European-focused eCommerce
-        career opportunities.
-      button: MORE ABOUT THIS ARTICLE
-      url: /success-and-articles/articles/mou-synagie
-      image: /images/blog/20220811_mou_synagie_1.png
-      alt: SIRS x Synagie MoU 5 Aug 2022
-  - infopic:
-      title: Visual Merchandising Mentorship Programme
-      description: Give customers a reason to patronise your store again by
-        transforming and optimising your retail store's presentation through
-        this 1-on-1 mentoring programme.
+      title: Mentorship Programmes
+      description: Shorten your learning curve and accelerate growth with a mentor
+        through our mentorship programmes.
       button: more about this programme
-      url: /digital-programmes/vmmp
-      image: /images/images-2021/Home-Highlights-VMMP.png
-      alt: VMMP
+      url: /digital-programmes/mentorship-programmes/overview/
+      image: /images/images-2021/DigitalProgrammes-MentorshipProgrammes.png
+      alt: Image alt text
   - infopic:
-      title: Pivoting for Business Growth
-      description: Let us help review your business model and develop winning
-        strategies to get, keep and grow your customer base.
-      button: more about this workshop
-      url: /digital-programmes/mc-ws/pbg
-      image: /images/images-2021/Home-Highlights-WS-PBG.jpg
-      alt: Pivoting for Business Growth
+      title: SkillsFuture Series
+      description: Our curated list of bite-sized and industry-focused training
+        programmes to develop emerging and critical skills in the retail sector.
+      button: More about skillsfuture series
+      url: /digital-programmes/skillsfuture-series
+      image: /images/images-2021/DigitalProgrammes-Image-SFS-Overview.jpg
+      alt: Image alt text
   - infopic:
-      title: Digital Mentorship Programme (DMP)
-      description: Fast track your e-commerce and social commerce journey with this
-        personalised mentor-guided programme to help you with the setup and
-        management of your e-commerce and social media platforms.
-      url: /digital-programmes/digital-mentorship-programme
-      image: /images/images-2021/DigitalProgrammes-DMP-Overview.jpg
-      alt: alt text
-      button: More about this programme
+      title: SIRS-Alibaba Content Marketing Programme
+      description: "Optimise your content marketing strategy, run successful live
+        streams, and be a Key Opinion Leader to grow your fan base. "
+      button: "MORE ABOUT THIS PROGRAMME "
+      url: /digital-programmes/alibaba-business-school/alibaba-content-marketing-programme
+      image: /images/images-2021/Home-Highlights-AliCM.png
+      alt: Image alt text
   - infopic:
       title: Be the First to Know
       description: Join the SIRS mailing list and receive first-hand news and updates

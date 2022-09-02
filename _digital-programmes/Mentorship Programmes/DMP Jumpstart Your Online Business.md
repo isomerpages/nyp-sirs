@@ -1,9 +1,15 @@
 ---
-title: Jumpstart Your Online Business
-permalink: /digital-programmes/digital-mentorship-programme/jumpstart-your-online-business
+title: DMP Jumpstart Your Online Business
+permalink: /digital-programmes/Mentorship-Programmes/dmp-jumpstart/
 breadcrumb: Jumpstart Your Online Business
-third_nav_title: Digital Mentorship Programme (DMP)
+third_nav_title: Mentorship Programmes
+description: DMP - Jumpstart Your Online Business
+image: /images/images-2021/DigitalProgrammes-DMP-Jumpstart.png
 ---
+
+
+
+
 <img src="/images/images-2021/DigitalProgrammes-DMP-Jumpstart.png" style="width:100%;">
 
 <p>Setting up an online store has become an increasingly popular way of reaching out to more customers as part of digitalisation effort by businesses. Just like 

@@ -1,9 +1,14 @@
 ---
-title: Boost Your Business with Social Commerce
-permalink: /digital-programmes/digital-mentorship-programme/boost-your-business-with-social-commerce
+title: DMP Boost Your Business with Social Commerce
+permalink: /digital-programmes/Mentorship-Programmes/dmp-boost/
 breadcrumb: Boost Your Business with Social Commerce
-third_nav_title: Digital Mentorship Programme (DMP)
+third_nav_title: Mentorship Programmes
+description: DMP - Boost Your Business with Social Commerce
+image: /images/images-2021/DigitalProgrammes-DMP-SocialCommerce.png
 ---
+
+
+
 <img src="/images/images-2021/DigitalProgrammes-DMP-SocialCommerce.png" style="width:100%;">
 
 <p>Social media platforms such as Facebook and Instagram are permanent companions for most Singaporeans these days as we see 76%* of our population being active users. 
