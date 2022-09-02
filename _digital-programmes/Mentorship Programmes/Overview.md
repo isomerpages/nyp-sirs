@@ -14,6 +14,6 @@ With our mentorship programmes, you will be in good hands with our trainers, who
 <h4>Mentorship Programmes</h4>
 * [Digital Mentorship Programme](/digital-programmes/mentorship-programmes/dmp/)
 * Kickstart Conversational Commerce through WhatsApp Mentorship Programme
-* [Visual Merchandising Mentorship Programme](/digital-programmes/vmmp)
+* [Visual Merchandising Mentorship Programme](/digital-programmes/Mentorship-Programmes/vmmp/)
     
 <center><a href="https://form.gov.sg/631169e5a71dde00130a7f1e" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center>
