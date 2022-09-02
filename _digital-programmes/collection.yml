@@ -2,7 +2,6 @@ collections:
   digital-programmes:
     output: true
     order:
-      - Mentorship Programmes.md
       - overview.md
       - alibaba-business-school/.keep
       - alibaba-business-school/overview.md
