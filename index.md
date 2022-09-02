@@ -31,14 +31,6 @@ sections:
       image: /images/images-2021/DigitalProgrammes-Image-SFS-Overview.jpg
       alt: Image alt text
   - infopic:
-      title: Be the First to Know
-      description: Join the SIRS mailing list and receive first-hand news and updates
-        on our courses, services, and events.
-      url: /subscribe
-      image: /images/images-2021/About-MailingList-Amended.jpg
-      alt: alt text
-      button: More about SIRS Mailing List
-  - infopic:
       title: SIRS-Alibaba Content Marketing Programme
       description: "Optimise your content marketing strategy, run successful live
         streams, and be a Key Opinion Leader to grow your fan base. "
@@ -46,5 +38,13 @@ sections:
       url: /digital-programmes/alibaba-business-school/alibaba-content-marketing-programme
       image: /images/images-2021/Home-Highlights-AliCM.png
       alt: Image alt text
+  - infopic:
+      title: Be the First to Know
+      description: Join the SIRS mailing list and receive first-hand news and updates
+        on our courses, services, and events.
+      url: /subscribe
+      image: /images/images-2021/About-MailingList-Amended.jpg
+      alt: alt text
+      button: More about SIRS Mailing List
 notification: "\n"
 ---
