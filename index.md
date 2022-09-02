@@ -31,14 +31,6 @@ sections:
       image: /images/images-2021/DigitalProgrammes-MentorshipProgrammes.png
       alt: Image alt text
   - infopic:
-      title: Pivoting for Business Growth
-      description: Let us help review your business model and develop winning
-        strategies to get, keep and grow your customer base.
-      button: more about this workshop
-      url: /digital-programmes/mc-ws/pbg
-      image: /images/images-2021/Home-Highlights-WS-PBG.jpg
-      alt: Pivoting for Business Growth
-  - infopic:
       title: Digital Mentorship Programme (DMP)
       description: Fast track your e-commerce and social commerce journey with this
         personalised mentor-guided programme to help you with the setup and
