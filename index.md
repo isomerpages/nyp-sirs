@@ -8,8 +8,8 @@ sections:
   - infopic:
       title: Mint Your First Non-Fungible Token (NFT) in Top Marketplaces
       description: You could be the next Beeple who sold his NFT creation for $69
-        million. Step-by-step, we will guide you to mint your first NFT on a
-        popular marketplace!
+        million! Step-by-step, we will guide you to mint your first NFT on a
+        popular marketplace.
       button: More about this programme
       url: /digital-programmes/mc-ws/nft
       image: /images/images-2021/Home-Highlights-NFT.jpg
