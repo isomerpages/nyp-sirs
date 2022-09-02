@@ -4,7 +4,7 @@ permalink: /digital-programmes/Mentorship-Programmes/ccmp/
 description: Kickstart Conversational Commerce through WhatsApp Mentorship Programme
 third_nav_title: Mentorship Programmes
 ---
-<img src="/images/images-2021/DigitalProgrammes-WA-Overview.png" style="width:100%;">
+<img src="/images/images-2021/DigitalProgrammes-CCMP-Overview.png" style="width:100%;">
 
 <p>By combining the benefits of direct marketing with new technology, conversational commerce connects your business and consumers through a two-way, real-time dialogue using messaging platforms. Conversation-driven marketing enables you to promote products and services and communicate with your customers speedily in a highly personalised manner. It is a highly effective strategy you can use at every stage of the consumer journey to drive engagement, deliver a better customer experience, and grow your business. Ready to kickstart conversational commerce? Tap on the power of WhatsApp, the most popular global messaging app, to help you reach out to two billion active users<sup>*</sup>! </p>
 
