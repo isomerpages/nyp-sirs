@@ -1,6 +1,6 @@
 ---
 title: Personal Online Branding
-permalink: /digital-programmes/skillsfuture-series/personal-online-branding
+permalink: /digital-programmes/skillsfuture-series/personal-online-branding/
 breadcrumb: Personal Online Branding
 third_nav_title: SkillsFuture Series
 ---
@@ -13,7 +13,7 @@ third_nav_title: SkillsFuture Series
       <th style="text-align:center;width:50%;">Online Training</th>
     </tr>
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">10 Oct (Mon)<br>1 Dec (Thu)</td>
+      <td style="text-align:center;width:50%;">10 Oct (Mon))</td>
     </tr>
 </table></center>
 
