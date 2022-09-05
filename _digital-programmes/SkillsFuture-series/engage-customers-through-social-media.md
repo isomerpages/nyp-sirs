@@ -1,6 +1,6 @@
 ---
 title: Engage Customers through Social Media
-permalink: /digital-programmes/skillsfuture-series/engage-customers-through-social-media
+permalink: /digital-programmes/skillsfuture-series/engage-customers-through-social-media/
 breadcrumb: Engage Customers through Social Media
 third_nav_title: SkillsFuture Series
 ---
@@ -11,11 +11,14 @@ third_nav_title: SkillsFuture Series
 <center><table style="width:80%;">
     <tr style="text-align:center;">
       <th style="text-align:center;width:50%;">Online Training</th>
+      <th style="text-align:center;width:50%;">Face-to-Face</th>
     </tr>
     <tr style="text-align:center;">
       <td style="text-align:center;width:50%;">14 Sep (Wed)<br>18 Nov (Fri)</td>
+      <td style="text-align:center;width:50%;">To be confirmed</td>
     </tr>
 </table></center>
+
 
 <p>Companies have embraced social media as part of their marketing mix, but with various degrees of success. The programme will address various social media initiatives and techniques that participants can utilise to enhance engagement with their customers.</p>
 
