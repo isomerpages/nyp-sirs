@@ -1,6 +1,6 @@
 ---
 title: Maximise Digital Advertising Dollars with Search Engine Marketing (SEM)
-permalink: /wsq-programmes/wsq-modular-programmes/maximising-digital-ad-dollars-with-sem
+permalink: /wsq-programmes/wsq-modular-programmes/maximising-digital-ad-dollars-with-sem/
 breadcrumb: Maximising Digital Advertising Dollars with Search Engine Marketing (SEM)
 third_nav_title: WSQ Certified Modular Programmes
 ---
@@ -12,7 +12,7 @@ third_nav_title: WSQ Certified Modular Programmes
       <th style="text-align:center;width:50%;">Online Training</th>
     </tr>
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">18, 22, 23 & 24 Aug (Day Class)<br>13, 14, 20 & 21 September (Day Class)<br>2, 3, 4, 9, 10, 11, 16 & 17 Nov (Night Class)</td>
+      <td style="text-align:center;width:50%;">13, 14, 20 & 21 September (Day Class)<br>2, 3, 4, 9, 10, 11, 16 & 17 Nov (Night Class)</td>
     </tr>
 </table></center>
 
