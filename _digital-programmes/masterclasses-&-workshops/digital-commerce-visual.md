@@ -1,6 +1,6 @@
 ---
 title: Digital Commerce Visual
-permalink: /digital-programmes/masterclasses-and-workshops/digital-commerce-visual
+permalink: /digital-programmes/masterclasses-and-workshops/digital-commerce-visual/
 breadcrumb: Digital Commerce Visual
 third_nav_title: Masterclasses & Workshops
 ---
@@ -14,7 +14,7 @@ third_nav_title: Masterclasses & Workshops
       <th style="text-align:center;width:50%;">Face-to-Face</th>
     </tr>
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">17 & 19 Aug (Wed & Fri)<br>12-13 Oct (Wed-Thu)</td>
+      <td style="text-align:center;width:50%;">12-13 Oct (Wed-Thu)</td>
       <td style="text-align:center;width:50%;">To be confirmed</td>
     </tr>
 </table></center>
