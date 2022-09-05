@@ -1,6 +1,6 @@
 ---
 title: Set up an Online Business
-permalink: /digital-programmes/e-commerce-programmes/setup-an-online-business
+permalink: /digital-programmes/e-commerce-programmes/setup-an-online-business/
 breadcrumb: Set up an Online Business
 third_nav_title: E-Commerce Programmes
 ---
@@ -14,7 +14,7 @@ third_nav_title: E-Commerce Programmes
       <th style="text-align:center;width:50%;">Face-to-Face</th>
     </tr>
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">22-23 Aug (Mon-Tue)<br>21-22 Sep (Wed-Thu)<br>19-20 Oct (Wed-Thu)</td>
+      <td style="text-align:center;width:50%;">21-22 Sep (Wed-Thu)<br>19-20 Oct (Wed-Thu)</td>
       <td style="text-align:center;width:50%;">24-25 Nov (Thu-Fri)<br>12-13 Dec (Mon-Tue)</td>   
     </tr>
 </table></center>
