@@ -1,6 +1,6 @@
 ---
 title: Thrive in Digital Disruption
-permalink: /digital-programmes/skillsfuture-series/thrive-in-digital-disruption
+permalink: /digital-programmes/skillsfuture-series/thrive-in-digital-disruption/
 breadcrumb: Thrive in Digital Disruption
 third_nav_title: SkillsFuture Series
 ---
