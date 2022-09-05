@@ -1,6 +1,6 @@
 ---
 title: Holistic Wellness for a Resilient You
-permalink: /digital-programmes/mc-ws/wellness
+permalink: /digital-programmes/mc-ws/wellness/
 description: SIRS Workshop Series - Holistic Wellness for a Resilient You
 image: /images/images-2021/DigitalProgrammes-HImage-Workshop.png
 third_nav_title: Masterclasses & Workshops
@@ -14,7 +14,7 @@ third_nav_title: Masterclasses & Workshops
       <th style="text-align:center;width:50%;">Face-to-Face</th>
     </tr>
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">To be confirmed</td>
+      <td style="text-align:center;width:50%;">27-28 Oct (Thu-Fri)<br>23, 24 Nov (Wed-Thu)</td>
     </tr>
 </table></center>
 
