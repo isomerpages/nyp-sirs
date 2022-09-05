@@ -1,6 +1,6 @@
 ---
 title: Fundamentals to Starting an Online Business
-permalink: /digital-programmes/skillsfuture-series/fundamentals-to-starting-an-online-business
+permalink: /digital-programmes/skillsfuture-series/fundamentals-to-starting-an-online-business/
 breadcrumb: Fundamentals to Starting an Online Business
 third_nav_title: SkillsFuture Series
 ---
@@ -11,9 +11,11 @@ third_nav_title: SkillsFuture Series
 <center><table style="width:80%;">
     <tr style="text-align:center;">
       <th style="text-align:center;width:50%;">Online Training</th>
+      <th style="text-align:center;width:50%;">Face-to-Face</th>
     </tr>
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">8 Sep (Thu)<br>14 Nov (Mon) </td>
+      <td style="text-align:center;width:50%;">8 Sep (Thu)</td>
+      <td style="text-align:center;width:50%;">14 Nov (Mon)</td>
     </tr>
 </table></center>
 
