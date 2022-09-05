@@ -15,7 +15,7 @@ third_nav_title: Masterclasses & Workshops
     </tr>
     <tr style="text-align:center;">
       <td style="text-align:center;width:50%;">17, 18 & 20 Oct 
-(Mon-Tue & Thu)  </td>
+(Mon, Tue & Thu)  </td>
       <td style="text-align:center;width:50%;">To be confirmed</td>
     </tr>
 </table></center>
