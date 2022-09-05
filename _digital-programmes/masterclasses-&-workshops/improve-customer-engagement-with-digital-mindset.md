@@ -1,6 +1,6 @@
 ---
 title: Improve Customer Engagement with Digital Mindset
-permalink: /digital-programmes/masterclasses-and-workshops/improve-customer-engagement-with-digital-mindset
+permalink: /digital-programmes/masterclasses-and-workshops/improve-customer-engagement-with-digital-mindset/
 breadcrumb: Improve Customer Engagement with Digital Mindset
 third_nav_title: Masterclasses & Workshops
 ---
@@ -15,7 +15,7 @@ third_nav_title: Masterclasses & Workshops
     </tr>
     <tr style="text-align:center;">
       <td style="text-align:center;width:50%;">To be confirmed</td>
-      <td style="text-align:center;width:50%;">To be confirmed</td>
+      <td style="text-align:center;width:50%;">14 Oct (Fri)</td>
     </tr>
 </table></center>
 

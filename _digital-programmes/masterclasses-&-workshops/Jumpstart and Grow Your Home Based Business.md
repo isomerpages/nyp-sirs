@@ -1,6 +1,6 @@
 ---
 title: Jumpstart and Grow Your Home Based Business
-permalink: /digital-programmes/mc-ws/hbb
+permalink: /digital-programmes/mc-ws/hbb/
 description: SIRS Workshop - Jumpstart and Grow Your Home-Based Business
 image: /images/images-2021/DigitalProgrammes-HImage-Workshop.png
 third_nav_title: Masterclasses & Workshops
@@ -16,7 +16,7 @@ third_nav_title: Masterclasses & Workshops
     </tr>
     <tr style="text-align:center;">
       <td style="text-align:center;width:50%;">To be confirmed</td>
-      <td style="text-align:center;width:50%;">To be confirmed</td>
+      <td style="text-align:center;width:50%;">23 Sep (Fri)</td>
     </tr>
 </table></center>
 

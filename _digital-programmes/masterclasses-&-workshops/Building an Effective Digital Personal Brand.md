@@ -1,6 +1,6 @@
 ---
 title: Building an Effective Digital Personal Brand
-permalink: /digital-programmes/mc-ws/pb
+permalink: /digital-programmes/mc-ws/pb/
 description: SIRS Workshop - Building an Effective Digital Personal Brand
 image: /images/images-2021/DigitalProgrammes-HImage-Workshop.png
 third_nav_title: Masterclasses & Workshops
@@ -16,7 +16,7 @@ third_nav_title: Masterclasses & Workshops
     </tr>
     <tr style="text-align:center;">
       <td style="text-align:center;width:50%;">To be confirmed</td>
-      <td style="text-align:center;width:50%;">To be confirmed</td>
+      <td style="text-align:center;width:50%;">17-18 Oct (Mon-Tue)<br>28-29 Nov (Mon-Tue)</td>
     </tr>
 </table></center>
 

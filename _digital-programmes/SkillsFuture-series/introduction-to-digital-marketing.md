@@ -1,6 +1,6 @@
 ---
 title: Introduction to Digital Marketing
-permalink: /digital-programmes/skillsfuture-series/introduction-to-digital-marketing
+permalink: /digital-programmes/skillsfuture-series/introduction-to-digital-marketing/
 breadcrumb: Introduction to Digital Marketing
 third_nav_title: SkillsFuture Series
 ---
@@ -11,9 +11,11 @@ third_nav_title: SkillsFuture Series
 <center><table style="width:80%;">
     <tr style="text-align:center;">
       <th style="text-align:center;width:50%;">Online Training</th>
+      <th style="text-align:center;width:50%;">Face-to-Face</th>
     </tr>
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">14 Oct (Fri)<br>13 Dec (Tue)</td>
+      <td style="text-align:center;width:50%;">14 Oct (Fri)</td>
+      <td style="text-align:center;width:50%;">13 Dec (Tue</td>
     </tr>
 </table></center>
 

@@ -1,6 +1,6 @@
 ---
 title: Power Up Your Content with Blockbuster Bullets
-permalink: /digital-programmes/mc-ws/bullets
+permalink: /digital-programmes/mc-ws/bullets/
 description: SIRS Workshop - Power Up Your Content with Blockbuster Bullets
 image: /images/images-2021/DigitalProgrammes-HImage-Workshop.png
 third_nav_title: Masterclasses & Workshops
@@ -12,9 +12,11 @@ third_nav_title: Masterclasses & Workshops
 <center><table style="width:80%;">
     <tr style="text-align:center;">
       <th style="text-align:center;width:50%;">Online Training</th>
+      <th style="text-align:center;width:50%;">Face-to-Face</th>
     </tr>
     <tr style="text-align:center;">
       <td style="text-align:center;width:50%;">To be confirmed</td>
+      <td style="text-align:center;width:50%;">26 Oct (Wed)<br>5 Dec (Mon)</td>
     </tr>
 </table></center>
 
@@ -27,6 +29,7 @@ third_nav_title: Masterclasses & Workshops
 
 <h4>Course Title | Mode of Training | Course Ref</h4>
 <p>Power Up Your Content with Blockbuster Bullets
+<br>Classroom - TGS-2022015313
 <br>Synchronous E-Learning - TGS-2022015214
 </p>
 

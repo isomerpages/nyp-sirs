@@ -1,6 +1,6 @@
 ---
 title: Level Up Customer Engagement Through Live Streaming
-permalink: /digital-programmes/masterclasses-and-workshops/level-up-customer-engagement-through-live-streaming
+permalink: /digital-programmes/masterclasses-and-workshops/level-up-customer-engagement-through-live-streaming/
 breadcrumb: Level Up Customer Engagement Through Live Streaming
 third_nav_title: Masterclasses & Workshops
 ---

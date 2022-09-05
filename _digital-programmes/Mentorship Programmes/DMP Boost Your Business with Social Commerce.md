@@ -9,6 +9,7 @@ image: /images/images-2021/DigitalProgrammes-DMP-SocialCommerce.png
 
 
 
+
 <img src="/images/images-2021/DigitalProgrammes-DMP-SocialCommerce.png" style="width:100%;">
 
 <p>Social media platforms such as Facebook and Instagram are permanent companions for most Singaporeans these days as we see 76%* of our population being active users. 

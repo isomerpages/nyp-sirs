@@ -1,6 +1,6 @@
 ---
 title: Tap into the Power of Instagram for Selling
-permalink: /digital-programmes/skillsfuture-series/tap-into-the-power-of-instagram-for-selling
+permalink: /digital-programmes/skillsfuture-series/tap-into-the-power-of-instagram-for-selling/
 breadcrumb: Tap into the Power of Instagram for Selling
 third_nav_title: SkillsFuture Series
 ---
@@ -11,9 +11,11 @@ third_nav_title: SkillsFuture Series
 <center><table style="width:80%;">
     <tr style="text-align:center;">
       <th style="text-align:center;width:50%;">Online Training</th>
+      <th style="text-align:center;width:50%;">Face-to-Face</th>
     </tr>
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">26 Sep (Mon)<br>25 Nov (Fri)</td>
+      <td style="text-align:center;width:50%;">26 Sep (Mon)</td>
+      <td style="text-align:center;width:50%;">25 Nov (Fri)</td>
     </tr>
 </table></center>
 

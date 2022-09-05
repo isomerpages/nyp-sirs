@@ -10,6 +10,7 @@ image: /images/images-2021/DigitalProgrammes-DMP-Jumpstart.png
 
 
 
+
 <img src="/images/images-2021/DigitalProgrammes-DMP-Jumpstart.png" style="width:100%;">
 
 <p>Setting up an online store has become an increasingly popular way of reaching out to more customers as part of digitalisation effort by businesses. Just like 

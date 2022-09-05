@@ -1,6 +1,6 @@
 ---
 title: Getting Started on Shopee (Onboarding)
-permalink: /digital-programmes/e-commerce-programmes/getting-started-on-shopee
+permalink: /digital-programmes/e-commerce-programmes/getting-started-on-shopee/
 breadcrumb: Getting Started on Shopee (Onboarding)
 third_nav_title: E-Commerce Programmes
 ---
@@ -14,8 +14,8 @@ third_nav_title: E-Commerce Programmes
       <th style="text-align:center;width:50%;">Face-to-Face</th>
     </tr>
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">12 Sep (Mon)<br>7 Oct (Fri)<br>3 Nov (Thu) </td>
-      <td style="text-align:center;width:50%;">1 Dec (Thu) </td>
+      <td style="text-align:center;width:50%;">12 Sep (Mon)<br>7 Oct (Fri)</td>
+      <td style="text-align:center;width:50%;">3 Nov (Thu)<br>1 Dec (Thu)</td>
     </tr>
 </table></center>
 

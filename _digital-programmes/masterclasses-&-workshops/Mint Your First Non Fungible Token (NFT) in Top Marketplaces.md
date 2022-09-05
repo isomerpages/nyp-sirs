@@ -5,7 +5,6 @@ description: SIRS Workshop - Mint Your FIrst Non-Fungible Token (NFT) in Top Mar
 image: /images/images-2021/DigitalProgrammes-HImage-Workshop.png
 third_nav_title: Masterclasses & Workshops
 ---
-
 <img src="/images/images-2021/DigitalProgrammes-HImage-Workshop.png" style="width:100%;">
 
 <h4 style="text-align:center;">Next intake:</h4>
@@ -15,7 +14,7 @@ third_nav_title: Masterclasses & Workshops
       <th style="text-align:center;width:50%;">Face-to-Face</th>
     </tr>
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">23 Sep (Fri)</td>
+      <td style="text-align:center;width:50%;">23 Sep (Fri)<br>21 Oct (Fri)<br>21 Nov (Mon)</td>
     </tr>
 </table></center>
 
