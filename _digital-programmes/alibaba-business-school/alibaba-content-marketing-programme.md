@@ -1,6 +1,6 @@
 ---
 title: Alibaba Content Marketing Programme
-permalink: /digital-programmes/alibaba-business-school/alibaba-content-marketing-programme
+permalink: /digital-programmes/alibaba-business-school/alibaba-content-marketing-programme/
 breadcrumb: Alibaba Content Marketing Programme
 third_nav_title: Alibaba Business School
 ---
@@ -18,7 +18,7 @@ Holistic Hands-on Content Marketing Techniques</center>
 
 <center><table style="width:80%;">
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;"> 12, 13, 14, October 2022 (Conducted in English)</td>
+      <td style="text-align:center;width:50%;"> 12, 13, 14, October 2022 (Conducted in Mandarin)</td>
     </tr>
 </table></center>
 
