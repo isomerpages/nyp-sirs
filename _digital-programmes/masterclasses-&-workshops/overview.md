@@ -1,6 +1,6 @@
 ---
 title: Overview
-permalink: /digital-programmes/masterclasses-and-workshops
+permalink: /digital-programmes/masterclasses-and-workshops/
 breadcrumb: Overview
 third_nav_title: Masterclasses & Workshops
 ---
@@ -43,7 +43,8 @@ in the New Retail Revolution</a></li>
 		<li><a href="/digital-programmes/mc-ws/nft">Mint Your First Non-Fungible Token (NFT) in Top Marketplaces</a></li>
 		<li><a href="/digital-programmes/mc-ws/pbg">Pivoting for Business Growth</a></li>
 		<li><a href="/digital-programmes/mc-ws/bullets">Power Up Your Content with Blockbuster Bullets</a></li>
-		<li><a href="/digital-programmes/mc-ws/ssc">Smart Social Commerce</a></li>
+	<li><a href="/digital-programmes/mc-ws/tiktok">Sell and Earn on TikTok</a></li>	
+	<li><a href="/digital-programmes/mc-ws/ssc">Smart Social Commerce</a></li>
 	<li><a href="/digital-programmes/masterclasses-workshops/sgso">Start, Grow & Scale Online (from sourcing to dropship online - B2B2C)</a></li>
 </ul>
 
