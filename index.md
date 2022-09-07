@@ -55,5 +55,13 @@ sections:
       image: /images/images-2021/About-MailingList-Amended.jpg
       alt: alt text
       button: More about SIRS Mailing List
+  - infopic:
+      title: Sell and Earn on TikTok
+      description: Take advantage of TikTok’s fast-growing audience base to expand
+        your marketing channels, foster customer engagement and increase
+        earnings!
+      button: more about this workshop
+      url: /digital-programmes/mc-ws/tiktok/
+      alt: Sell and Earn on TikTok
 notification: "\n"
 ---
