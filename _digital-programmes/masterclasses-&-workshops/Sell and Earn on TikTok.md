@@ -22,7 +22,8 @@ third_nav_title: Masterclasses & Workshops
 
 <p>Gain an edge over your competitors with this hands-on workshop to develop your proficiency in navigating the TikTok Shop Seller’s Platform to plan, create, and operate your business on TikTok Shop. Discover how sales promotion and affiliate marketing work within TikTok Shop and the tools you can use to create promotional content that appeals to your audience. Besides marketing your products and running your e-commerce business directly on TikTok Shop, you will also learn various features you can use to harness the power of community commerce. As TikTok continues to grow, now is the time for you to take advantage of the platform’s fast-growing audience base to expand your marketing channels, foster customer engagement and increase earnings!</p>
 
-*Source: http://www.wallaroomedia.com/blog/socia-media/tiktok-statistics
+<small>*Data source:
+<a href="http://www.wallaroomedia.com/blog/socia-media/tiktok-statistics">http://www.wallaroomedia.com/blog/socia-media/tiktok-statistics</a></small>
 
 <h4>Course Title | Mode of Training | Course Ref</h4>
 
