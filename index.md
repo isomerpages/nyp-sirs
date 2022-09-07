@@ -6,6 +6,24 @@ sections:
   - hero:
       background: /images/images-2021/Homepage_Banner2.png
   - infopic:
+      title: Sell and Earn on TikTok
+      description: Take advantage of TikTok’s fast-growing audience base to expand
+        your marketing channels, foster customer engagement and increase
+        earnings!
+      button: more about this workshop
+      url: /digital-programmes/mc-ws/tiktok/
+      alt: Sell and Earn on TikTok
+      image: /images/images-2021/Home-Highlights-TikTok.png
+  - infopic:
+      title: Kickstart Conversational Commerce through WhatsApp
+      description: "Jumpstart your marketing campaigns by tapping on the most popular
+        global messaging app to help you reach out to billions of active users.
+        "
+      button: more about this programme
+      url: /digital-programmes/mentorship-programmes/ccmp/
+      image: /images/images-2021/Home-Highlights-CCMP.png
+      alt: WhatsApp Mentorship Programme
+  - infopic:
       title: Mint Your First Non-Fungible Token (NFT) in Top Marketplaces
       description: You could be the next Beeple who sold his NFT creation for $69
         million! Step-by-step, we will guide you to mint your first NFT on a
@@ -21,14 +39,6 @@ sections:
       button: more about this programme
       url: /digital-programmes/mentorship-programmes/overview/
       image: /images/images-2021/DigitalProgrammes-MentorshipProgrammes.png
-      alt: Image alt text
-  - infopic:
-      title: SkillsFuture Series
-      description: Our curated list of bite-sized and industry-focused training
-        programmes to develop emerging and critical skills in the retail sector.
-      button: More about skillsfuture series
-      url: /digital-programmes/skillsfuture-series
-      image: /images/images-2021/DigitalProgrammes-Image-SFS-Overview.jpg
       alt: Image alt text
   - infopic:
       title: SIRS-Alibaba Content Marketing Programme

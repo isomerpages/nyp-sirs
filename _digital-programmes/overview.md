@@ -1,6 +1,6 @@
 ---
 title: Overview
-permalink: /digital-programmes
+permalink: /digital-programmes/
 breadcrumb: Overview
 ---
 <img src="/images/images-2021/DigitalProgrammes_Overview.png" style="width:100%;">
@@ -15,16 +15,11 @@ breadcrumb: Overview
 <p>Be inspired by, and learn from Alibaba, one of the world’s largest retail and e-commerce companies, how business digitalisation can let you build a stronger foothold in the digital retail landscape.</p>
 <a href="/digital-programmes/alibaba-business-school" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;" target="_blank">Find Out More</a>
 
-<h4>Digital Mentorship Programme (DMP)</h4>
-<p>A first of its kind, DMP helps small and medium-sized enterprises (SMEs) embark on their digital commerce journey with personalised guidance. </p>
-<a href="/digital-programmes/digital-mentorship-programme" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;" target="_blank">Find Out More</a>
-
 <h4>E-Commerce Programmes</h4>
 <p>Kickstart your online business with our onboarding and marketing programmes. Learn how you can increase revenue on top e-commerce and e-marketplace platforms.</p>
 <a href="/digital-programmes/e-commerce-programmes" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;" target="_blank">Find Out More</a>
 
 <h4>Joint Certification Programmes</h4>
-
 <b>Certified Digital & Professional Consultant (CDPC) Programme</b>
 <p>SIRS, together with Singapore Productivity Centre (SGPC) and Heartland Enterprise Centre Singapore (HECS), launched this programme to train and upskill digital and productivity consultants in digital commerce – with the aim to support and accelerate the digitalisation journey of heartland enterprises.</p>
 <a href="/digital-programmes/certified-digital-productivity-consultant" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;" target="_blank">Find Out More</a>
@@ -36,6 +31,10 @@ breadcrumb: Overview
 <h4>Masterclasses & Workshops</h4>
 <p>To remain relevant and ahead of competition, there is no faster way than to learn from expert industry practitioners. Let them share their wealth of experience through our masterclasses & workshops.</p>
 <a href="/digital-programmes/masterclasses-and-workshops" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;" target="_blank">Find Out More</a>
+
+<h4>Mentorship Programmes</h4>
+<p>Shorten your learning curve and accelerate growth with a mentor through our mentorship programmes to help you achieve your business pursuits.</p>
+<a href="/digital-programmes/mentorship-programmes/overview/" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;" target="_blank">Find Out More</a>
 
 <h4>National Silver Academy</h4>
 <p>When the ever-evolving technology meets Singapore’s aging population, it is especially important for our silver generation to pick up basic digital literacy skills to be a tech-savvy senior. </p>
