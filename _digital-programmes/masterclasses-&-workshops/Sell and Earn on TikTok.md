@@ -11,40 +11,42 @@ third_nav_title: Masterclasses & Workshops
 
 <center><table style="width:80%;">
     <tr style="text-align:center;">
-      <th style="text-align:center;width:50%;">Online Training</th>
       <th style="text-align:center;width:50%;">Face-to-Face</th>
     </tr>
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">To be confirmed</td>
-      <td style="text-align:center;width:50%;">23 Sep (Fri)</td>
+      <td style="text-align:center;width:50%;">7 Oct (Fri)<br>15 Nov (Tue)</td>
     </tr>
 </table></center>
 
-<p>Have you fantasized about setting up your own business one day? Today with easy accessibility and rapid adoption of digital solutions, more aspiring entrepreneurs are able to realise their dream of owning a business. Imagine operating your business from the comfort of your home full-time or running it as a side-hustle to generate additional income to grow your money while doing something you love!</p>
+<p>TikTok has a vast and growing audience and is quickly emerging as a social media giant. Within five short years since its inception, TikTok has garnered over 2.6 billion downloads and more than 1 billion monthly active users from 154 countries worldwide who spent an average of 1.5 hours on the app daily*. With the launch of TikTok Shop in Singapore, a new e-commerce marketplace that brings together sellers, buyers, and creators all within the TikTok app, individuals and businesses now have the perfect opportunity to capitalise on TikTok’s soaring popularity by selling their products and services on the platform. </p>
 
-<p>Embark on the journey to build a successful home-based business through this workshop as you learn the knowledge and skills from set up to driving traffic and engaging your customers online for conversion.</p>
+<p>Gain an edge over your competitors with this hands-on workshop to develop your proficiency in navigating the TikTok Shop Seller’s Platform to plan, create, and operate your business on TikTok Shop. Discover how sales promotion and affiliate marketing work within TikTok Shop and the tools you can use to create promotional content that appeals to your audience. Besides marketing your products and running your e-commerce business directly on TikTok Shop, you will also learn various features you can use to harness the power of community commerce. As TikTok continues to grow, now is the time for you to take advantage of the platform’s fast-growing audience base to expand your marketing channels, foster customer engagement and increase earnings!</p>
+
+*Source: http://www.wallaroomedia.com/blog/socia-media/tiktok-statistics
 
 <h4>Course Title | Mode of Training | Course Ref</h4>
 
-<p>Home Based Business
-	<br>Classroom - TGS-2022013324
+<p>Sell and Earn on TikTok
+	<br>Classroom - TGS-2022015315
 </p>
 
 <h4>Outline</h4>
-* Start a home-based business
-* Understand legal requirements for a home-based business
-* Design and create engaging social media content to promote your business
-* Leverage virtual conferencing platforms such as Zoom to conduct business functions such as sales meetings, product demonstrations, training classes and more
+* Appreciate the value of selling on TikTok and TikTok Shop
+* Create a seller account on TikTok Shop
+* Navigate the TikTok Shop Seller’s Platform
+* Understand the requirements and policies of TikTok Shop
+* Discover TikTok-affiliated marketing and sales promotion
+* Produce content that appeals to buying audiences
 
 <h4>Who Should Attend</h4>
-<p>This workshop is suitable for anyone interested in starting a home-based or a simple online business and using social media to drive traffic and engage customers.</p>
+<p>This workshop is suitable for Business Owners, Entrepreneurs, Working Professionals and individuals who are looking to build alternative income sources through TikTok and TikTok Shop.</p>
 	
 <h4>Requirements</h4>
 <ul>
-<li>Have a Facebook account</li>
-<li>Have a Gmail account</li>
+<li>Have a TikTok account</li>
+<li>Bring your mobile device (smartphone/iPad/tablet) with camera</li>
+<li>Bring your own laptop</li>
 </ul>
-<p><i>(Laptops will be provided for hands-on practice in class)</i></p>
 
 <h4>Duration</h4>
 <p>1 day (9am - 6pm)</p>
@@ -94,19 +96,17 @@ third_nav_title: Masterclasses & Workshops
 <b>For self-sponsored participants:</b>
 <ul>
   <li><a href="/services/consultancy/skillsfuture-credit">SkillsFuture Credit</a></li>
-  <li><a href="/services/consultancy/wss-individuals">Workfare Skills Support (WSS) Scheme (For Individuals)</a></li>
 </ul>
 
 <b>For company-sponsored participants:</b>
 <ul>
   <li><a href="/services/consultancy/absentee-payroll-ap">Absentee Payroll</a></li>
-  <li><a href="/services/consultancy/wss-companies">Workfare Skills Support (WSS) Scheme (For Companies)</a></li>
   </ul>
 
 <p>For SkillsFuture course reference, please click <a href="/files/documents-2021/SIRS-SkillsFuture-CourseRefNumber.pdf">here.</a></p>
 
 <p>For more information about funding and support, click <a href="/services/consultancy">here.</a></p>
 
-<div style="width:50%;float:left;"><center><a href="https://form.gov.sg/#!/5e587a6895e4da0011f0f746" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Register Now</a></center></div>
+<div style="width:50%;float:left;"><center><a href="https://form.gov.sg/#!/6315a24c91051400116c734e" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Register Now</a></center></div>
 
 <div style="width:50%;float:left;"><center><a href="https://form.gov.sg/602f33f172d5100012d6ca8b" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center></div>
