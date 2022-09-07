@@ -6,6 +6,15 @@ sections:
   - hero:
       background: /images/images-2021/Homepage_Banner2.png
   - infopic:
+      title: Kickstart Conversational Commerce through WhatsApp
+      description: "Jumpstart your marketing campaigns by tapping on the most popular
+        global messaging app to help you reach out to billions of active users.
+        "
+      button: more about this programme
+      url: /digital-programmes/mentorship-programmes/ccmp/
+      image: /images/images-2021/Home-Highlights-CCMP.png
+      alt: WhatsApp Mentorship Programme
+  - infopic:
       title: Mint Your First Non-Fungible Token (NFT) in Top Marketplaces
       description: You could be the next Beeple who sold his NFT creation for $69
         million! Step-by-step, we will guide you to mint your first NFT on a
