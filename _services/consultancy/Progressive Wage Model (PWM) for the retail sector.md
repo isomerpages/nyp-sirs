@@ -38,5 +38,5 @@ These are the key recommendations and implementation details of the Retail PWM s
 * A set of **PWM Baseline Gross Wages** is recommended that would **take effect from 1 September 2022**
 * The PWM Baseline Gross Wages **will also be adjusted upwards from 1 September 2023 and 1 September 2024** to ensure retail employees continue to see sustained wage increases.
 
-<h5>Retail PWM Career Ladder</h5>
+<h6>Retail PWM Career Ladder</h6>
 TCR has mapped out the frontline operational and supervisory job roles within the retail sector as shown:
