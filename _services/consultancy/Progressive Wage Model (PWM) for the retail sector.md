@@ -25,9 +25,11 @@ From 1 September 2022, employers must comply with the stipulated Retail PWM requ
 To give employers time to adjust and comply with the Retail PWM requirements, the Ministry of Manpower (MOM) has rolled out a phased implementation:
 
 **Run-in Period of 6 months from 1 September 2022 – 28 February 2023**
+
 During this period, MOM will focus on educating and supporting employers to understand and adhere to the PWM requirements without enforcing upon employers (i.e. suspension of Work Pass privileges such that employers will not be able to apply for new or renew existing Work Passes). However, if employers underpay the mandated Retail PWM wages, they should make up for the shortfall. They should also make the corresponding Employee’s Central Provident Fund (CPF) deduction and Employer’s CPF contributions in accordance with the CPF Act.
 
 **After Run-in Period from 1 March 2023 onwards**
+
 Should there be any non-compliance with Retail PWM requirements, MOM will advise employers on the appropriate rectification actions to take within a reasonable timeframe. Failing which, enforcement measures (i.e. suspension of work pass privileges such that employers will not be able to apply for new or renew existing work passes) may be imposed.
 
 <h4>What do I need to do as an employer?</h4>
