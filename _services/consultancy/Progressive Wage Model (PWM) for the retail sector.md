@@ -4,27 +4,38 @@ permalink: /services/consultancy/pwm/
 description: Progressive Wage Model (PWM) for the Retail Sector
 third_nav_title: Consultancy
 ---
-
 <h4>What is the Progressive Wage Model (PWM) for the retail sector?</h4>
-<p>The SFEC aims to encourage employers to invest in enterprise and workforce transformation. Eligible employers will receive additional support for your transformation efforts, in addition of the existing funding schemes.</p>
+The PWM aims to build a future-ready workforce, transforming retailers into employers of choice and retail jobs into fulfilling long-term career options for local job seekers. PWM is expanded to more sectors, including Retail, to ensure lower-wage workers' wages close the gap with the median through higher wage growth than median wage growth. 
 
-<h4>What does the SFEC comprise of?</h4>
-<p>Eligible employers will receive a one-off S$10,000 credit to cover up to 90% of out-of-pocket expenses on qualifying costs for supportable initiatives, over and above the support levels of existing schemes.</p>
+<h4>Who does PWM covers?</h4>
+The PWM requirements apply to Singapore Citizens and Permanent Residents who are full-time or part-time employees in retail job roles on a contract of service and employed by firms which hire foreign workers, regardless of whether the firm is classified under the Retail Sector Singapore Standard Industrial Classification (SSIC) or another SSIC.
 
-<h4>What does the SFEC support?</h4>
+The Retail PWM covers the following job roles: 
+* Retail Assistant / Cashier
+* Senior Retail Assistant / Senior Cashier
+* Assistant Retail Supervisor
+* Retail Supervisor 
+* Retail Manager 
 
-<ul>
-  <li><b>Enterprise Transformation</b><br>Programmes that support enterprise transformation</li><br>
-  <li><b>Workforce Transformation</b><br>Job redesign initiatives, and curated training programmes by SkillsFuture Singapore and Workforce Singapore, such as training courses aligned to the Skills Framework, Professional Conversion Programmes and sector-specific programmes</br></li>
-  </ul>
+More details on the coverage of retail jobs and description of duties and responsibilities can be found [here](https://www.mom.gov.sg/-/media/mom/documents/employment-practices/pwm/retail-pwm-job-roles-description.pdf).
 
-<p>The list of SFEC-supportable programmes can be found <a href="https://sfec-microsite.enterprisejobskills.gov.sg/SFEC">here</a>.</p>
+<h4>What does this mean to me as an employer?</h4>
+From 1 September 2022, employers must comply with the stipulated Retail PWM requirements to apply for new work passes (e.g., Work Permit, S Pass, Employment Pass) or renew existing work passes.
 
-<h4>How do I know if my company is eligible for the SFEC?</h4>
-<p>For eligibility criteria, please click <a href="https://sfec-microsite.enterprisejobskills.gov.sg/SFEC">here</a>.</p>
+To give employers time to adjust and comply with the Retail PWM requirements, the Ministry of Manpower (MOM) has rolled out a phased implementation:
 
-<h4>How do I claim for the SFEC?</h4>
-<p>For claims guide, please click <a href="https://sfec-microsite.enterprisejobskills.gov.sg/docs/default-source/default-document-library/sfec-claim-guide---final-(171121).pdf">here</a>.</p>
+**Run-in Period of 6 months from 1 September 2022 – 28 February 2023**
+During this period, MOM will focus on educating and supporting employers to understand and adhere to the PWM requirements without enforcing upon employers (i.e. suspension of Work Pass privileges such that employers will not be able to apply for new or renew existing Work Passes). However, if employers underpay the mandated Retail PWM wages, they should make up for the shortfall. They should also make the corresponding Employee’s Central Provident Fund (CPF) deduction and Employer’s CPF contributions in accordance with the CPF Act.
 
-<h4>Where can I get more information on the SFEC?</h4>
-<p>You may visit the <a href="https://sfec-microsite.enterprisejobskills.gov.sg/home/">SFEC Microsite</a> for more information.</p>
+**After Run-in Period from 1 March 2023 onwards**
+Should there be any non-compliance with Retail PWM requirements, MOM will advise employers on the appropriate rectification actions to take within a reasonable timeframe. Failing which, enforcement measures (i.e. suspension of work pass privileges such that employers will not be able to apply for new or renew existing work passes) may be imposed.
+
+<h4>What do I need to do as an employer?</h4>
+These are the key recommendations and implementation details of the Retail PWM set out by the Tripartite Cluster for Retail Industry (TCR): 
+
+* A clear **progression pathway comprising frontline operational and supervisory positions** is mapped out to highlight the career opportunities in the sector and to encourage more jobseekers to join the retail industry
+* To ensure retail workers have the necessary competencies to carry out their work, a **minimum training requirement of one (1) Workforce Skills Qualification (WSQ) training module** is recommended as a start
+* A set of **PWM Baseline Gross Wages** is recommended that would **take effect from 1 September 2022**
+* The PWM Baseline Gross Wages **will also be adjusted upwards from 1 September 2023 and 1 September 2024** to ensure retail employees continue to see sustained wage increases. 
+
+
