@@ -36,6 +36,7 @@ These are the key recommendations and implementation details of the Retail PWM s
 * A clear **progression pathway comprising frontline operational and supervisory positions** is mapped out to highlight the career opportunities in the sector and to encourage more jobseekers to join the retail industry
 * To ensure retail workers have the necessary competencies to carry out their work, a **minimum training requirement of one (1) Workforce Skills Qualification (WSQ) training module** is recommended as a start
 * A set of **PWM Baseline Gross Wages** is recommended that would **take effect from 1 September 2022**
-* The PWM Baseline Gross Wages **will also be adjusted upwards from 1 September 2023 and 1 September 2024** to ensure retail employees continue to see sustained wage increases. 
+* The PWM Baseline Gross Wages **will also be adjusted upwards from 1 September 2023 and 1 September 2024** to ensure retail employees continue to see sustained wage increases.
 
-
+<h5>Retail PWM Career Ladder</h5>
+TCR has mapped out the frontline operational and supervisory job roles within the retail sector as shown:
