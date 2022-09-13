@@ -5,9 +5,7 @@ description: Progressive Wage Model (PWM) for the Retail Sector
 third_nav_title: Consultancy
 image: /images/images-2021/Home-Highlights-PWM.png
 ---
-
-
-<h4>What is the Progressive Wage Model (PWM) for the retail sector?</h4>
+<h4>What is the Progressive Wage Model (PWM) for the Retail Sector?</h4>
 The PWM aims to build a future-ready workforce, transforming retailers into employers of choice and retail jobs into fulfilling long-term career options for local job seekers. PWM is expanded to more sectors, including Retail, to ensure lower-wage workers' wages close the gap with the median through higher wage growth than median wage growth. 
 
 <h4>Who does PWM covers?</h4>
