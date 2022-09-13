@@ -66,4 +66,4 @@ The following table summarises the recommended Retail PWM Baseline Gross Wages (
 ![Retail PWM - Baseline Gross Wages](/images/images-2021/Services_Consultancy_PWM_BaselineGrossWages.png)
 
 <h4>Where can I get more information on the Retail PWM?</h4>
-You many visit the [MOM website](https://www.mom.gov.sg/employment-practices/progressive-wage-model/retail-sector) for more information.
+You may visit the [MOM website](https://www.mom.gov.sg/employment-practices/progressive-wage-model/retail-sector) for more information.
