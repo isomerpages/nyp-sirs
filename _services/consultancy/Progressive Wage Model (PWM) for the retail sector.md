@@ -50,11 +50,11 @@ SIRS offers a comprehensive suite of modules, which will enable retailers and th
 
 ![Retail PWM - SIRS WSQ Modules](/images/images-2021/Services_Consultancy_PWM_WSQModules.png)
 
-Instead of going through training, an individual with previous experience or prior learning may choose to achieve his/her SOA through the **Assessment Only Pathway (AOP)**, an alternative certification pathway for candidates who have work experience* and/or formal/informal training in an area of competency. 
+Instead of going through training, an individual with previous experience or prior learning may choose to achieve his/her SOA through the **Assessment Only Pathway (AOP)**, an alternative certification pathway for candidates who have work experience<sup>#</sup> and/or formal/informal training in an area of competency. 
 
 The AOP consists of 1 to 1.5 hours of assessment. The mode of assessment under the AOP is the Challenge Test, which assesses the individual’s competencies through direct observation and questions to determine his/her competency. 
 
-*Having at least 1 year of retail work experience within the last 2 years from the date of application for assessment.*
+*<sup>#</sup>Having at least 1 year of retail work experience within the last 2 years from the date of application for assessment.*
 
 The course fee before subsidies is S$270. 
 
