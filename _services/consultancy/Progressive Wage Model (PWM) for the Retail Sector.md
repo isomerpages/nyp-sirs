@@ -4,7 +4,7 @@ permalink: /services/consultancy/pwm/
 description: Progressive Wage Model (PWM) for the Retail Sector
 third_nav_title: Consultancy
 ---
-<h4>What is the SkillsFuture Enterprise Credit (SFEC)?</h4>
+<h4>What is the Progressive Wage Model (PWM) for the retail sector?</h4>
 <p>The SFEC aims to encourage employers to invest in enterprise and workforce transformation. Eligible employers will receive additional support for your transformation efforts, in addition of the existing funding schemes.</p>
 
 <h4>What does the SFEC comprise of?</h4>
