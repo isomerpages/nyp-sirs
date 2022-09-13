@@ -20,15 +20,13 @@ The Retail PWM covers the following job roles:
 More details on the coverage of retail jobs and description of duties and responsibilities can be found [here](https://www.mom.gov.sg/-/media/mom/documents/employment-practices/pwm/retail-pwm-job-roles-description.pdf).
 
 <h4>What does this mean to me as an employer?</h4>
-From 1 September 2022, employers must comply with the stipulated Retail PWM requirements to apply for new work passes (e.g., Work Permit, S Pass, Employment Pass) or renew existing work passes.
+From 1 September 2022, employers must comply with the stipulated Retail PWM requirements to apply for new work passes (e.g., Work Permit, S Pass, Employment Pass) or renew existing work passes. To give employers time to adjust and comply with the Retail PWM requirements, the Ministry of Manpower (MOM) has rolled out a phased implementation.
 
-To give employers time to adjust and comply with the Retail PWM requirements, the Ministry of Manpower (MOM) has rolled out a phased implementation:
-
-**Run-in Period of 6 months from 1 September 2022 – 28 February 2023**
+**Run-in Period of 6 months from 1 September 2022 – 28 February 2023:**
 
 During this period, MOM will focus on educating and supporting employers to understand and adhere to the PWM requirements without enforcing upon employers (i.e. suspension of Work Pass privileges such that employers will not be able to apply for new or renew existing Work Passes). However, if employers underpay the mandated Retail PWM wages, they should make up for the shortfall. They should also make the corresponding Employee’s Central Provident Fund (CPF) deduction and Employer’s CPF contributions in accordance with the CPF Act.
 
-**After Run-in Period from 1 March 2023 onwards**
+**After Run-in Period from 1 March 2023 onwards:**
 
 Should there be any non-compliance with Retail PWM requirements, MOM will advise employers on the appropriate rectification actions to take within a reasonable timeframe. Failing which, enforcement measures (i.e. suspension of work pass privileges such that employers will not be able to apply for new or renew existing work passes) may be imposed.
 
@@ -40,5 +38,5 @@ These are the key recommendations and implementation details of the Retail PWM s
 * A set of **PWM Baseline Gross Wages** is recommended that would **take effect from 1 September 2022**
 * The PWM Baseline Gross Wages **will also be adjusted upwards from 1 September 2023 and 1 September 2024** to ensure retail employees continue to see sustained wage increases.
 
-<h6>Retail PWM Career Ladder</h6>
+<h5>Retail PWM Career Ladder</h5>
 TCR has mapped out the frontline operational and supervisory job roles within the retail sector as shown:
