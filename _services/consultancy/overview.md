@@ -1,6 +1,6 @@
 ---
 title: Overview
-permalink: /services/consultancy
+permalink: /services/consultancy/
 breadcrumb: Overview
 third_nav_title: Consultancy
 ---
@@ -15,6 +15,7 @@ third_nav_title: Consultancy
 <li><a href="/services/consultancy/etss">Enhanced Training Support for SMEs (ETSS)</a></li>
 
 <li><a href="/services/consultancy/edg">Enterprise Development Grant (EDG)</a></li>
+<li><a href="/services/consultancy/pwm">Progressive Wage Model (PWM) for the Retail Sector</a></li>
 <li><a href="/services/consultancy/skillsfuture-enterprise-credit">SkillsFuture Enterprise Credit (SFEC)</a></li>
 <li><a href="/services/consultancy/wss-companies">Workfare Skills Support (WSS) Scheme (For Companies)</a></li>
 </ul>
