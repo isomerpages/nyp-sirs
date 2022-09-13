@@ -61,7 +61,7 @@ The course fee before subsidies is S$270.
 For more information, please contact our Business Development via email [upskill@sirs.edu.sg](mailto:upskill@sirs.edu.sg).
 
 <h5>Retail PWM Baseline Gross Wages</h5>
-The following table summarises the recommended Retail PWM Baseline Gross Wages (excluding overtime payment) for the period from 1 September 2022 to 31 August 2025 to applicable resident workers (i.e. Singapore Citizens and Permanent Residents) in the retail sector. 
+The following table summarises the recommended Retail PWM Baseline Gross Wages (excluding overtime payment) from 1 September 2022 to 31 August 2025 to applicable resident workers (i.e. Singapore Citizens and Permanent Residents) in the retail sector. 
 
 ![Retail PWM - Baseline Gross Wages](/images/images-2021/Services_Consultancy_PWM_BaselineGrossWages.png)
 
