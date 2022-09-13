@@ -40,3 +40,14 @@ These are the key recommendations and implementation details of the Retail PWM s
 
 <h5>Retail PWM Career Ladder</h5>
 TCR has mapped out the frontline operational and supervisory job roles within the retail sector as shown:
+
+![Retail PWM - Career Progression](/images/images-2021/Services_Consultancy_PWM_CareerProgression.png)
+
+<h5>WSQ Training</h5>
+To encourage a continuous learning and upskilling mindset to support industry transformation, TCR recommends the setting of minimum training requirements for all PWM job roles. As a start, the TCR recommends that one (1) WSQ training module be stipulated as the minimum PWM training requirements for all PWM job roles. TCR also recommends that in-house WSQ training modules with the prefix “RET” in its TSC code be recognised as an approved training module. 
+
+SIRS offers a comprehensive suite of modules, which will enable retailers and their staff to meet training requirements.
+
+![Retail PWM - SIRS WSQ Modules](/images/images-2021/Services_Consultancy_PWM_WSQModules.png)
+
+For information on class dates, please contact our Business Development via email [upskill@sirs.edu.sg](upskill@sirs.edu.sg).
