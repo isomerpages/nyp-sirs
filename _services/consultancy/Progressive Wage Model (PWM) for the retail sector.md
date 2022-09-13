@@ -46,7 +46,7 @@ TCR has mapped out the frontline operational and supervisory job roles within th
 <h5>WSQ Training</h5>
 To encourage a continuous learning and upskilling mindset to support industry transformation, TCR recommends the setting of minimum training requirements for all PWM job roles. As a start, the TCR recommends that one (1) WSQ training module be stipulated as the minimum PWM training requirements for all PWM job roles. TCR also recommends that in-house WSQ training modules with the prefix “RET” in its TSC code be recognised as an approved training module. 
 
-SIRS offers a comprehensive suite of modules, which will enable retailers and their staff to meet training requirements. For information on class dates, please contact our Business Development via email [upskill@sirs.edu.sg](upskill@sirs.edu.sg).
+SIRS offers a comprehensive suite of modules, which will enable retailers and their staff to meet training requirements. For information on class dates, please contact our Business Development via email [upskill@sirs.edu.sg](mailto:upskill@sirs.edu.sg).
 
 ![Retail PWM - SIRS WSQ Modules](/images/images-2021/Services_Consultancy_PWM_WSQModules.png)
 
@@ -58,7 +58,7 @@ The AOP consists of 1 to 1.5 hours of assessment. The mode of assessment under t
 
 The course fee before subsidies is S$270. 
 
-For more information, please contact our Business Development via email [upskill@sirs.edu.sg](upskill@sirs.edu.sg).
+For more information, please contact our Business Development via email [upskill@sirs.edu.sg](mailto:upskill@sirs.edu.sg).
 
 <h5>Retail PWM Baseline Gross Wages</h5>
 The following table summarises the recommended Retail PWM Baseline Gross Wages (excluding overtime payment) for the period from 1 September 2022 to 31 August 2025 to applicable resident workers (i.e. Singapore Citizens and Permanent Residents) in the retail sector. 
