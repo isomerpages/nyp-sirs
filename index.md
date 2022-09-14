@@ -6,14 +6,13 @@ sections:
   - hero:
       background: /images/images-2021/Homepage_Banner2.png
   - infopic:
-      title: Sell and Earn on TikTok
-      description: Take advantage of TikTok’s fast-growing audience base to expand
-        your marketing channels, foster customer engagement and increase
-        earnings!
-      button: more about this workshop
-      url: /digital-programmes/mc-ws/tiktok/
-      alt: Sell and Earn on TikTok
-      image: /images/images-2021/Home-Highlights-TikTok.png
+      title: Progressive Wage Model (PWM) for the Retail Sector
+      description: "Effective 1 September 2022, employers are to meet the PWM wage and
+        training requirements for workers in five retail job roles.   "
+      button: More about pwm
+      url: /services/consultancy/pwm/
+      image: /images/images-2021/Home-Highlights-PWM.png
+      alt: PWM for the Retail Sector
   - infopic:
       title: Kickstart Conversational Commerce through WhatsApp
       description: "Jumpstart your marketing campaigns by tapping on the most popular
@@ -23,6 +22,15 @@ sections:
       url: /digital-programmes/mentorship-programmes/ccmp/
       image: /images/images-2021/Home-Highlights-CCMP.png
       alt: WhatsApp Mentorship Programme
+  - infopic:
+      title: Sell and Earn on TikTok
+      description: Take advantage of TikTok’s fast-growing audience base to expand
+        your marketing channels, foster customer engagement and increase
+        earnings!
+      button: more about this workshop
+      url: /digital-programmes/mc-ws/tiktok/
+      alt: Sell and Earn on TikTok
+      image: /images/images-2021/Home-Highlights-TikTok.png
   - infopic:
       title: Mint Your First Non-Fungible Token (NFT) in Top Marketplaces
       description: You could be the next Beeple who sold his NFT creation for $69

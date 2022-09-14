@@ -1,10 +1,11 @@
 ---
-title: Progressive Wage Model (PWM) for the retail sector
+title: Progressive Wage Model (PWM) for the Retail Sector
 permalink: /services/consultancy/pwm/
 description: Progressive Wage Model (PWM) for the Retail Sector
 third_nav_title: Consultancy
+image: /images/images-2021/Home-Highlights-PWM.png
 ---
-<h4>What is the Progressive Wage Model (PWM) for the retail sector?</h4>
+<h4>What is the Progressive Wage Model (PWM) for the Retail Sector?</h4>
 The PWM aims to build a future-ready workforce, transforming retailers into employers of choice and retail jobs into fulfilling long-term career options for local job seekers. PWM is expanded to more sectors, including Retail, to ensure lower-wage workers' wages close the gap with the median through higher wage growth than median wage growth. 
 
 <h4>Who does PWM covers?</h4>
@@ -40,3 +41,30 @@ These are the key recommendations and implementation details of the Retail PWM s
 
 <h5>Retail PWM Career Ladder</h5>
 TCR has mapped out the frontline operational and supervisory job roles within the retail sector as shown:
+
+![Retail PWM - Career Progression](/images/images-2021/Services_Consultancy_PWM_CareerProgression.png)
+
+<h5>WSQ Training</h5>
+To encourage a continuous learning and upskilling mindset to support industry transformation, TCR recommends the setting of minimum training requirements for all PWM job roles. As a start, the TCR recommends that one (1) WSQ training module be stipulated as the minimum PWM training requirements for all PWM job roles. TCR also recommends that in-house WSQ training modules with the prefix “RET” in its TSC code be recognised as an approved training module. 
+
+SIRS offers a comprehensive suite of modules, which will enable retailers and their staff to meet training requirements. For information on class dates, please contact our Business Development via email [upskill@sirs.edu.sg](mailto:upskill@sirs.edu.sg).
+
+![Retail PWM - SIRS WSQ Modules](/images/images-2021/Services_Consultancy_PWM_WSQModules.png)
+
+Instead of going through training, an individual with previous experience or prior learning may choose to achieve his/her SOA through the **Assessment Only Pathway (AOP)**, an alternative certification pathway for candidates who have work experience<sup>#</sup> and/or formal/informal training in an area of competency. 
+
+The AOP consists of 1 to 1.5 hours of assessment. The mode of assessment under the AOP is the Challenge Test, which assesses the individual’s competencies through direct observation and questions to determine his/her competency. 
+
+*<sup>#</sup>Having at least 1 year of retail work experience within the last 2 years from the date of application for assessment.*
+
+The course fee before subsidies is S$270. 
+
+For more information, please contact our Business Development via email [upskill@sirs.edu.sg](mailto:upskill@sirs.edu.sg).
+
+<h5>Retail PWM Baseline Gross Wages</h5>
+The following table summarises the recommended Retail PWM Baseline Gross Wages (excluding overtime payment) from 1 September 2022 to 31 August 2025 to applicable resident workers (i.e. Singapore Citizens and Permanent Residents) in the retail sector. 
+
+![Retail PWM - Baseline Gross Wages](/images/images-2021/Services_Consultancy_PWM_BaselineGrossWages.png)
+
+<h4>Where can I get more information on the Retail PWM?</h4>
+You may visit the [MOM website](https://www.mom.gov.sg/employment-practices/progressive-wage-model/retail-sector) for more information.
