@@ -1,6 +1,6 @@
 ---
 title: Alibaba Entrepreneur Startup Programme
-permalink: /digital-programmes/alibaba-business-school/alibaba-entrepreneur-startup-programme
+permalink: /digital-programmes/alibaba-business-school/alibaba-entrepreneur-startup-programme/
 breadcrumb: Alibaba Entrepreneur Startup Programme
 third_nav_title: Alibaba Business School
 ---
@@ -16,7 +16,7 @@ Open Your Horizons. Apply Proven E-Commerce Strategies</center>
 
 <h4 style="text-align:center;">Next intake:</h4>
 
-<center><p> 31 Aug- 2 Sep & 5-7 Sep 2022 <br>(Wed-Fri, Mon-Wed)</p></center>
+<center><p>To be confirmed</p></center>
 
 <b>This programme will be conducted in English.</b>
 
