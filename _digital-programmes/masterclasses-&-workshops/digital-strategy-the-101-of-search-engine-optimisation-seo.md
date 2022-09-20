@@ -1,6 +1,6 @@
 ---
 title: Digital Strategy & the 101 of Search Engine Optimisation (SEO)
-permalink: /digital-programmes/masterclasses-and-workshops/digital-strategy-and-the-101-of-seo
+permalink: /digital-programmes/masterclasses-and-workshops/digital-strategy-and-the-101-of-seo/
 breadcrumb: Digital Strategy & the 101 of Search Engine Optimisation (SEO)
 third_nav_title: Masterclasses & Workshops
 ---
@@ -14,7 +14,7 @@ third_nav_title: Masterclasses & Workshops
       <th style="text-align:center;width:50%;">Face-to-Face</th>
     </tr>
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">16 Sep (Fri)<br>7 Dec (Wed)</td>
+      <td style="text-align:center;width:50%;">7 Dec (Wed)</td>
       <td style="text-align:center;width:50%;">To be confirmed</td>
     </tr>
 </table></center>

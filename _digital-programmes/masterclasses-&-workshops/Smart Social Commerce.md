@@ -1,6 +1,6 @@
 ---
 title: Smart Social Commerce
-permalink: /digital-programmes/mc-ws/ssc
+permalink: /digital-programmes/mc-ws/ssc/
 description: ""
 third_nav_title: Masterclasses & Workshops
 ---
@@ -14,7 +14,7 @@ third_nav_title: Masterclasses & Workshops
       <th style="text-align:center;width:50%;">Face-to-Face</th>
     </tr>
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">19 Aug 2022<br> 22 Sep 2022 </td>
+      <td style="text-align:center;width:50%;">22 Sep 2022</td>
       <td style="text-align:center;width:50%;">To be confirmed</td>
     </tr>
 </table></center>
