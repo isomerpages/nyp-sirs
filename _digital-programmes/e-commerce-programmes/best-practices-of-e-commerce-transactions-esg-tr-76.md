@@ -1,6 +1,6 @@
 ---
 title: Best Practices of E-Commerce Transactions ESG TR 76
-permalink: /digital-programmes/e-commerce-programmes/best-practices-of-e-commerce-transactions-using-tr76
+permalink: /digital-programmes/e-commerce-programmes/best-practices-of-e-commerce-transactions-using-tr76/
 breadcrumb: Best Practices of E-Commerce ESG TR 76
 third_nav_title: E-Commerce Programmes
 ---
@@ -14,7 +14,7 @@ third_nav_title: E-Commerce Programmes
       <th style="text-align:center;width:50%;">Face-to-Face</th>
     </tr>
     <tr style="text-align:center;">
-			<td style="text-align:center;width:50%;">To be confirmed</td>
+			<td style="text-align:center;width:50%;">3 Nov (Thu) </td>
       <td style="text-align:center;width:50%;">To be confirmed</td>
     </tr>
 </table></center>
