@@ -16,7 +16,7 @@ third_nav_title: Masterclasses & Workshops
     </tr>
     <tr style="text-align:center;">
       <td style="text-align:center;width:50%;">To be confirmed</td>
-      <td style="text-align:center;width:50%;">23 Sep (Fri)</td>
+      <td style="text-align:center;width:50%;">23 Sep (Fri)<br>6 Oct (Thu)</td>
     </tr>
 </table></center>
 
