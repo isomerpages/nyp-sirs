@@ -15,7 +15,7 @@ third_nav_title: Masterclasses & Workshops
     </tr>
     <tr style="text-align:center;">
       <td style="text-align:center;width:50%;">19-20 Sep (Mon-Tue)<br>12-13 Oct (Wed-Thu)</td>
-      <td style="text-align:center;width:50%;">14-15 Nov (Mon-Tue)<br>8-9 Dec (Thu-Fri)</td>
+      <td style="text-align:center;width:50%;">14-15 Nov (Mon-Tue)<br>8 & 12 Dec (Thu & Mon)</td>
     </tr>
 </table></center>
 
