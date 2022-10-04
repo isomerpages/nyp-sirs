@@ -16,7 +16,7 @@ Open Your Horizons. Apply Proven E-Commerce Strategies</center>
 
 <h4 style="text-align:center;">Next intake:</h4>
 
-<center><p>To be confirmed</p></center>
+<center><p>Online Training: 21-25 & 28 Nov (Mon-Fri & Mon)</p></center>
 
 <b>This programme will be conducted in English.</b>
 
