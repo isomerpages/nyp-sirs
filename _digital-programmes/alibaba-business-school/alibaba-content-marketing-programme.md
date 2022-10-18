@@ -18,7 +18,7 @@ Holistic Hands-on Content Marketing Techniques</center>
 
 <center><table style="width:80%;">
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;"> 12, 13, 14, October 2022 (Conducted in Mandarin)</td>
+      <td style="text-align:center;width:50%;"> 16, 17, 18, November 2022 (Conducted in Mandarin)</td>
     </tr>
 </table></center>
 
