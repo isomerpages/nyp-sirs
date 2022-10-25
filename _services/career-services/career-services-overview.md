@@ -1,6 +1,6 @@
 ---
 title: Career Services Overview
-permalink: /services/career-services
+permalink: /services/career-services/
 breadcrumb: Career Services Overview
 third_nav_title: Career Services
 ---
@@ -8,7 +8,7 @@ third_nav_title: Career Services
 
 <p>SIRS provides career guidance for individuals seeking a career in retail and those considering a career move from another industry or within the retail industry. This includes facilitating placements for individuals trained by SIRS, so that they can gain employment in the retail industry after training.</p>
 
-<p>Individuals can obtain information and advice on matters like the current retail employment situation, job opportunities within specific professional specialisations and alternative job opportunities. We have a team of professional career consultants who will advise and guide potential jobseekers, even plan a training programme and work together to bring these trained jobseekers and potential employers together. SIRS' career guidance is a free service.</p>
+<p>Individuals can obtain information and advice on matters like the current retail employment situation, <a href="https://docs.google.com/spreadsheets/d/1QSfd-F8tHexRYipvrKE2zO1JKHR_fOsCKRb9Mi9xzpU/edit#gid=0">job opportunities</a> within specific professional specialisations, and alternative job opportunities. We have a team of professional career consultants who will advise and guide potential jobseekers, even plan a training programme and work together to bring these trained jobseekers and potential employers together. SIRS' career guidance is a free service.</p>
 
 <p>SIRS is the appointed programme manager for the following Place-and-Train Programmes for the retail industry:</p>
 
