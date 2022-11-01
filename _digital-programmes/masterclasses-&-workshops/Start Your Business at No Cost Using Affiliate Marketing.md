@@ -1,7 +1,7 @@
 ---
-title: Mint Your First Non Fungible Token (NFT) in Top Marketplaces
-permalink: /digital-programmes/mc-ws/nft/
-description: SIRS Workshop - Mint Your FIrst Non-Fungible Token (NFT) in Top Marketplaces
+title: Start Your Business at No Cost Using Affiliate Marketing
+permalink: /digital-programmes/mc-ws/am/
+description: SIRS Workshop - Start Your Business at No Cost Using Affiliate Marketing
 image: /images/images-2021/DigitalProgrammes-HImage-Workshop.png
 third_nav_title: Masterclasses & Workshops
 ---
@@ -14,37 +14,42 @@ third_nav_title: Masterclasses & Workshops
       <th style="text-align:center;width:50%;">Face-to-Face</th>
     </tr>
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">21 Nov (Mon)</td>
+      <td style="text-align:center;width:50%;">To be confirmed</td>
     </tr>
 </table></center>
 
-<p>Would you spend thousands of dollars for a link to a JPEG file? A blockchain entrepreneur paid $69 million for an NFT created by digital artist Beeple*. What started as a way to legitimise digital art has evolved as one of the hottest trends and a promising new marketplace for retailers. NFTs have disrupted the digital world and industries from art to gaming to investing, offering ample opportunities for art collectors, creators, and businesses to become a part of the digital revolution.</p>
-
-<p>Join us in this workshop to uncover the mysteries of NFTs and gain the first mover advantage before it becomes a staple in the future of retail. Understand the value and possibilities brought about by the NFT technology and try your hands at buying NFTs, creating crypto wallets, and minting your first NFT on a popular marketplace through our step-by-step process. Who knows, your NFT may make you the next millionaire!</p>
+<p>Valued at $12 billion worldwide*, the affiliate marketing industry is growing immensely as more brands and individuals jump on the bandwagon. Globally, over 80% of brands use affiliate programmes* and the number is on the rise as it gains popularity with the introduction of new technologies, platforms, and trends.</p>
+	
+<p>Affiliate marketing is the easiest and quickest way to start selling and earning at zero cost! When done right, an affiliate marketer can build a steady stream of income by promoting affiliates’ products and earning a commission. Strategise and develop efficacious affiliate marketing campaigns to start your own business or as a source of passive income in this two-day workshop. Besides learning winning concepts, frameworks, techniques, and platforms you can leverage for a successful affiliate marketing experience, you will also discover ways to partner with established local companies and implement effective strategies to drive sales and generate income!</p>
 
 <small>*Data source:
-<a href="https://www.cnbc.com/2021/03/30/vignesh-sundaresan-known-as-metakovan-on-paying-69-million-for-beeple-nft.html">https://www.cnbc.com/2021/03/30/vignesh-sundaresan-known-as-metakovan-on-paying-69-million-for-beeple-nft.html</a></small>
+<a href="https://www.enterpriseappstoday.com/stats/affiliate-marketing-statistics.html">https://www.enterpriseappstoday.com/stats/affiliate-marketing-statistics.html</a></small>
 
 <h4>Course Title | Mode of Training | Course Ref</h4>
 
-<p>Mint Your First Non-Fungible Token (NFT) in Top Marketplaces
-<br>Classroom - TGS-2022015240
-<br><i>*Participants are required to bring your own laptop.</i>
-</p>
+<p>Start Your Business at No Cost Using 
+Affiliate Marketing<br>Classroom & Asynchronous E-Learning - TGS-2022016627</p>
 
 <h4>Outline</h4>
-* Articulate the value of NFTs for real-world application
-* Create a crypto wallet
-* Connect to a NFT marketplace
-* Buy a NFT
-* Mint and list a NFT for sale
-* Withdraw proceeds from a NFT sale
+* Identify different affiliate programmes in Singapore
+* Register with various affiliate marketing platforms
+* Develop affiliate marketing and promotion strategies
+* Construct an affiliate portfolio based on the incentive framework
+* Design a campaign strategy for implementation
+* Monitor and review campaign performance
 
 <h4>Who Should Attend</h4>
-<p>This workshop is suitable for Business Owners, Entrepreneurs, Marketing Professionals, Digital Artists, Content Creators, NFT Art Collectors and individuals who are looking to buy, sell and list NFTs on marketplaces.</p>
+<p>This workshop is suitable for all working professionals, entrepreneurs and individuals who are interested in affiliate marketing as an alternative income source.</p>
+	
+<h4>Requirements</h4>
+<ul>
+<li>Bring your own laptop</li>
+<li>Have a user shopping account with Shopee and Lazada</li>
+<li>Be shoppers and have experience making purchases online</li>
+</ul>
 
 <h4>Duration</h4>
-<p>1 day (9am - 6pm)</p>
+<p>2 days (9am - 6pm)<br>Includes 2 hours Asynchronous E-Learning</p>
 
 <h4>Fees</h4>
 
@@ -57,22 +62,22 @@ third_nav_title: Masterclasses & Workshops
 
 <tr>
 <td>Full fees</td>
-<td>$535.00</td>
+<td>$802.50</td>
 </tr>
 
 <tr>
 <td>Singapore Citizen/Singapore PR (SPR) (70% funding)</td>
-<td>$160.50</td>
+<td>$240.75</td>
 </tr>
 
 <tr>
-<td>Singapore Citizen 40 years & above<sup>1</sup>(90% funding)</td>
-<td>$60.50</td>
+<td>Singapore Citizen 40 years & above<sup>1</sup> (90% funding)</td>
+<td>$90.75</td>
 </tr>
 
 <tr>
   <td>Singapore Citizen/SPR sponsored by SMEs<sup>2</sup> (90% funding)</td>
-<td>$60.50</td>
+<td>$90.75</td>
 </tr>
 
 </table>
