@@ -23,7 +23,7 @@ third_nav_title: Masterclasses & Workshops
 <p>Affiliate marketing is the easiest and quickest way to start selling and earning at zero cost! When done right, an affiliate marketer can build a steady stream of income by promoting affiliates’ products and earning a commission. Strategise and develop efficacious affiliate marketing campaigns to start your own business or as a source of passive income in this two-day workshop. Besides learning winning concepts, frameworks, techniques, and platforms you can leverage for a successful affiliate marketing experience, you will also discover ways to partner with established local companies and implement effective strategies to drive sales and generate income!</p>
 
 <small>*Data source:
-<a href="https://www.enterpriseappstoday.com/stats/affiliate-marketing-statistics.html</small></a>
+<a href="https://www.enterpriseappstoday.com/stats/affiliate-marketing-statistics.html">https://www.enterpriseappstoday.com/stats/affiliate-marketing-statistics.html</a></small>
 
 <h4>Course Title | Mode of Training | Course Ref</h4>
 
