@@ -44,6 +44,8 @@ third_nav_title: Consultancy
     <td>Celeste Tan<br>Email: <a href="celeste_tan@sirs.edu.sg">celeste_tan@sirs.edu.sg</a><br>Tel: 6417-3034</td>
   <tr>
     <td>Lynda Cheong<br>Email: <a href="lynda_cheong@sirs.edu.sg">lynda_cheong@sirs.edu.sg</a><br>Tel: 6417-3009</td>
-	 <td>Lai Jiawen<br>Email: <a href="lai_jiawen@sirs.edu.sg">lai_jiawen@sirs.edu.sg</a><br>Tel: 6417-3012</td>
+	 <td>CJ Poei<br>Email: <a href="poei_chin_jau@sirs.edu.sg">poei_chin_jau@sirs.edu.sg</a><br>Tel: 6417-3017</td>
+	<tr>
+			 <td>Cecelia Tay<br>Email: <a href="cecelia_tay@sirs.edu.sg">cecelia_tay@sirs.edu.sg</a><br>Tel: 6417-3655</td>
   </tr>
 </table>
