@@ -1,6 +1,6 @@
 ---
 title: Our Team
-permalink: /about-us/ourteam
+permalink: /about-us/ourteam/
 description: Meet the SIRS Team
 ---
 ![vector image of people](/images/images-2021/OurTeam/OurTeam_Header.png)
@@ -56,28 +56,6 @@ We believe that people are the greatest assets of any organisation, and it is no
 
 **Angie ❤ SIRS**
 <br><i>“I enjoy working with every colleague and team at SIRS. Although each comes with a diverse personality and background, we just have this magical tacit agreement when we work together.”</i>
-
-<hr>
-
-<h5>Celeste Tan, Head of Business Development</h5>
-	
-<div class="row">
-    <div class="col is-4">
-		<figure style="margin:0">
-			<img src="/images/images-2021/OurTeam/HOD_BD_Celeste2.png" style="width:100%;">
-			<figcaption class="has-text-weight-bold" style="color:#0AD25A"> </figcaption>
-		</figure>
-	</div>
-	<div class="col is-8">
-<p>Celeste is a true blue business development professional whose vast experience in start-ups, e-commerce and retail in Asia has lent her a deep understanding of both the goals and challenges of the companies she works with on their strategic training and consultancy needs. An ex-entrepreneur, Celeste also has the added advantage of possessing a broader perspective of the overall organisational structure. This contributes significantly to the value that she brings to businesses in helping them to identify the key needs in strategic areas especially critical in the New Retail Omnichannel environment,  and that also supports extensively the reskilling and upskilling of employees.</p>
-</div>
-</div>
-
-**Getting to know Celeste**<br>“Good things come in small packages” never rings more true when you meet Celeste. She is tiny but she is the fiery spicy chilli padi that makes you sit up straighter, eyes opened wider, ears stretched longer (ok, we are stretching this a little) – where she really adds that special kind of spice to any conversation and peppered with a good dose of humour.
-
-
-**Celeste ❤ SIRS**
-<br><i>“Love that SIRS is very practical and down-to-earth in our approach, where all of us work together amazingly with companies and individuals helping them attain their goals and ambitions.”</i>
 
 <hr>
 
