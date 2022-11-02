@@ -35,15 +35,14 @@ third_nav_title: Consultancy
 <p>Contact our Business Development team if you require customised solutions for your business.</p>
 
 <table>
-    <td>Lai Jiawen<br>Email: <a href="lai_jiawen@sirs.edu.sg">lai_jiawen@sirs.edu.sg</a><br>Tel: 6417-3029</td>
-    <td>Ong Li Ping<br>Email: <a href="ong_li_ping@sirs.edu.sg">ong_li_ping@sirs.edu.sg</a><br>Tel: 6417-3030</td>
-  <tr>
-	<td>Joanne Low<br>Email: <a href="joanne_low@sirs.edu.sg">joanne_low@sirs.edu.sg</a><br>Tel: 6417-3033</td>
-    <td>Celeste Tan<br>Email: <a href="celeste_tan@sirs.edu.sg">celeste_tan@sirs.edu.sg</a><br>Tel: 6417-3034</td>
-  <tr>
-    <td>Lynda Cheong<br>Email: <a href="lynda_cheong@sirs.edu.sg">lynda_cheong@sirs.edu.sg</a><br>Tel: 6417-3009</td>
-	 <td>CJ Poei<br>Email: <a href="poei_chin_jau@sirs.edu.sg">poei_chin_jau@sirs.edu.sg</a><br>Tel: 6417-3017</td>
-	<tr>
-			 <td>Cecelia Tay<br>Email: <a href="cecelia_tay@sirs.edu.sg">cecelia_tay@sirs.edu.sg</a><br>Tel: 6417-3655</td>
-  </tr>
-</table>
+	<td>Lai Jiawen<br>Email: <a href="mailto:lai_jiawen@sirs.edu.sg">lai_jiawen@sirs.edu.sg</a><br>Tel: 6417-3029</td>
+<td>Ong Li Ping<br>Email: <a href="ong_li_ping@sirs.edu.sg">ong_li_ping@sirs.edu.sg</a><br>Tel: 6417-3030</td>
+<tr>
+<td>Joanne Low<br>Email: <a href="joanne_low@sirs.edu.sg">joanne_low@sirs.edu.sg</a><br>Tel: 6417-3033</td>
+<td>Celeste Tan<br>Email: <a href="celeste_tan@sirs.edu.sg">celeste_tan@sirs.edu.sg</a><br>Tel: 6417-3034</td>
+<tr>
+<td>Lynda Cheong<br>Email: <a href="lynda_cheong@sirs.edu.sg">lynda_cheong@sirs.edu.sg</a><br>Tel: 6417-3009</td>
+<td>CJ Poei<br>Email: <a href="poei_chin_jau@sirs.edu.sg">poei_chin_jau@sirs.edu.sg</a><br>Tel: 6417-3017</td>
+<tr>
+<td>Cecelia Tay<br>Email: <a href="cecelia_tay@sirs.edu.sg">cecelia_tay@sirs.edu.sg</a><br>Tel: 6417-3655</td>
+</tr></table>
