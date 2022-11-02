@@ -35,7 +35,6 @@ third_nav_title: Consultancy
 <p>Contact our Business Development team if you require customised solutions for your business.</p>
 
 <table>
-<tr>
     <td>Lai Jiawen<br>Email: <a href="lai_jiawen@sirs.edu.sg">lai_jiawen@sirs.edu.sg</a><br>Tel: 6417-3029</td>
     <td>Ong Li Ping<br>Email: <a href="ong_li_ping@sirs.edu.sg">ong_li_ping@sirs.edu.sg</a><br>Tel: 6417-3030</td>
   <tr>
