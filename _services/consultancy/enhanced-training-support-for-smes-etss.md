@@ -7,9 +7,7 @@ third_nav_title: Consultancy
 <b>Enterprises may now apply for the <a href="/services/consultancy/enhanced-training-support-package-etsp">Enhanced Training Support Package (ETSP)</a> for added support for sectors which were directly and severely affected by the COVID-19 pandemic.</b>
 
 <h4>What is Enhanced Training Support For SMEs (ETSS)?</h4>
-<p>Skills upgrading remains a key mechanism for companies to raise productivity. Compared to larger companies with more resources, Small and Medium Enterprises (SMEs) are less able to send their employees for training.  The Government has thus enhanced training support for SMEs by providing higher course fee funding and enhanced absentee payroll cap. 
-	<br><br><b>Update: </b>With effect from 1 Jan 2022,  <a href="https://www.sirs.edu.sg/services/consultancy/absentee-payroll-ap">Absentee Payroll (AP)</a> funding will be standardised to $4.50 per trainee-hour, capped at $100,000 per enterprise per calendar year, for eligible SMEs. 
-<br> For more information, please click <a href="https://www.myskillsfuture.gov.sg/content/portal/en/career-resources/career-resources/education-career-personal-development/skillsfuture-funding-changes.html">here</a>.</p>
+<p>Skills upgrading remains a key mechanism for companies to raise productivity. Compared to larger companies with more resources, Small and Medium Enterprises (SMEs) are less able to send their employees for training.  The Government has thus enhanced training support for SMEs by providing higher course fee funding and enhanced <a href="https://www.sirs.edu.sg/services/consultancy/absentee-payroll-ap">Absentee Payroll (AP)</a> cap. </p>
 
 <h4>What does ETSS comprise?</h4>
 <p>For all eligible SMEs, sponsored staff enjoys 90% course fee subsidy for all approved programmes.</p>
