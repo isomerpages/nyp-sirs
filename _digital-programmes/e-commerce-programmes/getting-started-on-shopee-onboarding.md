@@ -14,8 +14,8 @@ third_nav_title: E-Commerce Programmes
       <th style="text-align:center;width:50%;">Face-to-Face</th>
     </tr>
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">7 Oct (Fri)</td>
-      <td style="text-align:center;width:50%;">3 Nov (Thu)<br>1 Dec (Thu)</td>
+      <td style="text-align:center;width:50%;">1 Dec (Thu)</td>
+      <td style="text-align:center;width:50%;">3 Nov (Thu)</td>
     </tr>
 </table></center>
 

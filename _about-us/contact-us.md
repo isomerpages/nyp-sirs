@@ -1,6 +1,6 @@
 ---
 title: Contact Us
-permalink: /contact-us
+permalink: /contact-us/
 breadcrumb: Contact SIRS
 ---
 <img src="/images/images-2021/About-ContactUs.png" style="width:100%;">
@@ -8,7 +8,7 @@ breadcrumb: Contact SIRS
 <h4>Our Address</h4>
 
 <p>11 Eunos Road 8<br>
-Lifelong Learning Institute, #08-02/03/04<br>
+Lifelong Learning Institute, #08-02/03<br>
 Singapore 408601<br>
 
 <p>Nearest MRT: Paya Lebar MRT<br></p>
