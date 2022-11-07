@@ -1,6 +1,6 @@
 ---
 title: Diploma in Retail (E-Commerce / Omni-Channel)
-permalink: /wsq-programmes/wsq-full-qualification-programmes/diploma-in-retail-e-commerce-omni-channel
+permalink: /wsq-programmes/wsq-full-qualification-programmes/diploma-in-retail-e-commerce-omni-channel/
 third_nav_title: WSQ Full Qualification Programmes
 ---
 <img src="/images/images-2021/WSQ_FullQual_DREO.png" style="width:100%;">
@@ -12,7 +12,7 @@ third_nav_title: WSQ Full Qualification Programmes
       <th style="text-align:center;width:50%;">Night Training</th>
     </tr>
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">September 2022<br>(Every Tue & Wed, Online)</td>
+      <td style="text-align:center;width:50%;">To be confirmed</td>
       <td style="text-align:center;width:50%;">November 2022<br>(Every Wed & Thur, Online)</td>
     </tr>
 </table></center>
