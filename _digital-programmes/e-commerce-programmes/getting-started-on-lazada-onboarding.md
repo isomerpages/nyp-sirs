@@ -1,6 +1,6 @@
 ---
 title: Getting Started on Lazada (Onboarding)
-permalink: /digital-programmes/e-commerce-programmes/getting-started-on-lazada
+permalink: /digital-programmes/e-commerce-programmes/getting-started-on-lazada/
 breadcrumb: Getting Started on Lazada (Onboarding)
 third_nav_title: E-Commerce Programmes
 ---
@@ -14,7 +14,7 @@ third_nav_title: E-Commerce Programmes
       <th style="text-align:center;width:50%;">Face-to-Face</th>
     </tr>
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">5 Oct (Wed)<br>2 Dec (Thu)</td>
+      <td style="text-align:center;width:50%;">2 Dec (Thu)</td>
       <td style="text-align:center;width:50%;">To be confirmed</td>
 	</tr>
 </table></center>
