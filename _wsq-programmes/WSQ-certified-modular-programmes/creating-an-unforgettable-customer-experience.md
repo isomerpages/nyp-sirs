@@ -1,6 +1,6 @@
 ---
 title: Creating an Unforgettable Customer Experience
-permalink: /wsq-programmes/wsq-modular-programmes/creating-an-unforgettable-customer-experience
+permalink: /wsq-programmes/wsq-modular-programmes/creating-an-unforgettable-customer-experience/
 breadcrumb: Creating an Unforgettable Customer Experience
 third_nav_title: WSQ Certified Modular Programmes
 ---
@@ -16,7 +16,7 @@ third_nav_title: WSQ Certified Modular Programmes
     </tr>
     <tr style="text-align:center;">
       <td style="text-align:center;width:50%;">To be confirmed</td>
-      <td style="text-align:center;width:50%;">6 - 7 Dec (Tue - Wed)</td>
+      <td style="text-align:center;width:50%;">6-7 Dec (Tue-Wed)<br>17-18 Jan (Tue-Wed)</td>
     </tr>
 </table></center>
 
