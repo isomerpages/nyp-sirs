@@ -1,6 +1,6 @@
 ---
 title: Mastering the Art of Selling in New Retail
-permalink: /wsq-programmes/wsq-modular-programmes/mastering-the-art-of-selling-in-new-retail
+permalink: /wsq-programmes/wsq-modular-programmes/mastering-the-art-of-selling-in-new-retail/
 breadcrumb: Mastering the Art of Selling in New Retail
 third_nav_title: WSQ Certified Modular Programmes
 ---
@@ -16,7 +16,7 @@ third_nav_title: WSQ Certified Modular Programmes
     </tr>
     <tr style="text-align:center;">
       <td style="text-align:center;width:50%;">To be confirmed</td>
-      <td style="text-align:center;width:50%;">9 - 10 Nov (Wed - Thu)</td>
+      <td style="text-align:center;width:50%;">4 & 11 Jan (Wed)</td>
     </tr>
 </table></center>
 

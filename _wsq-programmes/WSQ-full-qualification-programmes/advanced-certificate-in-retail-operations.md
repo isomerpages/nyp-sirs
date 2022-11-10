@@ -1,6 +1,6 @@
 ---
 title: Advanced Certificate in Retail (Operations)
-permalink: /wsq-programmes/wsq-full-qualification-programmes/advanced-certificate-in-retail-operations
+permalink: /wsq-programmes/wsq-full-qualification-programmes/advanced-certificate-in-retail-operations/
 breadcrumb: Advanced Certificate in Retail (Operations)
 third_nav_title: WSQ Full Qualification Programmes
 ---
@@ -14,7 +14,7 @@ third_nav_title: WSQ Full Qualification Programmes
     </tr>
     <tr style="text-align:center;">
       <td style="text-align:center;width:50%;">To be confirmed</td>
-      <td style="text-align:center;width:50%;">September 2022<br>(Every Wed & Thur, Online)</td>
+      <td style="text-align:center;width:50%;">To be confirmed</td>
     </tr>
 </table></center>
 

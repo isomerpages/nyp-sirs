@@ -1,6 +1,6 @@
 ---
 title: Drive Sales Performance on Lazada (Marketing)
-permalink: /digital-programmes/e-commerce-programmes/drive-sales-performance-on-lazada
+permalink: /digital-programmes/e-commerce-programmes/drive-sales-performance-on-lazada/
 breadcrumb: Drive Sales Performance on Lazada (Marketing)
 third_nav_title: E-Commerce Programmes
 ---
@@ -14,7 +14,7 @@ third_nav_title: E-Commerce Programmes
       <th style="text-align:center;width:50%;">Face-to-Face</th>
     </tr>
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">11 Oct (Tue)<br>9 Dec (Fri)</td>
+      <td style="text-align:center;width:50%;">9 Dec (Fri)<br>12 Jan (Thu)</td>
       <td style="text-align:center;width:50%;">To be confirmed</td>
     </tr>
 </table></center>

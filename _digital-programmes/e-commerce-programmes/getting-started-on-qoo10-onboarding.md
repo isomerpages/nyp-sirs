@@ -1,6 +1,6 @@
 ---
 title: Getting Started on Qoo10 (Onboarding)
-permalink: /digital-programmes/e-commerce-programmes/getting-started-on-qoo10
+permalink: /digital-programmes/e-commerce-programmes/getting-started-on-qoo10/
 breadcrumb: Getting Started on Qoo10 (Onboarding)
 third_nav_title: E-Commerce Programmes
 ---
@@ -14,7 +14,7 @@ third_nav_title: E-Commerce Programmes
       <th style="text-align:center;width:50%;">Face-to-Face</th>
     </tr>
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">4 Nov (Fri)</td>
+      <td style="text-align:center;width:50%;">To be confirmed</td>
       <td style="text-align:center;width:50%;">To be confirmed</td>
     </tr>
 </table></center>
