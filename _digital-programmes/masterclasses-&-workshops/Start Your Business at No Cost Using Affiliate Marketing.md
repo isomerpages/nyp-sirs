@@ -20,7 +20,7 @@ third_nav_title: Masterclasses & Workshops
 
 <p>Valued at $12 billion worldwide*, the affiliate marketing industry is growing immensely as more brands and individuals jump on the bandwagon. Globally, over 80% of brands use affiliate programmes* and the number is on the rise as it gains popularity with the introduction of new technologies, platforms, and trends.</p>
 	
-<p>Affiliate marketing is the easiest and quickest way to start selling and earning at zero cost! When done right, an affiliate marketer can build a steady stream of income by promoting affiliates’ products and earning a commission. Strategise and develop efficacious affiliate marketing campaigns to start your own business or as a source of passive income in this two-day workshop. Besides learning winning concepts, frameworks, techniques, and platforms you can leverage for a successful affiliate marketing experience, you will also discover ways to partner with established local companies and implement effective strategies to drive sales and generate income!</p>
+<p>Affiliate marketing is the easiest and quickest way to start selling and earning at zero cost! When done right, an affiliate marketer can build a steady stream of income by promoting affiliates’ products and earning commissions. Strategise and develop efficacious affiliate marketing campaigns to start your own business or as a source of passive income in this two-day workshop. Besides learning winning concepts, frameworks, techniques, and platforms you can leverage for a successful affiliate marketing experience, you will also discover ways to partner with merchants and implement effective strategies to drive sales and generate income!</p>
 
 <small>*Data source:
 <a href="https://www.enterpriseappstoday.com/stats/affiliate-marketing-statistics.html">https://www.enterpriseappstoday.com/stats/affiliate-marketing-statistics.html</a></small>
@@ -31,7 +31,7 @@ third_nav_title: Masterclasses & Workshops
 Affiliate Marketing<br>Classroom & Asynchronous E-Learning - TGS-2022016627</p>
 
 <h4>Outline</h4>
-* Identify different affiliate programmes in Singapore
+* Identify different affiliate opportunities
 * Register with various affiliate marketing platforms
 * Develop affiliate marketing and promotion strategies
 * Construct an affiliate portfolio based on the incentive framework
