@@ -31,7 +31,7 @@ third_nav_title: Masterclasses & Workshops
 Affiliate Marketing<br>Classroom & Asynchronous E-Learning - TGS-2022016627</p>
 
 <h4>Outline</h4>
-* Identify different affiliate opportunities in Singapore
+* Identify different affiliate opportunities
 * Register with various affiliate marketing platforms
 * Develop affiliate marketing and promotion strategies
 * Construct an affiliate portfolio based on the incentive framework
