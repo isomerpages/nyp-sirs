@@ -15,7 +15,7 @@ third_nav_title: SkillsFuture Series
     </tr>
     <tr style="text-align:center;">
       <td style="text-align:center;width:50%;">To be confirmed</td>
-      <td style="text-align:center;width:50%;">13 Dec (Tue)<td>
+      <td style="text-align:center;width:50%;">13 Dec (Tue)</td>
     </tr>
 </table></center>
 
