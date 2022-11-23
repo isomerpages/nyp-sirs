@@ -15,6 +15,15 @@ sections:
       alt: Sell and Earn on TikTok
       image: /images/images-2021/Home-Highlights-TikTok_2.png
   - infopic:
+      title: Start Your Business at Zero Cost Using Affiliate Marketing
+      description: Affiliate marketing is the easiest and quickest way to start
+        selling and earning! If you want a slice of this billion-dollar pie,
+        sign up with us now.
+      button: Button Text
+      url: /digital-programmes/mc-ws/am/
+      image: /images/images-2021/Home-Highlights-WS-AffiliatedMarketing.png
+      alt: Affiliate Marketing
+  - infopic:
       title: Progressive Wage Model (PWM) for the Retail Sector
       description: "Effective 1 September 2022, employers are to meet the PWM wage and
         training requirements for workers in five retail job roles.   "
