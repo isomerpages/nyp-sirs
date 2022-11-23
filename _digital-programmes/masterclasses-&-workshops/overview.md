@@ -12,7 +12,7 @@ third_nav_title: Masterclasses & Workshops
 <p>Learn how to advance your business performance from industry experts with our range of Masterclasses:</p>
 <ul>
   <li><a href="/digital-programmes/masterclasses-and-workshops/3-steps-to-digitise-your-business">3 Steps to Digitise Your Business</a></li>
-  <li><a href="/digital-programmes/masterclasses-and-workshops/amazon-web-services-business-essentials">Amazon Web Services Business Essentials</a></li>
+
   <li><a href="/digital-programmes/masterclasses-and-workshops/category-management">Category Management: The Key to Business Growth</a></li>
   <li><a href="/digital-programmes/masterclasses-and-workshops/digital-commerce-operations">Digital Commerce Operations</a></li>
   <li><a href="/digital-programmes/masterclasses-and-workshops/digital-commerce-visual">Digital Commerce Visual</a></li>
