@@ -2,7 +2,7 @@ collections:
   success-and-articles:
     output: true
     order:
-      - Articles/Progressive Wages for Retail Workers.md
+      - Articles/Progressive Wage Model for the Retail Sector.md
       - Articles/.keep
       - Articles/overview.md
       - Articles/Synagie and SIRS partner to springboard eCommerce opportunities
