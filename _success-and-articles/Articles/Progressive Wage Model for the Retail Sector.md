@@ -14,6 +14,8 @@ Date: 16-09-2022
 
 Eligible retail workers are getting a pay raise with an annual pay increment of 8.4 to 8.5* per cent over the next three years! In support of retail workers in Singapore, the Retail Progressive Wage Model (PWM) has taken effect from September 2022 to ensure that they are equipped with the skills needed for better career progression and take home a higher pay commensurate with their skills and productivity. 
 
+<small>*Source: Retail PWM Infographic, MOM Press Release, 15 Aug 2022*</small>
+
 <h4>For Employers</h4>
 
 Employers in the retail sector will have until next February to meet the Progressive Wage Model (PWM) wage and training requirements for their employees in five retail job roles. As a leader in retail training with more than 16 years of experience, SIRS offers a comprehensive suite of [WSQ training](https://www.sirs.edu.sg/wsq-programmes) to enable you and your staff to meet the PWM training requirement, as well as to increase productivity and improve customer experience. 
@@ -53,7 +55,5 @@ Based on your job roles, SIRS recommends the following industry endorsed courses
 * Productivity Improvement (SF-Supervisor) 
 * Service Leadership (SF-Manager)
 * Sales Target Management (SF-Manager)
-
-*Source: Retail PWM Infographic, MOM Press Release, 15 Aug 2022
 
 You may visit the [MOM website](https://www.mom.gov.sg/employment-practices/progressive-wage-model/retail-sector) for more information on PWM.
