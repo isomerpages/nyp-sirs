@@ -19,7 +19,7 @@ sections:
       description: Affiliate marketing is the easiest and quickest way to start
         selling and earning! If you want a slice of this billion-dollar pie,
         sign up with us now.
-      button: Button Text
+      button: MORE ABOUT THIS WORKSHOP
       url: /digital-programmes/mc-ws/am/
       image: /images/images-2021/Home-Highlights-WS-AffiliatedMarketing.png
       alt: Affiliate Marketing
