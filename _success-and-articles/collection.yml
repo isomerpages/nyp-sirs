@@ -2,6 +2,7 @@ collections:
   success-and-articles:
     output: true
     order:
+      - Articles/Retail Industry Transformation Map.md
       - Articles/Progressive Wage Model for the Retail Sector.md
       - Articles/.keep
       - Articles/overview.md
