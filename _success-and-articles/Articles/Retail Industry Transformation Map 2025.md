@@ -5,7 +5,6 @@ description: Retail Industry Transformation Map 2025
 image: /images/blog/20221123_ITM_MTI.jpg
 third_nav_title: Articles
 ---
-
 Date: 23-09-2022
 
 <h4>Retail Industry Transformation Map (ITM)</h4>
@@ -32,7 +31,7 @@ The new Retail ITM 2025 spells out four key strategies which aims to create a vi
 
 ![SIRS - Retail ITM 2025 - Strategy 1](/images/blog/20221123_ITM_Strategies_1.png)
  
-**Building global Singapore brands and supporting internationalisation **
+**Building global Singapore brands and supporting internationalisation**
 
 * Nurture homegrown brands into globally recognised labels through e-commerce platforms to gain access to new customers and markets in Southeast Asia and beyond. 
 * Promote and showcase promising brands overseas, to strengthen the brand position of Singapore brands locally and internationally.
@@ -97,4 +96,4 @@ In alignment with the Retail ITM 2025, here are some of recommended solutions to
 * [Redeployment CCP](https://www.sirs.edu.sg/digital-programmes/redeployment-job-redesign-reskilling-pcp)
 * [Mentorship Programmes](https://www.sirs.edu.sg/digital-programmes/mentorship-programmes/overview/)
 
-[Get in touch](https://www.sirs.edu.sg/contact-us/) with us to find out more! 
+[Get in touch](https://www.sirs.edu.sg/contact-us/) with us to find out more!
