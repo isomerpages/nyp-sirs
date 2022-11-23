@@ -6,7 +6,7 @@ third_nav_title: Articles
 ---
 <h4>Articles</h4>
 
-* [Retail Industry Transformation Map 2025](/success-and-articles/Articles/itm)
+* [Retail Industry Transformation Map 2025](/success-and-articles/Articles/itm2025)
 * [Progressive Wage Model for the Retail Sector](/success-and-articles/Articles/pwm)
 * [Synagie and SIRS partner to springboard eCommerce opportunities for Europe market](/success-and-articles/Articles/mou-synagie)
 * [Chinese tech companies stake their flags in Southeast Asia battleground](/success-and-articles/Articles/bt-chinesetech)
