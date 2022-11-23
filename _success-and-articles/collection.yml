@@ -2,10 +2,10 @@ collections:
   success-and-articles:
     output: true
     order:
-      - Articles/Retail Industry Transformation Map.md
-      - Articles/Progressive Wage Model for the Retail Sector.md
       - Articles/.keep
       - Articles/overview.md
+      - Articles/Retail Industry Transformation Map.md
+      - Articles/Progressive Wage Model for the Retail Sector.md
       - Articles/Synagie and SIRS partner to springboard eCommerce opportunities
         for Europe market.md
       - Articles/Chinese tech companies stake their flags in Southeast Asia
