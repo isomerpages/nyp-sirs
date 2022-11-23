@@ -14,7 +14,7 @@ Date: 16-09-2022
 
 Eligible retail workers are getting a pay raise with an annual pay increment of 8.4 to 8.5* per cent over the next three years! In support of retail workers in Singapore, the Retail Progressive Wage Model (PWM) has taken effect from September 2022 to ensure that they are equipped with the skills needed for better career progression and take home a higher pay commensurate with their skills and productivity. 
 
-<small>*Source: Retail PWM Infographic, MOM Press Release, 15 Aug 2022*</small>
+<small>**Source: Retail PWM Infographic, MOM Press Release, 15 Aug 2022*</small>
 
 <h4>For Employers</h4>
 
