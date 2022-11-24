@@ -5,8 +5,7 @@ description: Retail Industry Transformation Map 2025
 image: /images/blog/20221123_ITM_Strategies_0.png
 third_nav_title: Articles
 ---
-
-Date: 23-09-2022
+Date: 23-11-2022
 
 <h4>Retail Industry Transformation Map (ITM)</h4>
 
