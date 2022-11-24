@@ -2,14 +2,17 @@
 title: Retail Industry Transformation Map 2025
 permalink: /success-and-articles/Articles/itm2025/
 description: Retail Industry Transformation Map 2025
-image: /images/blog/20221123_ITM_MTI.jpg
+image: /images/blog/20221123_ITM_Strategies_0.png
 third_nav_title: Articles
 ---
+
 Date: 23-09-2022
 
 <h4>Retail Industry Transformation Map (ITM)</h4>
 
 ![Image from MTI on ITM](/images/blog/20221123_ITM_MTI.jpg)
+
+<small>Image source: [https://www.mti.gov.sg/ITMs/Overview](https://www.mti.gov.sg/ITMs/Overview)</small>
 
 The Retail ITM was first launched in 2016, comprising a suite of targeted and industry-focused initiatives to accelerate the pace of transformation in the retail sector, including a focus on innovation and the adoption of new technologies to drive productivity, as well as staying agile and responsive to trends in jobs and skills. Since its launch, the retail sector has made good progress in digitalisation and productivity improvements.
 

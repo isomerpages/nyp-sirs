@@ -6,6 +6,15 @@ sections:
   - hero:
       background: /images/images-2021/Homepage_Banner2.png
   - infopic:
+      title: Retail Industry Transformation Map (ITM) 2025
+      description: In alignment with the refreshed ITM roadmap, check out some of our
+        recommended solutions to help you improve productivity and
+        internationalise.
+      button: MORE ABOUT RETAIL ITM 2025
+      url: /success-and-articles/articles/itm2025/
+      image: /images/images-2021/Home-Highlights-ITM2025.jpg
+      alt: Image alt text
+  - infopic:
       title: Sell and Earn on TikTok
       description: Take advantage of TikTok’s fast-growing audience base to expand
         your marketing channels, foster customer engagement and increase
