@@ -12,7 +12,7 @@ sections:
         internationalise.
       button: MORE ABOUT RETAIL ITM 2025
       url: /success-and-articles/articles/itm2025/
-      image: /images/images-2021/Home-Highlights-ITM2025.png
+      image: /images/images-2021/Home-Highlights-ITM2025.jpg
       alt: Image alt text
   - infopic:
       title: Sell and Earn on TikTok
