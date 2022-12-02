@@ -32,6 +32,7 @@ third_nav_title: Masterclasses & Workshops
 <p>Engage in hands-on activity to hone your skillsets with our range of Workshops:</p>
   <ul>
 	<li><a href="/digital-programmes/mc-ws/pb">Building an Effective Digital Personal Brand</a></li>  
+	<li><a href="/digital-programmes/mc-ws/casetrust">CaseTrust Accreditation Scheme for E-Commerce Business</a></li>  
 	<li><a href="/digital-programmes/masterclasses-and-workshops/demystify-ai">Demystify Emerging Digital Technologies 
 in the New Retail Revolution</a></li>
   <li><a href="/digital-programmes/masterclasses-and-workshops/differentiate-and-drive-growth-with-experience-innovation">Differentiate and Drive Growth with Experience Innovation</a></li>
