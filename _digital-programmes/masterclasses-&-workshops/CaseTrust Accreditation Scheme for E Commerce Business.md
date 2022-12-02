@@ -29,8 +29,7 @@ third_nav_title: Masterclasses & Workshops
 
 <h4>Course Title | Mode of Training | Course Ref</h4>
 
-<p>Start Your Business at No Cost Using 
-Affiliate Marketing<br>Classroom & Asynchronous E-Learning - TGS-To be confirmed</p>
+<p>CaseTrust Accreditation Scheme for E-Commerce Business<br>Classroom & Asynchronous E-Learning - TGS-To be confirmed</p>
 
 <h4>Outline</h4>
 * Assess accreditation readiness of your e-commerce channels
