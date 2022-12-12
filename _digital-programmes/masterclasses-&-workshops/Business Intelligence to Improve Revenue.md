@@ -43,7 +43,7 @@ third_nav_title: Masterclasses & Workshops
 <h4>Requirements</h4>
 <ul>
 <li>Have intermediate knowledge of MS Excel</li>
-<br>*(Laptops will be provided for hands-on practice in class)*</br>
+<br>*(Laptops will be provided for hands-on practice in class)*
 </ul>
 
 <h4>Duration</h4>
