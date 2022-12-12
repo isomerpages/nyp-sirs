@@ -5,46 +5,45 @@ description: SIRS Workshop - Business Intelligence to Improve Business
 image: /images/images-2021/DigitalProgrammes-HImage-Workshop.png
 third_nav_title: Masterclasses & Workshops
 ---
-
 <img src="/images/images-2021/DigitalProgrammes-HImage-Workshop.png" style="width:100%;">
 
 <h4 style="text-align:center;">Next intake:</h4>
 
 <center><table style="width:80%;">
     <tr style="text-align:center;">
-      <th style="text-align:center;width:50%;">Online Training</th>
       <th style="text-align:center;width:50%;">Face-to-Face</th>
     </tr>
     <tr style="text-align:center;">
       <td style="text-align:center;width:50%;">To be confirmed</td>
-      <td style="text-align:center;width:50%;">28-29 Nov (Mon-Tue)<br>16-17 Jan (Mon-Tue)</td>
+<br></td>
     </tr>
 </table></center>
 
-<p>With the digital world at our fingertips, first impressions matter online too. While you are reading this, a potential employer or business partner may be searching up your name on Google or LinkedIn, uncovering information about you and forming an impression of you. Personal branding influences how people perceive you and open up opportunities for your success in the digital era. A compelling personal brand will set you apart from the competition and allows you to build trust as you connect more easily with your customers, colleagues, and peers.</p>
+<p>It is not uncommon for businesses to wrangle various data points in this data-driven era, but have they been effectively processing, analysing, and interpreting the voluminous raw information into usable and actional knowledge to help them achieve business growth?</p>
 
-<p>This workshop is designed to equip you with the knowledge and expertise in creating effective personal branding on social media and Google. Through a series of engaging hands-on activities, you will learn different branding strategies to level up your profile online, including using advanced strategies on LinkedIn. What’s more, you will also learn how to further boost your personal brand on Google with tools such as Google Sites and YouTube. Pave your road to success by building an effective digital personal brand today!</p>
+<p>Business Intelligence (BI) provides a comprehensive view of a business’s current state of operations. Through its range of data analytics and visualisation tools, BI translates data into easy-to-digest insights to enable decision-makers to make strategic and informed judgments, helping businesses operate more efficiently and in turn, increase their revenue.</p>
+
+<p>In this workshop, we will introduce various data collection methods and a data analysis process to drive results for your business. Through a hands-on approach, you will experience using Microsoft Power BI to create a dashboard that puts together important analytics at a glance and acquire the ability to make meaningful interpretations from the results generated.</p>
 
 <h4>Course Title | Mode of Training | Course Ref</h4>
 
-<p>Building an Effective Digital Personal Brand
-<br>Classroom - TGS-2022015217 | Synchronous E-Learning - To be confirmed
+<p>Business Intelligence to Improve Revenue
+<br>Classroom - TGS-2022015199 
 </p>
 
 <h4>Outline</h4>
-* Develop your unique value propostion to attract hirers such as HR personnels, headhunters and potential employers
-* Build an advanced LinkedIn profile that elevates your brand as a professional
-* Create your online portfolio on Google
-* Manage your online presence using various Google tools
-* Start your own YouTube channel and first live video
+* Understand the applications of data and how to derive insights from it
+* Identify various data collection methods 
+* Present different types of data for sales and operations
+* Use Microsoft Power BI as a data visualisation tool to present data in a meaingful way, identify trends, and analyse business performance
 
 <h4>Who Should Attend</h4>
-<p>This workshop is suitable for all working professionals, undergraduates, and individuals who are interested to boost their personal brand online.</p>
+<p>This workshop is suitable for Sales Executives/Managers, Business Owners, Entrepreneurs, and individuals who are interested in compiling and analysing data using Microsoft Power BI.</p>
 	
 <h4>Requirements</h4>
 <ul>
-<li>Have a LinkedIn account</li>
-<li>Bring your own laptop</li>
+<li>Have intermediate knowledge of MS Excel</li>
+<br>*(Laptops will be provided for hands-on practice in class)*</br>
 </ul>
 
 <h4>Duration</h4>
