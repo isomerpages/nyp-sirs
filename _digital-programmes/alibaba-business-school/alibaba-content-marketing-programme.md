@@ -18,7 +18,7 @@ Holistic Hands-on Content Marketing Techniques</center>
 
 <center><table style="width:80%;">
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;"> 16, 17, 18, November 2022 (Conducted in Mandarin)</td>
+      <td style="text-align:center;width:50%;"> 23 & 24, 29 -31 March 2023 (Conducted in English)</td>
     </tr>
 </table></center>
 
@@ -116,10 +116,10 @@ Holistic Hands-on Content Marketing Techniques</center>
   </ul>
   
 <h4>Duration</h4>
-<p>3 days (24 hours)</p>
+<p>5 days (40 hours)</p>
 
 <h4>课程时间</h4>
-<p>3天 (24小时)</p>
+<p>5天 (40小时)</p>
 
 <h4>Fees</h4>
 
@@ -134,22 +134,22 @@ Holistic Hands-on Content Marketing Techniques</center>
 <td>Full fees</td>
 <td>   
 
-$4,119.50</td>
+$6,099</td>
 </tr>
 
 <tr>
 <td>Singapore Citizen/Singapore PR (SPR) (70% funding)</td>
-<td>$1,235.85</td>
+<td>$1,829.70</td>
 </tr>
 
 <tr>
 <td>Singapore Citizen 40 years & above<sup>1</sup> (90% funding)</td>
-<td>$465.85</td>
+<td>$689.70</td>
 </tr>
 
 <tr>
 <td>Singapore Citizen/SPR sponsored by SMEs<sup>2</sup> (90% funding)</td>
-<td>$465.85</td>
+<td>$689.70</td>
 </tr>
 
 </table>
