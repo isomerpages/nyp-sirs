@@ -1,11 +1,11 @@
 ---
 title: Who We Are
-permalink: /about-us
+permalink: /about-us/
 breadcrumb: Who We Are
 ---
 <img src="/images/images-2021/AboutUs_SIRS_OurMission.png" style="width:100%;"> 
-
-<img src="/images/images-2021/AboutUs_SIRS-NYP Combined Logos.png" style="width:70%;">
+<br>
+<img src="/images/SIRS x NYP Logos.png" style="width:50%;">
 
 At Singapore Institute of Retail Studies, our goal is to empower people and organisations to find their greatest, and hidden potential that will enable them to thrive and succeed in today’s world of accelerated and continual change.
 
