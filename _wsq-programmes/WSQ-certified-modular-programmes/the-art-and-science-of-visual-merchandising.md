@@ -1,6 +1,6 @@
 ---
 title: The Art and Science of Visual Merchandising
-permalink: /wsq-programmes/wsq-modular-programmes/the-art-and-science-of-visual-merchandising
+permalink: /wsq-programmes/wsq-modular-programmes/the-art-and-science-of-visual-merchandising/
 breadcrumb: The Art and Science of Visual Merchandising
 third_nav_title: WSQ Certified Modular Programmes
 ---
@@ -12,7 +12,7 @@ third_nav_title: WSQ Certified Modular Programmes
       <th style="text-align:center;width:50%;">Face-to-Face</th>
     </tr>
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">22 & 24 Nov (Tue & Thu)</td>
+      <td style="text-align:center;width:50%;">21 & 28 Feb (Tue)</td>
     </tr>
 </table></center>
 

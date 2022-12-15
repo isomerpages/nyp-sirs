@@ -14,7 +14,7 @@ third_nav_title: Masterclasses & Workshops
       <th style="text-align:center;width:50%;">Face-to-Face</th>
     </tr>
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">15 Nov (Tue)<br>16 Dec (Fri)<br>27 Jan (Fri)</td>
+      <td style="text-align:center;width:50%;">16 Dec (Fri)<br>27 Jan (Fri)<br>21 Feb (Tue)</td>
     </tr>
 </table></center>
 

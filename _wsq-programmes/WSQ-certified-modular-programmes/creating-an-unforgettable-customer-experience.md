@@ -16,7 +16,7 @@ third_nav_title: WSQ Certified Modular Programmes
     </tr>
     <tr style="text-align:center;">
       <td style="text-align:center;width:50%;">To be confirmed</td>
-      <td style="text-align:center;width:50%;">6-7 Dec (Tue-Wed)<br>17-18 Jan (Tue-Wed)</td>
+      <td style="text-align:center;width:50%;">17-18 Jan (Tue-Wed)</td>
     </tr>
 </table></center>
 
