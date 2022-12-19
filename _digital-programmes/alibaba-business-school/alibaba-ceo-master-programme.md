@@ -246,6 +246,14 @@ CEO Master Programme<br>
 <br><sup>2</sup>Fee is under the <a href="/services/consultancy/etss">Enhanced Training Support for SMEs (ETSS)</a><br>
 </i></small>
 
+<center>
+  <b>All fees include :</b><br>
+Accommodation, meals & local transfers (6D5N)<br>
+  <b>All fees exclude :</b> <br>
+Airfare<br>
+Visa for travel to China<br>
+Travel insurance
+  </center>
 
 <h4>Additional Support</h4>
 
@@ -267,14 +275,6 @@ CEO Master Programme<br>
 
 <p>For more information about funding and support, click <a href="/services/funding-and-advisory">here.</a></p>
 
-<center>
-  <b>All fees include :</b><br>
-Accommodation, meals & local transfers (6D5N)<br>
-  <b>All fees exclude :</b> <br>
-Airfare<br>
-Visa for travel to China<br>
-Travel insurance
-  </center>
  
  <div style="width:50%;float:left;"><center><a href="https://docs.google.com/forms/d/e/1FAIpQLSekX2s9T95dYWncNmU85qHSN4wFQVXmhfKjjLEAhY3waWS3xw/viewform" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Register Now</a></center></div>
  <div style="width:50%;float:left;"><center><a href="https://form.gov.sg/602f2e2609513500125322dd" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center></div>
