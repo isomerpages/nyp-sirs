@@ -52,7 +52,7 @@ third_nav_title: WSQ Full Qualification Programmes
 <li>With at least 2 years supervisory working experience in retail or 3 years supervisory/managerial working experience in non-retail sector</li>
  </ul>
 
-<h4>Fees</h4>
+<h4>Fees (GST 7% - For payment made before 1 Jan 2023)</h4>
 
 <center>
 <table style="width:100%;">
@@ -68,7 +68,7 @@ third_nav_title: WSQ Full Qualification Programmes
 
 <tr>
 <td>Singapore Citizen/Singapore PR (SPR) (70% funding)</td>
-<td>$1415.61</td>
+<td>$1,415.61</td>
 </tr>
 
 <tr>
@@ -79,6 +79,48 @@ third_nav_title: WSQ Full Qualification Programmes
 <tr>
 <td>Singapore Citizen/SPR sponsored by SMEs<sup>2</sup> (90% funding)</td>
 <td>$533.61</td>
+</tr>
+
+</table>
+</center>
+
+<h4>Fees (GST 8% - For payment made on/after 1 Jan 2023)</h4>
+
+<center>
+<table style="width:100%;">
+<tr>
+<th style="width:70%;">Category</th>
+<th style="width:30%:">Price</th>
+</tr>
+
+<tr>
+<td>Full Qualification (7 modules) Full Course Fee</td>
+<td>$4,762.80</td>
+</tr>
+
+<tr>
+  <td>Singapore Citizen<sup>0</sup> (70% funding)</td>
+<td>$1,415.61</td>
+</tr>
+	
+<tr>
+  <td>Singapore Citizen 40 years and above<sup>0,1</sup> (90% funding)</td>
+<td>$533.61</td>
+</tr>
+
+<tr>
+  <td>Singapore Citizen sponsored by SMEs<sup>0,2</sup> (90% funding)</td>
+<td>$533.61</td>
+</tr>
+
+<tr>
+  <td>Singapore PR (70% funding)</td>
+<td>$1,428.84</td>
+</tr>
+
+<tr>
+<td>Singapore PR sponsored by SMEs<sup>2</sup> (90% funding)</td>
+<td>$546.84</td>
 </tr>
 
 </table>
