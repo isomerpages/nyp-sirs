@@ -174,7 +174,7 @@ CEO Master Programme<br>
 </tr>
   
 <tr>
-<td>Full Course Fee</td>
+<td>Full Fee</td>
 <td>$7,200</td>
 </tr>
 
@@ -206,7 +206,7 @@ CEO Master Programme<br>
 </tr>
 
 <tr>
-<td>Full Course Fee</td>
+<td>Full Fee</td>
 <td>$7,200</td>
 </tr>
 
