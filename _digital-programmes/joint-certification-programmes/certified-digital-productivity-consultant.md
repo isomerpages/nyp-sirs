@@ -1,6 +1,6 @@
 ---
 title: Certified Digital & Productivity Consultant
-permalink: /digital-programmes/certified-digital-productivity-consultant
+permalink: /digital-programmes/certified-digital-productivity-consultant/
 breadcrumb: Certified Digital & Productivity Consultant
 third_nav_title: Joint Certification Programmes
 ---
@@ -36,7 +36,7 @@ The CDPC programme will equip the consultant with literacy and skills in:
 <h4>Who Should Attend</h4>
 <p>This programme is suitable for industry practitioners who wish to upskill their capability for career growth, or who aspire to be retail industry consultants.</p>
 
-<h4>Fees</h4>
+<h4>Fees (GST 7% - For payment made before 1 Jan 2023)</h4>
 
 <center>
 <table style="width:100%;">
@@ -46,7 +46,7 @@ The CDPC programme will equip the consultant with literacy and skills in:
 </tr>
 
 <tr>
-<td>Full fees</td>
+<td>Full Fee</td>
 	<td>$11,021.00</td>
 </tr>
 
@@ -68,8 +68,55 @@ The CDPC programme will equip the consultant with literacy and skills in:
 </table>
 </center>
 
-<small><i><sup>1</sup>Fee is under the <a href="/services/consultancy/etss">Enhanced Training Support for SMEs (ETSS)</a><br>
-    Fees include prevailing GST</i></small>
+<h4>Fees (GST 8% - For payment made on/after 1 Jan 2023)</h4>
+
+<center>
+<table style="width:100%;">
+<tr>
+<th style="width:70%;">Category</th>
+<th style="width:30%:">Price</th>
+</tr>
+
+<tr>
+<td>Full Fee</td>
+<td>$8,100</td>
+</tr>
+
+<tr>
+  <td>Singapore Citizen<sup>0</sup> (70% funding)</td>
+<td>$2,407.50</td>
+</tr>
+	
+<tr>
+  <td>Singapore Citizen 40 years and above<sup>0,1</sup> (90% funding)</td>
+<td>$907.50</td>
+</tr>
+
+<tr>
+  <td>Singapore Citizen sponsored by SMEs<sup>0,2</sup> (90% funding)</td>
+<td>$907.50</td>
+</tr>
+
+<tr>
+  <td>Singapore PR (70% funding)</td>
+<td>$2,430</td>
+</tr>
+
+<tr>
+<td>Singapore PR sponsored by SMEs<sup>2</sup> (90% funding)</td>
+<td>$930</td>
+</tr>
+
+</table>
+</center>
+
+
+<small><i>Fees include prevailing GST
+<br>Funding Eligibility Period: 1 Oct 2021 to 30 Sep 2024
+<br><small><i><sup>0</sup>The increase of 1% GST on fees will be absorbed for Singapore Citizens in 2023
+<br><small><i><sup>1</sup>Fee is under the <a href="/services/consultancy/skillsfuture-midcareer-enhanced-subsidy">Mid-career Enhanced Subsidy(MCES)</a>
+<br><sup>2</sup>Fee is under the <a href="/services/consultancy/etss">Enhanced Training Support for SMEs (ETSS)</a><br>
+</i></small>
 
 <p>For SkillsFuture course reference, please click <a href="/files/documents-2021/SIRS-SkillsFuture-CourseRefNumber.pdf">here.</a></p>
 
