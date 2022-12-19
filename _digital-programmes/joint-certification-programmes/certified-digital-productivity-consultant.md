@@ -117,6 +117,22 @@ The CDPC programme will equip the consultant with literacy and skills in:
 <br><small><i><sup>1</sup>Fee is under the <a href="/services/consultancy/skillsfuture-midcareer-enhanced-subsidy">Mid-career Enhanced Subsidy(MCES)</a>
 <br><sup>2</sup>Fee is under the <a href="/services/consultancy/etss">Enhanced Training Support for SMEs (ETSS)</a><br>
 </i></small>
+	
+<h4>Additional Support</h4>
+
+<p>This course is also eligible for the following:</p>
+
+<b>For self-sponsored participants:</b>
+<ul>
+  <li><a href="/services/consultancy/skillsfuture-credit">SkillsFuture Credit</a></li>
+<li><a href="/services/consultancy/wss-individuals">Workfare Skills Support (WSS) Scheme (For Individuals)</a></li>
+  </ul>
+  
+<b>For company-sponsored participants:</b>
+<ul>
+  <li><a href="/services/consultancy/absentee-payroll-ap">Absentee Payroll</a></li>
+	<li><a href="/services/consultancy/wss-companies">Workfare Skills Support (WSS) Scheme (For Companies)</a></li>
+  </ul>
 
 <p>For SkillsFuture course reference, please click <a href="/files/documents-2021/SIRS-SkillsFuture-CourseRefNumber.pdf">here.</a></p>
 
