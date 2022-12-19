@@ -138,7 +138,6 @@ third_nav_title: WSQ Certified Modular Programmes
 </i></small>
 
 
-
 <h4>Additional Support</h4>
 <p>This course is also eligible for the following:</p>
 
