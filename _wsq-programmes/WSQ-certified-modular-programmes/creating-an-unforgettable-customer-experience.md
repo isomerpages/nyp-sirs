@@ -106,7 +106,7 @@ third_nav_title: WSQ Certified Modular Programmes
 
 <tr>
 <td>Full Course Fee</td>
-<td>$475.2</td>
+<td>$475.20</td>
 </tr>
 
 <tr>
