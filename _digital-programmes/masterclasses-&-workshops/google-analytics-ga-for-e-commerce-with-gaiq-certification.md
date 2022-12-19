@@ -1,6 +1,6 @@
 ---
 title: Google Analytics (GA) for E-Commerce with GAIQ Certification
-permalink: /digital-programmes/masterclasses-and-workshops/google-analytics-for-e-commerce
+permalink: /digital-programmes/masterclasses-and-workshops/google-analytics-for-e-commerce/
 breadcrumb: Google Analytics (GA) for E-Commerce with GAIQ Certification
 third_nav_title: Masterclasses & Workshops
 ---
@@ -46,7 +46,7 @@ third_nav_title: Masterclasses & Workshops
 <p><b>Ivan Wong</b><br>
 Ivan has over 20 years of experience in Business Consulting, Training, Search Engine Marketing, Conversion Optimisation and Digital Analytics from both client side and within the agency environment. Well-versed in both the technical and business aspects of digital marketing, he is one of the few Google-appointed regional trainers who trains the official Google AdWords, Analytics, and Mobile Advertising courses. In addition, he is a sought-after trainer, providing training and consultancy for leading marketing agencies including Google Mobile Labs, IE Singapore, The Knowledge Engineers, General Assembly, Econsultancy and ClickAcademy Asia. He was formerly the SEO/Analytics Director with GroupM Asia-Pacific. Prior to that, he was the Director of eCommerce at Far East Hospitality, Singapore’s largest operator of hotels and serviced residences. He has also held management positions at DGM Asia, Hewlett-Packard Asia, and Magnus Management Consultants.</p>
 
-<h4>Fees</h4>
+<h4>Fees (GST 7% - For payment made before 1 Jan 2023)</h4>
 
 <center>
 <table style="width:100%;">
@@ -56,7 +56,7 @@ Ivan has over 20 years of experience in Business Consulting, Training, Search En
 </tr>
   
 <tr>
-<td>Full fees</td>
+<td>Full Fee</td>
 <td>$1,284.00</td>
 </tr>
 
@@ -78,9 +78,53 @@ Ivan has over 20 years of experience in Business Consulting, Training, Search En
 </table>
 </center>
 
-<small><i> Fees include prevailing GST
-<br> Funding Eligiblity Period: 1 Oct 2021 to 30 Sep 2024<br>
-<small><i><sup>1</sup>Fee is under the <a href="/services/consultancy/skillsfuture-midcareer-enhanced-subsidy">Mid-career Enhanced Subsidy</a>
+<h4>Fees (GST 8% - For payment made on/after 1 Jan 2023)</h4>
+
+<center>
+<table style="width:100%;">
+<tr>
+<th style="width:70%;">Category</th>
+<th style="width:30%:">Price</th>
+</tr>
+
+<tr>
+<td>Full Fee</td>
+<td>$1,296</td>
+</tr>
+
+<tr>
+  <td>Singapore Citizen<sup>0</sup> (70% funding)</td>
+<td>$385.20</td>
+</tr>
+	
+<tr>
+  <td>Singapore Citizen 40 years and above<sup>0,1</sup> (90% funding)</td>
+<td>$145.20</td>
+</tr>
+
+<tr>
+  <td>Singapore Citizen sponsored by SMEs<sup>0,2</sup> (90% funding)</td>
+<td>$145.20</td>
+</tr>
+
+<tr>
+  <td>Singapore PR (70% funding)</td>
+<td>$388.80</td>
+</tr>
+
+<tr>
+<td>Singapore PR sponsored by SMEs<sup>2</sup> (90% funding)</td>
+<td>$148.80</td>
+</tr>
+
+</table>
+</center>
+
+
+<small><i>Fees include prevailing GST
+<br>Funding Eligibility Period: 1 Oct 2021 to 30 Sep 2024
+<br><small><i><sup>0</sup>The increase of 1% GST on fees will be absorbed for Singapore Citizens in 2023
+<br><small><i><sup>1</sup>Fee is under the <a href="/services/consultancy/skillsfuture-midcareer-enhanced-subsidy">Mid-career Enhanced Subsidy(MCES)</a>
 <br><sup>2</sup>Fee is under the <a href="/services/consultancy/etss">Enhanced Training Support for SMEs (ETSS)</a><br>
 </i></small>
 
