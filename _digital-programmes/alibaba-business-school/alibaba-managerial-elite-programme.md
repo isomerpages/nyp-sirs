@@ -168,7 +168,7 @@ third_nav_title: Alibaba Business School
 </tr>
   
 <tr>
-<td>Full Course Fee</td>
+<td>Full Fee</td>
 <td>$6,099</td>
 </tr>
 
@@ -200,7 +200,7 @@ third_nav_title: Alibaba Business School
 </tr>
 
 <tr>
-<td>Full Course Fee</td>
+<td>Full Fee</td>
 <td>$6,156</td>
 </tr>
 
