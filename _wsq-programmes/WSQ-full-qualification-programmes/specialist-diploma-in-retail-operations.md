@@ -60,7 +60,7 @@ third_nav_title: WSQ Full Qualification Programmes
 </tr>
 
 <tr>
-<td>Full Qualification (6 modules) Full Course Fee (before GST)</td>
+<td>Full Qualification (6 modules) Full Fee (before GST)</td>
 <td>$10,020</td>
 </tr>
 
@@ -92,7 +92,7 @@ third_nav_title: WSQ Full Qualification Programmes
 </tr>
 
 <tr>
-<td>Full Qualification (6 modules) Full Course Fee</td>
+<td>Full Qualification (6 modules) Full Fee</td>
 <td>$10,821.60</td>
 </tr>
 
