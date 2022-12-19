@@ -5,9 +5,6 @@ description: Visual Merchandising Mentorship Programme
 image: /images/images-2021/DigitalProgrammes-VMMP-Overview.png
 third_nav_title: Mentorship Programmes
 ---
-
-
-
 <img src="/images/images-2021/DigitalProgrammes-VMMP-Overview.png" style="width:100%;">
 
 <p>First impressions matter in both personal and business aspects and have a profound effect on human behaviours. A well-defined strategy in your store design and layout is crucial in helping you to create a strong and positive first impression. When customers walk past rows of retail stores, an attractive storefront will entice them to visit the store. What they see next as they enter the store is vital in encouraging their interests and buying decisions. Visual merchandising is a critical element of retail marketing. When done correctly, it increases brand awareness, improves customer engagement across platforms, influences buyer decisions and, as a result, boosts ROI and gives customers a reason to patronise again.</p>
@@ -34,7 +31,7 @@ third_nav_title: Mentorship Programmes
 <p>SME Business Owners, Entrepreneurs, Visual Merchandising Professionals</p>
 
 
-<h4>Fees</h4>
+<h4>Fees (GST 7% - For payment made before 1 Jan 2023)</h4>
 
 <center>
 <table style="width:100%;">
@@ -44,7 +41,7 @@ third_nav_title: Mentorship Programmes
 </tr>
 
 <tr>
-<td>Full fees</td>
+<td>Full Fee</td>
 <td>$2,850.00</td>
 </tr>
 
