@@ -167,6 +167,7 @@ third_nav_title: E-Commerce Programmes
 
 <b>For company-sponsored participants:</b>
 <ul>
+	<li><a href="/services/consultancy/absentee-payroll-ap">Absentee Payroll</a></li>
   <li><a href="/services/consultancy/wss-companies">Workfare Skills Support (WSS) Scheme (For Companies)</a></li>
   </ul>
   
