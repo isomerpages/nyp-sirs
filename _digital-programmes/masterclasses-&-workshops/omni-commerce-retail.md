@@ -61,7 +61,7 @@ Delivery, Technologists, and Innovation Managers.</p>
 
 <tr>
 <td>Full Fee</td>
-<td>$1712.00</td>
+<td>$1,712.00</td>
 </tr>
 
 <tr>
