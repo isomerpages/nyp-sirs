@@ -88,7 +88,7 @@ Outside of work, Jien finds beauty in the less quantifiable worlds of yoga and a
 </tr>
 
 <tr>
-<td>Full fees</td>
+<td>Full Fee</td>
 <td>$3,049.50</td>
 </tr>
 
