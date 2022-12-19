@@ -102,7 +102,7 @@ third_nav_title: SkillsFuture Series
 
 <tr>
 <td>Singapore PR sponsored by SMEs<sup>2</sup> (90% funding)</td>
-<td>$32.24</td>
+<td>$26.04</td>
 </tr>
 
 </table>
