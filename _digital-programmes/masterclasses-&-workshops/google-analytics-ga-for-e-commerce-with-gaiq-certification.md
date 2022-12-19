@@ -57,7 +57,7 @@ Ivan has over 20 years of experience in Business Consulting, Training, Search En
   
 <tr>
 <td>Full Fee</td>
-<td>$1,284.00</td>
+<td>$1,284</td>
 </tr>
 
 <tr>
