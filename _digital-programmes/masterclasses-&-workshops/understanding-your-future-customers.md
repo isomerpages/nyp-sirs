@@ -146,7 +146,7 @@ Outside of work, Jien finds beauty in the less quantifiable worlds of yoga and a
 
 <tr>
 <td>Singapore PR sponsored by SMEs<sup>2</sup> (90% funding)</td>
-<td>$923.40</td>
+<td>$353.40</td>
 </tr>
 
 </table>
