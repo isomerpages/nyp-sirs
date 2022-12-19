@@ -69,7 +69,7 @@ With emerging technologies and evolving consumer behaviour, the ability to lead 
 </tr>
 
 <tr>
-<td>Full Qualification (8 modules) Full Course Fee (before GST)</td>
+<td>Full Qualification (8 modules) Full Fee (before GST)</td>
 <td>$7,550</td>
 </tr>
 
@@ -101,7 +101,7 @@ With emerging technologies and evolving consumer behaviour, the ability to lead 
 </tr>
 
 <tr>
-<td>Full Qualification (8 modules) Full Course Fee</td>
+<td>Full Qualification (8 modules) Full Fee</td>
 <td>$8,154</td>
 </tr>
 
