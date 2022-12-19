@@ -240,6 +240,15 @@ third_nav_title: Alibaba Business School
 <br><small><i><sup>1</sup>Fee is under the <a href="/services/consultancy/skillsfuture-midcareer-enhanced-subsidy">Mid-career Enhanced Subsidy(MCES)</a>
 <br><sup>2</sup>Fee is under the <a href="/services/consultancy/etss">Enhanced Training Support for SMEs (ETSS)</a><br>
 </i></small>
+	
+<center>
+  <b>All fees include :</b><br>
+Accommodation, meals & local transfers (6D5N)<br>
+  <b>All fees exclude :</b> <br>
+Airfare<br>
+Visa for travel to China<br>
+Travel insurance
+  </center>
 
 
 <h4>Additional Support</h4>
@@ -262,14 +271,6 @@ third_nav_title: Alibaba Business School
 
 <p>For more information about funding and support, click <a href="/services/consultancy">here.</a></p>
 
-<center>
-  <b>All fees include :</b><br>
-Accommodation, meals & local transfers (6D5N)<br>
-  <b>All fees exclude :</b> <br>
-Airfare<br>
-Visa for travel to China<br>
-Travel insurance
-  </center>
 
 <div style="width:50%;float:left;"><center><a href="https://form.gov.sg/#!/5cec9ce35d6edc00173c0f94" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Register Now</a></center></div>
 
