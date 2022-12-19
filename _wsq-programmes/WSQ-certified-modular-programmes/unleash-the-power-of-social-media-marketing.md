@@ -13,7 +13,7 @@ third_nav_title: WSQ Certified Modular Programmes
 			<th style="text-align:center;width:50%;">Face-to-Face</th>
     </tr>
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">5, 6, 7, 8, 12, 13, 14 & 15 Dec<br>(Night Class)</td>
+      <td style="text-align:center;width:50%;">To be confirmed</td>
 			 <td style="text-align:center;width:50%;">22, 23, 24 & 27 Feb<br>(Day Class)</td>
     </tr>
 </table></center>
