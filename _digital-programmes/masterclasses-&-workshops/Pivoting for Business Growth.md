@@ -60,7 +60,7 @@ third_nav_title: Masterclasses & Workshops
 
 <tr>
 <td>Full Fee</td>
-<td>$3,850.00</td>
+<td>$3,850</td>
 </tr>
 
 <tr>
