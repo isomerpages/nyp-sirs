@@ -42,7 +42,7 @@ third_nav_title: Mentorship Programmes
 
 <tr>
 <td>Full Fee</td>
-<td>$2,850.00</td>
+<td>$2,850</td>
 </tr>
 
 <tr>
