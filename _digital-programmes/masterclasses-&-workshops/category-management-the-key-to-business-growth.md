@@ -83,7 +83,7 @@ Brand Managers, Trade Marketing Managers, Key Account Managers, and Sales Manage
 
 <tr>
 <td>Full Fee</td>
-<td>$1284.00</td>
+<td>$1,284.00</td>
 </tr>
 
 <tr>
