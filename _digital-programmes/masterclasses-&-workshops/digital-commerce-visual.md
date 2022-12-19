@@ -91,7 +91,7 @@ third_nav_title: Masterclasses & Workshops
 
 <tr>
   <td>Singapore Citizen<sup>0</sup> (70% funding)</td>
-<td>$385.2</td>
+<td>$385.20</td>
 </tr>
 	
 <tr>
