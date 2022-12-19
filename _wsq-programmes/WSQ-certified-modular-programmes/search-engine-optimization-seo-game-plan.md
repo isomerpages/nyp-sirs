@@ -68,7 +68,7 @@ Synchronous E-learning - TGS-2020513487</p>
 </tr>
 
 <tr>
-<td>Full Fees (before GST)</td>
+<td>Full Fee (before GST)</td>
 <td>$840.00</td>
 </tr>
 
@@ -100,7 +100,7 @@ Synchronous E-learning - TGS-2020513487</p>
 </tr>
 
 <tr>
-<td>Full Course Fee</td>
+<td>Full Fee</td>
 <td>$907.20</td>
 </tr>
 
