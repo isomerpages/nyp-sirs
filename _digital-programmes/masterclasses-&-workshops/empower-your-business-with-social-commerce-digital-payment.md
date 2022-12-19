@@ -161,7 +161,6 @@ code to improve customer payment experience.</p>
 <br><sup>2</sup>Fee is under the <a href="/services/consultancy/etss">Enhanced Training Support for SMEs (ETSS)</a><br>
 </i></small>
 
-
 <h4>Additional Support</h4>
 
 <p>This course is also eligible for the following:</p>
@@ -169,6 +168,7 @@ code to improve customer payment experience.</p>
 <b>For self-sponsored participants:</b>
 <ul>
   <li><a href="/services/consultancy/skillsfuture-credit">SkillsFuture Credit</a></li>
+ 
   <li><a href="/services/consultancy/wss-individuals">Workfare Skills Support (WSS) Scheme (For Individuals)</a></li>
 </ul>
 
