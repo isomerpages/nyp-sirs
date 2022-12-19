@@ -49,7 +49,7 @@ image: /images/DigitalProgrammes-CCMP-Overview.png
 
 <tr>
 <td>Singapore Citizen/Singapore PR (SPR) (70% funding)</td>
-<td>$1,650</td>
+<td>$1,605</td>
 </tr>
 
 <tr>
@@ -76,32 +76,32 @@ image: /images/DigitalProgrammes-CCMP-Overview.png
 
 <tr>
 <td>Full Fee</td>
-<td>$10,800</td>
+<td>$5,400</td>
 </tr>
 
 <tr>
   <td>Singapore Citizen<sup>0</sup> (70% funding)</td>
-<td>$3,210</td>
+<td>$1,605</td>
 </tr>
 	
 <tr>
   <td>Singapore Citizen 40 years and above<sup>0,1</sup> (90% funding)</td>
-<td>$1,210</td>
+<td>$605</td>
 </tr>
 
 <tr>
   <td>Singapore Citizen sponsored by SMEs<sup>0,2</sup> (90% funding)</td>
-<td>$1,210</td>
+<td>$605</td>
 </tr>
 
 <tr>
   <td>Singapore PR (70% funding)</td>
-<td>$3,240</td>
+<td>$1,620</td>
 </tr>
 
 <tr>
 <td>Singapore PR sponsored by SMEs<sup>2</sup> (90% funding)</td>
-<td>$1,240</td>
+<td>$620</td>
 </tr>
 
 </table>
