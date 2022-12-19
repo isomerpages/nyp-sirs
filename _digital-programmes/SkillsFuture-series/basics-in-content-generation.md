@@ -37,7 +37,7 @@ third_nav_title: SkillsFuture Series
 <h4>Duration</h4>
 <p>9am -12pm, 2-6pm (1 day)</p>
 
-<h4>Fees</h4>
+<h4>Fees (GST 7% - For payment made before 1 Jan 2023)</h4>
 
 <center>
 <table style="width:100%;">
@@ -47,7 +47,7 @@ third_nav_title: SkillsFuture Series
 </tr>
 
 <tr>
-<td>Full Fees</td>
+<td>Full Fee</td>
 <td>$278.20</td>
 </tr>
 
@@ -63,9 +63,55 @@ third_nav_title: SkillsFuture Series
 </table>
 </center>
 
-<small><i> Fees include prevailing GST
-<br> Funding Eligiblity Period: 1 Oct 2021 to 30 Sep 2024<br>
-<small><i><sup>1</sup>Fee is under the <a href="/services/consultancy/skillsfuture-midcareer-enhanced-subsidy">Mid-career Enhanced Subsidy</a></i></small>
+<h4>Fees (GST 8% - For payment made on/after 1 Jan 2023)</h4>
+
+<center>
+<table style="width:100%;">
+<tr>
+<th style="width:70%;">Category</th>
+<th style="width:30%:">Price</th>
+</tr>
+
+<tr>
+<td>Full Fee</td>
+<td>$280.80</td>
+</tr>
+
+<tr>
+  <td>Singapore Citizen<sup>0</sup> (70% funding)</td>
+<td>$83.46</td>
+</tr>
+	
+<tr>
+  <td>Singapore Citizen 40 years and above<sup>0,1</sup> (90% funding)</td>
+<td>$31.46</td>
+</tr>
+
+<tr>
+  <td>Singapore Citizen sponsored by SMEs<sup>0,2</sup> (90% funding)</td>
+<td>$31.46</td>
+</tr>
+
+<tr>
+  <td>Singapore PR (70% funding)</td>
+<td>$84.24</td>
+</tr>
+
+<tr>
+<td>Singapore PR sponsored by SMEs<sup>2</sup> (90% funding)</td>
+<td>$26.04</td>
+</tr>
+
+</table>
+</center>
+
+
+<small><i>Fees include prevailing GST
+<br>Funding Eligibility Period: 1 Oct 2021 to 30 Sep 2024
+<br><small><i><sup>0</sup>The increase of 1% GST on fees will be absorbed for Singapore Citizens in 2023
+<br><small><i><sup>1</sup>Fee is under the <a href="/services/consultancy/skillsfuture-midcareer-enhanced-subsidy">Mid-career Enhanced Subsidy(MCES)</a>
+<br><sup>2</sup>Fee is under the <a href="/services/consultancy/etss">Enhanced Training Support for SMEs (ETSS)</a><br>
+</i></small>
     
 <h4>Additional Support</h4>
 
