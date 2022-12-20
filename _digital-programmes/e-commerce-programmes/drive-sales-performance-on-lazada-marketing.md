@@ -21,7 +21,7 @@ third_nav_title: E-Commerce Programmes
 
 <p>Amplify traffic in Lazada and boost your sales by learning the marketing strategies you can deploy with Lazada's Marketing tools!</p>
 
-<i>Not onboard with Lazada yet? Our 1-day workshop in <a href="/digital-programmes/e-commerce-programmes/getting-started-on-lazada">Getting Started on Lazada (Onboarding)</a> can help you to do that to acquire more customers.</i>
+*Not onboard with Lazada yet? Our 1-day workshop in <a href="/digital-programmes/e-commerce-programmes/getting-started-on-lazada">Getting Started on Lazada (Onboarding)</a> can help you to do that to acquire more customers.*
 
 <h4>Course Title | Mode of Training | Course Ref</h4>
 
