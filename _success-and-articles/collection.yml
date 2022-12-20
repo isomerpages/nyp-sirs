@@ -2,6 +2,7 @@ collections:
   success-and-articles:
     output: true
     order:
+      - Articles/GST Rate Change 2023.md
       - Articles/.keep
       - Articles/overview.md
       - Articles/Retail Industry Transformation Map 2025.md
