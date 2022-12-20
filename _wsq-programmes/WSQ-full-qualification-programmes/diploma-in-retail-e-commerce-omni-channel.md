@@ -127,7 +127,7 @@ With emerging technologies and evolving consumer behaviour, the ability to lead 
 
 <tr>
 <td>Singapore PR sponsored by SMEs<sup>2</sup> (90% funding)</td>
-<td>$936.2</td>
+<td>$936.20</td>
 </tr>
 
 </table>
