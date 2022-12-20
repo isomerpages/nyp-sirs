@@ -18,4 +18,4 @@ The Singapore Government has announced that the goods and services tax (GST) rat
 
 With effect from 1 January 2023, all registrations and payments made will subject to the prevailing GST of 8%. 
 
-**The increase of 1% GST on fees will be absorbed for Singapore Citizens in 2023. **
+<b>The increase of 1% GST on fees will be absorbed for Singapore Citizens in 2023.</b>
