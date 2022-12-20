@@ -144,7 +144,6 @@ third_nav_title: E-Commerce Programmes
 </table>
 </center>
 
-
 <small><i>Fees include prevailing GST
 <br>Funding Eligibility Period: 1 Oct 2021 to 30 Sep 2024
 <br><small><i><sup>0</sup>The increase of 1% GST on fees will be absorbed for Singapore Citizens in 2023
