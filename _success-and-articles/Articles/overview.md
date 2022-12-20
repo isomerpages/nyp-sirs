@@ -6,6 +6,7 @@ third_nav_title: Articles
 ---
 <h4>Articles</h4>
 
+* [GST Rate Change](/success-and-articles/Articles/gstrate)
 * [Retail Industry Transformation Map 2025](/success-and-articles/Articles/itm2025)
 * [Progressive Wage Model for the Retail Sector](/success-and-articles/Articles/pwm)
 * [Synagie and SIRS partner to springboard eCommerce opportunities for Europe market](/success-and-articles/Articles/mou-synagie)
