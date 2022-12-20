@@ -41,14 +41,13 @@ sections:
       image: /images/images-2021/Home-Highlights-PWM.png
       alt: PWM for the Retail Sector
   - infopic:
-      title: Kickstart Conversational Commerce through WhatsApp
-      description: "Jumpstart your marketing campaigns by tapping on the most popular
-        global messaging app to help you reach out to billions of active users.
-        "
-      button: more about this programme
-      url: /digital-programmes/mentorship-programmes/ccmp/
-      image: /images/images-2021/Home-Highlights-CCMP.png
-      alt: WhatsApp Mentorship Programme
+      title: GST Rate Change 2023
+      description: The Singapore Government has announced that goods and services tax
+        (GST) rate increase will be staggered over two years.
+      button: "MORE ABOUT GST RATE CHANGE "
+      url: /success-and-articles/articles/gst2023/
+      image: /images/images-2021/Home-Highlights-GST8.png
+      alt: GST Rate 8% from 1 Jan 2023
   - infopic:
       title: Be the First to Know
       description: Join the SIRS mailing list and receive first-hand news and updates
