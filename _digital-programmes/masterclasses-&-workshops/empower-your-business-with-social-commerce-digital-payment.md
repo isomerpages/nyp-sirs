@@ -1,6 +1,6 @@
 ---
 title: Empower Your Business with Social Commerce & Digital Payment
-permalink: /digital-programmes/masterclasses-and-workshops/empower-your-business-with-social-commerce-and-digital-payment
+permalink: /digital-programmes/masterclasses-and-workshops/empower-your-business-with-social-commerce-and-digital-payment/
 breadcrumb: Empower Your Business with Social Commerce & Digital Payment
 third_nav_title: Masterclasses & Workshops
 ---
@@ -79,7 +79,7 @@ SMEs, to help them with their business success. He has also led the digital tran
 payment journey, where he assisted more than 10,000 companies in Singapore to implement the SGQR
 code to improve customer payment experience.</p>
 
-<h4>Fees</h4>
+<h4>Fees (GST 7% - For payment made before 1 Jan 2023)</h4>
 
 <center>
 <table style="width:100%;">
@@ -89,7 +89,7 @@ code to improve customer payment experience.</p>
 </tr>
 
 <tr>
-<td>Full fees</td>
+<td>Full Fee</td>
 <td>$802.50</td>
 </tr>
 
@@ -111,9 +111,53 @@ code to improve customer payment experience.</p>
 </table>
 </center>
 
-<small><i> Fees include prevailing GST
-<br> Funding Eligiblity Period: 1 Oct 2021 to 30 Sep 2024<br>
-<small><i><sup>1</sup>Fee is under the <a href="/services/consultancy/skillsfuture-midcareer-enhanced-subsidy">Mid-career Enhanced Subsidy</a>
+<h4>Fees (GST 8% - For payment made on/after 1 Jan 2023)</h4>
+
+<center>
+<table style="width:100%;">
+<tr>
+<th style="width:70%;">Category</th>
+<th style="width:30%:">Price</th>
+</tr>
+
+<tr>
+<td>Full Fee</td>
+<td>$810</td>
+</tr>
+
+<tr>
+  <td>Singapore Citizen<sup>0</sup> (70% funding)</td>
+<td>$240.75</td>
+</tr>
+	
+<tr>
+  <td>Singapore Citizen 40 years and above<sup>0,1</sup> (90% funding)</td>
+<td>$90.75</td>
+</tr>
+
+<tr>
+  <td>Singapore Citizen sponsored by SMEs<sup>0,2</sup> (90% funding)</td>
+<td>$90.75</td>
+</tr>
+
+<tr>
+  <td>Singapore PR (70% funding)</td>
+<td>$243</td>
+</tr>
+
+<tr>
+<td>Singapore PR sponsored by SMEs<sup>2</sup> (90% funding)</td>
+<td>$93</td>
+</tr>
+
+</table>
+</center>
+
+
+<small><i>Fees include prevailing GST
+<br>Funding Eligibility Period: 1 Oct 2021 to 30 Sep 2024
+<br><small><i><sup>0</sup>The increase of 1% GST on fees will be absorbed for Singapore Citizens in 2023
+<br><small><i><sup>1</sup>Fee is under the <a href="/services/consultancy/skillsfuture-midcareer-enhanced-subsidy">Mid-career Enhanced Subsidy(MCES)</a>
 <br><sup>2</sup>Fee is under the <a href="/services/consultancy/etss">Enhanced Training Support for SMEs (ETSS)</a><br>
 </i></small>
 

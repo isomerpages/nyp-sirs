@@ -1,6 +1,6 @@
 ---
 title: Alibaba CEO Master Programme
-permalink: /digital-programmes/alibaba-business-school/alibaba-ceo-master-programme
+permalink: /digital-programmes/alibaba-business-school/alibaba-ceo-master-programme/
 breadcrumb: Alibaba CEO Master Programme
 third_nav_title: Alibaba Business School
 ---
@@ -164,7 +164,7 @@ CEO Master Programme<br>
 <li>提供餐食：早餐</li>
   </ul>
 
-<h4>Fees</h4>
+<h4>Fees (GST 7% - For payment made before 1 Jan 2023)</h4>
 
 <center>
 <table style="width:100%;">
@@ -174,7 +174,7 @@ CEO Master Programme<br>
 </tr>
   
 <tr>
-<td>Full fees</td>
+<td>Full Fee</td>
 <td>$7,200</td>
 </tr>
 
@@ -196,29 +196,55 @@ CEO Master Programme<br>
 </table>
 </center>
 
-<small><i> Fees include prevailing GST
-<br> Funding Eligiblity Period: 1 Oct 2021 to 30 Sep 2024<br>
-<small><i><sup>1</sup>Fee is under the <a href="/services/consultancy/skillsfuture-midcareer-enhanced-subsidy">Mid-career Enhanced Subsidy</a>
+<h4>Fees (GST 8% - For payment made on/after 1 Jan 2023)</h4>
+
+<center>
+<table style="width:100%;">
+<tr>
+<th style="width:70%;">Category</th>
+<th style="width:30%:">Price</th>
+</tr>
+
+<tr>
+<td>Full Fee</td>
+<td>$7,200</td>
+</tr>
+
+<tr>
+  <td>Singapore Citizen<sup>0</sup> (70% funding)</td>
+<td>$2,510</td>
+</tr>
+	
+<tr>
+  <td>Singapore Citizen 40 years and above<sup>0,1</sup> (90% funding)</td>
+<td>$1,170</td>
+</tr>
+
+<tr>
+  <td>Singapore Citizen sponsored by SMEs<sup>0,2</sup> (90% funding)</td>
+<td>$1,170</td>
+</tr>
+
+<tr>
+  <td>Singapore PR (70% funding)</td>
+<td>$2,510</td>
+</tr>
+
+<tr>
+<td>Singapore PR sponsored by SMEs<sup>2</sup> (90% funding)</td>
+<td>$1,170</td>
+</tr>
+
+</table>
+</center>
+
+
+<small><i>Fees include prevailing GST
+<br>Funding Eligibility Period: 1 Oct 2021 to 30 Sep 2024
+<br><small><i><sup>0</sup>The increase of 1% GST on fees will be absorbed for Singapore Citizens in 2023
+<br><small><i><sup>1</sup>Fee is under the <a href="/services/consultancy/skillsfuture-midcareer-enhanced-subsidy">Mid-career Enhanced Subsidy(MCES)</a>
 <br><sup>2</sup>Fee is under the <a href="/services/consultancy/etss">Enhanced Training Support for SMEs (ETSS)</a><br>
 </i></small>
-
-<h4>Additional Support</h4>
-
-<p>This course is also eligible for the following:</p>
-
-<b>For self-sponsored participants:</b>
-<ul>
-  <li><a href="/services/consultancy/skillsfuture-credit">SkillsFuture Credit</a></li>
-  </ul>
-  
-<b>For company-sponsored participants:</b>
-<ul>
-  <li><a href="/services/consultancy/absentee-payroll-ap">Absentee Payroll</a></li>
-  </ul>
-  
-<p>For SkillsFuture course reference, please click <a href="/files/documents-2021/SIRS-SkillsFuture-CourseRefNumber.pdf">here.</a></p>
-
-<p>For more information about funding and support, click <a href="/services/funding-and-advisory">here.</a></p>
 
 <center>
   <b>All fees include :</b><br>
@@ -228,6 +254,27 @@ Airfare<br>
 Visa for travel to China<br>
 Travel insurance
   </center>
+
+<h4>Additional Support</h4>
+
+<p>This course is also eligible for the following:</p>
+
+<b>For self-sponsored participants:</b>
+<ul>
+  <li><a href="/services/consultancy/skillsfuture-credit">SkillsFuture Credit</a></li>
+	<li><a href="/services/consultancy/wss-individuals">Workfare Skills Support (WSS) Scheme (For Individuals)</a></li>
+  </ul>
+  
+<b>For company-sponsored participants:</b>
+<ul>
+  <li><a href="/services/consultancy/absentee-payroll-ap">Absentee Payroll</a></li>
+	<li><a href="/services/consultancy/wss-companies">Workfare Skills Support (WSS) Scheme (For Companies)</a></li>
+  </ul>
+  
+<p>For SkillsFuture course reference, please click <a href="/files/documents-2021/SIRS-SkillsFuture-CourseRefNumber.pdf">here.</a></p>
+
+<p>For more information about funding and support, click <a href="/services/funding-and-advisory">here.</a></p>
+
  
  <div style="width:50%;float:left;"><center><a href="https://docs.google.com/forms/d/e/1FAIpQLSekX2s9T95dYWncNmU85qHSN4wFQVXmhfKjjLEAhY3waWS3xw/viewform" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Register Now</a></center></div>
  <div style="width:50%;float:left;"><center><a href="https://form.gov.sg/602f2e2609513500125322dd" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center></div>

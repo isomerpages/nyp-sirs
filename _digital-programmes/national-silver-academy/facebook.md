@@ -1,12 +1,9 @@
 ---
 title: Facebook
-permalink: /digital-programmes/national-silver-academy/facebook
+permalink: /digital-programmes/national-silver-academy/facebook/
 breadcrumb: Facebook
-third_nav_title: 'National Silver Academy'
-
+third_nav_title: National Silver Academy
 ---
-
-
 <img src="/images/images-2021/DigitalProgrammes_NSA_TechSavvy-Facebook.png" style="width:100%;">
 
 <h4 style="text-align:center;">Next intake:</h4>
@@ -34,7 +31,7 @@ and protect your account while you socialise!</p>
 <h4>Duration</h4>
 <p>9am - 12pm (3 hours)</p>
 
-<h4>Fees</h4>
+<h4>Fees (GST 8% - For payment made on/after 1 Jan 2023)</h4>
 
 <center>
 <table style="width:100%;">
@@ -45,7 +42,7 @@ and protect your account while you socialise!</p>
 
 <tr>
 <td>Full Fees</td>
-<td>$53.50</td>
+<td>$54</td>
 </tr>
 
 <tr>

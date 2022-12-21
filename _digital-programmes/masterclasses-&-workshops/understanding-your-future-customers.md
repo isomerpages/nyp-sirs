@@ -1,6 +1,6 @@
 ---
 title: Understanding Your Future Customers
-permalink: /digital-programmes/masterclasses-and-workshops/understanding-your-future-customers
+permalink: /digital-programmes/masterclasses-and-workshops/understanding-your-future-customers/
 breadcrumb: Understanding Your Future Customers
 third_nav_title: Masterclasses & Workshops
 ---
@@ -78,7 +78,7 @@ Outside of work, Jien finds beauty in the less quantifiable worlds of yoga and a
 	</div>
 </div>
     
-<h4>Fees</h4>
+<h4>Fees (GST 7% - For payment made before 1 Jan 2023)</h4>
 
 <center>
 <table style="width:100%;">
@@ -88,7 +88,7 @@ Outside of work, Jien finds beauty in the less quantifiable worlds of yoga and a
 </tr>
 
 <tr>
-<td>Full fees</td>
+<td>Full Fee</td>
 <td>$3,049.50</td>
 </tr>
 
@@ -110,9 +110,53 @@ Outside of work, Jien finds beauty in the less quantifiable worlds of yoga and a
 </table>
 </center>
 
-<small><i> Fees include prevailing GST
-<br> Funding Eligiblity Period: 1 Oct 2021 to 30 Sep 2024<br>
-<small><i><sup>1</sup>Fee is under the <a href="/services/consultancy/skillsfuture-midcareer-enhanced-subsidy">Mid-career Enhanced Subsidy</a>
+<h4>Fees (GST 8% - For payment made on/after 1 Jan 2023)</h4>
+
+<center>
+<table style="width:100%;">
+<tr>
+<th style="width:70%;">Category</th>
+<th style="width:30%:">Price</th>
+</tr>
+
+<tr>
+<td>Full Fee</td>
+<td>$3,078</td>
+</tr>
+
+<tr>
+  <td>Singapore Citizen<sup>0</sup> (70% funding)</td>
+<td>$914.85</td>
+</tr>
+	
+<tr>
+  <td>Singapore Citizen 40 years and above<sup>0,1</sup> (90% funding)</td>
+<td>$344.85</td>
+</tr>
+
+<tr>
+  <td>Singapore Citizen sponsored by SMEs<sup>0,2</sup> (90% funding)</td>
+<td>$344.85</td>
+</tr>
+
+<tr>
+  <td>Singapore PR (70% funding)</td>
+<td>$923.40</td>
+</tr>
+
+<tr>
+<td>Singapore PR sponsored by SMEs<sup>2</sup> (90% funding)</td>
+<td>$353.40</td>
+</tr>
+
+</table>
+</center>
+
+
+<small><i>Fees include prevailing GST
+<br>Funding Eligibility Period: 1 Oct 2021 to 30 Sep 2024
+<br><small><i><sup>0</sup>The increase of 1% GST on fees will be absorbed for Singapore Citizens in 2023
+<br><small><i><sup>1</sup>Fee is under the <a href="/services/consultancy/skillsfuture-midcareer-enhanced-subsidy">Mid-career Enhanced Subsidy(MCES)</a>
 <br><sup>2</sup>Fee is under the <a href="/services/consultancy/etss">Enhanced Training Support for SMEs (ETSS)</a><br>
 </i></small>
 

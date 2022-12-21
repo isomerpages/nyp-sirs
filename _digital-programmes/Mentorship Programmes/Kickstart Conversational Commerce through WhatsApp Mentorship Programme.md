@@ -5,7 +5,6 @@ description: Kickstart Conversational Commerce through WhatsApp Mentorship Progr
 third_nav_title: Mentorship Programmes
 image: /images/DigitalProgrammes-CCMP-Overview.png
 ---
-
 <img src="/images/images-2021/DigitalProgrammes-CCMP-Overview.png" style="width:100%;">
 
 <p>By combining the benefits of direct marketing with new technology, conversational commerce connects your business and consumers through a two-way, real-time dialogue using messaging platforms. Conversation-driven marketing enables you to promote products and services and communicate with your customers speedily in a highly personalised manner. It is a highly effective strategy you can use at every stage of the consumer journey to drive engagement, deliver a better customer experience, and grow your business. Ready to kickstart conversational commerce? Tap on the power of WhatsApp, the most popular global messaging app, to help you reach out to two billion active users<sup>*</sup>!</p>
@@ -33,7 +32,8 @@ image: /images/DigitalProgrammes-CCMP-Overview.png
 <p>Business Owners, Entrepreneurs and Marketing Professionals</p>
 
 
-<h4>Fees</h4>
+<h4>Fees (GST 7% - For payment made before 1 Jan 2023)</h4>
+
 
 <center>
 <table style="width:100%;">
@@ -43,13 +43,13 @@ image: /images/DigitalProgrammes-CCMP-Overview.png
 </tr>
 
 <tr>
-<td>Full fees</td>
+<td>Full Fee</td>
 <td>$5,350</td>
 </tr>
 
 <tr>
 <td>Singapore Citizen/Singapore PR (SPR) (70% funding)</td>
-<td>$1,650</td>
+<td>$1,605</td>
 </tr>
 
 <tr>
@@ -65,11 +65,71 @@ image: /images/DigitalProgrammes-CCMP-Overview.png
 </table>
 </center>
 
-<small><i> Fees include prevailing GST
-<br> Funding Eligiblity Period: 1 Oct 2021 to 30 Sep 2024<br>
-<small><i><sup>1</sup>Fee is under the <a href="/services/consultancy/skillsfuture-midcareer-enhanced-subsidy">Mid-career Enhanced Subsidy</a>
+<h4>Fees (GST 8% - For payment made on/after 1 Jan 2023)</h4>
+
+<center>
+<table style="width:100%;">
+<tr>
+<th style="width:70%;">Category</th>
+<th style="width:30%:">Price</th>
+</tr>
+
+<tr>
+<td>Full Fee</td>
+<td>$5,400</td>
+</tr>
+
+<tr>
+  <td>Singapore Citizen<sup>0</sup> (70% funding)</td>
+<td>$1,605</td>
+</tr>
+	
+<tr>
+  <td>Singapore Citizen 40 years and above<sup>0,1</sup> (90% funding)</td>
+<td>$605</td>
+</tr>
+
+<tr>
+  <td>Singapore Citizen sponsored by SMEs<sup>0,2</sup> (90% funding)</td>
+<td>$605</td>
+</tr>
+
+<tr>
+  <td>Singapore PR (70% funding)</td>
+<td>$1,620</td>
+</tr>
+
+<tr>
+<td>Singapore PR sponsored by SMEs<sup>2</sup> (90% funding)</td>
+<td>$620</td>
+</tr>
+
+</table>
+</center>
+
+
+<small><i>Fees include prevailing GST
+<br>Funding Eligibility Period: 1 Oct 2021 to 30 Sep 2024
+<br><small><i><sup>0</sup>The increase of 1% GST on fees will be absorbed for Singapore Citizens in 2023
+<br><small><i><sup>1</sup>Fee is under the <a href="/services/consultancy/skillsfuture-midcareer-enhanced-subsidy">Mid-career Enhanced Subsidy(MCES)</a>
 <br><sup>2</sup>Fee is under the <a href="/services/consultancy/etss">Enhanced Training Support for SMEs (ETSS)</a><br>
 </i></small>
+
+<h4>Additional Support</h4>
+
+<p>This course is also eligible for the following:</p>
+
+<b>For self-sponsored participants:</b>
+<ul>
+  <li><a href="/services/consultancy/skillsfuture-credit">SkillsFuture Credit</a></li>
+  <li><a href="/services/consultancy/wss-individuals">Workfare Skills Support (WSS) Scheme (For Individuals)</a></li>
+</ul>
+
+<b>For company-sponsored participants:</b>
+<ul>
+  <li><a href="/services/consultancy/absentee-payroll-ap">Absentee Payroll</a></li>
+  <li><a href="/services/consultancy/wss-companies">Workfare Skills Support (WSS) Scheme (For Companies)</a></li>
+</ul>
 
 <p>For SkillsFuture course reference, please click <a href="/files/documents-2021/SIRS-SkillsFuture-CourseRefNumber.pdf">here.</a></p>
 

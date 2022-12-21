@@ -1,11 +1,9 @@
 ---
 title: E-Entertainment
-permalink: /digital-programmes/national-silver-academy/e-entertainment
+permalink: /digital-programmes/national-silver-academy/e-entertainment/
 breadcrumb: E-Entertainment
-third_nav_title: 'National Silver Academy'
-
+third_nav_title: National Silver Academy
 ---
-
 <img src="/images/images-2021/DigitalProgrammes_NSA_TechSavvy-E-Entertainment.png" style="width:100%;">
 
 <h4 style="text-align:center;">Next intake:</h4>
@@ -32,7 +30,7 @@ to your favourite local radio stations.</p>
 <h4>Duration</h4>
 <p>9am - 12pm (3 hours)</p>
 
-<h4>Fees</h4>
+<h4>Fees (GST 8% - For payment made on/after 1 Jan 2023)</h4>
 
 <center>
 <table style="width:100%;">
@@ -43,7 +41,7 @@ to your favourite local radio stations.</p>
 
 <tr>
 <td>Full Fees</td>
-<td>$53.50</td>
+<td>$54</td>
 </tr>
 
 <tr>
@@ -63,4 +61,3 @@ to your favourite local radio stations.</p>
 <div style="width:50%;float:left;"><center><a href="https://form.gov.sg/#!/5e5871e4f64a66001169c693" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Register for Interest</a></center></div>
 
 <div style="width:50%;float:left;"><center><a href="https://form.gov.sg/602f3820cdb38800116f8376" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center></div>
-

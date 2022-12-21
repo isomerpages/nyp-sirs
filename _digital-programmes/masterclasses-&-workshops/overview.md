@@ -20,7 +20,6 @@ third_nav_title: Masterclasses & Workshops
   <li><a href="/digital-programmes/masterclasses-and-workshops/empower-your-business-with-social-commerce-and-digital-payment">Empower Your Business with Social Commerce & Digital Payment</a></li>
   <li><a href="/digital-programmes/masterclasses-and-workshops/google-analytics-for-e-commerce">Google Analytics (GA) for E-Commerce with GAIQ Certification</a></li>
   <li><a href="/digital-programmes/masterclasses-and-workshops/google-shopping-with-adwords-professional-certification">Google Shopping with AdWords Certified Professional Course</a></li>
-  <li><a href="/digital-programmes/masterclasses-and-workshops/growing-your-brand-presence-with-wechat-marketing">Grow Your Brand Presence with WeChat Marketing</a></li>
   <li><a href="/digital-programmes/masterclasses-and-workshops/increase-business-revenue-through-seo">Increase Business Revenue through Search Engine Optimisation (SEO)</a></li>
   <li><a href="/digital-programmes/masterclasses-and-workshops/master-facebook-marketing-for-business">Master Facebook Marketing for Business</a></li>
   <li><a href="/digital-programmes/masterclasses-and-workshops/master-linkedin-for-sales-and-marketing">Master LinkedIn for Sales & Marketing</a></li>
@@ -47,7 +46,6 @@ in the New Retail Revolution</a></li>
 		<li><a href="/digital-programmes/mc-ws/bullets">Power Up Your Content with Blockbuster Bullets</a></li>
 	<li><a href="/digital-programmes/mc-ws/tiktok">Sell and Earn on TikTok</a></li>	
 	<li><a href="/digital-programmes/mc-ws/ssc">Smart Social Commerce</a></li>
-	<li><a href="/digital-programmes/masterclasses-workshops/sgso">Start, Grow & Scale Online (from sourcing to dropship online - B2B2C)</a></li>
 	<li><a href="/digital-programmes/mc-ws/am">Start Your Business at No Cost Using Affiliate Marketing</a></li>
 </ul>
 
