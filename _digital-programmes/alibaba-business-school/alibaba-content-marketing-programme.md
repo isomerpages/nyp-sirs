@@ -171,17 +171,17 @@ $6,099</td>
 
 <tr>
   <td>Singapore Citizen<sup>0</sup> (70% funding)</td>
-<td>$1,235.85</td>
+<td>$1,829.70</td>
 </tr>
 	
 <tr>
   <td>Singapore Citizen 40 years and above<sup>0,1</sup> (90% funding)</td>
-<td>$465.85</td>
+<td>$689.70</td>
 </tr>
 
 <tr>
   <td>Singapore Citizen sponsored by SMEs<sup>0,2</sup> (90% funding)</td>
-<td>$465.85</td>
+<td>$689.70</td>
 </tr>
 
 <tr>
