@@ -79,37 +79,6 @@ SMEs, to help them with their business success. He has also led the digital tran
 payment journey, where he assisted more than 10,000 companies in Singapore to implement the SGQR
 code to improve customer payment experience.</p>
 
-<h4>Fees (GST 7% - For payment made before 1 Jan 2023)</h4>
-
-<center>
-<table style="width:100%;">
-<tr>
-<th style="width:70%;">Category</th>
-<th style="width:30%:">Price</th>
-</tr>
-
-<tr>
-<td>Full Fee</td>
-<td>$802.50</td>
-</tr>
-
-<tr>
-<td>Singapore Citizen/Singapore PR (SPR) (70% funding)</td>
-<td>$240.75</td>
-</tr>
-
-<tr>
-<td>Singapore Citizen 40 years & above<sup>1</sup> (90% funding)</td>
-<td>$90.75</td>
-</tr>
-
-<tr>
-<td>Singapore Citizen/SPR sponsored by SMEs<sup>2</sup> (90% funding)</td>
-<td>$90.75</td>
-</tr>
-
-</table>
-</center>
 
 <h4>Fees (GST 8% - For payment made on/after 1 Jan 2023)</h4>
 
