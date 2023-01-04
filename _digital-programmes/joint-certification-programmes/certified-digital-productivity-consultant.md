@@ -36,37 +36,6 @@ The CDPC programme will equip the consultant with literacy and skills in:
 <h4>Who Should Attend</h4>
 <p>This programme is suitable for industry practitioners who wish to upskill their capability for career growth, or who aspire to be retail industry consultants.</p>
 
-<h4>Fees (GST 7% - For payment made before 1 Jan 2023)</h4>
-
-<center>
-<table style="width:100%;">
-<tr>
-<th style="width:70%;">Category</th>
-<th style="width:30%:">Price</th>
-</tr>
-
-<tr>
-<td>Full Fee</td>
-	<td>$11,021.00</td>
-</tr>
-
-<tr>
-<td>Singapore Citizen/Singapore PR (SPR) (70% funding)</td>
-<td>$3,306.30</td>
-</tr>
-
-<tr>
-<td>Singapore Citizen 40 years & above (90% funding)</td>
-<td>$1,246.30</td>
-</tr>
-
-<tr>
-  <td>Singapore Citizen/SPR sponsored by SMEs<sup>1</sup> (90% funding)</td>
-<td>$1,246.30</td>
-</tr>
-
-</table>
-</center>
 
 <h4>Fees (GST 8% - For payment made on/after 1 Jan 2023)</h4>
 
