@@ -38,32 +38,6 @@ third_nav_title: SkillsFuture Series
 <h4>Duration</h4>
 <p>9am -12pm, 2-6pm (1 day)</p>
 
-<h4>Fees (GST 7% - For payment made before 1 Jan 2023)</h4>
-
-<center>
-<table style="width:100%;">
-<tr>
-<th style="width:70%;">Category</th>
-<th style="width:30%:">Price</th>
-</tr>
-
-<tr>
-<td>Full Fee</td>
-<td>$224.70</td>
-</tr>
-
-<tr>
-<td>Singapore Citizen/Singapore PR (SPR) (70% funding)</td>
-<td>$67.41</td>
-</tr>
-
-<tr>
-  <td>Singapore Citizen 40 years and above<sup>1</sup> (90% funding)</td>
-<td>$25.41</td>
-</tr>
-
-</table>
-</center>
 
 <h4>Fees (GST 8% - For payment made on/after 1 Jan 2023)</h4>
 
