@@ -14,7 +14,7 @@ third_nav_title: WSQ Full Qualification Programmes
     </tr>
     <tr style="text-align:center;">
       <td style="text-align:center;width:50%;">Feb 2023 (Every Wed)</td>
-      <td style="text-align:center;width:50%;">To be confirmed</td>
+      <td style="text-align:center;width:50%;">Mar 2023 (Every Wed & Thu)</td>
     </tr>
 </table></center>
 
