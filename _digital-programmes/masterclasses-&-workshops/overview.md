@@ -37,6 +37,7 @@ third_nav_title: Masterclasses & Workshops
 in the New Retail Revolution</a></li>
   <li><a href="/digital-programmes/masterclasses-and-workshops/differentiate-and-drive-growth-with-experience-innovation">Differentiate and Drive Growth with Experience Innovation</a></li>
 	<li><a href="/digital-programmes/mc-ws/mindset">Digital Transformation with a New Mindset</a></li>
+	<li><a href="/digital-programmes/mc-ws/oms">Generate Leads for Free and Maximise Your Sales Conversions</a></li>
 	  <li><a href="/digital-programmes/mc-ws/wellness">Holistic Wellness for a Resilient You</a></li>
   <li><a href="/digital-programmes/masterclasses-and-workshops/improve-customer-engagement-with-digital-mindset">Improve Customer Engagement with Digital Mindset</a></li>
 	<li><a href="/digital-programmes/mc-ws/hbb">Jumpstart and Grow Your Home-Based Business</a></li>
