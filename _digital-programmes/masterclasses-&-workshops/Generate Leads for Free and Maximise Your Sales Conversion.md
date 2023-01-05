@@ -37,11 +37,11 @@ third_nav_title: Masterclasses & Workshops
 
 
 <h4>Who Should Attend</h4>
-<p>This workshop is suitable for businesses with e-commerce channels, brick-and-mortar retailers exploring e-commerce, and interested professionals.</p>
+<p>This workshop is suitable for any business or individual that needs to overcome the challenge of not being able to improve their digital sales and/or wants to discover ways of maximising the returns from their digital efforts.</p>
 	
 
 <h4>Duration</h4>
-<p>9 hours (9am - 6pm)<br>Includes 1 hour of Asynchronous E-Learning</p>
+<p>18 hours (9am - 6pm)<br>Includes 2 hours of Asynchronous E-Learning</p>
 
 
 <h4>Fees (GST 8% - For payment made on/after 1 Jan 2023)</h4>
@@ -55,32 +55,32 @@ third_nav_title: Masterclasses & Workshops
 
 <tr>
 <td>Full Fee</td>
-<td>$540</td>
+<td>$750</td>
 </tr>
 
 <tr>
   <td>Singapore Citizen<sup>0</sup> (70% funding)</td>
-<td>$160.50</td>
+<td>$240.75</td>
 </tr>
 	
 <tr>
   <td>Singapore Citizen 40 years and above<sup>0,1</sup> (90% funding)</td>
-<td>$60.50</td>
+<td>$90.75</td>
 </tr>
 
 <tr>
   <td>Singapore Citizen sponsored by SMEs<sup>0,2</sup> (90% funding)</td>
-<td>$60.50</td>
+<td>$90.75</td>
 </tr>
 
 <tr>
   <td>Singapore PR (70% funding)</td>
-<td>$162</td>
+<td>$243</td>
 </tr>
 
 <tr>
 <td>Singapore PR sponsored by SMEs<sup>2</sup> (90% funding)</td>
-<td>$62</td>
+<td>$93</td>
 </tr>
 
 </table>
