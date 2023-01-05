@@ -12,8 +12,8 @@ third_nav_title: WSQ Full Qualification Programmes
       <th style="text-align:center;width:50%;">Night Training</th>
     </tr>
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">To be confirmed</td>
-      <td style="text-align:center;width:50%;">November 2022<br>(Every Wed & Thur, Online)</td>
+      <td style="text-align:center;width:50%;">Feb 2023<br>(Every Wed & Thu)</td>
+      <td style="text-align:center;width:50%;">Mar 2023<br>(Every Tue & Wed)</td>
     </tr>
 </table></center>
 
@@ -58,38 +58,6 @@ With emerging technologies and evolving consumer behaviour, the ability to lead 
 <li>With at least 3 years supervisory/managerial working experience in retail or Professional/Managerial/Management Executive (PME) position in non-retail sector</li>
 	<li>Preferably possess basic knowledge and skills in Marketing/ Digital Marketing/ Advertising/ Public Relations/ E-Commerce</li>
 </ul>
-
-<h4>Fees (GST 7% - For payment made before 1 Jan 2023)</h4>
-
-<center>
-<table style="width:100%;">
-<tr>
-<th style="width:70%;">Category</th>
-<th style="width:30%:">Price</th>
-</tr>
-
-<tr>
-<td>Full Qualification (8 modules) Full Fee (before GST)</td>
-<td>$7,550</td>
-</tr>
-
-<tr>
-<td>Singapore Citizen/Singapore PR (SPR) (70% funding)</td>
-<td>$2,423.55</td>
-</tr>
-
-<tr>
-  <td>Singapore Citizen 40 years and above<sup>1</sup> (90% funding)</td>
-<td>$913.55</td>
-</tr>
-
-<tr>
-<td>Singapore Citizen/SPR sponsored by SMEs<sup>2</sup> (90% funding)</td>
-<td>$913.55</td>
-</tr>
-
-</table>
-</center>
 
 <h4>Fees (GST 8% - For payment made on/after 1 Jan 2023)</h4>
 

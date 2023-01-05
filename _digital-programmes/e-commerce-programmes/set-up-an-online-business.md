@@ -14,7 +14,7 @@ third_nav_title: E-Commerce Programmes
       <th style="text-align:center;width:50%;">Face-to-Face</th>
     </tr>
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">16-17 Feb (Thu-Fri)</td>
+      <td style="text-align:center;width:50%;">16-17 Feb (Thu-Fri)<br>24-25 Mar (Fri-Sat)</td>
       <td style="text-align:center;width:50%;">11-12 Jan (Wed-Thu)</td>   
     </tr>
 </table></center>
@@ -71,38 +71,6 @@ third_nav_title: E-Commerce Programmes
   <li>Day 1: 9am - 5pm</li>
   <li>Day 2: 9am - 6pm</li>
   </ul>
-
-<h4>Fees (GST 7% - For payment made before 1 Jan 2023)</h4>
-
-<center>
-<table style="width:100%;">
-<tr>
-<th style="width:70%;">Category</th>
-<th style="width:30%:">Price</th>
-</tr>
-
-<tr>
-<td>Full Fee</td>
-<td>$802.50</td>
-</tr>
-
-<tr>
-<td>Singapore Citizen/Singapore PR (SPR) (70% funding)</td>
-<td>$240.75</td>
-</tr>
-
-<tr>
-<td>Singapore Citizen 40 years & above<sup>1</sup> (90% funding)</td>
-<td>$90.75</td>
-</tr>
-
-<tr>
-  <td>Singapore Citizen/SPR sponsored by SMEs<sup>2</sup> (90% funding)</td>
-<td>$90.75</td>
-</tr>
-
-</table>
-</center>
 
 <h4>Fees (GST 8% - For payment made on/after 1 Jan 2023)</h4>
 

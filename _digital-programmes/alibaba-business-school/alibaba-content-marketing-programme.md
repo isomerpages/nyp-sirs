@@ -121,40 +121,6 @@ Holistic Hands-on Content Marketing Techniques</center>
 <h4>课程时间</h4>
 <p>5天 (40小时)</p>
 
-<h4>Fees (GST 7% - For payment made before 1 Jan 2023)</h4>
-
-<center>
-<table style="width:100%;">
-<tr>
-<th style="width:70%;">Category</th>
-<th style="width:30%:">Price</th>
-</tr>
-
-<tr>
-<td>Full Fee</td>
-<td>   
-
-$6,099</td>
-</tr>
-
-<tr>
-<td>Singapore Citizen/Singapore PR (SPR) (70% funding)</td>
-<td>$1,829.70</td>
-</tr>
-
-<tr>
-<td>Singapore Citizen 40 years & above<sup>1</sup> (90% funding)</td>
-<td>$689.70</td>
-</tr>
-
-<tr>
-<td>Singapore Citizen/SPR sponsored by SMEs<sup>2</sup> (90% funding)</td>
-<td>$689.70</td>
-</tr>
-
-</table>
-</center>
-
 <h4>Fees (GST 8% - For payment made on/after 1 Jan 2023)</h4>
 
 <center>
@@ -171,17 +137,17 @@ $6,099</td>
 
 <tr>
   <td>Singapore Citizen<sup>0</sup> (70% funding)</td>
-<td>$1,235.85</td>
+<td>$1,829.70</td>
 </tr>
 	
 <tr>
   <td>Singapore Citizen 40 years and above<sup>0,1</sup> (90% funding)</td>
-<td>$465.85</td>
+<td>$689.70</td>
 </tr>
 
 <tr>
   <td>Singapore Citizen sponsored by SMEs<sup>0,2</sup> (90% funding)</td>
-<td>$465.85</td>
+<td>$689.70</td>
 </tr>
 
 <tr>

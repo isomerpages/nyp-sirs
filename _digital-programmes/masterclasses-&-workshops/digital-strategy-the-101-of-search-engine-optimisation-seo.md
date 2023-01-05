@@ -14,7 +14,7 @@ third_nav_title: Masterclasses & Workshops
       <th style="text-align:center;width:50%;">Face-to-Face</th>
     </tr>
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">To be confirmed</td>
+      <td style="text-align:center;width:50%;">10 Mar (Fri)</td>
       <td style="text-align:center;width:50%;">To be confirmed</td>
     </tr>
 </table></center>
@@ -60,38 +60,6 @@ third_nav_title: Masterclasses & Workshops
         <b>Jayden Ooi</b><br><i>Entrepreneur, Digital Strategist</i><br><br>Jayden Ooi is an entrepreneur that founded his own SEO agency 7 years ago. He is an experienced professional with expertise in SEO, digital marketing and eCommerce development. During his entrepreneurship journey, Jayden Ooi has built up a staunch customer portfolio and a successful team in Singapore and Malaysia over the past 7 years. He has consulted with many SMEs, to pivot their brick and mortar business into the digital space, for instance, helping a local bicycle retailer to be ranked on the top of Google, and working with them to re-design their business model and positioning them into an exciting, trending, forward looking brand that is in tune with the younger digital consumers of today. One of his prominent clients was a local F&B SME, where a rank 1 SEO rank and a re-designed website, tripled their annual revenue. Today, his agency, NightOwl SEO is ranked on page 1 of Google, and he is ranked in the top 5 for more than 25 over industries for his customers.
 	</div>
 </div>
-
-<h4>Fees (GST 7% - For payment made before 1 Jan 2023)</h4>
-
-<center>
-<table style="width:100%;">
-<tr>
-<th style="width:70%;">Category</th>
-<th style="width:30%:">Price</th>
-</tr>
-
-<tr>
-<td>Full Fee</td>
-<td>$802.50</td>
-</tr>
-
-<tr>
-<td>Singapore Citizen/Singapore PR (SPR) (70% funding)</td>
-<td>$240.75</td>
-</tr>
-
-<tr>
-<td>Singapore Citizen 40 years & above<sup>1</sup> (90% funding)</td>
-<td>$90.75</td>
-</tr>
-
-<tr>
-  <td>Singapore Citizen/SPR sponsored by SMEs<sup>2</sup> (90% funding)</td>
-<td>$90.75</td>
-</tr>
-
-</table>
-</center>
 
 <h4>Fees (GST 8% - For payment made on/after 1 Jan 2023)</h4>
 

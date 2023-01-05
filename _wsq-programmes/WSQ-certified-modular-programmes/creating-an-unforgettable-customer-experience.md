@@ -16,7 +16,7 @@ third_nav_title: WSQ Certified Modular Programmes
     </tr>
     <tr style="text-align:center;">
       <td style="text-align:center;width:50%;">To be confirmed</td>
-      <td style="text-align:center;width:50%;">17-18 Jan (Tue-Wed)</td>
+      <td style="text-align:center;width:50%;">17-18 Jan (Tue-Wed)<br>8-9 Mar (Wed-Thu)</td>
     </tr>
 </table></center>
 
@@ -62,38 +62,6 @@ third_nav_title: WSQ Certified Modular Programmes
 <li>GCE ‘N’ level Credit (at least C5) in English and Mathematics or Workplace Literacy and Numeracy (WPLN) score: Level 4 for Reading, Listening and Numeracy, and</li>
 <li>With at least 1 years working experience in retail or 2 years in non-retail sector</li>
  </ul>
-
-<h4>Fees (GST 7% - For payment made before 1 Jan 2023)</h4>
-
-<center>
-<table style="width:100%;">
-<tr>
-<th style="width:70%;">Category</th>
-<th style="width:30%:">Price</th>
-</tr>
-
-<tr>
-<td>Full Fee (before GST)</td>
-<td>$440.00</td>
-</tr>
-
-<tr>
-<td>Singapore Citizen/Singapore PR (SPR) (70% funding)</td>
-<td>$141.24</td>
-</tr>
-
-<tr>
-  <td>Singapore Citizen 40 years and above<sup>1</sup> (90% funding)</td>
-<td>$53.24</td>
-</tr>
-
-<tr>
-<td>Singapore Citizen/SPR sponsored by SMEs<sup>2</sup> (90% funding)</td>
-<td>$53.24</td>
-</tr>
-
-</table>
-</center>
 
 <h4>Fees (GST 8% - For payment made on/after 1 Jan 2023)</h4>
 

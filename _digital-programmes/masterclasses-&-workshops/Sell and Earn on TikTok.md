@@ -14,7 +14,7 @@ third_nav_title: Masterclasses & Workshops
       <th style="text-align:center;width:50%;">Face-to-Face</th>
     </tr>
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">16 Dec (Fri)<br>27 Jan (Fri)<br>21 Feb (Tue)</td>
+      <td style="text-align:center;width:50%;">27 Jan (Fri)<br>21 Feb (Tue)<br>14 Mar (Tue)</td>
     </tr>
 </table></center>
 
@@ -52,37 +52,6 @@ third_nav_title: Masterclasses & Workshops
 <h4>Duration</h4>
 <p>1 day (9am - 6pm)</p>
 
-<h4>Fees (GST 7% - For payment made before 1 Jan 2023)</h4>
-
-<center>
-<table style="width:100%;">
-<tr>
-<th style="width:70%;">Category</th>
-<th style="width:30%:">Price</th>
-</tr>
-
-<tr>
-<td>Full Fee</td>
-<td>$535.00</td>
-</tr>
-
-<tr>
-<td>Singapore Citizen/Singapore PR (SPR) (70% funding)</td>
-<td>$160.50</td>
-</tr>
-
-<tr>
-<td>Singapore Citizen 40 years & above<sup>1</sup>(90% funding)</td>
-<td>$60.50</td>
-</tr>
-
-<tr>
-  <td>Singapore Citizen/SPR sponsored by SMEs<sup>2</sup> (90% funding)</td>
-<td>$60.50</td>
-</tr>
-
-</table>
-</center>
 
 <h4>Fees (GST 8% - For payment made on/after 1 Jan 2023)</h4>
 

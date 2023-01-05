@@ -58,38 +58,6 @@ Synchronous E-learning - TGS-2020513487</p>
 <li>With at least 3 years supervisory/managerial working experience in retail or Professional/Managerial/Management Executive (PME) position in non-retail sector</li>
 </ul>
 
-<h4>Fees (GST 7% - For payment made before 1 Jan 2023)</h4>
-
-<center>
-<table style="width:100%;">
-<tr>
-<th style="width:70%;">Category</th>
-<th style="width:30%:">Price</th>
-</tr>
-
-<tr>
-<td>Full Fee (before GST)</td>
-<td>$840.00</td>
-</tr>
-
-<tr>
-<td>Singapore Citizen/Singapore PR (SPR) (70% funding)</td>
-<td>$269.64</td>
-</tr>
-
-<tr>
-  <td>Singapore Citizen 40 years and above<sup>1</sup> (90% funding)</td>
-<td>$101.64</td>
-</tr>
-
-<tr>
-<td>Singapore Citizen/SPR sponsored by SMEs<sup>2</sup> (90% funding)</td>
-<td>$101.64</td>
-</tr>
-
-</table>
-</center>
-
 <h4>Fees (GST 8% - For payment made on/after 1 Jan 2023)</h4>
 
 <center>

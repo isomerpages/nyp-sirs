@@ -13,8 +13,8 @@ third_nav_title: WSQ Full Qualification Programmes
       <th style="text-align:center;width:50%;">Night Training</th>
     </tr>
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">To be confirmed</td>
-      <td style="text-align:center;width:50%;">January 2023<br>(Every Tue & Thu, Online)</td>
+      <td style="text-align:center;width:50%;">Feb 2023<br>(Every Mon & Thu)</td>
+      <td style="text-align:center;width:50%;">Jan 2023<br>(Every Tue & Thu)</td>
     </tr>
 </table></center>
 
@@ -53,38 +53,6 @@ third_nav_title: WSQ Full Qualification Programmes
 <li>GCE ‘O’ level Credit (at least C6) in English and Mathematics or Workplace Literacy and Numeracy (WPLN) score: Level 6 for Reading, Listening and Numeracy, and</li>
 <li>With at least 3 years supervisory/managerial working experience in retail or Professional/Managerial/Management Executive (PME) position in non-retail sector</li>
 </ul>
-
-<h4>Fees (GST 7% - For payment made before 1 Jan 2023)</h4>
-
-<center>
-<table style="width:100%;">
-<tr>
-<th style="width:70%;">Category</th>
-<th style="width:30%:">Price</th>
-</tr>
-
-<tr>
-<td>Full Qualification (8 modules) Full Fee (before GST)</td>
-<td>$6,720</td>
-</tr>
-
-<tr>
-<td>Singapore Citizen/Singapore PR (SPR) (70% funding)</td>
-<td>$2,157.12</td>
-</tr>
-
-<tr>
-  <td>Singapore Citizen 40 years and above<sup>1</sup> (90% funding)</td>
-<td>$813.12</td>
-</tr>
-
-<tr>
-<td>Singapore Citizen/SPR sponsored by SMEs<sup>2</sup> (90% funding)</td>
-<td>$813.12</td>
-</tr>
-
-</table>
-</center>
 
 <h4>Fees (GST 8% - For payment made on/after 1 Jan 2023)</h4>
 

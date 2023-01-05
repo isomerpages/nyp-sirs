@@ -46,37 +46,6 @@ third_nav_title: Masterclasses & Workshops
 <p><b>Ivan Wong</b><br>
 Ivan has over 20 years of experience in Business Consulting, Training, Search Engine Marketing, Conversion Optimisation and Digital Analytics from both client side and within the agency environment. Well-versed in both the technical and business aspects of digital marketing, he is one of the few Google-appointed regional trainers who trains the official Google AdWords, Analytics, and Mobile Advertising courses. In addition, he is a sought-after trainer, providing training and consultancy for leading marketing agencies including Google Mobile Labs, IE Singapore, The Knowledge Engineers, General Assembly, Econsultancy and ClickAcademy Asia. He was formerly the SEO/Analytics Director with GroupM Asia-Pacific. Prior to that, he was the Director of eCommerce at Far East Hospitality, Singapore’s largest operator of hotels and serviced residences. He has also held management positions at DGM Asia, Hewlett-Packard Asia, and Magnus Management Consultants.</p>
 
-<h4>Fees (GST 7% - For payment made before 1 Jan 2023)</h4>
-
-<center>
-<table style="width:100%;">
-<tr>
-<th style="width:70%;">Category</th>
-<th style="width:30%:">Price</th>
-</tr>
-  
-<tr>
-<td>Full Fee</td>
-<td>$1,284</td>
-</tr>
-
-<tr>
-<td>Singapore Citizen/Singapore PR (SPR) (70% funding)</td>
-<td>$385.20</td>
-</tr>
-
-<tr>
-<td>Singapore Citizen 40 years & above<sup>1</sup> (90% funding)</td>
-<td>$145.20</td>
-</tr>
-
-<tr>
-<td>Singapore Citizen/SPR sponsored by SMEs<sup>2</sup> (90% funding)</td>
-<td>$145.20</td>
-</tr>
-
-</table>
-</center>
 
 <h4>Fees (GST 8% - For payment made on/after 1 Jan 2023)</h4>
 

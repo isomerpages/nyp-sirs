@@ -1,11 +1,10 @@
 ---
-title: CaseTrust Accreditation Scheme for E Commerce Business
-permalink: /digital-programmes/mc-ws/casetrust/
-description: SIRS Workshop - CaseTrust Accreditation Scheme for E-Commerce Business
-image: /images/images-2021/DigitalProgrammes-HImage-Workshop.png
+title: Generate Leads for Free and Maximise Your Sales Conversion
+permalink: /digital-programmes/mc-ws/oms/
+description: SIRS Workshop - Generate Leads for Free and Maximise Your Sales Conversion
+image: ""
 third_nav_title: Masterclasses & Workshops
 ---
-
 <img src="/images/images-2021/DigitalProgrammes-HImage-Workshop.png" style="width:100%;">
 
 <h4 style="text-align:center;">Next intake:</h4>
@@ -19,30 +18,30 @@ third_nav_title: Masterclasses & Workshops
     </tr>
 </table></center>
 
-<p>E-commerce is a flourishing industry set to thrive with long-term growth globally. Among the Southeast Asian market, Singapore has emerged as the central e-commerce hub, valued at US$5.9 billion* in 2021 and is forecasted to increase to US$10 billion* by 2026 - a hefty 69% growth in five years!</p>
+<p>Our society is transforming in the technological evolution, and every advancement is influencing how businesses attract consumers to buy from them every which way in a fiercely competitive and highly connected market.</p>
 
-<p>The online economy boom spurred a significant change in consumer buying trends, amounting to more than 3 million* e-commerce shoppers in Singapore, registering the highest basket size at S$67.40* among the region, and has an internet penetration rate of 98%*. The post-pandemic era sees consumers with transforming digital habits and demanding deeper engagement through integrated shopping experiences. As the e-commerce consumer population continues rising, average basket size increasing, and online retail penetration growing, how is your e-commerce business faring in this fiercely competitive digital landscape? Now is the time to evaluate your e-commerce channels to determine the gaps and opportunities in improving user experience and business success.</p>
+<p>Whether you are an established business or looking to start one, the existing media and channels you own are some of the most powerful resources you can leverage to attain significant and sustainable results for your business. With a well-developed owned media strategy, you can drive and maximise tremendous returns organically while having direct control and ownership over your content and brand messaging.</p>
 
-<p>Learn to develop an optimal e-commerce user experience, apply the knowledge to your online channels and significantly improve the chances of getting accredited with the CaseTrust quality mark. Being accredited instils confidence in consumers that your business is one they can trust, thereby enhancing your brand, benefiting your business in more ways than one.</p>
-
-<small>*Data source:
-<a href="https://www.trade.gov/market-intelligence/singapores-e-commerce-market">https://www.trade.gov/market-intelligence/singapores-e-commerce-market</a></small>
+<p>While paid and earned media are vital for a successful holistic marketing model, ramping up the strength of owned media is paramount for your business to enjoy greater reach, improve cost efficiency and achieve a more profitable ROI. Better still, an organically-generated business presence is more effective in instilling consumers’ trust in your business, increasing their willingness to engage with you. Through a series of hands-on development work in this workshop, you will learn to devise an owned media strategy that drives quality leads for you continually for free and which will have higher propensities to convert into sales!</p>
 
 <h4>Course Title | Mode of Training | Course Ref</h4>
 
-<p>CaseTrust Accreditation Scheme for E-Commerce Business<br>Classroom & Asynchronous E-Learning - TGS-To be confirmed</p>
+<p>Generate Leads for Free & Maximise Your Sales Conversion<br>Classroom & Asynchronous E-Learning - TGS-To be confirmed</p>
 
 <h4>Outline</h4>
-* Assess accreditation readiness of your e-commerce channels
-* Determine the gaps and opportunities of e-commerce channels through understanding the accreditation criteria
-* Identify required solutions to close criteria gaps based on understanding the optimal e-commerce channel customer experience
+* Identify the key owned media channels through understanding their respective roles and value in the customer acquisition strategy.
+* Drive quality organic customer acquisition by developing an effective owned media funnel strategy.
+* Determine the right SEO-driven content strategy from data insights and understanding SEO concepts.
+* Develop content that improves the rate of engagement by applying audience and media segmentation with data insights.
+* Improve the rate of sales conversions through applying a user journey that effectively guides an enhanced user experience.
+
 
 <h4>Who Should Attend</h4>
-<p>This workshop is suitable for businesses with e-commerce channels, brick-and-mortar retailers exploring e-commerce, and interested professionals.</p>
+<p>This workshop is suitable for any business or individual that needs to overcome the challenge of not being able to improve their digital sales and/or wants to discover ways of maximising the returns from their digital efforts.</p>
 	
 
 <h4>Duration</h4>
-<p>9 hours (9am - 6pm)<br>Includes 1 hour of Asynchronous E-Learning</p>
+<p>18 hours (9am - 6pm)<br>Includes 2 hours of Asynchronous E-Learning</p>
 
 
 <h4>Fees (GST 8% - For payment made on/after 1 Jan 2023)</h4>
@@ -56,32 +55,32 @@ third_nav_title: Masterclasses & Workshops
 
 <tr>
 <td>Full Fee</td>
-<td>$540</td>
+<td>$750</td>
 </tr>
 
 <tr>
   <td>Singapore Citizen<sup>0</sup> (70% funding)</td>
-<td>$160.50</td>
+<td>$240.75</td>
 </tr>
 	
 <tr>
   <td>Singapore Citizen 40 years and above<sup>0,1</sup> (90% funding)</td>
-<td>$60.50</td>
+<td>$90.75</td>
 </tr>
 
 <tr>
   <td>Singapore Citizen sponsored by SMEs<sup>0,2</sup> (90% funding)</td>
-<td>$60.50</td>
+<td>$90.75</td>
 </tr>
 
 <tr>
   <td>Singapore PR (70% funding)</td>
-<td>$162</td>
+<td>$243</td>
 </tr>
 
 <tr>
 <td>Singapore PR sponsored by SMEs<sup>2</sup> (90% funding)</td>
-<td>$62</td>
+<td>$93</td>
 </tr>
 
 </table>
@@ -102,13 +101,11 @@ third_nav_title: Masterclasses & Workshops
 <b>For self-sponsored participants:</b>
 <ul>
   <li><a href="/services/consultancy/skillsfuture-credit">SkillsFuture Credit</a></li>
-  <li><a href="/services/consultancy/wss-individuals">Workfare Skills Support (WSS) Scheme (For Individuals)</a></li>
 </ul>
 
 <b>For company-sponsored participants:</b>
 <ul>
   <li><a href="/services/consultancy/absentee-payroll-ap">Absentee Payroll</a></li>
-  <li><a href="/services/consultancy/wss-companies">Workfare Skills Support (WSS) Scheme (For Companies)</a></li>
   </ul>
 
 <p>For SkillsFuture course reference, please click <a href="/files/documents-2021/SIRS-SkillsFuture-CourseRefNumber.pdf">here.</a></p>
