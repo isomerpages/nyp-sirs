@@ -22,6 +22,7 @@ third_nav_title: Consultancy
 
 <h4>For Individuals</h4>
 <ul>
+<li><a href="/services/consultancy/studyloan">Study Loan for SIRS' Learners</a></li>
 <li><a href="/services/consultancy/skillsfuture-credit">SkillsFuture Credit (SFC)</a></li>
 <li><a href="/services/consultancy/skillsfuture-midcareer-enhanced-subsidy">SkillsFuture Mid-Career Enhanced Subsidy (MCES)</a></li>
 <li><a href="/services/consultancy/skillsfuture-qualification-award">SkillsFuture Qualification Award</a></li>
