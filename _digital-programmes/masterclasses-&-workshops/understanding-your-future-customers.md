@@ -145,8 +145,6 @@ Outside of work, Jien finds beauty in the less quantifiable worlds of yoga and a
   <li><a href="/services/consultancy/wss-companies">Workfare Skills Support (WSS) Scheme (For Companies)</a></li>
   </ul>
 
-<p>For SkillsFuture course reference, please click <a href="/files/documents-2021/SIRS-SkillsFuture-CourseRefNumber.pdf">here.</a></p>
-
 <p>For more information about funding and support, click <a href="/services/consultancy">here.</a></p>
 
 <div style="width:50%;float:left;"><center><a href="https://form.gov.sg/#!/61d7eca63cff1000121629f6" style="background-color:#06225e; border:white; color:white; 
