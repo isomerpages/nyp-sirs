@@ -4,11 +4,16 @@ permalink: /services/consultancy/studyloan/
 description: Study Loan for SIRS' Learners
 third_nav_title: Consultancy
 ---
-<h4>What is AP?</h4>
-<p>AP funding is a grant to help employers defray the manpower costs incurred when they send their employees for certifiable skills training.</p>
+<h4>What is Study Loan for SIRS' Learners?</h4>
+SIRS' learners of [WSQ Full Qualification Programme](https://www.sirs.edu.sg/wsq-programmes/wsq-full-qualification-programmes/) can apply for loans from the bank (such as [POSB](https://www.posb.com.sg/personal/loans/education-loans/posb-further-study-assist) or [OCBC](https://www.frankbyocbc.com/products/investments/edu-loan)) at their respective websites or branches.
 
-<h4>What does AP comprise of?</h4>
-<p>With effect from 1 January 2022, company will recieve a fixed Absentee Payroll (AP)* rate of $4.50 per hour, capped at $100,000 per enterprise per calendar year. 
-<br><br>
-*AP funding will be computed based on the actual number of training hours attended by the trainee. 
-<br><br> For more information,  please click <a href="https://www.myskillsfuture.gov.sg/content/portal/en/career-resources/career-resources/education-career-personal-development/skillsfuture-funding-changes.htm">here</a>.
+Please note that these loans are provided directly to the students by the bank and are commercial loan agreements between the learners/applicants and the bank. 
+
+These are subject to each bank's loan policy, the bank's credit scoring of the learners/applicants, and their respective terms and conditions. It is advisable for learners to carefully review all terms and conditions of each bank before signing up. 
+
+**SIRS has no influence and interest in these loan applications. **
+
+<h4>Where can I get more information?</h4>
+For more information on our [WSQ Full Qualification Programmes](https://www.sirs.edu.sg/wsq-programmes/wsq-full-qualification-programmes/), please contact our Customer Relations Centre via call 6222 7477, WhatsApp 9223 2979 or email [courses@sirs.edu.sg](mailto:courses@sirs.edu.sg).
+
+For more information on study loans, please check with the respective banks of your interest. 
