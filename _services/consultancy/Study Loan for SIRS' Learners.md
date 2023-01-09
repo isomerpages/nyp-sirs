@@ -11,9 +11,9 @@ Please note that these loans are provided directly to the students by the bank a
 
 These are subject to each bank's loan policy, the bank's credit scoring of the learners/applicants, and their respective terms and conditions. It is advisable for learners to carefully review all terms and conditions of each bank before signing up. 
 
-**SIRS has no influence and interest in these loan applications. **
+<b>SIRS has no influence and interest in these loan applications.</b>
 
 <h4>Where can I get more information?</h4>
 For more information on our [WSQ Full Qualification Programmes](https://www.sirs.edu.sg/wsq-programmes/wsq-full-qualification-programmes/), please contact our Customer Relations Centre via call 6222 7477, WhatsApp 9223 2979 or email [courses@sirs.edu.sg](mailto:courses@sirs.edu.sg).
 
-For more information on study loans, please check with the respective banks of your interest. 
+For more information on study loans, please check with the respective banks of your interest.
