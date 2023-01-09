@@ -5,7 +5,7 @@ description: Study Loan for SIRS' Learners
 third_nav_title: Consultancy
 ---
 <h4>What is Study Loan for SIRS' Learners?</h4>
-SIRS' learners of [WSQ Full Qualification Programme](https://www.sirs.edu.sg/wsq-programmes/wsq-full-qualification-programmes/) can apply for loans from the bank (such as [POSB](https://www.posb.com.sg/personal/loans/education-loans/posb-further-study-assist) or [OCBC](https://www.frankbyocbc.com/products/investments/edu-loan)) at their respective websites or branches.
+SIRS' learners of [WSQ Full Qualification Programmes](https://www.sirs.edu.sg/wsq-programmes/wsq-full-qualification-programmes/) can apply for loans from the bank (such as [POSB](https://www.posb.com.sg/personal/loans/education-loans/posb-further-study-assist) or [OCBC](https://www.frankbyocbc.com/products/investments/edu-loan)) at their respective websites or branches.
 
 Please note that these loans are provided directly to the students by the bank and are commercial loan agreements between the learners/applicants and the bank. 
 
