@@ -9,7 +9,7 @@ SIRS' learners of [WSQ Full Qualification Programme](https://www.sirs.edu.sg/wsq
 
 Please note that these loans are provided directly to the students by the bank and are commercial loan agreements between the learners/applicants and the bank. 
 
-These are subject to each bank's loan policy, the bank's credit scoring of the learners/applicants, and their respective terms and conditions. It is advisable for learners to carefully review all terms and conditions of each bank before signing up. 
+These are subject to each bank's loan policy, the credit scoring of the learners/applicants by the bank, and the respective terms and conditions of the bank. It is advisable for learners to carefully review all terms and conditions of each bank before signing up. 
 
 <b>SIRS has no influence and interest in these loan applications.</b>
 
