@@ -7,7 +7,7 @@ third_nav_title: Consultancy
 <p><img src="/images/images-2021/Services_Consultancy.png" style="width:100%;"></p>
 <p>SIRS has enabled many retailers to successfully implement training & capability development initiatives through our well-tailored and enterprise-centric solutions. Our team of consultants work closely with retailers to diagnose and develop speed-to-market business solutions, collaborations, and recommendations to help them in their business transformation. Besides helping companies become more successful in people development and business excellence, we also work with individuals who are interested in upskilling themselves for a career in retail.</p>
 
-<p>We provide advice on the vast array of government assistance such as:</p>
+<p>We provide advice on the vast array of funding support such as:</p>
 
 <h4>For Companies</h4>
 <ul>
@@ -22,6 +22,7 @@ third_nav_title: Consultancy
 
 <h4>For Individuals</h4>
 <ul>
+<li><a href="/services/consultancy/studyloan">Study Loan for SIRS' Learners</a></li>
 <li><a href="/services/consultancy/skillsfuture-credit">SkillsFuture Credit (SFC)</a></li>
 <li><a href="/services/consultancy/skillsfuture-midcareer-enhanced-subsidy">SkillsFuture Mid-Career Enhanced Subsidy (MCES)</a></li>
 <li><a href="/services/consultancy/skillsfuture-qualification-award">SkillsFuture Qualification Award</a></li>

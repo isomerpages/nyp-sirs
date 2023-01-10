@@ -115,9 +115,9 @@ With emerging technologies and evolving consumer behaviour, the ability to lead 
 
 <b>For self-sponsored participants:</b>
 <ul>
-  <li><a href="/services/consultancy/skillsfuture-credit">SkillsFuture Credit</a></li>
+<li><a href="/services/consultancy/skillsfuture-credit">SkillsFuture Credit</a></li>
 <li><a href="/services/consultancy/wss-individuals">Workfare Skills Support (WSS) Scheme (For Individuals)</a></li> 
-
+<li><a href="/services/consultancy/studyloan">Study Loan for SIRS' Learners</a></li>
 </ul>
 
 <b>For company-sponsored participants:</b>
@@ -126,8 +126,6 @@ With emerging technologies and evolving consumer behaviour, the ability to lead 
   <li><a href="/services/consultancy/wss-companies">Workfare Skills Support (WSS) Scheme (For Companies)	<li><a href="/services/consultancy/skillsfuture-enterprise-credit">SkillsFuture Enterprise Credit</a></li></a></li>
   </ul>
   
-<p>For SkillsFuture course reference, please click <a href="/files/documents-2021/SIRS-SkillsFuture-CourseRefNumber.pdf">here.</a></p>
-
 <p>For more information about funding and support, click <a href="/services/consultancy">here.</a></p>
 
 <div style="width:50%;float:left;"><center><a href="https://form.gov.sg/60d962c7fd042700115bf08b" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Register Now</a></center></div>

@@ -227,8 +227,6 @@ Travel insurance
 	<li><a href="/services/consultancy/wss-companies">Workfare Skills Support (WSS) Scheme (For Companies)</a></li>
   </ul>
   
-<p>For SkillsFuture course reference, please click <a href="/files/documents-2021/SIRS-SkillsFuture-CourseRefNumber.pdf">here.</a></p>
-
 <p>For more information about funding and support, click <a href="/services/funding-and-advisory">here.</a></p>
 
  

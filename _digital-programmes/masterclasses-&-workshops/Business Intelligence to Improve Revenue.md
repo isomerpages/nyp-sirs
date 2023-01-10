@@ -19,7 +19,7 @@ third_nav_title: Masterclasses & Workshops
     </tr>
 </table></center>
 
-<p>It is not uncommon for businesses to wrangle various data points in this data-driven era, but have they been effectively processing, analysing, and interpreting the voluminous raw information into usable and actional knowledge to help them achieve business growth?</p>
+<p>It is not uncommon for businesses to wrangle various data points in this data-driven era, but have they been effectively processing, analysing, and interpreting the voluminous raw information into usable and actionable knowledge to help them achieve business growth?</p>
 
 <p>Business Intelligence (BI) provides a comprehensive view of a business’s current state of operations. Through its range of data analytics and visualisation tools, BI translates data into easy-to-digest insights to enable decision-makers to make strategic and informed judgments, helping businesses operate more efficiently and in turn, increase their revenue.</p>
 
@@ -35,7 +35,7 @@ third_nav_title: Masterclasses & Workshops
 * Understand the applications of data and how to derive insights from it
 * Identify various data collection methods 
 * Present different types of data for sales and operations
-* Use Microsoft Power BI as a data visualisation tool to present data in a meaingful way, identify trends, and analyse business performance
+* Use Microsoft Power BI as a data visualisation tool to present data in a meaningful way, identify trends, and analyse business performance
 
 <h4>Who Should Attend</h4>
 <p>This workshop is suitable for Sales Executives/Managers, Business Owners, Entrepreneurs, and individuals who are interested in compiling and analysing data using Microsoft Power BI.</p>
@@ -115,8 +115,6 @@ third_nav_title: Masterclasses & Workshops
   <li><a href="/services/consultancy/absentee-payroll-ap">Absentee Payroll</a></li>
   <li><a href="/services/consultancy/wss-companies">Workfare Skills Support (WSS) Scheme (For Companies)</a></li>
   </ul>
-
-<p>For SkillsFuture course reference, please click <a href="/files/documents-2021/SIRS-SkillsFuture-CourseRefNumber.pdf">here.</a></p>
 
 <p>For more information about funding and support, click <a href="/services/consultancy">here.</a></p>
 
