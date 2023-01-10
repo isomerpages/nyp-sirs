@@ -35,7 +35,7 @@ third_nav_title: Masterclasses & Workshops
 * Understand the applications of data and how to derive insights from it
 * Identify various data collection methods 
 * Present different types of data for sales and operations
-* Use Microsoft Power BI as a data visualisation tool to present data in a meaingful way, identify trends, and analyse business performance
+* Use Microsoft Power BI as a data visualisation tool to present data in a meaningful way, identify trends, and analyse business performance
 
 <h4>Who Should Attend</h4>
 <p>This workshop is suitable for Sales Executives/Managers, Business Owners, Entrepreneurs, and individuals who are interested in compiling and analysing data using Microsoft Power BI.</p>
