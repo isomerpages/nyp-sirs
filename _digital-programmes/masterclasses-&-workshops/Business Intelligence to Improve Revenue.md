@@ -19,7 +19,7 @@ third_nav_title: Masterclasses & Workshops
     </tr>
 </table></center>
 
-<p>It is not uncommon for businesses to wrangle various data points in this data-driven era, but have they been effectively processing, analysing, and interpreting the voluminous raw information into usable and actional knowledge to help them achieve business growth?</p>
+<p>It is not uncommon for businesses to wrangle various data points in this data-driven era, but have they been effectively processing, analysing, and interpreting the voluminous raw information into usable and actionable knowledge to help them achieve business growth?</p>
 
 <p>Business Intelligence (BI) provides a comprehensive view of a business’s current state of operations. Through its range of data analytics and visualisation tools, BI translates data into easy-to-digest insights to enable decision-makers to make strategic and informed judgments, helping businesses operate more efficiently and in turn, increase their revenue.</p>
 
