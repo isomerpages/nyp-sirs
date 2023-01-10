@@ -22,7 +22,7 @@ third_nav_title: Masterclasses & Workshops
 
 <p>There are three objectives when writing advertising or promotional content – attracting the right audience, capturing their attention, and getting them to take action. With millions of marketing messages delivered daily, readers’ selective minds only have 8.25 seconds* of attention span for your content to do its magic in grabbing their attention, retaining their interest and keeping them informed of your desired message.</p> 
 	
-<p>Including Blockbuster Bullets in your copywriting can help you break up long blocks of text into easily scannable content and effectively captivate readers, turning them into engaged audiences who will respond to your call to action and maximise your conversion. Join this workshop and learn to write persuasive copy bullets that that attract, inspire and compel action!</p>
+<p>Including Blockbuster Bullets in your copywriting can help you break up long blocks of text into easily scannable content and effectively captivate readers, turning them into engaged audiences who will respond to your call to action and maximise your conversion. Join this workshop and learn to write persuasive copy bullets that attract, inspire and compel action!</p>
 
 <small>*Data source:
 <a href="https://www.wyzowl.com/human-attention-span/">https://www.wyzowl.com/human-attention-span/</a></small>
