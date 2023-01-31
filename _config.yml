@@ -23,7 +23,7 @@ exclude:
   - vendor/ruby/
   - Gemfile
   - Gemfile.lock
-favicon: /images/sirs-favicon.ico
+favicon: /images/SIRS-Logo-Favicon.ico
 google_analytics: UA-118644499-7
 permalink: none
 baseurl: ""
