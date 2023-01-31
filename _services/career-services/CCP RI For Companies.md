@@ -27,10 +27,6 @@ Please refer to the [factsheet](/files/documents-2021/1 Factsheet CCP-RI Employe
 
 <h4>Funding and Support</h4>
 
-<p>To encourage employers to take on mid-career switchers without the requisite experience or skills, funding support will be provided during a CCP conversion programme, consists of CCP training duration (classroom training delivered by SIRS, with structured OJT at the hiring company) and an additional period of retention equivalent to the training duration.</p>
-
-<p>For individuals newly hires on Place-and-Train CCPs for the period between 1 September 2020 to 28 February 2021, the Salary Support funding will now be disbursed to participating employers over a longer period, comprising the CCP training duration and an additional period of retention equivalent to the training duration.</p>
-
 <b>Salary Support</b>
 <ol>
 	<li>Up to 70% of trainee's monthly basic salary (capped at $4,000 per month) for Singapore Citizens/PRs age of 40</li>
