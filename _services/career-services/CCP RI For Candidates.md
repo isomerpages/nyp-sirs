@@ -22,7 +22,7 @@ Appointed by the Workforce Singapore, the Singapore Institute of Retail Studies 
 * New hire not more than 3 months with a company
 * Managerial-level or equivalent experience in a non-related role prior to joining the CCP
 
-Please refer to the fact sheet for a detailed list of eligibility criteria.
+Please refer to the [factsheet](1 Factsheet CCP-RI Employer_Feb 23.pdf) for a detailed list of eligibility criteria.
 
 <div style="width:50%;float:left;"><center><a href="https://conversion.mycareersfuture.gov.sg/Portal/ProgramDetails.aspx?ProgID=P00002107" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Registration (PMET)</a></center></div>
 
