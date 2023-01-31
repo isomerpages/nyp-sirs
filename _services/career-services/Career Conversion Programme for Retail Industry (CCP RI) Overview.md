@@ -5,22 +5,25 @@ breadcrumb: Professional Conversion Programme (PCP) Overview
 third_nav_title: Career Services
 description: ""
 ---
+![Image for Career Conversion Programme for Retail Industry](/images/images-2021/Services-CareerServices-CCP-RI-Header-web.png)
 
-<img src="/images/images-2021/Services-CareerServices-PCP.jpg" style="width:100%;"><br>
+<p>The Career Conversion Programme for Retail Industry (CCP-RI) aims to help Professionals,
+Managers, Executives, and Technicians (PMETs) mid-career switchers undergo skills conversion to
+gain relevant competencies and take on new, exciting job functions in Retail Operations, Brand
+Management, Marketing, Merchandising or E-commerce (Omni-Channel).</p>
 
-<p>As part of the Adapt and Grow Initiative, Workforce Singapore (WSG) and SkillsFuture Singapore (SSG) jointly developed the Career Conversion Programme (CCP) to help Professionals, Managers, Executives, and Technicians (PMETs) mid-career switchers undergo skills conversion to gain relevant competencies and take on new, exciting careers in different industries.</p>
+<p>Appointed by the Workforce Singapore, the Singapore Institute of Retail Studies (SIRS) offers CCP-RI
+to assist and support employers with manpower challenges in the face of the ever-changing retail
+landscape. Through structured classroom and on-the-job training (OJT), retailers are better able to
+align their training according to their specific business needs.</p>
 
-<p>Singapore Institute of Retail Studies (SIRS) is the appointed programme manager for CCP in the retail sector, assisting and supporting employers with manpower challenges in the face of the ever-changing retail landscape. Through structured classroom and on-the-job training (OJT), retailers are better able to align their training according to their specific business needs.</p>
+<h4>CCP-RI for Candidates</h4>
 
-<p>SIRS offers Career Conversion Programmes (CCPs) for the Retail Professional and Digital Professional (Retail) to equip Professionals, Managers, Executives, and Technicians (PMETs) transiting into these new careers with the right skillsets, and support employers in attracting talents for enterprise capability building.</p>
+![Image for Career Conversion Programme for Retail Industry (Candidates)](/images/images-2021/Services-CareerServices-CCP-RI-Candidates-Header-web.png)
 
-<h4>CCP for Digital Professional (Retail)</h4>
+<p>SIRS offers the CCP-RI for PMETs who aspire to pivot to new careers in the Retail and Digital Commerce space.</p>
 
-<img src="/images/images-2021/Services-CareerServices-PCP-DP.jpg" style="width:100%:">
-
-<p>PMET mid-career switchers will be reskilled with the necessary competencies to move into new job roles in retail such as Online Business or E-commerce Business Development. They will assist retailers in digitalising their businesses, and provide seamless O2O integration.</p>
-
-<p>Under the CCP-DP (Retail), participants will have to complete the following programmes:</p>
+<p>Benefits</p>
 
 <ol>
 	<li>Digital Commerce Operations</li>
