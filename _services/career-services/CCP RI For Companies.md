@@ -43,5 +43,4 @@ Please refer to the [factsheet](/files/documents-2021/1 Factsheet CCP-RI Employe
 
 <small><i>*Funding caps vary and apply for CCP-RI</i></small>
 
-
-<div style="width:50%;float:center;"><center><a href="https://conversion.mycareersfuture.gov.sg/Portal/ProgramDetails.aspx?ProgID=P00002107" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Registration (Companies)</a></center></div>
+<center><a href="https://conversion.mycareersfuture.gov.sg/Portal/ProgramDetails.aspx?ProgID=P00002107" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Registration (Companies)</a></center>
