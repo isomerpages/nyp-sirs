@@ -43,4 +43,6 @@ Please refer to the [factsheet](/files/documents-2021/1 Factsheet CCP-RI Employe
 
 <small><i>*Funding caps vary and apply for CCP-RI</i></small>
 
+For more information on this programme, please email to [ccp-ri@sirs.edu.sg](mailto:ccp-ri@sirs.edu.sg)
+
 <center><a href="/files/documents-2021/Reg_Companies_CCP for Retail Industry_Application Form (new hires).pdf" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Registration (Companies)</a></center>
