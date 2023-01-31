@@ -26,6 +26,8 @@ Make a switch to the dynamic retail industry for an exciting and satisfying care
 
 Please refer to the [factsheet](/files/documents-2021/1 Factsheet CCP-RI Employer_Feb 23.pdf) for a detailed list of eligibility criteria.
 
+For more information on this programme, please email to [ccp-ri@sirs.edu.sg](mailto:ccp-ri@sirs.edu.sg)
+
 <div style="width:50%;float:left;"><center><a href="https://conversion.mycareersfuture.gov.sg/Portal/ProgramDetails.aspx?ProgID=P00002107" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Registration (PMET)</a></center></div>
 
 <div style="width:50%;float:left;"><center><a href="https://conversion.mycareersfuture.gov.sg/Portal/ProgramDetails.aspx?ProgID=P00002108" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Registration (RnF)</a></center></div>
