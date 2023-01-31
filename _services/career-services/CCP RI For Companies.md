@@ -29,12 +29,11 @@ Please refer to the [factsheet](/files/documents-2021/1 Factsheet CCP-RI Employe
 
 <b>Salary Support</b>
 <ol>
-	<li>Up to 70% of trainee's monthly basic salary (capped at $4,000 per month) for Singapore Citizens/PRs age of 40</li>
-	<li>Up to 90% of monthly salary for CCP training duration (capped at $6,000 per month) for Long-term Unemployed<sup>1</sup> Singapore Citizen (SC) trainees or Mature<sup>2</sup> SC trainees</li>
+	<li>Up to 70% of monthly salary for CCP training duration (capped at $4,000 per month) for Singapore Citizen (SC) or Permanent Residents (PR)</li>
+	<li>Up to 90% of monthly salary for CCP training duration (capped at $6,000 per month) for Long-term Unemployed<sup>1</sup> SC or Mature SC aged 40 and above</li>
 	</ol>
 
-<small><i><sup>1</sup>Long-term Unemployed (LTU) is defined as being unemployed and actively seeking employment for six months or more<br>
-	<sup>2</sup>Mature trainee is defined as being aged 40 and above.</i></small><br>
+<small><i><sup>1</sup>Long-term Unemployed (LTU) is defined as being unemployed and actively seeking employment for six months or more</i></small>
 	
 <b>Course Fee Subsidy</b>
 <ol>
@@ -42,7 +41,7 @@ Please refer to the [factsheet](/files/documents-2021/1 Factsheet CCP-RI Employe
 	<li>SMEs or trainees eligible for Mid-Career Enhanced Subsidy (MCES): Up to 90% SSG funding*</li>
 	</ol>
 
-<small><i>*Funding caps vary and apply for respective CCPs</i></small>
+<small><i>*Funding caps vary and apply for CCP-RI</i></small>
 
 
 <div style="width:50%;float:center;"><center><a href="https://conversion.mycareersfuture.gov.sg/Portal/ProgramDetails.aspx?ProgID=P00002107" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Registration (Companies)</a></center></div>
