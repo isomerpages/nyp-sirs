@@ -1,12 +1,9 @@
 ---
-title: 'SkillsFuture Work-Study Programme'
-permalink: /services/career-services/skillsfuture-work-study-programmes
-breadcrumb: 'SkillsFuture Work-Study Programme'
-third_nav_title: 'Career Services'
-
+title: SkillsFuture Work-Study Programme
+permalink: /services/career-services/skillsfuture-work-study-programmes/
+breadcrumb: SkillsFuture Work-Study Programme
+third_nav_title: Career Services
 ---
-
-
 <img src="/images/images-2021/Services_CareerServices_SkillsFuture Work-Study Programme.png" style="width:100%;">
 
 <p>The SkillsFuture Work-Study Programme gives fresh graduates from polytechnics and the Institute of Technical Education (ITE) a head-start in careers related to their discipline of study. It provides them with more opportunities, after graduation, to build on the skills and knowledge they acquired in school, and better supports their transition into the workforce.</p>
@@ -17,7 +14,6 @@ third_nav_title: 'Career Services'
   <li>A head-start in your Degree pursuit, enrol for 2 modules under SUSS Bachelor of Science in Marketing</li>
   <li>Fast track progression to managerial positions*</li>
   <li>$5,000 sign-on bonus for Singapore Citizens*</li>
-  <li>Receive $1,000 SkillsFuture Qualification Award upon completion of sponsored WSQ Specialist Diploma in Retail (Operations) for Singapore Citizens</li>
   <li>Guaranteed minimum salary of $2,000</li>
   </ul>
   
@@ -27,7 +23,6 @@ third_nav_title: 'Career Services'
   <li>A head-start in your Diploma pursuit, enrol for 2 modules under NYP Diploma in Business Practice (CRM)</li>
   <li>Fast track progression to supervisory positions*</li>
   <li>$5,000 sign-on bonus for Singapore Citizens*</li>
-  <li>Receive $200 SkillsFuture Qualification Award upon completion of sponsored WSQ Advanced Certificate in Retail (Operations) for Singapore Citizens</li>
   <li>Guaranteed minimum salary of $1,400 - $1,600</li>
   </ul>
 
