@@ -10,6 +10,8 @@ image: /images/images-2021/Services-CareerServices-CCP-RI-Candidates-Header-web.
 
 Appointed by the Workforce Singapore, the Singapore Institute of Retail Studies (SIRS) offers the Career Conversion Programme for Retail Industry (CCP-RI) for PMETs who aspire to pivot to new careers in the Retail and Digital Commerce space. 
 
+Make a switch to the dynamic retail industry for an exciting and satisfying career!
+
 <h4>Key Benefits</h4>
 * Effective learning through structured classroom and on-the-job training
 * Acquire in-demand knowledge and skills from SIRS' pool of experienced practitioner trainers
