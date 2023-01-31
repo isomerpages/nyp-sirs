@@ -6,6 +6,15 @@ sections:
   - hero:
       background: /images/images-2021/Homepage_Banner2.png
   - infopic:
+      title: Career Conversion Programme for Retail Industry (CCP-RI)
+      description: CCP-RI aims at supporting career conversions of new hires and
+        reskilling existing employees to take on jobs in growth areas or
+        redesigned job roles.
+      button: more about CCP-RI
+      url: /services/career-services/ccp-overview/
+      alt: SIRS CCP for Retail Industry
+      image: /images/images-2021/Services-CareerServices-CCP-RI-Header-web.png
+  - infopic:
       title: GST Rate Change 2023
       description: The Singapore Government has announced that goods and services tax
         (GST) rate increase will be staggered over two years.
@@ -22,15 +31,6 @@ sections:
       url: /success-and-articles/articles/itm2025/
       image: /images/images-2021/Home-Highlights-ITM2025.jpg
       alt: Image alt text
-  - infopic:
-      title: Sell and Earn on TikTok
-      description: Take advantage of TikTok’s fast-growing audience base to expand
-        your marketing channels, foster customer engagement and increase
-        earnings!
-      button: more about this workshop
-      url: /digital-programmes/mc-ws/tiktok/
-      alt: Sell and Earn on TikTok
-      image: /images/images-2021/Home-Highlights-TikTok_2.png
   - infopic:
       title: Start Your Business at Zero Cost Using Affiliate Marketing
       description: Affiliate marketing is the easiest and quickest way to start
