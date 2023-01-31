@@ -18,8 +18,8 @@ landscape. Through structured classroom and on-the-job training (OJT), retailers
 align their training according to their specific business needs.</p>
 
 <h4>CCP-RI Programme</h4>
-* [For Candidates](/digital-programmes/mentorship-programmes/dmp/)
-* [For Employers](/digital-programmes/Mentorship-Programmes/ccmp/)
+* [For Candidates](/services/career-services/ccp-candidates/)
+* [For Companies](/services/career-services/ccp-companies/)
     
 
 <h4>Benefits</h4>
