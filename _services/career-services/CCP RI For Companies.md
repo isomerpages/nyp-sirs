@@ -20,7 +20,7 @@ Hire a mid-career PMET to support your business growth today!
 
 <h4>Eligibility</h4>
 * Registered or incorporated in Singapore
-* Offer a valid employment contract
+* Offer a full-time employment contract on permanent terms
 * Provide structured on-the-job training for candidate
 
 Please refer to the [factsheet](/files/documents-2021/1 Factsheet CCP-RI Employer_Feb 23.pdf) for a detailed list of eligibility criteria.
