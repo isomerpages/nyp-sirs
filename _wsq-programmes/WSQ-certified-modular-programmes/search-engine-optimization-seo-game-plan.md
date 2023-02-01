@@ -12,7 +12,7 @@ third_nav_title: WSQ Certified Modular Programmes
       <th style="text-align:center;width:50%;">Online Training</th>
     </tr>
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">8, 9, 10, 15, 16, 17, 22 & 23 Feb (Night Class)</td>
+      <td style="text-align:center;width:50%;">Night Class:<br>8, 9, 10, 15, 16, 17, 22 & 23 Feb<br>Day Class:<br>11, 13, 18 & 20 Apr</td>
     </tr>
 </table></center>
 
