@@ -125,7 +125,9 @@ encouraged to attend our <a href="/digital-programmes/skillsfuture-series/introd
 <b>For self-sponsored participants:</b>
 <ul>
   <li><a href="/services/consultancy/skillsfuture-credit">SkillsFuture Credit</a></li>
-  <li><a href="/services/consultancy/wss-individuals">Workfare Skills Support (WSS) Scheme (For Individuals)</a></li>
+  <li><a href="/services/consultancy/wss-individuals">Workfare Skills Support (WSS) Scheme (For Individuals)
+	<li><a href="/services/consultancy/utap">Union Training Assistance Programme (UTAP)
+	</a></li>
 </ul>
 
 <b>For company-sponsored participants:</b>
