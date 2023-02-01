@@ -15,7 +15,7 @@ third_nav_title: E-Commerce Programmes
     </tr>
     <tr style="text-align:center;">
       <td style="text-align:center;width:50%;">2 Mar (Thu)</td>
-      <td style="text-align:center;width:50%;">9 Jan (Mon)</td>
+      <td style="text-align:center;width:50%;">To be confirmed</td>
     </tr>
 </table></center>
 
