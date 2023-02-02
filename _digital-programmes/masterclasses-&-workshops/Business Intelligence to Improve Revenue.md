@@ -14,7 +14,7 @@ third_nav_title: Masterclasses & Workshops
       <th style="text-align:center;width:50%;">Face-to-Face</th>
     </tr>
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">17-18 Feb (Fri-Sat)</td>
+      <td style="text-align:center;width:50%;">17-18 Feb (Fri-Sat)<br>26-27 Apr (Wed-Thu)</td>
 <br>
     </tr>
 </table></center>
@@ -108,6 +108,7 @@ third_nav_title: Masterclasses & Workshops
 <ul>
   <li><a href="/services/consultancy/skillsfuture-credit">SkillsFuture Credit</a></li>
   <li><a href="/services/consultancy/wss-individuals">Workfare Skills Support (WSS) Scheme (For Individuals)</a></li>
+	<li><a href="/services/consultancy/utap">Union Training Assistance Programme (UTAP)</a></li>
 </ul>
 
 <b>For company-sponsored participants:</b>

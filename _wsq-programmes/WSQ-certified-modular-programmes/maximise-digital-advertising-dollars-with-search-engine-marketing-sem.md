@@ -12,7 +12,7 @@ third_nav_title: WSQ Certified Modular Programmes
       <th style="text-align:center;width:50%;">Online Training</th>
     </tr>
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">To be confirmed</td>
+      <td style="text-align:center;width:50%;">Day Class:<br>28 Feb & 2, 7, 9 Mar (Tue & Thu)</td>
     </tr>
 </table></center>
 
@@ -113,6 +113,7 @@ third_nav_title: WSQ Certified Modular Programmes
 <ul>
   <li><a href="/services/consultancy/skillsfuture-credit">SkillsFuture Credit</a></li>
   <li><a href="/services/consultancy/wss-individuals">Workfare Skills Support (WSS) Scheme (For Individuals)</a></li>
+	<li><a href="/services/consultancy/utap">Union Training Assistance Programme (UTAP)</a></li>
 </ul>
 
 <b>For company-sponsored participants:</b>

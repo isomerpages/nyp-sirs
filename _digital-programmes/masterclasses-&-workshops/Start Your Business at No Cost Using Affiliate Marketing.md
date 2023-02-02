@@ -14,7 +14,7 @@ third_nav_title: Masterclasses & Workshops
       <th style="text-align:center;width:50%;">Face-to-Face</th>
     </tr>
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">9-10 Jan (Mon-Tue)<br>15-16 Mar (Wed-Thu)</td>
+      <td style="text-align:center;width:50%;">15-16 Mar (Wed-Thu)</td>
     </tr>
 </table></center>
 
@@ -110,6 +110,7 @@ Affiliate Marketing<br>Classroom & Asynchronous E-Learning - TGS-2022016627</p>
 <ul>
   <li><a href="/services/consultancy/skillsfuture-credit">SkillsFuture Credit</a></li>
   <li><a href="/services/consultancy/wss-individuals">Workfare Skills Support (WSS) Scheme (For Individuals)</a></li>
+	<li><a href="/services/consultancy/utap">Union Training Assistance Programme (UTAP)</a></li>
 </ul>
 
 <b>For company-sponsored participants:</b>

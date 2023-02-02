@@ -16,7 +16,7 @@ third_nav_title: Masterclasses & Workshops
     </tr>
     <tr style="text-align:center;">
       <td style="text-align:center;width:50%;">To be confirmed</td>
-      <td style="text-align:center;width:50%;">19 Jan (Thu)<br>9 Mar (Thu)</td>
+      <td style="text-align:center;width:50%;">9 Mar (Thu)</td>
     </tr>
 </table></center>
 
@@ -110,6 +110,7 @@ third_nav_title: Masterclasses & Workshops
 <ul>
   <li><a href="/services/consultancy/skillsfuture-credit">SkillsFuture Credit</a></li>
   <li><a href="/services/consultancy/wss-individuals">Workfare Skills Support (WSS) Scheme (For Individuals)</a></li>
+	<li><a href="/services/consultancy/utap">Union Training Assistance Programme (UTAP)</a></li>
 </ul>
 
 <b>For company-sponsored participants:</b>

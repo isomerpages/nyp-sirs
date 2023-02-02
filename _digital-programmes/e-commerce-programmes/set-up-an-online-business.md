@@ -15,7 +15,7 @@ third_nav_title: E-Commerce Programmes
     </tr>
     <tr style="text-align:center;">
       <td style="text-align:center;width:50%;">16-17 Feb (Thu-Fri)<br>24-25 Mar (Fri-Sat)</td>
-      <td style="text-align:center;width:50%;">11-12 Jan (Wed-Thu)</td>   
+      <td style="text-align:center;width:50%;">18-19 Apr (Tue-Wed)</td>   
     </tr>
 </table></center>
 
@@ -131,6 +131,7 @@ third_nav_title: E-Commerce Programmes
   <li><a href="/services/consultancy/skillsfuture-credit">SkillsFuture Credit</a></li>
 
   <li><a href="/services/consultancy/wss-individuals">Workfare Skills Support (WSS) Scheme (For Individuals)</a></li>
+	<li><a href="/services/consultancy/utap">Union Training Assistance Programme (UTAP)</a></li>
 </ul>
 
 <b>For company-sponsored participants:</b>
