@@ -14,7 +14,7 @@ third_nav_title: Masterclasses & Workshops
       <th style="text-align:center;width:50%;">Face-to-Face</th>
     </tr>
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">21-22 Mar (Tue-Wed)</td>
+      <td style="text-align:center;width:50%;">30-31 Mar (Thu-Fri)</td>
     </tr>
 </table></center>
 
