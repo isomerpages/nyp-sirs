@@ -26,7 +26,7 @@ third_nav_title: Masterclasses & Workshops
 
 <h4>Course Title | Mode of Training | Course Ref</h4>
 
-<p>Generate Leads for Free & Maximise Your Sales Conversion<br>Classroom & Asynchronous E-Learning - TGS-To be confirmed</p>
+<p>Generate Leads for Free & Maximise Your Sales Conversion<br>Classroom & Asynchronous E-Learning - TGS-2023018433</p>
 
 <h4>Outline</h4>
 * Identify the key owned media channels through understanding their respective roles and value in the customer acquisition strategy.
