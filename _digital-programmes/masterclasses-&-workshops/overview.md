@@ -18,10 +18,12 @@ third_nav_title: Masterclasses & Workshops
   <li><a href="/digital-programmes/masterclasses-and-workshops/digital-commerce-visual">Digital Commerce Visual</a></li>
   <li><a href="/digital-programmes/masterclasses-and-workshops/digital-strategy-and-the-101-of-seo">Digital Strategy & the 101 of Search Engine Optimisation (SEO)</a></li>
   <li><a href="/digital-programmes/masterclasses-and-workshops/empower-your-business-with-social-commerce-and-digital-payment">Empower Your Business with Social Commerce & Digital Payment</a></li>
+	<li><a href="/digital-programmes/mc-ws/ga4-gtm/">GA4 with Google Tag Manager (GTM)</a></li>
   <li><a href="/digital-programmes/masterclasses-and-workshops/google-analytics-for-e-commerce">Google Analytics (GA) for E-Commerce with GAIQ Certification</a></li>
   <li><a href="/digital-programmes/masterclasses-and-workshops/google-shopping-with-adwords-professional-certification">Google Shopping with AdWords Certified Professional Course</a></li>
   <li><a href="/digital-programmes/masterclasses-and-workshops/increase-business-revenue-through-seo">Increase Business Revenue through Search Engine Optimisation (SEO)</a></li>
   <li><a href="/digital-programmes/masterclasses-and-workshops/master-facebook-marketing-for-business">Master Facebook Marketing for Business</a></li>
+<li><a href="/digital-programmes/mc-ws/google-ads/">Master Google Ads to Turbo Charge Your Leads & Sales</a></li>
   <li><a href="/digital-programmes/masterclasses-and-workshops/master-linkedin-for-sales-and-marketing">Master LinkedIn for Sales & Marketing</a></li>
   <li><a href="/digital-programmes/masterclasses-and-workshops/omni-commerce-retail">Omni-Commerce Retail</a></li>
   <li><a href="/digital-programmes/masterclasses-and-workshops/understanding-your-future-customers">Understanding Your Future Customers</a></li>
