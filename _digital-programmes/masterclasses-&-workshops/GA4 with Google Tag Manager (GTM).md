@@ -26,6 +26,8 @@ device measurement capabilities.</p>
 
 <p>Whether you are a performance growth marketer who wishes to leverage GA4 to drive optimal website and campaign performance, or someone who does not even know what Universal Analytics is now, you will walk away from this masterclass with insights, knowledge, and applicable skills in GA4, the latest and one of the most important digital and analytics tools. And if you aspire to be a GA4 specialist, be it as a career switcher or to up your game in your digital marketing role, this masterclass will also prepare you to take the Google Analytics Certification assessment.</p>
 
+<small>*Source:<a href="https://blog.google/products/marketingplatform/analytics/prepare-for-future-with-google-analytics-4/">https://blog.google/products/marketingplatform/analytics/prepare-for-future-with-google-analytics-4/</a></small>
+
 <h4>Course Title | Mode of Training | Course Ref</h4>
 
 <p>GA4 with Google Tag Manager (GTM)
