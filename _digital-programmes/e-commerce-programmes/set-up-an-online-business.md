@@ -14,7 +14,7 @@ third_nav_title: E-Commerce Programmes
       <th style="text-align:center;width:50%;">Face-to-Face</th>
     </tr>
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">16-17 Feb (Thu-Fri)<br>24-25 Mar (Fri-Sat)</td>
+      <td style="text-align:center;width:50%;">16-17 Feb (Thu-Fri)<br>23-24 Mar (Thu-Fri)</td>
       <td style="text-align:center;width:50%;">18-19 Apr (Tue-Wed)</td>   
     </tr>
 </table></center>
