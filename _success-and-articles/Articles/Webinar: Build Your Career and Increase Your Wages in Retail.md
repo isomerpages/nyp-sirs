@@ -13,6 +13,6 @@ Date: 21-02-2023
 
 The Singapore Institute of Retail Studies (SIRS) and Fastjobs.sg are proud to be partnering in this initiative. Our partnership aims to help workers in Singapore attain jobs that not only leverage on the Progressive Wage Model (PWM) that increases your wages, but also enable you to build a fulfilling and rewarding career in the retail industry. 
 
-![SIRS x Fastjobs webinar - 15 Mar 2023 - Don't Miss The Opportunity](/images/blog/webinar-sirsfj-2.png)
+![SIRS x Fastjobs webinar - 15 Mar 2023 - Don't Miss The Opportunity](/images/blog/webinar-sirsfj-2b.png)
 
 <b>The increase of 1% GST on fees will be absorbed for Singapore Citizens in 2023.</b>
