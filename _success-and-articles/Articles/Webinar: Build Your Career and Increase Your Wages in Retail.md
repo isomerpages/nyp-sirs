@@ -15,7 +15,7 @@ The Singapore Institute of Retail Studies (SIRS) and Fastjobs.sg are proud to be
 
 ![SIRS x Fastjobs webinar - 15 Mar 2023 - Don't Miss The Opportunity](/images/blog/webinar-sirsfj-2b.png)
 
-Click [here](for.edu.sg/sirsfj-webinar) or scan the QR code above to attend our free webinar.
+Click [here](https://for.edu.sg/sirsfj-webinar) or scan the QR code above to attend our free webinar.
 
 Working in retail is not just about customer service or "selling". In fact, the retail industry offers many opportunities for growth. With the right guidance and skills development, you will be able to progress in your career and enjoy the benefits of the retail industry. 
 
