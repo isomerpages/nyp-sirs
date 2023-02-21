@@ -9,6 +9,9 @@ Date: 24-02-2023
 
 <h4>How A Career In Retail Can Be Fulfilling and Beneficial to You: Find Out on Wednesday, 15 March 2023</h4>
 
+<center><iframe src="https://player.vimeo.com/video/800812353?h=86fb9f67f4" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/800812353"></center>
+
 ![SIRS x Fastjobs Webinar - 15 March 2023 - Build Your Career and Increase Your Wages in Retail](/images/blog/webinar-sirsfj-1.png)
 
 The Singapore Institute of Retail Studies (SIRS) and [Fastjobs.sg](https://www.fastjobs.sg/) are proud to be partnering in this initiative. Our partnership aims to help workers in Singapore attain jobs that not only leverage on the Progressive Wage Model (PWM) that increases your wages, but also enable you to build a fulfilling and rewarding career in the retail industry. 
