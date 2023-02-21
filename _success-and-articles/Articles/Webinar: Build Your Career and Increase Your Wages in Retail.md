@@ -9,7 +9,7 @@ Date: 24-02-2023
 
 <h4>How A Career In Retail Can Be Fulfilling and Beneficial to You: Find Out on Wednesday, 15 March 2023</h4>
 
-<iframe src="https://player.vimeo.com/video/800812353?h=86fb9f67f4" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe> 
+<center><iframe src="https://player.vimeo.com/video/800812353?h=86fb9f67f4" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></center> 
 
 ![SIRS x Fastjobs Webinar - 15 March 2023 - Build Your Career and Increase Your Wages in Retail](/images/blog/webinar-sirsfj-1.png)
 
