@@ -20,7 +20,7 @@ Click [here](https://for.edu.sg/sirsfj-webinar) or scan the QR code above to att
 Working in retail is not just about customer service or "selling". In fact, the retail industry offers many opportunities for growth. With the right guidance and skills development, you will be able to progress in your career and enjoy the benefits of the retail industry. 
 
 <b>Attend the webinar for the details and get advice on what you can do PLUS listen:</b>
-* how a SIRS' trainee has benefited from her training and flourishing in her retail career as well as
+* how a SIRS' trainee has benefited from her training and flourishing in her retail career and
 * insights from a retail employee on job opportunities and growth potential
 
 <b>1)	Competitive Salaries and Benefits</b>
