@@ -2,6 +2,8 @@ collections:
   success-and-articles:
     output: true
     order:
+      - "Articles/Webinar: Build Your Career and Increase Your Wages in
+        Retail.md"
       - Articles/.keep
       - Articles/overview.md
       - Articles/GST Rate Change 2023.md
