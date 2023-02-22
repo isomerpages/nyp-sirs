@@ -11,7 +11,7 @@ Date: 24-02-2023
 
 <center><iframe src="https://player.vimeo.com/video/800812353?h=86fb9f67f4" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></center> 
 
-![SIRS x Fastjobs Webinar - 15 March 2023 - Build Your Career and Increase Your Wages in Retail](/images/blog/webinar-sirsfj-1.png)
+![SIRS x Fastjobs Webinar - 15 March 2023 - Build Your Career and Increase Your Wages in Retail](/images/blog/webinar-sirsfj-1b.png)
 
 The Singapore Institute of Retail Studies (SIRS) and [Fastjobs.sg](https://www.fastjobs.sg/) are proud to be partnering in this initiative. Our partnership aims to help workers in Singapore attain jobs that not only leverage on the Progressive Wage Model (PWM) that increases your wages, but also enable you to build a fulfilling and rewarding career in the retail industry. 
 
@@ -21,9 +21,9 @@ Click [here](https://for.edu.sg/sirsfj-webinar) or scan the QR code above to att
 
 Working in retail is not just about customer service or "selling". In fact, the retail industry offers many opportunities for growth. With the right guidance and skills development, you will be able to progress in your career and enjoy the benefits of the retail industry. 
 
-<b>Attend the webinar for the details and get advice on what you can do PLUS listen:</b>
-* how a SIRS' trainee has benefited from her training and flourishing in her retail career and
-* insights from a retail employee on job opportunities and growth potential
+<b>Attend the webinar for the details and get advice on what you can do PLUS:</b>
+* listen to how a SIRS' trainee has benefited from her training and flourishing in her retail career and
+* get insights from a retail employee on job opportunities and growth potential
 
 <b>1)	Competitive Salaries and Benefits</b>
 <br>Since September 2022, the Progressive Wage Model (PWM) was implemented to provide a clear career progression path for workers in low-wage sectors, including retail. The PWM encourages workers to invest in training and skills upgrading, leading to improved productivity and service quality. This in turn helps retail workers get paid more as they get better at their jobs. The Singapore Institute of Retail Studies (SIRS) offers the specific PWM training programs, and together with Fastjobs.sg, offer job search support.
