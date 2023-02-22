@@ -32,6 +32,7 @@ third_nav_title: Masterclasses & Workshops
 <h4>Workshops</h4>
 <p>Engage in hands-on activity to hone your skillsets with our range of Workshops:</p>
   <ul>
+	<li><a href="/digital-programmes/mc-ws/youtube">Become a Successful YouTuber and Boost Your Earnings</a></li>  
 	<li><a href="/digital-programmes/mc-ws/pb">Building an Effective Digital Personal Brand</a></li>  
 	<li><a href="/digital-programmes/mc-ws/powerbi">Business Intelligence to Improve Revenue</a></li>  
 	<li><a href="/digital-programmes/mc-ws/casetrust">CaseTrust Accreditation Scheme for E-Commerce Business</a></li>  
