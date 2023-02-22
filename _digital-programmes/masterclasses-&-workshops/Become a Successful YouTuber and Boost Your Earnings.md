@@ -23,7 +23,7 @@ third_nav_title: Masterclasses & Workshops
 <p>You can become a successful YouTuber with a well-thought-out strategy. Through a step-by-step process in this workshop, you will create engaging video content to captivate your audience and enhance their level of engagement to help you boost your earning potential on the world’s biggest online video platform. No matter your business industry, job role or purpose, there’s a place for you on YouTube!!</p>
 
 <small>*Data source:
-<a href="https://sg.oberlo.com/blog/youtube-statisticsl">https://sg.oberlo.com/blog/youtube-statistics</a></small>
+<a href="https://sg.oberlo.com/blog/youtube-statistics">https://sg.oberlo.com/blog/youtube-statistics</a></small>
 
 <h4>Course Title | Mode of Training | Course Ref</h4>
 
