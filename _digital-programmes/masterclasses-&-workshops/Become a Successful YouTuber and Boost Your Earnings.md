@@ -18,7 +18,7 @@ third_nav_title: Masterclasses & Workshops
     </tr>
 </table></center>
 
-<p>Conduct a quick search online now, and you will find YouTube as the second-most popular platform for search engines and social media. There are 2.6 billion* active YouTube users who watch 1 billion* hours of videos daily, and 90%* of them say they discover new brands or products through the platform - it is no wonder that businesses and individuals are actively uploading 720,000* hours of video every day on YouTube to interact and engage with their community!!</p>
+<p>Conduct a quick search online now, and you will find YouTube as the second-most popular platform for search engines and social media. There are 2.6 billion* active YouTube users who watch 1 billion* hours of videos daily, and 90%* of them say they discover new brands or products through the platform - it is no wonder that businesses and individuals are actively uploading 720,000* hours of video every day on YouTube to interact and engage with their community!</p>
 	
 <p>You can become a successful YouTuber with a well-thought-out strategy. Through a step-by-step process in this workshop, you will create engaging video content to captivate your audience and enhance their level of engagement to help you boost your earning potential on the world’s biggest online video platform. No matter your business industry, job role or purpose, there’s a place for you on YouTube!!</p>
 
