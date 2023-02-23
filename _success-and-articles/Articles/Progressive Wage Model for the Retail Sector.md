@@ -56,4 +56,4 @@ Based on your job roles, SIRS recommends the following industry endorsed courses
 * Service Leadership (SF-Manager)
 * Sales Target Management (SF-Manager)
 
-You may visit the [MOM website](https://www.mom.gov.sg/employment-practices/progressive-wage-model/retail-sector) for more information on PWM.
+Call us at 6222 7477 if you need advice or assistance.
