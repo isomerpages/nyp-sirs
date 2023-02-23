@@ -25,10 +25,10 @@ Employers must ensure that their Singapore Citizen and Singapore PR retail worke
 
 Alternatively, if employers have in-house WSQ training modules that have the prefix “RET” in the accompanying Technical Skills & Competencies (TSC) code, these training modules can be used to meet the training requirement as well.
 
-Employers will be given a grace period to comply with the retail PWM training requirements:
+**Employers will be given a grace period to comply with the retail PWM training requirements:**
 
-*  For new hires: six months from the new hire’s date of employment.
-*  For existing employees: till 31 August 2023 (one year from the retail PWM implementation on 1 September 2022).
+*  **For new hires:** six months from the new hire’s date of employment.
+*  **For existing employees:** till 31 August 2023 (one year from the retail PWM implementation on 1 September 2022).
 
 Through proper training, retail workers will be able to increase their productivity and offer good retail experiences to customers.
 
