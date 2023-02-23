@@ -13,7 +13,7 @@ Date: 24-02-2023
 
 ![SIRS x Fastjobs Webinar - 15 March 2023 - Build Your Career and Increase Your Wages in Retail](/images/blog/webinar-sirsfj-1b.png)
 
-The Singapore Institute of Retail Studies (SIRS) and [Fastjobs.sg](https://www.fastjobs.sg/) are proud to be partnering in this initiative. Our partnership aims to help workers in Singapore attain jobs that not only leverage on the Progressive Wage Model (PWM) that increases your wages, but also enable you to build a fulfilling and rewarding career in the retail industry. 
+The Singapore Institute of Retail Studies (SIRS) and [FastJobs](https://www.fastjobs.sg/fastlearn/course/provider/45/) are proud to be partnering in this initiative. Our partnership aims to help workers in Singapore attain jobs that not only leverage on the Progressive Wage Model (PWM) that increases your wages, but also enable you to build a fulfilling and rewarding career in the retail industry. 
 
 ![SIRS x Fastjobs webinar - 15 Mar 2023 - Don't Miss The Opportunity](/images/blog/webinar-sirsfj-2b.png)
 
