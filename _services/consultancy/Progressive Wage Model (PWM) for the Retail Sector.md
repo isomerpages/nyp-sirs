@@ -25,7 +25,7 @@ Employers must ensure that their Singapore Citizen and Singapore PR retail worke
 
 Alternatively, if employers have in-house WSQ training modules that have the prefix “RET” in the accompanying Technical Skills & Competencies (TSC) code, these training modules can be used to meet the training requirement as well.
 
-For the first six months from September 2022 to February 2023, MOM will give employers time to adjust and comply with the Progressive Wage requirements. Employers will be given a grace period to comply with the retail PWM training requirements:
+Employers will be given a grace period to comply with the retail PWM training requirements:
 
 *  For new hires: six months from the new hire’s date of employment.
 *  For existing employees: till 31 August 2023 (one year from the retail PWM implementation on 1 September 2022).
