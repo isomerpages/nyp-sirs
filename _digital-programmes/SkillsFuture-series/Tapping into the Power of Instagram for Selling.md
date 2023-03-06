@@ -5,7 +5,6 @@ breadcrumb: Tap into the Power of Instagram for Selling
 third_nav_title: SkillsFuture Series
 description: ""
 ---
-
 <img src="images/sf-series-banner.png" style="width:100%;">
 
 <h4 style="text-align:center;">Next intake:</h4>
