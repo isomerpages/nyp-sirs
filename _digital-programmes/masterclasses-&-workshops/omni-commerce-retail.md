@@ -14,7 +14,7 @@ third_nav_title: Masterclasses & Workshops
       <th style="text-align:center;width:50%;">Face-to-Face</th>
     </tr>
     <tr style="text-align:center;">
-				<td style="text-align:center;width:50%;">20, 22, 23 Feb (Mon, Wed, Thu)</td>
+				<td style="text-align:center;width:50%;">20-22 Jun (Tue-Thu)</td>
       <td style="text-align:center;width:50%;">To be confirmed</td>
     </tr>
 </table></center>
