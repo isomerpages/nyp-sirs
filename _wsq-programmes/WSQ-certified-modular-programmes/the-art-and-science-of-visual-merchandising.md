@@ -12,7 +12,7 @@ third_nav_title: WSQ Certified Modular Programmes
       <th style="text-align:center;width:50%;">Face-to-Face</th>
     </tr>
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">21 & 28 Feb (Tue)<br>22 & 24 Mar (Wed & Fri)<br>18 & 20 Apr (Tue & Thu)</td>
+      <td style="text-align:center;width:50%;">22 & 24 Mar (Wed & Fri)<br>18 & 20 Apr (Tue & Thu)</td>
     </tr>
 </table></center>
 
