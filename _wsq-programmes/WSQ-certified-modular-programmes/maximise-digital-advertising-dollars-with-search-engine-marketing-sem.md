@@ -12,7 +12,7 @@ third_nav_title: WSQ Certified Modular Programmes
       <th style="text-align:center;width:50%;">Online Training</th>
     </tr>
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">Day Class:<br>28 Feb & 2, 7, 9 Mar (Tue & Thu)</td>
+      <td style="text-align:center;width:50%;">To be confirmed</td>
     </tr>
 </table></center>
 
