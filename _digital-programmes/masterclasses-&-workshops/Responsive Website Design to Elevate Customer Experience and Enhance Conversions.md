@@ -38,9 +38,12 @@ third_nav_title: Masterclasses & Workshops
 * Develop an SEO-optimised website by ensuring that the SEO technical structure is in place       		alongside a data-driven content strategy
 * Design and build optimised and responsive WordPress webpages through use of the 			Elementor’s templates and features
 
+<h4>Who Should Attend</h4>
+<p>Individuals (home-based business, digital/social commerce solopreneurs), New Business Owners, Entrepreneurs, Junior/Mid-Level Marketers, Growth Performance Marketers, and Career Switchers.</p>
   
 <h4>Duration</h4>
-<p>9am - 6pm (8 hours)</p>
+<p>3 days (9am - 6pm daily)<br>
+Includes 3 hours of Asynchronous E-Learning</p>
   
 <h4>Trainer Profile</h4>
 
@@ -68,32 +71,32 @@ third_nav_title: Masterclasses & Workshops
 
 <tr>
 <td>Full Fee</td>
-<td>$810</td>
+<td>$1,728</td>
 </tr>
 
 <tr>
   <td>Singapore Citizen<sup>0</sup> (70% funding)</td>
-<td>$240.75</td>
+<td>$513.60</td>
 </tr>
 	
 <tr>
   <td>Singapore Citizen 40 years and above<sup>0,1</sup> (90% funding)</td>
-<td>$90.75</td>
+<td>$193.60</td>
 </tr>
 
 <tr>
   <td>Singapore Citizen sponsored by SMEs<sup>0,2</sup> (90% funding)</td>
-<td>$90.75</td>
+<td>$193.60</td>
 </tr>
 
 <tr>
   <td>Singapore PR (70% funding)</td>
-<td>$243</td>
+<td>$518.40</td>
 </tr>
 
 <tr>
 <td>Singapore PR sponsored by SMEs<sup>2</sup> (90% funding)</td>
-<td>$93</td>
+<td>$198.40</td>
 </tr>
 
 </table>
