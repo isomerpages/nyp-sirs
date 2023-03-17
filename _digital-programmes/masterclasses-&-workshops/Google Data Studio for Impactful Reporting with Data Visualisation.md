@@ -31,19 +31,18 @@ third_nav_title: Masterclasses & Workshops
 <br>Classroom & Asynchronous E-Learning - TGS-2023018434</p>
 
 <h4>Outline</h4>
-* Set up and structure a web property using GA4’s reporting tools and features
-* Identify the correct and relevant data and reports needed by understanding the purpose of the different tools and features of GA4
-* Generate relevant insights from data and reports from understanding the derivative value of the data captured in GA4
-* Optimise website performance through applying insights on user activities and journey to finetune website set-up
-* Optimise campaign performance through understanding the user behaviour and journey that reflects related gaps and opportunities
-* Get ready to take the Google Analytics Certification assessment by understanding how GA4 works, knowing the purpose and function of its tools and features, and having the skills to generate data and reports
+* Build data dashboards and reports by applying data collection and table set-up methods in Google Sheets
+* Develop data visualisation outputs by using Google data visualisation process framework
+* Create data studio dashboards and reports through applying data connection, report configuration, formatting, and design methods
+* Derive collaborative dashboards and reports by using share and collaborate features and functions
+* Draw decision-making insights from creating meaningful data visualisation dashboards and reports
 
 <h4>Who Should Attend</h4>
 <p>Individuals (home-based business, digital/social commerce solopreneurs), New Business Owners, Entrepreneurs, Junior/Mid-Level Marketers, Growth Performance Marketers, and Career Switchers.</p>
   
 <h4>Duration</h4>
-<p>2 days (9am - 6pm daily)<br>
-Includes 2 hours of Asynchronous E-Learning</p>
+<p>1 day (9am - 6pm)<br>
+Includes 1 hour of Asynchronous E-Learning</p>
   
 <h4>Trainer Profile</h4>
 <p><b>Ivan Wong</b><br>
@@ -61,32 +60,32 @@ Ivan has over 20 years of experience in Business Consulting, Training, Search En
 
 <tr>
 <td>Full Fee</td>
-<td>$1,296</td>
+<td>$810</td>
 </tr>
 
 <tr>
   <td>Singapore Citizen<sup>0</sup> (70% funding)</td>
-<td>$385.20</td>
+<td>$240.75</td>
 </tr>
 	
 <tr>
   <td>Singapore Citizen 40 years and above<sup>0,1</sup> (90% funding)</td>
-<td>$145.20</td>
+<td>$90.75</td>
 </tr>
 
 <tr>
   <td>Singapore Citizen sponsored by SMEs<sup>0,2</sup> (90% funding)</td>
-<td>$145.20</td>
+<td>$90.75</td>
 </tr>
 
 <tr>
   <td>Singapore PR (70% funding)</td>
-<td>$388.80</td>
+<td>$243</td>
 </tr>
 
 <tr>
 <td>Singapore PR sponsored by SMEs<sup>2</sup> (90% funding)</td>
-<td>$148.80</td>
+<td>$93</td>
 </tr>
 
 </table>
