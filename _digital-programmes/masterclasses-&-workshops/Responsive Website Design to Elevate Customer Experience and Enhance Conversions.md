@@ -25,7 +25,8 @@ third_nav_title: Masterclasses & Workshops
 
 <p>WordPress, the internet’s most popular content management system, is used by 43%* of all websites globally. You can now utilise the Elementor WordPress platform to build a well-optimised website to attract, connect, and engage customers to boost sales. Whether you have an existing WordPress website or considering migrating to WordPress, this hands-on activity-packed masterclass will benefit you tremendously as we guide to build a website from scratch using Elementor and ways you can optimise your website to achieve greater heights of success!.</p>
 
-
+<small>*Data source:
+<a href="https://www.cminds.com/blog/wordpress/wordpress-market-share-2021/">https://www.cminds.com/blog/wordpress/wordpress-market-share-2021/</a></small>
 
 <h4>Course Title | Mode of Training | Course Ref</h4>
 
