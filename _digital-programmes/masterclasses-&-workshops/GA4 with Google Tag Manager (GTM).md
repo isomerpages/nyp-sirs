@@ -31,7 +31,7 @@ device measurement capabilities.</p>
 <h4>Course Title | Mode of Training | Course Ref</h4>
 
 <p>GA4 with Google Tag Manager (GTM)
-<br>Synchronous E-learning -TGS-2023018430</p>
+<br>Classroom & Asynchronous E-Learning -TGS-2023018430</p>
 
 <h4>Outline</h4>
 * Set up and structure a web property using GA4’s reporting tools and features
