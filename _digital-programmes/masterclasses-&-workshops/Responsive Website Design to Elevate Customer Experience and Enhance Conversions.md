@@ -29,7 +29,7 @@ third_nav_title: Masterclasses & Workshops
 
 <h4>Course Title | Mode of Training | Course Ref</h4>
 
-<p>Digital Strategy & the 101 of Search Engine Optimisation (SEO) 
+<p>Responsive Website Design
 <br>Synchronous E-learning -TGS-2020501149</p>
 
 <h4>Outline</h4>
