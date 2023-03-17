@@ -30,7 +30,7 @@ third_nav_title: Masterclasses & Workshops
 <h4>Course Title | Mode of Training | Course Ref</h4>
 
 <p>Responsive Website Design
-<br>Synchronous E-learning -TGS-2020501149</p>
+<br>Classroom & Asynchronous E-Learning - TGS-2023018431</p>
 
 <h4>Outline</h4>
 * Formulate an optimised website strategy by determining the critical business elements 
