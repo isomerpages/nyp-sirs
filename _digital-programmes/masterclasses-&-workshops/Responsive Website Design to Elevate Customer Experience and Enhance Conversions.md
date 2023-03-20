@@ -23,8 +23,7 @@ third_nav_title: Masterclasses & Workshops
 
 <p>Websites are where almost every potential and existing customers land to seek information and interact with businesses today. Just like how visual merchandising is integral to the success of a retail store, every detail of an intuitive website, from layout to content, must be logically constructed and aesthetically designed to elevate customer experience and enhance sales and conversion rates. As technology diversifies and customers use various mobile and smart devices to visit websites, it is paramount and valuable for all digital businesses to have a responsive website design.</p>
 
-<p>WordPress, the internet’s most popular content management system, is used by 43%* of all websites globally. You can now utilise the Elementor WordPress platform to build a well-optimised website to attract, connect, and engage customers to boost sales. Whether you have an existing WordPress website
-or considering migrating to WordPress, this hands-on activity-packed masterclass will benefit you tremendously as we guide you to build a website from scratch using Elementor and show you ways to optimise your website to achieve greater heights of success!</p>
+<p>WordPress, the internet’s most popular content management system, is used by 43%* of all websites globally. You can now utilise the Elementor WordPress platform to build a well-optimised website to attract, connect, and engage customers to boost sales. Whether you have an existing WordPress website or considering migrating to WordPress, this hands-on activity-packed masterclass will benefit you tremendously as we guide you to build a website from</p>
 
 <small>*Data source:
 <a href="https://www.cminds.com/blog/wordpress/wordpress-market-share-2021/">https://www.cminds.com/blog/wordpress/wordpress-market-share-2021/</a></small>
