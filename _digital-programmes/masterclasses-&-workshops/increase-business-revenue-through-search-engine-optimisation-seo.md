@@ -61,15 +61,9 @@ third_nav_title: Masterclasses & Workshops
 		</figure>
 	</div>
 	<div class="col is-8">
-        <b>Jayden Ooi</b><br><i>Entrepreneur, Digital Strategist</i><br><br>Jayden Ooi is highly qualified in practice with many successful digital transformations
-for SMEs to pivot their brick-and-mortar businesses into the digital space. With his
-expertise, a local retailer successfully redesigned its business model, ranked number
-one on Google, and achieved more than three million dollars in e-commerce sales. In
-another instance, he helped a local F&B SME to rise to the top ranking and triple its
-annual revenue. Jayden is an experienced professional in SEO, digital marketing, and
-e-commerce development. Over the years, he has built a staunch customer portfolio
-and a successful team in Singapore and Malaysia. His agency, NightOwl SEO, has
-helped many of his clients to be in the top 5 rankings on Google.
+        <b>Jayden Ooi</b><br><i>Entrepreneur, Digital Strategist</i><br><br>Jayden Ooi is highly qualified in practice with many successful digital transformations for SMEs to pivot their brick-and-mortar businesses into the digital space. With his
+expertise, a local retailer successfully redesigned its business model, ranked number one on Google, and achieved more than three million dollars in e-commerce sales. In another instance, he helped a local F&B SME to rise to the top ranking and triple its
+annual revenue. Jayden is an experienced professional in SEO, digital marketing, and e-commerce development. Over the years, he has built a staunch customer portfolio and a successful team in Singapore and Malaysia. His agency, NightOwl SEO, has helped many of his clients to be in the top 5 rankings on Google.
 	</div>
 </div>
    
