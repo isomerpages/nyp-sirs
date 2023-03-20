@@ -42,7 +42,9 @@ strategies to unlock deep business insights and gain a stronger foothold among y
 * Draw decision-making insights from creating meaningful data visualisation dashboards and reports
 
 <h4>Who Should Attend</h4>
-<p>Individuals (home-based business, digital/social commerce solopreneurs), New Business Owners, Entrepreneurs, Junior/Mid-Level Marketers, Growth Performance Marketers, and Career Switchers.</p>
+<p>Business Owners, Entrepreneurs, Digital/Social Commerce
+Solopreneurs, Junior/Mid-Level Marketers, and Career
+Switchers</p>
   
 <h4>Duration</h4>
 <p>1 day (9am - 6pm)<br>
