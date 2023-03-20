@@ -40,7 +40,9 @@ third_nav_title: Masterclasses & Workshops
 * Optimise sales performance by using e-commerce analytics and reporting tools for insights
 
 <h4>Who Should Attend</h4>
-<p>Individuals (home-based business, digital/social commerce solopreneurs), New Business Owners, Entrepreneurs, Junior/Mid-Level Marketers, Growth Performance Marketers, and Career Switchers.</p>
+<p>Business Owners, Entrepreneurs, Digital/Social Commerce
+Solopreneurs, Junior/Mid-Level Marketers, and Career
+Switchers</p>
   
 <h4>Duration</h4>
 <p>1 day (9am - 6pm)<br>
