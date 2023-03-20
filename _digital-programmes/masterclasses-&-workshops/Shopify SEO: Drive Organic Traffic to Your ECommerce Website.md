@@ -20,11 +20,11 @@ third_nav_title: Masterclasses & Workshops
     </tr>
 </table></center>
 
-<p>Search engine optimisation (SEO) is one of the most powerful digital marketing strategies to raise the visibility of a website, drive traffic and boost sales opportunities. An SEO-optimised website benefits businesses tremendously in bringing highly qualified leads organically, a sustainable approach that is cost-free and presents higher creditability and awareness to brands.</p>
+<p>Search engine optimisation (SEO) is one of the most powerful digital marketing strategies to raise the visibility of a website, drive traffic and boost sales opportunities. An SEO-optimised website benefits businesses tremendously in bringing high quality leads organically, a sustainable approach that is cost-free and presents higher creditability and awareness to brands.</p>
 
 <p>Stay ahead of the competition by optimising your e-commerce website via the Shopify platform, one of the most popular e-commerce website platforms in Singapore and globally. It is simple to set up and comes with a myriad of in-built SEO features and functions to help you generate organic traffic and, in turn, increase your brand and sales growth.</p>
  
-<p>In this one-day masterclass, you will learn to understand and apply both Technical SEO and SEO-driven content development techniques alongside best practices for optimising your Shopify store to improve search rankings for higher and better quality traffic and sales conversions. As you learn to extract and analyse insights from your Shopify e-commerce store analytics, you will also get to continually optimise the effectiveness of your campaigns, sales conversions, and ROI for your business’s long-term success.</p>
+<p>In this one-day masterclass, you will learn to understand and apply both technical SEO and SEO-driven content development techniques alongside best practices for optimising your Shopify store to improve search rankings for higher and better quality traffic and sales conversions. As you learn to extract and analyse insights from your Shopify e-commerce store analytics, you will also get to continually optimise the effectiveness of your campaigns, sales conversions, and ROI for your business’s long-term success.</p>
 
 
 <h4>Course Title | Mode of Training | Course Ref</h4>
