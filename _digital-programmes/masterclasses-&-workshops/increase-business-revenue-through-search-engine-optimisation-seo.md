@@ -61,7 +61,9 @@ third_nav_title: Masterclasses & Workshops
 		</figure>
 	</div>
 	<div class="col is-8">
-        <b>Jayden Ooi</b><br><i>Entrepreneur, Digital Strategist</i><br><br>Jayden Ooi is an entrepreneur that founded his own SEO agency 7 years ago. He is an experienced professional with expertise in SEO, digital marketing and eCommerce development. During his entrepreneurship journey, Jayden Ooi has built up a staunch customer portfolio and a successful team in Singapore and Malaysia over the past 7 years. He has consulted with many SMEs, to pivot their brick and mortar business into the digital space, for instance, helping a local bicycle retailer to be ranked on the top of Google, and working with them to re-design their business model and positioning them into an exciting, trending, forward looking brand that is in tune with the younger digital consumers of today. One of his prominent clients was a local F&B SME, where a rank 1 SEO rank and a re-designed website, tripled their annual revenue. Today, his agency, NightOwl SEO is ranked on page 1 of Google, and he is ranked in the top 5 for more than 25 over industries for his customers.
+        <b>Jayden Ooi</b><br><i>Entrepreneur, Digital Strategist</i><br><br>Jayden Ooi is highly qualified in practice with many successful digital transformations for SMEs to pivot their brick-and-mortar businesses into the digital space. With his
+expertise, a local retailer successfully redesigned its business model, ranked number one on Google, and achieved more than three million dollars in e-commerce sales. In another instance, he helped a local F&B SME to rise to the top ranking and triple its
+annual revenue. Jayden is an experienced professional in SEO, digital marketing, and e-commerce development. Over the years, he has built a staunch customer portfolio and a successful team in Singapore and Malaysia. His agency, NightOwl SEO, has helped many of his clients to be in the top 5 rankings on Google.
 	</div>
 </div>
    

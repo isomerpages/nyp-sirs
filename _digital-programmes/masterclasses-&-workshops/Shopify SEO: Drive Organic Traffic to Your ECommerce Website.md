@@ -1,7 +1,7 @@
 ---
-title: GA4 with Google Tag Manager (GTM)
-permalink: /digital-programmes/mc-ws/ga4-gtm/
-description: SIRS Masterclass - GA4 with Google Tag Manager (GTM)
+title: "Shopify SEO: Drive Organic Traffic to Your E-Commerce Website"
+permalink: /digital-programmes/mc-ws/shopify-seo/
+description: ""
 image: /images/images-2021/DigitalProgrammes-Image-Masterclass.png
 third_nav_title: Masterclasses & Workshops
 ---
@@ -20,33 +20,33 @@ third_nav_title: Masterclasses & Workshops
     </tr>
 </table></center>
 
-<p>Analytics is an extremely powerful tool in today’s data-driven space to help businesses achieve growth and success by making informed decisions and strategies. Google has introduced* Google Analytics 4 (GA4) to replace its
-Universal Analytics, the familiar platform to millions of businesses using it to capture and analyse data. The upgrade to GA4 came with big promises of providing predictive insights, deeper integration with Google Ads, and cross
-device measurement capabilities.</p>
+<p>Search engine optimisation (SEO) is one of the most powerful digital marketing strategies to raise the visibility of a website, drive traffic and boost sales opportunities. An SEO-optimised website benefits businesses tremendously in bringing high quality leads organically, a sustainable approach that is cost-free and presents higher creditability and awareness to brands.</p>
 
-<p>Whether you are a performance growth marketer who wishes to leverage GA4 to drive optimal website and campaign performance, or someone who does not even know what Universal Analytics is now, you will walk away from this masterclass with insights, knowledge, and applicable skills in GA4, the latest and one of the most important digital and analytics tools. And if you aspire to be a GA4 specialist, be it as a career switcher or to up your game in your digital marketing role, this masterclass will also prepare you to take the Google Analytics Certification assessment.</p>
+<p>Stay ahead of the competition by optimising your e-commerce website via the Shopify platform, one of the most popular e-commerce website platforms in Singapore and globally. It is simple to set up and comes with a myriad of in-built SEO features and functions to help you generate organic traffic and, in turn, increase your brand and sales growth.</p>
+ 
+<p>In this one-day masterclass, you will learn to understand and apply both technical SEO and SEO-driven content development techniques alongside best practices for optimising your Shopify store to improve search rankings for higher and better quality traffic and sales conversions. As you learn to extract and analyse insights from your Shopify e-commerce store analytics, you will also get to continually optimise the effectiveness of your campaigns, sales conversions, and ROI for your business’s long-term success.</p>
 
-<small>*Source:<a href="https://blog.google/products/marketingplatform/analytics/prepare-for-future-with-google-analytics-4/">https://blog.google/products/marketingplatform/analytics/prepare-for-future-with-google-analytics-4/</a></small>
 
 <h4>Course Title | Mode of Training | Course Ref</h4>
 
-<p>GA4 with Google Tag Manager (GTM)
-<br>Classroom & Asynchronous E-Learning -TGS-2023018430</p>
+<p>Shopify SEO Masterclass
+<br>Classroom & Asynchronous E-Learning - TGS-2023018435</p>
 
 <h4>Outline</h4>
-* Set up and structure a web property using GA4’s reporting tools and features
-* Identify the correct and relevant data and reports needed by understanding the purpose of the different tools and features of GA4
-* Generate relevant insights from data and reports from understanding the derivative value of the data captured in GA4
-* Optimise website performance through applying insights on user activities and journey to finetune website set-up
-* Optimise campaign performance through understanding the user behaviour and journey that reflects related gaps and opportunities
-* Get ready to take the Google Analytics Certification assessment by understanding how GA4 works, knowing the purpose and function of its tools and features, and having the skills to generate data and reports
+* Set up a fully functional and live Shopify store through understanding and installing the key & relevant sales, management and maintenance features and functions
+* Develop optimised Shopify store content and structure that is primed to drive greater traffic using learned on-page SEO techniques 
+* Drive omnichannel traffic to the Shopify store through application of a combination of on and off-page SEO techniques 
+* Enhance Shopify store sales by applying various Shopify sales drivers including navigational features, discount functions and apps
+* Optimise sales performance by using e-commerce analytics and reporting tools for insights
 
 <h4>Who Should Attend</h4>
-<p>Individuals (home-based business, digital/social commerce solopreneurs), New Business Owners, Entrepreneurs, Junior/Mid-Level Marketers, Growth Performance Marketers, and Career Switchers.</p>
+<p>Business Owners, Entrepreneurs, Digital/Social Commerce
+Solopreneurs, Junior/Mid-Level Marketers, and Career
+Switchers</p>
   
 <h4>Duration</h4>
-<p>2 days (9am - 6pm daily)<br>
-Includes 2 hours of Asynchronous E-Learning</p>
+<p>1 day (9am - 6pm)<br>
+Includes 1 hour of Asynchronous E-Learning</p>
   
 <h4>Trainer Profile</h4>
 <p><b>Ivan Wong</b><br>
@@ -64,32 +64,32 @@ Ivan has over 20 years of experience in Business Consulting, Training, Search En
 
 <tr>
 <td>Full Fee</td>
-<td>$1,296</td>
+<td>$810</td>
 </tr>
 
 <tr>
   <td>Singapore Citizen<sup>0</sup> (70% funding)</td>
-<td>$385.20</td>
+<td>$240.75</td>
 </tr>
 	
 <tr>
   <td>Singapore Citizen 40 years and above<sup>0,1</sup> (90% funding)</td>
-<td>$145.20</td>
+<td>$90.75</td>
 </tr>
 
 <tr>
   <td>Singapore Citizen sponsored by SMEs<sup>0,2</sup> (90% funding)</td>
-<td>$145.20</td>
+<td>$90.75</td>
 </tr>
 
 <tr>
   <td>Singapore PR (70% funding)</td>
-<td>$388.80</td>
+<td>$243</td>
 </tr>
 
 <tr>
 <td>Singapore PR sponsored by SMEs<sup>2</sup> (90% funding)</td>
-<td>$148.80</td>
+<td>$93</td>
 </tr>
 
 </table>

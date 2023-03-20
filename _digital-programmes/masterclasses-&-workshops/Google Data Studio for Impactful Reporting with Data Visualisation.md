@@ -1,7 +1,7 @@
 ---
-title: GA4 with Google Tag Manager (GTM)
-permalink: /digital-programmes/mc-ws/ga4-gtm/
-description: SIRS Masterclass - GA4 with Google Tag Manager (GTM)
+title: Google Data Studio for Impactful Reporting with Data Visualisation
+permalink: /digital-programmes/mc-ws/google-data-studio/
+description: ""
 image: /images/images-2021/DigitalProgrammes-Image-Masterclass.png
 third_nav_title: Masterclasses & Workshops
 ---
@@ -20,33 +20,35 @@ third_nav_title: Masterclasses & Workshops
     </tr>
 </table></center>
 
-<p>Analytics is an extremely powerful tool in today’s data-driven space to help businesses achieve growth and success by making informed decisions and strategies. Google has introduced* Google Analytics 4 (GA4) to replace its
-Universal Analytics, the familiar platform to millions of businesses using it to capture and analyse data. The upgrade to GA4 came with big promises of providing predictive insights, deeper integration with Google Ads, and cross
-device measurement capabilities.</p>
+<p>No matter the business size, data is a critical resource for valuable insights into business performance and making informed decisions to drive efficiency. Google Data Studio provides you with a free reporting platform that allows you to easily connect to data sources, such as Google Analytics, Google Ads, Google BigQuery, YouTube Analytics, Campaign Manager 360, MySQL and many more, to maximise the value of data through its powerful visualisation tool that is highly effective in providing a fast and easy understanding of large data volumes.</p>
 
-<p>Whether you are a performance growth marketer who wishes to leverage GA4 to drive optimal website and campaign performance, or someone who does not even know what Universal Analytics is now, you will walk away from this masterclass with insights, knowledge, and applicable skills in GA4, the latest and one of the most important digital and analytics tools. And if you aspire to be a GA4 specialist, be it as a career switcher or to up your game in your digital marketing role, this masterclass will also prepare you to take the Google Analytics Certification assessment.</p>
+<p>Unravel the power of data visualisation from this Google Data Studio masterclass to help you make sense of
+complex data and tap on potential growth opportunities by making smarter and swifter decisions in optimising
+your business and marketing performance. Whether you are a business owner, digital marketer or data analyst,
+this hands-on training will enhance your professional knowledge and skillsets in mastering the techniques and
+strategies to unlock deep business insights and gain a stronger foothold among your competition.</p>
 
-<small>*Source:<a href="https://blog.google/products/marketingplatform/analytics/prepare-for-future-with-google-analytics-4/">https://blog.google/products/marketingplatform/analytics/prepare-for-future-with-google-analytics-4/</a></small>
 
 <h4>Course Title | Mode of Training | Course Ref</h4>
 
-<p>GA4 with Google Tag Manager (GTM)
-<br>Classroom & Asynchronous E-Learning -TGS-2023018430</p>
+<p>Data Studio Masterclass
+<br>Classroom & Asynchronous E-Learning - TGS-2023018434</p>
 
 <h4>Outline</h4>
-* Set up and structure a web property using GA4’s reporting tools and features
-* Identify the correct and relevant data and reports needed by understanding the purpose of the different tools and features of GA4
-* Generate relevant insights from data and reports from understanding the derivative value of the data captured in GA4
-* Optimise website performance through applying insights on user activities and journey to finetune website set-up
-* Optimise campaign performance through understanding the user behaviour and journey that reflects related gaps and opportunities
-* Get ready to take the Google Analytics Certification assessment by understanding how GA4 works, knowing the purpose and function of its tools and features, and having the skills to generate data and reports
+* Build data dashboards and reports by applying data collection and table set-up methods in Google Sheets
+* Develop data visualisation outputs by using Google data visualisation process framework
+* Create data studio dashboards and reports through applying data connection, report configuration, formatting, and design methods
+* Derive collaborative dashboards and reports by using share and collaborate features and functions
+* Draw decision-making insights from creating meaningful data visualisation dashboards and reports
 
 <h4>Who Should Attend</h4>
-<p>Individuals (home-based business, digital/social commerce solopreneurs), New Business Owners, Entrepreneurs, Junior/Mid-Level Marketers, Growth Performance Marketers, and Career Switchers.</p>
+<p>Business Owners, Entrepreneurs, Digital/Social Commerce
+Solopreneurs, Junior/Mid-Level Marketers, and Career
+Switchers</p>
   
 <h4>Duration</h4>
-<p>2 days (9am - 6pm daily)<br>
-Includes 2 hours of Asynchronous E-Learning</p>
+<p>1 day (9am - 6pm)<br>
+Includes 1 hour of Asynchronous E-Learning</p>
   
 <h4>Trainer Profile</h4>
 <p><b>Ivan Wong</b><br>
@@ -64,32 +66,32 @@ Ivan has over 20 years of experience in Business Consulting, Training, Search En
 
 <tr>
 <td>Full Fee</td>
-<td>$1,296</td>
+<td>$810</td>
 </tr>
 
 <tr>
   <td>Singapore Citizen<sup>0</sup> (70% funding)</td>
-<td>$385.20</td>
+<td>$240.75</td>
 </tr>
 	
 <tr>
   <td>Singapore Citizen 40 years and above<sup>0,1</sup> (90% funding)</td>
-<td>$145.20</td>
+<td>$90.75</td>
 </tr>
 
 <tr>
   <td>Singapore Citizen sponsored by SMEs<sup>0,2</sup> (90% funding)</td>
-<td>$145.20</td>
+<td>$90.75</td>
 </tr>
 
 <tr>
   <td>Singapore PR (70% funding)</td>
-<td>$388.80</td>
+<td>$243</td>
 </tr>
 
 <tr>
 <td>Singapore PR sponsored by SMEs<sup>2</sup> (90% funding)</td>
-<td>$148.80</td>
+<td>$93</td>
 </tr>
 
 </table>

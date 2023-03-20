@@ -1,7 +1,9 @@
 ---
-title: Digital Strategy & the 101 of Search Engine Optimisation (SEO)
-permalink: /digital-programmes/masterclasses-and-workshops/digital-strategy-and-the-101-of-seo/
-breadcrumb: Digital Strategy & the 101 of Search Engine Optimisation (SEO)
+title: Responsive Website Design to Elevate Customer Experience and Enhance
+  Conversions
+permalink: /digital-programmes/mc-ws/responsive-web-design/
+description: ""
+image: /images/images-2021/DigitalProgrammes-Image-Masterclass.png
 third_nav_title: Masterclasses & Workshops
 ---
 <img src="/images/images-2021/DigitalProgrammes-Image-Masterclass.png" style="width:100%;">
@@ -14,37 +16,37 @@ third_nav_title: Masterclasses & Workshops
       <th style="text-align:center;width:50%;">Face-to-Face</th>
     </tr>
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">10 Mar (Fri)</td>
+      <td style="text-align:center;width:50%;">To be confirmed</td>
       <td style="text-align:center;width:50%;">To be confirmed</td>
     </tr>
 </table></center>
 
-<p>Business decision makers will learn how to apply simple digital frameworks, analyse digital campaign successes, formulate an actionable, forward-focus review, perform simple budgeting for digital strategies, project potential marketing ROI from digital campaigns as well as drive sales and boost business through SEO execution. This class covers successful case studies in Singapore and is extremely hands-on.</p>
+<p>Websites are where almost every potential and existing customers land to seek information and interact with businesses today. Just like how visual merchandising is integral to the success of a retail store, every detail of an intuitive website, from layout to content, must be logically constructed and aesthetically designed to elevate customer experience and enhance sales and conversion rates. As technology diversifies and customers use various mobile and smart devices to visit websites, it is paramount and valuable for all digital businesses to have a responsive website design.</p>
 
-<p>This is an introductory program that is suitable for acquiring an overview of existing industry practices in digital marketing and SEO, looking to understand the change in consumer behaviour to adapt their business marketing plans, and seeking clear direction to drive breakthrough marketing campaigns.</p>
+<p>WordPress, the internet’s most popular content management system, is used by 43%* of all websites globally. You can now utilise the Elementor WordPress platform to build a well-optimised website to attract, connect, and engage customers to boost sales. Whether you have an existing WordPress website or considering migrating to WordPress, this hands-on activity-packed masterclass will benefit you tremendously as we guide you to build a website from scratch using Elementor and show you ways to optimise your website to achieve greater success!</p>
+
+<small>*Data source:
+<a href="https://www.cminds.com/blog/wordpress/wordpress-market-share-2021/">https://www.cminds.com/blog/wordpress/wordpress-market-share-2021/</a></small>
 
 <h4>Course Title | Mode of Training | Course Ref</h4>
 
-<p>Digital Strategy & the 101 of Search Engine Optimisation (SEO) 
-<br>Synchronous E-learning -TGS-2020501149</p>
+<p>Responsive Website Design
+<br>Classroom & Asynchronous E-Learning - TGS-2023018431</p>
 
 <h4>Outline</h4>
-<ul>
-<li>Introduction to today’s digital space</li>
-<li>Understand social media, search engine, email marketing and e-Commerce platforms</li>
-<li>Fundamental digital strategy</li>
-<li>Select the right digital channel, craft a simple  digital framework, understand how digital ROI is derived, plan a budget and project returns</li>
-<li>Introduction to SEO</li>
-<li>Determine this channel for growth, understand all necessary aspects of optimisation/ backlinking strategy and know 101 of hiring/ working with SEO vendors</li>
-<li>Evaluating digital campaigns & key metrics</li>
-<li>Create a simple framework to evaluate campaign success or failure and understand key metrics from Google Analytics and Google Webmaster tools</li>
-  </ul>
+* Formulate an optimised website strategy by determining the critical business elements 
+* Create an optimised website design by applying the planning and development of each key stage 
+* Develop an SEO-optimised website by ensuring that the SEO technical structure is in place alongside a data-driven content strategy
+* Design and build optimised and responsive WordPress webpages through use of the Elementor’s templates and features
 
-<h4>Requirements</h4>
-<p>Participants are required to have a Gmail account, bring a laptop and have Google Chrome (Safari on Mac) browser installed for constant practice.</p>
+<h4>Who Should Attend</h4>
+<p>Business Owners, Entrepreneurs, Digital/Social Commerce
+Solopreneurs, Junior/Mid-Level Marketers, and Career
+Switchers</p>
   
 <h4>Duration</h4>
-<p>9am - 6pm (8 hours)</p>
+<p>3 days (9am - 6pm daily)<br>
+Includes 3 hours of Asynchronous E-Learning</p>
   
 <h4>Trainer Profile</h4>
 
@@ -57,9 +59,15 @@ third_nav_title: Masterclasses & Workshops
 		</figure>
 	</div>
 	<div class="col is-8">
-        <b>Jayden Ooi</b><br><i>Entrepreneur, Digital Strategist</i><br><br>Jayden Ooi is highly qualified in practice with many successful digital transformations for SMEs to pivot their brick-and-mortar businesses into the digital space. With his
-expertise, a local retailer successfully redesigned its business model, ranked number one on Google, and achieved more than three million dollars in e-commerce sales. In another instance, he helped a local F&B SME to rise to the top ranking and triple its
-annual revenue. Jayden is an experienced professional in SEO, digital marketing, and e-commerce development. Over the years, he has built a staunch customer portfolio and a successful team in Singapore and Malaysia. His agency, NightOwl SEO, has helped many of his clients to be in the top 5 rankings on Google.
+        <b>Jayden Ooi</b><br><i>Entrepreneur, Digital Strategist</i><br><br>Jayden Ooi is highly qualified in practice with many successful digital transformations
+for SMEs to pivot their brick-and-mortar businesses into the digital space. With his
+expertise, a local retailer successfully redesigned its business model, ranked number
+one on Google, and achieved more than three million dollars in e-commerce sales. In
+another instance, he helped a local F&B SME to rise to the top ranking and triple its
+annual revenue. Jayden is an experienced professional in SEO, digital marketing, and
+e-commerce development. Over the years, he has built a staunch customer portfolio
+and a successful team in Singapore and Malaysia. His agency, NightOwl SEO, has
+helped many of his clients to be in the top 5 rankings on Google.
 	</div>
 </div>
 
@@ -74,32 +82,32 @@ annual revenue. Jayden is an experienced professional in SEO, digital marketing,
 
 <tr>
 <td>Full Fee</td>
-<td>$810</td>
+<td>$1,728</td>
 </tr>
 
 <tr>
   <td>Singapore Citizen<sup>0</sup> (70% funding)</td>
-<td>$240.75</td>
+<td>$513.60</td>
 </tr>
 	
 <tr>
   <td>Singapore Citizen 40 years and above<sup>0,1</sup> (90% funding)</td>
-<td>$90.75</td>
+<td>$193.60</td>
 </tr>
 
 <tr>
   <td>Singapore Citizen sponsored by SMEs<sup>0,2</sup> (90% funding)</td>
-<td>$90.75</td>
+<td>$193.60</td>
 </tr>
 
 <tr>
   <td>Singapore PR (70% funding)</td>
-<td>$243</td>
+<td>$518.40</td>
 </tr>
 
 <tr>
 <td>Singapore PR sponsored by SMEs<sup>2</sup> (90% funding)</td>
-<td>$93</td>
+<td>$198.40</td>
 </tr>
 
 </table>
@@ -128,7 +136,6 @@ annual revenue. Jayden is an experienced professional in SEO, digital marketing,
 <ul>
   <li><a href="/services/consultancy/absentee-payroll-ap">Absentee Payroll</a></li>
   <li><a href="/services/consultancy/wss-companies">Workfare Skills Support (WSS) Scheme (For Companies)</a></li>
-	<li><a href="/services/consultancy/skillsfuture-enterprise-credit">SkillsFuture Enterprise Credit</a></li>
   </ul>
 
 <p>For more information about funding and support, click <a href="/services/consultancy">here.</a></p>
