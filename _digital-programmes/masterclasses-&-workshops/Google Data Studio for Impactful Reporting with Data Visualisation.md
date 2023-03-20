@@ -22,7 +22,11 @@ third_nav_title: Masterclasses & Workshops
 
 <p>No matter the business size, data is a critical resource for valuable insights into business performance and making informed decisions to drive efficiency. Google Data Studio provides you with a free reporting platform that allows you to easily connect to data sources, such as Google Analytics, Google Ads, Google BigQuery, YouTube Analytics, Campaign Manager 360, MySQL and many more, to maximise the value of data through its powerful visualisation tool that is highly effective in providing a fast and easy understanding of large data volumes.</p>
 
-<p>Learn the ins and outs of Google Data Studio from this masterclass to help you make sense of complex data and tap on potential growth opportunities by making smarter and swifter decisions in optimising your business and marketing performance. Whether you are a business owner, digital marketer or data analyst, this hands-on training will speed up your professional knowledge and skillsets in mastering the techniques and strategies of Google Data Studio to unravel the power of data visualisation, unlock deep business insights, and gain a stronger foothold among your competition.</p>
+<p>Unravel the power of data visualisation from this Google Data Studio masterclass to help you make sense of
+complex data and tap on potential growth opportunities by making smarter and swifter decisions in optimising
+your business and marketing performance. Whether you are a business owner, digital marketer or data analyst,
+this hands-on training will enhance your professional knowledge and skillsets in mastering the techniques and
+strategies to unlock deep business insights and gain a stronger foothold among your competition.</p>
 
 
 <h4>Course Title | Mode of Training | Course Ref</h4>
