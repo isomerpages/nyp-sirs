@@ -23,7 +23,8 @@ third_nav_title: Masterclasses & Workshops
 
 <p>Websites are where almost every potential and existing customers land to seek information and interact with businesses today. Just like how visual merchandising is integral to the success of a retail store, every detail of an intuitive website, from layout to content, must be logically constructed and aesthetically designed to elevate customer experience and enhance sales and conversion rates. As technology diversifies and customers use various mobile and smart devices to visit websites, it is paramount and valuable for all digital businesses to have a responsive website design.</p>
 
-<p>WordPress, the internet’s most popular content management system, is used by 43%* of all websites globally. You can now utilise the Elementor WordPress platform to build a well-optimised website to attract, connect, and engage customers to boost sales. Whether you have an existing WordPress website or considering migrating to WordPress, this hands-on activity-packed masterclass will benefit you tremendously as we guide to build a website from scratch using Elementor and ways you can optimise your website to achieve greater heights of success!.</p>
+<p>WordPress, the internet’s most popular content management system, is used by 43%* of all websites globally. You can now utilise the Elementor WordPress platform to build a well-optimised website to attract, connect, and engage customers to boost sales. Whether you have an existing WordPress website
+or considering migrating to WordPress, this hands-on activity-packed masterclass will benefit you tremendously as we guide you to build a website from scratch using Elementor and show you ways to optimise your website to achieve greater heights of success!</p>
 
 <small>*Data source:
 <a href="https://www.cminds.com/blog/wordpress/wordpress-market-share-2021/">https://www.cminds.com/blog/wordpress/wordpress-market-share-2021/</a></small>
@@ -36,11 +37,13 @@ third_nav_title: Masterclasses & Workshops
 <h4>Outline</h4>
 * Formulate an optimised website strategy by determining the critical business elements 
 * Create an optimised website design by applying the planning and development of each key stage 
-* Develop an SEO-optimised website by ensuring that the SEO technical structure is in place       		alongside a data-driven content strategy
-* Design and build optimised and responsive WordPress webpages through use of the 			Elementor’s templates and features
+* Develop an SEO-optimised website by ensuring that the SEO technical structure is in place alongside a data-driven content strategy
+* Design and build optimised and responsive WordPress webpages through use of the Elementor’s templates and features
 
 <h4>Who Should Attend</h4>
-<p>Individuals (home-based business, digital/social commerce solopreneurs), New Business Owners, Entrepreneurs, Junior/Mid-Level Marketers, Growth Performance Marketers, and Career Switchers.</p>
+<p>Business Owners, Entrepreneurs, Digital/Social Commerce
+Solopreneurs, Junior/Mid-Level Marketers, and Career
+Switchers</p>
   
 <h4>Duration</h4>
 <p>3 days (9am - 6pm daily)<br>
@@ -57,7 +60,15 @@ Includes 3 hours of Asynchronous E-Learning</p>
 		</figure>
 	</div>
 	<div class="col is-8">
-        <b>Jayden Ooi</b><br><i>Entrepreneur, Digital Strategist</i><br><br>Jayden Ooi is an entrepreneur that founded his own SEO agency 7 years ago. He is an experienced professional with expertise in SEO, digital marketing and eCommerce development. During his entrepreneurship journey, Jayden Ooi has built up a staunch customer portfolio and a successful team in Singapore and Malaysia over the past 7 years. He has consulted with many SMEs, to pivot their brick and mortar business into the digital space, for instance, helping a local bicycle retailer to be ranked on the top of Google, and working with them to re-design their business model and positioning them into an exciting, trending, forward looking brand that is in tune with the younger digital consumers of today. One of his prominent clients was a local F&B SME, where a rank 1 SEO rank and a re-designed website, tripled their annual revenue. Today, his agency, NightOwl SEO is ranked on page 1 of Google, and he is ranked in the top 5 for more than 25 over industries for his customers.
+        <b>Jayden Ooi</b><br><i>Entrepreneur, Digital Strategist</i><br><br>Jayden Ooi is highly qualified in practice with many successful digital transformations
+for SMEs to pivot their brick-and-mortar businesses into the digital space. With his
+expertise, a local retailer successfully redesigned its business model, ranked number
+one on Google, and achieved more than three million dollars in e-commerce sales. In
+another instance, he helped a local F&B SME to rise to the top ranking and triple its
+annual revenue. Jayden is an experienced professional in SEO, digital marketing, and
+e-commerce development. Over the years, he has built a staunch customer portfolio
+and a successful team in Singapore and Malaysia. His agency, NightOwl SEO, has
+helped many of his clients to be in the top 5 rankings on Google.
 	</div>
 </div>
 
