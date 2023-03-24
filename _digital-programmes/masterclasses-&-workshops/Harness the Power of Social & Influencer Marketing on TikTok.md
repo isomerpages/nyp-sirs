@@ -39,17 +39,21 @@ Tap into the explosive growth of TikTok to drive conversions and optimise return
 <p>Drive Conversions & Optimise Returns with Social & Influencer Marketing<br>Classroom - TGS-2022013325</p>
 
 <h4>Outline</h4>
-* Appreciate the importance of video content in social media engagement
-* Strategise and craft engaging video content on YouTube using Creative Commons
-* Edit YouTube Creative Commons using video editing tools such as Filmora and CapCut
-* Identify keywords to maximise exposure for your video content using tools like VidIQ and Google Trends
+* Identify and analyse social media trends and insights to create effective marketing campaigns
+* Build and execute social media and influencer marketing strategies that align with business objectives and target audiences
+* Identify, negotiate, and partner with influencers and develop relationships that align with brand values and messaging
+* Plan and create content calendars and manage social media accounts
+* Understand legal and ethical considerations for social media and influencer marketing
+* Develop creative video, image, copy and caption for effective TikTok content
 
 <h4>Who Should Attend</h4>
-<p>This workshop is suitable for Marketing Executives/Managers, Business Owners, Entrepreneurs, Digital Content Creators and individuals who are interested to generate side income through YouTube.</p>
+<p>This workshop is suitable for Business Owners, Entrepreneurs, Marketers, Content Creators, and Influencers who want to plan and create content to market their products and services on TikTok.</p>
 	
 <h4>Requirements</h4>
 <ul>
-<li>Bring your own laptop</li>
+<li>Have a TikTok account</li>
+<li>Bring your mobile device (smartphone/iPad/tablet with camera)
+<li>Bring your own laptop
 </ul>
 
 <h4>Duration</h4>
