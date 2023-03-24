@@ -52,12 +52,12 @@ Tap into the explosive growth of TikTok to drive conversions and optimise return
 <h4>Requirements</h4>
 <ul>
 <li>Have a TikTok account</li>
-<li>Bring your mobile device (smartphone/iPad/tablet with camera)
-<li>Bring your own laptop
+<li>Bring your mobile device (smartphone/iPad/tablet) with camera</li>
+<li>Bring your own laptop</li>
 </ul>
 
 <h4>Duration</h4>
-<p>2 days (9am - 6pm)<br>Includes 2 hours Asynchronous E-Learning</p>
+<p>2 days (9am - 6pm)</p>
 
 
 <h4>Fees (GST 8% - For payment made on/after 1 Jan 2023)</h4>
