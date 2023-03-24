@@ -41,7 +41,7 @@ Tap into the explosive growth of TikTok to drive conversions and optimise return
 <h4>Outline</h4>
 * Identify and analyse social media trends and insights to create effective marketing campaigns
 * Build and execute social media and influencer marketing strategies that align with business objectives and target audiences
-* Identify, negotiate, and partner with influencers and develop relationships that align with brand values and messaging
+* Recognise, negotiate, and partner with influencers and develop relationships that align with brand values and messaging
 * Plan and create content calendars and manage social media accounts
 * Understand legal and ethical considerations for social media and influencer marketing
 * Develop creative video, image, copy and caption for effective TikTok content
