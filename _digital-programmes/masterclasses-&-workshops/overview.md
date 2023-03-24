@@ -44,7 +44,8 @@ in the New Retail Revolution</a></li>
   <li><a href="/digital-programmes/masterclasses-and-workshops/differentiate-and-drive-growth-with-experience-innovation">Differentiate and Drive Growth with Experience Innovation</a></li>
 	<li><a href="/digital-programmes/mc-ws/mindset">Digital Transformation with a New Mindset</a></li>
 	<li><a href="/digital-programmes/mc-ws/oms">Generate Leads for Free and Maximise Your Sales Conversions</a></li>
-	  <li><a href="/digital-programmes/mc-ws/wellness">Holistic Wellness for a Resilient You</a></li>
+	<li><a href="/digital-programmes/mc-ws/tiktokmarketing">Harness the Power of Social & Influencer Marketing on TikTok </a></li>
+ <li><a href="/digital-programmes/mc-ws/wellness">Holistic Wellness for a Resilient You</a></li>
   <li><a href="/digital-programmes/masterclasses-and-workshops/improve-customer-engagement-with-digital-mindset">Improve Customer Engagement with Digital Mindset</a></li>
 	<li><a href="/digital-programmes/mc-ws/hbb">Jumpstart and Grow Your Home-Based Business</a></li>
   <li><a href="/digital-programmes/masterclasses-and-workshops/level-up-customer-engagement-through-live-streaming">Level Up Customer Engagement Through Live Streaming</a></li>
