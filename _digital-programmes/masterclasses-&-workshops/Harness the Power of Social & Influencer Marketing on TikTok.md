@@ -18,18 +18,10 @@ third_nav_title: Masterclasses & Workshops
     </tr>
 </table></center>
 
-<p>Social and influencer marketing has exploded as more people turn to social media platforms and
-influencers for inspiration and recommendations. Video content has become a crucial component of
-social media marketing because of its effectiveness in engaging and captivating audiences today. The
-growing popularity of short-form video content has led to the rise of TikTok as a new contender amongst
-social media giants like Facebook and Instagram. In just five years, TikTok has amassed over one billion*
-users worldwide! It is no longer surprising to see TikTokers recording themselves executing the trending
-dance moves on the streets or going live to chat and engage with friends and followers.</p>
+<p>Social and influencer marketing has exploded as more people turn to social media platforms and influencers for inspiration and recommendations. Video content has become a crucial component of
+social media marketing because of its effectiveness in engaging and captivating audiences today. The growing popularity of short-form video content has led to the rise of TikTok as a new contender amongst social media giants like Facebook and Instagram. In just five years, TikTok has amassed over one billion* users worldwide! It is no longer surprising to see TikTokers recording themselves executing the trending dance moves on the streets or going live to chat and engage with friends and followers.</p>
 	
-<p>This workshop is designed to equip you with the skills and knowledge needed to navigate this rapidly
-growing social platform. You will gain hands-on experience creating a step-by-step strategy for integrated
-social media content, including developing a content calendar and creating different types of content.
-Tap into the explosive growth of TikTok to drive conversions and optimise returns!</p>
+<p>This workshop is designed to equip you with the skills and knowledge needed to navigate this rapidly growing social platform. You will gain hands-on experience creating a step-by-step strategy for integrated social media content, including developing a content calendar and creating different types of content. Tap into the explosive growth of TikTok to drive sales conversions and optimise returns!</p>
 
 <small>*Data source:
 <a href="https://newsroom.tiktok.com/en-us/1-billion-people-on-tiktok">https://newsroom.tiktok.com/en-us/1-billion-people-on-tiktok</a></small>
