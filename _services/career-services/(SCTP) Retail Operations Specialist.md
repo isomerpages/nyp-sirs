@@ -7,11 +7,8 @@ third_nav_title: Career Services
 ---
 ![SkillsFuture Career Transition Programme (SCTP)](/images/images-2021/Services-CareerServices-SCTP-Overview.png)
 
-<p>Retail industry has seen significant changes in the past few years with digitalisation taking place in the everyday life of today's connected consumer. While online shopping continues to increase, the demand for the physical store will remain relevant especially for goods that require touch and feel. This derived the concept of ‘New Retail’, the integration of offline and online platforms with the use of data technology to deliver experience-focused service standards to meet the needs of consumers today.  Store Managers are highly valued for their ability to optimise technology advancement to drive day-to-day operations and make data-based decisions.</p> 
+<p>Equip yourself with the skills and knowledge to implement and manage customer-centric business excellence and drive service innovation. Learn to recognise current and emerging retail trends and understand which kinds of retail technology will best engage your customer segment. The leadership knowledge you will gain in this course will develop your effectiveness in handling staff and identifying training opportunities for them. Upon completion, you will attain a WSQ Diploma in Retail (Operations) to boost your potential of becoming a Retail Operations Specialist!</p> 
 
-<p>Whether you are interested in honing yourself with 21st century leadership skills to lead your staff or upskilling yourself to manage today’s Online Merge Offline world of retailing, the latest WSQ DRO will be the best investment you can offer to yourself.</p>
-
-<p>This programme equips you with the skills and knowledge to implement and manage customer-centric business excellence and drive service innovation. This knowledge will enable you to recognise current and emerging retail trends, and understand which kinds of retail technology will best engage your customer segment, and the leadership knowledge you will gain in this course will develop your effectiveness in handling staff and identifying training opportunities for them.</p>
 
 <h4>Modules</h4>
 
@@ -98,8 +95,8 @@ This course will be conducted online. Participants must have the following:
 <br><small><i><sup>0</sup>The increase of 1% GST on fees will be absorbed for Singapore Citizens in 2023
 <br><small><i><sup>1</sup>Fee is under the <a href="/services/consultancy/skillsfuture-midcareer-enhanced-subsidy">Mid-career Enhanced Subsidy(MCES)</a>
 <br><sup>2</sup>Fee is under Additional Funding Support (AFS) for Singapore Citizens who meet one of the following eligibility criteria:<br> 
-	- long-term unemployed individuals (unemployed for six months or more); or
-	- Individuals in need of financial assistance - ComCare, Short-to-Medium Term Assistance (SMTA) recipients or Workfare Income Supplement (WIS) recipients; or
+	- long-term unemployed individuals (unemployed for six months or more); or<br>
+	- Individuals in need of financial assistance - ComCare, Short-to-Medium Term Assistance (SMTA) recipients or Workfare Income Supplement (WIS) recipients; or<br>
 	- Persons with disabilities
 </i></small>
 
