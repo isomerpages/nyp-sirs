@@ -29,3 +29,10 @@ third_nav_title: Career Services
 </p>
 
 <a href="/digital-programmes/redeployment-job-redesign-reskilling-pcp" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;" target="_blank">Find Out More</a>
+
+<h4>Train-and-Place Programme</h4>
+
+<b>SkillsFuture Career Transition Programme (SCTP)</b>
+<p>The SCTP is an initiative by the SkillsFuture Singapore to support mid-career individuals in upskilling and reskilling themselves with industry-relevant skills and knowledge to boost their employability to take on new or enhanced job opportunities in the retail and new sectors. Trainees will receive advisory and employment facilitation by our team of qualified Career Advisors from SIRS at no cost.</p>
+
+<a href="/services/career-services/sctp" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;" target="_blank">Find Out More</a>
