@@ -16,26 +16,29 @@ drive traffic and enhance the performance of the store’s online presence. Upon
 you will **attain a WSQ Diploma in Retail (E-Commerce/Omni-Channel)** to improve your chances of
 becoming a Digital Commerce Specialist!</p> 
 
-
 <h4>Modules</h4>
 
 <p>To achieve a full qualification, individuals must successfully attain competency in all the following modules:</p>
 
-<b>Global Mindset (Intermediate) (24 hours)</b><br>Evaluate local & global issues & trends that impact one's employability & job role and to be able to identify competency gaps, determine training and development needs and to establish & evaluate appropriate training & learning opportunities for all including the implementation of a conducive work environment to facilitate transfer of knowledge & skills.
+<b>Customer Experience Innovation (18 hours)</b><br>Develop your skills in enhancing customer experience. Learn the techniques in identifying and mapping the organisation’s current customer journey, followed by analysing for gaps in the journey before seeking, evaluating and implementing proposed improvements.  
  
-<b>Sales Target Management (24 hours)</b><br>Set, communicate, drive and motivate staff to achieve sales target and to review social-economic changes in the local context as well as assess impact of external economic and political events on the local retailing environment and to make changes to target set inability to reflect actual situation.
+<b>Emerging Technology (18 hours)</b><br>
+With emerging technologies and evolving consumer behaviour, the ability to lead analysis and drive the implementation of emerging technologies for organisational effectiveness is an essential skill. Learn to shape organisations' strategies and objectives for process improvement and change management.
  
-<b>Workplace Communication (18 hours)</b><br>Use appropriate methods / equipment / platform to communicate policies and procedure to staff and monitor their compliance including evaluating the effectiveness of such methods / channels.
+<b>Search Engine Optimisation (SEO) (24 hours)</b><br>Formulate overarching SEO strategies for the organisation's digital assets and content, and evaluate the effectiveness of SEO strategies across channels in terms of ROI. Acquire skills to manage, execute, monitor, and conduct analysis on the performance of SEO campaigns across channels. 
  
-<b>Productivity Improvement (30 hours)</b><br>Manage productivity action plans and initiatives that include reviewing potential areas & opportunities as well as evaluating tools and techniques for productivity measurement and improvement.
+<b>Paid Search Engine Marketing (SEM) (24 hours)</b><br>Acquire skills to manage, review and monitor the implementation of SEM strategies, establish targets and conduct analysis on the performance of SEM campaigns and recommend opportunities for improvement to strengthen digital marketing efforts by using various paid search engine digital marketing tools.
  
-<b>Service Leadership (30 hours)</b><br>Recognise the characteristics of a leader and to discharge the roles & responsibilities of a leader in operationalising the organization's service vision, mission and values - entailing ways to promote a customer centric environment as well as analysing the performance of individual member and the team with the intent to identify follow-up actions for improvement.
+<b>Website Design (24 hours)</b>
+<br>Understand how consumers make purchase decisions, and how the design and content of a website plays an important role in converting its visitors will greatly improve an online business. Learn to create a website based on well-established principles of good website design.
  
-<b>Customer Experience Innovation (18 hours)</b><br>Develop insights & methods to enhance customer experience by identifying and mapping the organization's current customer journey. Then after, to analyse for gaps in the journey before seeking, evaluating, and implementing proposed environments.
+<b>Social Media Marketing (24 hours)</b>
+<br>Learn the factors to evaluate potential, suitable and feasible social media marketing opportunities. Draw up a social media marketing strategy best suited to the objectives of the organisation to outreach to new consumers and to continually engage current customers.
  
-<b>Retailing & the Economy (24 hours)</b><br>Understand key considerations and target markets in retailing as well as the application of the following concepts in the context of retailing: scarcity, opportunity costs, demand & supply, elasticity, utility.
+<b>Content Management (24 hours)</b>
+<br> Businesses are constantly seeking opportunities and means to reach, engage and retain consumers in building their presence online. Learn to identify key messages, themes, tone and personality for content; store content and manage information architecture and visual compositions of multimedia sites.
  
-<b>Financial Analysis (30 hours)</b><br>Evaluate financial ratios, perform cost-benefits analysis and analyse the short and long term financial implications for the business to facilitate decision-making by management including the proper presentation of financial analysis to the management.
+<b>Merchandise Performance Analysis (24 hours)</b><br>It is important to optimise inventory in an omni-commerce business. In this module, participants will develop processes to analyse the profit performance of the merchandise, evaluate trends of profitability, identify opportunities to adjust merchandise range for both online/offline businesses and create an O2O product strategy.
 
 <h4>Course Title | Mode of Training | Course Ref</h4>
 (SCTP) Retail Operations Specialist
