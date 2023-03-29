@@ -7,7 +7,7 @@ third_nav_title: Career Services
 ---
 ![SCTP Retail Operations Specialist](/images/images-2021/Services-CareerServices-SCTP-ROS1.png)
 
-<p>Equip yourself with the skills and knowledge to implement and manage customer-centric business excellence and drive service innovation. Learn to recognise current and emerging retail trends and understand which kinds of retail technology will best engage your customer segment. The leadership knowledge you will gain in this course will develop your effectiveness in handling staff and identifying training opportunities for them. Upon completion, you will attain a WSQ Diploma in Retail (Operations) to boost your potential of becoming a Retail Operations Specialist!</p> 
+<p>Equip yourself with the skills and knowledge to implement and manage customer-centric business excellence and drive service innovation. Learn to recognise current and emerging retail trends and understand which kinds of retail technology will best engage your customer segment. The leadership knowledge you will gain in this course will develop your effectiveness in handling staff and identifying training opportunities for them. Upon completion, you will **attain a WSQ Diploma in Retail (Operations)** to boost your potential of becoming a Retail Operations Specialist!</p> 
 
 
 <h4>Modules</h4>
