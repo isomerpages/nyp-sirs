@@ -37,4 +37,4 @@ Additional Funding Support (AFS) of up to 95% of course fees for Singapore Citiz
 <b> Additionally, individuals can use their **SkillsFuture Credit** to offset the out-of-pocket SCTP course fees.
 
 
-<center><a href="https://form.gov.sg/602f3c1c08dce8001276454a" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center>
+<center><a href="https://form.gov.sg/6423bf34b69f64001223fa1a" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center>
