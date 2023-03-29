@@ -36,4 +36,6 @@ third_nav_title: Career Services
 Additionally, individuals can use their **SkillsFuture Credit** to offset the out-of-pocket SCTP course fees.
 
 
-<center><a href="https://form.gov.sg/6423bf34b69f64001223fa1a" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center>
+<div style="width:50%;float:left;"><center><a href="https://form.gov.sg/63d499220d2669001106ab27" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Register Now</a></center></div>
+
+<div style="width:50%;float:left;"><center><a href="https://form.gov.sg/6423bf34b69f64001223fa1a" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center></div>
