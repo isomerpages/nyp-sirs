@@ -13,7 +13,7 @@ management in response to the changes in the customer journey. Pick up skills to
 website with engaging content to attract and convert visitors to become customers. With the skills and
 knowledge acquired, you will also strengthen digital marketing efforts with the use of various tools to
 drive traffic and enhance the performance of the store’s online presence. Upon completion of the course,
-you will **attain a WSQ Diploma in Retail (E-Commerce/Omni-Channel)** to improve your chances of
+you will <b>attain a WSQ Diploma in Retail (E-Commerce/Omni-Channel)</b> to improve your chances of
 becoming a Digital Commerce Specialist!</p> 
 
 <h4>Modules</h4>
