@@ -2,6 +2,7 @@ collections:
   services:
     output: true
     order:
+      - career-services/(SCTP) Digital Commerce Specialist.md
       - career-services/.keep
       - career-services/career-services-overview.md
       - career-services/Career Conversion Programme for Retail Industry (CCP RI)
