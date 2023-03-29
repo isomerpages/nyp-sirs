@@ -41,13 +41,14 @@ With emerging technologies and evolving consumer behaviour, the ability to lead 
 <b>Merchandise Performance Analysis (24 hours)</b><br>It is important to optimise inventory in an omni-commerce business. In this module, participants will develop processes to analyse the profit performance of the merchandise, evaluate trends of profitability, identify opportunities to adjust merchandise range for both online/offline businesses and create an O2O product strategy.
 
 <h4>Course Title | Mode of Training | Course Ref</h4>
-(SCTP) Retail Operations Specialist
-<br>Synchronous E-Learning - TGS-2022017532
+(SCTP) Digital Commerce Specialist
+<br>Synchronous E-Learning - TGS-2022017531
 
 <h4>Entry Requirements</h4>
 <ul>
 <li>GCE ‘O’ level Credit (at least C6) in English and Mathematics or Workplace Literacy and Numeracy (WPLN) score: Level 6 for Reading, Listening and Numeracy, and</li>
 <li>With at least 3 years supervisory/managerial working experience in retail or Professional/Managerial/Management Executive (PME) position in non-retail sector</li>
+	<li>Preferably possess basic knowledge and skills in Marketing/ Digital Marketing/ Advertising/ Public Relations/ E-Commerce</li>
 </ul>
 
 <h4> Requirements</h4>
@@ -59,7 +60,7 @@ This course will be conducted online. Participants must have the following:
 
 
 <h4>Duration</h4>
-198 hours, Part-time
+180 hours, Full-time or Part-time
 
 <h4>Fees (GST 8% - For payment made on/after 1 Jan 2023)</h4>
 
