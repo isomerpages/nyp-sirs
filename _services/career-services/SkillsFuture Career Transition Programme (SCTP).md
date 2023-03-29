@@ -22,13 +22,13 @@ third_nav_title: Career Services
 <h4>Funding</h4>
 
 **Singapore Citizen / Singapore PR 21 years and above**
-<br>Baseline subsidy of up to **70% of course fees**
+<br>Baseline subsidy of up to ***70% of course fees***
 
 **Singapore Citizen 40 years and above**
-<br>Enhanced subsidy of up to **90% of course fees** under the Mid-Career Enhanced Subsidy (MCES)
+<br>Enhanced subsidy of up to ***90% of course fees*** under the Mid-Career Enhanced Subsidy (MCES)
 
 **Eligible Singapore Citizen**
-<br>Additional Funding Support (AFS) of up to 95% of course fees for Singapore Citizens who meet one of the following eligibility criteria:
+<br>Additional Funding Support (AFS) of up to ***95% of course fees*** for Singapore Citizens who meet one of the following eligibility criteria:
 * Long-term unemployed individuals (unemployed for six months or more); or
 * Individuals in need of financial assistance - ComCare, Short-to-Medium Term Assistance (SMTA) recipients or Workforce Income Supplement (WIS) recipients; or
 * Persons with disabilities
