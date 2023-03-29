@@ -73,28 +73,28 @@ This course will be conducted online. Participants must have the following:
 
 <tr>
 <td>Full Qualification (8 modules) Full Fee</td>
-<td>$7,257.60</td>
+<td>$8,154</td>
 </tr>
 
 <tr>
   <td>Singapore Citizen<sup>0</sup> (70% funding)</td>
-<td>$2,157.12</td>
+<td>$2,423.55</td>
 </tr>
 	
 <tr>
   <td>Singapore PR (70% funding)</td>
-<td>$2,177.28</td>
+<td>$2,446.20</td>
 </tr>
 	
 <tr>
   <td>Singapore Citizen 40 years and above<sup>0,1</sup> (90% funding)</td>
-<td>$813.12</td>
+<td>$913.55</td>
 </tr>
 
 
 <tr>
 <td>Eligible Singapore Citizen<sup>2</sup> (95% funding)</td>
-<td>$477.12</td>
+<td>$536.05</td>
 </tr>
 
 </table>
