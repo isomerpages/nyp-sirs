@@ -2,7 +2,6 @@ collections:
   services:
     output: true
     order:
-      - career-services/(SCTP) Retail Operations Specialist.md
       - career-services/.keep
       - career-services/career-services-overview.md
       - career-services/Career Conversion Programme for Retail Industry (CCP RI)
@@ -10,6 +9,7 @@ collections:
       - career-services/CCP RI For Candidates.md
       - career-services/CCP RI For Companies.md
       - career-services/SkillsFuture Career Transition Programme (SCTP).md
+      - career-services/(SCTP) Retail Operations Specialist.md
       - career-services/skillsfuture-work-study-programme.md
       - career-services/redeployment-ccp.md
       - career-services/skillsfuture-work-study-certificate-bootcamp-in-digital-marketing-branding.md
