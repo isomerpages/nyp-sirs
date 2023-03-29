@@ -22,10 +22,10 @@ third_nav_title: Career Services
 <h4>Funding</h4>
 
 <b>Singapore Citizen / Singapore PR 21 years and above</b><br>
-Baseline subsidy of up to **70% of course fees**</br>
+Baseline subsidy of up to **70% of course fees**
 
 <b>Singapore Citizen 40 years and above</b><br>
-Enhanced subsidy of up to **90% of course fees** under the Mid-Career Enhanced Subsidy (MCES)</br>
+Enhanced subsidy of up to **90% of course fees** under the Mid-Career Enhanced Subsidy (MCES)
 
 <b>Eligible Singapore Citizen</b><br>
 Additional Funding Support (AFS) of up to 95% of course fees for Singapore Citizens who meet one of the following eligibility criteria:
@@ -34,7 +34,7 @@ Additional Funding Support (AFS) of up to 95% of course fees for Singapore Citiz
 * Individuals in need of financial assistance - ComCare, Short-to-Medium Term Assistance (SMTA) recipients or Workforce Income Supplement (WIS) recipients; or
 * Persons with disabilities
 
-<b> Additionally, individuals can use their **SkillsFuture Credit** to offset the out-of-pocket SCTP course fees.
+Additionally, individuals can use their **SkillsFuture Credit** to offset the out-of-pocket SCTP course fees.
 
 
 <center><a href="https://form.gov.sg/6423bf34b69f64001223fa1a" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center>
