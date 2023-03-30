@@ -16,7 +16,7 @@ third_nav_title: WSQ Certified Modular Programmes
     </tr>
     <tr style="text-align:center;">
       <td style="text-align:center;width:50%;">To be confirmed</td>
-      <td style="text-align:center;width:50%;">8-9 Mar (Wed-Thu)<br>17-18 May (Wed-Thu)</td>
+      <td style="text-align:center;width:50%;">15-16 May (Mon-Tue)<br>14-15 June (Wed-Thu)</td>
     </tr>
 </table></center>
 

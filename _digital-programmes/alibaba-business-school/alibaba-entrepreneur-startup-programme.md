@@ -16,7 +16,7 @@ Open Your Horizons. Apply Proven E-Commerce Strategies</center>
 
 <h4 style="text-align:center;">Next intake:</h4>
 
-<center><p>Online Training: 1-3 Mar & 6-8 Mar 2023<br>(Wed-Fri & Mon-Wed)</p></center>
+<center><p>To be confirmed</p></center>
 
 <b>This programme will be conducted in English.</b>
 
