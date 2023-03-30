@@ -18,7 +18,7 @@ Holistic Hands-on Content Marketing Techniques</center>
 
 <center><table style="width:80%;">
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;"> 23 & 24, 29 -31 March 2023 (Conducted in English)</td>
+      <td style="text-align:center;width:50%;"> To be confirmed</td>
     </tr>
 </table></center>
 
