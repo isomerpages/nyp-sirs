@@ -3,31 +3,31 @@ title: Become a Successful YouTuber and Boost Your Earnings
 permalink: /digital-programmes/mc-ws/youtube/
 description: SIRS Workshop - Become a Successful YouTuber and Boost Your Earnings
 image: /images/images-2021/DigitalProgrammes-HImage-Workshop.png
-third_nav_title: Masterclasses & Workshops
+third_nav_title: Masterclasses &amp; Workshops
 ---
 <img src="/images/images-2021/DigitalProgrammes-HImage-Workshop.png" style="width:100%;">
 
 <h4 style="text-align:center;">Next intake:</h4>
 
 <center><table style="width:80%;">
-    <tr style="text-align:center;">
+    <tbody><tr style="text-align:center;">
       <th style="text-align:center;width:50%;">Face-to-Face</th>
     </tr>
     <tr style="text-align:center;">
       <td style="text-align:center;width:50%;">4-5 May (Thu-Fri) </td>
     </tr>
-</table></center>
+</tbody></table></center>
 
 <p>Conduct a quick search online now, and you will find YouTube as the second-most popular platform for search engines and social media. There are 2.6 billion* active YouTube users who watch 1 billion* hours of videos daily, and 90%* of them say they discover new brands or products through the platform - it is no wonder that businesses and individuals are actively uploading 720,000* hours of video every day on YouTube to interact and engage with their community!</p>
 	
-<p>You can become a successful YouTuber with a well-thought-out strategy. Through a step-by-step process in this workshop, you will create engaging video content to captivate your audience and enhance their level of engagement to help you boost your earning potential on the world’s biggest online video platform. No matter your business industry, job role or purpose, there’s a place for you on YouTube!!</p>
+<p>You can become a successful YouTuber with a well-thought-out strategy. Through a step-by-step process in this workshop, you will create engaging video content to captivate your audience and enhance their level of engagement to help you boost your earning potential on the world’s biggest online video platform. No matter your business industry, job role or purpose, there’s a place for you on YouTube!</p>
 
 <small>*Data source:
 <a href="https://sg.oberlo.com/blog/youtube-statistics">https://sg.oberlo.com/blog/youtube-statistics</a></small>
 
 <h4>Course Title | Mode of Training | Course Ref</h4>
 
-<p>How to Become a YouTuber and Get Paid<br>Classroom & Asynchronous E-Learning - TGS-2023018429</p>
+<p>How to Become a YouTuber and Get Paid<br>Classroom &amp; Asynchronous E-Learning - TGS-2023018429</p>
 
 <h4>Outline</h4>
 * Appreciate the importance of video content in social media engagement
@@ -51,7 +51,7 @@ third_nav_title: Masterclasses & Workshops
 
 <center>
 <table style="width:100%;">
-<tr>
+<tbody><tr>
 <th style="width:70%;">Category</th>
 <th style="width:30%:">Price</th>
 </tr>
@@ -86,7 +86,7 @@ third_nav_title: Masterclasses & Workshops
 <td>$93</td>
 </tr>
 
-</table>
+</tbody></table>
 </center>
 
 
@@ -118,4 +118,4 @@ third_nav_title: Masterclasses & Workshops
 
 <div style="width:50%;float:left;"><center><a href="https://form.gov.sg/#!/5e587a6895e4da0011f0f746" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Register Now</a></center></div>
 
-<div style="width:50%;float:left;"><center><a href="https://form.gov.sg/602f33f172d5100012d6ca8b" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center></div>
+<div style="width:50%;float:left;"><center><a href="https://form.gov.sg/602f33f172d5100012d6ca8b" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center></div></i></small></i></small>
