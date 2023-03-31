@@ -24,14 +24,6 @@ sections:
       alt: SIRS CCP for Retail Industry
       image: /images/images-2021/home-highlights-tiktokmarketing.png
   - infopic:
-      title: Progressive Wage Model (PWM) for the Retail Sector
-      description: "Effective 1 September 2022, employers are to meet the PWM wage and
-        training requirements for workers in five retail job roles.   "
-      button: More about pwm
-      url: /success-and-articles/articles/pwm/
-      image: /images/images-2021/Home-Highlights-PWM.png
-      alt: PWM for the Retail Sector
-  - infopic:
       title: SkillsFuture Career Transition Programme (SCTP)
       description: "The SCTP is a train-and-place initiative to support mid-career
         individuals in upskilling and reskilling themselves to boost their
@@ -40,6 +32,14 @@ sections:
       url: /services/career-services/sctp/
       image: /images/images-2021/home-highlights-sctp.png
       alt: Image alt text
+  - infopic:
+      title: Progressive Wage Model (PWM) for the Retail Sector
+      description: "Effective 1 September 2022, employers are to meet the PWM wage and
+        training requirements for workers in five retail job roles.   "
+      button: More about pwm
+      url: /success-and-articles/articles/pwm/
+      image: /images/images-2021/Home-Highlights-PWM.png
+      alt: PWM for the Retail Sector
   - infopic:
       title: Be the First to Know
       description: Join the SIRS mailing list and receive first-hand news and updates
