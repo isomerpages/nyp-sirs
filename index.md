@@ -6,30 +6,31 @@ sections:
   - hero:
       background: /images/images-2021/Homepage_Banner2.png
   - infopic:
-      title: Career Conversion Programme for Retail Industry (CCP-RI)
-      description: CCP-RI aims at supporting career conversions of new hires and
-        reskilling existing employees to take on jobs in growth areas or
-        redesigned job roles.
-      button: more about CCP-RI
-      url: /services/career-services/ccp-overview/
-      alt: SIRS CCP for Retail Industry
-      image: /images/images-2021/Services-CareerServices-CCP-RI-Header-web.png
-  - infopic:
-      title: GST Rate Change 2023
-      description: The Singapore Government has announced that goods and services tax
-        (GST) rate increase will be staggered over two years.
-      button: "MORE ABOUT GST RATE CHANGE "
-      url: /success-and-articles/articles/gst2023/
-      image: /images/images-2021/Home-Highlights-GST8.png
+      title: Become a Successful YouTuber and Boost Your Earnings
+      description: "No matter your business industry, job role or purpose, there’s a
+        place for you on YouTube! Learn from us and be the next successful
+        YouTuber. "
+      button: more about this workshop
+      url: /digital-programmes/mc-ws/youtube/
+      image: /images/images-2021/home-highlights-youtuber.png
       alt: GST Rate 8% from 1 Jan 2023
   - infopic:
-      title: Retail Industry Transformation Map (ITM) 2025
-      description: In alignment with the refreshed ITM roadmap, check out some of our
-        recommended solutions to help you improve productivity and
-        internationalise.
-      button: MORE ABOUT RETAIL ITM 2025
-      url: /success-and-articles/articles/itm2025/
-      image: /images/images-2021/Home-Highlights-ITM2025.jpg
+      title: Harness the Power of Social & Influencer Marketing on TikTok
+      description: Leverage TikTok’s explosive growth for maximum impact! Learn to
+        navigate this rapidly growing social platform to drive sales conversions
+        and optimise returns.
+      button: more about this workshop
+      url: /digital-programmes/mc-ws/tiktokmarketing/
+      alt: SIRS CCP for Retail Industry
+      image: /images/images-2021/home-highlights-tiktokmarketing.png
+  - infopic:
+      title: SkillsFuture Career Transition Programme (SCTP)
+      description: "The SCTP is a train-and-place initiative to support mid-career
+        individuals in upskilling and reskilling themselves to boost their
+        employability. "
+      button: more about this programme
+      url: /services/career-services/sctp/
+      image: /images/images-2021/Services-CareerServices-SCTP-Overview.png
       alt: Image alt text
   - infopic:
       title: Progressive Wage Model (PWM) for the Retail Sector
