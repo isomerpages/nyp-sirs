@@ -7,15 +7,15 @@ third_nav_title: WSQ Full Qualification Programmes
 
 <h4 style="text-align:center;">Next intake:</h4>
 <center><table style="width:80%;">
-    <tr style="text-align:center;">
+    <tbody><tr style="text-align:center;">
       <th style="text-align:center;width:50%;">Day Training</th>
       <th style="text-align:center;width:50%;">Night Training</th>
     </tr>
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">Feb 2023<br>(Every Wed & Thu)</td>
-      <td style="text-align:center;width:50%;">Mar 2023<br>(Every Tue & Wed)</td>
+      <td style="text-align:center;width:50%;">July 2023 (Every Tue &amp; Thu)<br>Oct 2023 (Every Tue &amp; Thu)</td>
+      <td style="text-align:center;width:50%;">July 2023 (Every Mon, Wed &amp; Thu)<br>Sep 2023 (Every Mon, Wed &amp; Thu)</td>
     </tr>
-</table></center>
+</tbody></table></center>
 
 <p>While a brick-and-mortar store promotes customer experiences with a human touch, the need for digital commerce cannot be overlooked in the 'New Retail' landscape. As consumers move between offline and online platforms, businesses need to recognise the need to shift their business models to effectively engage with their customers and efficiently meet their changing behaviours and expectations.</p>
 	
@@ -63,7 +63,7 @@ With emerging technologies and evolving consumer behaviour, the ability to lead 
 
 <center>
 <table style="width:100%;">
-<tr>
+<tbody><tr>
 <th style="width:70%;">Category</th>
 <th style="width:30%:">Price</th>
 </tr>
@@ -98,7 +98,7 @@ With emerging technologies and evolving consumer behaviour, the ability to lead 
 <td>$936.20</td>
 </tr>
 
-</table>
+</tbody></table>
 </center>
 
 <small><i>Fees include prevailing GST
@@ -124,7 +124,7 @@ With emerging technologies and evolving consumer behaviour, the ability to lead 
 <b>For company-sponsored participants:</b>
 <ul>
   <li><a href="/services/consultancy/absentee-payroll-ap">Absentee Payroll</a></li>
-  <li><a href="/services/consultancy/wss-companies">Workfare Skills Support (WSS) Scheme (For Companies)	<li><a href="/services/consultancy/skillsfuture-enterprise-credit">SkillsFuture Enterprise Credit</a></li></a></li>
+  <li><a href="/services/consultancy/wss-companies">Workfare Skills Support (WSS) Scheme (For Companies)	</a></li><li><a href="/services/consultancy/skillsfuture-enterprise-credit">SkillsFuture Enterprise Credit</a></li>
   </ul>
   
 <p>For more information about funding and support, click <a href="/services/consultancy">here.</a></p>
@@ -133,4 +133,4 @@ With emerging technologies and evolving consumer behaviour, the ability to lead 
 
 <div style="width:50%;float:left;"><center><a href="https://form.gov.sg/602f27830951350012530bee" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center></div>
 
-<p><em>All applications will be evaluated to determine their suitability for admission into the programme. The outcome of all applications will be communicated to applicants before the start of the earliest available intake subjected to submission of the required supporting documents and the minimum enrolment to start a class.</em></p>
+<p><em>All applications will be evaluated to determine their suitability for admission into the programme. The outcome of all applications will be communicated to applicants before the start of the earliest available intake subjected to submission of the required supporting documents and the minimum enrolment to start a class.</em></p></i></small></i></small>
