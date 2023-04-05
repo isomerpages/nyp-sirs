@@ -8,15 +8,15 @@ third_nav_title: WSQ Full Qualification Programmes
 
 <h4 style="text-align:center;">Next intake:</h4>
 <center><table style="width:80%;">
-    <tr style="text-align:center;">
+    <tbody><tr style="text-align:center;">
       <th style="text-align:center;width:50%;">Day Training</th>
       <th style="text-align:center;width:50%;">Night Training</th>
     </tr>
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">Feb 2023<br>(Every Mon & Thu)</td>
-      <td style="text-align:center;width:50%;">Jan 2023<br>(Every Tue & Thu)</td>
+      <td style="text-align:center;width:50%;">May 2023 (Every Mon &amp; Tue)<br>July 2023 (Every Mon &amp; Tue)<br>Nov 2023 (Every Mon &amp; Tue)</td>
+      <td style="text-align:center;width:50%;">May 2023 (Every Tue &amp; Wed)<br> Aug (Every Mon &amp; Thu)<br>Oct 2023 (Every Tue &amp; Wed)</td>
     </tr>
-</table></center>
+</tbody></table></center>
 
 <p>Retail industry has seen significant changes in the past few years with digitalisation taking place in the everyday life of today's connected consumer. While online shopping continues to increase, the demand for the physical store will remain relevant especially for goods that require touch and feel. This derived the concept of ‘New Retail’, the integration of offline and online platforms with the use of data technology to deliver experience-focused service standards to meet the needs of consumers today.  Store Managers are highly valued for their ability to optimise technology advancement to drive day-to-day operations and make data-based decisions.</p> 
 
@@ -28,19 +28,19 @@ third_nav_title: WSQ Full Qualification Programmes
 
 <p>To achieve a full qualification, individuals must successfully attain competency in all the following modules:</p>
 
-<b>Global Mindset (Intermediate) (24 hours)</b><br>Evaluate local & global issues & trends that impact one's employability & job role and to be able to identify competency gaps, determine training and development needs and to establish & evaluate appropriate training & learning opportunities for all including the implementation of a conducive work environment to facilitate transfer of knowledge & skills.
+<b>Global Mindset (Intermediate) (24 hours)</b><br>Evaluate local &amp; global issues &amp; trends that impact one's employability &amp; job role and to be able to identify competency gaps, determine training and development needs and to establish &amp; evaluate appropriate training &amp; learning opportunities for all including the implementation of a conducive work environment to facilitate transfer of knowledge &amp; skills.
  
 <b>Sales Target Management (24 hours)</b><br>Set, communicate, drive and motivate staff to achieve sales target and to review social-economic changes in the local context as well as assess impact of external economic and political events on the local retailing environment and to make changes to target set inability to reflect actual situation.
  
 <b>Workplace Communication (18 hours)</b><br>Use appropriate methods / equipment / platform to communicate policies and procedure to staff and monitor their compliance including evaluating the effectiveness of such methods / channels.
  
-<b>Productivity Improvement (30 hours)</b><br>Manage productivity action plans and initiatives that include reviewing potential areas & opportunities as well as evaluating tools and techniques for productivity measurement and improvement.
+<b>Productivity Improvement (30 hours)</b><br>Manage productivity action plans and initiatives that include reviewing potential areas &amp; opportunities as well as evaluating tools and techniques for productivity measurement and improvement.
  
-<b>Service Leadership (30 hours)</b><br>Recognise the characteristics of a leader and to discharge the roles & responsibilities of a leader in operationalising the organization's service vision, mission and values - entailing ways to promote a customer centric environment as well as analysing the performance of individual member and the team with the intent to identify follow-up actions for improvement.
+<b>Service Leadership (30 hours)</b><br>Recognise the characteristics of a leader and to discharge the roles &amp; responsibilities of a leader in operationalising the organization's service vision, mission and values - entailing ways to promote a customer centric environment as well as analysing the performance of individual member and the team with the intent to identify follow-up actions for improvement.
  
-<b>Customer Experience Innovation (18 hours)</b><br>Develop insights & methods to enhance customer experience by identifying and mapping the organization's current customer journey. Then after, to analyse for gaps in the journey before seeking, evaluating, and implementing proposed environments.
+<b>Customer Experience Innovation (18 hours)</b><br>Develop insights &amp; methods to enhance customer experience by identifying and mapping the organization's current customer journey. Then after, to analyse for gaps in the journey before seeking, evaluating, and implementing proposed environments.
  
-<b>Retailing & the Economy (24 hours)</b><br>Understand key considerations and target markets in retailing as well as the application of the following concepts in the context of retailing: scarcity, opportunity costs, demand & supply, elasticity, utility.
+<b>Retailing &amp; the Economy (24 hours)</b><br>Understand key considerations and target markets in retailing as well as the application of the following concepts in the context of retailing: scarcity, opportunity costs, demand &amp; supply, elasticity, utility.
  
 <b>Financial Analysis (30 hours)</b><br>Evaluate financial ratios, perform cost-benefits analysis and analyse the short and long term financial implications for the business to facilitate decision-making by management including the proper presentation of financial analysis to the management.
  
@@ -58,7 +58,7 @@ third_nav_title: WSQ Full Qualification Programmes
 
 <center>
 <table style="width:100%;">
-<tr>
+<tbody><tr>
 <th style="width:70%;">Category</th>
 <th style="width:30%:">Price</th>
 </tr>
@@ -93,7 +93,7 @@ third_nav_title: WSQ Full Qualification Programmes
 <td>$833.28</td>
 </tr>
 
-</table>
+</tbody></table>
 </center>
 
 
@@ -119,7 +119,7 @@ third_nav_title: WSQ Full Qualification Programmes
 <b>For company-sponsored participants:</b>
 <ul>
   <li><a href="/services/consultancy/absentee-payroll-ap">Absentee Payroll</a></li>
-  <li><a href="/services/consultancy/wss-companies">Workfare Skills Support (WSS) Scheme (For Companies)	<li><a href="/services/consultancy/skillsfuture-enterprise-credit">SkillsFuture Enterprise Credit</a></li></a></li>
+  <li><a href="/services/consultancy/wss-companies">Workfare Skills Support (WSS) Scheme (For Companies)	</a></li><li><a href="/services/consultancy/skillsfuture-enterprise-credit">SkillsFuture Enterprise Credit</a></li>
   </ul>
   
 <p>For more information about funding and support, click <a href="/services/consultancy">here.</a></p>
@@ -128,4 +128,4 @@ third_nav_title: WSQ Full Qualification Programmes
 
 <div style="width:50%;float:left;"><center><a href="https://form.gov.sg/602f27830951350012530bee" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center></div>
 
-<p><em>All applications will be evaluated to determine their suitability for admission into the programme. The outcome of all applications will be communicated to applicants before the start of the earliest available intake subjected to submission of the required supporting documents and the minimum enrolment to start a class.</em></p>
+<p><em>All applications will be evaluated to determine their suitability for admission into the programme. The outcome of all applications will be communicated to applicants before the start of the earliest available intake subjected to submission of the required supporting documents and the minimum enrolment to start a class.</em></p></i></small></i></small>

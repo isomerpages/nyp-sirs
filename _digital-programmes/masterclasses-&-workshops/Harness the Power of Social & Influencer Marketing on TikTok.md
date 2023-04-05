@@ -1,22 +1,23 @@
 ---
-title: Harness the Power of Social & Influencer Marketing on TikTok
+title: Harness the Power of Social &amp; Influencer Marketing on TikTok
 permalink: /digital-programmes/mc-ws/tiktokmarketing/
-description: SIRS Workshop - Harness the Power of Social & Influencer Marketing on TikTok
+description: SIRS Workshop - Harness the Power of Social &amp; Influencer
+  Marketing on TikTok
 image: /images/images-2021/DigitalProgrammes-HImage-Workshop.png
-third_nav_title: Masterclasses & Workshops
+third_nav_title: Masterclasses &amp; Workshops
 ---
 <img src="/images/images-2021/DigitalProgrammes-HImage-Workshop.png" style="width:100%;">
 
 <h4 style="text-align:center;">Next intake:</h4>
 
 <center><table style="width:80%;">
-    <tr style="text-align:center;">
+    <tbody><tr style="text-align:center;">
       <th style="text-align:center;width:50%;">Face-to-Face</th>
     </tr>
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">17 & 21 Apr (Mon-Fri)</td>
+      <td style="text-align:center;width:50%;">17 &amp; 20 Apr (Mon &amp; Thu)</td>
     </tr>
-</table></center>
+</tbody></table></center>
 
 <p>Social and influencer marketing has exploded as more people turn to social media platforms and influencers for inspiration and recommendations. Video content has become a crucial component of
 social media marketing because of its effectiveness in engaging and captivating audiences today. The growing popularity of short-form video content has led to the rise of TikTok as a new contender amongst social media giants like Facebook and Instagram. In just five years, TikTok has amassed over one billion* users worldwide! It is no longer surprising to see TikTokers recording themselves executing the trending dance moves on the streets or going live to chat and engage with friends and followers.</p>
@@ -28,7 +29,7 @@ social media marketing because of its effectiveness in engaging and captivating 
 
 <h4>Course Title | Mode of Training | Course Ref</h4>
 
-<p>Drive Conversions & Optimise Returns with Social & Influencer Marketing<br>Classroom - TGS-2022013325</p>
+<p>Drive Conversions &amp; Optimise Returns with Social &amp; Influencer Marketing<br>Classroom - TGS-2022013325</p>
 
 <h4>Outline</h4>
 * Identify and analyse social media trends and insights to create effective marketing campaigns
@@ -56,7 +57,7 @@ social media marketing because of its effectiveness in engaging and captivating 
 
 <center>
 <table style="width:100%;">
-<tr>
+<tbody><tr>
 <th style="width:70%;">Category</th>
 <th style="width:30%:">Price</th>
 </tr>
@@ -91,7 +92,7 @@ social media marketing because of its effectiveness in engaging and captivating 
 <td>$93</td>
 </tr>
 
-</table>
+</tbody></table>
 </center>
 
 
@@ -122,4 +123,4 @@ social media marketing because of its effectiveness in engaging and captivating 
 
 <div style="width:50%;float:left;"><center><a href="https://form.gov.sg/#!/5e587a6895e4da0011f0f746" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Register Now</a></center></div>
 
-<div style="width:50%;float:left;"><center><a href="https://form.gov.sg/602f33f172d5100012d6ca8b" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center></div>
+<div style="width:50%;float:left;"><center><a href="https://form.gov.sg/602f33f172d5100012d6ca8b" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center></div></i></small></i></small>

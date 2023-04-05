@@ -2,14 +2,14 @@
 title: Digital Commerce Visual
 permalink: /digital-programmes/masterclasses-and-workshops/digital-commerce-visual/
 breadcrumb: Digital Commerce Visual
-third_nav_title: Masterclasses & Workshops
+third_nav_title: Masterclasses &amp; Workshops
 ---
 <img src="/images/images-2021/DigitalProgrammes-Image-Masterclass.png" style="width:100%;">
 
 <h4 style="text-align:center;">Next intake:</h4>
 
 <center><table style="width:80%;">
-    <tr style="text-align:center;">
+    <tbody><tr style="text-align:center;">
       <th style="text-align:center;width:50%;">Online Training</th>
       <th style="text-align:center;width:50%;">Face-to-Face</th>
     </tr>
@@ -17,7 +17,7 @@ third_nav_title: Masterclasses & Workshops
       <td style="text-align:center;width:50%;">26-27 Jun (Mon-Tue)</td>
       <td style="text-align:center;width:50%;">To be confirmed</td>
     </tr>
-</table></center>
+</tbody></table></center>
 
 <p>Human are visual beings. Visual content enables customers to absorb and remember your brand better. It is more effective than any other form of communication. Marketers who use visual marketing tend to reap higher returns in terms of fans, followers, readers, leads, clients and, of course, revenue. Through this Masterclass, participants will develop a good understanding of visual marketing for Omni-commerce; applicable to both entrepreneurial and marketing operation with practical hands-on applications and case studies.</p>
 
@@ -48,7 +48,7 @@ third_nav_title: Masterclasses & Workshops
 
 <center>
 <table style="width:100%;">
-<tr>
+<tbody><tr>
 <th style="width:70%;">Category</th>
 <th style="width:30%:">Price</th>
 </tr>
@@ -83,7 +83,7 @@ third_nav_title: Masterclasses & Workshops
 <td>$148.80</td>
 </tr>
 
-</table>
+</tbody></table>
 </center>
 
 
@@ -108,11 +108,11 @@ third_nav_title: Masterclasses & Workshops
 <b>For company-sponsored participants:</b>
 <ul>
   <li><a href="/services/consultancy/absentee-payroll-ap">Absentee Payroll</a></li>
-  <li><a href="/services/consultancy/wss-companies">Workfare Skills Support (WSS) Scheme (For Companies)	<li><a href="/services/consultancy/skillsfuture-enterprise-credit">SkillsFuture Enterprise Credit</a></li></a></li>
+  <li><a href="/services/consultancy/wss-companies">Workfare Skills Support (WSS) Scheme (For Companies)	</a></li><li><a href="/services/consultancy/skillsfuture-enterprise-credit">SkillsFuture Enterprise Credit</a></li>
   </ul>
 
 <p>For more information about funding and support, click <a href="/services/consultancy">here.</a></p>
     
-<div style="width:50%;float:left;"><center><a href="https://form.gov.sg/#!/5e587a6895e4da0011f0f746" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Register Now</a></center></div>
+<div style="width:50%;float:left;"><center><a href="https://form.gov.sg/642d0e18682ef300118c4588" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Register Now</a></center></div>
 
-<div style="width:50%;float:left;"><center><a href="https://form.gov.sg/602f33f172d5100012d6ca8b" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center></div>
+<div style="width:50%;float:left;"><center><a href="https://form.gov.sg/602f33f172d5100012d6ca8b" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center></div></i></small></i></small>

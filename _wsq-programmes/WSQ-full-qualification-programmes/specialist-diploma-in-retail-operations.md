@@ -8,15 +8,15 @@ third_nav_title: WSQ Full Qualification Programmes
 
 <h4 style="text-align:center;">Next intake:</h4>
 <center><table style="width:80%;">
-    <tr style="text-align:center;">
+    <tbody><tr style="text-align:center;">
       <th style="text-align:center;width:50%;">Day Training</th>
       <th style="text-align:center;width:50%;">Night Training</th>
     </tr>
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">Mar 2023<br>(Every Wed)</td>
-      <td style="text-align:center;width:50%;">Jan 2023<br>(Every Wed & Thu)</td>
+      <td style="text-align:center;width:50%;">May 2023 (Every Wed)<br>Sep 2023 (Every Wed)</td>
+      <td style="text-align:center;width:50%;">May 2023 (Every Wed &amp; Thu)<br>Sep 2023 (Every Wed &amp; Thu)</td>
     </tr>
-</table></center>
+</tbody></table></center>
 
 <p>As technology advances, savvier consumers demand for more curated shopping experiences as they touch on multiple channels during their purchasing journey, triggering a new trend in the retail landscape. Retailers now need to embrace ‘New Retail’ - an integration of offline and online platforms by leveraging data technology to provide a more well-rounded retail experience. With data driving the day-to-day operations and decision-makings, Retail/Operations/Area Managers need to analyse, strategise and execute omni-channel plans to drive sales and performance. Managers must also possess the ability to drive unique customer experience to stand out from the competition for sustainability and profitability.</p>
 
@@ -54,7 +54,7 @@ third_nav_title: WSQ Full Qualification Programmes
 
 <center>
 <table style="width:100%;">
-<tr>
+<tbody><tr>
 <th style="width:70%;">Category</th>
 <th style="width:30%:">Price</th>
 </tr>
@@ -89,7 +89,7 @@ third_nav_title: WSQ Full Qualification Programmes
 <td>$1,242.48</td>
 </tr>
 
-</table>
+</tbody></table>
 </center>
 
 
@@ -115,7 +115,7 @@ third_nav_title: WSQ Full Qualification Programmes
 <b>For company-sponsored participants:</b>
 <ul>
   <li><a href="/services/consultancy/absentee-payroll-ap">Absentee Payroll</a></li>
-  <li><a href="/services/consultancy/wss-companies">Workfare Skills Support (WSS) Scheme (For Companies)	<li><a href="/services/consultancy/skillsfuture-enterprise-credit">SkillsFuture Enterprise Credit</a></li></a></li>
+  <li><a href="/services/consultancy/wss-companies">Workfare Skills Support (WSS) Scheme (For Companies)	</a></li><li><a href="/services/consultancy/skillsfuture-enterprise-credit">SkillsFuture Enterprise Credit</a></li>
   </ul>
  
 <p>For more information about funding and support, click <a href="/services/consultancy">here.</a></p>
@@ -124,4 +124,4 @@ third_nav_title: WSQ Full Qualification Programmes
 
 <div style="width:50%;float:left;"><center><a href="https://form.gov.sg/602f27830951350012530bee" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center></div>
 
-<p><em>All applications will be evaluated to determine their suitability for admission into the programme. The outcome of all applications will be communicated to applicants before the start of the earliest available intake subjected to submission of the required supporting documents and the minimum enrolment to start a class.</em></p>
+<p><em>All applications will be evaluated to determine their suitability for admission into the programme. The outcome of all applications will be communicated to applicants before the start of the earliest available intake subjected to submission of the required supporting documents and the minimum enrolment to start a class.</em></p></i></small></i></small>
