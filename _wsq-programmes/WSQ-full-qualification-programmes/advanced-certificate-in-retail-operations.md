@@ -8,15 +8,15 @@ third_nav_title: WSQ Full Qualification Programmes
 
 <h4 style="text-align:center;">Next intake:</h4>
 <center><table style="width:80%;">
-    <tr style="text-align:center;">
+    <tbody><tr style="text-align:center;">
       <th style="text-align:center;width:50%;">Day Training</th>
       <th style="text-align:center;width:50%;">Night Training</th>
     </tr>
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">Feb 2023<br>(Every Wed)</td>
-      <td style="text-align:center;width:50%;">Mar 2023<br>(Every Wed & Thu)</td>
+      <td style="text-align:center;width:50%;">Apr 2023 (Every Wed)<br>Aug 2023 (Every Wed)</td>
+      <td style="text-align:center;width:50%;">May 2023 (Every Wed &amp; Thu)<br>Aug 2023 (Every Wed &amp; Thu)</td>
     </tr>
-</table></center>
+</tbody></table></center>
 
 <p>Many people recognised that retailing has digitalised, but how many people realised that physical stores are still relevant for retailers who strive to create a holistic shopping experience? The retail landscape has evolved beyond being just offline or online, but both. ‘New Retail’ is the integration of both offline and online platforms with the use of data technology. While the retail landscape continues to grow, Retail Supervisors need to oversee and drive their team in a highly demanding and fast-paced environment. Supervisors need to be agile and responsive to emerging trends to lead and manage resources effectively.</p>
 
@@ -56,7 +56,7 @@ third_nav_title: WSQ Full Qualification Programmes
 
 <center>
 <table style="width:100%;">
-<tr>
+<tbody><tr>
 <th style="width:70%;">Category</th>
 <th style="width:30%:">Price</th>
 </tr>
@@ -91,7 +91,7 @@ third_nav_title: WSQ Full Qualification Programmes
 <td>$546.84</td>
 </tr>
 
-</table>
+</tbody></table>
 </center>
 
 <small><i>Fees include prevailing GST
@@ -116,7 +116,7 @@ third_nav_title: WSQ Full Qualification Programmes
 <b>For company-sponsored participants:</b>
 <ul>
   <li><a href="/services/consultancy/absentee-payroll-ap">Absentee Payroll</a></li>
-  <li><a href="/services/consultancy/wss-companies">Workfare Skills Support (WSS) Scheme (For Companies)	<li><a href="/services/consultancy/skillsfuture-enterprise-credit">SkillsFuture Enterprise Credit</a></li></a></li>
+  <li><a href="/services/consultancy/wss-companies">Workfare Skills Support (WSS) Scheme (For Companies)	</a></li><li><a href="/services/consultancy/skillsfuture-enterprise-credit">SkillsFuture Enterprise Credit</a></li>
   </ul>
 
 <p>For more information about funding and support, click <a href="/services/consultancy">here.</a></p>
@@ -125,4 +125,4 @@ third_nav_title: WSQ Full Qualification Programmes
 
 <div style="width:50%;float:left;"><center><a href="https://form.gov.sg/602f27830951350012530bee" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center></div>
 
-<p><em>All applications will be evaluated to determine their suitability for admission into the programme. The outcome of all applications will be communicated to applicants before the start of the earliest available intake subjected to submission of the required supporting documents and the minimum enrolment to start a class.</em></p>
+<p><em>All applications will be evaluated to determine their suitability for admission into the programme. The outcome of all applications will be communicated to applicants before the start of the earliest available intake subjected to submission of the required supporting documents and the minimum enrolment to start a class.</em></p></i></small></i></small>
