@@ -4,7 +4,7 @@ permalink: /digital-programmes/mc-ws/tiktokmarketing/
 description: SIRS Workshop - Harness the Power of Social &amp; Influencer
   Marketing on TikTok
 image: /images/images-2021/DigitalProgrammes-HImage-Workshop.png
-third_nav_title: Masterclasses &amp; Workshops
+third_nav_title: Masterclasses & Workshops
 ---
 <img src="/images/images-2021/DigitalProgrammes-HImage-Workshop.png" style="width:100%;">
 
