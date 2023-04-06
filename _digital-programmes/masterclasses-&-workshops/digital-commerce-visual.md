@@ -2,7 +2,7 @@
 title: Digital Commerce Visual
 permalink: /digital-programmes/masterclasses-and-workshops/digital-commerce-visual/
 breadcrumb: Digital Commerce Visual
-third_nav_title: Masterclasses &amp; Workshops
+third_nav_title: Masterclasses & Workshops
 ---
 <img src="/images/images-2021/DigitalProgrammes-Image-Masterclass.png" style="width:100%;">
 
