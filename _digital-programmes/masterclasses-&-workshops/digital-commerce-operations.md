@@ -2,7 +2,7 @@
 title: Digital Commerce Operations
 permalink: /digital-programmes/masterclasses-and-workshops/digital-commerce-operations/
 breadcrumb: Digital Commerce Operations
-third_nav_title: Masterclasses &amp; Workshops
+third_nav_title: Masterclasses & Workshops
 ---
 <img src="/images/images-2021/DigitalProgrammes-Image-Masterclass.png" style="width:100%;">
 
