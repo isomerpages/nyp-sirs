@@ -2,7 +2,7 @@
 title: Omni-Commerce Retail
 permalink: /digital-programmes/masterclasses-and-workshops/omni-commerce-retail/
 breadcrumb: Omni-Commerce Retail
-third_nav_title: Masterclasses &amp; Workshops
+third_nav_title: Masterclasses & Workshops
 ---
 <img src="/images/images-2021/DigitalProgrammes-Image-Masterclass.png" style="width:100%;">
 
