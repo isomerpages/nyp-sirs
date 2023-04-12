@@ -9,7 +9,7 @@ third_nav_title: Masterclasses & Workshops
 <h4 style="text-align:center;">Next intake:</h4>
 
 <center><table style="width:80%;">
-    <tr style="text-align:center;">
+    <tbody><tr style="text-align:center;">
       <th style="text-align:center;width:50%;">Online Training</th>
       <th style="text-align:center;width:50%;">Face-to-Face</th>
     </tr>
@@ -17,7 +17,7 @@ third_nav_title: Masterclasses & Workshops
       <td style="text-align:center;width:50%;">16 June (Fri)</td>
       <td style="text-align:center;width:50%;">To be confirmed</td>
     </tr>
-</table></center>
+</tbody></table></center>
 
 <p>Business decision makers will learn how to apply simple digital frameworks, analyse digital campaign successes, formulate an actionable, forward-focus review, perform simple budgeting for digital strategies, project potential marketing ROI from digital campaigns as well as drive sales and boost business through SEO execution. This class covers successful case studies in Singapore and is extremely hands-on.</p>
 
@@ -25,7 +25,7 @@ third_nav_title: Masterclasses & Workshops
 
 <h4>Course Title | Mode of Training | Course Ref</h4>
 
-<p>Digital Strategy & the 101 of Search Engine Optimisation (SEO) 
+<p>Digital Strategy &amp; the 101 of Search Engine Optimisation (SEO) 
 <br>Synchronous E-learning -TGS-2020501149</p>
 
 <h4>Outline</h4>
@@ -36,7 +36,7 @@ third_nav_title: Masterclasses & Workshops
 <li>Select the right digital channel, craft a simple  digital framework, understand how digital ROI is derived, plan a budget and project returns</li>
 <li>Introduction to SEO</li>
 <li>Determine this channel for growth, understand all necessary aspects of optimisation/ backlinking strategy and know 101 of hiring/ working with SEO vendors</li>
-<li>Evaluating digital campaigns & key metrics</li>
+<li>Evaluating digital campaigns &amp; key metrics</li>
 <li>Create a simple framework to evaluate campaign success or failure and understand key metrics from Google Analytics and Google Webmaster tools</li>
   </ul>
 
@@ -58,7 +58,7 @@ third_nav_title: Masterclasses & Workshops
 	</div>
 	<div class="col is-8">
         <b>Jayden Ooi</b><br><i>Entrepreneur, Digital Strategist</i><br><br>Jayden Ooi is highly qualified in practice with many successful digital transformations for SMEs to pivot their brick-and-mortar businesses into the digital space. With his
-expertise, a local retailer successfully redesigned its business model, ranked number one on Google, and achieved more than three million dollars in e-commerce sales. In another instance, he helped a local F&B SME to rise to the top ranking and triple its
+expertise, a local retailer successfully redesigned its business model, ranked number one on Google, and achieved more than three million dollars in e-commerce sales. In another instance, he helped a local F&amp;B SME to rise to the top ranking and triple its
 annual revenue. Jayden is an experienced professional in SEO, digital marketing, and e-commerce development. Over the years, he has built a staunch customer portfolio and a successful team in Singapore and Malaysia. His agency, NightOwl SEO, has helped many of his clients to be in the top 5 rankings on Google.
 	</div>
 </div>
@@ -67,7 +67,7 @@ annual revenue. Jayden is an experienced professional in SEO, digital marketing,
 
 <center>
 <table style="width:100%;">
-<tr>
+<tbody><tr>
 <th style="width:70%;">Category</th>
 <th style="width:30%:">Price</th>
 </tr>
@@ -102,7 +102,7 @@ annual revenue. Jayden is an experienced professional in SEO, digital marketing,
 <td>$93</td>
 </tr>
 
-</table>
+</tbody></table>
 </center>
 
 
@@ -133,6 +133,6 @@ annual revenue. Jayden is an experienced professional in SEO, digital marketing,
 
 <p>For more information about funding and support, click <a href="/services/consultancy">here.</a></p>
 
-<div style="width:50%;float:left;"><center><a href="https://form.gov.sg/#!/5e587a6895e4da0011f0f746" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Register Now</a></center></div>
+<div style="width:50%;float:left;"><center><a href="https://form.gov.sg/642d0e18682ef300118c4588" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Register Now</a></center></div>
 
 <div style="width:50%;float:left;"><center><a href="https://form.gov.sg/602f33f172d5100012d6ca8b" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center></div>

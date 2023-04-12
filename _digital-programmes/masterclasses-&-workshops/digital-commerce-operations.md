@@ -9,7 +9,7 @@ third_nav_title: Masterclasses & Workshops
 <h4 style="text-align:center;">Next intake:</h4>
 
 <center><table style="width:80%;">
-    <tr style="text-align:center;">
+    <tbody><tr style="text-align:center;">
       <th style="text-align:center;width:50%;">Online Training</th>
       <th style="text-align:center;width:50%;">Face-to-Face</th>
     </tr>
@@ -17,7 +17,7 @@ third_nav_title: Masterclasses & Workshops
       <td style="text-align:center;width:50%;">To be confirmed</td>
       <td style="text-align:center;width:50%;">To be confirmed</td>
     </tr>
-</table></center>
+</tbody></table></center>
 
 <p>In the rapidly changing retail landscape brought by digitalisation, being able to manage e-commerce
 operation efficiently is one of the critical factors of a successful retail business. Retailers need to satisfy
@@ -66,7 +66,7 @@ online business.</p>
 
 <center>
 <table style="width:100%;">
-<tr>
+<tbody><tr>
 <th style="width:70%;">Category</th>
 <th style="width:30%:">Price</th>
 </tr>
@@ -101,7 +101,7 @@ online business.</p>
 <td>$198.40</td>
 </tr>
 
-</table>
+</tbody></table>
 </center>
 
 
@@ -130,4 +130,7 @@ online business.</p>
 
 <p>For more information about funding and support, click <a href="/services/consultancy">here.</a></p>
   
-<center><a href="https://form.gov.sg/602f33f172d5100012d6ca8b" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center>
+<div style="width:50%;float:left;"><center><a href="https://form.gov.sg/642d0e18682ef300118c4588" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Register Now</a></center></div>
+
+<div style="width:50%;float:left;"><center><a href="https://form.gov.sg/602f33f172d5100012d6ca8b" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center></div>
+</i></small></i></small>
