@@ -33,7 +33,7 @@ align their training according to their specific business needs.</p>
 
 <b>Salary Support</b>
 <ol>
-	<li>Up to 70% of monthly salary for CCP OJT duration (capped at $4,000 per month) for Singapore Citizen (SC) or Permanent Residents (PR) aged below 40 years</li>
+	<li>Up to 70% of monthly salary for CCP OJT duration (capped at $4,000 per month) for Singapore Citizen (SC) or Permanent Residents (PR) aged below 40</li>
 	<li>Up to 90% of monthly salary for CCP OJT duration (capped at $6,000 per month) for Long-term Unemployed<sup>1</sup> or Mature SC and PR aged 40 and above</li>
 	</ol>
 
