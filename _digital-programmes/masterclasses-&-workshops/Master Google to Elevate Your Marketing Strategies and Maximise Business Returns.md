@@ -47,22 +47,21 @@ Being the go-to search engine for the vast majority, it is imperative that all b
 
 
 <h4>Outline</h4>
-* Develop marketing strategies that are aligned to critical success factors from understanding and integrating the key foundational pillars
-* Identify and segment audiences that are relevant and valuable to the business goals by gaining an understanding of consumer motivations
-* Use the funnel strategy to identify appropriate marketing activities aligned to the user journey that drives better leads, conversions and ultimately ROI
-* Identify the appropriate performance measurements to track and analyse marketing 	activities, and determine gaps and opportunities for further and continual optimisation of activities
+* Build data dashboards and reports in Google Sheets, and create Data Studio dashboards and reports
+* Use data visualisation to derive insights for decision-making
+* Set up and structure a web property using GA4’s reporting tools and features, and generate insights to optimise website and campaign performance
+* Prepare for the Google Analytics Certification assesssment by understanding GA4 and its tools and features
+* Set up and manage campaigns on Google Ads, and apply targeting teqchniques to improve conversions
+* Optimise ad campaign ROI through insights from campaign and competitive analysis
+* Prepare for 2 Google Certification exams - Google Ads Search and Google Ads Display
 
 <h4>Who Should Attend</h4>
-<p>Business Owners, Entrepreneurs, Marketers, and individuals who want to learn how to develop a sharp digital marketing strategy that drives business returns.</p>
+<p>Business Owners, Entrepreneurs, Marketers, and individuals who wants to discover how better to maximise their returns on paid advertising.</p>
   
 <h4>Duration</h4>
-<p>2 days (9am - 6pm daily)<br>
-Includes 2 hours of Asynchronous E-Learning</p>
-  
-<h4>Trainer Profile</h4>
-<p><b>Ms Cindy Koh</b><br>
-Cindy has held various key roles heading Integrated &amp; Digital Marketing, also encompassing Data Analytics &amp; Consumer Research, Branding and Customer Experience Strategy, in several prominent banks over the past 20 years. Extending her deep and practical experience from the highly innovation-progressive banking industry, she has trained, mentored and consulted for both individuals and businesses across industries locally and globally, and is currently the Lead for Branding and Digital Marketing at Nanyang Polytechnic’s Singapore Institute of Retail Studies (SIRS).</p>
-
+<p>Total 5 days (9am - 6pm daily)<br>
+Includes 5 hours of Asynchronous E-Learning</p>
+ 
 <h4>Fees (GST 8% - For payment made on/after 1 Jan 2023)</h4>
 
 <center>
@@ -74,32 +73,32 @@ Cindy has held various key roles heading Integrated &amp; Digital Marketing, als
 
 <tr>
 <td>Full Fee</td>
-<td>$1,296</td>
+<td>$3,402</td>
 </tr>
 
 <tr>
   <td>Singapore Citizen<sup>0</sup> (70% funding)</td>
-<td>$385.20</td>
+<td>$1,011.15</td>
 </tr>
 	
 <tr>
   <td>Singapore Citizen 40 years and above<sup>0,1</sup> (90% funding)</td>
-<td>$145.20</td>
+<td>$381.15</td>
 </tr>
 
 <tr>
   <td>Singapore Citizen sponsored by SMEs<sup>0,2</sup> (90% funding)</td>
-<td>$145.20</td>
+<td>$381.15</td>
 </tr>
 
 <tr>
   <td>Singapore PR (70% funding)</td>
-<td>$388.80</td>
+<td>$1,020.60</td>
 </tr>
 
 <tr>
 <td>Singapore PR sponsored by SMEs<sup>2</sup> (90% funding)</td>
-<td>$148.80</td>
+<td>$390.60</td>
 </tr>
 
 </tbody></table>
