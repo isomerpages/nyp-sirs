@@ -24,18 +24,18 @@ third_nav_title: Masterclasses &amp; Workshops
 	
 <p>This series comprises three courses that offer extensive hands-on learning to support you in making data-driven marketing decisions and boosting your business’s ROI. You will learn how to harness the power of Google to optimise both your organic and paid marketing efforts, generating quality traffic, leads, and improving sales conversions. Led by industry experts, these courses are essential for all marketers and businesses, especially SMEs and entrepreneurs who are looking to gain a competitive edge. The added opportunity to earn Google certifications in GA4 and Google Ads makes this a perfect investment to drive your digital marketing career or business to greater heights!</p>
 	
-Included in this series are:
+<p>Included in this series are:
 
-* **GA4 with Google Tag Manager (GTM)**
-<br>Analytics is an extremely powerful tool for achieving business growth and success by making informed decisions and strategies. By leveraging GA4, you can drive optimal website and campaign performance. Learn the insights, knowledge, and applicable skills in GA4, which is the latest and one of the most important digital and analytics tools. 
+<br>**GA4 with Google Tag Manager (GTM)**<br>
+<br>Analytics is an extremely powerful tool for achieving business growth and success by making informed decisions and strategies. By leveraging GA4, you can drive optimal website and campaign performance. Learn the insights, knowledge, and applicable skills in GA4, which is the latest and one of the most important digital and analytics tools.<br>
 
-* **Google Data Studio for Impactful Reporting with Data Visualisation**
-<br>Data is a critical resource for valuable insights into business performance, regardless of the business size. By unravelling the power of data visualisation through Google Data Studio, you can make sense of complex data and tap into potential growth opportunities to make smarter and swifter decisions when optimising your business and marketing performance. 
+<br>**Google Data Studio for Impactful Reporting with Data Visualisation**<br>
+<br>Data is a critical resource for valuable insights into business performance, regardless of the business size. By unravelling the power of data visualisation through Google Data Studio, you can make sense of complex data and tap into potential growth opportunities to make smarter and swifter decisions when optimising your business and marketing performance.<br>
 
-* **Master Google Ads to Turbo Charge Your Leads &amp; Sales**
-<br>Being the go-to search engine for the vast majority, it is imperative that all businesses be present and visible when Singaporeans ‘Google It’. Make your business stand out by learning to develop, run, and manage Google Ad campaigns to optimise the volume of traffic and quality of leads for better sales conversion. You will benefit from not just being able to drive sales but also reduce the cost of revenue generation by optimising your marketing ROI. 
+<br>**Master Google Ads to Turbo Charge Your Leads &amp; Sales**<br>
+<br>Being the go-to search engine for the vast majority, it is imperative that all businesses be present and visible when Singaporeans ‘Google It’. Make your business stand out by learning to develop, run, and manage Google Ad campaigns to optimise the volume of traffic and quality of leads for better sales conversion. You will benefit from not just being able to drive sales but also reduce the cost of revenue generation by optimising your marketing ROI.<br>
 
-<h4>Course Title | Mode of Training | Course Ref</h4>
+</p><h4>Course Title | Mode of Training | Course Ref</h4>
 
 * GA4 with Google Tag Manager (GTM)
 <br>Classroom and Asynchronous E-Learning - TGS-2023018430
