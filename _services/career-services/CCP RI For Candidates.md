@@ -24,7 +24,7 @@ Make a switch to the dynamic retail industry for an exciting and satisfying care
 * New hire not more than 3 months with a company
 * Managerial-level or equivalent experience in a non-related role prior to joining the CCP
 
-Please refer to the factsheet for a detailed list of eligibility criteria.
+Please refer to the [factsheet](/files/documents-2021/1%20factsheet%20ccp-ri%20apr%2023.pdf) for a detailed list of eligibility criteria.
 
 For more information on this programme, please email to [ccp-ri@sirs.edu.sg](mailto:ccp-ri@sirs.edu.sg)
 
