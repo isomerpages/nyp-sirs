@@ -50,8 +50,8 @@ Included in this series are:
 * Build data dashboards and reports in Google Sheets, and create Data Studio dashboards and reports
 * Use data visualisation to derive insights for decision-making
 * Set up and structure a web property using GA4’s reporting tools and features, and generate insights to optimise website and campaign performance
-* Prepare for the Google Analytics Certification assesssment by understanding GA4 and its tools and features
-* Set up and manage campaigns on Google Ads, and apply targeting teqchniques to improve conversions
+* Prepare for the Google Analytics Certification assessment by understanding GA4 and its tools and features
+* Set up and manage campaigns on Google Ads, and apply targeting techniques to improve conversions
 * Optimise ad campaign ROI through insights from campaign and competitive analysis
 * Prepare for 2 Google Certification exams - Google Ads Search and Google Ads Display
 
