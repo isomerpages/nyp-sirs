@@ -26,7 +26,7 @@ third_nav_title: Masterclasses &amp; Workshops
 	
 Included in this series are:
 
-<br>**GA4 with Google Tag Manager (GTM)**<br>
+**GA4 with Google Tag Manager (GTM)**
 <br>Analytics is an extremely powerful tool for achieving business growth and success by making informed decisions and strategies. By leveraging GA4, you can drive optimal website and campaign performance. Learn the insights, knowledge, and applicable skills in GA4, which is the latest and one of the most important digital and analytics tools.<br>
 
 <br>**Google Data Studio for Impactful Reporting with Data Visualisation**<br>
