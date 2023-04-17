@@ -25,7 +25,7 @@ align their training according to their specific business needs.</p>
 <h4>Benefits</h4>
 * Faciliate recruitment of career switchers to meet employers' manpower needs
 * Leverage structured industry-recognised training
-* Convert motivated and talented mid-career PMETs to reskill & take on new job roles
+* Convert motivated and talented mid-career PMETs to reskill &amp; take on new job roles
 * Reach out to a wider workforce and overcome talent shortage
 * Tap on Government funding through course fee grant and salary support
 
@@ -33,8 +33,8 @@ align their training according to their specific business needs.</p>
 
 <b>Salary Support</b>
 <ol>
-	<li>Up to 70% of monthly salary for CCP training duration (capped at $4,000 per month) for Singapore Citizen (SC) or Permanent Residents (PR)</li>
-	<li>Up to 90% of monthly salary for CCP training duration (capped at $6,000 per month) for Long-term Unemployed<sup>1</sup> SC or Mature SC aged 40 and above</li>
+	<li>Up to 70% of monthly salary for CCP OJT duration (capped at $4,000 per month) for Singapore Citizen (SC) or Permanent Residents (PR) aged below 40 years</li>
+	<li>Up to 90% of monthly salary for CCP OJT duration (capped at $6,000 per month) for Long-term Unemployed<sup>1</sup> or Mature SC and PR aged 40 and above</li>
 	</ol>
 
 <small><i><sup>1</sup>Long-term Unemployed (LTU) is defined as being unemployed and actively seeking employment for six months or more</i></small>
