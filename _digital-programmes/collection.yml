@@ -27,8 +27,6 @@ collections:
       - joint-certification-programmes/.keep
       - joint-certification-programmes/certified-digital-productivity-consultant.md
       - joint-certification-programmes/professional-certificate-in-digital-retail-entertainment.md
-      - masterclasses-&-workshops/Digital Marketing to Drive Business Growth and
-        ROI.md
       - masterclasses-&-workshops/.keep
       - masterclasses-&-workshops/overview.md
       - masterclasses-&-workshops/3-steps-to-digitise-your-business.md
@@ -44,6 +42,8 @@ collections:
       - masterclasses-&-workshops/differentiate-and-drive-growth-with-experience-innovation.md
       - masterclasses-&-workshops/digital-commerce-operations.md
       - masterclasses-&-workshops/digital-commerce-visual.md
+      - masterclasses-&-workshops/Digital Marketing to Drive Business Growth and
+        ROI.md
       - masterclasses-&-workshops/digital-strategy-the-101-of-search-engine-optimisation-seo.md
       - masterclasses-&-workshops/Digital Transformation with a New Mindset.md
       - masterclasses-&-workshops/empower-your-business-with-social-commerce-digital-payment.md
