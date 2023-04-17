@@ -59,7 +59,7 @@ in the New Retail Revolution</a></li>
 </ul>
 
 <h4>Unified Learning Series</h4>
-<p>A collection of our masterclasses and workshops carefully curated to provide you with a progressive and cohesive learning experience:</p>
+<p>A collection of our courses carefully curated to provide you with a progressive and cohesive learning experience:</p>
   <ul>
 	<li><a href="/digital-programmes/mc-ws/googlesuite">Master Google to Elevate Your Marketing Strategies and Maximise Business Returns</a></li>  
 
