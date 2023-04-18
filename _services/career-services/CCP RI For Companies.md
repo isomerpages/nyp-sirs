@@ -23,14 +23,14 @@ Hire a mid-career PMET to support your business growth today!
 * Offer a full-time employment contract on permanent terms
 * Provide structured on-the-job training for candidate
 
-Please refer to the [factsheet](/files/documents-2021/1 Factsheet CCP-RI Employer_Feb 23.pdf) for a detailed list of eligibility criteria.
+Please refer to the [factsheet](/files/documents-2021/1%20factsheet%20ccp-ri%20apr%2023.pdf) for a detailed list of eligibility criteria.
 
 <h4>Funding and Support</h4>
 
 <b>Salary Support</b>
 <ol>
-	<li>Up to 70% of monthly salary for CCP training duration (capped at $4,000 per month) for Singapore Citizen (SC) or Permanent Residents (PR)</li>
-	<li>Up to 90% of monthly salary for CCP training duration (capped at $6,000 per month) for Long-term Unemployed<sup>1</sup> SC or Mature SC aged 40 and above</li>
+	<li>Up to 70% of monthly salary for CCP OJT duration (capped at $4,000 per month) for Singapore Citizen (SC) or Permanent Residents (PR) aged below 40</li>
+	<li>Up to 90% of monthly salary for CCP OJT duration (capped at $6,000 per month) for Long-term Unemployed<sup>1</sup> or Mature SC and PR aged 40 and above</li>
 	</ol>
 
 <small><i><sup>1</sup>Long-term Unemployed (LTU) is defined as being unemployed and actively seeking employment for six months or more</i></small>
@@ -43,6 +43,6 @@ Please refer to the [factsheet](/files/documents-2021/1 Factsheet CCP-RI Employe
 
 <small><i>*Funding caps vary and apply for CCP-RI</i></small>
 
-For more information on this programme, please email to [ccp-ri@sirs.edu.sg](mailto:ccp-ri@sirs.edu.sg)
+For more information on this programme, please email to&nbsp;[ccp-ri@sirs.edu.sg](mailto:ccp-ri@sirs.edu.sg)
 
 <center><a href="/files/documents-2021/Reg_Companies_CCP for Retail Industry_Application Form (new hires).pdf" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Registration (Companies)</a></center>
