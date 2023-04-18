@@ -1,25 +1,24 @@
 ---
-title: Master Google Ads to Turbo Charge Your Leads & Sales
+title: Master Google Ads to Turbo Charge Your Leads &amp; Sales
 permalink: /digital-programmes/mc-ws/google-ads/
-description: SIRS Masterclass - Master Google Ads to Turbo Charge Your Leads & Sales
+description: SIRS Masterclass - Master Google Ads to Turbo Charge Your Leads &amp; Sales
 image: /images/images-2021/DigitalProgrammes-Image-Masterclass.png
-third_nav_title: Masterclasses & Workshops
+third_nav_title: Masterclasses &amp; Workshops
 ---
-
 <img src="/images/images-2021/DigitalProgrammes-Image-Masterclass.png" style="width:100%;">
 
 <h4 style="text-align:center;">Next intake:</h4>
 
 <center><table style="width:80%;">
-    <tr style="text-align:center;">
+    <tbody><tr style="text-align:center;">
       <th style="text-align:center;width:50%;">Online Training</th>
       <th style="text-align:center;width:50%;">Face-to-Face</th>
     </tr>
     <tr style="text-align:center;">
       <td style="text-align:center;width:50%;">To be confirmed</td>
-      <td style="text-align:center;width:50%;">To be confirmed</td>
+      <td style="text-align:center;width:50%;">8 &amp; 9 May (Mon &amp; Tue)</td>
     </tr>
-</table></center>
+</tbody></table></center>
 
 <p>Undoubtedly, Google is the leading search engine in Singapore with an overwhelming 95.69%* share of the market. Being the go-to search engine for the vast majority, it is imperative that all businesses be present and visible when Singaporeans ‘Google It’. Make your business stand out in the fiercely competitive
 digital space by leveraging the power of Google Ads to drive optimal leads and sales to your business.</p>
@@ -30,8 +29,8 @@ digital space by leveraging the power of Google Ads to drive optimal leads and s
 	
 <h4>Course Title | Mode of Training | Course Ref</h4>
 
-<p>Master Google Ads to Turbo Charge Your Leads & Sales
-<br>Classroom & Asynchronous E-Learning - TGS-2023018432</p>
+<p>Master Google Ads to Turbo Charge Your Leads &amp; Sales
+<br>Classroom &amp; Asynchronous E-Learning - TGS-2023018432</p>
 
 <h4>Outline</h4>
 * Set up a Google Ads account that supports efficient and effective development and management of Google Ad Campaigns by understanding the various key features and functions of the platform
@@ -57,7 +56,7 @@ Includes 2 hours of Asynchronous E-Learning</p>
 	</div>
 	<div class="col is-8">
         <b>Gavin Choo</b><br>Gavin is an experienced Digital Marketing practitioner, with over 12 years of experience
-working in the Marketing & Advertising industry in various roles such as Sales,
+working in the Marketing &amp; Advertising industry in various roles such as Sales,
 Marketing, and Business Development, plus 4 years of experience in Professional
 Training and Coaching. He is also a Singapore WSQ ACTA certified trainer. He is
 passionate about showing business owners and brand marketers how to get results
@@ -74,7 +73,7 @@ HubSpot Content Marketing Certification.
 
 <center>
 <table style="width:100%;">
-<tr>
+<tbody><tr>
 <th style="width:70%;">Category</th>
 <th style="width:30%:">Price</th>
 </tr>
@@ -109,7 +108,7 @@ HubSpot Content Marketing Certification.
 <td>$148.80</td>
 </tr>
 
-</table>
+</tbody></table>
 </center>
 
 
@@ -142,4 +141,4 @@ HubSpot Content Marketing Certification.
   padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Register Now</a></center></div>
 
 <div style="width:50%;float:left;"><center><a href="https://form.gov.sg/602f33f172d5100012d6ca8b" style="background-color:#06225e; border:white; color:white; 
-  padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center></div>
+  padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center></div></i></small></i></small>
