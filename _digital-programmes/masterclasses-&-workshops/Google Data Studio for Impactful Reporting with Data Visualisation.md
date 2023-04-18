@@ -3,22 +3,22 @@ title: Google Data Studio for Impactful Reporting with Data Visualisation
 permalink: /digital-programmes/mc-ws/google-data-studio/
 description: ""
 image: /images/images-2021/DigitalProgrammes-Image-Masterclass.png
-third_nav_title: Masterclasses & Workshops
+third_nav_title: Masterclasses &amp; Workshops
 ---
 <img src="/images/images-2021/DigitalProgrammes-Image-Masterclass.png" style="width:100%;">
 
 <h4 style="text-align:center;">Next intake:</h4>
 
 <center><table style="width:80%;">
-    <tr style="text-align:center;">
+    <tbody><tr style="text-align:center;">
       <th style="text-align:center;width:50%;">Online Training</th>
       <th style="text-align:center;width:50%;">Face-to-Face</th>
     </tr>
     <tr style="text-align:center;">
       <td style="text-align:center;width:50%;">To be confirmed</td>
-      <td style="text-align:center;width:50%;">To be confirmed</td>
+      <td style="text-align:center;width:50%;">9 June (Fri)</td>
     </tr>
-</table></center>
+</tbody></table></center>
 
 <p>No matter the business size, data is a critical resource for valuable insights into business performance and making informed decisions to drive efficiency. Google Data Studio provides you with a free reporting platform that allows you to easily connect to data sources, such as Google Analytics, Google Ads, Google BigQuery, YouTube Analytics, Campaign Manager 360, MySQL and many more, to maximise the value of data through its powerful visualisation tool that is highly effective in providing a fast and easy understanding of large data volumes.</p>
 
@@ -32,7 +32,7 @@ strategies to unlock deep business insights and gain a stronger foothold among y
 <h4>Course Title | Mode of Training | Course Ref</h4>
 
 <p>Data Studio Masterclass
-<br>Classroom & Asynchronous E-Learning - TGS-2023018434</p>
+<br>Classroom &amp; Asynchronous E-Learning - TGS-2023018434</p>
 
 <h4>Outline</h4>
 * Build data dashboards and reports by applying data collection and table set-up methods in Google Sheets
@@ -59,7 +59,7 @@ Ivan has over 20 years of experience in Business Consulting, Training, Search En
 
 <center>
 <table style="width:100%;">
-<tr>
+<tbody><tr>
 <th style="width:70%;">Category</th>
 <th style="width:30%:">Price</th>
 </tr>
@@ -94,7 +94,7 @@ Ivan has over 20 years of experience in Business Consulting, Training, Search En
 <td>$93</td>
 </tr>
 
-</table>
+</tbody></table>
 </center>
 
 
@@ -125,4 +125,4 @@ Ivan has over 20 years of experience in Business Consulting, Training, Search En
 
 <div style="width:50%;float:left;"><center><a href="https://form.gov.sg/#!/5d9d3f30a8b1b30012143f58" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Register Now</a></center></div>
 
-<div style="width:50%;float:left;"><center><a href="https://form.gov.sg/602f33f172d5100012d6ca8b" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center></div>
+<div style="width:50%;float:left;"><center><a href="https://form.gov.sg/602f33f172d5100012d6ca8b" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center></div></i></small></i></small>
