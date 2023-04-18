@@ -1,8 +1,9 @@
 ---
-title: Digital Strategy &amp; the 101 of Search Engine Optimisation (SEO)
+title: Digital Strategy and the 101 of Search Engine Optimisation (SEO)
 permalink: /digital-programmes/masterclasses-and-workshops/digital-strategy-and-the-101-of-seo/
 breadcrumb: Digital Strategy &amp; the 101 of Search Engine Optimisation (SEO)
 third_nav_title: Masterclasses &amp; Workshops
+description: ""
 ---
 <img src="/images/images-2021/DigitalProgrammes-Image-Masterclass.png" style="width:100%;">
 
