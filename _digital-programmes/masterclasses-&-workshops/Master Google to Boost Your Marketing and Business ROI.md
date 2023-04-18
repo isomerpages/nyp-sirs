@@ -12,14 +12,11 @@ image: /images/images-2021/digitalprogrammes-masterclasses_workshops_unifiedlear
 
 <center><table style="width:80%;">
     <tbody><tr style="text-align:center;">
-      <th style="text-align:center;width:50%;">Online Training</th>
       <th style="text-align:center;width:50%;">Face-to-Face</th>
-    </tr>
-    <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">To be confirmed</td>
-      <td style="text-align:center;width:50%;">To be confirmed</td>
-    </tr>
-</tbody></table></center>
+    </tr><tr style="text-align:center;">
+      <td style="text-align:center;width:50%;">8 &amp; 9 May (Google Ads)<br>25 &amp; 26 May (GA4)<br>9 June (Google Data Studio)</td>
+
+</tr></tbody></table></center>
 
 <p>Google is a powerful tool in today’s digital age that can have a significant impact on job performance and business success. To stay ahead of the competition, it is crucial to have a deep understanding of Google’s platforms and tools.</p>
 	
@@ -131,6 +128,6 @@ Includes 5 hours of Asynchronous E-Learning</p>
 
 <p>For more information about funding and support, click <a href="/services/consultancy">here.</a></p>
 
-<div style="width:50%;float:left;"><center><a href="https://form.gov.sg/5d9d3f30a8b1b30012143f58" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Register Now</a></center></div>
+<div style="width:50%;float:left;"><center><a href="https://form.gov.sg/642d0e18682ef300118c4588" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Register Now</a></center></div>
 
 <div style="width:50%;float:left;"><center><a href="https://form.gov.sg/602f33f172d5100012d6ca8b" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center></div></i></small></i></small>
