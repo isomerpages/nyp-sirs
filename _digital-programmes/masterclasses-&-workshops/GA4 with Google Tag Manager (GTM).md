@@ -3,22 +3,22 @@ title: GA4 with Google Tag Manager (GTM)
 permalink: /digital-programmes/mc-ws/ga4-gtm/
 description: SIRS Masterclass - GA4 with Google Tag Manager (GTM)
 image: /images/images-2021/DigitalProgrammes-Image-Masterclass.png
-third_nav_title: Masterclasses & Workshops
+third_nav_title: Masterclasses &amp; Workshops
 ---
 <img src="/images/images-2021/DigitalProgrammes-Image-Masterclass.png" style="width:100%;">
 
 <h4 style="text-align:center;">Next intake:</h4>
 
 <center><table style="width:80%;">
-    <tr style="text-align:center;">
+    <tbody><tr style="text-align:center;">
       <th style="text-align:center;width:50%;">Online Training</th>
       <th style="text-align:center;width:50%;">Face-to-Face</th>
     </tr>
     <tr style="text-align:center;">
       <td style="text-align:center;width:50%;">To be confirmed</td>
-      <td style="text-align:center;width:50%;">To be confirmed</td>
+      <td style="text-align:center;width:50%;">25 &amp; 26 May (Tue &amp; Wed)</td>
     </tr>
-</table></center>
+</tbody></table></center>
 
 <p>Analytics is an extremely powerful tool in today’s data-driven space to help businesses achieve growth and success by making informed decisions and strategies. Google has introduced* Google Analytics 4 (GA4) to replace its
 Universal Analytics, the familiar platform to millions of businesses using it to capture and analyse data. The upgrade to GA4 came with big promises of providing predictive insights, deeper integration with Google Ads, and cross
@@ -31,7 +31,7 @@ device measurement capabilities.</p>
 <h4>Course Title | Mode of Training | Course Ref</h4>
 
 <p>GA4 with Google Tag Manager (GTM)
-<br>Classroom & Asynchronous E-Learning -TGS-2023018430</p>
+<br>Classroom &amp; Asynchronous E-Learning -TGS-2023018430</p>
 
 <h4>Outline</h4>
 * Set up and structure a web property using GA4’s reporting tools and features
@@ -57,7 +57,7 @@ Ivan has over 20 years of experience in Business Consulting, Training, Search En
 
 <center>
 <table style="width:100%;">
-<tr>
+<tbody><tr>
 <th style="width:70%;">Category</th>
 <th style="width:30%:">Price</th>
 </tr>
@@ -92,7 +92,7 @@ Ivan has over 20 years of experience in Business Consulting, Training, Search En
 <td>$148.80</td>
 </tr>
 
-</table>
+</tbody></table>
 </center>
 
 
@@ -123,4 +123,4 @@ Ivan has over 20 years of experience in Business Consulting, Training, Search En
 
 <div style="width:50%;float:left;"><center><a href="https://form.gov.sg/#!/5d9d3f30a8b1b30012143f58" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Register Now</a></center></div>
 
-<div style="width:50%;float:left;"><center><a href="https://form.gov.sg/602f33f172d5100012d6ca8b" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center></div>
+<div style="width:50%;float:left;"><center><a href="https://form.gov.sg/602f33f172d5100012d6ca8b" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center></div></i></small></i></small>
