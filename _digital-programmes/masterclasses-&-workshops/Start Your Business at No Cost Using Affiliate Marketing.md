@@ -3,20 +3,20 @@ title: Start Your Business at No Cost Using Affiliate Marketing
 permalink: /digital-programmes/mc-ws/am/
 description: SIRS Workshop - Start Your Business at No Cost Using Affiliate Marketing
 image: /images/images-2021/DigitalProgrammes-HImage-Workshop.png
-third_nav_title: Masterclasses & Workshops
+third_nav_title: Masterclasses &amp; Workshops
 ---
 <img src="/images/images-2021/DigitalProgrammes-HImage-Workshop.png" style="width:100%;">
 
 <h4 style="text-align:center;">Next intake:</h4>
 
 <center><table style="width:80%;">
-    <tr style="text-align:center;">
+    <tbody><tr style="text-align:center;">
       <th style="text-align:center;width:50%;">Face-to-Face</th>
     </tr>
     <tr style="text-align:center;">
       <td style="text-align:center;width:50%;">22-23 May (Mon-Tue)</td>
     </tr>
-</table></center>
+</tbody></table></center>
 
 <p>Valued at $12 billion worldwide*, the affiliate marketing industry is growing immensely as more brands and individuals jump on the bandwagon. Globally, over 80% of brands use affiliate programmes* and the number is on the rise as it gains popularity with the introduction of new technologies, platforms, and trends.</p>
 	
@@ -28,7 +28,7 @@ third_nav_title: Masterclasses & Workshops
 <h4>Course Title | Mode of Training | Course Ref</h4>
 
 <p>Start Your Business at No Cost Using 
-Affiliate Marketing<br>Classroom & Asynchronous E-Learning - TGS-2022016627</p>
+Affiliate Marketing<br>Classroom &amp; Asynchronous E-Learning - TGS-2022016627</p>
 
 <h4>Outline</h4>
 * Identify different affiliate opportunities
@@ -56,7 +56,7 @@ Affiliate Marketing<br>Classroom & Asynchronous E-Learning - TGS-2022016627</p>
 
 <center>
 <table style="width:100%;">
-<tr>
+<tbody><tr>
 <th style="width:70%;">Category</th>
 <th style="width:30%:">Price</th>
 </tr>
@@ -91,7 +91,7 @@ Affiliate Marketing<br>Classroom & Asynchronous E-Learning - TGS-2022016627</p>
 <td>$93</td>
 </tr>
 
-</table>
+</tbody></table>
 </center>
 
 
@@ -121,6 +121,6 @@ Affiliate Marketing<br>Classroom & Asynchronous E-Learning - TGS-2022016627</p>
 
 <p>For more information about funding and support, click <a href="/services/consultancy">here.</a></p>
 
-<div style="width:50%;float:left;"><center><a href="https://form.gov.sg/#!/5e587a6895e4da0011f0f746" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Register Now</a></center></div>
-
-<div style="width:50%;float:left;"><center><a href="https://form.gov.sg/602f33f172d5100012d6ca8b" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center></div>
+<div style="width:50%;float:left;"><center><a href="https://form.gov.sg/643b3aa6729ecd0012015806" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Register Now</a></center></div>
+	
+<div style="width:50%;float:left;"><center><a href="https://form.gov.sg/602f33f172d5100012d6ca8b" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center></div></i></small></i></small>

@@ -3,7 +3,7 @@ title: Digital Marketing to Drive Business Growth and ROI
 permalink: /digital-programmes/mc-ws/dm/
 description: SIRS Masterclass - Digital Marketing to Drive Business Growth and ROI
 image: /images/images-2021/DigitalProgrammes-Image-Masterclass.png
-third_nav_title: Masterclasses &amp; Workshops
+third_nav_title: Masterclasses & Workshops
 ---
 <img src="/images/images-2021/DigitalProgrammes-Image-Masterclass.png" style="width:100%;">
 
@@ -22,7 +22,7 @@ third_nav_title: Masterclasses &amp; Workshops
 
 <p>Digital Marketing is the one of the essential drivers of businesses in today’s digital world. It is the key to unlocking a world of opportunities by connecting with prospects and customers and enabling you to build lasting relationships with them to ensure your business sustainability and growth.</p>
 
-<p>This masterclass will guide you in developing a comprehensive digital marketing strategy through a deep understanding of people, media &amp; channels, content, and marketing analytics to optimise your campaigns and maximise your return on investment (ROI). You will benefit from acquiring the ability to utilise digital marketing to drive your business forward and upward. Adapt with agility to the changing forces of technology and elevate your business into a highly competitive brand that drives exponential growth!</p>
+<p>This masterclass will guide you in developing a comprehensive digital marketing strategy through a deep understanding of people, media & channels, content, and marketing analytics to optimise your campaigns and maximise your return on investment (ROI). You will benefit from acquiring the ability to utilise digital marketing to drive your business forward and upward. Adapt with agility to the changing forces of technology and elevate your business into a highly competitive brand that drives exponential growth!</p>
 
 <h4>Course Title | Mode of Training | Course Ref</h4>
 
@@ -44,7 +44,7 @@ Includes 2 hours of Asynchronous E-Learning</p>
   
 <h4>Trainer Profile</h4>
 <p><b>Ms Cindy Koh</b><br>
-Cindy has held various key roles heading Integrated &amp; Digital Marketing, also encompassing Data Analytics &amp; Consumer Research, Branding and Customer Experience Strategy, in several prominent banks over the past 20 years. Extending her deep and practical experience from the highly innovation-progressive banking industry, she has trained, mentored and consulted for both individuals and businesses across industries locally and globally, and is currently the Lead for Branding and Digital Marketing at Nanyang Polytechnic’s Singapore Institute of Retail Studies (SIRS).</p>
+Cindy has held various key roles heading Integrated & Digital Marketing, also encompassing Data Analytics & Consumer Research, Branding and Customer Experience Strategy, in several prominent banks over the past 20 years. Extending her deep and practical experience from the highly innovation-progressive banking industry, she has trained, mentored and consulted for both individuals and businesses across industries locally and globally, and is currently the Lead for Branding and Digital Marketing at Nanyang Polytechnic’s Singapore Institute of Retail Studies (SIRS).</p>
 
 <h4>Fees (GST 8% - For payment made on/after 1 Jan 2023)</h4>
 
@@ -116,4 +116,4 @@ Cindy has held various key roles heading Integrated &amp; Digital Marketing, als
 
 <div style="width:50%;float:left;"><center><a href="https://form.gov.sg/642d0e18682ef300118c4588" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Register Now</a></center></div>
 
-<div style="width:50%;float:left;"><center><a href="https://form.gov.sg/602f33f172d5100012d6ca8b" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center></div></i></small></i></small>
+<div style="width:50%;float:left;"><center><a href="https://form.gov.sg/602f33f172d5100012d6ca8b" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center></div>

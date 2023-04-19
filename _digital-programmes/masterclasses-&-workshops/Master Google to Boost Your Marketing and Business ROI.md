@@ -3,7 +3,7 @@ title: Master Google to Boost Your Marketing and Business ROI
 permalink: /digital-programmes/mc-ws/googlesuite/
 description: SIRS Unified Learning Series - Master Google to Boost Your
   Marketing and Business ROI
-third_nav_title: Masterclasses &amp; Workshops
+third_nav_title: Masterclasses & Workshops
 image: /images/images-2021/digitalprogrammes-masterclasses_workshops_unifiedlearningseries.png
 ---
 ![SIRS Unified Learning Series](/images/images-2021/digitalprogrammes-masterclasses_workshops_unifiedlearningseries.png)
@@ -14,7 +14,7 @@ image: /images/images-2021/digitalprogrammes-masterclasses_workshops_unifiedlear
     <tbody><tr style="text-align:center;">
       <th style="text-align:center;width:50%;">Face-to-Face</th>
     </tr><tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">8 &amp; 9 May (Google Ads)<br>25 &amp; 26 May (GA4)<br>9 June (Google Data Studio)</td>
+      <td style="text-align:center;width:50%;">Master Google Ads: 8 & 9 May <br>Google Analytics 4 (GA4): 25 & 26 May<br>Google Data Studio: 9 June </td>
 
 </tr></tbody></table></center>
 
@@ -39,7 +39,7 @@ Included in this series are:
 <br>Classroom and Asynchronous E-Learning - TGS-2023018430
 * Google Data Studio for Impactful Reporting with Data Visualisation 
 <br>Classroom and Asynchronous E-Learning - TGS-2023018434
-* Master Google Ads to Turbo Charge Your Leads &amp; Sales
+* Master Google Ads to Turbo Charge Your Leads & Sales
 <br>Classroom and Asynchronous E-Learning - TGS-2023018432
 
 
@@ -130,4 +130,4 @@ Includes 5 hours of Asynchronous E-Learning</p>
 
 <div style="width:50%;float:left;"><center><a href="https://form.gov.sg/64374ecfd3bbf70011ffacfc" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Register Now</a></center></div>
 
-<div style="width:50%;float:left;"><center><a href="https://form.gov.sg/602f33f172d5100012d6ca8b" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center></div></i></small></i></small>
+<div style="width:50%;float:left;"><center><a href="https://form.gov.sg/602f33f172d5100012d6ca8b" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center></div>

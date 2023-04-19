@@ -5,21 +5,20 @@ description: SIRS Masterclass - Master Google Ads to Turbo Charge Your Leads & S
 image: /images/images-2021/DigitalProgrammes-Image-Masterclass.png
 third_nav_title: Masterclasses & Workshops
 ---
-
 <img src="/images/images-2021/DigitalProgrammes-Image-Masterclass.png" style="width:100%;">
 
 <h4 style="text-align:center;">Next intake:</h4>
 
 <center><table style="width:80%;">
-    <tr style="text-align:center;">
+    <tbody><tr style="text-align:center;">
       <th style="text-align:center;width:50%;">Online Training</th>
       <th style="text-align:center;width:50%;">Face-to-Face</th>
     </tr>
     <tr style="text-align:center;">
       <td style="text-align:center;width:50%;">To be confirmed</td>
-      <td style="text-align:center;width:50%;">To be confirmed</td>
+      <td style="text-align:center;width:50%;">8 & 9 May (Mon & Tue)</td>
     </tr>
-</table></center>
+</tbody></table></center>
 
 <p>Undoubtedly, Google is the leading search engine in Singapore with an overwhelming 95.69%* share of the market. Being the go-to search engine for the vast majority, it is imperative that all businesses be present and visible when Singaporeans ‘Google It’. Make your business stand out in the fiercely competitive
 digital space by leveraging the power of Google Ads to drive optimal leads and sales to your business.</p>
@@ -74,7 +73,7 @@ HubSpot Content Marketing Certification.
 
 <center>
 <table style="width:100%;">
-<tr>
+<tbody><tr>
 <th style="width:70%;">Category</th>
 <th style="width:30%:">Price</th>
 </tr>
@@ -109,7 +108,7 @@ HubSpot Content Marketing Certification.
 <td>$148.80</td>
 </tr>
 
-</table>
+</tbody></table>
 </center>
 
 

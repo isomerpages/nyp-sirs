@@ -10,15 +10,15 @@ third_nav_title: Masterclasses & Workshops
 <h4 style="text-align:center;">Next intake:</h4>
 
 <center><table style="width:80%;">
-    <tr style="text-align:center;">
+    <tbody><tr style="text-align:center;">
       <th style="text-align:center;width:50%;">Online Training</th>
       <th style="text-align:center;width:50%;">Face-to-Face</th>
     </tr>
     <tr style="text-align:center;">
       <td style="text-align:center;width:50%;">To be confirmed</td>
-      <td style="text-align:center;width:50%;">To be confirmed</td>
+      <td style="text-align:center;width:50%;">9 June (Fri)</td>
     </tr>
-</table></center>
+</tbody></table></center>
 
 <p>No matter the business size, data is a critical resource for valuable insights into business performance and making informed decisions to drive efficiency. Google Data Studio provides you with a free reporting platform that allows you to easily connect to data sources, such as Google Analytics, Google Ads, Google BigQuery, YouTube Analytics, Campaign Manager 360, MySQL and many more, to maximise the value of data through its powerful visualisation tool that is highly effective in providing a fast and easy understanding of large data volumes.</p>
 
@@ -59,7 +59,7 @@ Ivan has over 20 years of experience in Business Consulting, Training, Search En
 
 <center>
 <table style="width:100%;">
-<tr>
+<tbody><tr>
 <th style="width:70%;">Category</th>
 <th style="width:30%:">Price</th>
 </tr>
@@ -94,7 +94,7 @@ Ivan has over 20 years of experience in Business Consulting, Training, Search En
 <td>$93</td>
 </tr>
 
-</table>
+</tbody></table>
 </center>
 
 

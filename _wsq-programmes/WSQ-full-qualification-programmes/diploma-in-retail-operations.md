@@ -13,8 +13,8 @@ third_nav_title: WSQ Full Qualification Programmes
       <th style="text-align:center;width:50%;">Night Training</th>
     </tr>
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">May 2023 (Every Mon &amp; Tue)<br>July 2023 (Every Mon &amp; Tue)<br>Nov 2023 (Every Mon &amp; Tue)</td>
-      <td style="text-align:center;width:50%;">May 2023 (Every Tue &amp; Wed)<br> Aug (Every Mon &amp; Thu)<br>Oct 2023 (Every Tue &amp; Wed)</td>
+      <td style="text-align:center;width:50%;">May 2023 (Every Mon & Tue)<br>July 2023 (Every Mon & Tue)<br>Nov 2023 (Every Mon & Tue)</td>
+      <td style="text-align:center;width:50%;">May 2023 (Every Tue & Wed)<br> Aug (Every Mon & Thu)<br>Oct 2023 (Every Tue & Wed)</td>
     </tr>
 </tbody></table></center>
 
@@ -28,19 +28,19 @@ third_nav_title: WSQ Full Qualification Programmes
 
 <p>To achieve a full qualification, individuals must successfully attain competency in all the following modules:</p>
 
-<b>Global Mindset (Intermediate) (24 hours)</b><br>Evaluate local &amp; global issues &amp; trends that impact one's employability &amp; job role and to be able to identify competency gaps, determine training and development needs and to establish &amp; evaluate appropriate training &amp; learning opportunities for all including the implementation of a conducive work environment to facilitate transfer of knowledge &amp; skills.
+<b>Global Mindset (Intermediate) (24 hours)</b><br>Evaluate local & global issues & trends that impact one's employability & job role and to be able to identify competency gaps, determine training and development needs and to establish & evaluate appropriate training & learning opportunities for all including the implementation of a conducive work environment to facilitate transfer of knowledge & skills.
  
 <b>Sales Target Management (24 hours)</b><br>Set, communicate, drive and motivate staff to achieve sales target and to review social-economic changes in the local context as well as assess impact of external economic and political events on the local retailing environment and to make changes to target set inability to reflect actual situation.
  
 <b>Workplace Communication (18 hours)</b><br>Use appropriate methods / equipment / platform to communicate policies and procedure to staff and monitor their compliance including evaluating the effectiveness of such methods / channels.
  
-<b>Productivity Improvement (30 hours)</b><br>Manage productivity action plans and initiatives that include reviewing potential areas &amp; opportunities as well as evaluating tools and techniques for productivity measurement and improvement.
+<b>Productivity Improvement (30 hours)</b><br>Manage productivity action plans and initiatives that include reviewing potential areas & opportunities as well as evaluating tools and techniques for productivity measurement and improvement.
  
-<b>Service Leadership (30 hours)</b><br>Recognise the characteristics of a leader and to discharge the roles &amp; responsibilities of a leader in operationalising the organization's service vision, mission and values - entailing ways to promote a customer centric environment as well as analysing the performance of individual member and the team with the intent to identify follow-up actions for improvement.
+<b>Service Leadership (30 hours)</b><br>Recognise the characteristics of a leader and to discharge the roles & responsibilities of a leader in operationalising the organization's service vision, mission and values - entailing ways to promote a customer centric environment as well as analysing the performance of individual member and the team with the intent to identify follow-up actions for improvement.
  
-<b>Customer Experience Innovation (18 hours)</b><br>Develop insights &amp; methods to enhance customer experience by identifying and mapping the organization's current customer journey. Then after, to analyse for gaps in the journey before seeking, evaluating, and implementing proposed environments.
+<b>Customer Experience Innovation (18 hours)</b><br>Develop insights & methods to enhance customer experience by identifying and mapping the organization's current customer journey. Then after, to analyse for gaps in the journey before seeking, evaluating, and implementing proposed environments.
  
-<b>Retailing &amp; the Economy (24 hours)</b><br>Understand key considerations and target markets in retailing as well as the application of the following concepts in the context of retailing: scarcity, opportunity costs, demand &amp; supply, elasticity, utility.
+<b>Retailing & the Economy (24 hours)</b><br>Understand key considerations and target markets in retailing as well as the application of the following concepts in the context of retailing: scarcity, opportunity costs, demand & supply, elasticity, utility.
  
 <b>Financial Analysis (30 hours)</b><br>Evaluate financial ratios, perform cost-benefits analysis and analyse the short and long term financial implications for the business to facilitate decision-making by management including the proper presentation of financial analysis to the management.
  

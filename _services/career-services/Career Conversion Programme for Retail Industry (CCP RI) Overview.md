@@ -25,7 +25,7 @@ align their training according to their specific business needs.</p>
 <h4>Benefits</h4>
 * Faciliate recruitment of career switchers to meet employers' manpower needs
 * Leverage structured industry-recognised training
-* Convert motivated and talented mid-career PMETs to reskill &amp; take on new job roles
+* Convert motivated and talented mid-career PMETs to reskill & take on new job roles
 * Reach out to a wider workforce and overcome talent shortage
 * Tap on Government funding through course fee grant and salary support
 
