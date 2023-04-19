@@ -3,7 +3,7 @@ title: Master Google to Boost Your Marketing and Business ROI
 permalink: /digital-programmes/mc-ws/googlesuite/
 description: SIRS Unified Learning Series - Master Google to Boost Your
   Marketing and Business ROI
-third_nav_title: Masterclasses &amp; Workshops
+third_nav_title: Masterclasses & Workshops
 image: /images/images-2021/digitalprogrammes-masterclasses_workshops_unifiedlearningseries.png
 ---
 ![SIRS Unified Learning Series](/images/images-2021/digitalprogrammes-masterclasses_workshops_unifiedlearningseries.png)
