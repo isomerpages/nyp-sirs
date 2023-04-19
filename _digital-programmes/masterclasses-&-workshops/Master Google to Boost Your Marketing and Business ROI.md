@@ -14,7 +14,7 @@ image: /images/images-2021/digitalprogrammes-masterclasses_workshops_unifiedlear
     <tbody><tr style="text-align:center;">
       <th style="text-align:center;width:50%;">Face-to-Face</th>
     </tr><tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">8 &amp; 9 May (Google Ads)<br>25 &amp; 26 May (GA4)<br>9 June (Google Data Studio)</td>
+      <td style="text-align:center;width:50%;">Master Google Ads: 8 &amp; 9 May <br>Google Analytics 4 (GA4): 25 &amp; 26 May<br>Google Data Studio: 9 June </td>
 
 </tr></tbody></table></center>
 
