@@ -3,7 +3,7 @@ title: Generate Leads for Free and Maximise Your Sales Conversion
 permalink: /digital-programmes/mc-ws/oms/
 description: SIRS Workshop - Generate Leads for Free and Maximise Your Sales Conversion
 image: ""
-third_nav_title: Masterclasses &amp; Workshops
+third_nav_title: Masterclasses & Workshops
 ---
 <img src="/images/images-2021/DigitalProgrammes-HImage-Workshop.png" style="width:100%;">
 
@@ -26,7 +26,7 @@ third_nav_title: Masterclasses &amp; Workshops
 
 <h4>Course Title | Mode of Training | Course Ref</h4>
 
-<p>Generate Leads for Free &amp; Maximise Your Sales Conversion<br>Classroom &amp; Asynchronous E-Learning - TGS-2023018433</p>
+<p>Generate Leads for Free & Maximise Your Sales Conversion<br>Classroom & Asynchronous E-Learning - TGS-2023018433</p>
 
 <h4>Outline</h4>
 * Identify the key owned media channels through understanding their respective roles and value in the customer acquisition strategy.

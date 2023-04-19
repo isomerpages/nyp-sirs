@@ -1,8 +1,8 @@
 ---
 title: Digital Strategy & the 101 of Search Engine Optimisation (SEO)
 permalink: /digital-programmes/masterclasses-and-workshops/digital-strategy-and-the-101-of-seo/
-breadcrumb: Digital Strategy &amp; the 101 of Search Engine Optimisation (SEO)
-third_nav_title: Masterclasses &amp; Workshops
+breadcrumb: Digital Strategy & the 101 of Search Engine Optimisation (SEO)
+third_nav_title: Masterclasses & Workshops
 description: ""
 ---
 <img style="width:100%;" src="/images/images-2021/DigitalProgrammes-Image-Masterclass.png">
@@ -26,7 +26,7 @@ description: ""
 
 <h4>Course Title | Mode of Training | Course Ref</h4>
 
-<p>Digital Strategy &amp; the 101 of Search Engine Optimisation (SEO) 
+<p>Digital Strategy & the 101 of Search Engine Optimisation (SEO) 
 <br>Synchronous E-learning -TGS-2020501149</p>
 
 <h4>Outline</h4>
@@ -37,7 +37,7 @@ description: ""
 <li>Select the right digital channel, craft a simple  digital framework, understand how digital ROI is derived, plan a budget and project returns</li>
 <li>Introduction to SEO</li>
 <li>Determine this channel for growth, understand all necessary aspects of optimisation/ backlinking strategy and know 101 of hiring/ working with SEO vendors</li>
-<li>Evaluating digital campaigns &amp; key metrics</li>
+<li>Evaluating digital campaigns & key metrics</li>
 <li>Create a simple framework to evaluate campaign success or failure and understand key metrics from Google Analytics and Google Webmaster tools</li>
   </ul>
 
@@ -59,7 +59,7 @@ description: ""
 	</div>
 	<div class="col is-8">
         <b>Jayden Ooi</b><br><i>Entrepreneur, Digital Strategist</i><br><br>Jayden Ooi is highly qualified in practice with many successful digital transformations for SMEs to pivot their brick-and-mortar businesses into the digital space. With his
-expertise, a local retailer successfully redesigned its business model, ranked number one on Google, and achieved more than three million dollars in e-commerce sales. In another instance, he helped a local F&amp;B SME to rise to the top ranking and triple its
+expertise, a local retailer successfully redesigned its business model, ranked number one on Google, and achieved more than three million dollars in e-commerce sales. In another instance, he helped a local F&B SME to rise to the top ranking and triple its
 annual revenue. Jayden is an experienced professional in SEO, digital marketing, and e-commerce development. Over the years, he has built a staunch customer portfolio and a successful team in Singapore and Malaysia. His agency, NightOwl SEO, has helped many of his clients to be in the top 5 rankings on Google.
 	</div>
 </div>
