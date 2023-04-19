@@ -3,7 +3,7 @@ title: GA4 with Google Tag Manager (GTM)
 permalink: /digital-programmes/mc-ws/ga4-gtm/
 description: SIRS Masterclass - GA4 with Google Tag Manager (GTM)
 image: /images/images-2021/DigitalProgrammes-Image-Masterclass.png
-third_nav_title: Masterclasses &amp; Workshops
+third_nav_title: Masterclasses & Workshops
 ---
 <img src="/images/images-2021/DigitalProgrammes-Image-Masterclass.png" style="width:100%;">
 
@@ -16,7 +16,7 @@ third_nav_title: Masterclasses &amp; Workshops
     </tr>
     <tr style="text-align:center;">
       <td style="text-align:center;width:50%;">To be confirmed</td>
-      <td style="text-align:center;width:50%;">25 &amp; 26 May (Tue &amp; Wed)</td>
+      <td style="text-align:center;width:50%;">25 & 26 May (Tue & Wed)</td>
     </tr>
 </tbody></table></center>
 
@@ -31,7 +31,7 @@ device measurement capabilities.</p>
 <h4>Course Title | Mode of Training | Course Ref</h4>
 
 <p>GA4 with Google Tag Manager (GTM)
-<br>Classroom &amp; Asynchronous E-Learning -TGS-2023018430</p>
+<br>Classroom & Asynchronous E-Learning -TGS-2023018430</p>
 
 <h4>Outline</h4>
 * Set up and structure a web property using GA4’s reporting tools and features

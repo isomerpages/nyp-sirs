@@ -27,7 +27,7 @@ third_nav_title: Masterclasses & Workshops
 
 <h4>Course Title | Mode of Training | Course Ref</h4>
 
-<p>How to Become a YouTuber and Get Paid<br>Classroom &amp; Asynchronous E-Learning - TGS-2023018429</p>
+<p>How to Become a YouTuber and Get Paid<br>Classroom & Asynchronous E-Learning - TGS-2023018429</p>
 
 <h4>Outline</h4>
 * Appreciate the importance of video content in social media engagement

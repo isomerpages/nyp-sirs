@@ -16,7 +16,7 @@ third_nav_title: Masterclasses & Workshops
     </tr>
     <tr style="text-align:center;">
       <td style="text-align:center;width:50%;">To be confirmed</td>
-      <td style="text-align:center;width:50%;">8 &amp; 9 May (Mon &amp; Tue)</td>
+      <td style="text-align:center;width:50%;">8 & 9 May (Mon & Tue)</td>
     </tr>
 </tbody></table></center>
 
@@ -29,8 +29,8 @@ digital space by leveraging the power of Google Ads to drive optimal leads and s
 	
 <h4>Course Title | Mode of Training | Course Ref</h4>
 
-<p>Master Google Ads to Turbo Charge Your Leads &amp; Sales
-<br>Classroom &amp; Asynchronous E-Learning - TGS-2023018432</p>
+<p>Master Google Ads to Turbo Charge Your Leads & Sales
+<br>Classroom & Asynchronous E-Learning - TGS-2023018432</p>
 
 <h4>Outline</h4>
 * Set up a Google Ads account that supports efficient and effective development and management of Google Ad Campaigns by understanding the various key features and functions of the platform
@@ -56,7 +56,7 @@ Includes 2 hours of Asynchronous E-Learning</p>
 	</div>
 	<div class="col is-8">
         <b>Gavin Choo</b><br>Gavin is an experienced Digital Marketing practitioner, with over 12 years of experience
-working in the Marketing &amp; Advertising industry in various roles such as Sales,
+working in the Marketing & Advertising industry in various roles such as Sales,
 Marketing, and Business Development, plus 4 years of experience in Professional
 Training and Coaching. He is also a Singapore WSQ ACTA certified trainer. He is
 passionate about showing business owners and brand marketers how to get results

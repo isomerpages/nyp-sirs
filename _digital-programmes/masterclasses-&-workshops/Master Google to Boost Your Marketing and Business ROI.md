@@ -14,7 +14,7 @@ image: /images/images-2021/digitalprogrammes-masterclasses_workshops_unifiedlear
     <tbody><tr style="text-align:center;">
       <th style="text-align:center;width:50%;">Face-to-Face</th>
     </tr><tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">Master Google Ads: 8 &amp; 9 May <br>Google Analytics 4 (GA4): 25 &amp; 26 May<br>Google Data Studio: 9 June </td>
+      <td style="text-align:center;width:50%;">Master Google Ads: 8 & 9 May <br>Google Analytics 4 (GA4): 25 & 26 May<br>Google Data Studio: 9 June </td>
 
 </tr></tbody></table></center>
 
@@ -39,7 +39,7 @@ Included in this series are:
 <br>Classroom and Asynchronous E-Learning - TGS-2023018430
 * Google Data Studio for Impactful Reporting with Data Visualisation 
 <br>Classroom and Asynchronous E-Learning - TGS-2023018434
-* Master Google Ads to Turbo Charge Your Leads &amp; Sales
+* Master Google Ads to Turbo Charge Your Leads & Sales
 <br>Classroom and Asynchronous E-Learning - TGS-2023018432
 
 

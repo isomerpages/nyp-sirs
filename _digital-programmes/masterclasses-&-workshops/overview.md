@@ -2,11 +2,11 @@
 title: Overview
 permalink: /digital-programmes/masterclasses-and-workshops/
 breadcrumb: Overview
-third_nav_title: Masterclasses &amp; Workshops
+third_nav_title: Masterclasses & Workshops
 ---
 <img src="/images/images-2021/DigitalProgrammes-Masterclasses_Workshops.png" style="width:100%;">
 
-<p>Designed for intermediate to advanced learners, SIRS' Masterclasses &amp; Workshops series equips learners with the required skillsets and knowledge to boost and optimise their sales and marketing efforts to enhance business revenue. Our masterclasses are conducted by leading experts and practitioners in the respective fields, transferring actionable knowledge to learners.</p>
+<p>Designed for intermediate to advanced learners, SIRS' Masterclasses & Workshops series equips learners with the required skillsets and knowledge to boost and optimise their sales and marketing efforts to enhance business revenue. Our masterclasses are conducted by leading experts and practitioners in the respective fields, transferring actionable knowledge to learners.</p>
 
 <h4>Masterclasses</h4>
 <p>Learn how to advance your business performance from industry experts with our range of Masterclasses:</p>
@@ -17,16 +17,16 @@ third_nav_title: Masterclasses &amp; Workshops
   <li><a href="/digital-programmes/masterclasses-and-workshops/digital-commerce-operations">Digital Commerce Operations</a></li>
   <li><a href="/digital-programmes/masterclasses-and-workshops/digital-commerce-visual">Digital Commerce Visual</a></li>
 	<li><a href="/digital-programmes/mc-ws/dm">Digital Marketing to Drive Business Growth and ROI</a></li>
-  <li><a href="/digital-programmes/masterclasses-and-workshops/digital-strategy-and-the-101-of-seo">Digital Strategy &amp; the 101 of Search Engine Optimisation (SEO)</a></li>
-  <li><a href="/digital-programmes/masterclasses-and-workshops/empower-your-business-with-social-commerce-and-digital-payment">Empower Your Business with Social Commerce &amp; Digital Payment</a></li>
+  <li><a href="/digital-programmes/masterclasses-and-workshops/digital-strategy-and-the-101-of-seo">Digital Strategy & the 101 of Search Engine Optimisation (SEO)</a></li>
+  <li><a href="/digital-programmes/masterclasses-and-workshops/empower-your-business-with-social-commerce-and-digital-payment">Empower Your Business with Social Commerce & Digital Payment</a></li>
 <li><a href="/digital-programmes/mc-ws/ga4-gtm/">GA4 with Google Tag Manager (GTM)</a></li>
  <li><a href="/digital-programmes/masterclasses-and-workshops/google-analytics-for-e-commerce">Google Analytics (GA) for E-Commerce with GAIQ Certification</a></li>
 <li><a href="/digital-programmes/mc-ws/google-data-studio/">Google Data Studio for Impactful Reporting with Data Visualisation</a></li>
  <li><a href="/digital-programmes/masterclasses-and-workshops/google-shopping-with-adwords-professional-certification">Google Shopping with AdWords Certified Professional Course</a></li>
  <li><a href="/digital-programmes/masterclasses-and-workshops/increase-business-revenue-through-seo">Increase Business Revenue through Search Engine Optimisation (SEO)</a></li>
  <li><a href="/digital-programmes/masterclasses-and-workshops/master-facebook-marketing-for-business">Master Facebook Marketing for Business</a></li>
-<li><a href="/digital-programmes/mc-ws/google-ads/">Master Google Ads to Turbo Charge Your Leads &amp; Sales</a></li>
- <li><a href="/digital-programmes/masterclasses-and-workshops/master-linkedin-for-sales-and-marketing">Master LinkedIn for Sales &amp; Marketing</a></li>
+<li><a href="/digital-programmes/mc-ws/google-ads/">Master Google Ads to Turbo Charge Your Leads & Sales</a></li>
+ <li><a href="/digital-programmes/masterclasses-and-workshops/master-linkedin-for-sales-and-marketing">Master LinkedIn for Sales & Marketing</a></li>
  <li><a href="/digital-programmes/masterclasses-and-workshops/omni-commerce-retail">Omni-Commerce Retail</a></li>
 	 <li><a href="/digital-programmes/mc-ws/responsive-web-design/">Responsive Website Design to Elevate Customer Experience and Enhance Conversions</a></li>
 	 <li><a href="/digital-programmes/mc-ws/shopify-seo/">Shopify SEO: Drive Organic Traffic to Your E-Commerce Website</a></li>
@@ -45,7 +45,7 @@ in the New Retail Revolution</a></li>
   <li><a href="/digital-programmes/masterclasses-and-workshops/differentiate-and-drive-growth-with-experience-innovation">Differentiate and Drive Growth with Experience Innovation</a></li>
 	<li><a href="/digital-programmes/mc-ws/mindset">Digital Transformation with a New Mindset</a></li>
 	<li><a href="/digital-programmes/mc-ws/oms">Generate Leads for Free and Maximise Your Sales Conversions</a></li>
-	<li><a href="/digital-programmes/mc-ws/tiktokmarketing">Harness the Power of Social &amp; Influencer Marketing on TikTok </a></li>
+	<li><a href="/digital-programmes/mc-ws/tiktokmarketing">Harness the Power of Social & Influencer Marketing on TikTok </a></li>
  <li><a href="/digital-programmes/mc-ws/wellness">Holistic Wellness for a Resilient You</a></li>
   <li><a href="/digital-programmes/masterclasses-and-workshops/improve-customer-engagement-with-digital-mindset">Improve Customer Engagement with Digital Mindset</a></li>
 	<li><a href="/digital-programmes/mc-ws/hbb">Jumpstart and Grow Your Home-Based Business</a></li>

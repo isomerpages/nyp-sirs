@@ -15,7 +15,7 @@ third_nav_title: Masterclasses & Workshops
       <th style="text-align:center;width:50%;">Face-to-Face</th>
     </tr>
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">17 &amp; 20 Apr (Mon &amp; Thu)</td>
+      <td style="text-align:center;width:50%;">17 & 20 Apr (Mon & Thu)</td>
     </tr>
 </tbody></table></center>
 
@@ -29,7 +29,7 @@ social media marketing because of its effectiveness in engaging and captivating 
 
 <h4>Course Title | Mode of Training | Course Ref</h4>
 
-<p>Drive Conversions &amp; Optimise Returns with Social &amp; Influencer Marketing<br>Classroom - TGS-2022013325</p>
+<p>Drive Conversions & Optimise Returns with Social & Influencer Marketing<br>Classroom - TGS-2022013325</p>
 
 <h4>Outline</h4>
 * Identify and analyse social media trends and insights to create effective marketing campaigns

@@ -38,13 +38,13 @@ marketing campaigns are some of the considerations in developing an effective Om
 - Developing an effective Omni-commerce strategy<br>Identify the 5 key future trends, 7 key technology enablements and cross border trade
 - Applying key success tools in the new Omni-commerce business<br>Use real time analytic of management consoles, streamline platforms mechanism and KPI to lead your Omni-commerce team intelligently
 - Re-designing your organization structure<br>Adopt the blue and red ocean middle game strategy to build a highly competent team in the new digital environment
-- Building an integrated supply chain for new retail &amp; value chain<br>Create a seamless customer experience from in-store sales personnel to backend logistics with an integrated supply chain strategy
-- Big data driven market sizing, product &amp; pricing driven traffic and conversion<br>Understand how to leverage an AI system to execute creative marketing, product development and pricing strategy effectively
+- Building an integrated supply chain for new retail & value chain<br>Create a seamless customer experience from in-store sales personnel to backend logistics with an integrated supply chain strategy
+- Big data driven market sizing, product & pricing driven traffic and conversion<br>Understand how to leverage an AI system to execute creative marketing, product development and pricing strategy effectively
 - Creating effective Omni-commerce marketing campaigns and understand new millennial mobile marketing<br>Attract new millennials who are savvy to buy online and offline via rhythm promotional activities
 - Developing social media strategy and KPI<br>Create winning social commerce strategy to drive traffic and sales
 
 <h4>Who Should Attend</h4>
-<p>This masterclass is suitable for C-level Executives, General Managers, Heads of Technology/IT, Marketing &amp; Business Development, Heads of
+<p>This masterclass is suitable for C-level Executives, General Managers, Heads of Technology/IT, Marketing & Business Development, Heads of
 Delivery, Technologists, and Innovation Managers.</p>
 
 <h4>Duration</h4>
