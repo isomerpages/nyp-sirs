@@ -3,7 +3,7 @@ title: Start Your Business at No Cost Using Affiliate Marketing
 permalink: /digital-programmes/mc-ws/am/
 description: SIRS Workshop - Start Your Business at No Cost Using Affiliate Marketing
 image: /images/images-2021/DigitalProgrammes-HImage-Workshop.png
-third_nav_title: Masterclasses &amp; Workshops
+third_nav_title: Masterclasses & Workshops
 ---
 <img src="/images/images-2021/DigitalProgrammes-HImage-Workshop.png" style="width:100%;">
 
@@ -28,7 +28,7 @@ third_nav_title: Masterclasses &amp; Workshops
 <h4>Course Title | Mode of Training | Course Ref</h4>
 
 <p>Start Your Business at No Cost Using 
-Affiliate Marketing<br>Classroom &amp; Asynchronous E-Learning - TGS-2022016627</p>
+Affiliate Marketing<br>Classroom & Asynchronous E-Learning - TGS-2022016627</p>
 
 <h4>Outline</h4>
 * Identify different affiliate opportunities

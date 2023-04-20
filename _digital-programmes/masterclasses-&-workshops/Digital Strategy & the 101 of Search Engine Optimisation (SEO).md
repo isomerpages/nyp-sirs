@@ -5,7 +5,7 @@ breadcrumb: Digital Strategy & the 101 of Search Engine Optimisation (SEO)
 third_nav_title: Masterclasses & Workshops
 description: ""
 ---
-<img src="/images/images-2021/DigitalProgrammes-Image-Masterclass.png" style="width:100%;">
+<img style="width:100%;" src="/images/images-2021/DigitalProgrammes-Image-Masterclass.png">
 
 <h4 style="text-align:center;">Next intake:</h4>
 
@@ -53,8 +53,8 @@ description: ""
 <div class="row">
     <div class="col is-4">
 		<figure style="margin:0;">
-			<img src="/images/images-2021/Masterclass Trainer_Jayden Ooi.png" style="width:60%;">
-			<figcaption class="has-text-weight-bold" style="color:#0AD25A"> </figcaption>
+			<img style="width:60%;" src="/images/images-2021/Masterclass Trainer_Jayden Ooi.png">
+			<figcaption style="color:#0AD25A" class="has-text-weight-bold"> </figcaption>
 		</figure>
 	</div>
 	<div class="col is-8">
@@ -134,6 +134,7 @@ annual revenue. Jayden is an experienced professional in SEO, digital marketing,
 
 <p>For more information about funding and support, click <a href="/services/consultancy">here.</a></p>
 
-<div style="width:50%;float:left;"><center><a href="https://form.gov.sg/642d0e18682ef300118c4588" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Register Now</a></center></div>
+<div style="width:50%;float:left;"><center><a style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;" href="https://form.gov.sg/642d0e18682ef300118c4588">Register Now</a></center></div>
 
-<div style="width:50%;float:left;"><center><a href="https://form.gov.sg/602f33f172d5100012d6ca8b" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center></div>
+<div style="width:50%;float:left;"><center><a style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;" href="https://form.gov.sg/602f33f172d5100012d6ca8b">Request for Brochure</a></center></div>
+</i></small></i></small>
