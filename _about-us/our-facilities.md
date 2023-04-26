@@ -9,6 +9,19 @@ breadcrumb: Our Facilities
 simulated rooms, and well-furnished classrooms to provide you with practical training in a conducive learning environment. 
 Training may also be conducted at the client’s premises or any well-appointed facilities.</p>
 
+<h4>Retail Experiential Hub (REH)</h4>
+
+<p>The Retail Experiential Hub (REH) is a brand-new collaborative space designed for retailers and learners to stay abreast of the latest technological solutions in the industry while providing hands-on experiential learning. It serves as a hub for hosting exciting events, workshops, and seminars. The REH also features our Visual Merchandising Training Space. In partnership with Love, Bonito, SIRS has created a visual merchandising display that brings the principles of our visual merchandising courses to life. This training space enables trainers to lead their teachings with ease while providing learners with the opportunity to apply their newly acquired theoretical knowledge in a practical setting.</p>
+
+<img src="/images/images-2021/About-Facilities-REH1.jpg" style="width:70%;">
+
+<img src="/images/images-2021/About-Facilities-REH2.jpg" style="width:70%;">
+
+<img src="/images/images-2021/About-Facilities-REH3.jpg" style="width:70%;">
+
+<img src="/images/images-2021/About-Facilities-REH4.jpg" style="width:70%;">
+
+
 <h4>Creative Studio</h4>
 
 <p>Live streaming is an interactive and engaging way for retailers to reach out to their audiences. The creative studio is equipped with advanced broadcast 
