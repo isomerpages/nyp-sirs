@@ -11,15 +11,15 @@ third_nav_title: Masterclasses & Workshops
 <h4 style="text-align:center;">Next intake:</h4>
 
 <center><table style="width:80%;">
-    <tr style="text-align:center;">
+    <tbody><tr style="text-align:center;">
       <th style="text-align:center;width:50%;">Online Training</th>
       <th style="text-align:center;width:50%;">Face-to-Face</th>
     </tr>
     <tr style="text-align:center;">
       <td style="text-align:center;width:50%;">To be confirmed</td>
-      <td style="text-align:center;width:50%;">To be confirmed</td>
+      <td style="text-align:center;width:50%;">21-23 June (Wed-Fri)</td>
     </tr>
-</table></center>
+</tbody></table></center>
 
 <p>Websites are where almost every potential and existing customers land to seek information and interact with businesses today. Just like how visual merchandising is integral to the success of a retail store, every detail of an intuitive website, from layout to content, must be logically constructed and aesthetically designed to elevate customer experience and enhance sales and conversion rates. As technology diversifies and customers use various mobile and smart devices to visit websites, it is paramount and valuable for all digital businesses to have a responsive website design.</p>
 
@@ -31,7 +31,7 @@ third_nav_title: Masterclasses & Workshops
 <h4>Course Title | Mode of Training | Course Ref</h4>
 
 <p>Responsive Website Design
-<br>Classroom & Asynchronous E-Learning - TGS-2023018431</p>
+<br>Classroom &amp; Asynchronous E-Learning - TGS-2023018431</p>
 
 <h4>Outline</h4>
 * Formulate an optimised website strategy by determining the critical business elements 
@@ -63,7 +63,7 @@ Includes 3 hours of Asynchronous E-Learning</p>
 for SMEs to pivot their brick-and-mortar businesses into the digital space. With his
 expertise, a local retailer successfully redesigned its business model, ranked number
 one on Google, and achieved more than three million dollars in e-commerce sales. In
-another instance, he helped a local F&B SME to rise to the top ranking and triple its
+another instance, he helped a local F&amp;B SME to rise to the top ranking and triple its
 annual revenue. Jayden is an experienced professional in SEO, digital marketing, and
 e-commerce development. Over the years, he has built a staunch customer portfolio
 and a successful team in Singapore and Malaysia. His agency, NightOwl SEO, has
@@ -75,7 +75,7 @@ helped many of his clients to be in the top 5 rankings on Google.
 
 <center>
 <table style="width:100%;">
-<tr>
+<tbody><tr>
 <th style="width:70%;">Category</th>
 <th style="width:30%:">Price</th>
 </tr>
@@ -110,7 +110,7 @@ helped many of his clients to be in the top 5 rankings on Google.
 <td>$198.40</td>
 </tr>
 
-</table>
+</tbody></table>
 </center>
 
 
@@ -142,4 +142,4 @@ helped many of his clients to be in the top 5 rankings on Google.
 
 <div style="width:50%;float:left;"><center><a href="https://form.gov.sg/#!/5e587a6895e4da0011f0f746" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Register Now</a></center></div>
 
-<div style="width:50%;float:left;"><center><a href="https://form.gov.sg/602f33f172d5100012d6ca8b" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center></div>
+<div style="width:50%;float:left;"><center><a href="https://form.gov.sg/602f33f172d5100012d6ca8b" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center></div></i></small></i></small>
