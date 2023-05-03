@@ -10,15 +10,15 @@ third_nav_title: Masterclasses & Workshops
 <h4 style="text-align:center;">Next intake:</h4>
 
 <center><table style="width:80%;">
-    <tr style="text-align:center;">
+    <tbody><tr style="text-align:center;">
       <th style="text-align:center;width:50%;">Online Training</th>
       <th style="text-align:center;width:50%;">Face-to-Face</th>
     </tr>
     <tr style="text-align:center;">
       <td style="text-align:center;width:50%;">To be confirmed</td>
-      <td style="text-align:center;width:50%;">To be confirmed</td>
+      <td style="text-align:center;width:50%;">7 Jul (Fri)</td>
     </tr>
-</table></center>
+</tbody></table></center>
 
 <p>Search engine optimisation (SEO) is one of the most powerful digital marketing strategies to raise the visibility of a website, drive traffic and boost sales opportunities. An SEO-optimised website benefits businesses tremendously in bringing high quality leads organically, a sustainable approach that is cost-free and presents higher creditability and awareness to brands.</p>
 
@@ -30,10 +30,10 @@ third_nav_title: Masterclasses & Workshops
 <h4>Course Title | Mode of Training | Course Ref</h4>
 
 <p>Shopify SEO Masterclass
-<br>Classroom & Asynchronous E-Learning - TGS-2023018435</p>
+<br>Classroom &amp; Asynchronous E-Learning - TGS-2023018435</p>
 
 <h4>Outline</h4>
-* Set up a fully functional and live Shopify store through understanding and installing the key & relevant sales, management and maintenance features and functions
+* Set up a fully functional and live Shopify store through understanding and installing the key &amp; relevant sales, management and maintenance features and functions
 * Develop optimised Shopify store content and structure that is primed to drive greater traffic using learned on-page SEO techniques 
 * Drive omnichannel traffic to the Shopify store through application of a combination of on and off-page SEO techniques 
 * Enhance Shopify store sales by applying various Shopify sales drivers including navigational features, discount functions and apps
@@ -57,7 +57,7 @@ Ivan has over 20 years of experience in Business Consulting, Training, Search En
 
 <center>
 <table style="width:100%;">
-<tr>
+<tbody><tr>
 <th style="width:70%;">Category</th>
 <th style="width:30%:">Price</th>
 </tr>
@@ -92,7 +92,7 @@ Ivan has over 20 years of experience in Business Consulting, Training, Search En
 <td>$93</td>
 </tr>
 
-</table>
+</tbody></table>
 </center>
 
 
@@ -123,4 +123,4 @@ Ivan has over 20 years of experience in Business Consulting, Training, Search En
 
 <div style="width:50%;float:left;"><center><a href="https://form.gov.sg/#!/5d9d3f30a8b1b30012143f58" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Register Now</a></center></div>
 
-<div style="width:50%;float:left;"><center><a href="https://form.gov.sg/602f33f172d5100012d6ca8b" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center></div>
+<div style="width:50%;float:left;"><center><a href="https://form.gov.sg/602f33f172d5100012d6ca8b" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center></div></i></small></i></small>

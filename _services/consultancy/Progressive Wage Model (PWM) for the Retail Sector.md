@@ -8,7 +8,7 @@ image: /images/images-2021/Home-Highlights-PWM.png
 <h4>What is the Progressive Wage Model (PWM) for the Retail Sector?</h4>
 The PWM aims to build a future-ready workforce, transforming retailers into employers of choice and retail jobs into fulfilling long-term career options for local job seekers. PWM is expanded to more sectors, including Retail, to ensure lower-wage workers' wages close the gap with the median through higher wage growth than median wage growth. 
 
-<h4>Who does PWM covers?</h4>
+<h4>Who does PWM cover?</h4>
 The PWM requirements apply to Singapore Citizens and Permanent Residents who are full-time or part-time employees in retail job roles on a contract of service and employed by firms which hire foreign workers, regardless of whether the firm is classified under the Retail Sector Singapore Standard Industrial Classification (SSIC) or another SSIC.
 
 The Retail PWM covers the following job roles: 
@@ -23,7 +23,7 @@ More details on the coverage of retail jobs and description of duties and respon
 <h4>What does this mean to me as an employer?</h4>
 Employers must ensure that their Singapore Citizen and Singapore PR retail workers meet the retail PWM training requirements of attaining at least 1 Workforce Skills Qualification (WSQ) Statement of Attainment, out of the list of approved WSQ training modules.
 
-Alternatively, if employers have in-house WSQ training modules that have the prefix “RET” in the accompanying Technical Skills & Competencies (TSC) code, these training modules can be used to meet the training requirement as well.
+Alternatively, if employers have in-house WSQ training modules that have the prefix “RET” in the accompanying Technical Skills &amp; Competencies (TSC) code, these training modules can be used to meet the training requirement as well.
 
 **Employers will be given a grace period to comply with the retail PWM training requirements:**
 
