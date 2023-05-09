@@ -1,6 +1,6 @@
 ---
 title: Overview
-permalink: /success-and-blog/success-stories
+permalink: /success-and-blog/success-stories/
 breadcrumb: Overview
 third_nav_title: 'Success Stories'
 

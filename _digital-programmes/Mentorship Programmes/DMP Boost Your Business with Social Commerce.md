@@ -1,6 +1,6 @@
 ---
 title: DMP Boost Your Business with Social Commerce
-permalink: /digital-programmes/Mentorship-Programmes/dmp-boost/
+permalink: /digital-programmes/mentorship-programmes/dmp-boost/
 breadcrumb: Boost Your Business with Social Commerce
 third_nav_title: Mentorship Programmes
 description: DMP - Boost Your Business with Social Commerce

@@ -1,6 +1,6 @@
 ---
 title: How to ’S-hook’ your customers through live-streaming?
-permalink: /success-and-blog/blog/shook-customers-through-live-streaming
+permalink: /success-and-blog/blog/shook-customers-through-live-streaming/
 breadcrumb: How to ’S-hook’ your customers through live-streaming?
 third_nav_title: Articles
 ---

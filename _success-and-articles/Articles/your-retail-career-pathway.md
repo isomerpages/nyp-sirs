@@ -1,6 +1,6 @@
 ---
 title: Your Retail Career Pathway
-permalink: /success-and-blog/blog/your-retail-career-pathway
+permalink: /success-and-blog/blog/your-retail-career-pathway/
 breadcrumb: Your Retail Career Pathway
 third_nav_title: Articles
 ---

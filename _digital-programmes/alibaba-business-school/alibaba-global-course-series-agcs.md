@@ -1,6 +1,6 @@
 ---
 title: Alibaba Global Course series (AGCs)
-permalink: /digital-programmes/alibaba-business-school/alibaba-global-course-series
+permalink: /digital-programmes/alibaba-business-school/alibaba-global-course-series/
 breadcrumb: Alibaba Global Course series
 third_nav_title: Alibaba Business School
 ---

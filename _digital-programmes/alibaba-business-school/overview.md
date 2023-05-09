@@ -1,6 +1,6 @@
 ---
 title: Overview
-permalink: /digital-programmes/alibaba-business-school
+permalink: /digital-programmes/alibaba-business-school/
 breadcrumb: Overview
 third_nav_title: Alibaba Business School
 ---

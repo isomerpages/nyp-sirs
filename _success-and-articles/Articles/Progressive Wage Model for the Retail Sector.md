@@ -1,6 +1,6 @@
 ---
 title: Progressive Wage Model for the Retail Sector
-permalink: /success-and-articles/Articles/pwm/
+permalink: /success-and-articles/articles/pwm/
 description: Progressive Wage Model for the Retail Sector 2022
 image: /images/blog/20220916_PWM.png
 third_nav_title: Articles

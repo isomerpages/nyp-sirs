@@ -1,6 +1,6 @@
 ---
 title: Merlin Goldsmith
-permalink: /success-and-blog/success-stories/merlin-goldsmith
+permalink: /success-and-blog/success-stories/merlin-goldsmith/
 breadcrumb: Merlin Goldsmith
 third_nav_title: Success Stories
 ---

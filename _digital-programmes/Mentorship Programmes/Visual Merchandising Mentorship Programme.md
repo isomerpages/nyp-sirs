@@ -1,6 +1,6 @@
 ---
 title: Visual Merchandising Mentorship Programme
-permalink: /digital-programmes/Mentorship-Programmes/vmmp/
+permalink: /digital-programmes/mentorship-programmes/vmmp/
 description: Visual Merchandising Mentorship Programme
 image: /images/images-2021/DigitalProgrammes-VMMP-Overview.png
 third_nav_title: Mentorship Programmes

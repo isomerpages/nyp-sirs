@@ -1,6 +1,6 @@
 ---
 title: Fruit Paradise
-permalink: /success-and-blog/success-stories/fruit-paradise
+permalink: /success-and-blog/success-stories/fruit-paradise/
 breadcrumb: Fruit Paradise
 third_nav_title: Success Stories
 ---

@@ -1,6 +1,6 @@
 ---
 title: 'Fullhouse Home Furnishings'
-permalink: /success-and-blog/success-stories/fullhouse-home-furnishings
+permalink: /success-and-blog/success-stories/fullhouse-home-furnishings/
 breadcrumb: 'Fullhouse Home Furnishings'
 third_nav_title: 'Success Stories'
 

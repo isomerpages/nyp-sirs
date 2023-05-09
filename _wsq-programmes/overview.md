@@ -1,6 +1,6 @@
 ---
 title: Overview
-permalink: /wsq-programmes
+permalink: /wsq-programmes/
 breadcrumb: Overview
 ---
 <img src="images/wsq/wsq-introduction-page.jpg" style="width:100%;">

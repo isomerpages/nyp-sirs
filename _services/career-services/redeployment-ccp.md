@@ -1,6 +1,6 @@
 ---
 title: Redeployment CCP
-permalink: /digital-programmes/redeployment-job-redesign-reskilling-pcp
+permalink: /digital-programmes/redeployment-job-redesign-reskilling-pcp/
 breadcrumb: Redeployment PCP
 third_nav_title: Career Services
 ---

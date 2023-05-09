@@ -1,6 +1,6 @@
 ---
 title: 'Mighty Velo'
-permalink: /success-and-blog/success-stories/mighty-velo
+permalink: /success-and-blog/success-stories/mighty-velo/
 breadcrumb: 'Mighty Velo'
 third_nav_title: 'Success Stories'
 

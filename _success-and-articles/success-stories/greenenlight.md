@@ -1,6 +1,6 @@
 ---
 title: Greenenlight
-permalink: /success-and-blog/success-stories/greenenlight
+permalink: /success-and-blog/success-stories/greenenlight/
 breadcrumb: Greenenlight
 third_nav_title: 'Success Stories'
 

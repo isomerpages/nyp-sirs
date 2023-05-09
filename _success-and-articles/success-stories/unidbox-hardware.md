@@ -1,6 +1,6 @@
 ---
 title: 'Unidbox Hardware'
-permalink: /success-and-blog/success-stories/unidbox-hardware
+permalink: /success-and-blog/success-stories/unidbox-hardware/
 breadcrumb: 'Unidbox Hardware'
 third_nav_title: 'Success Stories'
 

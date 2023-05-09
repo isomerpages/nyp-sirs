@@ -1,7 +1,7 @@
 ---
 title: Synagie and SIRS partner to springboard eCommerce opportunities for
   Europe market
-permalink: /success-and-articles/Articles/mou-synagie
+permalink: /success-and-articles/articles/mou-synagie/
 description: Synagie and SIRS partner to springboard eCommerce Opportunities for
   Europe Market
 third_nav_title: Articles

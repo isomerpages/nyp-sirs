@@ -1,6 +1,6 @@
 ---
 title: Chinese tech companies stake their flags in Southeast Asia battleground
-permalink: /success-and-articles/Articles/bt-chinesetech
+permalink: /success-and-articles/articles/bt-chinesetech/
 description: Business Times Article July 2022 - Chinese Tech Companies in Southeast Asia
 third_nav_title: Articles
 ---

@@ -1,6 +1,6 @@
 ---
 title: 'Enterprise Development Grant (EDG)'
-permalink: /services/consultancy/edg
+permalink: /services/consultancy/edg/
 breadcrumb: 'Enterprise Development Grant'
 third_nav_title: Consultancy
 

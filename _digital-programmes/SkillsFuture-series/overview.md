@@ -1,6 +1,6 @@
 ---
 title: Overview
-permalink: /digital-programmes/skillsfuture-series
+permalink: /digital-programmes/skillsfuture-series/
 breadcrumb: Overview
 third_nav_title: 'SkillsFuture Series'
 

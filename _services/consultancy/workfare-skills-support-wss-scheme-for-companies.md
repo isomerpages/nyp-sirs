@@ -1,6 +1,6 @@
 ---
 title: 'Workfare Skills Support (WSS) Scheme (For Companies)'
-permalink: /services/consultancy/wss-companies
+permalink: /services/consultancy/wss-companies/
 breadcrumb: 'Workfare Skills Support (WSS) Scheme (For Companies)'
 third_nav_title: Consultancy
 

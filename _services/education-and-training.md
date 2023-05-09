@@ -1,6 +1,6 @@
 ---
 title: 'Education and Training'
-permalink: /services/education-and-training
+permalink: /services/education-and-training/
 breadcrumb: 'Education and Training'
 
 ---

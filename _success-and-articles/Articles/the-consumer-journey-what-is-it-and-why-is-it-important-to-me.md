@@ -1,6 +1,6 @@
 ---
 title: The Consumer Journey - What is it, and why is it important to me?
-permalink: /success-and-blog/blog/The-Consumer-Journey-What-is-it-and-why-is-it-important-to-me
+permalink: /success-and-blog/blog/the-consumer-journey-what-is-it-and-why-is-it-important-to-me/
 breadcrumb: The Consumer Journey - What is it, and why is it important to me?
 third_nav_title: Articles
 ---
