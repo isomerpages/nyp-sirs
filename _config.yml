@@ -32,8 +32,8 @@ defaults:
       path: ""
     values:
       layout: page
-staging: https://nyp-sirs-staging.netlify.com/
-prod: https://nyp-sirs-prod.netlify.com/
+staging: https://staging.d3pdl260gnrnco.amplifyapp.com/
+prod: https://master.d3pdl260gnrnco.amplifyapp.com/
 plugins:
   - jekyll-feed
   - jekyll-assets
