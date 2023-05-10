@@ -50,7 +50,7 @@ To encourage a continuous learning and upskilling mindset to support industry tr
 
 SIRS offers a comprehensive suite of modules, which will enable retailers and their staff to meet training requirements. For information on class dates, please contact our Business Development team via email [upskill@sirs.edu.sg](mailto:upskill@sirs.edu.sg).
 
-![Retail PWM - SIRS WSQ Modules](/images/images-2021/Services_Consultancy_PWM_WSQModules.png)
+![Retail PWM - SIRS WSQ Modules](/images/images-2021/Services_Consultancy_PWM_BaselineGrossWages_May2023.png)
 
 Instead of going through training, an individual with previous experience or prior learning may choose to achieve his/her SOA through the **Assessment Only Pathway (AOP)**, an alternative certification pathway for candidates who have work experience<sup>#</sup> and/or formal/informal training in an area of competency. 
 
