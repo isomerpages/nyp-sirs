@@ -1,6 +1,6 @@
 ---
 title: Overview
-permalink: /digital-programmes/study-trips
+permalink: /digital-programmes/study-trips/
 breadcrumb: Overview
 third_nav_title: 'Study Trips'
 

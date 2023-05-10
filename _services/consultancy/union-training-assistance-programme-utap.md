@@ -1,6 +1,6 @@
 ---
 title: 'Union Training Assistance Programme (UTAP)'
-permalink: /services/consultancy/utap
+permalink: /services/consultancy/utap/
 breadcrumb: 'Union Training Assistance Programme'
 third_nav_title: Consultancy
 

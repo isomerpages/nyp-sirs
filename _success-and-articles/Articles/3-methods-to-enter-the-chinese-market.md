@@ -1,6 +1,6 @@
 ---
 title: 3 Methods to Enter the Chinese Market
-permalink: /success-and-blog/blog/3-methods-to-enter-chinese-market
+permalink: /success-and-blog/blog/3-methods-to-enter-chinese-market/
 breadcrumb: 3 Methods to Enter the Chinese Market
 third_nav_title: Articles
 ---

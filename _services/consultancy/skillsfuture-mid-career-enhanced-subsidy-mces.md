@@ -1,6 +1,6 @@
 ---
 title: 'SkillsFuture Mid-career Enhanced Subsidy (MCES)'
-permalink: /services/consultancy/skillsfuture-midcareer-enhanced-subsidy
+permalink: /services/consultancy/skillsfuture-midcareer-enhanced-subsidy/
 breadcrumb: 'SkillsFuture Mid-career Enhanced Subsidy'
 third_nav_title: Consultancy
 

@@ -1,6 +1,6 @@
 ---
 title: Walking into Digital Transformation - The Journey of Brands
-permalink: /success-and-blog/blog/the-journey-of-brands
+permalink: /success-and-blog/blog/the-journey-of-brands/
 breadcrumb: Walking into Digital Transformation - The Journey of Brands
 third_nav_title: Articles
 ---

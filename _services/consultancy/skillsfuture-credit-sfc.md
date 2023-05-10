@@ -1,6 +1,6 @@
 ---
 title: 'SkillsFuture Credit (SFC)'
-permalink: /services/consultancy/skillsfuture-credit
+permalink: /services/consultancy/skillsfuture-credit/
 breadcrumb: 'SkillsFuture Credit (SFC)'
 third_nav_title: Consultancy
 

@@ -1,6 +1,6 @@
 ---
 title: 'BHG (Singapore)'
-permalink: /success-and-blog/success-stories/bhg
+permalink: /success-and-blog/success-stories/bhg/
 breadcrumb: 'BHG (Singapore)'
 third_nav_title: 'Success Stories'
 

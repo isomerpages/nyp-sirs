@@ -1,6 +1,6 @@
 ---
 title: Activhealth
-permalink: /success-and-blog/success-stories/activhealth
+permalink: /success-and-blog/success-stories/activhealth/
 breadcrumb: Activhealth
 third_nav_title: 'Success Stories'
 

@@ -1,6 +1,6 @@
 ---
 title: DMP Jumpstart Your Online Business
-permalink: /digital-programmes/Mentorship-Programmes/dmp-jumpstart/
+permalink: /digital-programmes/mentorship-programmes/dmp-jumpstart/
 breadcrumb: Jumpstart Your Online Business
 third_nav_title: Mentorship Programmes
 description: DMP - Jumpstart Your Online Business

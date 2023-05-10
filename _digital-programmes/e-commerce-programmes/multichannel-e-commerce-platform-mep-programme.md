@@ -1,6 +1,6 @@
 ---
 title: 'Multichannel E-Commerce Platform (MEP) Programme'
-permalink: /digital-programmes/e-commerce-programmes/mepp
+permalink: /digital-programmes/e-commerce-programmes/mepp/
 breadcrumb: 'Multichannel E-Commerce Platform (MEP) Programme'
 third_nav_title: 'E-Commerce Programmes'
 

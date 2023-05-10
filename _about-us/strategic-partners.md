@@ -1,6 +1,6 @@
 ---
 title: Strategic Partners
-permalink: /about-us/our-partners
+permalink: /about-us/our-partners/
 breadcrumb: Strategic Partners
 ---
 <img src="/images/images-2021/AboutUs_SIRS_StrategicPartners2022.png" style="width:100%;">

@@ -1,6 +1,6 @@
 ---
 title: Subscribe
-permalink: /subscribe
+permalink: /subscribe/
 breadcrumb: Mailing List
 description: ""
 ---

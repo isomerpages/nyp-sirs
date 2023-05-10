@@ -1,6 +1,6 @@
 ---
 title: Absentee Payroll (AP)
-permalink: /services/consultancy/absentee-payroll-ap
+permalink: /services/consultancy/absentee-payroll-ap/
 breadcrumb: Absentee Payroll
 third_nav_title: Consultancy
 ---

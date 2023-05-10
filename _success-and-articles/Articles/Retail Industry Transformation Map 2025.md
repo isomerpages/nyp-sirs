@@ -1,6 +1,6 @@
 ---
 title: Retail Industry Transformation Map 2025
-permalink: /success-and-articles/Articles/itm2025/
+permalink: /success-and-articles/articles/itm2025/
 description: Retail Industry Transformation Map 2025
 image: /images/blog/20221123_ITM_Strategies_0.png
 third_nav_title: Articles

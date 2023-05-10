@@ -1,6 +1,6 @@
 ---
 title: 'Yes Natural'
-permalink: /success-and-blog/success-stories/yes-natural
+permalink: /success-and-blog/success-stories/yes-natural/
 breadcrumb: 'Yes Natural'
 third_nav_title: 'Success Stories'
 

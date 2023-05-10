@@ -1,6 +1,6 @@
 ---
 title: 'Workfare Skills Support (WSS) Scheme (For Individuals)'
-permalink: /services/consultancy/wss-individuals
+permalink: /services/consultancy/wss-individuals/
 breadcrumb: 'Workfare Skills Support (WSS) Scheme (For Individuals)'
 third_nav_title: Consultancy
 

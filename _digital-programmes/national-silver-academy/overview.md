@@ -1,6 +1,6 @@
 ---
 title: Overview
-permalink: /digital-programmes/national-silver-academy
+permalink: /digital-programmes/national-silver-academy/
 breadcrumb: Overview
 third_nav_title: 'National Silver Academy'
 

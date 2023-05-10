@@ -1,6 +1,6 @@
 ---
 title: 'BEST Denki'
-permalink: /success-and-blog/success-stories/best-denki
+permalink: /success-and-blog/success-stories/best-denki/
 breadcrumb: 'BEST Denki'
 third_nav_title: 'Success Stories'
 

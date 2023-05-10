@@ -1,6 +1,6 @@
 ---
 title: 'VINCiTORE Shoes'
-permalink: /success-and-blog/success-stories/vincitore-shoes
+permalink: /success-and-blog/success-stories/vincitore-shoes/
 breadcrumb: 'VINCiTORE Shoes'
 third_nav_title: 'Success Stories'
 

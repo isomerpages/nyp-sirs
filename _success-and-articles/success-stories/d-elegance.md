@@ -1,6 +1,6 @@
 ---
 title: D’Elegance
-permalink: /success-and-blog/success-stories/d-elegance
+permalink: /success-and-blog/success-stories/d-elegance/
 breadcrumb: D’Elegance
 third_nav_title: 'Success Stories'
 

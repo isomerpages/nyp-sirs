@@ -1,7 +1,7 @@
 ---
 title: "The Straits Times: SkillsFuture Career Transition Programme to help mid
   career workers"
-permalink: /success-and-articles/Articles/st-sctp
+permalink: /success-and-articles/articles/st-sctp/
 description: ""
 third_nav_title: Articles
 ---

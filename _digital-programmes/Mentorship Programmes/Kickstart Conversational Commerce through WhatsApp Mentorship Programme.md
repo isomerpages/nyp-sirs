@@ -1,6 +1,6 @@
 ---
 title: Kickstart Conversational Commerce through WhatsApp Mentorship Programme
-permalink: /digital-programmes/Mentorship-Programmes/ccmp/
+permalink: /digital-programmes/mentorship-programmes/ccmp/
 description: Kickstart Conversational Commerce through WhatsApp Mentorship Programme
 third_nav_title: Mentorship Programmes
 image: /images/DigitalProgrammes-CCMP-Overview.png

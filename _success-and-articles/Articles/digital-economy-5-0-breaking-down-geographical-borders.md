@@ -1,6 +1,6 @@
 ---
 title: Digital Economy 5.0 — Breaking Down Geographical Borders
-permalink: /success-and-blog/blog/digital-economy-5-0
+permalink: /success-and-blog/blog/digital-economy-5-0/
 breadcrumb: Digital Economy 5.0 — Breaking Down Geographical Borders
 third_nav_title: Articles
 ---
