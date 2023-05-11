@@ -9,17 +9,17 @@ third_nav_title: SkillsFuture Series
 <h4 style="text-align:center;">Next intake:</h4>
 
 <center><table style="width:80%;">
-    <tr style="text-align:center;">
+    <tbody><tr style="text-align:center;">
       <th style="text-align:center;width:50%;">Online Training</th>
       <th style="text-align:center;width:50%;">Face-to-Face</th>
     </tr>
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">10 May (Wed) </td>
+      <td style="text-align:center;width:50%;">10 May (Wed)<br>7 July (Fri)</td>
       <td style="text-align:center;width:50%;">To be confirmed</td>
     </tr>
-</table></center>
+</tbody></table></center>
 
-<p>This hands-on, practical session will guide participants in understanding and navigating the complexities of a digital business. Participants will learn the types of platforms available and understand the benefits, factors & resources required in an online business.</p>
+<p>This hands-on, practical session will guide participants in understanding and navigating the complexities of a digital business. Participants will learn the types of platforms available and understand the benefits, factors &amp; resources required in an online business.</p>
 
 <h4>Course Title | Mode of Training | Course Ref</h4>
 
@@ -44,7 +44,7 @@ third_nav_title: SkillsFuture Series
 
 <center>
 <table style="width:100%;">
-<tr>
+<tbody><tr>
 <th style="width:70%;">Category</th>
 <th style="width:30%:">Price</th>
 </tr>
@@ -79,7 +79,7 @@ third_nav_title: SkillsFuture Series
 <td>$26.04</td>
 </tr>
 
-</table>
+</tbody></table>
 </center>
 
 
@@ -112,4 +112,4 @@ third_nav_title: SkillsFuture Series
 
 <div style="width:50%;float:left;"><center><a href="https://form.gov.sg/#!/5e5cbf59130b010011602eaa" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Register Now</a></center></div>
 
-<div style="width:50%;float:left;"><center><a href="https://form.gov.sg/602f39a008dce80012763d62" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center></div>
+<div style="width:50%;float:left;"><center><a href="https://form.gov.sg/602f39a008dce80012763d62" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center></div></i></small></i></small>
