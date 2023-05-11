@@ -8,13 +8,13 @@ third_nav_title: WSQ Certified Modular Programmes
 
 <h4 style="text-align:center;">Next intake:</h4>
 <center><table style="width:80%;">
-    <tr style="text-align:center;">
+    <tbody><tr style="text-align:center;">
       <th style="text-align:center;width:50%;">Online Training</th>
     </tr>
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">Day Class:<br>11, 13, 18 & 20 Apr<br>Night Class:<br>25, 29, 31 May & 1, 7, 8, 12, 14 Jun</td>
+      <td style="text-align:center;width:50%;">Night Class: 25, 29, 31 May &amp; 1, 7, 8, 12, 14 June</td>
     </tr>
-</table></center>
+</tbody></table></center>
 
 <p>Today's digitally-savvy consumers go onto search engines to effortlessly source for information, products or services that they need. With so many businesses having an online presence, how can you stand out and draw attention from these potential customers? Search Engine Optimisation (SEO) can help to optimise your website content for the best possible search engine ranking to improve your website traffic, visibility, and engagement. Formulate overarching SEO strategies for your organisation's digital assets and content to expand your customer base and increase sales.</p>
 
@@ -38,11 +38,11 @@ Synchronous E-learning - TGS-2020513487</p>
 <ul>
 <li>Cutting edge SEO techniques and start ranking websites</li>
 <li>Evaluate SEO and internet marketing strategies to develop a blueprint for SEO success</li>
-<li>Optimise on-page content with the right keywords & page structure for better rankings</li>
+<li>Optimise on-page content with the right keywords &amp; page structure for better rankings</li>
 <li>Develop good URL structure to positively influence crawl-behaviour</li>
 <li>Utilise XML sitemaps to speed-up content crawling, indexing and ranking</li>
 <li>Mark up content with structured data for the Search Engines to serve relevant results</li>
-<li>Decide the right domain strategy, URL structure, content & keywords for working across multiple websites and countries</li>
+<li>Decide the right domain strategy, URL structure, content &amp; keywords for working across multiple websites and countries</li>
 <li>Adept in building and managing links from relevant web pages</li>
 <li>Master how to monitor relevant dashboards and reports to evaluate SEO performances</li>
   </ul>
@@ -62,7 +62,7 @@ Synchronous E-learning - TGS-2020513487</p>
 
 <center>
 <table style="width:100%;">
-<tr>
+<tbody><tr>
 <th style="width:70%;">Category</th>
 <th style="width:30%:">Price</th>
 </tr>
@@ -97,7 +97,7 @@ Synchronous E-learning - TGS-2020513487</p>
 <td>$104.16</td>
 </tr>
 
-</table>
+</tbody></table>
 </center>
 
 
@@ -123,11 +123,11 @@ Synchronous E-learning - TGS-2020513487</p>
 <b>For company-sponsored participants:</b>
 <ul>
   <li><a href="/services/consultancy/absentee-payroll-ap">Absentee Payroll</a></li>
-  <li><a href="/services/consultancy/wss-companies">Workfare Skills Support (WSS) Scheme (For Companies)	<li><a href="/services/consultancy/skillsfuture-enterprise-credit">SkillsFuture Enterprise Credit</a></li></a></li>
+  <li><a href="/services/consultancy/wss-companies">Workfare Skills Support (WSS) Scheme (For Companies)	</a></li><li><a href="/services/consultancy/skillsfuture-enterprise-credit">SkillsFuture Enterprise Credit</a></li>
   </ul>
   
 <p>For more information about funding and support, click <a href="/services/consultancy">here.</a></p>
 
 <div style="width:50%;float:left;"><center><a href="https://form.gov.sg/#!/5f4532ff7dab380011d9a4c9" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Register Now</a></center></div>
 
-<div style="width:50%;float:left;"><center><a href="https://form.gov.sg/602f27830951350012530bee" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center></div>
+<div style="width:50%;float:left;"><center><a href="https://form.gov.sg/602f27830951350012530bee" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center></div></i></small></i></small>
