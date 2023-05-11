@@ -9,15 +9,14 @@ third_nav_title: Masterclasses & Workshops
 
 <h4 style="text-align:center;">Next intake:</h4>
 
-<center><table style="width:80%;">
-    <tr style="text-align:center;">
+<center><br><table style="width:80%;">
+    <tbody><tr style="text-align:center;">
       <th style="text-align:center;width:50%;">Face-to-Face</th>
     </tr>
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">26-27 Apr (Wed-Thu)</td>
-<br>
+      <td style="text-align:center;width:50%;">24-25 Jul (Mon-Tue)</td>
     </tr>
-</table></center>
+</tbody></table></center>
 
 <p>It is not uncommon for businesses to wrangle various data points in this data-driven era, but have they been effectively processing, analysing, and interpreting the voluminous raw information into usable and actionable knowledge to help them achieve business growth?</p>
 
@@ -54,7 +53,7 @@ third_nav_title: Masterclasses & Workshops
 
 <center>
 <table style="width:100%;">
-<tr>
+<tbody><tr>
 <th style="width:70%;">Category</th>
 <th style="width:30%:">Price</th>
 </tr>
@@ -89,7 +88,7 @@ third_nav_title: Masterclasses & Workshops
 <td>$55.80</td>
 </tr>
 
-</table>
+</tbody></table>
 </center>
 
 
@@ -121,4 +120,4 @@ third_nav_title: Masterclasses & Workshops
 
 <div style="width:50%;float:left;"><center><a href="https://form.gov.sg/#!/5e587a6895e4da0011f0f746" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Register Now</a></center></div>
 
-<div style="width:50%;float:left;"><center><a href="https://form.gov.sg/602f33f172d5100012d6ca8b" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center></div>
+<div style="width:50%;float:left;"><center><a href="https://form.gov.sg/602f33f172d5100012d6ca8b" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center></div></i></small></i></small>
