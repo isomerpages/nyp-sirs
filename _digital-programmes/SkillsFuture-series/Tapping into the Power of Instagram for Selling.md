@@ -15,7 +15,7 @@ description: ""
       <th style="text-align:center;width:50%;">Face-to-Face</th>
     </tr>
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">15 May (Mon)<br>21 Jul (Fri)</td>
+      <td style="text-align:center;width:50%;">15 May (Mon)<br>21 July (Fri)</td>
       <td style="text-align:center;width:50%;">To be confirmed</td>
     </tr>
 </tbody></table></center>
