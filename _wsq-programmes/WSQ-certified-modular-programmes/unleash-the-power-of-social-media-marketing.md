@@ -8,17 +8,17 @@ third_nav_title: WSQ Certified Modular Programmes
 
 <h4 style="text-align:center;">Next intake:</h4>
 <center><table style="width:80%;">
-    <tr style="text-align:center;">
+    <tbody><tr style="text-align:center;">
       <th style="text-align:center;width:50%;">Online Training</th>
 			<th style="text-align:center;width:50%;">Face-to-Face</th>
     </tr>
     <tr style="text-align:center;">
       <td style="text-align:center;width:50%;">To be confirmed</td>
-			 <td style="text-align:center;width:50%;">Day Class:<br>26, 27 Apr & 3, 4 May<br>Night Class:<br>9, 10, 11, 16, 17, 18, 23 & 25 May</td>
+			 <td style="text-align:center;width:50%;">Night Class:<br> 9-11, 16-18, 23 &amp; 25 May<br>31 July, 2-3, 14, 16-17, 21, 23 Aug</td>
     </tr>
-</table></center>
+</tbody></table></center>
 
-<p>As social media continues to weave itself into everyone's daily lives, it has become one of the most important and profitable aspects of digital marketing. Social media platforms provide businesses with the opportunity to reach out to billions of consumers worldwide and allow them to engage with their customers regularly. With consistent monitoring and fine-tuning of your social media marketing strategy, you will potentially see an increase in traffic & sales, improve brand awareness and gain more satisfied customers to help you take your business to greater heights.</p>
+<p>As social media continues to weave itself into everyone's daily lives, it has become one of the most important and profitable aspects of digital marketing. Social media platforms provide businesses with the opportunity to reach out to billions of consumers worldwide and allow them to engage with their customers regularly. With consistent monitoring and fine-tuning of your social media marketing strategy, you will potentially see an increase in traffic &amp; sales, improve brand awareness and gain more satisfied customers to help you take your business to greater heights.</p>
 
 <h4>Course Title | Mode of Training | Course Ref</h4>
 
@@ -61,7 +61,7 @@ third_nav_title: WSQ Certified Modular Programmes
 
 <center>
 <table style="width:100%;">
-<tr>
+<tbody><tr>
 <th style="width:70%;">Category</th>
 <th style="width:30%:">Price</th>
 </tr>
@@ -96,7 +96,7 @@ third_nav_title: WSQ Certified Modular Programmes
 <td>$104.16</td>
 </tr>
 
-</table>
+</tbody></table>
 </center>
 
 
@@ -120,11 +120,11 @@ third_nav_title: WSQ Certified Modular Programmes
 <b>For company-sponsored participants:</b>
 <ul>
   <li><a href="/services/consultancy/absentee-payroll-ap">Absentee Payroll</a></li>
-  <li><a href="/services/consultancy/wss-companies">Workfare Skills Support (WSS) Scheme (For Companies)	<li><a href="/services/consultancy/skillsfuture-enterprise-credit">SkillsFuture Enterprise Credit</a></li></a></li>
+  <li><a href="/services/consultancy/wss-companies">Workfare Skills Support (WSS) Scheme (For Companies)	</a></li><li><a href="/services/consultancy/skillsfuture-enterprise-credit">SkillsFuture Enterprise Credit</a></li>
   </ul>
   
 <p>For more information about funding and support, click <a href="/services/consultancy">here.</a></p>
 
 <div style="width:50%;float:left;"><center><a href="https://form.gov.sg/#!/5f4532ff7dab380011d9a4c9" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Register Now</a></center></div>
 
-<div style="width:50%;float:left;"><center><a href="https://form.gov.sg/602f27830951350012530bee" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center></div>
+<div style="width:50%;float:left;"><center><a href="https://form.gov.sg/602f27830951350012530bee" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center></div></i></small></i></small></i></small>
