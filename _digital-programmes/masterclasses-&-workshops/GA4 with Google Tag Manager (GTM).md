@@ -15,8 +15,8 @@ third_nav_title: Masterclasses & Workshops
       <th style="text-align:center;width:50%;">Face-to-Face</th>
     </tr>
     <tr style="text-align:center;">
+      <td style="text-align:center;width:50%;">6-7 June (Tue-Wed)</td>
       <td style="text-align:center;width:50%;">To be confirmed</td>
-      <td style="text-align:center;width:50%;">25 & 26 May (Tue & Wed)</td>
     </tr>
 </tbody></table></center>
 
@@ -31,7 +31,7 @@ device measurement capabilities.</p>
 <h4>Course Title | Mode of Training | Course Ref</h4>
 
 <p>GA4 with Google Tag Manager (GTM)
-<br>Classroom & Asynchronous E-Learning -TGS-2023018430</p>
+<br>Classroom &amp; Asynchronous E-Learning -TGS-2023018430</p>
 
 <h4>Outline</h4>
 * Set up and structure a web property using GA4’s reporting tools and features
@@ -124,3 +124,4 @@ Ivan has over 20 years of experience in Business Consulting, Training, Search En
 <div style="width:50%;float:left;"><center><a href="https://form.gov.sg/#!/5d9d3f30a8b1b30012143f58" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Register Now</a></center></div>
 
 <div style="width:50%;float:left;"><center><a href="https://form.gov.sg/602f33f172d5100012d6ca8b" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center></div>
+</i></small></i></small>
