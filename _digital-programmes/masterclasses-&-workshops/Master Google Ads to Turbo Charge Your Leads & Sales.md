@@ -11,12 +11,10 @@ third_nav_title: Masterclasses & Workshops
 
 <center><table style="width:80%;">
     <tbody><tr style="text-align:center;">
-      <th style="text-align:center;width:50%;">Online Training</th>
       <th style="text-align:center;width:50%;">Face-to-Face</th>
     </tr>
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">To be confirmed</td>
-      <td style="text-align:center;width:50%;">8 & 9 May (Mon & Tue)</td>
+      <td style="text-align:center;width:50%;">8-9 May (Mon-Tue)</td>
     </tr>
 </tbody></table></center>
 
@@ -29,8 +27,8 @@ digital space by leveraging the power of Google Ads to drive optimal leads and s
 	
 <h4>Course Title | Mode of Training | Course Ref</h4>
 
-<p>Master Google Ads to Turbo Charge Your Leads & Sales
-<br>Classroom & Asynchronous E-Learning - TGS-2023018432</p>
+<p>Master Google Ads to Turbo Charge Your Leads &amp; Sales
+<br>Classroom &amp; Asynchronous E-Learning - TGS-2023018432</p>
 
 <h4>Outline</h4>
 * Set up a Google Ads account that supports efficient and effective development and management of Google Ad Campaigns by understanding the various key features and functions of the platform
@@ -56,7 +54,7 @@ Includes 2 hours of Asynchronous E-Learning</p>
 	</div>
 	<div class="col is-8">
         <b>Gavin Choo</b><br>Gavin is an experienced Digital Marketing practitioner, with over 12 years of experience
-working in the Marketing & Advertising industry in various roles such as Sales,
+working in the Marketing &amp; Advertising industry in various roles such as Sales,
 Marketing, and Business Development, plus 4 years of experience in Professional
 Training and Coaching. He is also a Singapore WSQ ACTA certified trainer. He is
 passionate about showing business owners and brand marketers how to get results
@@ -142,3 +140,4 @@ HubSpot Content Marketing Certification.
 
 <div style="width:50%;float:left;"><center><a href="https://form.gov.sg/602f33f172d5100012d6ca8b" style="background-color:#06225e; border:white; color:white; 
   padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center></div>
+</i></small></i></small>
