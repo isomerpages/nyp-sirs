@@ -31,7 +31,7 @@ third_nav_title: Masterclasses & Workshops
 </p>
 
 <h4>Outline</h4>
-* Develop your unique value propostion to attract hirers such as HR personnels, headhunters and potential employers
+* Develop your unique value proposition to attract hirers such as HR personnels, headhunters and potential employers
 * Build an advanced LinkedIn profile that elevates your brand as a professional
 * Create your online portfolio on Google
 * Manage your online presence using various Google tools
