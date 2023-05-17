@@ -14,7 +14,7 @@ third_nav_title: Masterclasses & Workshops
       <th style="text-align:center;width:50%;">Face-to-Face</th>
     </tr>
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">22-23 May (Mon-Tue)</td>
+      <td style="text-align:center;width:50%;">22-23 May (Mon-Tue)<br>8 &amp; 9 Jun (Thu-Fri)<br>19-20 July (Wed-Thu)</td>
     </tr>
 </tbody></table></center>
 
@@ -28,7 +28,7 @@ third_nav_title: Masterclasses & Workshops
 <h4>Course Title | Mode of Training | Course Ref</h4>
 
 <p>Start Your Business at No Cost Using 
-Affiliate Marketing<br>Classroom & Asynchronous E-Learning - TGS-2022016627</p>
+Affiliate Marketing<br>Classroom &amp; Asynchronous E-Learning - TGS-2022016627</p>
 
 <h4>Outline</h4>
 * Identify different affiliate opportunities

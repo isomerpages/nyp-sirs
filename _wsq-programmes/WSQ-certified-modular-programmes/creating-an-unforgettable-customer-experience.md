@@ -10,15 +10,15 @@ third_nav_title: WSQ Certified Modular Programmes
 <h4 style="text-align:center;">Next intake:</h4>
 
 <center><table style="width:80%;">
-    <tr style="text-align:center;">
+    <tbody><tr style="text-align:center;">
       <th style="text-align:center;width:50%;">Online Training</th>
       <th style="text-align:center;width:50%;">Face-to-Face</th>
     </tr>
     <tr style="text-align:center;">
       <td style="text-align:center;width:50%;">To be confirmed</td>
-      <td style="text-align:center;width:50%;">15-16 May (Mon-Tue)<br>14-15 June (Wed-Thu)</td>
+      <td style="text-align:center;width:50%;">15-16 May (Mon-Tue)<br>14-15 June (Wed-Thu)<br>25-26 July (Tue-Wed)</td>
     </tr>
-</table></center>
+</tbody></table></center>
 
 <p>Although more customers are doing their shopping online, the human element remains an integral part of delivering amazing customer experience. This is especially true for physical stores where frontline retail associates are the major touchpoint between your brand and the customers. Therefore, it is important for them to provide a differentiated in-store experience by cultivating greater empathy to deepen connection and acquiring the know-how to project favourable brand perception during customer interactions. Keep your business going strong by attracting and retaining loyal customers to your stores through unforgettable experience curated for them.</p>
 
@@ -67,7 +67,7 @@ third_nav_title: WSQ Certified Modular Programmes
 
 <center>
 <table style="width:100%;">
-<tr>
+<tbody><tr>
 <th style="width:70%;">Category</th>
 <th style="width:30%:">Price</th>
 </tr>
@@ -102,7 +102,7 @@ third_nav_title: WSQ Certified Modular Programmes
 <td>$54.56</td>
 </tr>
 
-</table>
+</tbody></table>
 </center>
 
 
@@ -129,11 +129,11 @@ third_nav_title: WSQ Certified Modular Programmes
 <b>For company-sponsored participants:</b>
 <ul>
   <li><a href="/services/consultancy/absentee-payroll-ap">Absentee Payroll</a></li>
-  <li><a href="/services/consultancy/wss-companies">Workfare Skills Support (WSS) Scheme (For Companies)	<li><a href="/services/consultancy/skillsfuture-enterprise-credit">SkillsFuture Enterprise Credit</a></li></a></li>
+  <li><a href="/services/consultancy/wss-companies">Workfare Skills Support (WSS) Scheme (For Companies)	</a></li><li><a href="/services/consultancy/skillsfuture-enterprise-credit">SkillsFuture Enterprise Credit</a></li>
   </ul>
   
 <p>For more information about funding and support, click <a href="/services/consultancy">here.</a></p>
 
 <div style="width:50%;float:left;"><center><a href="https://form.gov.sg/#!/5e5dc4cd30d0700011b57622" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Register Now</a></center></div>
 
-<div style="width:50%;float:left;"><center><a href="https://form.gov.sg/602f27830951350012530bee" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center></div>
+<div style="width:50%;float:left;"><center><a href="https://form.gov.sg/602f27830951350012530bee" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center></div></i></small></i></small>

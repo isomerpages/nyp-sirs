@@ -10,15 +10,15 @@ third_nav_title: Masterclasses & Workshops
 <h4 style="text-align:center;">Next intake:</h4>
 
 <center><table style="width:80%;">
-    <tr style="text-align:center;">
+    <tbody><tr style="text-align:center;">
       <th style="text-align:center;width:50%;">Online Training</th>
       <th style="text-align:center;width:50%;">Face-to-Face</th>
     </tr>
     <tr style="text-align:center;">
       <td style="text-align:center;width:50%;">To be confirmed</td>
-      <td style="text-align:center;width:50%;">12 May (Fri)</td>
+      <td style="text-align:center;width:50%;">12 May (Fri)<br>13 July (Thu)</td>
     </tr>
-</table></center>
+</tbody></table></center>
 
 <p>More often than not, digital transformation is not just about the technology but the people and their ability to harness the power of digital to support daily operations at work or business.</p>
 
@@ -56,7 +56,7 @@ third_nav_title: Masterclasses & Workshops
 
 <center>
 <table style="width:100%;">
-<tr>
+<tbody><tr>
 <th style="width:70%;">Category</th>
 <th style="width:30%:">Price</th>
 </tr>
@@ -91,7 +91,7 @@ third_nav_title: Masterclasses & Workshops
 <td>$62</td>
 </tr>
 
-</table>
+</tbody></table>
 </center>
 
 
@@ -123,4 +123,4 @@ third_nav_title: Masterclasses & Workshops
 	
 <div style="width:50%;float:left;"><center><a href="https://form.gov.sg/#!/5e587a6895e4da0011f0f746" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Register Now</a></center></div>
 
-<div style="width:50%;float:left;"><center><a href="https://form.gov.sg/602f33f172d5100012d6ca8b" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center></div>
+<div style="width:50%;float:left;"><center><a href="https://form.gov.sg/602f33f172d5100012d6ca8b" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center></div></i></small></i></small>

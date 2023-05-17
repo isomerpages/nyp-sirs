@@ -9,15 +9,15 @@ third_nav_title: E-Commerce Programmes
 <h4 style="text-align:center;">Next intake:</h4>
 
 <center><table style="width:80%;">
-    <tr style="text-align:center;">
+    <tbody><tr style="text-align:center;">
       <th style="text-align:center;width:50%;">Online Training</th>
       <th style="text-align:center;width:50%;">Face-to-Face</th>
     </tr>
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">14-15 Apr (Fri-Sat)</td>
+      <td style="text-align:center;width:50%;">11 July (Tue)</td>
       <td style="text-align:center;width:50%;">To be confirmed</td>
     </tr>
-</table></center>
+</tbody></table></center>
 
 <p>Amplify traffic in Lazada and boost your sales by learning the marketing strategies you can deploy with Lazada's Marketing tools!</p>
 
@@ -75,7 +75,7 @@ third_nav_title: E-Commerce Programmes
 
 <center>
 <table style="width:100%;">
-<tr>
+<tbody><tr>
 <th style="width:70%;">Category</th>
 <th style="width:30%:">Price</th>
 </tr>
@@ -110,7 +110,7 @@ third_nav_title: E-Commerce Programmes
 <td>$19.84</td>
 </tr>
 
-</table>
+</tbody></table>
 </center>
 
 <small><i>Fees include prevailing GST
@@ -134,11 +134,11 @@ third_nav_title: E-Commerce Programmes
 <b>For company-sponsored participants:</b>
 <ul>
   <li><a href="/services/consultancy/absentee-payroll-ap">Absentee Payroll</a></li>
-  <li><a href="/services/consultancy/wss-companies">Workfare Skills Support (WSS) Scheme (For Companies)	<li><a href="/services/consultancy/skillsfuture-enterprise-credit">SkillsFuture Enterprise Credit</a></li></a></li>
+  <li><a href="/services/consultancy/wss-companies">Workfare Skills Support (WSS) Scheme (For Companies)	</a></li><li><a href="/services/consultancy/skillsfuture-enterprise-credit">SkillsFuture Enterprise Credit</a></li>
   </ul>
 
 <p>For more information about funding and support, click <a href="/services/consultancy">here.</a></p>
 
 <div style="width:50%;float:left;"><center><a href="https://form.gov.sg/#!/5e5c849930d0700011b48fc5" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Register Now</a></center></div>
 
-<div style="width:50%;float:left;"><center><a href="https://form.gov.sg/602f30a8cdb38800116f60a6" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center></div>
+<div style="width:50%;float:left;"><center><a href="https://form.gov.sg/602f30a8cdb38800116f60a6" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center></div></i></small></i></small></ol>

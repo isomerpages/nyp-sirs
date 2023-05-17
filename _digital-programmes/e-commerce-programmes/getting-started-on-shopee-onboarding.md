@@ -9,15 +9,15 @@ third_nav_title: E-Commerce Programmes
 <h4 style="text-align:center;">Next intake:</h4>
 
 <center><table style="width:80%;">
-    <tr style="text-align:center;">
+    <tbody><tr style="text-align:center;">
       <th style="text-align:center;width:50%;">Online Training</th>
       <th style="text-align:center;width:50%;">Face-to-Face</th>
     </tr>
     <tr style="text-align:center;">
+      <td style="text-align:center;width:50%;">4 July (Tue)</td>
       <td style="text-align:center;width:50%;">To be confirmed</td>
-      <td style="text-align:center;width:50%;">11 May (Thu)</td>
     </tr>
-</table></center>
+</tbody></table></center>
 
 <p>Get equipped with the essential e-commerce skills and knowledge to onboard Shopee store today!</p>
 
@@ -37,7 +37,7 @@ third_nav_title: E-Commerce Programmes
 - How to manage the social commerce, reviews, ranking, and conversion rate
 
 <b>2. Improve Store Performance</b>
-- Understand the pros and cons of e-Marketplace, web store, blog shop & social media shop
+- Understand the pros and cons of e-Marketplace, web store, blog shop &amp; social media shop
 - Learn about the 4 key components of an online store
 - Apply ‘conversion rate formula’, ‘value from paid’ and ‘own and earn traffic’
 - How to source for products
@@ -67,7 +67,7 @@ third_nav_title: E-Commerce Programmes
 
 <center>
 <table style="width:100%;">
-<tr>
+<tbody><tr>
 <th style="width:70%;">Category</th>
 <th style="width:30%:">Price</th>
 </tr>
@@ -102,7 +102,7 @@ third_nav_title: E-Commerce Programmes
 <td>$19.84</td>
 </tr>
 
-</table>
+</tbody></table>
 </center>
 
 
@@ -134,4 +134,4 @@ third_nav_title: E-Commerce Programmes
 
 <div style="width:50%;float:left;"><center><a href="https://form.gov.sg/#!/5e5c849930d0700011b48fc5" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Register Now</a></center></div>
 
-<div style="width:50%;float:left;"><center><a href="https://form.gov.sg/602f30a8cdb38800116f60a6" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center></div>
+<div style="width:50%;float:left;"><center><a href="https://form.gov.sg/602f30a8cdb38800116f60a6" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center></div></i></small></i></small>

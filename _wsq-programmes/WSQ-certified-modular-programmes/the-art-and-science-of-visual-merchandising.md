@@ -8,13 +8,13 @@ third_nav_title: WSQ Certified Modular Programmes
 
 <h4 style="text-align:center;">Next intake:</h4>
 <center><table style="width:80%;">
-    <tr style="text-align:center;">
+    <tbody><tr style="text-align:center;">
       <th style="text-align:center;width:50%;">Face-to-Face</th>
     </tr>
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">18 & 20 Apr (Tue & Thu)<br>26 & 28 Jun (Mon & Wed)</td>
+      <td style="text-align:center;width:50%;">26 &amp; 28 June (Mon &amp; Wed)</td>
     </tr>
-</table></center>
+</tbody></table></center>
 
 <p>Globally, brick-and-mortar sales is in the decline as consumers are increasingly going online to make their purchases. At the same time, consumers are searching for an exciting offline experience with brands. As a retailer, how can you capitalize on this opportunity?</p>
 
@@ -61,7 +61,7 @@ third_nav_title: WSQ Certified Modular Programmes
 
 <center>
 <table style="width:100%;">
-<tr>
+<tbody><tr>
 <th style="width:70%;">Category</th>
 <th style="width:30%:">Price</th>
 </tr>
@@ -96,7 +96,7 @@ third_nav_title: WSQ Certified Modular Programmes
 <td>$54.56</td>
 </tr>
 
-</table>
+</tbody></table>
 </center>
 
 
@@ -122,11 +122,11 @@ third_nav_title: WSQ Certified Modular Programmes
 <b>For company-sponsored participants:</b>
 <ul>
   <li><a href="/services/consultancy/absentee-payroll-ap">Absentee Payroll</a></li>
-  <li><a href="/services/consultancy/wss-companies">Workfare Skills Support (WSS) Scheme (For Companies)	<li><a href="/services/consultancy/skillsfuture-enterprise-credit">SkillsFuture Enterprise Credit</a></li></a></li>
+  <li><a href="/services/consultancy/wss-companies">Workfare Skills Support (WSS) Scheme (For Companies)	</a></li><li><a href="/services/consultancy/skillsfuture-enterprise-credit">SkillsFuture Enterprise Credit</a></li>
   </ul>
 
 <p>For more information about funding and support, click <a href="/services/consultancy">here.</a></p>
 
 <div style="width:50%;float:left;"><center><a href="https://form.gov.sg/#!/5e5dc4cd30d0700011b57622" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Register Now</a></center></div>
 
-<div style="width:50%;float:left;"><center><a href="https://form.gov.sg/602f27830951350012530bee" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center></div>
+<div style="width:50%;float:left;"><center><a href="https://form.gov.sg/602f27830951350012530bee" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center></div></i></small></i></small>

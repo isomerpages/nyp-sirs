@@ -10,13 +10,13 @@ third_nav_title: Masterclasses & Workshops
 <h4 style="text-align:center;">Next intake:</h4>
 
 <center><table style="width:80%;">
-    <tr style="text-align:center;">
+    <tbody><tr style="text-align:center;">
       <th style="text-align:center;width:50%;">Face-to-Face</th>
     </tr>
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">28 Apr (Fri)<br>26 May (Fri)<br>23 June (Fri)</td>
+      <td style="text-align:center;width:50%;">26 May (Fri)<br>23 June (Fri)<br>28 July (Fri)<br>25 Aug (Fri)</td>
     </tr>
-</table></center>
+</tbody></table></center>
 
 <p>TikTok has a vast and growing audience and is quickly emerging as a social media giant. Within five short years since its inception, TikTok has garnered over 2.6 billion downloads and more than 1 billion monthly active users from 154 countries worldwide who spent an average of 1.5 hours on the app daily*. With the launch of TikTok Shop in Singapore, a new e-commerce marketplace that brings together sellers, buyers, and creators all within the TikTok app, individuals and businesses now have the perfect opportunity to capitalise on TikTok’s soaring popularity by selling their products and services on the platform. </p>
 
@@ -57,7 +57,7 @@ third_nav_title: Masterclasses & Workshops
 
 <center>
 <table style="width:100%;">
-<tr>
+<tbody><tr>
 <th style="width:70%;">Category</th>
 <th style="width:30%:">Price</th>
 </tr>
@@ -92,7 +92,7 @@ third_nav_title: Masterclasses & Workshops
 <td>$62</td>
 </tr>
 
-</table>
+</tbody></table>
 </center>
 
 
@@ -124,4 +124,4 @@ third_nav_title: Masterclasses & Workshops
 
 <div style="width:50%;float:left;"><center><a href="https://form.gov.sg/#!/6315a24c91051400116c734e" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Register Now</a></center></div>
 
-<div style="width:50%;float:left;"><center><a href="https://form.gov.sg/602f33f172d5100012d6ca8b" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center></div>
+<div style="width:50%;float:left;"><center><a href="https://form.gov.sg/602f33f172d5100012d6ca8b" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center></div></i></small></i></small>

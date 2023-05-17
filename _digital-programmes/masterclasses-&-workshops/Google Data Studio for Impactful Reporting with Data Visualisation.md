@@ -32,7 +32,7 @@ strategies to unlock deep business insights and gain a stronger foothold among y
 <h4>Course Title | Mode of Training | Course Ref</h4>
 
 <p>Data Studio Masterclass
-<br>Classroom & Asynchronous E-Learning - TGS-2023018434</p>
+<br>Classroom &amp; Asynchronous E-Learning - TGS-2023018434</p>
 
 <h4>Outline</h4>
 * Build data dashboards and reports by applying data collection and table set-up methods in Google Sheets
@@ -126,3 +126,4 @@ Ivan has over 20 years of experience in Business Consulting, Training, Search En
 <div style="width:50%;float:left;"><center><a href="https://form.gov.sg/#!/5d9d3f30a8b1b30012143f58" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Register Now</a></center></div>
 
 <div style="width:50%;float:left;"><center><a href="https://form.gov.sg/602f33f172d5100012d6ca8b" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center></div>
+</i></small></i></small>
