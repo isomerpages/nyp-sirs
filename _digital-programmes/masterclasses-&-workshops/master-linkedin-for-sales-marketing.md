@@ -9,22 +9,22 @@ third_nav_title: Masterclasses & Workshops
 <h4 style="text-align:center;">Next intake:</h4>
 
 <center><table style="width:80%;">
-    <tr style="text-align:center;">
+    <tbody><tr style="text-align:center;">
       <th style="text-align:center;width:50%;">Online Training</th>
       <th style="text-align:center;width:50%;">Face-to-Face</th>
     </tr>
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">9 June (Fri)</td>
+      <td style="text-align:center;width:50%;">11 Jul (Tue)</td>
       <td style="text-align:center;width:50%;">To be confirmed</td>
     </tr>
-</table></center>
+</tbody></table></center>
 
 <p>The world’s largest networking platform for professionals, LinkedIn, has 740 million<sup>1</sup> active users globally,
-including decision-makers, senior-level influencers & C-suite executives. The benefits of using LinkedIn as
+including decision-makers, senior-level influencers &amp; C-suite executives. The benefits of using LinkedIn as
 a marketing platform go beyond just its sheer audience size, but also its extensive targeting options such
 as profession, industry, seniority, interests, and more.</p>
 
-<p>Discover the strategies & mechanics on how you can market to over 2.7 million<sup>2</sup> registered LinkedIn users
+<p>Discover the strategies &amp; mechanics on how you can market to over 2.7 million<sup>2</sup> registered LinkedIn users
 in Singapore through this masterclass. From learning LinkedIn basics to using organic and paid tools to
 accelerate your results, you will discover why LinkedIn is by far the best platform for building your brand,
 attracting quality leads, and driving B2B sales.</p>
@@ -69,7 +69,7 @@ attracting quality leads, and driving B2B sales.</p>
 	</div>
 	<div class="col is-8">
         <b>Gavin Choo</b><br>Gavin is an experienced Digital Marketing practitioner, with over 12 years of experience
-working in the Marketing & Advertising industry in various roles such as Sales,
+working in the Marketing &amp; Advertising industry in various roles such as Sales,
 Marketing, and Business Development, plus 4 years of experience in Professional
 Training and Coaching. He is also a Singapore WSQ ACTA certified trainer. He is
 passionate about showing business owners and brand marketers how to get results
@@ -86,7 +86,7 @@ HubSpot Content Marketing Certification.
 
 <center>
 <table style="width:100%;">
-<tr>
+<tbody><tr>
 <th style="width:70%;">Category</th>
 <th style="width:30%:">Price</th>
 </tr>
@@ -121,7 +121,7 @@ HubSpot Content Marketing Certification.
 <td>$93</td>
 </tr>
 
-</table>
+</tbody></table>
 </center>
 
 
@@ -146,7 +146,7 @@ HubSpot Content Marketing Certification.
 <b>For company-sponsored participants:</b>
 <ul>
   <li><a href="/services/consultancy/absentee-payroll-ap">Absentee Payroll</a></li>
-  <li><a href="/services/consultancy/wss-companies">Workfare Skills Support (WSS) Scheme (For Companies)	<li><a href="/services/consultancy/skillsfuture-enterprise-credit">SkillsFuture Enterprise Credit</a></li></a></li>
+  <li><a href="/services/consultancy/wss-companies">Workfare Skills Support (WSS) Scheme (For Companies)	</a></li><li><a href="/services/consultancy/skillsfuture-enterprise-credit">SkillsFuture Enterprise Credit</a></li>
   </ul>
 
 <p>For more information about funding and support, click <a href="/services/consultancy">here.</a></p>
@@ -155,4 +155,4 @@ HubSpot Content Marketing Certification.
   padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Register Now</a></center></div>
 
 <div style="width:50%;float:left;"><center><a href="https://form.gov.sg/602f33f172d5100012d6ca8b" style="background-color:#06225e; border:white; color:white; 
-  padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center></div>
+  padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center></div></i></small></i></small>
