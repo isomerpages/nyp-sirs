@@ -83,9 +83,8 @@ In alignment with the Retail ITM 2025, here are some of recommended solutions to
 
 **Raise Your Brand Presence Globally**
 * [Alibaba Content Marketing Programme](https://www.sirs.edu.sg/digital-programmes/alibaba-business-school/alibaba-content-marketing-programme/)
-* [Grow Your Brand Presence with WeChat Marketing](https://www.sirs.edu.sg/digital-programmes/masterclasses-and-workshops/growing-your-brand-presence-with-wechat-marketing)
 * [Master Facebook Marketing for Business](https://www.sirs.edu.sg/digital-programmes/masterclasses-and-workshops/master-facebook-marketing-for-business)
-* [Master LinkedIn for Sales & Marketing](https://www.sirs.edu.sg/digital-programmes/masterclasses-and-workshops/master-linkedin-for-sales-and-marketing)
+* [Master LinkedIn for Sales &amp; Marketing](https://www.sirs.edu.sg/digital-programmes/masterclasses-and-workshops/master-linkedin-for-sales-and-marketing)
 
 **New Experiential Concepts and Innovations**
 * [Creating an Unforgettable Customer Experience](https://www.sirs.edu.sg/wsq-programmes/wsq-modular-programmes/creating-an-unforgettable-customer-experience/)
