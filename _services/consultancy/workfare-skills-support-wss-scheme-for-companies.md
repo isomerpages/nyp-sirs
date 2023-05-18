@@ -24,4 +24,4 @@ third_nav_title: Consultancy
 <p>To check on claim process, please click <a href="https://www.wsg.gov.sg/content/dam/ssg-wsg/wsg/programmes/wss-scheme-for-individuals/letterhead-and-infosheet-softcopy-mockup-20200615.pdf">here.</a></p>
 
 <h4>Where can I get more information on WSS Scheme?</h4>
-<p>You may visit <a href="https://www.wsg.gov.sg/programmes-and-initiatives/workfare-skills-support-scheme-individuals.html">Workforce Singapore</a> for more information on WSS Scheme.</p>
+<p>You may visit <a href="https://www.wsg.gov.sg/home/individuals/attachment-placement-programmes/workfare-skills-support-scheme">Workforce Singapore</a> for more information on WSS Scheme.</p>
