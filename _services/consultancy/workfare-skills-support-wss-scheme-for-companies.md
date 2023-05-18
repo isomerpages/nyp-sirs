@@ -5,9 +5,10 @@ breadcrumb: Workfare Skills Support (WSS) Scheme (For Companies)
 third_nav_title: Consultancy
 ---
 <h4>What is WSS Scheme?</h4>
-<p>The WSS scheme encourages and supports low-wage workers to undertake training that leads to more impactful employment outcomes. There are 3 funding components under WSS Scheme: Training Commitment Award (TCA), Training Allowance (TA), and Absentee Payroll (AP). For information on its benefits, click <a href="https://www.wsg.gov.sg/docs/default-source/programme/infosheet.pdf?sfvrsn=11a11b20_3">here.</a></p>
+<p>The WSS scheme encourages and supports low-wage workers to undertake training that leads to more impactful employment outcomes.</p> 
 
 <h4>What does WSS Scheme comprise?</h4>
+<p>There are 3 funding components under WSS Scheme: Training Commitment Award (TCA), Training Allowance (TA), and Absentee Payroll (AP). For information on its benefits, click <a href="https://www.wsg.gov.sg/docs/default-source/programme/infosheet.pdf?sfvrsn=11a11b20_3">here.</a></p>
 <p>For courses eligible for Absentee Payroll (AP), sponsoring employer gets up to 95% of the hourly basic salary.</p>
 
 <h4>Is my employee eligible for WSS Scheme?</h4>
