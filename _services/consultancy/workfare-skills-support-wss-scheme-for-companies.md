@@ -19,7 +19,7 @@ third_nav_title: Consultancy
 - Owns less than two properties; and if married:
   - Together with spouse, own less than two properties; or
   - Spouse’s assessable income for the preceding Year of Assessment is less than $70,000
-    
+
 <h4>How do I claim for TCA, TA and/or AP?</h4>
 <p>To check on claim process, please click <a href="https://www.wsg.gov.sg/docs/default-source/programme/infosheet.pdf?sfvrsn=11a11b20_3">here.</a></p>
 
