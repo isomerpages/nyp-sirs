@@ -1,11 +1,9 @@
 ---
-title: 'Union Training Assistance Programme (UTAP)'
+title: Union Training Assistance Programme (UTAP)
 permalink: /services/consultancy/utap/
-breadcrumb: 'Union Training Assistance Programme'
+breadcrumb: Union Training Assistance Programme
 third_nav_title: Consultancy
-
 ---
-
 <h4>What is Union Training Assistance Programme (UTAP)?</h4>
 
 <p>UTAP is a training benefit for NTUC members to defray their cost of training. This benefit is to encourage more NTUC members to go for skills upgrading.</p>
@@ -36,8 +34,8 @@ third_nav_title: Consultancy
 <p>For more information on UTAP, please visit <a href="http://skillsupgrade.ntuc.org.sg/wps/portal/skillsupgrade/home/skillsupgradeavailable/featuredindustries/featuredindustriesdetails?WCM_GLOBAL_CONTEXT=/content_library/skillsupgrade/home/skills+upgrade+available/featured+industries/da9571804f32741a9d86fdbda6c1e78c">UTAP</a> or contact any of the following for related matters:</p>
 
 <table>
-  <tr>
+  <tbody><tr>
     <td><b>Enquiry on Membership Matters</b><br>Hotline: 6213-8008 (Mon – Fri: 9am to 5.30pm and Sat: 9am to 12.30pm)<br>Online enquiry: Click <a href="https://www.ntuc.org.sg/wps/portal/up2/home/feedback">here</a></td>
-    <td><b>Enquiry on UTAP Matters</b><br>Email: <a href="UTAP@e2i.com.sg">UTAP@e2i.com.sg</a><br>Website: <a href="http://skillsupgrade.ntuc.org.sg">http://skillsupgrade.ntuc.org.sg</a></td>
+    <td><b>Enquiry on UTAP Matters</b><br>Email: <a href="mailto:UTAP@e2i.com.sg">UTAP@e2i.com.sg</a><br>Website: <a href="http://skillsupgrade.ntuc.org.sg">http://skillsupgrade.ntuc.org.sg</a></td>
   </tr>
-  </table>
+  </tbody></table>
