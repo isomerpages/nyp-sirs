@@ -10,12 +10,11 @@ third_nav_title: Consultancy
 <h4>What does WSS Scheme comprise?</h4>
 <p>There are 3 funding components under WSS Scheme: Training Commitment Award (TCA), Training Allowance (TA), and Absentee Payroll (AP). For information on its benefits, click <a href="https://www.wsg.gov.sg/docs/default-source/programme/infosheet.pdf?sfvrsn=11a11b20_3">here.</a></p>
 
-<h4>Am I eligible for WSS Scheme?</h4>
+<h4>Is my employee eligible for WSS Scheme?</h4>
 <p>To qualify, individual must meet the following criteria:</p>
 - Be a Singaporean Citizen;
-- Aged 35 years and above (13 years and above for Persons with Special Needs)
-- Currently employed (including Self-Employed Persons who declare his/her Net Trade Income or work done in the preceding Work Year and made Medisave contributions)
-- Earns an average gross monthly income of not more than $2,300 for the past 12 months
+- Aged 30 years and above on 31 December of the work year (13 years and above for Persons with Special Needs)
+- Employed and earning a gross monthly income of not more than $2,500 for the month worked; and
 - Lives in a property with an annual value of less than $13,000 assessed as at 31 December of the preceding year
 - Owns less than two properties; and if married:
   - Together with spouse, own less than two properties; or
