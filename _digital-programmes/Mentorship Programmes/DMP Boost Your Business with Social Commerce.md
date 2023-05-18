@@ -16,7 +16,7 @@ of your target audience. Go where your customers are and learn to reach out to t
 
 <p>This programme includes 16 hours of classroom learning and 56 hours of on-the-job training where you will be assigned to a personal mentor. At the end of three months, 
 you will be able to leverage social commerce to grow your business with confidence!</p>
-<small><em>*Data from <a href="https://wearesocial.com/sg/digital-2019-singapore">https://wearesocial.com/sg/digital-2019-singapore</a></em></small>
+<small><em>*Data from <a href="https://wearesocial.com/sg/blog/2019/01/digital-2019-global-internet-use-accelerates/">https://wearesocial.com/sg/digital-2019-singapore</a></em></small>
 
 <h4>Outline</h4>
 <ul>
@@ -31,7 +31,7 @@ e-commerce website, you will also learn to set up a Carousell store for payment 
 
 <center>
 <table style="width:100%;">
-<tr>
+<tbody><tr>
 <th style="width:70%;">Category</th>
 <th style="width:30%:">Price</th>
 </tr>
@@ -66,7 +66,7 @@ e-commerce website, you will also learn to set up a Carousell store for payment 
 <td>$1,240</td>
 </tr>
 
-</table>
+</tbody></table>
 </center>
 
 
@@ -98,4 +98,4 @@ e-commerce website, you will also learn to set up a Carousell store for payment 
 
 <div style="width:50%;float:left;"><center><a href="https://form.gov.sg/#!/5f9fae2e08d25a0011362014" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Register Now</a></center></div>
 
-<div style="width:50%;float:left;"><center><a href="https://form.gov.sg/602f304308dce80012761272" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center></div>
+<div style="width:50%;float:left;"><center><a href="https://form.gov.sg/602f304308dce80012761272" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center></div></i></small></i></small>
