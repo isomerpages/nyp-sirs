@@ -28,4 +28,4 @@ third_nav_title: Consultancy
 <p>Your company may apply through the <a href="https://www.skillsconnect.gov.sg/sop/portal/">SkillsConnect</a> for the programme you attended. The Government will reimburse the additional programme fee funding along with the absentee payroll.</p>
 
 <h4>Where can I get more information on ETSS?</h4>
-<p>You may visit <a href="https://www.ssg.gov.sg/programmes-and-initiatives/funding/enhanced-training-support-for-smes1.html">SkillsFuture Singapore</a> for more information on ETSS.</p>
+<p>You may visit <a href="https://www.skillsfuture.gov.sg/initiatives/employers/enhanced-training-support-for-smes">SkillsFuture Singapore</a> for more information on ETSS.</p>
