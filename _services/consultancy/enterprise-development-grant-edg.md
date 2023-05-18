@@ -17,7 +17,8 @@ third_nav_title: Consultancy
   <li>Have a minimum of 30% local shareholding</li>
   <li>Be in a financially viable position to start and complete the project</li>
    </ul>
-	<p>Applications will be assessed by Enterprise Singapore based on project scope, project outcomes and competency of service provider.</p>
+
+<p>Applications will be assessed by Enterprise Singapore based on project scope, project outcomes and competency of service provider.</p>
 
 <h4>How do I apply for EDG?</h4>
 <p>Your company may apply through the <a href="https://www.businessgrants.gov.sg/">Business Grants Portal</a> page.</p>
