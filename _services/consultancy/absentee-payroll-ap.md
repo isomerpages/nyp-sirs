@@ -11,7 +11,7 @@ third_nav_title: Consultancy
 <p>With effect from 1 January 2022, company will recieve a fixed Absentee Payroll (AP)* rate of $4.50 per hour, capped at $100,000 per enterprise per calendar year. 
 <br><br>
 *AP funding will be computed based on the actual number of training hours attended by the trainee. 
-<br><br> For more information,  please click <a href="https://www.myskillsfuture.gov.sg/content/portal/en/career-resources/career-resources/education-career-personal-development/skillsfuture-funding-changes.htm">here</a>.
+<br><br> For more information,  please click <a href="https://www.myskillsfuture.gov.sg/content/portal/en/career-resources/career-resources/education-career-personal-development/skillsfuture-funding-changes.html">here</a>.
 
 </p>
 
