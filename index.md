@@ -7,9 +7,9 @@ sections:
       background: /images/images-2021/Homepage_Banner2.png
   - infopic:
       title: Become a Successful YouTuber and Boost Your Earnings
-      description: "No matter your business industry, job role or purpose, there’s a
+      description: No matter your business industry, job role or purpose, there’s a
         place for you on YouTube! Learn from us and be the next successful
-        YouTuber. "
+        YouTuber.
       button: more about this workshop
       url: /digital-programmes/mc-ws/youtube/
       image: /images/images-2021/home-highlights-youtuber.png
@@ -25,17 +25,17 @@ sections:
       image: /images/images-2021/home-highlights-tiktokmarketing.png
   - infopic:
       title: SkillsFuture Career Transition Programme (SCTP)
-      description: "The SCTP is a train-and-place initiative to support mid-career
+      description: The SCTP is a train-and-place initiative to support mid-career
         individuals in upskilling and reskilling themselves to boost their
-        employability. "
+        employability.
       button: more about this programme
       url: /services/career-services/sctp/
       image: /images/images-2021/home-highlights-sctp.png
       alt: Image alt text
   - infopic:
       title: Progressive Wage Model (PWM) for the Retail Sector
-      description: "Effective 1 September 2022, employers are to meet the PWM wage and
-        training requirements for workers in five retail job roles.   "
+      description: Effective 1 September 2022, employers are to meet the PWM wage and
+        training requirements for workers in five retail job roles.
       button: More about pwm
       url: /success-and-articles/articles/pwm/
       image: /images/images-2021/Home-Highlights-PWM.png
@@ -48,5 +48,7 @@ sections:
       image: /images/images-2021/About-MailingList-Amended.jpg
       alt: alt text
       button: More about SIRS Mailing List
-notification: "\n"
+notification: ""
+description: Description
+image: /images/isomer-logo.svg
 ---
