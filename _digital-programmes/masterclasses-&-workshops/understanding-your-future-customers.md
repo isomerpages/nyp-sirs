@@ -9,15 +9,15 @@ third_nav_title: Masterclasses & Workshops
 <h4 style="text-align:center;">Next intake:</h4>
 
 <center><table style="width:80%;">
-    <tr style="text-align:center;">
+    <tbody><tr style="text-align:center;">
       <th style="text-align:center;width:50%;">Online Training</th>
       <th style="text-align:center;width:50%;">Face-to-Face</th>
     </tr>
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">To be confirmed</td>
-      <td style="text-align:center;width:50%;">To be confirmed</td>
+      <td style="text-align:center;width:50%;">to be confirmed</td>
+      <td style="text-align:center;width:50%;">to be confirmed</td>
     </tr>
-</table></center>
+</tbody></table></center>
 
 <p>The retail world is constantly evolving at an unprecedented pace. Preparing your business to tackle the
 changes ahead involves understanding the needs of your future customers through trend forecasting. SIRS
@@ -72,9 +72,9 @@ development through guided interactive online exercises
 	</div>
 	<div class="col is-8">
         <b>Jien Goh</b><br><i>Futures Consultant<br>WGSN</i><br><br>A culturally-engaged strategist, Jien is driven to help clients connect the dots between current societal shifts and future growth opportunities. 
-Jien’s background in design & innovation informs her approach. She has partnered with iconic brands to deliver actionable growth strategies that bridge the gap between data-robust insight and creative thinking. 
-Jien has helped shape the future of brands across sectors spanning fashion, beauty, consumer tech and food & drink. Some of her clients include LVMH, Loewe, Inditex Group, Cotton On Group, Coty Paris, Hyundai, Samsung, Kelloggs, Diageo and Beam Suntory. She has also taken the (virtual) stage at conferences for the likes of Singapore Design Centre, Singapore International Retail Association and Singapore Management University.
-Outside of work, Jien finds beauty in the less quantifiable worlds of yoga and art. She is currently obsessed with #tablescaping and is starting a passion project centred around the eco-conscious curation of thrifted vintage & artisanal dinnerware
+Jien’s background in design &amp; innovation informs her approach. She has partnered with iconic brands to deliver actionable growth strategies that bridge the gap between data-robust insight and creative thinking. 
+Jien has helped shape the future of brands across sectors spanning fashion, beauty, consumer tech and food &amp; drink. Some of her clients include LVMH, Loewe, Inditex Group, Cotton On Group, Coty Paris, Hyundai, Samsung, Kelloggs, Diageo and Beam Suntory. She has also taken the (virtual) stage at conferences for the likes of Singapore Design Centre, Singapore International Retail Association and Singapore Management University.
+Outside of work, Jien finds beauty in the less quantifiable worlds of yoga and art. She is currently obsessed with #tablescaping and is starting a passion project centred around the eco-conscious curation of thrifted vintage &amp; artisanal dinnerware
 	</div>
 </div>
     
@@ -83,7 +83,7 @@ Outside of work, Jien finds beauty in the less quantifiable worlds of yoga and a
 
 <center>
 <table style="width:100%;">
-<tr>
+<tbody><tr>
 <th style="width:70%;">Category</th>
 <th style="width:30%:">Price</th>
 </tr>
@@ -118,7 +118,7 @@ Outside of work, Jien finds beauty in the less quantifiable worlds of yoga and a
 <td>$353.40</td>
 </tr>
 
-</table>
+</tbody></table>
 </center>
 
 
@@ -150,5 +150,5 @@ Outside of work, Jien finds beauty in the less quantifiable worlds of yoga and a
 <div style="width:50%;float:left;"><center><a href="https://form.gov.sg/#!/61d7eca63cff1000121629f6" style="background-color:#06225e; border:white; color:white; 
   padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Register Now</a></center></div>
 
-<div style="width:50%;float:left;"><center><a href="https://form.gov.sg/#!/61d7eca63cff1000121629f6" style="background-color:#06225e; border:white; color:white; 
-  padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center></div>
+<div style="width:50%;float:left;"><center><a href="https://form.gov.sg/admin/form/602f33f172d5100012d6ca8b" style="background-color:#06225e; border:white; color:white; 
+  padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center></div></i></small></i></small>

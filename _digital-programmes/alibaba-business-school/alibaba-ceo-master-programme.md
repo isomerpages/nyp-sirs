@@ -19,10 +19,10 @@ CEO Master Programme<br>
 <h4 style="text-align:center;">Next intake:</h4>
 
 <center><table style="width:80%;">
-    <tr style="text-align:center;">
+    <tbody><tr style="text-align:center;">
       <td style="text-align:center;width:50%;">To be confirmed</td>
     </tr> 
-</table></center>
+</tbody></table></center>
 
 <b>This programme will be conducted in Mandarin.</b>
 
@@ -39,7 +39,7 @@ CEO Master Programme<br>
 <h4>Highlights</h4>
 <ul>
   <li>Learn from Alibaba certified trainers</li>
-<li>Visit & dine at Alibaba’s FlyZoo Hotel</li>
+<li>Visit &amp; dine at Alibaba’s FlyZoo Hotel</li>
 <li>Networking at Alibaba HQ</li>
 <li>Guided tour in Hema Fresh</li>
 </ul>
@@ -65,7 +65,7 @@ CEO Master Programme<br>
 <ul>
 <li>Visit Alibaba Binjiang campus and experience Alibaba Big Data Global Transaction Console</li>
 <li>Site visit to Alibaba Global HQ: Alibaba West Stream Campus</li>
-<li>Visit & dine at Alibaba’s FlyZoo Hotel</li>
+<li>Visit &amp; dine at Alibaba’s FlyZoo Hotel</li>
 <li>Site visit to Alimall and Hema Fresh</li>
 <li>Introduction to Alibaba ecosystem</li>
 <li>Meals provided: Breakfast/Lunch/Dinner</li>
@@ -75,7 +75,7 @@ CEO Master Programme<br>
 <b>The Strategic Transformation of New Retail Era</b>
 <ul>
 <li>The origin of New Retail</li>
-<li>Deep dive into the eco-system & scenario of New Retail</li>
+<li>Deep dive into the eco-system &amp; scenario of New Retail</li>
 <li>Discover the New Persona, New Product and New Organisation</li>
 <li>Reconstruct the New Retail "Persona, Product, Place, Profit"</li>
 <li>Discussion: Canvas planning for individual New Retail business</li>
@@ -83,13 +83,13 @@ CEO Master Programme<br>
   </ul>
 
 <b>Day 4</b><br>
-<b>New Retail Organisation Transformation & Talent Development</b>
+<b>New Retail Organisation Transformation &amp; Talent Development</b>
 <ul>
 <li>Strategic New Retail transformation trend</li>
 <li>The force -organisation and talent development</li>
-<li>New Retail management & structural change</li>
+<li>New Retail management &amp; structural change</li>
 <li>New Retail staff competency map, grooming and motivation/reward systems</li>
-<li>Discussion: Individual business organisation change & talent development</li>
+<li>Discussion: Individual business organisation change &amp; talent development</li>
 <li>Meals provided: Breakfast/Lunch/Dinner</li>
   </ul>
 
@@ -122,7 +122,7 @@ CEO Master Programme<br>
 <li>参观滨江园区，观摩数据大屏</li>
 <li>阿里巴巴西溪园区（全球总部）访客中心参观</li>
 <li>阿里巴巴集团菲住布渴酒店黑科技参观及用餐</li>
-<li>阿里巴巴新零售商场- 亲橙里 (Alimall) 参观 & 盒马鲜生体验</li>
+<li>阿里巴巴新零售商场- 亲橙里 (Alimall) 参观 &amp; 盒马鲜生体验</li>
 <li>阿里生态平台介绍</li>
 <li>提供餐食：早/午/晚餐</li>
   </ul>
@@ -168,7 +168,7 @@ CEO Master Programme<br>
 
 <center>
 <table style="width:100%;">
-<tr>
+<tbody><tr>
 <th style="width:70%;">Category</th>
 <th style="width:30%:">Price</th>
 </tr>
@@ -184,7 +184,7 @@ CEO Master Programme<br>
 </tr>
 
 <tr>
-<td>Singapore Citizen 40 years & above<sup>1</sup> (90% funding)</td>
+<td>Singapore Citizen 40 years &amp; above<sup>1</sup> (90% funding)</td>
 <td>$1,170</td>
 </tr>
 
@@ -193,7 +193,7 @@ CEO Master Programme<br>
 <td>$1,170</td>
 </tr>
 
-</table>
+</tbody></table>
 </center>
 
 
@@ -204,7 +204,7 @@ CEO Master Programme<br>
 
 <center>
   <b>All fees include :</b><br>
-Accommodation, meals & local transfers (6D5N)<br>
+Accommodation, meals &amp; local transfers (6D5N)<br>
   <b>All fees exclude :</b> <br>
 Airfare<br>
 Visa for travel to China<br>
@@ -227,8 +227,7 @@ Travel insurance
 	<li><a href="/services/consultancy/wss-companies">Workfare Skills Support (WSS) Scheme (For Companies)</a></li>
   </ul>
   
-<p>For more information about funding and support, click <a href="/services/funding-and-advisory">here.</a></p>
-
+<p>For more information about funding and support, click <a href="/services/consultancy">here.</a></p>
  
  <div style="width:50%;float:left;"><center><a href="https://docs.google.com/forms/d/e/1FAIpQLSekX2s9T95dYWncNmU85qHSN4wFQVXmhfKjjLEAhY3waWS3xw/viewform" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Register Now</a></center></div>
- <div style="width:50%;float:left;"><center><a href="https://form.gov.sg/602f2e2609513500125322dd" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center></div>
+ <div style="width:50%;float:left;"><center><a href="https://form.gov.sg/602f2e2609513500125322dd" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center></div></i></small>

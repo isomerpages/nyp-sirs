@@ -1,10 +1,11 @@
 ---
 title: Redeployment CCP
-permalink: /digital-programmes/redeployment-job-redesign-reskilling-pcp/
+permalink: /career-services/redeployment-ccp/
 breadcrumb: Redeployment PCP
 third_nav_title: Career Services
+description: SIRS Redployment CCP
+image: /images/images-2021/Services_Career Services_Job Redeployment PCP.jpg
 ---
-
 <img src="/images/images-2021/Services_Career Services_Job Redeployment PCP.jpg" style="width:100%;">
 
 <p>The Redeployment CCP for the retail industry aims to reskill at-risk employees into new roles arising from the on-going 

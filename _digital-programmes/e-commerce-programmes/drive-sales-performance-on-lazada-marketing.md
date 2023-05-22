@@ -113,6 +113,8 @@ third_nav_title: E-Commerce Programmes
 </tbody></table>
 </center>
 
+</ol>
+
 <small><i>Fees include prevailing GST
 <br>Funding Eligibility Period: 1 Oct 2021 to 30 Sep 2024
 <br><small><i><sup>0</sup>The increase of 1% GST on fees will be absorbed for Singapore Citizens in 2023
@@ -141,4 +143,4 @@ third_nav_title: E-Commerce Programmes
 
 <div style="width:50%;float:left;"><center><a href="https://form.gov.sg/#!/5e5c849930d0700011b48fc5" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Register Now</a></center></div>
 
-<div style="width:50%;float:left;"><center><a href="https://form.gov.sg/602f30a8cdb38800116f60a6" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center></div></i></small></i></small></ol>
+<div style="width:50%;float:left;"><center><a href="https://form.gov.sg/602f30a8cdb38800116f60a6" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center></div></i></small></i></small>

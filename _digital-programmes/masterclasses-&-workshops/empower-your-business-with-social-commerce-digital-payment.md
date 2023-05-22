@@ -9,7 +9,7 @@ third_nav_title: Masterclasses & Workshops
 <h4 style="text-align:center;">Next intake:</h4>
 
 <center><table style="width:80%;">
-    <tr style="text-align:center;">
+    <tbody><tr style="text-align:center;">
       <th style="text-align:center;width:50%;">Online Training</th>
       <th style="text-align:center;width:50%;">Face-to-Face</th>
     </tr>
@@ -17,7 +17,7 @@ third_nav_title: Masterclasses & Workshops
       <td style="text-align:center;width:50%;">To be confirmed</td>
       <td style="text-align:center;width:50%;">To be confirmed</td>
     </tr>
-</table></center>
+</tbody></table></center>
 
 <p>Social media channels are no longer just networking platforms but have evolved to become e-marketplaces
 for direct selling and buying of products and services. Known as Social Commerce, it is a trend that is fast
@@ -56,8 +56,8 @@ and revenue.</p>
   <ul>
   <li>What is SGQR?</li>
   <li>What is PayNow for business?</li>
-  <li>Identify the benefits & features of various e-Wallets</li>
-  <li>Understand static & dynamic QR</li>
+  <li>Identify the benefits &amp; features of various e-Wallets</li>
+  <li>Understand static &amp; dynamic QR</li>
   <li>Recognise the types of cashless payments</li>
   <li>Learn to drive traffic to stores with digital payments</li>
   </ul>
@@ -72,7 +72,7 @@ and revenue.</p>
 <h4>Trainer Profile</h4>
 <p><b>Simon Woon</b><br>
 
-<p>Simon Woon is an independent trainer who brings with him a plethora of skill sets including over 6 years of
+</p><p>Simon Woon is an independent trainer who brings with him a plethora of skill sets including over 6 years of
 experience establishing expertise in social media, WeChat marketing, cashless and cross-border payment
 solutions. He has conducted numerous digital marketing seminars and SkillsFuture workshops for local
 SMEs, to help them with their business success. He has also led the digital transformation of SGQR cashless
@@ -84,7 +84,7 @@ code to improve customer payment experience.</p>
 
 <center>
 <table style="width:100%;">
-<tr>
+<tbody><tr>
 <th style="width:70%;">Category</th>
 <th style="width:30%:">Price</th>
 </tr>
@@ -119,7 +119,7 @@ code to improve customer payment experience.</p>
 <td>$93</td>
 </tr>
 
-</table>
+</tbody></table>
 </center>
 
 
@@ -147,7 +147,7 @@ code to improve customer payment experience.</p>
   </ul>
 
 <p>For more information about funding and support, click <a href="/services/consultancy">here.</a></p>
+	
+<div style="width:50%;float:left;"><center><a href="https://form.gov.sg/5d9d3f30a8b1b30012143f58" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Register Now</a></center></div>
 
-<div style="width:50%;float:left;"><center><a href="https://form.gov.sg/#!/5d9d3f30a8b1b30012143f58" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Register Now</a></center></div>
-
-<div style="width:50%;float:left;"><center><a href="https://form.gov.sg/602f33f172d5100012d6ca8b" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center></div>
+<div style="width:50%;float:left;"><center><a href="https://form.gov.sg/602f33f172d5100012d6ca8b" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center></div></i></small></i></small>

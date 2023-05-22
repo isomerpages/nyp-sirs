@@ -8,7 +8,7 @@ third_nav_title: Alibaba Business School
 
 <h4>Past Highlights</h4>
 
-<b>Alibaba Global Course series - Intelligent Business 5.0: Innovation Entrepreneurship & Organisation Excellence in the Cognitive Era</b><br>
+<b>Alibaba Global Course series - Intelligent Business 5.0: Innovation Entrepreneurship &amp; Organisation Excellence in the Cognitive Era</b><br>
 <em>22 July 2021</em>
 
 <p>The global pandemic is a catalyst that accelerated the adoption of digital strategies and technologies in businesses. While many are still grappling with digital transformation, some are already charting their evolution blueprint to move forward from Industrial 4.0 to Intelligent Business 5.0 in the cognitive era. </p>
@@ -31,7 +31,7 @@ third_nav_title: Alibaba Business School
 <b>Alibaba Global Course series - New Retail</b><br>
 <em>3 April 2019</em>
 
-<p>Held on 3rd April 2019, the second edition of the AGCs marked the signing of a MoU between Alibaba (China) Education & Technology, SIRS and SFIC Institute in collaboration to support the digital transformation for SFIC’s members and the supporting industries & companies.</p>
+<p>Held on 3rd April 2019, the second edition of the AGCs marked the signing of a MoU between Alibaba (China) Education &amp; Technology, SIRS and SFIC Institute in collaboration to support the digital transformation for SFIC’s members and the supporting industries &amp; companies.</p>
 
 <p>The second edition of the AGCs introduced to participants the notion of "New Retail", coined by Alibaba founder Jack Ma. Enabled by cutting-edge technology such as Artificial Intelligence and Machine Learning, synergised by Big Data, brands must now relook their entire business model and strategy.</p>
 
@@ -56,13 +56,11 @@ third_nav_title: Alibaba Business School
 <h4>Media Coverage</h4>
 
 <table style="width:100%;">
-  <tr>
+  <tbody><tr>
     <td style="width:33%;vertical-align:middle;"><a href="https://www.businesstimes.com.sg/companies-markets/alibaba-brings-its-one-day-global-course-to-singapore-for-the-first-time" target="_blank"><img src="images/logos/the-business-times-logo.jpg" style="width:100%;"></a></td>
     <td style="width:33%;vertical-align:middle;"><a href="https://www.straitstimes.com/singapore/new-e-commerce-courses-from-alibaba-group-and-singapore-institute-of-retail-studies" target="_blank"><img src="images/logos/the-straits-times-logo.jpg" style="width:100%;"></a></td>
     <td style="width:33%;vertical-align:middle;"><a href="https://sg.finance.yahoo.com/news/alibaba-launches-retail-e-commerce-065500079.html" target="_blank"><img src="images/logos/yahoo-finance-logo.jpg" style="width:100%;"></a></td>
   </tr>
   <tr>
     <td style="width:33%;vertical-align:middle;"><a href="https://www.alizila.com/singapore-smes-get-digital-education-taobao-university/" target="_blank"><img src="images/logos/alizila-logo.jpg" style="width:100%;"></a></td>
-    <td style="width:33%;vertical-align:middle;"><a href="https://www.sgsme.sg/news/alibaba-nyp-offer-joint-e-commerce-courses" target="_blank"><img src="images/logos/sgsme-logo.jpg" style="width:100%;"></a></td>
-  </tr>
-</table>
+</tr></tbody></table>

@@ -8,10 +8,10 @@ third_nav_title: Consultancy
 <p>AP funding is a grant to help employers defray the manpower costs incurred when they send their employees for certifiable skills training.</p>
 
 <h4>What does AP comprise of?</h4>
-<p>With effect from 1 January 2022, company will recieve a fixed Absentee Payroll (AP)* rate of $4.50 per hour, capped at $100,000 per enterprise per calendar year. 
+<p>With effect from 1 January 2022, company will receive a fixed Absentee Payroll (AP)* rate of $4.50 per hour, capped at $100,000 per enterprise per calendar year. 
 <br><br>
 *AP funding will be computed based on the actual number of training hours attended by the trainee. 
-<br><br> For more information,  please click <a href="https://www.myskillsfuture.gov.sg/content/portal/en/career-resources/career-resources/education-career-personal-development/skillsfuture-funding-changes.htm">here</a>.
+<br><br> For more information,  please click <a href="https://www.myskillsfuture.gov.sg/content/portal/en/career-resources/career-resources/education-career-personal-development/skillsfuture-funding-changes.html">here</a>.
 
 </p>
 
@@ -33,4 +33,4 @@ third_nav_title: Consultancy
 <p>Your company may apply through the <a href="https://sfec.enterprisejobskills.gov.sg/Callbackhandler/Prelogin.aspx">Entreprise Portal</a> for the programme you attended. The Government will reimburse the absentee payroll.</p>
 
 <h4>Where can I get more information on AP?</h4>
-<p>You may visit <a href="https://www.skillsconnect.gov.sg/sop/portal/e-Services/For%20Employers/AbsenteePayroll.jsp">SkillsConnect</a> for more information on AP.</p>
+<p>You may visit <a href="https://sfec.enterprisejobskills.gov.sg/Callbackhandler/PdfViewer.aspx?IsAPGuide=True">Enterprise Portal for Jobs and Skills (EPJS)</a> for more information on AP.</p>
