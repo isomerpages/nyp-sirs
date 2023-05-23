@@ -47,7 +47,7 @@ third_nav_title: WSQ Full Qualification Programmes
 
 <h4>Entry Requirements</h4>
 <ul>
-  <li>GCE ‘N’ level Credit (at least C5) in English and Mathematics or Workplace Literacy and Numeracy (WPLN) score: Level 4 for Reading, Listening and Numeracy, and</li>
+  <li>GCE ‘N’ level Credit (at least C5) in English and Mathematics or Workplace Literacy and Numeracy (WPLN) score: Level 4 for Reading, Listening and Numeracy and</li>
   <li>With at least 1 year working experience in retail or 2 years in non-retail sector</li>
   </ul> 
 
