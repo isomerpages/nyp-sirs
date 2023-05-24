@@ -22,7 +22,7 @@ Open Your Horizons. Apply Proven E-Commerce Strategies</center>
 
 <p>SIRS in partnership with Alibaba Business School, the official training arm of Alibaba Group, offers comprehensive and systematic training programmes to meet a full spectrum of learning needs of government groups, entrepreneurs, SMEs, startups, e-commerce practitioners and students.</p>
 
-<p>The Entrepreneur Startup programme is designed for enterprising business start-ups and individuals seeking to launch an online store as an individual or enterprise. Through this course, participants will learn how to efficiently set up, manage and operate an online store on Lazada platform and understand China & South East Asia’s opportunities that businesses can explore. Mastering the ecommerce modus operandi and techniques with key big data analytics and benchmark. </p>
+<p>The Entrepreneur Startup programme is designed for enterprising business start-ups and individuals seeking to launch an online store as an individual or enterprise. Through this course, participants will learn how to efficiently set up, manage and operate an online store on Lazada platform and understand China &amp; South East Asia’s opportunities that businesses can explore. Mastering the ecommerce modus operandi and techniques with key big data analytics and benchmark. </p>
 
 <p>Upon completion of the programme, participants will receive a certificate jointly awarded by Alibaba Business School and Singapore Institute of Retail Studies.</p>
 
@@ -47,7 +47,7 @@ Open Your Horizons. Apply Proven E-Commerce Strategies</center>
   <li>Understand the development of e-commerce in China and Southeast Asia</li>
   <li>Understand the global e-commerce trends and competitive advantages</li>
   <li>The entrepreneur role of e-commerce explained</li>
-  <li>Alibaba platform policies explained: Company Store & Personal Store</li>
+  <li>Alibaba platform policies explained: Company Store &amp; Personal Store</li>
   </ul>
 
 <b>E-Commerce Entrepreneurship</b>
@@ -143,7 +143,7 @@ Open Your Horizons. Apply Proven E-Commerce Strategies</center>
 
 <center>
 <table style="width:100%;">
-<tr>
+<tbody><tr>
 <th style="width:70%;">Category</th>
 <th style="width:30%:">Price</th>
 </tr>
@@ -178,14 +178,14 @@ Open Your Horizons. Apply Proven E-Commerce Strategies</center>
 <td>$930</td>
 </tr>
 
-</table>
+</tbody></table>
 </center>
 
 
 <small><i>Fees include prevailing GST
 <br>Funding Eligibility Period: 1 Oct 2021 to 30 Sep 2024
-<br><small><i><sup>0</sup>The increase of 1% GST on fees will be absorbed for Singapore Citizens in 2023
-<br><small><i><sup>1</sup>Fee is under the <a href="/services/consultancy/skillsfuture-midcareer-enhanced-subsidy">Mid-career Enhanced Subsidy(MCES)</a>
+<br><sup>0</sup>The increase of 1% GST on fees will be absorbed for Singapore Citizens in 2023
+<br><sup>1</sup>Fee is under the <a href="/services/consultancy/skillsfuture-midcareer-enhanced-subsidy">Mid-career Enhanced Subsidy(MCES)</a>
 <br><sup>2</sup>Fee is under the <a href="/services/consultancy/etss">Enhanced Training Support for SMEs (ETSS)</a><br>
 </i></small>
 
