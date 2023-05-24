@@ -108,6 +108,13 @@ third_nav_title: Masterclasses & Workshops
 </tbody></table>
 </center>
 
+<small><i>Fees include prevailing GST
+<br>Funding Eligibility Period: 1 Oct 2021 to 30 Sep 2024
+<br><sup>0</sup>The increase of 1% GST on fees will be absorbed for Singapore Citizens in 2023
+<br><sup>1</sup>Fee is under the <a href="/services/consultancy/skillsfuture-midcareer-enhanced-subsidy">Mid-career Enhanced Subsidy(MCES)</a>
+<br><sup>2</sup>Fee is under the <a href="/services/consultancy/etss">Enhanced Training Support for SMEs (ETSS)</a><br>
+</i></small>
+	
 <h4>Additional Support</h4>
 
 <p>This course is also eligible for the following:</p>
