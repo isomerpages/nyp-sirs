@@ -26,7 +26,7 @@ third_nav_title: Masterclasses & Workshops
 <p>Want to find out how you too can ride the social commerce wave and grow your business? Join us to learn how you can leverage Shopline, Asia’s biggest provider of omnichannel retail services for online, offline-to-online and cross-border commerce to reinvent your customer engagement and boost sales.</p>
 
 <small>*Data source:
-<a href="https://techwireasia.com/2021/10/southeast-asia-sees-exhilarating-rise-in-social-commerce/">https://techwireasia.com/2021/10/southeast-asia-sees-exhilarating-rise-in-social-commerce/</a>
+<a href="https://techwireasia.com/2021/10/southeast-asia-sees-exhilarating-rise-in-social-commerce/">https://techwireasia.com/2021/10/southeast-asia-sees-exhilarating-rise-in-social-commerce/</a></small>
 
 <p></p><h4>Course Title | Mode of Training | Course Ref</h4><p></p>
 
@@ -136,4 +136,4 @@ third_nav_title: Masterclasses & Workshops
 
 <div style="width:50%;float:left;"><center><a href="https://form.gov.sg/#!/617130018f4d100012bbdda0" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Register Now</a></center></div>
 
-<div style="width:50%;float:left;"><center><a href="https://form.gov.sg/602f33f172d5100012d6ca8b" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center></div></small>
+<div style="width:50%;float:left;"><center><a href="https://form.gov.sg/602f33f172d5100012d6ca8b" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center></div>
