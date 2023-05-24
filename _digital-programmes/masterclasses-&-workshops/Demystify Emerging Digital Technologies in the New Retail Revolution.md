@@ -9,7 +9,7 @@ third_nav_title: Masterclasses & Workshops
 <h4 style="text-align:center;">Next intake:</h4>
 
 <center><table style="width:80%;">
-    <tr style="text-align:center;">
+    <tbody><tr style="text-align:center;">
       <th style="text-align:center;width:50%;">Online Training</th>
       <th style="text-align:center;width:50%;">Face-to-Face</th>
     </tr>
@@ -17,13 +17,13 @@ third_nav_title: Masterclasses & Workshops
       <td style="text-align:center;width:50%;">To be confirmed</td>
       <td style="text-align:center;width:50%;">To be confirmed</td>
     </tr>
-</table></center>
+</tbody></table></center>
 
 <p>We have heard of artificial intelligence (AI) but might not fully grasp what it does or understand the profound impact it has brought to our businesses. AI enables smart devices and cloud-based tools to be even more intuitive and efficient with cognitive thinking capability to learn from past data and experiences to take smart actions, make informed decisions, and provide recommendations. The convergence of emerging digital technologies and the power of AI empowers businesses to optimise day-to-day operations and deliver personalised customer experiences. AI is increasingly going from a nice-to-have to a game changer to achieve higher sales and bigger bottom lines.</p>
 
 <p>As we move into Intelligent Business in this cognitive era, join us in our one-day workshop to demystify AI, learn to appreciate and manage the changes brought about by the emerging technologies, and cultivate innovative mindsets in the New Retail Revolution. </p>
 
-<p><h4>Course Title | Mode of Training | Course Ref</h4></p>
+<p></p><h4>Course Title | Mode of Training | Course Ref</h4><p></p>
 
 <p>Demystify Emerging Digital Technologies 
 in the New Retail Revolution
@@ -49,7 +49,7 @@ in the New Retail Revolution
 
 <center>
 <table style="width:100%;">
-<tr>
+<tbody><tr>
 <th style="width:70%;">Category</th>
 <th style="width:30%:">Price</th>
 </tr>
@@ -84,14 +84,14 @@ in the New Retail Revolution
 <td>$62</td>
 </tr>
 
-</table>
+</tbody></table>
 </center>
 
 
 <small><i>Fees include prevailing GST
 <br>Funding Eligibility Period: 1 Oct 2021 to 30 Sep 2024
-<br><small><i><sup>0</sup>The increase of 1% GST on fees will be absorbed for Singapore Citizens in 2023
-<br><small><i><sup>1</sup>Fee is under the <a href="/services/consultancy/skillsfuture-midcareer-enhanced-subsidy">Mid-career Enhanced Subsidy(MCES)</a>
+<br><sup>0</sup>The increase of 1% GST on fees will be absorbed for Singapore Citizens in 2023
+<br><sup>1</sup>Fee is under the <a href="/services/consultancy/skillsfuture-midcareer-enhanced-subsidy">Mid-career Enhanced Subsidy(MCES)</a>
 <br><sup>2</sup>Fee is under the <a href="/services/consultancy/etss">Enhanced Training Support for SMEs (ETSS)</a><br>
 </i></small>
 
