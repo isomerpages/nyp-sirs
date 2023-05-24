@@ -9,7 +9,7 @@ third_nav_title: Masterclasses & Workshops
 <h4 style="text-align:center;">Next intake:</h4>
 
 <center><table style="width:80%;">
-    <tr style="text-align:center;">
+    <tbody><tr style="text-align:center;">
       <th style="text-align:center;width:50%;">Online Training</th>
       <th style="text-align:center;width:50%;">Face-to-Face</th>
     </tr>
@@ -17,7 +17,7 @@ third_nav_title: Masterclasses & Workshops
       <td style="text-align:center;width:50%;">To be confirmed</td>
       <td style="text-align:center;width:50%;">To be confirmed</td>
     </tr>
-</table></center>
+</tbody></table></center>
 
 <p>The rise of digital mediums and innovation in technology have changed the way consumers behave, and thus influencing their purchase decisions. E-commerce platforms, such as e-marketplaces, have also transformed with the increased competition. In this changing landscape, how can businesses leverage the digital mediums to stay competitive and relevant to market needs?</p>
 
@@ -40,7 +40,7 @@ third_nav_title: Masterclasses & Workshops
   </ul>
   
 <h4>Who Should Attend</h4>
-<p>This masterclass is suitable for marketing professionals and web & content developers who would like to:</p>
+<p>This masterclass is suitable for marketing professionals and web &amp; content developers who would like to:</p>
 <ul>
   <li>Acquire an overview of existing industry practices in digital marketing and SEO</li>
   <li>Understand the change in consumer behaviour to adapt their business marketing plans</li>
@@ -62,7 +62,7 @@ third_nav_title: Masterclasses & Workshops
 	</div>
 	<div class="col is-8">
         <b>Jayden Ooi</b><br><i>Entrepreneur, Digital Strategist</i><br><br>Jayden Ooi is highly qualified in practice with many successful digital transformations for SMEs to pivot their brick-and-mortar businesses into the digital space. With his
-expertise, a local retailer successfully redesigned its business model, ranked number one on Google, and achieved more than three million dollars in e-commerce sales. In another instance, he helped a local F&B SME to rise to the top ranking and triple its
+expertise, a local retailer successfully redesigned its business model, ranked number one on Google, and achieved more than three million dollars in e-commerce sales. In another instance, he helped a local F&amp;B SME to rise to the top ranking and triple its
 annual revenue. Jayden is an experienced professional in SEO, digital marketing, and e-commerce development. Over the years, he has built a staunch customer portfolio and a successful team in Singapore and Malaysia. His agency, NightOwl SEO, has helped many of his clients to be in the top 5 rankings on Google.
 	</div>
 </div>
@@ -72,7 +72,7 @@ annual revenue. Jayden is an experienced professional in SEO, digital marketing,
 
 <center>
 <table style="width:100%;">
-<tr>
+<tbody><tr>
 <th style="width:70%;">Category</th>
 <th style="width:30%:">Price</th>
 </tr>
@@ -107,14 +107,14 @@ annual revenue. Jayden is an experienced professional in SEO, digital marketing,
 <td>$93</td>
 </tr>
 
-</table>
+</tbody></table>
 </center>
 
 
 <small><i>Fees include prevailing GST
 <br>Funding Eligibility Period: 1 Oct 2021 to 30 Sep 2024
-<br><small><i><sup>0</sup>The increase of 1% GST on fees will be absorbed for Singapore Citizens in 2023
-<br><small><i><sup>1</sup>Fee is under the <a href="/services/consultancy/skillsfuture-midcareer-enhanced-subsidy">Mid-career Enhanced Subsidy(MCES)</a>
+<br><sup>0</sup>The increase of 1% GST on fees will be absorbed for Singapore Citizens in 2023
+<br><sup>1</sup>Fee is under the <a href="/services/consultancy/skillsfuture-midcareer-enhanced-subsidy">Mid-career Enhanced Subsidy(MCES)</a>
 <br><sup>2</sup>Fee is under the <a href="/services/consultancy/etss">Enhanced Training Support for SMEs (ETSS)</a><br>
 </i></small>
 
