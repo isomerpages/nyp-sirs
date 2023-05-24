@@ -17,10 +17,10 @@ Holistic Hands-on Content Marketing Techniques</center>
 <h4 style="text-align:center;">Next intake:</h4>
 
 <center><table style="width:80%;">
-    <tr style="text-align:center;">
+    <tbody><tr style="text-align:center;">
       <td style="text-align:center;width:50%;"> To be confirmed</td>
     </tr>
-</table></center>
+</tbody></table></center>
 
 <b>This programme will be conducted in English or Mandarin.</b>
 
@@ -48,11 +48,11 @@ Holistic Hands-on Content Marketing Techniques</center>
 
 <b>Optimise Content Marketing Strategy and Master Short Video Creation Skills</b>
 <ul>
-	<li>Perform Social Media platform analysis & account planning</li>
+	<li>Perform Social Media platform analysis &amp; account planning</li>
   <li>Understand the definition, trends and significance of video marketing through case studies</li>
   <li>Plan the content for scripts of brand videos, product videos, and promotional videos</li>
   <li>Develop a creative video structure through copywriting and advertising techniques</li>
-  <li>Learn the before, during and after processes of making a video - preparations, techniques & editing</li>
+  <li>Learn the before, during and after processes of making a video - preparations, techniques &amp; editing</li>
   <li>Understand the rules and procedures to publish a completed video</li>
   </ul>
 
@@ -64,7 +64,7 @@ Holistic Hands-on Content Marketing Techniques</center>
   <li>Uncover the secrets to maximising an anchor’s advantage – ways to position yourself for the win</li>
   </ul>
 
-<b>Scale up on your Social Media Platform Operations & grow your Fans Economy</b>
+<b>Scale up on your Social Media Platform Operations &amp; grow your Fans Economy</b>
 <ul>
   <li>Learn ways to grow your fan base</li>
   <li>Establish an effective mechanism to protect your fan base</li>
@@ -125,7 +125,7 @@ Holistic Hands-on Content Marketing Techniques</center>
 
 <center>
 <table style="width:100%;">
-<tr>
+<tbody><tr>
 <th style="width:70%;">Category</th>
 <th style="width:30%:">Price</th>
 </tr>
@@ -160,13 +160,13 @@ Holistic Hands-on Content Marketing Techniques</center>
 <td>$706.80</td>
 </tr>
 
-</table>
+</tbody></table>
 </center>
 
 <small><i>Fees include prevailing GST
 <br>Funding Eligibility Period: 1 Oct 2021 to 30 Sep 2024
-<br><small><i><sup>0</sup>The increase of 1% GST on fees will be absorbed for Singapore Citizens in 2023
-<br><small><i><sup>1</sup>Fee is under the <a href="/services/consultancy/skillsfuture-midcareer-enhanced-subsidy">Mid-career Enhanced Subsidy(MCES)</a>
+<br><sup>0</sup>The increase of 1% GST on fees will be absorbed for Singapore Citizens in 2023
+<br><sup>1</sup>Fee is under the <a href="/services/consultancy/skillsfuture-midcareer-enhanced-subsidy">Mid-career Enhanced Subsidy(MCES)</a>
 <br><sup>2</sup>Fee is under the <a href="/services/consultancy/etss">Enhanced Training Support for SMEs (ETSS)</a><br>
 </i></small>
 	
