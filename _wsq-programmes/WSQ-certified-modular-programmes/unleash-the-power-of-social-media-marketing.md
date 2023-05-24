@@ -105,6 +105,7 @@ third_nav_title: WSQ Certified Modular Programmes
 <br><sup>0</sup>The increase of 1% GST on fees will be absorbed for Singapore Citizens in 2023
 <br><sup>1</sup>Fee is under the <a href="/services/consultancy/skillsfuture-midcareer-enhanced-subsidy">Mid-career Enhanced Subsidy(MCES)</a>
 <br><sup>2</sup>Fee is under the <a href="/services/consultancy/etss">Enhanced Training Support for SMEs (ETSS)</a><br>
+	</i></small>
 
 <h4>Additional Support</h4>
 
@@ -127,4 +128,4 @@ third_nav_title: WSQ Certified Modular Programmes
 
 <div style="width:50%;float:left;"><center><a href="https://form.gov.sg/#!/5f4532ff7dab380011d9a4c9" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Register Now</a></center></div>
 
-<div style="width:50%;float:left;"><center><a href="https://form.gov.sg/602f27830951350012530bee" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center></div></i></small>
+<div style="width:50%;float:left;"><center><a href="https://form.gov.sg/602f27830951350012530bee" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center></div>
