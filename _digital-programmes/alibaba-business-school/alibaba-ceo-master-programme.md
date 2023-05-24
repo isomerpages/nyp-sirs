@@ -198,7 +198,7 @@ CEO Master Programme<br>
 
 
 <small><i>Funding Eligibility Period: 1 Oct 2021 to 30 Sep 2024
-<br><small><i><sup>1</sup>Fee is under the <a href="/services/consultancy/skillsfuture-midcareer-enhanced-subsidy">Mid-career Enhanced Subsidy(MCES)</a>
+<br><sup>1</sup>Fee is under the <a href="/services/consultancy/skillsfuture-midcareer-enhanced-subsidy">Mid-career Enhanced Subsidy(MCES)</a>
 <br><sup>2</sup>Fee is under the <a href="/services/consultancy/etss">Enhanced Training Support for SMEs (ETSS)</a><br>
 </i></small>
 
@@ -230,4 +230,4 @@ Travel insurance
 <p>For more information about funding and support, click <a href="/services/consultancy">here.</a></p>
  
  <div style="width:50%;float:left;"><center><a href="https://docs.google.com/forms/d/e/1FAIpQLSekX2s9T95dYWncNmU85qHSN4wFQVXmhfKjjLEAhY3waWS3xw/viewform" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Register Now</a></center></div>
- <div style="width:50%;float:left;"><center><a href="https://form.gov.sg/602f2e2609513500125322dd" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center></div></i></small>
+ <div style="width:50%;float:left;"><center><a href="https://form.gov.sg/602f2e2609513500125322dd" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center></div>
