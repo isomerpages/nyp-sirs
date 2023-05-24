@@ -9,7 +9,7 @@ third_nav_title: Masterclasses & Workshops
 <h4 style="text-align:center;">Next intake:</h4>
 
 <center><table style="width:80%;">
-    <tr style="text-align:center;">
+    <tbody><tr style="text-align:center;">
       <th style="text-align:center;width:50%;">Online Training</th>
       <th style="text-align:center;width:50%;">Face-to-Face</th>
     </tr>
@@ -17,13 +17,13 @@ third_nav_title: Masterclasses & Workshops
       <td style="text-align:center;width:50%;">4-5 May (Thu-Fri)</td>
       <td style="text-align:center;width:50%;">To be confirmed</td>
     </tr>
-</table></center>
+</tbody></table></center>
 
 <p>With over 2.7 billion<sup>1</sup> monthly active users, Facebook has been one of the most prominent social media
 platforms and has evolved from being just a social network to a marketplace for businesses to sell directly
 to customers. In Singapore, there are over 4.8 million<sup>2</sup> Facebook users, which accounts for 73% of our
-entire population. With its extensive network locally & globally, ability to target new customers, and access
-to audience & page insights, Facebook has become an essential marketing platform for all businesses.</p>
+entire population. With its extensive network locally &amp; globally, ability to target new customers, and access
+to audience &amp; page insights, Facebook has become an essential marketing platform for all businesses.</p>
 
 <p>Acquire practical Facebook marketing and advertising strategies that you can apply to your work or
 business. This two-day masterclass will take you from the fundamentals of Facebook page management
@@ -66,7 +66,7 @@ the next level.</p>
 	</div>
 	<div class="col is-8">
         <b>Gavin Choo</b><br>Gavin is an experienced Digital Marketing practitioner, with over 12 years of experience
-working in the Marketing & Advertising industry in various roles such as Sales,
+working in the Marketing &amp; Advertising industry in various roles such as Sales,
 Marketing, and Business Development, plus 4 years of experience in Professional
 Training and Coaching. He is also a Singapore WSQ ACTA certified trainer. He is
 passionate about showing business owners and brand marketers how to get results
@@ -83,7 +83,7 @@ HubSpot Content Marketing Certification.
 
 <center>
 <table style="width:100%;">
-<tr>
+<tbody><tr>
 <th style="width:70%;">Category</th>
 <th style="width:30%:">Price</th>
 </tr>
@@ -118,14 +118,14 @@ HubSpot Content Marketing Certification.
 <td>$148.80</td>
 </tr>
 
-</table>
+</tbody></table>
 </center>
 
 
 <small><i>Fees include prevailing GST
 <br>Funding Eligibility Period: 1 Oct 2021 to 30 Sep 2024
-<br><small><i><sup>0</sup>The increase of 1% GST on fees will be absorbed for Singapore Citizens in 2023
-<br><small><i><sup>1</sup>Fee is under the <a href="/services/consultancy/skillsfuture-midcareer-enhanced-subsidy">Mid-career Enhanced Subsidy(MCES)</a>
+<br><sup>0</sup>The increase of 1% GST on fees will be absorbed for Singapore Citizens in 2023
+<br><sup>1</sup>Fee is under the <a href="/services/consultancy/skillsfuture-midcareer-enhanced-subsidy">Mid-career Enhanced Subsidy(MCES)</a>
 <br><sup>2</sup>Fee is under the <a href="/services/consultancy/etss">Enhanced Training Support for SMEs (ETSS)</a><br>
 </i></small>
 
@@ -145,7 +145,7 @@ HubSpot Content Marketing Certification.
 <b>For company-sponsored participants:</b>
 <ul>
   <li><a href="/services/consultancy/absentee-payroll-ap">Absentee Payroll</a></li>
-  <li><a href="/services/consultancy/wss-companies">Workfare Skills Support (WSS) Scheme (For Companies)	<li><a href="/services/consultancy/skillsfuture-enterprise-credit">SkillsFuture Enterprise Credit</a></li></a></li>
+  <li><a href="/services/consultancy/wss-companies">Workfare Skills Support (WSS) Scheme (For Companies)	</a></li><li><a href="/services/consultancy/skillsfuture-enterprise-credit">SkillsFuture Enterprise Credit</a></li>
   </ul>
 
 <p>For more information about funding and support, click <a href="/services/consultancy">here.</a></p>
