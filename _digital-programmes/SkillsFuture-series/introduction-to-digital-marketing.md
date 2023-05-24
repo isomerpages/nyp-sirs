@@ -9,7 +9,7 @@ third_nav_title: SkillsFuture Series
 <h4 style="text-align:center;">Next intake:</h4>
 
 <center><table style="width:80%;">
-    <tr style="text-align:center;">
+    <tbody><tr style="text-align:center;">
       <th style="text-align:center;width:50%;">Online Training</th>
       <th style="text-align:center;width:50%;">Face-to-Face</th>
     </tr>
@@ -17,7 +17,7 @@ third_nav_title: SkillsFuture Series
       <td style="text-align:center;width:50%;">16 June (Fri)</td>
       <td style="text-align:center;width:50%;">To be confirmed</td>
     </tr>
-</table></center>
+</tbody></table></center>
 
 <p>With increasing traffic in social media space, successful engagement through digital content marketing is a great booster for business. This programme provides participants the knowledge and applications to understand digital engagement that is superseding traditional marketing channels.</p>
 
@@ -43,7 +43,7 @@ third_nav_title: SkillsFuture Series
 
 <center>
 <table style="width:100%;">
-<tr>
+<tbody><tr>
 <th style="width:70%;">Category</th>
 <th style="width:30%:">Price</th>
 </tr>
@@ -78,14 +78,14 @@ third_nav_title: SkillsFuture Series
 <td>$26.04</td>
 </tr>
 
-</table>
+</tbody></table>
 </center>
 
 
 <small><i>Fees include prevailing GST
 <br>Funding Eligibility Period: 1 Oct 2021 to 30 Sep 2024
-<br><small><i><sup>0</sup>The increase of 1% GST on fees will be absorbed for Singapore Citizens in 2023
-<br><small><i><sup>1</sup>Fee is under the <a href="/services/consultancy/skillsfuture-midcareer-enhanced-subsidy">Mid-career Enhanced Subsidy(MCES)</a>
+<br><sup>0</sup>The increase of 1% GST on fees will be absorbed for Singapore Citizens in 2023
+<br><sup>1</sup>Fee is under the <a href="/services/consultancy/skillsfuture-midcareer-enhanced-subsidy">Mid-career Enhanced Subsidy(MCES)</a>
 <br><sup>2</sup>Fee is under the <a href="/services/consultancy/etss">Enhanced Training Support for SMEs (ETSS)</a><br>
 </i></small>
 
