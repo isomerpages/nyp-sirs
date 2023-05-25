@@ -3,7 +3,7 @@ title: Our Facilities
 permalink: /our-facilities/
 breadcrumb: Our Facilities
 ---
-<img src="/images/images-2021/About-Facilities-Main.png" style="width:100%;">
+![Image of SIRS office](/images/images-2021/about-facilities-sirs.jpg)
 
 <p>Located conveniently at the Lifelong Learning Institute next to Paya Lebar MRT, our campus is equipped with training labs, 
 simulated rooms, and well-furnished classrooms to provide you with practical training in a conducive learning environment. 
