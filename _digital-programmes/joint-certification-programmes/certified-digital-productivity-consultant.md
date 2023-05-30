@@ -73,7 +73,7 @@ The CDPC programme will equip the consultant with literacy and skills in:
 
 <tr>
 <td>Singapore PR sponsored by SMEs<sup>2</sup> (90% funding)</td>
-<td>$1,277,20</td>
+<td>$1,277.20</td>
 </tr>
 
 </tbody></table>
