@@ -9,7 +9,7 @@ third_nav_title: Masterclasses & Workshops
 <h4 style="text-align:center;">Next intake:</h4>
 
 <center><table style="width:80%;">
-    <tr style="text-align:center;">
+    <tbody><tr style="text-align:center;">
       <th style="text-align:center;width:50%;">Online Training</th>
       <th style="text-align:center;width:50%;">Face-to-Face</th>
     </tr>
@@ -17,7 +17,7 @@ third_nav_title: Masterclasses & Workshops
       <td style="text-align:center;width:50%;">To be confirmed</td>
       <td style="text-align:center;width:50%;">To be confirmed</td>
     </tr>
-</table></center>
+</tbody></table></center>
 
 <p>Advertising in Google enables you to expand our online presence. According to StatCounter Global Stats in Jun 2018 report, Google holds almost 90% of search engine market share. Google Shopping, together with the use of AdWords, enables potential customers to see your product image, title, price, store name, and more. These ads give users a strong sense of the product you are selling before they click the ad, which gives you more qualified leads. Many businesses experience significantly higher clickthrough rates (CTR) with Shopping ads compared to text ads.</p>
 
@@ -35,8 +35,8 @@ third_nav_title: Masterclasses & Workshops
 <li>Introduction to Google Merchant Centre</li>
 <li>Learn what Data Feed is and how to optimise it</li>
 <li>Understand Shopping Campaigns and the various options</li>
-<li>Measuring & Optimizing AdWords Campaigns</li>
-<li>Fundamentals & Google Shopping Review: Google AdWords Fundamentals & Shopping Advertising Exam</li>
+<li>Measuring &amp; Optimizing AdWords Campaigns</li>
+<li>Fundamentals &amp; Google Shopping Review: Google AdWords Fundamentals &amp; Shopping Advertising Exam</li>
   </ul>
   
 <h4>Who Should Attend</h4>
@@ -53,7 +53,7 @@ Ivan has over 20 years of experience in Business Consulting, Training, Search En
 
 <center>
 <table style="width:100%;">
-<tr>
+<tbody><tr>
 <th style="width:70%;">Category</th>
 <th style="width:30%:">Price</th>
 </tr>
@@ -88,14 +88,14 @@ Ivan has over 20 years of experience in Business Consulting, Training, Search En
 <td>$148.80</td>
 </tr>
 
-</table>
+</tbody></table>
 </center>
 
 
 <small><i>Fees include prevailing GST
 <br>Funding Eligibility Period: 1 Oct 2021 to 30 Sep 2024
-<br><small><i><sup>0</sup>The increase of 1% GST on fees will be absorbed for Singapore Citizens in 2023
-<br><small><i><sup>1</sup>Fee is under the <a href="/services/consultancy/skillsfuture-midcareer-enhanced-subsidy">Mid-career Enhanced Subsidy(MCES)</a>
+<br><sup>0</sup>The increase of 1% GST on fees will be absorbed for Singapore Citizens in 2023
+<br><sup>1</sup>Fee is under the <a href="/services/consultancy/skillsfuture-midcareer-enhanced-subsidy">Mid-career Enhanced Subsidy(MCES)</a>
 <br><sup>2</sup>Fee is under the <a href="/services/consultancy/etss">Enhanced Training Support for SMEs (ETSS)</a><br>
 </i></small>
 

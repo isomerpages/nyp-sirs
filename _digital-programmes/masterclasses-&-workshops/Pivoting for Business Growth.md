@@ -10,13 +10,13 @@ third_nav_title: Masterclasses & Workshops
 <h4 style="text-align:center;">Next intake:</h4>
 
 <center><table style="width:80%;">
-    <tr style="text-align:center;">
+    <tbody><tr style="text-align:center;">
       <th style="text-align:center;width:50%;">Face-to-Face</th>
     </tr>
     <tr style="text-align:center;">
       <td style="text-align:center;width:50%;">To be confirmed</td>
     </tr>
-</table></center>
+</tbody></table></center>
 
 <p>The rapid advancement of technologies and the spread of e-commerce have hastened the pace of consumption. In today’s time-poor society and digital overload, consumers spend less than 15 seconds on a website before moving on to another. Creating a personalised shopping experience that addresses diversified consumers’ needs and wants helps businesses stand out amongst competitors in this dynamic market. By clearly communicating value propositions and understanding the different stages of the customer buying journey, you can engage with customers at the right place, at the right time, with the right message.</p>
 
@@ -28,7 +28,7 @@ third_nav_title: Masterclasses & Workshops
 <small>*Source:
 <a href="https://www.bain.com/insights/the-elements-of-value-hbr/">https://www.bain.com/insights/the-elements-of-value-hbr/</a>
 
-<p><h4>Course Title | Mode of Training | Course Ref</h4></p>
+<p></p><h4>Course Title | Mode of Training | Course Ref</h4><p></p>
 
 <p>Pivoting for Business Growth
 <br>Classroom, Practical - TGS-2022013201
@@ -54,7 +54,7 @@ third_nav_title: Masterclasses & Workshops
 
 <center>
 <table style="width:100%;">
-<tr>
+<tbody><tr>
 <th style="width:70%;">Category</th>
 <th style="width:30%:">Price</th>
 </tr>
@@ -89,14 +89,14 @@ third_nav_title: Masterclasses & Workshops
 <td>$477.40</td>
 </tr>
 
-</table>
+</tbody></table>
 </center>
 
 
 <small><i>Fees include prevailing GST
 <br>Funding Eligibility Period: 1 Oct 2021 to 30 Sep 2024
-<br><small><i><sup>0</sup>The increase of 1% GST on fees will be absorbed for Singapore Citizens in 2023
-<br><small><i><sup>1</sup>Fee is under the <a href="/services/consultancy/skillsfuture-midcareer-enhanced-subsidy">Mid-career Enhanced Subsidy(MCES)</a>
+<br><sup>0</sup>The increase of 1% GST on fees will be absorbed for Singapore Citizens in 2023
+<br><sup>1</sup>Fee is under the <a href="/services/consultancy/skillsfuture-midcareer-enhanced-subsidy">Mid-career Enhanced Subsidy(MCES)</a>
 <br><sup>2</sup>Fee is under the <a href="/services/consultancy/etss">Enhanced Training Support for SMEs (ETSS)</a><br>
 </i></small>
 
@@ -120,4 +120,4 @@ third_nav_title: Masterclasses & Workshops
 
 <div style="width:50%;float:left;"><center><a href="https://form.gov.sg/#!/62a6ef6cb3ba9500128e31ee" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Register Now</a></center></div>
 
-<div style="width:50%;float:left;"><center><a href="https://form.gov.sg/602f33f172d5100012d6ca8b" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center></div>
+<div style="width:50%;float:left;"><center><a href="https://form.gov.sg/602f33f172d5100012d6ca8b" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center></div></small>

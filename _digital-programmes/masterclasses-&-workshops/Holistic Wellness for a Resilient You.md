@@ -10,13 +10,13 @@ third_nav_title: Masterclasses & Workshops
 <h4 style="text-align:center;">Next intake:</h4>
 
 <center><table style="width:80%;">
-    <tr style="text-align:center;">
+    <tbody><tr style="text-align:center;">
       <th style="text-align:center;width:50%;">Face-to-Face</th>
     </tr>
     <tr style="text-align:center;">
       <td style="text-align:center;width:50%;">21-22 June (Wed-Thu)</td>
     </tr>
-</table></center>
+</tbody></table></center>
 
 <p>Stress and fatigue are a common experience among the working population with the modern lifestyle and more so during and after the pandemic. An average person will spend at least 90,000 hours<sup>*</sup> working over a lifetime - that is one-third of our lives! While technology enables us to work anytime and anywhere, the lines between our career and personal lives are gradually blurring. More people are finding it difficult to ‘unplug’ and inevitably bring their underlying state of wellness to work, affecting job performances. </p>
 
@@ -25,7 +25,7 @@ third_nav_title: Masterclasses & Workshops
 <small>*Source:
 <a href="https://bit.ly/3ymJuR5">https://www.gettysburg.edu/news</a>
 
-<p><h4>Course Title | Mode of Training | Course Ref</h4></p>
+<p></p><h4>Course Title | Mode of Training | Course Ref</h4><p></p>
 
 <p>Holistic Wellness for a Resilient You
 <br>Classroom - TGS-2022015216
@@ -53,7 +53,7 @@ third_nav_title: Masterclasses & Workshops
 
 <center>
 <table style="width:100%;">
-<tr>
+<tbody><tr>
 <th style="width:70%;">Category</th>
 <th style="width:30%:">Price</th>
 </tr>
@@ -88,14 +88,14 @@ third_nav_title: Masterclasses & Workshops
 <td>$93</td>
 </tr>
 
-</table>
+</tbody></table>
 </center>
 
 
 <small><i>Fees include prevailing GST
 <br>Funding Eligibility Period: 1 Oct 2021 to 30 Sep 2024
-<br><small><i><sup>0</sup>The increase of 1% GST on fees will be absorbed for Singapore Citizens in 2023
-<br><small><i><sup>1</sup>Fee is under the <a href="/services/consultancy/skillsfuture-midcareer-enhanced-subsidy">Mid-career Enhanced Subsidy(MCES)</a>
+<br><sup>0</sup>The increase of 1% GST on fees will be absorbed for Singapore Citizens in 2023
+<br><sup>1</sup>Fee is under the <a href="/services/consultancy/skillsfuture-midcareer-enhanced-subsidy">Mid-career Enhanced Subsidy(MCES)</a>
 <br><sup>2</sup>Fee is under the <a href="/services/consultancy/etss">Enhanced Training Support for SMEs (ETSS)</a><br>
 </i></small>
 
@@ -118,6 +118,6 @@ third_nav_title: Masterclasses & Workshops
 
 <p>For more information about funding and support, click <a href="/services/consultancy">here.</a></p>
 
-<div style="width:50%;float:left;"><center><a href="https://form.gov.sg/?utm_source=flyer&utm_medium=flyer&utm_campaign=holistic+wellness+for+a+resilient+you#!/5e587a6895e4da0011f0f746" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Register Now</a></center></div>
+<div style="width:50%;float:left;"><center><a href="https://form.gov.sg/?utm_source=flyer&amp;utm_medium=flyer&amp;utm_campaign=holistic+wellness+for+a+resilient+you#!/5e587a6895e4da0011f0f746" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Register Now</a></center></div>
 
-<div style="width:50%;float:left;"><center><a href="https://form.gov.sg/602f33f172d5100012d6ca8b" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center></div>
+<div style="width:50%;float:left;"><center><a href="https://form.gov.sg/602f33f172d5100012d6ca8b" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center></div></small>

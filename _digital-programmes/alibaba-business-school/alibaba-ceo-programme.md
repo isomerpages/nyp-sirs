@@ -19,10 +19,10 @@ third_nav_title: Alibaba Business School
 <h4 style="text-align:center;">Next intake:</h4>
 
 <center><table style="width:80%;">
-    <tr style="text-align:center;">
+    <tbody><tr style="text-align:center;">
       <td style="text-align:center;width:50%;">To be confirmed</td>
     </tr> 
-</table></center>
+</tbody></table></center>
 
 <b>This programme will be conducted in Mandarin.</b>
 
@@ -64,7 +64,7 @@ third_nav_title: Alibaba Business School
 <b>Day 2</b><br>
 <b>The Alibaba World Economy and The New Retail</b>
 <ul>
-<li>Site visit to Alibaba Global HQ: Alibaba West Stream Campus & “Facial Recognition Payment” Future Retail Mall</li>
+<li>Site visit to Alibaba Global HQ: Alibaba West Stream Campus &amp; “Facial Recognition Payment” Future Retail Mall</li>
 <li>Alibaba Big Data Global Transaction Console: Panoramic view of Alibaba global business strategy and data analytic real-time transactions</li>
 <li>Alibaba Group Organisation and Culture: Alibaba corporate culture and value, organisation development and evolvement</li>
 <li>Site visit to Alimall and Hema Fresh</li>
@@ -95,8 +95,8 @@ third_nav_title: Alibaba Business School
 <b>Digital Commerce Way of Running Business</b>
 <ul>
 <li>Understand the value chain of digital commerce way of running business</li>
-<li>Thought leadership in digital commerce which includes re-construction of organisation and identify roles & responsibilities</li>
-<li>Learn to build digital commerce operations and overall framework through digital commerce SOP & techniques</li>                                        
+<li>Thought leadership in digital commerce which includes re-construction of organisation and identify roles &amp; responsibilities</li>
+<li>Learn to build digital commerce operations and overall framework through digital commerce SOP &amp; techniques</li>                                        
 <li>Meals provided: Breakfast/Lunch</li>
   </ul>
  
@@ -117,7 +117,7 @@ third_nav_title: Alibaba Business School
 <b>第二天</b><br>
 <b>阿里巴巴经济体与新零售体验</b>
 <ul>
-<li>参观阿里巴巴集团全球总部：阿里巴巴西溪园区&“人脸识别支付”未来店</li>
+<li>参观阿里巴巴集团全球总部：阿里巴巴西溪园区&amp;“人脸识别支付”未来店</li>
 <li>《阿里巴巴数据大屏》：阿里巴巴全球业务布局与数据详解</li>
 <li>《阿里巴巴集团组织和文化》：阿里巴巴集团企业文化和价值观、组织发展体系等等</li>
 <li>《新零售模式》亲橙里(Alimall)与盒马鲜生走访</li>
@@ -163,7 +163,7 @@ third_nav_title: Alibaba Business School
 
 <center>
 <table style="width:100%;">
-<tr>
+<tbody><tr>
 <th style="width:70%;">Category</th>
 <th style="width:30%:">Price</th>
 </tr>
@@ -179,7 +179,7 @@ third_nav_title: Alibaba Business School
 </tr>
 
 <tr>
-<td>Singapore Citizen 40 years & above<sup>1</sup> (90% funding)</td>
+<td>Singapore Citizen 40 years &amp; above<sup>1</sup> (90% funding)</td>
 <td>$1,170</td>
 </tr>
 
@@ -188,20 +188,20 @@ third_nav_title: Alibaba Business School
 <td>$1,170</td>
 </tr>
 
-</table>
+</tbody></table>
 </center>
 
 
 
 
 <small><i>Funding Eligibility Period: 1 Oct 2021 to 30 Sep 2024
-<br><small><i><sup>1</sup>Fee is under the <a href="/services/consultancy/skillsfuture-midcareer-enhanced-subsidy">Mid-career Enhanced Subsidy(MCES)</a>
+<br><sup>1</sup>Fee is under the <a href="/services/consultancy/skillsfuture-midcareer-enhanced-subsidy">Mid-career Enhanced Subsidy(MCES)</a>
 <br><sup>2</sup>Fee is under the <a href="/services/consultancy/etss">Enhanced Training Support for SMEs (ETSS)</a><br>
 </i></small>
 	
 <center>
   <b>All fees include :</b><br>
-Accommodation, meals & local transfers (6D5N)<br>
+Accommodation, meals &amp; local transfers (6D5N)<br>
   <b>All fees exclude :</b> <br>
 Airfare<br>
 Visa for travel to China<br>

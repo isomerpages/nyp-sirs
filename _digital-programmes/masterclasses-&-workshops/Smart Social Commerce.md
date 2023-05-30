@@ -9,7 +9,7 @@ third_nav_title: Masterclasses & Workshops
 <h4 style="text-align:center;">Next intake:</h4>
 
 <center><table style="width:80%;">
-    <tr style="text-align:center;">
+    <tbody><tr style="text-align:center;">
       <th style="text-align:center;width:50%;">Online Training</th>
       <th style="text-align:center;width:50%;">Face-to-Face</th>
     </tr>
@@ -17,7 +17,7 @@ third_nav_title: Masterclasses & Workshops
       <td style="text-align:center;width:50%;">To be confirmed</td>
       <td style="text-align:center;width:50%;">To be confirmed</td>
     </tr>
-</table></center>
+</tbody></table></center>
 
 <p>As e-commerce and social media continue to grow and evolve rapidly, the lines between them are increasingly blurred, giving rise to Social Commerce, an exciting evolution in retail. With social commerce, businesses can create seamless omnichannel shopping experiences for consumers to purchase on social media, engage and communicate directly with customers, as well as reach out to their network.</p>
 
@@ -26,9 +26,9 @@ third_nav_title: Masterclasses & Workshops
 <p>Want to find out how you too can ride the social commerce wave and grow your business? Join us to learn how you can leverage Shopline, Asia’s biggest provider of omnichannel retail services for online, offline-to-online and cross-border commerce to reinvent your customer engagement and boost sales.</p>
 
 <small>*Data source:
-<a href="https://techwireasia.com/2021/10/southeast-asia-sees-exhilarating-rise-in-social-commerce/">https://techwireasia.com/2021/10/southeast-asia-sees-exhilarating-rise-in-social-commerce/</a>
+<a href="https://techwireasia.com/2021/10/southeast-asia-sees-exhilarating-rise-in-social-commerce/">https://techwireasia.com/2021/10/southeast-asia-sees-exhilarating-rise-in-social-commerce/</a></small>
 
-<p><h4>Course Title | Mode of Training | Course Ref</h4></p>
+<p></p><h4>Course Title | Mode of Training | Course Ref</h4><p></p>
 
 <p>Smart Social Commerce
 <br>Classroom - TGS-2021008515 | Synchronous E-Learning - TGS-2022011750
@@ -70,7 +70,7 @@ third_nav_title: Masterclasses & Workshops
 
 <center>
 <table style="width:100%;">
-<tr>
+<tbody><tr>
 <th style="width:70%;">Category</th>
 <th style="width:30%:">Price</th>
 </tr>
@@ -105,18 +105,16 @@ third_nav_title: Masterclasses & Workshops
 <td>$62</td>
 </tr>
 
-</table>
+</tbody></table>
 </center>
-
 
 <small><i>Fees include prevailing GST
 <br>Funding Eligibility Period: 1 Oct 2021 to 30 Sep 2024
-<br><small><i><sup>0</sup>The increase of 1% GST on fees will be absorbed for Singapore Citizens in 2023
-<br><small><i><sup>1</sup>Fee is under the <a href="/services/consultancy/skillsfuture-midcareer-enhanced-subsidy">Mid-career Enhanced Subsidy(MCES)</a>
+<br><sup>0</sup>The increase of 1% GST on fees will be absorbed for Singapore Citizens in 2023
+<br><sup>1</sup>Fee is under the <a href="/services/consultancy/skillsfuture-midcareer-enhanced-subsidy">Mid-career Enhanced Subsidy(MCES)</a>
 <br><sup>2</sup>Fee is under the <a href="/services/consultancy/etss">Enhanced Training Support for SMEs (ETSS)</a><br>
 </i></small>
-
-
+	
 <h4>Additional Support</h4>
 
 <p>This course is also eligible for the following:</p>
