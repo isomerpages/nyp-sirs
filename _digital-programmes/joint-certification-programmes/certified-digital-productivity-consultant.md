@@ -6,7 +6,7 @@ third_nav_title: Joint Certification Programmes
 ---
 <img src="images/joint-certification/cdpc.jpg" style="width:100%;">
 
-<p>On 4 June 2019, SIRS, Singapore Productivity Centre (SGPC), and Heartland Enterprises Centre Singapore (HECS) signed a Memorandum of Understanding (MOU), launching the Certified Digital & Productivity Consultant (CDPC) programme.</p>
+<p>On 4 June 2019, SIRS, Singapore Productivity Centre (SGPC), and Heartland Enterprises Centre Singapore (HECS) signed a Memorandum of Understanding (MOU), launching the Certified Digital &amp; Productivity Consultant (CDPC) programme.</p>
 
 <p>The CDPC programme aims to upskill current SIRS digital consultants and SGPC consultants in digital and consultancy capabilities. Through this programme, consultants will be put through a four-month long training that comprises classroom lessons, capability-building projects, and on-the-job training in selected retail companies.</p>
 
@@ -41,42 +41,42 @@ The CDPC programme will equip the consultant with literacy and skills in:
 
 <center>
 <table style="width:100%;">
-<tr>
+<tbody><tr>
 <th style="width:70%;">Category</th>
 <th style="width:30%:">Price</th>
 </tr>
 
 <tr>
 <td>Full Fee</td>
-<td>$8,100</td>
+<td>$11,124</td>
 </tr>
 
 <tr>
   <td>Singapore Citizen<sup>0</sup> (70% funding)</td>
-<td>$2,407.50</td>
+<td>$3,306.30</td>
 </tr>
 	
 <tr>
   <td>Singapore Citizen 40 years and above<sup>0,1</sup> (90% funding)</td>
-<td>$907.50</td>
+<td>$1,246.30</td>
 </tr>
 
 <tr>
   <td>Singapore Citizen sponsored by SMEs<sup>0,2</sup> (90% funding)</td>
-<td>$907.50</td>
+<td>$1,246.30</td>
 </tr>
 
 <tr>
   <td>Singapore PR (70% funding)</td>
-<td>$2,430</td>
+<td>$3,337.20</td>
 </tr>
 
 <tr>
 <td>Singapore PR sponsored by SMEs<sup>2</sup> (90% funding)</td>
-<td>$930</td>
+<td>$1,277,20</td>
 </tr>
 
-</table>
+</tbody></table>
 </center>
 
 
@@ -112,9 +112,9 @@ The CDPC programme will equip the consultant with literacy and skills in:
 <h4>As Seen On</h4>
 
 <table style="width:100%;">
-  <tr>
+  <tbody><tr>
     <td style="width:33%;"><a href="https://www.channelnewsasia.com/news/singapore/heartland-shops-to-tap-on-instagram-facebook-new-lease-life-11596238" target="_blank"><img src="images/logos/cna-logo.jpg" style="width:100%;"></a></td>
     <td style="width:33%;"><a href="https://www.straitstimes.com/singapore/change-agents-to-be-trained-to-help-heartland-business-go-digital" target="_blank"><img src="images/logos/the-straits-times-logo.jpg" style="width:100%;"></a></td>
     <td style="width:33%;"><a href="https://www.zaobao.com.sg/sme/news/story20190605-962065" target="_blank"><img src="images/logos/zaobao-logo.jpg" style="width:100%;"></a></td>
   </tr>
-</table>
+</tbody></table></i></small></i></small>
