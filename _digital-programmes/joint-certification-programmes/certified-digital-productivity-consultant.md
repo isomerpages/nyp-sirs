@@ -82,8 +82,8 @@ The CDPC programme will equip the consultant with literacy and skills in:
 
 <small><i>Fees include prevailing GST
 <br>Funding Eligibility Period: 1 Oct 2021 to 30 Sep 2024
-<br><small><i><sup>0</sup>The increase of 1% GST on fees will be absorbed for Singapore Citizens in 2023
-<br><small><i><sup>1</sup>Fee is under the <a href="/services/consultancy/skillsfuture-midcareer-enhanced-subsidy">Mid-career Enhanced Subsidy(MCES)</a>
+<br><sup>0</sup>The increase of 1% GST on fees will be absorbed for Singapore Citizens in 2023
+<br><sup>1</sup>Fee is under the <a href="/services/consultancy/skillsfuture-midcareer-enhanced-subsidy">Mid-career Enhanced Subsidy(MCES)</a>
 <br><sup>2</sup>Fee is under the <a href="/services/consultancy/etss">Enhanced Training Support for SMEs (ETSS)</a><br>
 </i></small>
 	
@@ -117,4 +117,4 @@ The CDPC programme will equip the consultant with literacy and skills in:
     <td style="width:33%;"><a href="https://www.straitstimes.com/singapore/change-agents-to-be-trained-to-help-heartland-business-go-digital" target="_blank"><img src="images/logos/the-straits-times-logo.jpg" style="width:100%;"></a></td>
     <td style="width:33%;"><a href="https://www.zaobao.com.sg/sme/news/story20190605-962065" target="_blank"><img src="images/logos/zaobao-logo.jpg" style="width:100%;"></a></td>
   </tr>
-</tbody></table></i></small></i></small>
+</tbody></table>
