@@ -15,7 +15,7 @@ third_nav_title: Masterclasses & Workshops
     </tr>
     <tr style="text-align:center;">
       <td style="text-align:center;width:50%;">To be confirmed</td>
-      <td style="text-align:center;width:50%;">28 June (Wed)<br>18 Aug (Fri)</td>
+      <td style="text-align:center;width:50%;">28 June (Wed)<br>17 Aug (Thu)</td>
     </tr>
 </tbody></table></center>
 
