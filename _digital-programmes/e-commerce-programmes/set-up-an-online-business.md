@@ -14,8 +14,8 @@ third_nav_title: E-Commerce Programmes
       <th style="text-align:center;width:50%;">Face-to-Face</th>
     </tr>
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">24-25 May (Wed-Thu)<br>14-15 July (Fri-Sat)<br>28-29 Aug (Mon-Tue) </td>
-      <td style="text-align:center;width:50%;">26-27 June (Mon-Tue)<br></td>   
+      <td style="text-align:center;width:50%;">14-15 July (Fri-Sat)</td>
+      <td style="text-align:center;width:50%;">26-27 June (Mon-Tue)<br>28-29 Aug (Mon-Tue)</td>   
     </tr>
 </tbody></table></center>
 
