@@ -1,7 +1,7 @@
 ---
 title: Career Conversion Programme for Retail Industry (CCP RI) Overview
 permalink: /services/career-services/ccp-overview/
-breadcrumb: Professional Conversion Programme (PCP) Overview
+breadcrumb: Career Conversion Programme for Retail Industry (CCP-RI) Overview
 third_nav_title: Career Services
 description: ""
 ---
