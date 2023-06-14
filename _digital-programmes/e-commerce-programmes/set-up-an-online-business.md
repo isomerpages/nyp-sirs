@@ -15,7 +15,7 @@ third_nav_title: E-Commerce Programmes
     </tr>
     <tr style="text-align:center;">
       <td style="text-align:center;width:50%;">14-15 July (Fri-Sat)</td>
-      <td style="text-align:center;width:50%;">26-27 June (Mon-Tue)<br>28-29 Aug (Mon-Tue)</td>   
+      <td style="text-align:center;width:50%;">26-27 June (Mon-Tue)<br>28-29 Aug (Mon-Tue)<br>20-21 Sep (Wed-Thu) </td>   
     </tr>
 </tbody></table></center>
 
