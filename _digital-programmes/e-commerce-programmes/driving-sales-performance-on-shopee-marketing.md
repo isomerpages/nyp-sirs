@@ -15,7 +15,7 @@ third_nav_title: E-Commerce Programmes
     </tr>
     <tr style="text-align:center;">
       <td style="text-align:center;width:50%;">13 July (Thu)</td>
-      <td style="text-align:center;width:50%;">6 Jun (Tue)</td>
+      <td style="text-align:center;width:50%;">6 Jun (Tue)<br>13 Sep (Wed)</td>
     </tr>
 </tbody></table></center>
 
