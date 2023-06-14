@@ -14,7 +14,7 @@ third_nav_title: Masterclasses & Workshops
       <th style="text-align:center;width:50%;">Face-to-Face</th>
     </tr>
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">8-9 Jun (Thu-Fri)<br>19-20 July (Wed-Thu)</td>
+      <td style="text-align:center;width:50%;">19-20 July (Wed-Thu)<br>11-12 Sep (Mon-Tue)</td>
     </tr>
 </tbody></table></center>
 
