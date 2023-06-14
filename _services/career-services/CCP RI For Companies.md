@@ -1,7 +1,7 @@
 ---
 title: CCP RI For Companies
 permalink: /services/career-services/ccp-companies/
-breadcrumb: PCP Retail Professional
+breadcrumb: CCP-RI for Companies
 third_nav_title: Career Services
 description: CCP-RI for Companies
 image: /images/images-2021/Services-CareerServices-CCP-RI-Coy-Header-web.png
