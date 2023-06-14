@@ -1,7 +1,7 @@
 ---
 title: CCP RI For Candidates
 permalink: /services/career-services/ccp-candidates/
-breadcrumb: PCP Digital Professional
+breadcrumb: CCP-RI For Candidates
 third_nav_title: Career Services
 description: CCP-RI for Candidates
 image: /images/images-2021/Services-CareerServices-CCP-RI-Candidates-Header-web.png
