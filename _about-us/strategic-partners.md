@@ -34,7 +34,6 @@ breadcrumb: Strategic Partners
 <b>Enterprise Singapore</b>
 <ul>
 <li><a href="/digital-programmes/e-commerce-programmes/best-practices-of-e-commerce-transactions-using-tr76">Best Practices of E-Commerce Transactions ESG TR 76</a></li>
-	<li><a href="/digital-programmes/e-commerce-programmes/mepp">Multichannel E-Commerce Platform (MEP) Programme</a></li>
 </ul>
 
 <b>Lazada</b>
@@ -67,5 +66,5 @@ breadcrumb: Strategic Partners
 
 <b>Singapore Productivity Centre</b>
 <ul>
-<li><a href="/digital-programmes/certified-digital-productivity-consultant">Certified Digital & Productivity Consultant</a></li>
+<li><a href="/digital-programmes/certified-digital-productivity-consultant">Certified Digital &amp; Productivity Consultant</a></li>
 </ul>
