@@ -13,7 +13,7 @@ third_nav_title: E-Commerce Programmes
       <li><a href="/digital-programmes/alibaba-business-school/alibaba-managerial-elite-programme">Alibaba Managerial Elite Programme</a></li>
       <li><a href="/digital-programmes/e-commerce-programmes/best-practices-of-e-commerce-transactions-using-tr76">Best Practices of E-Commerce Using TR 76</a></li>
 	     <li><a href="/digital-programmes/mc-ws/casetrust">CaseTrust Accreditation Scheme for E-Commerce Business</a></li>
-	      <li><a href="/digital-programmes/mc-ws/amazon">Digital Entrepreneurship in the Era of Cross-Border E-Commerce: Mastering Selling Strategieson Amazon.com</a></li>
+	      <li><a href="/digital-programmes/mc-ws/amazon">Digital Entrepreneurship in the Era of Cross-Border E-Commerce: Mastering Selling Strategies on Amazon.com</a></li>
       <li><a href="/digital-programmes/e-commerce-programmes/ebay-global-selling">eBay Global Selling (Onboarding)</a></li>
       <li><a href="/digital-programmes/e-commerce-programmes/getting-started-on-lazada">Getting Started on Lazada (Onboarding)</a></li>
       <li><a href="/digital-programmes/e-commerce-programmes/drive-sales-performance-on-lazada">Drive Sales Performance on Lazada (Marketing)</a></li>
