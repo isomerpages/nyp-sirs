@@ -1,6 +1,5 @@
 ---
-title: Digital Entrepreneurship in the Era of Cross Border E Commerce Mastering
-  Selling Strategies on
+title: Digital Entrepreneurship in the Era of Cross-Border E-Commerce: Mastering Selling Strategies on Amazon.com
 permalink: /digital-programmes/mc-ws/amazon/
 description: SIRS Workshop - Amazon
 image: /images/images-2021/DigitalProgrammes-HImage-Workshop.png
