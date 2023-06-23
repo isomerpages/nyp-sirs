@@ -6,7 +6,7 @@ third_nav_title: Masterclasses & Workshops
 ---
 <img src="/images/images-2021/DigitalProgrammes-Masterclasses_Workshops.png" style="width:100%;">
 
-<p>Designed for intermediate to advanced learners, SIRS' Masterclasses &amp; Workshops series equips learners with the required skillsets and knowledge to boost and optimise their sales and marketing efforts to enhance business revenue. Our masterclasses are conducted by leading experts and practitioners in the respective fields, transferring actionable knowledge to learners.</p>
+<p>Designed for intermediate to advanced learners, SIRS' Masterclasses &amp; Workshops series equip learners with the required skillsets and knowledge to boost and optimise their sales and marketing efforts to enhance business revenue. Our masterclasses are conducted by leading experts and practitioners in the respective fields, transferring actionable knowledge to learners.</p>
 
 <h4>Masterclasses</h4>
 <p>Learn how to advance your business performance from industry experts with our range of Masterclasses:</p>
