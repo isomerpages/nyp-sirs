@@ -29,21 +29,23 @@ third_nav_title: Masterclasses & Workshops
 <p>Digital Entrepreneurship in the Era of Cross-Border E-Commerce: Mastering Selling Strategies on Amazon.com<br>Classroom &amp; Synchronous E-Learning - TGS-2023021046</p>
 
 <h4>Outline</h4>
-* Appreciate the importance of video content in social media engagement
-* Strategise and craft engaging video content on YouTube using Creative Commons
-* Edit YouTube Creative Commons using video editing tools such as Filmora and CapCut
-* Identify keywords to maximise exposure for your video content using tools like VidIQ and Google Trends
+* Understand the US market trends and explore global selling on Amazon.com
+* Identify the legal and regulatory requirements for selling internationally and ensure compliance
+* Discover the critical steps involved in sourcing and selecting products, calculating ROI, and setting pricing successful selling on Amazon.com
+* Develop a comprehensive global selling strategy that incorporates essential aspects such as market research, localisation, and international shopping trends
+* Create an omnichannel plan to integrate Amazon.com with other sales channels, expanding your reach to a wider audience and driving business growth
 
 <h4>Who Should Attend</h4>
-<p>This workshop is suitable for Marketing Executives/Managers, Business Owners, Entrepreneurs, Digital Content Creators and individuals who are interested to generate side income through YouTube.</p>
+<p>This workshop is suitable for Business Owners, Entrepreneurs, Marketing Executives/Managers, and individuals who are interested to generate side income through selling on Amazon.com</p>
 	
 <h4>Requirements</h4>
 <ul>
 <li>Bring your own laptop</li>
-</ul>
+<li>Have prior experience in online shopping and/or operating e-commerce business
+</li></ul>
 
 <h4>Duration</h4>
-<p>2 days (9am - 6pm)<br>Includes 2 hours Asynchronous E-Learning</p>
+<p>2 days (9am - 6pm)<br>Includes 8 hours Synchronous E-Learning</p>
 
 
 <h4>Fees (GST 8% - For payment made on/after 1 Jan 2023)</h4>
@@ -115,6 +117,6 @@ third_nav_title: Masterclasses & Workshops
 
 <p>For more information about funding and support, click <a href="/services/consultancy">here.</a></p>
 
-<div style="width:50%;float:left;"><center><a href="https://form.gov.sg/#!/5e587a6895e4da0011f0f746" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Register Now</a></center></div>
+<div style="width:50%;float:left;"><center><a href="https://form.gov.sg/646e25853aae710011d2ee4e" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Register Now</a></center></div>
 
 <div style="width:50%;float:left;"><center><a href="https://form.gov.sg/602f33f172d5100012d6ca8b" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center></div>
