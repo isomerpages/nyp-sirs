@@ -35,7 +35,7 @@ third_nav_title: Masterclasses & Workshops
 * Create an omnichannel plan to integrate Amazon.com with other sales channels, expanding your reach to a wider audience and driving business growth
 
 <h4>Who Should Attend</h4>
-<p>This workshop is suitable for Business Owners, Entrepreneurs, Marketing Executives/Managers, and individuals who are interested to generate side income through selling on Amazon.com</p>
+<p>This workshop is suitable for Business Owners, Entrepreneurs, Marketing Executives/Managers, and individuals who are interested to generate side income through selling on Amazon.com.</p>
 	
 <h4>Requirements</h4>
 <ul>
