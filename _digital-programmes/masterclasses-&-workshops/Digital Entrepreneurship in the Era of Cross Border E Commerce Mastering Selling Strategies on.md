@@ -111,7 +111,6 @@ third_nav_title: Masterclasses & Workshops
 <ul>
   <li><a href="/services/consultancy/absentee-payroll-ap">Absentee Payroll</a></li>
   <li><a href="/services/consultancy/wss-companies">Workfare Skills Support (WSS) Scheme (For Companies)</a></li>
-	<li><a href="/services/consultancy/skillsfuture-enterprise-credit">SkillsFuture Enterprise Credit</a></li>
   </ul>
 
 <p>For more information about funding and support, click <a href="/services/consultancy">here.</a></p>
