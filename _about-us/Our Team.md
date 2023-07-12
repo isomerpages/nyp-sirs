@@ -29,31 +29,10 @@ We believe that people are the greatest assets of any organisation, and it is no
 </div>
 </div>
 
-**Getting to know Megan**<br>When you are strategic but detailed, speedy but careful, energetic but chilled, optimistic but measured, it’s no wonder that Megan is likened to Harry Potter’s Dumbledore by the SIRS’ team – it takes some powerful “magical” ability to juggle and balance all that, be as fiercely loyal & deeply protective of everyone around her as she is, and then running off to beat her friends at a game of netball. Whew!
+**Getting to know Megan**<br>When you are strategic but detailed, speedy but careful, energetic but chilled, optimistic but measured, it’s no wonder that Megan is likened to Harry Potter’s Dumbledore by the SIRS’ team – it takes some powerful “magical” ability to juggle and balance all that, be as fiercely loyal &amp; deeply protective of everyone around her as she is, and then running off to beat her friends at a game of netball. Whew!
 
 **Megan ❤ SIRS**
 <br><i>“Being in SIRS is being in the 2 industries that I love! Straddling public duty that also supports the retail industry is meaningful and stimulating work, and the positive impact that we are able to make is what drives me and what I find most satisfying.”</i>
-
-<hr>
-
-<h5>Angie Ng, Head of Customer Relations Centre</h5>
-	
-<div class="row">
-    <div class="col is-4">
-		<figure style="margin:0">
-			<img src="/images/images-2021/OurTeam/HOD_CRC_Angie.png" style="width:100%;">
-			<figcaption class="has-text-weight-bold" style="color:#0AD25A"> </figcaption>
-		</figure>
-	</div>
-	<div class="col is-8">
-<p>Angie is our retail operations expert, and co-author of several books focusing on excellence in retail operations. Combining this with her extensive experience in retail marketing from the Luxury, Food Service and FMCG sectors, Angie and her team support our learners in identifying their most pressing upskilling needs to excel in or progress from their roles, and even starting their very own business enterprises.</p>
-</div>
-</div>
-
-**Getting to know Angie**<br>Beneath a dimpled smile, and a picture of zen and quiet confidence is an energetic industry veteran unfazed by market turbulence and zealous in helping learners. Always raring to make a difference, Angie keeps up her vitality stepping up in her workouts (and probably never even breaking out in a bead of sweat). 
-
-**Angie ❤ SIRS**
-<br><i>“I enjoy working with every colleague and team at SIRS. Although each comes with a diverse personality and background, we just have this magical tacit agreement when we work together.”</i>
 
 <hr>
 
@@ -89,11 +68,11 @@ We believe that people are the greatest assets of any organisation, and it is no
 		</figure>
 	</div>
 	<div class="col is-8">
-<p>Karen is our whiz at SIRS when it comes to getting things organised and running full steam ahead. With over 20 years in both the Public and Private sectors, she brings a wealth of experience managing a broad scope of operations and administrative initiatives. At SIRS, Karen’s primary focus is to ensure a well-oiled process of efficiency and effectiveness for our learners and corporate partners in reaping the value of their interactions with us. Working with our Business Development, Customer Relations and Programmes teams, Karen oversees SIRS’ office administration & operations including facilities & IT, as well as adult learners’ administration and finance related matters.</p>
+<p>Karen is our whiz at SIRS when it comes to getting things organised and running full steam ahead. With over 20 years in both the Public and Private sectors, she brings a wealth of experience managing a broad scope of operations and administrative initiatives. At SIRS, Karen’s primary focus is to ensure a well-oiled process of efficiency and effectiveness for our learners and corporate partners in reaping the value of their interactions with us.&nbsp;Working with our Business Development, Customer Relations and Programmes teams, Karen oversees SIRS’ office administration &amp; operations including facilities &amp; IT, as well as adult learners’ administration and finance related matters.</p>
 </div>
 </div>
 
-**Getting to know Karen**<br>A gentle and demure disposition belies a steely focus and confident  gatekeeping. Karen is a true disciplinarian at work and a free spirit at play. Catch her at the right time to experience the best of both worlds! 
+**Getting to know Karen**<br>A gentle and demure disposition belies a steely focus and confident &nbsp;gatekeeping. Karen is a true disciplinarian at work and a free spirit at play. Catch her at the right time to experience the best of both worlds! 
 
 **Karen ❤ SIRS**
 <br><i>“While SIRS is a stat board, we work like a corporate entity with agility and dynamism.”</i>
