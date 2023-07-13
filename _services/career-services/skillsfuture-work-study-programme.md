@@ -4,9 +4,9 @@ permalink: /services/career-services/skillsfuture-work-study-programmes/
 breadcrumb: SkillsFuture Work-Study Programme
 third_nav_title: Career Services
 ---
-<img src="/images/images-2021/Services_CareerServices_SkillsFuture Work-Study2.png" style="width:100%;">
+![Image of SkillsFuture Work-Study Programme - Achieve the best of both worlds](/images/images-2021/services-careerservices-skillsfuture%20work-study2.png)
 
-<p>The SkillsFuture Work-Study Programme gives fresh graduates from polytechnics and the Institute of Technical Education (ITE) a head-start in careers related to their discipline of study. It provides them with more opportunities, after graduation, to build on the skills and knowledge they acquired in school, and better supports their transition into the workforce.</p>
+<p>The SkillsFuture Work-Study Programme (WSP) provides opportunities for the Polytechnic or Institute of Technical Education (ITE) fresh graduates to gain industry-relevant experience and skills while pursuing a Certificate or Post-Diploma through a work-study arrangement. Get a head-start in your retail career as you deepen your skills and acquire relevant work experience while earning a competitive starting salary.</p>
 
 <h4>For Poly Graduates</h4>
 <b>Work-Study Post-Diploma – WSQ Specialist Diploma in Retail (Operations)</b>
@@ -14,7 +14,6 @@ third_nav_title: Career Services
   <li>A head-start in your Degree pursuit, enrol for 2 modules under SUSS Bachelor of Science in Marketing</li>
   <li>Fast track progression to managerial positions*</li>
   <li>$5,000 sign-on bonus for Singapore Citizens*</li>
-  <li>Guaranteed minimum salary of $2,000</li>
   </ul>
   
 <h4>For ITE Graduates</h4>
@@ -23,7 +22,6 @@ third_nav_title: Career Services
   <li>A head-start in your Diploma pursuit, enrol for 2 modules under NYP Diploma in Business Practice (CRM)</li>
   <li>Fast track progression to supervisory positions*</li>
   <li>$5,000 sign-on bonus for Singapore Citizens*</li>
-  <li>Guaranteed minimum salary of $1,400 - $1,600</li>
   </ul>
 
 <p style="font-size:10">*Terms and conditions apply</p>
