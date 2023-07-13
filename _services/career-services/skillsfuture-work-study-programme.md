@@ -4,7 +4,7 @@ permalink: /services/career-services/skillsfuture-work-study-programmes/
 breadcrumb: SkillsFuture Work-Study Programme
 third_nav_title: Career Services
 ---
-<img src="/images/images-2021/Services_CareerServices_SkillsFuture Work-Study Programme.png" style="width:100%;">
+<img src="/images/images-2021/Services_CareerServices_SkillsFuture Work-Study2.png" style="width:100%;">
 
 <p>The SkillsFuture Work-Study Programme gives fresh graduates from polytechnics and the Institute of Technical Education (ITE) a head-start in careers related to their discipline of study. It provides them with more opportunities, after graduation, to build on the skills and knowledge they acquired in school, and better supports their transition into the workforce.</p>
 
