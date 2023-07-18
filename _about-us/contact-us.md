@@ -11,16 +11,16 @@ breadcrumb: Contact SIRS
 Lifelong Learning Institute, #08-02/03<br>
 Singapore 408601<br>
 
-<p>Nearest MRT: Paya Lebar MRT<br></p>
+</p><p>Nearest MRT: Paya Lebar MRT<br></p>
 <p><a href="https://www.google.com/maps/dir/1.3198688,103.89251/1.3196896,103.8924922/@1.3191312,103.8928854,16.73z?hl=en">Find Directions</a></p>
 
-<h4>General Enquiries & Feedback</h4>
+<h4>General Enquiries &amp; Feedback</h4>
 
-<p>Contact Customer Relations Centre via call (+65) 6222 7477, WhatsApp (+65) 9223 2979 or email <a href = "mailto: courses@sirs.edu.sg">courses@sirs.edu.sg</a></p>
+<p>Contact Customer Relations Centre via call (+65) 6222 7477, WhatsApp (+65) 9223 2979 or email <a href="mailto: courses@sirs.edu.sg">courses@sirs.edu.sg</a></p>
 
-<h4>Corporate Trainings, Partnerships & Customised Solutions</h4>
+<h4>Corporate Training, Partnerships &amp; Customised Solutions</h4>
 
-<p>Contact Business Development via email: <a href = "mailto: upskill@sirs.edu.sg">upskill@sirs.edu.sg</a></p>
+<p>Contact Business Development via email: <a href="mailto: upskill@sirs.edu.sg">upskill@sirs.edu.sg</a></p>
 
 <h4>Operating Hours</h4>
 
