@@ -53,8 +53,8 @@ CEO Master Programme<br>
 <li>Introduction to the Alibaba ecosystem, corporate culture and core values</li>
 <li>Site visit to Alibaba Campus</li>
 <li>Five new key strategies of Taobao and Tmall</li>
-<li>China’s E-commerce development: Stages, current state and future trends</li>
-<li>Digital Transformation of SMEs: How to sell, operate &amp; manage your business digitally</li>
+<li>China’s e-commerce development: Stages, current state and future trends</li>
+<li>Digital transformation of SMEs: How to sell, operate &amp; manage your business digitally</li>
 <li>Visit Cainiao Smart Logistics Warehouse</li>
   </ul>
 
