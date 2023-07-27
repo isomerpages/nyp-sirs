@@ -55,7 +55,7 @@ CEO Master Programme<br>
 <li>Five new key strategies of Taobao and Tmall</li>
 <li>China’s e-commerce development: Stages, current state and future trends</li>
 <li>Digital transformation of SMEs: How to sell, operate &amp; manage your business digitally</li>
-<li>Visit Cainiao Smart Logistics Warehouse</li>
+<li>Visit Cainiao Smart Logistics Warehouse/Alipay</li>
   </ul>
 
 <b>Day 3</b><br>
