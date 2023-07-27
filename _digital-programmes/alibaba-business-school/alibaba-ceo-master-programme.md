@@ -26,9 +26,11 @@ CEO Master Programme<br>
 
 <b>This programme will be conducted in Mandarin.</b>
 
-<p>Presented by Alibaba Business School, SIRS invites you to join us on a journey to the birthplace of 'New Retail', envisioned by Jack Ma, which has remodelled traditional retail into successful businesses such as the renowned Hema Fresh. Experts from Alibaba will walk you through the journey of 'New Retail' from understanding the origin and ecosystem to learning how you too can apply and transform your business.</p>
+<p>Presented by Alibaba Business School, the Singapore Institute of Retail Studies (SIRS) invites you to join us on an extraordinary journey to the birthplace of ‘New Retail’, envisioned by Jack Ma. Embark on a transformative adventure into the heart of China’s dynamic e-commerce space with the industry leader, Alibaba, as your guide.</p>
 
-<p>Expand your knowledge and create your retail success! Each run is limited to 40 pax only and confirmation is upon successful payment. Upon completion of the programme, participants will receive a highly valued Alibaba University graduate certificate jointly awarded by Alibaba Business School and Singapore Institute of Retail Studies.</p>
+<p>This all-encompassing and immersive study trip offers a golden opportunity to fast-track your business success. Dive into the forefront of China e-commerce and live-commerce market, gaining valuable insights into the future trends while exploring Alibaba’s pioneering strategies and innovative ventures. Learn to harness the power of big data for market analysis, formulate effective strategies, and make informed business decisions. Leverage Alibaba’s extensive network of connections to elevate your e-commerce expertise, expand your business regionally, and seize new opportunities for sustainable growth in this ever-evolving digital world.</p>
+
+<p>Upon completion of the programme, you will receive a highly valued Alibaba University graduate certificate jointly awarded by Alibaba Business School and SIRS. Secure your spot now and set yourself on the path to thrive in the future of e-commerce!</p>
 
 <b>这课程将由淘宝大学认证讲师以中文授课!</b>
 
