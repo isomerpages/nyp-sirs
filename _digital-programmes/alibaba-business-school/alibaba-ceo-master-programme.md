@@ -206,7 +206,7 @@ CEO Master Programme<br>
 
 <center>
   <b>All fees include :</b><br>
-Accommodation, meals &amp; local transfers (6D5N)<br>
+Accommodation and local transfers (7D6N)<br>
   <b>All fees exclude :</b> <br>
 Airfare<br>
 Visa for travel to China<br>
