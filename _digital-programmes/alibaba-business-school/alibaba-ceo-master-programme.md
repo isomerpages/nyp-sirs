@@ -44,55 +44,62 @@ CEO Master Programme<br>
 <b>Day 1</b><br>
 <b>Depart Singapore to Hangzhou, China</b>
 <ul>
-<li>Check in Hotel</li>
+<li>Check in hotel</li>
   </ul>
 
 <b>Day 2</b><br>
-<b>Alibaba’s New Retail Experiential Tour</b>
+<b>Overview of China’s ECommerce Landscape &amp; Digital Transformation</b>
 <ul>
-<li>Visit Alibaba Binjiang campus and experience Alibaba Big Data Global Transaction Console</li>
-<li>Site visit to Alibaba Global HQ: Alibaba West Stream Campus</li>
-<li>Visit &amp; dine at Alibaba’s FlyZoo Hotel</li>
-<li>Site visit to Alimall and Hema Fresh</li>
-<li>Introduction to Alibaba ecosystem</li>
-<li>Meals provided: Breakfast/Lunch/Dinner</li>
+<li>Introduction to the Alibaba ecosystem, corporate culture and core values</li>
+<li>Site visit to Alibaba Campus</li>
+<li>Five new key strategies of Taobao and Tmall</li>
+<li>China’s E-commerce development: Stages, current state and future trends</li>
+<li>Digital Transformation of SMEs: How to sell, operate &amp; manage your business digitally</li>
+<li>Visit Cainiao Smart Logistics Warehouse</li>
   </ul>
 
 <b>Day 3</b><br>
-<b>The Strategic Transformation of New Retail Era</b>
+<b>Data-Driven New Growth</b>
 <ul>
-<li>The origin of New Retail</li>
-<li>Deep dive into the eco-system &amp; scenario of New Retail</li>
-<li>Discover the New Persona, New Product and New Organisation</li>
-<li>Reconstruct the New Retail "Persona, Product, Place, Profit"</li>
-<li>Discussion: Canvas planning for individual New Retail business</li>
-<li>Meals provided: Breakfast/Lunch/Dinner</li>
+<li>Learn how to operate a data-driven online business by analysing market opportunities and devising e-commerce strategiesl</li>
+<li>Leverage big data for product selection and innovation</li>
+<li>Accelerate your online business success by&nbsp;selecting the right online platforms, optimizing your team structure through data-driven methods, and improving conversion rates using practical tools and real-life case studies</li>
+<li>Visit intelligent manufacturing companies</li>
   </ul>
 
 <b>Day 4</b><br>
-<b>New Retail Organisation Transformation &amp; Talent Development</b>
+<b>Branding &amp; Marketing</b>
 <ul>
-<li>Strategic New Retail transformation trend</li>
-<li>The force -organisation and talent development</li>
-<li>New Retail management &amp; structural change</li>
-<li>New Retail staff competency map, grooming and motivation/reward systems</li>
-<li>Discussion: Individual business organisation change &amp; talent development</li>
-<li>Meals provided: Breakfast/Lunch/Dinner</li>
+<li>Explore the how branding works in the digital context, focusing on accurate content creation and target audience analysis</li>
+<li>Understand the business value of social media</li>
+<li>Select the ideal platform using AIPL, and develop initial planning for social media accounts</li>
+<li>How to practice creative thinking for content marketing</li>
+<li>Understand the connection between community marketing and content marketing</li>
   </ul>
 
 <b>Day 5</b><br>
-<b>Marketing Transformation in a New Retail Era</b>
+<b>Live-commerce Industry</b>
 <ul>
-<li>New Marketing phenomenon – methods to recognize, reach new retail consumers</li>
-<li>Consumer insights: Limitations of consumer insights in traditional marketing and integration of online and offline consumer assets during a new retail era</li>
-<li>Reaching consumers in a comprehensive manner</li>
-<li>Meals provided: Breakfast/Lunch</li>
+<li>Introduction to China's live-commerce development through essential figures and facts, key players, and understanding the industry chain</li>
+<li>Understand the different types of live-commerce (through KOL or hosted by your own brand)</li>
+<li>Get insights into new trends of live-commerce (AI applications, entertainment-oriented)</li>
+<li>Understand the live-commerce industry in SEA</li>
+<li>Visit to MCNs (Multi-channel Networks) and top e-commerce companies</li>
+  </ul>
+	
+<b>Day 6</b><br>
+<b>User Operations Optimisation</b>
+<ul>
+<li>Understanding Consumer Lifetime Value Management (CLVM)</li>
+<li>Closed loop approach for user operations</li>
+<li>Analysis of development trends</li>
+<li>Sharing of business plans</li>
   </ul>
 
-<b>Day 6</b><br>
+<b>Day 7</b><br>
 <b>Depart Hangzhou, China to Singapore</b>
 <ul>
-<li>Meals provided: Breakfast</li>
+<li>Check-out hotel</li>
   </ul>
 
 <h4>Fees</h4>
