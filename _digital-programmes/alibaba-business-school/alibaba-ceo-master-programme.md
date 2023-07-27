@@ -8,13 +8,13 @@ third_nav_title: Alibaba Business School
 
 <img src="images/alibaba-business-school/alibaba-ceo-master-programme.JPG" style="width:100%;">
 
-<center>6-day Strategic Transformation into 'New Retail'<br>
+<center>Beyond Borders: Unravelling the Future of E-Commerce with Alibaba<br>
 CEO Master Programme<br>
-(6D5N Study Trip — Hangzhou)</center>
+(7D6N Study Trip — Hangzhou)</center>
 
 <center>新零售时代的战略转型<br>
 高级总裁班 — 升级版<br>
-(6天5夜考察之旅 — 杭州)</center>
+(7天6夜考察之旅 — 杭州)</center>
 
 <h4 style="text-align:center;">Next intake:</h4>
 
