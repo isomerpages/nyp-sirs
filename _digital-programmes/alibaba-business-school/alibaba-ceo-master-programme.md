@@ -95,6 +95,15 @@ CEO Master Programme<br>
 <li>Analysis of development trends</li>
 <li>Sharing of business plans</li>
   </ul>
+	
+<h4>行程</h4>
+
+<b>第一天</b><br>
+<b>从新加坡飞往杭州，中国</b>
+<ul>
+<li>入住酒店
+</li>
+  </ul>
 
 <b>Day 7</b><br>
 <b>Depart Hangzhou, China to Singapore</b>
