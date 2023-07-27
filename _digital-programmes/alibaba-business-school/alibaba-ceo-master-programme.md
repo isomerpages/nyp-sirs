@@ -44,7 +44,7 @@ CEO Master Programme<br>
 <b>Day 1</b><br>
 <b>Depart Singapore to Hangzhou, China</b>
 <ul>
-<li>Check in hotel</li>
+<li>Check-in hotel</li>
   </ul>
 
 <b>Day 2</b><br>
