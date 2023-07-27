@@ -48,7 +48,7 @@ CEO Master Programme<br>
   </ul>
 
 <b>Day 2</b><br>
-<b>Overview of China’s ECommerce Landscape &amp; Digital Transformation</b>
+<b>Overview of China’s E-Commerce Landscape &amp; Digital Transformation</b>
 <ul>
 <li>Introduction to the Alibaba ecosystem, corporate culture and core values</li>
 <li>Site visit to Alibaba Campus</li>
