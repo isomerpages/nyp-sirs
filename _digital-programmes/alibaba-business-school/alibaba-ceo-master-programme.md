@@ -8,160 +8,166 @@ third_nav_title: Alibaba Business School
 
 <img src="images/alibaba-business-school/alibaba-ceo-master-programme.JPG" style="width:100%;">
 
-<center>6-day Strategic Transformation into 'New Retail'<br>
+<center>Beyond Borders: Unravelling the Future of E-Commerce with Alibaba<br>
 CEO Master Programme<br>
-(6D5N Study Trip — Hangzhou)</center>
+(7D6N Study Trip — Hangzhou)</center>
 
-<center>新零售时代的战略转型<br>
+<center>超越国界：与阿里巴巴一起揭开电子商务的未来<br>
 高级总裁班 — 升级版<br>
-(6天5夜考察之旅 — 杭州)</center>
+(7天6夜考察之旅 — 杭州)</center>
 
 <h4 style="text-align:center;">Next intake:</h4>
 
 <center><table style="width:80%;">
     <tbody><tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">To be confirmed</td>
+      <td style="text-align:center;width:50%;">3 - 9 Sep 2023</td>
     </tr> 
 </tbody></table></center>
 
 <b>This programme will be conducted in Mandarin.</b>
 
-<p>Presented by Alibaba Business School, SIRS invites you to join us on a journey to the birthplace of 'New Retail', envisioned by Jack Ma, which has remodelled traditional retail into successful businesses such as the renowned Hema Fresh. Experts from Alibaba will walk you through the journey of 'New Retail' from understanding the origin and ecosystem to learning how you too can apply and transform your business.</p>
+<p>Presented by Alibaba Business School, the Singapore Institute of Retail Studies (SIRS) invites you to join us on an extraordinary journey to the birthplace of ‘New Retail’, envisioned by Jack Ma. Embark on a transformative adventure into the heart of China’s dynamic e-commerce space with the industry leader, Alibaba, as your guide.</p>
 
-<p>Expand your knowledge and create your retail success! Each run is limited to 40 pax only and confirmation is upon successful payment. Upon completion of the programme, participants will receive a highly valued Alibaba University graduate certificate jointly awarded by Alibaba Business School and Singapore Institute of Retail Studies.</p>
+<p>This all-encompassing and immersive study trip offers a golden opportunity to fast-track your business success. Dive into the forefront of China e-commerce and live-commerce market, gaining valuable insights into the future trends while exploring Alibaba’s pioneering strategies and innovative ventures. Learn to harness the power of big data for market analysis, formulate effective strategies, and make informed business decisions. Leverage Alibaba’s extensive network of connections to elevate your e-commerce expertise, expand your business regionally, and seize new opportunities for sustainable growth in this ever-evolving digital world.</p>
 
-<b>这课程将由淘宝大学认证讲师以中文授课!</b>
+<p>Upon completion of the programme, you will receive a highly valued Alibaba University graduate certificate jointly awarded by Alibaba Business School and SIRS. Secure your spot now and set yourself on the path to thrive in the future of e-commerce!</p>
 
-<p>由阿里巴巴商学院主办，SIRS 邀请您加入我们的考察之旅，直接与阿里巴巴接触和体验阿里巴巴集团的“新零售”吸取新知识。阿里巴巴认证讲师将以中文讲解，让您了解大数据分析如何改变零售环境，以及如何将这些策略应用于您的业务。 您还将有难得的机会亲临阿里巴巴新零售地点，拜访阿里巴巴总部，深入了解专家们的体验及给予您的建议。</p>
+<b>课程将由淘宝教育认证讲师以中文授课！</b>
 
-<p>千万不要错过这一个难得的机会，重塑您的零售业务，取得成功！每一次的考察之旅只限40位成功付款的学员参加。完成课程后的学员将获得由阿里巴巴商学院和新加坡零售管理学员所颁发的阿里巴巴大学毕业证书。</p>
+<p>由阿里巴巴商学院主办，SIRS 邀请您加入我们的考察之旅，直接与阿里巴巴接触和体验阿里巴巴集团的“新零售”吸取新知识。这趟考察之旅将帮助您全面了解中国电商市场，深入了解阿里巴巴在电商领域的新兴举措和优秀成果，让您在瞬息万变的商业环境中把握新机遇，实现业务增长。</p>
 
-<h4>Highlights</h4>
-<ul>
-  <li>Learn from Alibaba certified trainers</li>
-<li>Visit &amp; dine at Alibaba’s FlyZoo Hotel</li>
-<li>Networking at Alibaba HQ</li>
-<li>Guided tour in Hema Fresh</li>
-</ul>
+<p>千万不要错过这一个难得的机会，重塑您的零售业务，取得成功！完成课程后的学员将获得由阿里巴巴商学院和新加坡零售管理学员所颁发的阿里巴巴大学毕业证书。</p>
 
-<h4>亮点</h4>
-<ul>
-  <li>课程将由阿里巴巴证讲师以中文授课</li>
-<li>阿里巴巴集团菲住布渴酒店黑科技参观及用餐</li>
-<li>到访阿里巴巴总部</li>
-<li>参访盒马鲜生</li>
-</ul>
 
 <h4>Itinerary</h4>
 
 <b>Day 1</b><br>
 <b>Depart Singapore to Hangzhou, China</b>
 <ul>
-<li>Check in Hotel</li>
+<li>Check-in hotel</li>
   </ul>
 
 <b>Day 2</b><br>
-<b>Alibaba’s New Retail Experiential Tour</b>
+<b>Overview of China’s E-Commerce Landscape &amp; Digital Transformation</b>
 <ul>
-<li>Visit Alibaba Binjiang campus and experience Alibaba Big Data Global Transaction Console</li>
-<li>Site visit to Alibaba Global HQ: Alibaba West Stream Campus</li>
-<li>Visit &amp; dine at Alibaba’s FlyZoo Hotel</li>
-<li>Site visit to Alimall and Hema Fresh</li>
-<li>Introduction to Alibaba ecosystem</li>
-<li>Meals provided: Breakfast/Lunch/Dinner</li>
+<li>Introduction to the Alibaba ecosystem, corporate culture and core values</li>
+<li>Site visit to Alibaba Campus</li>
+<li>Five new key strategies of Taobao and Tmall</li>
+<li>China’s e-commerce development: Stages, current state and future trends</li>
+<li>Digital transformation of SMEs: How to sell, operate &amp; manage your business digitally</li>
+<li>Visit Cainiao Smart Logistics Warehouse/Alipay</li>
   </ul>
 
 <b>Day 3</b><br>
-<b>The Strategic Transformation of New Retail Era</b>
+<b>Data-Driven New Growth</b>
 <ul>
-<li>The origin of New Retail</li>
-<li>Deep dive into the eco-system &amp; scenario of New Retail</li>
-<li>Discover the New Persona, New Product and New Organisation</li>
-<li>Reconstruct the New Retail "Persona, Product, Place, Profit"</li>
-<li>Discussion: Canvas planning for individual New Retail business</li>
-<li>Meals provided: Breakfast/Lunch/Dinner</li>
+<li>Learn how to operate a data-driven online business by analysing market opportunities and devising e-commerce strategiesl</li>
+<li>Leverage big data for product selection and innovation</li>
+<li>Accelerate your online business success by&nbsp;selecting the right online platforms, optimizing your team structure through data-driven methods, and improving conversion rates using practical tools and real-life case studies</li>
+<li>Visit intelligent manufacturing companies</li>
   </ul>
 
 <b>Day 4</b><br>
-<b>New Retail Organisation Transformation &amp; Talent Development</b>
+<b>Branding &amp; Marketing</b>
 <ul>
-<li>Strategic New Retail transformation trend</li>
-<li>The force -organisation and talent development</li>
-<li>New Retail management &amp; structural change</li>
-<li>New Retail staff competency map, grooming and motivation/reward systems</li>
-<li>Discussion: Individual business organisation change &amp; talent development</li>
-<li>Meals provided: Breakfast/Lunch/Dinner</li>
+<li>Explore the how branding works in the digital context, focusing on accurate content creation and target audience analysis</li>
+<li>Understand the business value of social media</li>
+<li>Select the ideal platform using AIPL, and develop initial planning for social media accounts</li>
+<li>How to practice creative thinking for content marketing</li>
+<li>Understand the connection between community marketing and content marketing</li>
   </ul>
 
 <b>Day 5</b><br>
-<b>Marketing Transformation in a New Retail Era</b>
+<b>Live-commerce Industry</b>
 <ul>
-<li>New Marketing phenomenon – methods to recognize, reach new retail consumers</li>
-<li>Consumer insights: Limitations of consumer insights in traditional marketing and integration of online and offline consumer assets during a new retail era</li>
-<li>Reaching consumers in a comprehensive manner</li>
-<li>Meals provided: Breakfast/Lunch</li>
+<li>Introduction to China's live-commerce development through essential figures and facts, key players, and understanding the industry chain</li>
+<li>Understand the different types of live-commerce (through KOL or hosted by your own brand)</li>
+<li>Get insights into new trends of live-commerce (AI applications, entertainment-oriented)</li>
+<li>Understand the live-commerce industry in SEA</li>
+<li>Visit to MCNs (Multi-channel Networks) and top e-commerce companies</li>
   </ul>
-
+	
 <b>Day 6</b><br>
+<b>User Operations Optimisation</b>
+<ul>
+<li>Understanding Consumer Lifetime Value Management (CLVM)</li>
+<li>Closed loop approach for user operations</li>
+<li>Analysis of development trends</li>
+<li>Sharing of business plans</li>
+  </ul>
+	
+<b>Day 7</b><br>
 <b>Depart Hangzhou, China to Singapore</b>
 <ul>
-<li>Meals provided: Breakfast</li>
+<li>Check-out hotel</li>
   </ul>
+	
+<h4>行程</h4>
 
-<h4>日程</h4>
-  
 <b>第一天</b><br>
 <b>从新加坡飞往杭州，中国</b>
 <ul>
 <li>入住酒店</li>
   </ul>
-
+	
 <b>第二天</b><br>
-<b>阿里巴巴新零售体验之旅</b>
+<b>中国电商与数字化转型</b>
 <ul>
-<li>参观滨江园区，观摩数据大屏</li>
-<li>阿里巴巴西溪园区（全球总部）访客中心参观</li>
-<li>阿里巴巴集团菲住布渴酒店黑科技参观及用餐</li>
-<li>阿里巴巴新零售商场- 亲橙里 (Alimall) 参观 &amp; 盒马鲜生体验</li>
-<li>阿里生态平台介绍</li>
-<li>提供餐食：早/午/晚餐</li>
+<li>阿里巴巴生态全景解说， 阿里文化及核心价值观</li>
+<li>参观阿里巴巴园区</li>
+<li>淘天五大战略</li>
+<li>阿里1+6+N组织架构</li>
+<li>中国电商发展历程；主要发展阶段，当前发展全貌，未来发展趋势</li>
+<li>中小商家数字化转型：数字化销售， 数字化运营， 数字化管理</li>
+<li>参观菜鸟大仓/支付宝</li>
   </ul>
-  
+	
 <b>第三天</b><br>
-<b>新零售时代的战略变革</b>
+<b>数据驱动新增长</b>
 <ul>
-<li>新零售的前世今生</li>
-<li>解析万物生长的局势及新零售场景</li>
-<li>新零售—新用户、新产品、新组织</li>
-<li>新零售的"人、货、场、利"重构</li>
-<li>企业自身的新零售商业画布分析</li>
-<li>提供餐食：早/午/晚餐</li>
+<li>数据驱动电商经营</li>
+<li>市场与商机分析</li>
+<li>电商核心布局（产品，流量，团队，转化）</li>
+<li>基于大数据的产品选择与创新</li>
+<li>快速通过电商拿结果： 线上平台选择和流量获取， 高人效团队打造和数据化管理， 转化率提升和实用工具分享</li>
+<li>参观头部智能制造企业</li>
   </ul>
-  
+	
 <b>第四天</b><br>
-<b>新零售时代的组织变革与人才发展</b>
+<b>品牌与市场营销</b>
 <ul>
-<li>新零售时代的企业战略变革趋势—“人、货、场、利”</li>
-<li>组织与人才发展是新零售战略变革的原驱力</li>
-<li>新零售时代的组织能力与组织架构变革</li>
-<li>新零售时代的员工能力模型、培养体系和激励体系</li>
-<li>研讨：本企业的新零售组织变革与人才发展</li>
-<li>提供餐食：早/午/晚餐</li>
+<li>将市场机遇转化为数字时代的品牌理念</li>
+<li>正确定义品牌营销工作准则</li>
+<li>数字化背景下的品牌化思考</li>
+<li>品牌精准定位下的内容创意与目标人群分析</li>
+<li>社交媒体营销的战略思维： 社交媒体的商业价值，社交媒体平台选择与AIPL模型，社交媒体起号规划</li>
+<li>内容营销的创意思考： 视频营销思维，内容营销和私域运营的关系</li>
   </ul>
-
+	
 <b>第五天</b><br>
-<b>新零售时代的营销变革</b>
+<b>直播电商产业</b>
 <ul>
-<li>新营销现象呈现多样化的新零售消费者识别方式、全域触达</li>
-<li>消费者洞察：传统营销在消费者洞查上的局限性及新零售时代线上线下消费者资产融合</li>
-<li>消费者全域触达</li>
-<li>提供餐食：早/午餐</li>
+<li>中国直播电商发展历程； 体量与现状，主要生态玩家，直播产业链</li>
+<li>直播电商类型：达人直播，品牌自播</li>
+<li>直播电商新趋势： AI直播，产业直播基地，娱乐化带货</li>
+<li>东南亚跨境直播现状</li>
+<li>参观MCN直播机构</li>
+<li>参观头部电商企业</li>
   </ul>
-
+	
 <b>第六天</b><br>
+<b>用户运营</b>
+<ul>
+<li>消费者全周期价值管理</li>
+<li>用户运营的全链路闭环</li>
+<li>发展趋势分析</li>
+<li>项目总结：核心内容回顾，商业计划书分享，咨询与解答</li>
+  </ul>
+	
+<b>第七天</b><br>
 <b>从杭州，中国往回新加坡</b>
 <ul>
-<li>提供餐食：早餐</li>
+<li>酒店退房</li>
   </ul>
 
 <h4>Fees</h4>
@@ -204,7 +210,7 @@ CEO Master Programme<br>
 
 <center>
   <b>All fees include :</b><br>
-Accommodation, meals &amp; local transfers (6D5N)<br>
+Accommodation and local transfers (7D6N)<br>
   <b>All fees exclude :</b> <br>
 Airfare<br>
 Visa for travel to China<br>
