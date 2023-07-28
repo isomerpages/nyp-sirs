@@ -20,7 +20,7 @@ CEO Master Programme<br>
 
 <center><table style="width:80%;">
     <tbody><tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">3 - 9 Sep 2023</td>
+      <td style="text-align:center;width:50%;">10 - 16 Sep 2023</td>
     </tr> 
 </tbody></table></center>
 
