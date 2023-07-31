@@ -4,7 +4,7 @@ permalink: /digital-programmes/alibaba-business-school/alibaba-content-marketing
 breadcrumb: Alibaba Content Marketing Programme
 third_nav_title: Alibaba Business School
 ---
-<img src="images/agcs-abs-sirs-atu-combined-logos.png" style="width:100%:">
+![](/images/images-2021/agcs_abs_sirs_ate_colour.png)
 
 <img src="images/alibaba-business-school/aliaba-content-marketing-programme.jpg" style="width:100%;">
 
