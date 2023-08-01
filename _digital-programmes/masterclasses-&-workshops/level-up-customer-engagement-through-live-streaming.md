@@ -15,7 +15,7 @@ third_nav_title: Masterclasses & Workshops
     </tr>
     <tr style="text-align:center;">
       <td style="text-align:center;width:50%;">26-27 Oct (Thu-Fri)</td>
-      <td style="text-align:center;width:50%;">22-23 Aug (Tue-Wed)</td>
+      <td style="text-align:center;width:50%;">22-23 Aug (Tue-Wed)<br>6-7 Dec (Wed-Thu)</td>
     </tr>
 </tbody></table></center>
 
