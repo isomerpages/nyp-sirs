@@ -14,7 +14,7 @@ third_nav_title: Masterclasses & Workshops
       <th style="text-align:center;width:50%;">Face-to-Face</th>
     </tr>
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">14-15 Sep (Thu-Fri) </td>
+      <td style="text-align:center;width:50%;">14-15 Sep (Thu-Fri)<br>4-5 Dec (Mon-Tue)</td>
     </tr>
 </tbody></table></center>
 

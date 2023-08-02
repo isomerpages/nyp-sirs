@@ -14,7 +14,7 @@ third_nav_title: SkillsFuture Series
       <th style="text-align:center;width:50%;">Face-to-Face</th>
     </tr>
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">17 Aug (Thu)</td>
+      <td style="text-align:center;width:50%;">17 Aug (Thu)<br>15 Nov (Wed)</td>
       <td style="text-align:center;width:50%;">To be confirmed</td>
     </tr>
 </tbody></table></center>

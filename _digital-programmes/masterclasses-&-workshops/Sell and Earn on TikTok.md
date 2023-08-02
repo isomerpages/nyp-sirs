@@ -14,7 +14,7 @@ third_nav_title: Masterclasses & Workshops
       <th style="text-align:center;width:50%;">Face-to-Face</th>
     </tr>
     <tr style="text-align:center;">
-      <td style="text-align:center;width:50%;">28 July (Fri)<br>25 Aug (Fri)<br>29 Sep (Fri)<br>27 Oct (Fri)</td>
+      <td style="text-align:center;width:50%;">25 Aug (Fri)<br>29 Sep (Fri)<br>27 Oct (Fri)<br>24 Nov (Fri)<br>13 Dec (Wed) </td>
     </tr>
 </tbody></table></center>
 

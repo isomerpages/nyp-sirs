@@ -4,11 +4,11 @@ permalink: /digital-programmes/alibaba-business-school/
 breadcrumb: Overview
 third_nav_title: Alibaba Business School
 ---
-<img src="images/agcs-abs-sirs-atu-combined-logos.png" style="width:100%:">
+![](/images/images-2021/agcs_abs_sirs_ate_colour.png)
 
 <img src="images/alibaba-business-school/alibaba-business-school.jpg" style="width:100%:">
 
-<p>The signing of the Training Cooperation Agreement between Alibaba Group’s Taobao Education (Previously known as Taobao University) and SIRS in Nov 2016 has brought about a suite of cutting edge programmes on digital excellence made available for the first time to Singapore retailers. The programmes are customised to Singapore’s context by SIRS’ strong practitioner team with many years of retail & service experience and strong understanding of the local & international retail scene.  With this cooperation, retailers can look forward to learning from the world leader on business digitalisation and building a stronger foothold in the digital retail landscape.</p>
+<p>The signing of the Training Cooperation Agreement between Alibaba Group’s Taobao Education (Previously known as Taobao University) and SIRS in Nov 2016 has brought about a suite of cutting edge programmes on digital excellence made available for the first time to Singapore retailers. The programmes are customised to Singapore’s context by SIRS’ strong practitioner team with many years of retail &amp; service experience and strong understanding of the local &amp; international retail scene.  With this cooperation, retailers can look forward to learning from the world leader on business digitalisation and building a stronger foothold in the digital retail landscape.</p>
 
 <h3>SIRS - Alibaba Business School Programmes</h3>
 

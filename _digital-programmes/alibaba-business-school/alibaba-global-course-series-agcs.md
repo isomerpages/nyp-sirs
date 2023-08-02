@@ -4,7 +4,7 @@ permalink: /digital-programmes/alibaba-business-school/alibaba-global-course-ser
 breadcrumb: Alibaba Global Course series
 third_nav_title: Alibaba Business School
 ---
-<img src="images/agcs-abs-sirs-atu-combined-logos.png" style="width:100%:">
+![](/images/images-2021/agcs_abs_sirs_ate_colour.png)
 
 <h4>Past Highlights</h4>
 

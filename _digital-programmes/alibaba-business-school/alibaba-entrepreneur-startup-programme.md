@@ -4,7 +4,7 @@ permalink: /digital-programmes/alibaba-business-school/alibaba-entrepreneur-star
 breadcrumb: Alibaba Entrepreneur Startup Programme
 third_nav_title: Alibaba Business School
 ---
-<img src="images/agcs-abs-sirs-atu-combined-logos.png" style="width:100%:">
+![](/images/images-2021/agcs_abs_sirs_ate_colour.png)
 
 <img src="images/alibaba-business-school/alibaba-esp.jpg" style="width:100%;">
 
