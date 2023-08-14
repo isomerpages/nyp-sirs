@@ -14,7 +14,7 @@ third_nav_title: WSQ Certified Modular Programmes
     </tr>
     <tr style="text-align:center;">
       <td style="text-align:center;width:50%;">To be confirmed</td>
-			 <td style="text-align:center;width:50%;">Night Class:<br> 9-11, 16-18, 23 &amp; 25 May<br>31 July, 2-3, 14, 16-17, 21, 23 Aug</td>
+			 <td style="text-align:center;width:50%;">To be confirmed</td>
     </tr>
 </tbody></table></center>
 
