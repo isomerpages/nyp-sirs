@@ -1,0 +1,114 @@
+collections:
+  digital-programmes:
+    output: true
+    order:
+      - overview.md
+      - alibaba-business-school/.keep
+      - alibaba-business-school/overview.md
+      - alibaba-business-school/alibaba-global-course-series-agcs.md
+      - alibaba-business-school/alibaba-ceo-programme.md
+      - alibaba-business-school/alibaba-ceo-master-programme.md
+      - alibaba-business-school/alibaba-managerial-elite-programme.md
+      - alibaba-business-school/alibaba-entrepreneur-startup-programme.md
+      - alibaba-business-school/alibaba-content-marketing-programme.md
+      - e-commerce-programmes/.keep
+      - e-commerce-programmes/overview.md
+      - e-commerce-programmes/amazon-global-selling-onboarding.md
+      - e-commerce-programmes/best-practices-of-e-commerce-transactions-esg-tr-76.md
+      - e-commerce-programmes/ebay-global-selling-onboarding.md
+      - e-commerce-programmes/getting-started-on-lazada-onboarding.md
+      - e-commerce-programmes/drive-sales-performance-on-lazada-marketing.md
+      - e-commerce-programmes/getting-started-on-qoo10-onboarding.md
+      - e-commerce-programmes/driving-sales-performance-on-qoo10-marketing.md
+      - e-commerce-programmes/getting-started-on-shopee-onboarding.md
+      - e-commerce-programmes/driving-sales-performance-on-shopee-marketing.md
+      - e-commerce-programmes/set-up-an-online-business.md
+      - joint-certification-programmes/.keep
+      - joint-certification-programmes/certified-digital-productivity-consultant.md
+      - joint-certification-programmes/professional-certificate-in-digital-retail-entertainment.md
+      - masterclasses-&-workshops/.keep
+      - masterclasses-&-workshops/overview.md
+      - masterclasses-&-workshops/3-steps-to-digitise-your-business.md
+      - masterclasses-&-workshops/Become a Successful YouTuber and Boost Your
+        Earnings.md
+      - masterclasses-&-workshops/Building an Effective Digital Personal Brand.md
+      - masterclasses-&-workshops/Business Intelligence to Improve Revenue.md
+      - masterclasses-&-workshops/CaseTrust Accreditation Scheme for E Commerce
+        Business.md
+      - masterclasses-&-workshops/category-management-the-key-to-business-growth.md
+      - masterclasses-&-workshops/Demystify Emerging Digital Technologies in the
+        New Retail Revolution.md
+      - masterclasses-&-workshops/differentiate-and-drive-growth-with-experience-innovation.md
+      - masterclasses-&-workshops/digital-commerce-operations.md
+      - masterclasses-&-workshops/digital-commerce-visual.md
+      - masterclasses-&-workshops/Digital Entrepreneurship in the Era of Cross
+        Border E Commerce Mastering Selling Strategies on.md
+      - masterclasses-&-workshops/Digital Marketing to Drive Business Growth and
+        ROI.md
+      - masterclasses-&-workshops/Digital Strategy & the 101 of Search Engine
+        Optimisation (SEO).md
+      - masterclasses-&-workshops/Digital Transformation with a New Mindset.md
+      - masterclasses-&-workshops/empower-your-business-with-social-commerce-digital-payment.md
+      - masterclasses-&-workshops/GA4 with Google Tag Manager (GTM).md
+      - masterclasses-&-workshops/Generate Leads for Free and Maximise Your
+        Sales Conversion.md
+      - masterclasses-&-workshops/google-analytics-ga-for-e-commerce-with-gaiq-certification.md
+      - masterclasses-&-workshops/Google Data Studio for Impactful Reporting
+        with Data Visualisation.md
+      - masterclasses-&-workshops/google-shopping-with-adwords-certified-professional-course.md
+      - masterclasses-&-workshops/Harness the Power of Social & Influencer
+        Marketing on TikTok.md
+      - masterclasses-&-workshops/Holistic Wellness for a Resilient You.md
+      - masterclasses-&-workshops/improve-customer-engagement-with-digital-mindset.md
+      - masterclasses-&-workshops/increase-business-revenue-through-search-engine-optimisation-seo.md
+      - masterclasses-&-workshops/Jumpstart and Grow Your Home Based Business.md
+      - masterclasses-&-workshops/level-up-customer-engagement-through-live-streaming.md
+      - masterclasses-&-workshops/master-facebook-marketing-for-business.md
+      - masterclasses-&-workshops/Master Google Ads to Turbo Charge Your Leads &
+        Sales.md
+      - masterclasses-&-workshops/Master Google to Boost Your Marketing and
+        Business ROI.md
+      - masterclasses-&-workshops/master-linkedin-for-sales-marketing.md
+      - masterclasses-&-workshops/Mint Your First Non Fungible Token (NFT) in
+        Top Marketplaces.md
+      - masterclasses-&-workshops/omni-commerce-retail.md
+      - masterclasses-&-workshops/Pivoting for Business Growth.md
+      - masterclasses-&-workshops/Power Up Your Content with Blockbuster
+        Bullets.md
+      - masterclasses-&-workshops/Responsive Website Design to Elevate Customer
+        Experience and Enhance Conversions.md
+      - masterclasses-&-workshops/Sell and Earn on TikTok.md
+      - "masterclasses-&-workshops/Shopify SEO: Drive Organic Traffic to Your
+        ECommerce Website.md"
+      - masterclasses-&-workshops/Smart Social Commerce.md
+      - masterclasses-&-workshops/Start Your Business at No Cost Using Affiliate
+        Marketing.md
+      - masterclasses-&-workshops/understanding-your-future-customers.md
+      - Mentorship Programmes/.keep
+      - Mentorship Programmes/Overview.md
+      - Mentorship Programmes/Digital Mentorship Programme (DMP) Overview.md
+      - Mentorship Programmes/DMP Boost Your Business with Social Commerce.md
+      - Mentorship Programmes/DMP Jumpstart Your Online Business.md
+      - Mentorship Programmes/Kickstart Conversational Commerce through WhatsApp
+        Mentorship Programme.md
+      - Mentorship Programmes/Visual Merchandising Mentorship Programme.md
+      - national-silver-academy/.keep
+      - national-silver-academy/overview.md
+      - national-silver-academy/using-whatsapp.md
+      - national-silver-academy/e-entertainment.md
+      - national-silver-academy/google-photos.md
+      - national-silver-academy/navigating-around-singapore.md
+      - national-silver-academy/facebook.md
+      - SkillsFuture-series/.keep
+      - SkillsFuture-series/overview.md
+      - SkillsFuture-series/basics-in-content-generation.md
+      - SkillsFuture-series/engage-customers-through-social-media.md
+      - SkillsFuture-series/fundamentals-to-starting-an-online-business.md
+      - SkillsFuture-series/introduction-to-data-analytics.md
+      - SkillsFuture-series/introduction-to-digital-marketing.md
+      - SkillsFuture-series/personal-online-branding.md
+      - SkillsFuture-series/Tapping into the Power of Instagram for Selling.md
+      - SkillsFuture-series/thrive-in-digital-disruption.md
+      - study-trips/.keep
+      - study-trips/overview.md
+      - study-trips/wechat-digital-immersion-programme.md

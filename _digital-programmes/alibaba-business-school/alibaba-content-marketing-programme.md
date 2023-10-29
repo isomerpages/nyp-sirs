@@ -1,0 +1,194 @@
+---
+title: Alibaba Content Marketing Programme
+permalink: /digital-programmes/alibaba-business-school/alibaba-content-marketing-programme/
+breadcrumb: Alibaba Content Marketing Programme
+third_nav_title: Alibaba Business School
+---
+![](/images/images-2021/agcs_abs_sirs_ate_colour.png)
+
+<img src="images/alibaba-business-school/aliaba-content-marketing-programme.jpg" style="width:100%;">
+
+<center>Alibaba Content Marketing Programme<br>
+Holistic Hands-on Content Marketing Techniques</center>
+
+<center>互联网商业营销班 - 内容营销<br>
+内容为王 - 成为新时代的内容营销精英</center>
+
+<h4 style="text-align:center;">Next intake:</h4>
+
+<center><table style="width:80%;">
+    <tbody><tr style="text-align:center;">
+      <td style="text-align:center;width:50%;"> To be confirmed</td>
+    </tr>
+</tbody></table></center>
+
+<b>This programme will be conducted in English or Mandarin.</b>
+
+<p>SIRS in partnership with Alibaba Business School, the official training arm of Alibaba Group, offers comprehensive and systematic training programmes to meet a full spectrum of learning needs of government groups, entrepreneurs, SMEs, startups, e-commerce practitioners and students.  </p>
+
+<p>The Content Marketing programme is designed for participants to learn the most efficient way to relate a brand story to target audiences, keeping them interested and engaged with meaningful videos that drive the right messages through different platforms. The knowledge and technical skills imparted will enable participants to connect with their online community, generate leads/customers, create brand awareness, establish a positive brand reputation and build customers’ trust and loyalty. </p>
+
+<p>Upon completion of the programme, participants will receive a certificate jointly awarded by Alibaba Business School and Singapore Institute of Retail Studies. </p>
+
+<b>这课程将由淘宝大学认证讲师以中文或英文授课!</b>
+
+<p>阿里巴巴商学院和新加坡南洋理工学院旗下新加坡零售管理学院合作，为新加坡企业带来一系列攸关电子商务实际操作与技能栽培课程，协助企业拓展核心能力并成功运用电子商务拓展营销与业务。</p>
+
+<p>在网络时代迅猛发展的大背景下，内容营销已成为许多企业必备的营销方式来做品牌传播。高质量的内容能使品牌脱颖而出，吸引潜在客户的关注并提高客户转化率。内容营销新策略，新玩法 - 学员将会学习如何创造高质量的内容来吸眼球、与在线社区球建立关系、发掘新客户、创建品牌知名度、建立品牌声誉并建立客户的信任。</p>
+
+<p>完成课程后的学员将获得由阿里巴巴商学院和新加坡零售管理学院所颁发的毕业证书。</p>
+
+<h4>Who Should Attend</h4>
+<p>This programme is suitable for Digital Professionals, Online Business Owners, E-Commerce Managers, Digital Marketers.</p>
+
+<h4>培训对象</h4>
+<p>电商专业人士, 电商创业者, 电商决策人, 数码营销人员。</p>
+
+<h4>Outline</h4>
+
+<b>Optimise Content Marketing Strategy and Master Short Video Creation Skills</b>
+<ul>
+	<li>Perform Social Media platform analysis &amp; account planning</li>
+  <li>Understand the definition, trends and significance of video marketing through case studies</li>
+  <li>Plan the content for scripts of brand videos, product videos, and promotional videos</li>
+  <li>Develop a creative video structure through copywriting and advertising techniques</li>
+  <li>Learn the before, during and after processes of making a video - preparations, techniques &amp; editing</li>
+  <li>Understand the rules and procedures to publish a completed video</li>
+  </ul>
+
+<b>Successful Live-streaming Operations</b>
+<ul>
+  <li>Know the reasons behind the popularity of live-streaming</li>
+  <li>Gain in-depth understanding of the elements for a successful live-streaming and the methods that can be replicated</li>
+  <li>Create a live-streaming session: a comprehensive review of the processes</li>
+  <li>Uncover the secrets to maximising an anchor’s advantage – ways to position yourself for the win</li>
+  </ul>
+
+<b>Scale up on your Social Media Platform Operations &amp; grow your Fans Economy</b>
+<ul>
+  <li>Learn ways to grow your fan base</li>
+  <li>Establish an effective mechanism to protect your fan base</li>
+  <li>How to manage and maintain your fan base</li>
+	 <li>Social Media Platform Matrix Operation</li>
+	<li>Learn tips on Paid Social Media Advertising</li>
+  </ul>
+  
+<h4>课程内容</h4>
+
+<b>内容营销与图文</b>
+<ul>
+  <li>内容营销的趋势</li>
+  <li>消费升级与用户升级</li>
+  <li>各内容营销新方法简介：直播、图文、短视频等</li>
+  <li>内容营销新策略</li>
+  <li>图文定位</li>
+  <li>图文创作技法</li>
+    </ul>
+
+<b>直播运营</b>
+<ul>
+  <li>直播火爆原因分析，深度拆解直播成功的元素，讲解可复制的方法</li>
+  <li>直播运营解析，从直播定位、直播策划、团队分工等，全方位讲解成功落地一场直播所需的</li>
+  <li>流程与细节</li>
+  <li>主播发挥自身优势的秘密：主播定位</li>
+    </ul>
+
+<b>短视频</b>
+<ul>
+  <li>通过案例解析视频营销的定义、趋势及意义</li>
+  <li>策划品牌视频、产品视频及活动视频的脚本内容</li>
+  <li>如何通过文案策划及广告创意来打造视频整体创意结构</li>
+  <li>制作视频的流程：拍摄前准备工作、拍摄中技巧、拍摄后的视频编辑</li>
+  <li>发布完整视频的规则及方法流程</li>
+  </ul>
+
+<b>粉丝经济</b>
+<ul>
+  <li>粉丝获取：粉丝增加的方法解析</li>
+  <li>粉丝维护：如何建立一个有效的机制，实现粉丝的有效管理</li>
+  <li>粉丝运营：如何进行粉丝画像与粉丝服务，高效运营粉丝，实现粉丝变现</li>
+  </ul>
+
+<b>内容营销工作坊</b>
+<ul>
+  <li>学员选择短视频、图文、直播等内容营销常见方式中的一种/多种，团队合作完成某个产品/品牌的内容营销作品</li>
+  <li>讲师进行指导和点评，让学员实操内容营销各工具，并在课程结束时产出团队作品</li>
+  </ul>
+  
+<h4>Duration</h4>
+<p>5 days (40 hours)</p>
+
+<h4>课程时间</h4>
+<p>5天 (40小时)</p>
+
+<h4>Fees (GST 8% - For payment made on/after 1 Jan 2023)</h4>
+
+<center>
+<table style="width:100%;">
+<tbody><tr>
+<th style="width:70%;">Category</th>
+<th style="width:30%:">Price</th>
+</tr>
+
+<tr>
+<td>Full Fee</td>
+<td>$6,156</td>
+</tr>
+
+<tr>
+  <td>Singapore Citizen<sup>0</sup> (70% funding)</td>
+<td>$1,829.70</td>
+</tr>
+	
+<tr>
+  <td>Singapore Citizen 40 years and above<sup>0,1</sup> (90% funding)</td>
+<td>$689.70</td>
+</tr>
+
+<tr>
+  <td>Singapore Citizen sponsored by SMEs<sup>0,2</sup> (90% funding)</td>
+<td>$689.70</td>
+</tr>
+
+<tr>
+  <td>Singapore PR (70% funding)</td>
+<td>$1,846.80</td>
+</tr>
+
+<tr>
+<td>Singapore PR sponsored by SMEs<sup>2</sup> (90% funding)</td>
+<td>$706.80</td>
+</tr>
+
+</tbody></table>
+</center>
+
+<small><i>Fees include prevailing GST
+<br>Funding Eligibility Period: 1 Oct 2021 to 30 Sep 2024
+<br><sup>0</sup>The increase of 1% GST on fees will be absorbed for Singapore Citizens in 2023
+<br><sup>1</sup>Fee is under the <a href="/services/consultancy/skillsfuture-midcareer-enhanced-subsidy">Mid-career Enhanced Subsidy(MCES)</a>
+<br><sup>2</sup>Fee is under the <a href="/services/consultancy/etss">Enhanced Training Support for SMEs (ETSS)</a><br>
+</i></small>
+	
+<h4>Additional Support</h4>
+
+<p>This course is also eligible for the following:</p>
+
+<b>For self-sponsored participants:</b>
+<ul>
+  <li><a href="/services/consultancy/skillsfuture-credit">SkillsFuture Credit</a></li>
+	<li><a href="/services/consultancy/wss-individuals">Workfare Skills Support (WSS) Scheme (For Individuals)</a></li>
+</ul>
+
+<b>For company-sponsored participants:</b>
+<ul>
+  <li><a href="/services/consultancy/absentee-payroll-ap">Absentee Payroll</a></li>
+	<li><a href="/services/consultancy/wss-companies">Workfare Skills Support (WSS) Scheme (For Companies)</a></li>
+ <li><a href="/services/consultancy/skillsfuture-enterprise-credit">SkillsFuture Enterprise Credit</a></li>
+  </ul>
+  
+<p>For more information about funding and support, click <a href="/services/consultancy">here.</a></p>
+
+ <div style="width:50%;float:left;"><center><a href="https://form.gov.sg/#!/5d9d56784073c8001282fd64" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Register Now</a></center></div>
+ 
+ <div style="width:50%;float:left;"><center><a href="https://form.gov.sg/602f2e2609513500125322dd" style="background-color:#06225e; border:white; color:white; padding: 10px 10px; text-align:center; display:inline-block; margin: 4px 2px; cursor:pointer;text-decoration:none;">Request for Brochure</a></center></div>

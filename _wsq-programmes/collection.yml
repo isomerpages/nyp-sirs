@@ -1,0 +1,20 @@
+collections:
+  wsq-programmes:
+    output: true
+    order:
+      - overview.md
+      - WSQ-full-qualification-programmes/.keep
+      - WSQ-full-qualification-programmes/overview.md
+      - WSQ-full-qualification-programmes/certificate-in-retail-operations.md
+      - WSQ-full-qualification-programmes/advanced-certificate-in-retail-operations.md
+      - WSQ-full-qualification-programmes/diploma-in-retail-e-commerce-omni-channel.md
+      - WSQ-full-qualification-programmes/diploma-in-retail-operations.md
+      - WSQ-full-qualification-programmes/specialist-diploma-in-retail-operations.md
+      - WSQ-certified-modular-programmes/.keep
+      - WSQ-certified-modular-programmes/overview.md
+      - WSQ-certified-modular-programmes/creating-an-unforgettable-customer-experience.md
+      - WSQ-certified-modular-programmes/mastering-the-art-of-selling-in-new-retail.md
+      - WSQ-certified-modular-programmes/maximise-digital-advertising-dollars-with-search-engine-marketing-sem.md
+      - WSQ-certified-modular-programmes/search-engine-optimization-seo-game-plan.md
+      - WSQ-certified-modular-programmes/the-art-and-science-of-visual-merchandising.md
+      - WSQ-certified-modular-programmes/unleash-the-power-of-social-media-marketing.md

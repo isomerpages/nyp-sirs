@@ -1,0 +1,12 @@
+logo: /images/SIRS LOGO_COLOUR_TRANSPARENT_BG.png
+links:
+  - title: About Us
+    collection: about-us
+  - title: Services
+    collection: services
+  - title: WSQ Programmes
+    collection: wsq-programmes
+  - title: Digital Programmes
+    collection: digital-programmes
+  - title: Success Stories & Articles
+    collection: success-and-articles

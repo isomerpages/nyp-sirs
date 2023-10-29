@@ -1,0 +1,59 @@
+title: Singapore Institute of Retail Studies
+title-abbreviated: NYP-SIRS
+description: Description
+url: https://www.sirs.edu.sg
+facebook-pixel: "1900890436905255"
+facebook-meta-tag: ""
+remote_theme: isomerpages/isomerpages-template@next-gen
+safe: false
+paginate: 12
+custom_css_path: /misc/custom.css
+custom_print_css_path: /assets/css/print.css
+exclude:
+  - travis-script.js
+  - .travis.yml
+  - README.md
+  - package.json
+  - package-lock.json
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - Gemfile
+  - Gemfile.lock
+favicon: /images/SIRS-Logo-Favicon.ico
+google_analytics: UA-118644499-7
+permalink: none
+baseurl: ""
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: page
+staging: https://staging.d3pdl260gnrnco.amplifyapp.com/
+prod: https://master.d3pdl260gnrnco.amplifyapp.com/
+plugins:
+  - jekyll-feed
+  - jekyll-assets
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-remote-theme
+colors:
+  primary-color: "#653d7a"
+  secondary-color: "#a23f7e"
+  media-colors:
+    - title: media-color-one
+      color: "#49759a"
+    - title: media-color-two
+      color: "#744d9f"
+    - title: media-color-three
+      color: "#00838f"
+    - title: media-color-four
+      color: "#00838f"
+    - title: media-color-five
+      color: "#00838f"
+shareicon: /images/isomer-logo.svg
+is_government: false
+google_analytics_ga4: G-W1J4Q9CF34
+linkedin-insights: ""
